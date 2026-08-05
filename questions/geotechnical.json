@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "seed_1",
+    "topic": "Geotechnical Engineering",
+    "question": "In a liquid limit test, the cup is dropped from a height of:",
+    "options": {
+      "a": "1.0 cm",
+      "b": "1.25 cm",
+      "c": "2.0 cm",
+      "d": "2.5 cm"
+    },
+    "answer": "a",
+    "explanation": "As per IS code/standard practice, the Casagrande cup dropped height is strictly set to 10 mm (1.0 cm)."
+  },
+  {
+    "id": "686",
+    "topic": "Geotechnical Engineering",
+    "question": "Adits are also known as:",
+    "options": {
+      "a": "Test pits",
+      "b": "Trenches",
+      "c": "Shafts",
+      "d": "Drifts"
+    },
+    "answer": "d",
+    "explanation": "Drifts are horizontal tunnels made in the hill-side to determine the nature and structure of the geological formation. Drifts are also known as adits."
+  },
+  {
+    "id": "687",
+    "topic": "Geotechnical Engineering",
+    "question": "Drifts are naturally made in:",
+    "options": {
+      "a": "Horizontal direction",
+      "b": "Vertical direction",
+      "c": "Inclined direction",
+      "d": "None"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "688",
+    "topic": "Geotechnical Engineering",
+    "question": "Shafts are naturally made in:",
+    "options": {
+      "a": "Horizontal direction",
+      "b": "Vertical direction",
+      "c": "Inclined direction",
+      "d": "None"
+    },
+    "answer": "b",
+    "explanation": "Shafts are large size vertical holes made in the geological formation."
+  },
+  {
+    "id": "689",
+    "topic": "Geotechnical Engineering",
+    "question": "The entrance of a tunnel is called:",
+    "options": {
+      "a": "Invert",
+      "b": "Heading",
+      "c": "Wall",
+      "d": "Portal"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "690",
+    "topic": "Geotechnical Engineering",
+    "question": "The bottom floor of a tunnel is called:",
+    "options": {
+      "a": "Invert",
+      "b": "Heading",
+      "c": "Wall",
+      "d": "Portal"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "691",
+    "topic": "Geotechnical Engineering",
+    "question": "The tunnels, artificial underground passages are constructed for:",
+    "options": {
+      "a": "Highways",
+      "b": "Railways",
+      "c": "Sewerage",
+      "d": "Water supply projects",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "692",
+    "topic": "Geotechnical Engineering",
+    "question": "For highways, tunneling is preferred if the open cut exceeds:",
+    "options": {
+      "a": "10 m depth",
+      "b": "15 m depth",
+      "c": "20 m depth",
+      "d": "25 m depth"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "693",
+    "topic": "Geotechnical Engineering",
+    "question": "In case of railways:",
+    "options": {
+      "a": "Detour round the hill is preferred",
+      "b": "Open cut is preferred",
+      "c": "Tunneling is preferred",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "694",
+    "topic": "Geotechnical Engineering",
+    "question": "A tunnel is found more advantageous as compared to the alternate routes because it:",
+    "options": {
+      "a": "Remains free from snow",
+      "b": "Reduces the cost by reducing the route distance",
+      "c": "Reduces the maintenance cost",
+      "d": "Avoids interference with surface rights",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "695",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following statements is not correct in respect of setting of an inclined tunnel?",
+    "options": {
+      "a": "Reference points are constructed at every 300 m",
+      "b": "The alignment is fixed from upper/lower apex point",
+      "c": "The level of the invert at the heading is marked by a tape",
+      "d": "Reference points are constructed on the roof of tunnels",
+      "e": "None of the above"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "696",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following statements is not correct in respect of setting of an inclined tunnel?",
+    "options": {
+      "a": "Reference points are constructed at every 300 m",
+      "b": "The alignment is fixed from upper/lower apex point",
+      "c": "The level of the invert at the heading is marked by a tape",
+      "d": "None of the above"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "697",
+    "topic": "Geotechnical Engineering",
+    "question": "For Broad Gauge (BG) single track, the section of the tunnel must have a width of:",
+    "options": {
+      "a": "4.2 m to 4.5 m",
+      "b": "4.5 m to 4.8 m",
+      "c": "4.9 m to 5.5 m",
+      "d": "5.5 m to 5.8 m"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "698",
+    "topic": "Geotechnical Engineering",
+    "question": "For BG single track railway, the height of the tunnel above top of rails should be:",
+    "options": {
+      "a": "5.5 m to 5.8 m",
+      "b": "5.8 m to 6.2 m",
+      "c": "6.7 m to 7.3 m",
+      "d": "7.3 m to 7.5 m"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "699",
+    "topic": "Geotechnical Engineering",
+    "question": "The difference of heights of tunnels above rail tops of BG and MG (Meter Gauge) tracks is kept:",
+    "options": {
+      "a": "0.30 m",
+      "b": "0.45 m",
+      "c": "0.60 m",
+      "d": "0.75 m"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "700",
+    "topic": "Geotechnical Engineering",
+    "question": "For tunnels exceeding 300 m in length, the grade should be provided below:",
+    "options": {
+      "a": "50% of the ruling gradient",
+      "b": "60% of the ruling gradient",
+      "c": "75% of the ruling gradient",
+      "d": "80% of the ruling gradient"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "701",
+    "topic": "Geotechnical Engineering",
+    "question": "The advantages of providing a pair of tunnels as compared to only one large highway tunnel is:",
+    "options": {
+      "a": "Economy in cost of construction",
+      "b": "Avoidance of head on collisions",
+      "c": "Provision of separate exit and entrance of two traffic streams",
+      "d": "Facility in carrying out repairs",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "702",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following methods is generally adopted for tunneling in firm ground?",
+    "options": {
+      "a": "Full face method",
+      "b": "Top heading and benching method",
+      "c": "Drift method",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "703",
+    "topic": "Geotechnical Engineering",
+    "question": "For full face method, the excavation to be done is generally divided into:",
+    "options": {
+      "a": "Two sections",
+      "b": "Three sections",
+      "c": "Four sections",
+      "d": "Five sections"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "704",
+    "topic": "Geotechnical Engineering",
+    "question": "Fore poling method is generally adopted for tunneling in:",
+    "options": {
+      "a": "Soft ground",
+      "b": "Firm ground",
+      "c": "Running ground",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "705",
+    "topic": "Geotechnical Engineering",
+    "question": "Railway tunnels are generally:",
+    "options": {
+      "a": "Polycentric",
+      "b": "Rectangular",
+      "c": "Parabolic",
+      "d": "Circular",
+      "e": "None of the above"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "706",
+    "topic": "Geotechnical Engineering",
+    "question": "In case of drift method of tunneling, the drift may be excavated at:",
+    "options": {
+      "a": "The center",
+      "b": "The bottom",
+      "c": "The top",
+      "d": "The side",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "707",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following methods of tunneling does not require the use of timbering?",
+    "options": {
+      "a": "Liner plate method",
+      "b": "Shield method",
+      "c": "Compressed air method",
+      "d": "Mechanical tunneler i.e. mole method",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "708",
+    "topic": "Geotechnical Engineering",
+    "question": "The length of needle beam used in needle beam method of tunneling is usually:",
+    "options": {
+      "a": "7 m",
+      "b": "2 m to 4 m",
+      "c": "2.5 m to 6 m",
+      "d": "4 m to 7 m",
+      "e": "5 m to 6 m"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "709",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following statements is not correct with regard to heading and benching method of tunneling?",
+    "options": {
+      "a": "Driving of tunnel is done in two portions of its section",
+      "b": "Driving the top portion is done in advance of the bottom portion",
+      "c": "After driving the top portion 3 m to 3.5 m holes are drilled into the head and bench",
+      "d": "The holes in head and bench are loaded together with explosive for blasting",
+      "e": "Firing of head holes is done just before the bench holes are fired"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "710",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following statements is not correct for heading and benching method of tunneling?",
+    "options": {
+      "a": "Drilling and mucking can be done simultaneously",
+      "b": "Benching provides a platform for working on heading",
+      "c": "Removal of muck from the heading is very easy",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "711",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the correct statement regarding drilling a tunnel from the following:",
+    "options": {
+      "a": "Holes are drilled by pneumatically operated rock drills",
+      "b": "One drill is required for each 4 to 5 m² force area",
+      "c": "The diameter of the bore hole at the deepest point should be 6 mm more than the diameter of the cartridge",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "712",
+    "topic": "Geotechnical Engineering",
+    "question": "The most commonly adopted pattern cut holes is:",
+    "options": {
+      "a": "Horizontal wedge cut",
+      "b": "Pyramid cut",
+      "c": "Fan cut",
+      "d": "V cut",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "713",
+    "topic": "Geotechnical Engineering",
+    "question": "To attain the required shape of the tunnel section, we use:",
+    "options": {
+      "a": "Easers",
+      "b": "Trimmers",
+      "c": "Cut holes",
+      "d": "Chisels"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "714",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the explosive used for tunneling in soft rocks from the following:",
+    "options": {
+      "a": "Blasting gelatine",
+      "b": "Special gelatine",
+      "c": "Ammonia dynamite",
+      "d": "Semi gelatine"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "715",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the correct statement from the following during tunnel excavation:",
+    "options": {
+      "a": "Oxygen should not be less than 19.5%",
+      "b": "Carbon dioxide should not be more than 0.5%",
+      "c": "Hydrogen sulphide should not be more than 0.001%",
+      "d": "Carbon monoxide should not be more than 0.01%",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "716",
+    "topic": "Geotechnical Engineering",
+    "question": "The concentration of the dust particles of the size 0.5-5 microns adjacent to the working face should not be more than:",
+    "options": {
+      "a": "200 particles/cm³",
+      "b": "250 particles/cm³",
+      "c": "300 particles/cm³",
+      "d": "450 particles/cm³",
+      "e": "400 particles/cm³"
+    },
+    "answer": "d",
+    "explanation": "If no 450 is available, go for 400 particles/cm³."
+  },
+  {
+    "id": "717",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following linings is suitable for shield driven tunnels particularly in the subaqueous regions?",
+    "options": {
+      "a": "Brick lining",
+      "b": "Stone lining",
+      "c": "Timber lining",
+      "d": "Cast iron lining",
+      "e": "Concrete lining"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "718",
+    "topic": "Geotechnical Engineering",
+    "question": "Concrete lining is provided concurrently with the driving operation in case of:",
+    "options": {
+      "a": "Rock terrain",
+      "b": "Soft rock",
+      "c": "Running soil",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "719",
+    "topic": "Geotechnical Engineering",
+    "question": "High pressure grouting is generally resorted for concrete in the lining if the rock strata is:",
+    "options": {
+      "a": "Highly fissured",
+      "b": "Poor",
+      "c": "Likely to get seepage of water",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "720",
+    "topic": "Geotechnical Engineering",
+    "question": "The method of draining in the tunnels is generally known as:",
+    "options": {
+      "a": "Fore draining",
+      "b": "Dewatering",
+      "c": "Permanent drainage",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "721",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following methods is adopted for permanent drainage of tunnels?",
+    "options": {
+      "a": "Provision of longitudinal drains",
+      "b": "Continuous open drains",
+      "c": "Concrete lining",
+      "d": "Grouting with cement or chemicals",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "722",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the mechanical ventilation method used for tunnels from the following:",
+    "options": {
+      "a": "Blowing fresh air by ducts to the face of tunnel",
+      "b": "Exhausting foul air by ducts from the face of the tunnel and permitting fresh air through the tunnel",
+      "c": "Blowing fresh air and exhausting foul air by ducts",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "723",
+    "topic": "Geotechnical Engineering",
+    "question": "For hauling muck from the tunnel, the following type of muck-car is used:",
+    "options": {
+      "a": "Muck box",
+      "b": "Balle-ship",
+      "c": "Side dump car",
+      "d": "U bottom",
+      "e": "All of the above"
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "724",
+    "topic": "Geotechnical Engineering",
+    "question": "In the wooden bulkhead used for mucking in steep grade tunnels:",
+    "options": {
+      "a": "One opening is provided",
+      "b": "Two openings are provided",
+      "c": "Three openings are provided",
+      "d": "No opening is provided"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "725",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following methods is generally used for the layout of the muck-car tracks?",
+    "options": {
+      "a": "The grass hopper method",
+      "b": "Passing track method",
+      "c": "The cherry picker",
+      "d": "California crossing",
+      "e": "Dixon conveyor",
+      "f": "All of the above"
+    },
+    "answer": "f",
+    "explanation": ""
+  },
+  {
+    "id": "726",
+    "topic": "Geotechnical Engineering",
+    "question": "An overhead track on a large truss frame is required in case of car changer by:",
+    "options": {
+      "a": "The grass hopper method",
+      "b": "The passing track method",
+      "c": "California crossing method",
+      "d": "Dixon conveyor method"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "727",
+    "topic": "Geotechnical Engineering",
+    "question": "In full face method of constructing tunnels, the first operation relates to:",
+    "options": {
+      "a": "Removal of bottom portion",
+      "b": "Excavation of one drift in the center",
+      "c": "Removal of top portion",
+      "d": "Excavation being done along the periphery"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "728",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following is a component of a shield for tunneling?",
+    "options": {
+      "a": "Liner plate",
+      "b": "Trench jack",
+      "c": "Stiffener",
+      "d": "Cutting edge"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "729",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following is not a component of the shield?",
+    "options": {
+      "a": "Propelling jacks",
+      "b": "Liner plate",
+      "c": "Hood",
+      "d": "Tail"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "730",
+    "topic": "Geotechnical Engineering",
+    "question": "Drift method of tunneling is used to construct tunnels in:",
+    "options": {
+      "a": "Soft grounds",
+      "b": "Rock",
+      "c": "Self supporting grounds",
+      "d": "Broken grounds"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "731",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following tunneling methods is used for laying underground sewers?",
+    "options": {
+      "a": "Needle beam method",
+      "b": "Army method",
+      "c": "German method",
+      "d": "Italian method"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "732",
+    "topic": "Geotechnical Engineering",
+    "question": "The correct sequence of drilling equipment for increasing size of holes in tunnels is:",
+    "options": {
+      "a": "Wagon drill, churn drill, shot drill",
+      "b": "Wagon drill, shot drill, churn drill",
+      "c": "Shot drill, churn drill, wagon drill",
+      "d": "Churn drill, wagon drill, shot drill"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "733",
+    "topic": "Geotechnical Engineering",
+    "question": "The underground routes or passages driven through the ground without disturbing overlaying soil cover are called:",
+    "options": {
+      "a": "Bridges",
+      "b": "Passages",
+      "c": "Tunnels",
+      "d": "Sub-routes"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "734",
+    "topic": "Geotechnical Engineering",
+    "question": "Type of tunnels which are excavated to divert the traffic load of whatsoever type from surface to subsurface routes:",
+    "options": {
+      "a": "Traffic tunnels",
+      "b": "Hydropower tunnels",
+      "c": "Public utility tunnels",
+      "d": "Delivery tunnels"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "735",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the tunnel which is not a sub-group of traffic tunnels:",
+    "options": {
+      "a": "Railway tunnels",
+      "b": "Sewage tunnels",
+      "c": "Highway tunnels",
+      "d": "Pedestrian tunnels"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "736",
+    "topic": "Geotechnical Engineering",
+    "question": "Tunnels associated with hydropower generation are called:",
+    "options": {
+      "a": "Energy tunnels",
+      "b": "Power tunnels",
+      "c": "Generation tunnels",
+      "d": "Hydropower tunnels"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "737",
+    "topic": "Geotechnical Engineering",
+    "question": "Circular section of tunnels is not suitable for:",
+    "options": {
+      "a": "Carrying water",
+      "b": "Non-cohesive soils",
+      "c": "Tunnels driven by shield method",
+      "d": "Placement of concrete lining"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "738",
+    "topic": "Geotechnical Engineering",
+    "question": "A good blast with a good yield is obtained if the cut hole is:",
+    "options": {
+      "a": "Normal to face",
+      "b": "Inclined at 45° to the face",
+      "c": "Inclined at 15° to the face",
+      "d": "Inclined at 30° to the face"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "739",
+    "topic": "Geotechnical Engineering",
+    "question": "As compared to a single free face, if a charge of explosive is placed equidistance from two faces then the yield:",
+    "options": {
+      "a": "Remains same",
+      "b": "Decreases",
+      "c": "Increases by 2.25 times",
+      "d": "Increased by 3 times"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "740",
+    "topic": "Geotechnical Engineering",
+    "question": "Drifters can be used to drill:",
+    "options": {
+      "a": "Only up holes",
+      "b": "Only down holes",
+      "c": "Horizontal or up holes",
+      "d": "Horizontal, down or up holes"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "741",
+    "topic": "Geotechnical Engineering",
+    "question": "If N is the number of shafts used, then the total number of faces available for attacking the excavation and construction in tunnels are:",
+    "options": {
+      "a": "2N",
+      "b": "N+2",
+      "c": "2N+1",
+      "d": "2N+2"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "742",
+    "topic": "Geotechnical Engineering",
+    "question": "In compressed air tunneling, the volume of free air provided is:",
+    "options": {
+      "a": "6 m³ per second per m² of face area",
+      "b": "6 m³ per minute per m² of face area",
+      "c": "20 m³ per second per m² of face area",
+      "d": "6 m³ per hour per m² of face area"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "743",
+    "topic": "Geotechnical Engineering",
+    "question": "If D is the diameter of tunnel in meters, then the thickness of lining in mm, as per the empirical formula is given by:",
+    "options": {
+      "a": "42D",
+      "b": "82D",
+      "c": "104D",
+      "d": "124D"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "744",
+    "topic": "Geotechnical Engineering",
+    "question": "Ribs are used for strengthening and stiffening the liner plate for tunnels of diameter greater than:",
+    "options": {
+      "a": "2 m",
+      "b": "3 m",
+      "c": "4 m",
+      "d": "5 m"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "745",
+    "topic": "Geotechnical Engineering",
+    "question": "The most suitable soil for compressed air tunneling is:",
+    "options": {
+      "a": "Silt",
+      "b": "Sand",
+      "c": "Clay",
+      "d": "Gravel"
+    },
+    "answer": "c",
+    "explanation": "The worst soil for tunneling by compressed air tunneling is gravel, as it is very porous and permits escape of air, and makes it difficult to sustain sufficient working pressure inside the tunnel. Clay is the ideal soil for tunneling by compressed air methods."
+  },
+  {
+    "id": "746",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following methods of tunneling is used for long tunnels at great depths?",
+    "options": {
+      "a": "Army method",
+      "b": "Needle beam method",
+      "c": "Austrian method",
+      "d": "English method"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "747",
+    "topic": "Geotechnical Engineering",
+    "question": "Tunneling is required in case of:",
+    "options": {
+      "a": "Laying pavement",
+      "b": "Laying road",
+      "c": "On ground passage",
+      "d": "Underground passage"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "748",
+    "topic": "Geotechnical Engineering",
+    "question": "The line at which the tunnel wall breaks from sloping outward can be given as:",
+    "options": {
+      "a": "Spring line",
+      "b": "Oval line",
+      "c": "Center line",
+      "d": "Middle line"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "749",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following should be considered while aligning a tunnel?",
+    "options": {
+      "a": "Atmospheric conditions",
+      "b": "Hydrological conditions",
+      "c": "Climatic conditions",
+      "d": "Surface limits"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "750",
+    "topic": "Geotechnical Engineering",
+    "question": "Which method can be adopted if full excavation is not possible?",
+    "options": {
+      "a": "Back bearing method",
+      "b": "Plotting",
+      "c": "Trenching",
+      "d": "Benching"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  
+  {
+    "id": "1",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following statements is not correct for heading and benching method of tunnelling ?",
+    "options": {
+      "a": "Drilling and mucking can be done simultaneously",
+      "b": "Benching provides a platform for working on heading",
+      "c": "Removal of muck from the heading is very easy",
+      "d": "None of these."
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "2",
+    "topic": "Geotechnical Engineering",
+    "question": "The difference of heights of the tunnels above rail tops of BG and MG tracks is kept",
+    "options": {
+      "a": "0.30 m",
+      "b": "0.45 m",
+      "c": "0.60 m",
+      "d": "0.75 m"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "3",
+    "topic": "Geotechnical Engineering",
+    "question": "In case of drift method of tunnelling, the drift may be excavated at",
+    "options": {
+      "a": "the centre",
+      "b": "the bottom",
+      "c": "the top",
+      "d": "the side",
+      "e": "All of the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "4",
+    "topic": "Geotechnical Engineering",
+    "question": "A tunnel is found more advantageous as compared to the alternate routes because it:",
+    "options": {
+      "a": "remains free from snow",
+      "b": "reduces the cost by reducing the route distance",
+      "c": "reduces the maintenance cost",
+      "d": "avoids interference with surface rights",
+      "e": "All the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "5",
+    "topic": "Geotechnical Engineering",
+    "question": "For B.G. single track railway, the height of the tunnel above top of rails should be",
+    "options": {
+      "a": "5.5 m to 5.8 m",
+      "b": "5.8 m to 6.2 m",
+      "c": "6.7 m to 7.3 m",
+      "d": "7.3 m to 7.5 m"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "6",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the correct statement regarding drilling a tunnel from the following:",
+    "options": {
+      "a": "Holes are drilled by pneumatically operated rock drills",
+      "b": "One drill is required for each 4 to 5 m² force area",
+      "c": "The diameter of the bore hole at the deepest point should be 6 mm more than the diameter of the cartridge",
+      "d": "All of the above."
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "7",
+    "topic": "Geotechnical Engineering",
+    "question": "For tunnels exceeding 300 m in length, the grade should be provided below",
+    "options": {
+      "a": "50% of the ruling gradient",
+      "b": "60% of the ruling gradient",
+      "c": "75% of the ruling gradient",
+      "d": "80% of the ruling gradient."
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "8",
+    "topic": "Geotechnical Engineering",
+    "question": "The method of draining in the tunnels, is generally known as",
+    "options": {
+      "a": "foredrainage",
+      "b": "dewatering",
+      "c": "permanent drainage",
+      "d": "All of the above."
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "9",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the correct statement from the following during tunnel excavation,",
+    "options": {
+      "a": "Oxygen should not be less than 19.5%",
+      "b": "Carbondioxide should not be more than 0.5%",
+      "c": "Hydrogen sulphide should not be more than 0.001%",
+      "d": "Carbon mono-oxide should not be more than 0.01%",
+      "e": "All of the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "10",
+    "topic": "Geotechnical Engineering",
+    "question": "To attain the required shape of the tunnel section, we use :",
+    "options": {
+      "a": "easers",
+      "b": "trimmers",
+      "c": "cut holes",
+      "d": "chisels."
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "11",
+    "topic": "Geotechnical Engineering",
+    "question": "The most commonly adopted pattern of cut holes is :",
+    "options": {
+      "a": "horizontal wedge cut",
+      "b": "pyramid cut",
+      "c": "fan cut",
+      "d": "V-cut",
+      "e": "All the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "12",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following linings is suitable for shield driven tunnels particularly in the subaqueous regions :",
+    "options": {
+      "a": "Brick lining",
+      "b": "stone lining",
+      "c": "timber line",
+      "d": "cast iron lining",
+      "e": "concrete lining."
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "13",
+    "topic": "Geotechnical Engineering",
+    "question": "In case of railways,",
+    "options": {
+      "a": "a detour round the hill is preferred",
+      "b": "a open cut is preferred",
+      "c": "tunnelling is preferred",
+      "d": "All the above."
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "14",
+    "topic": "Geotechnical Engineering",
+    "question": "The following tunnels were constructed in different countries for different purposes: 1. Emperor Claudius built the first Roman tunnel 2. The first highway tunnel was constructed in Hungary 3. The first underground railway tunnel was constructed in Great Britain 4. The first navigational tunnel was constructed in France. The correct chronological development of these tunnels is:",
+    "options": {
+      "a": "4 1 3 2",
+      "b": "1 4 2 3",
+      "c": "2 3 1 4",
+      "d": "3 2 4 1"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "15",
+    "topic": "Geotechnical Engineering",
+    "question": "The following operations are generally employed for tunnelling in hard rock: 1. Removing ground water, 2. Loading holes and firing the explosive 3. Setting up and drilling 4. Grouting and lining 5. Removing muck 6. Ventilation and removing explosion dust. The correct sequence is :",
+    "options": {
+      "a": "3 2 6 5 1 4",
+      "b": "3 4 6 1 5 2",
+      "c": "4 1 2 3 6 5",
+      "d": "5 4 2 1 3 6"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "16",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the mechanical ventilation method used for tunnels from the following:",
+    "options": {
+      "a": "blowing fresh air by ducts to the face of tunnel",
+      "b": "exhausting foul air by ducts from the face of the tunnel and permitting fresh air through the tunnel",
+      "c": "blowing fresh air and exhausting foul air by ducts",
+      "d": "all the above."
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "17",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following methods of tunnelling does not require the use of time bearing :",
+    "options": {
+      "a": "Linear plate method",
+      "b": "Shield method",
+      "c": "Compressed air method",
+      "d": "Mechanical tunneler i.e. mole method",
+      "e": "All the these."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "18",
+    "topic": "Geotechnical Engineering",
+    "question": "For highways, tunnelling is preferred to if the open cut exceeds :",
+    "options": {
+      "a": "10 metres depth",
+      "b": "15 metres depth",
+      "c": "20 metres depth",
+      "d": "25 metres depth."
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "19",
+    "topic": "Geotechnical Engineering",
+    "question": "The following operations are required for tunnelling in rocky terrain: 1. Removing the foul gases 2. Marking the tunnel profile 3. Setting up and drilling 4. Checking misfire 5. Mucking. The correct sequence is :",
+    "options": {
+      "a": "1 2 3 4 5",
+      "b": "2 3 5 4 1",
+      "c": "4 2 1 3 5",
+      "d": "2 3 1 4 5"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "20",
+    "topic": "Geotechnical Engineering",
+    "question": "The advantages of providing a pair of tunnels as compared to only one large highway tunnel is :",
+    "options": {
+      "a": "economy in cost of construction",
+      "b": "avoidance of head on collisions",
+      "c": "provision of separate exit and entrance of two traffic streams",
+      "d": "facility in carrying out repairs",
+      "e": "All the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "21",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following statements is not correct in respect of setting of an inclined tunnel:",
+    "options": {
+      "a": "Reference points are constructed at every 300 m.",
+      "b": "The alignment is fixed from upper/lower apex point.",
+      "c": "The level of the invert at the heading is marked by a tape.",
+      "d": "Reference points are constructed on the roof of tunnels",
+      "e": "None of the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "22",
+    "topic": "Geotechnical Engineering",
+    "question": "Forepoling method is generally adopted for tunnelling in :",
+    "options": {
+      "a": "soft ground",
+      "b": "firm ground",
+      "c": "running ground",
+      "d": "None of these."
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "23",
+    "topic": "Geotechnical Engineering",
+    "question": "Concrete lining is provided concurrently with the driving operation in case of",
+    "options": {
+      "a": "rock terrain",
+      "b": "soft rock",
+      "c": "running soil",
+      "d": "none of these."
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "24",
+    "topic": "Geotechnical Engineering",
+    "question": "The concentration of the dust particles of the size 0.5 to 5 microns adjacent to the working face should not be more than",
+    "options": {
+      "a": "200 particles/cm³",
+      "b": "250 particles/cm³",
+      "c": "300 particles/cm³",
+      "d": "450 particles/cm³",
+      "e": "400 particles/cm³"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "25",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following statements is not correct with regard to heading and benching method of tunnelling.",
+    "options": {
+      "a": "Driving of tunnel is done in two portions of its section",
+      "b": "Driving the top portion is done in advance of the bottom portion.",
+      "c": "After driving the top portion 3 m to 3.5 m holes are drilled into the head and bench.",
+      "d": "The holes in head and bench are loaded together with explosive for blasting.",
+      "e": "Firing of head holes is done just before the bench holes are fired."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "26",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following methods is generally used for the layout of the muck-car tracks",
+    "options": {
+      "a": "the grass hopper method",
+      "b": "passing track method",
+      "c": "the cherry picker",
+      "d": "California crossing, Dixon conveyor",
+      "e": "All the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "27",
+    "topic": "Geotechnical Engineering",
+    "question": "For transferring the tunnel alignment through shafts, we adopt the following steps: 1. Hanging two or more plumb lines in the shaft 2. Determining the bearing of the plumb lines i.e. plumb plane 3. Suspending a 35 kg weight by each plumb line 4. Immersing the weights of both the plumb lines in the buckets containing water. The correct sequence of steps is :",
+    "options": {
+      "a": "1 2 3 4",
+      "b": "4 3 2 1",
+      "c": "1 3 2 4",
+      "d": "2 1 4 3"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "28",
+    "topic": "Geotechnical Engineering",
+    "question": "For initial surveys of tunnels, the following activities are involved: 1. Marking portal point with concrete pillars on the ground 2. Marking tunnel obligatory points on the topographical maps 3. Preliminary setting of the tunnel on the topographical Survey of India maps 4. Driving lines between the fixed obligatory points. The correct sequence of the activities is :",
+    "options": {
+      "a": "3 2 4 1",
+      "b": "1 2 3 4",
+      "c": "4 3 1 2",
+      "d": "2 4 3 1"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "29",
+    "topic": "Geotechnical Engineering",
+    "question": "For full face method, the excavation to be done is generally divided into",
+    "options": {
+      "a": "two sections",
+      "b": "three sections",
+      "c": "four sections",
+      "d": "five sections."
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "30",
+    "topic": "Geotechnical Engineering",
+    "question": "The tunnels, the artificial underground passages are constructed for :",
+    "options": {
+      "a": "highways",
+      "b": "railways",
+      "c": "sewerage",
+      "d": "water supply project",
+      "e": "All the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "31",
+    "topic": "Geotechnical Engineering",
+    "question": "In the wooded bulk-head, used for mucking in steep grade tunnels,",
+    "options": {
+      "a": "one opening is provided",
+      "b": "two openings are provided",
+      "c": "three openings are provided",
+      "d": "no opening is provided."
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "32",
+    "topic": "Geotechnical Engineering",
+    "question": "Railway tunnels, are generally",
+    "options": {
+      "a": "polycentric",
+      "b": "rectangular",
+      "c": "parabolic",
+      "d": "circular",
+      "e": "none of these."
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "33",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the explosive used for tunnelling in soft rocks from the following :",
+    "options": {
+      "a": "blasting gelatine",
+      "b": "special gelatine",
+      "c": "ammonia dynamite",
+      "d": "semi-gelatine."
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "34",
+    "topic": "Geotechnical Engineering",
+    "question": "The cut of a tunnel face is shown in given figure. This is called",
+    "options": {
+      "a": "Michigan cut",
+      "b": "Burn cut",
+      "c": "Fan cut",
+      "d": "Horizontal cut."
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "35",
+    "topic": "Geotechnical Engineering",
+    "question": "For B.G. single track, the section of the tunnel must have a width",
+    "options": {
+      "a": "4.2 m to 4.5 m",
+      "b": "4.5 m to 4.8 m",
+      "c": "4.9 m to 5.5 m",
+      "d": "5.5 m to 5.8 m"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "36",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following methods is generally adopted for tunnelling in firm ground",
+    "options": {
+      "a": "Full face method",
+      "b": "Top heading and benching method",
+      "c": "Drift method",
+      "d": "All the above."
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "37",
+    "topic": "Geotechnical Engineering",
+    "question": "An overhead track on a large truss frame is required in case of car changer by",
+    "options": {
+      "a": "the grass hopper method",
+      "b": "the passing track method",
+      "c": "California crossing method",
+      "d": "Dixon conveyor method."
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "38",
+    "topic": "Geotechnical Engineering",
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "The topographical maps of the Survey of India are useful in the mountainous region for tunnelling.",
+      "b": "The height point on the ridge is fixed with the help of reciprocal ranging",
+      "c": "The accuracy of 1 in 10,000 is required for planimetric control",
+      "d": "1 second theodolite is used for angular measurement to achieve an angular error of 15 N where N is number of angles",
+      "e": "All the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "39",
+    "topic": "Geotechnical Engineering",
+    "question": "In the given figure drill holes, heading, mucking and benching are numbered as 1, 2, 3, 4. The correct sequence is :",
+    "options": {
+      "a": "4 1 2 3",
+      "b": "1 2 3 4",
+      "c": "4 1 3 2",
+      "d": "3 4 1 3"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "40",
+    "topic": "Geotechnical Engineering",
+    "question": "The length of the needle beam used in needle beam method of tunnelling is usually",
+    "options": {
+      "a": "2 m to 4 m",
+      "b": "2.5 m to 6 m",
+      "c": "4 m to 7 m",
+      "d": "5 m to 6 m"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "41",
+    "topic": "Geotechnical Engineering",
+    "question": "High pressure grouting is generally restored for concreting in the lining if the rock strata is:",
+    "options": {
+      "a": "highly fissured",
+      "b": "poor",
+      "c": "likely to get seepage of water",
+      "d": "All of the above."
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "42",
+    "topic": "Geotechnical Engineering",
+    "question": "For hauling muck from the tunnel, the following type of muck-car is used :",
+    "options": {
+      "a": "muck box",
+      "b": "balle-ship",
+      "c": "side dump car",
+      "d": "U-bottom",
+      "e": "All of these."
+    },
+    "answer": "e",
+    "explanation": ""
+  },
+  {
+    "id": "43",
+    "topic": "Geotechnical Engineering",
+    "question": "Which one of the following methods is adopted for permanent drainage of tunnels :",
+    "options": {
+      "a": "provision of longitudinal drains",
+      "b": "continuous open drains",
+      "c": "concrete lining",
+      "d": "grouting with cement or chemicals",
+      "e": "All the above."
+    },
+    "answer": "e",
+    "explanation": ""
+  }
+
+]
