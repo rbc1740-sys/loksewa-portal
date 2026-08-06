@@ -1,0 +1,4607 @@
+﻿[
+  {
+    "qn": "1",
+    "topic": "Structural Engineering",
+    "question": "The direction of shear stress is",
+    "options": {
+      "a": "horizontal",
+      "b": "vertical",
+      "c": "both (a) and (b) above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "To maintain equilibrium, a shear stress on any plane is always accompanied by an equal complementary shear stress on the perpendicular plane."
+  },
+  {
+    "qn": "2",
+    "topic": "Structural Engineering",
+    "question": "The direction of normal stress is",
+    "options": {
+      "a": "parallel to failure plane",
+      "b": "perpendicular to failure plane",
+      "c": "both (a) and (b) above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Normal stress acts perpendicular to the surface area of a cross-section."
+  },
+  {
+    "qn": "3",
+    "topic": "Structural Engineering",
+    "question": "The actual numerical value of tensile stress is ............... than the theoretical stress (engineering stress)",
+    "options": {
+      "a": "less",
+      "b": "more",
+      "c": "equal",
+      "d": "any of the above"
+    },
+    "answer": "b",
+    "explanation": "Actual (true) stress uses the instantaneous area, which decreases during tension, whereas engineering stress uses the original area."
+  },
+  {
+    "qn": "4",
+    "topic": "Structural Engineering",
+    "question": "Allowable stress in steel is less than",
+    "options": {
+      "a": "permissible stress",
+      "b": "working stress",
+      "c": "yield stress",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Allowable stress is determined by dividing the yield stress by a factor of safety, so it is always lower than the yield stress."
+  },
+  {
+    "qn": "5",
+    "topic": "Structural Engineering",
+    "question": "According to Hook's law, which one is wrong ?",
+    "options": {
+      "a": "ÏƒÎ±E",
+      "b": "Ïƒ / E = constant",
+      "c": "MoE Ã— Strain = Stress",
+      "d": "MoE Ã— Stress = Strain"
+    },
+    "answer": "d",
+    "explanation": "Hooke's Law states Stress = Modulus Ã— Strain. Therefore, Modulus Ã— Stress does not equal Strain."
+  },
+  {
+    "qn": "6",
+    "topic": "Structural Engineering",
+    "question": "Stress is directly proportional to strain within elastic limit is given by",
+    "options": {
+      "a": "Archimedes",
+      "b": "Hooke's",
+      "c": "Newton",
+      "d": "Galileo"
+    },
+    "answer": "b",
+    "explanation": "Robert Hooke discovered that for many materials, the extension is proportional to the applied load within the limit of proportionality."
+  },
+  {
+    "qn": "7",
+    "topic": "Structural Engineering",
+    "question": "Elasticity of a body is defined",
+    "options": {
+      "a": "the property by which a body returns to its original shape after removal of load",
+      "b": "the property by which a body don't returns to its original shape after removal of load",
+      "c": "the property by which a body undergoes deformation even after removal of load",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Elasticity is the physical property that allows a material to regain its original dimensions after the external forces are removed."
+  },
+  {
+    "qn": "8",
+    "topic": "Structural Engineering",
+    "question": "Elasticity of a body is",
+    "options": {
+      "a": "the ratio of stress to strain",
+      "b": "the resistance to the force acting",
+      "c": "large deformability",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "In a physical sense, elasticity represents the resistance of a body to the forces trying to deform it."
+  },
+  {
+    "qn": "9",
+    "topic": "Structural Engineering",
+    "question": "Permanent set is",
+    "options": {
+      "a": "the force which acts permanently on the body",
+      "b": "irrecoverable deformation in the body",
+      "c": "the shape of the member just after completion of construction",
+      "d": "ratio of poisson's ratio to young's modulus"
+    },
+    "answer": "b",
+    "explanation": "Permanent set is the plastic deformation that remains in a material even after the removal of the applied stress."
+  },
+  {
+    "qn": "10",
+    "topic": "Structural Engineering",
+    "question": "Stress in a member subjected to a force is",
+    "options": {
+      "a": "the ratio of modulus of elasticity to strain",
+      "b": "the product of modulus of elasticity and strain",
+      "c": "the resistance to the force acting",
+      "d": "sum of strain and modulus of elasticity"
+    },
+    "answer": "b",
+    "explanation": "From Hooke's Law (Ïƒ = EÎµ), stress is the product of the Modulus of Elasticity and the strain."
+  },
+  {
+    "qn": "11",
+    "topic": "Structural Engineering",
+    "question": "Young's modulus is the ratio of the normal stress to the",
+    "options": {
+      "a": "normal strain within elastic limit",
+      "b": "normal strain within proportional limit",
+      "c": "reciprocal of normal strain within elastic limit",
+      "d": "normal strain at yield point"
+    },
+    "answer": "b",
+    "explanation": "Young's Modulus is defined as the constant of proportionality between stress and strain within the proportional limit."
+  },
+  {
+    "qn": "12",
+    "topic": "Structural Engineering",
+    "question": "Modulus of rigidity is the ratio of",
+    "options": {
+      "a": "normal stress to normal strain",
+      "b": "shear stress to shear strain",
+      "c": "lateral stress to lateral strain",
+      "d": "normal strain to normal stress"
+    },
+    "answer": "b",
+    "explanation": "Modulus of rigidity (G) is the ratio of shear stress to the corresponding shear strain."
+  },
+  {
+    "qn": "13",
+    "topic": "Structural Engineering",
+    "question": "In any member of structure system, the strain does not effect the size of member",
+    "options": {
+      "a": "lateral strain",
+      "b": "volumetric strain",
+      "c": "shear strain",
+      "d": "longitudinal strain"
+    },
+    "answer": "c",
+    "explanation": "Shear strain involves a change in shape (angle) but does not result in a change in the volume or physical dimensions of the sides."
+  },
+  {
+    "qn": "14",
+    "topic": "Structural Engineering",
+    "question": "Plasticity of a body is",
+    "options": {
+      "a": "the ratio of stress to strain",
+      "b": "same as property of elasticity",
+      "c": "opposite property of elasticity",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Plasticity refers to permanent deformation, which is the functional opposite of the shape-recovery property of elasticity."
+  },
+  {
+    "qn": "15",
+    "topic": "Structural Engineering",
+    "question": "The ratio of lateral strain to longitudinal strain is called",
+    "options": {
+      "a": "poisson's ratio",
+      "b": "stress",
+      "c": "Hook's law",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Poisson's ratio is the ratio of transverse strain to axial strain."
+  },
+  {
+    "qn": "16",
+    "topic": "Structural Engineering",
+    "question": "The product EI is called",
+    "options": {
+      "a": "flexural rigidity",
+      "b": "torsional rigidity",
+      "c": "second moment of area",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "The product of Young's Modulus and Moment of Inertia defines the flexural rigidity of a beam section."
+  },
+  {
+    "qn": "17",
+    "topic": "Structural Engineering",
+    "question": "The value of poisson's ratio always remains",
+    "options": {
+      "a": "greater than one",
+      "b": "less than one",
+      "c": "equal to one",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "For most engineering materials, Poisson's ratio ranges between 0.0 and 0.5."
+  },
+  {
+    "qn": "18",
+    "topic": "Structural Engineering",
+    "question": "The percentage elongation of a material from a direct tensile test indicates",
+    "options": {
+      "a": "ductility",
+      "b": "strength",
+      "c": "yield stress",
+      "d": "brittleness"
+    },
+    "answer": "a",
+    "explanation": "Ductility is the ability of a material to deform plastically without fracture, measured by percentage elongation."
+  },
+  {
+    "qn": "19",
+    "topic": "Structural Engineering",
+    "question": "The percentage reduction of a material from a direct compressive test indicates",
+    "options": {
+      "a": "ductility",
+      "b": "strength",
+      "c": "yield stress",
+      "d": "brittleness"
+    },
+    "answer": "a",
+    "explanation": "In compression, a ductile material will show a significant reduction in height and increase in area before failure."
+  },
+  {
+    "qn": "20",
+    "topic": "Structural Engineering",
+    "question": "The safe value of stress below which the material will not fail when subjected to reversal of stress is known as",
+    "options": {
+      "a": "fatigue stress",
+      "b": "endurance limit",
+      "c": "elastic limit",
+      "d": "tolerance limit"
+    },
+    "answer": "b",
+    "explanation": "Endurance limit is the maximum stress that a material can withstand for an infinite number of cycles without fatigue failure."
+  },
+  {
+    "qn": "21",
+    "topic": "Structural Engineering",
+    "question": "The property by which the metals deforms continuously at a slow rate without further increase in stress is called",
+    "options": {
+      "a": "creep",
+      "b": "fatigue",
+      "c": "resilience",
+      "d": "plasticity"
+    },
+    "answer": "a",
+    "explanation": "Creep is the time-dependent permanent deformation under constant load."
+  },
+  {
+    "qn": "22",
+    "topic": "Structural Engineering",
+    "question": "Toughness is",
+    "options": {
+      "a": "ability to absorb energy during plastic deformation",
+      "b": "higher ultimate strength",
+      "c": "stress at field",
+      "d": "strain energy at field"
+    },
+    "answer": "a",
+    "explanation": "Toughness is the total energy a material can absorb before fracture."
+  },
+  {
+    "qn": "23",
+    "topic": "Structural Engineering",
+    "question": "The impact tests are used to determine",
+    "options": {
+      "a": "ultimate crushing strength",
+      "b": "toughness",
+      "c": "ductility",
+      "d": "tenancy"
+    },
+    "answer": "b",
+    "explanation": "Impact tests (Charpy/Izod) measure the energy absorbed during sudden fracture, which determines toughness."
+  },
+  {
+    "qn": "24",
+    "topic": "Structural Engineering",
+    "question": "The ratio of maximum instantaneous stress due to sudden loading to the maximum stress due to gradual loading will be",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "Suddenly applied loads produce twice the stress compared to the same load applied gradually."
+  },
+  {
+    "qn": "25",
+    "topic": "Structural Engineering",
+    "question": "What is tenancy ?",
+    "options": {
+      "a": "ultimate strength in tension",
+      "b": "ultimate strength in compression",
+      "c": "ultimate shear strength",
+      "d": "ultimate impact strength"
+    },
+    "answer": "a",
+    "explanation": "Tenacity refers to the ultimate tensile strength or the resistance of a material to being pulled apart."
+  },
+  {
+    "qn": "26",
+    "topic": "Structural Engineering",
+    "question": "At ordinary temperatures, how is the yield point affected with rate of loading ?",
+    "options": {
+      "a": "not greatly influenced",
+      "b": "very greatly influenced",
+      "c": "not influenced at all",
+      "d": "difficult to tell"
+    },
+    "answer": "a",
+    "explanation": "For most structural metals, minor changes in loading rates at room temperature do not significantly change the yield stress."
+  },
+  {
+    "qn": "27",
+    "topic": "Structural Engineering",
+    "question": "Simple bending equation is",
+    "options": {
+      "a": "M/I = f/y = E/R",
+      "b": "f/I = M/y = E/R",
+      "c": "M/I = E/y = f/R",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "The bending formula relates Bending Moment (M), Moment of Inertia (I), Bending Stress (f), distance from NA (y), Modulus (E), and Radius (R)."
+  },
+  {
+    "qn": "28",
+    "topic": "Structural Engineering",
+    "question": "Stress in a beam due to simple bending is",
+    "options": {
+      "a": "directly proportional",
+      "b": "inversely proportional",
+      "c": "curvilinearly related",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "According to f = (M/I) * y, the bending stress is directly proportional to the distance from the neutral axis."
+  },
+  {
+    "qn": "29",
+    "topic": "Structural Engineering",
+    "question": "In a composite bar the load distribution among different materials of which it is made is based on the assumption the all the materials will have",
+    "options": {
+      "a": "equal areas",
+      "b": "same Young's modulus",
+      "c": "same strain",
+      "d": "same stress"
+    },
+    "answer": "c",
+    "explanation": "For composite members acting together, they must undergo the same deformation per unit length (strain)."
+  },
+  {
+    "qn": "30",
+    "topic": "Structural Engineering",
+    "question": "The stress due to temperature change in a member depends on",
+    "options": {
+      "a": "supporting conditions of ends",
+      "b": "length of member",
+      "c": "area of cross section",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Temperature stress only develops if thermal expansion/contraction is restricted by the supports."
+  },
+  {
+    "qn": "31",
+    "topic": "Structural Engineering",
+    "question": "Strain energy of a member may be defined as work done on it",
+    "options": {
+      "a": "to deform it",
+      "b": "to resist elongation",
+      "c": "to resist shortening",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Strain energy is the internal work stored in a body during deformation (tension, compression, or shear)."
+  },
+  {
+    "qn": "32",
+    "topic": "Structural Engineering",
+    "question": "Partial derivative of strain energy gives",
+    "options": {
+      "a": "deflection",
+      "b": "slop",
+      "c": "moment",
+      "d": "redundant force"
+    },
+    "answer": "a",
+    "explanation": "Castigliano's First Theorem states that the partial derivative of total strain energy with respect to a load gives the displacement in the direction of the load."
+  },
+  {
+    "qn": "33",
+    "topic": "Structural Engineering",
+    "question": "The strain energy stored in a specimen when strained within the elastic limit is known as",
+    "options": {
+      "a": "resilience",
+      "b": "proof resilience",
+      "c": "strain energy",
+      "d": "modulus of resilience"
+    },
+    "answer": "a",
+    "explanation": "Resilience is the capacity of a material to absorb energy when deformed elastically."
+  },
+  {
+    "qn": "34",
+    "topic": "Structural Engineering",
+    "question": "The maximum strain energy stored in a specimen when strained within the elastic limit is known as",
+    "options": {
+      "a": "resilience",
+      "b": "proof resilience",
+      "c": "strain energy",
+      "d": "modulus of resilience"
+    },
+    "answer": "b",
+    "explanation": "Proof resilience is the maximum strain energy that can be stored in a body up to the elastic limit point."
+  },
+  {
+    "qn": "35",
+    "topic": "Structural Engineering",
+    "question": "Find the elongation of a rod if a load of p is applied on a rod having length, l c/s area, A and modulus of elasticity, E",
+    "options": {
+      "a": "pl/AE",
+      "b": "pE/Al",
+      "c": "Al/pE",
+      "d": "pA/IE"
+    },
+    "answer": "a",
+    "explanation": "From Î” = (Stress/E) * L, elongation = PL/AE."
+  },
+  {
+    "qn": "36",
+    "topic": "Structural Engineering",
+    "question": "Find the modulus elasticity of bar material (E) if c/s area of bar is A, length L, applied load P and elongation is Î”",
+    "options": {
+      "a": "pl/AÎ”",
+      "b": "pÎ”/la",
+      "c": "AÎ”/pl",
+      "d": "pA/Î”l"
+    },
+    "answer": "a",
+    "explanation": "Rearranging Î” = PL/AE gives E = PL/AÎ”."
+  },
+  {
+    "qn": "37",
+    "topic": "Structural Engineering",
+    "question": "The amount of stress developed due to increase in temperature in case of SSB if l=10m, Î”T=10Â°C, A=5cmÂ²",
+    "options": {
+      "a": "1N/mmÂ²",
+      "b": "100 N/mmÂ²",
+      "c": "500 N/mmÂ²",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "In a Simply Supported Beam (SSB) that is free to expand, temperature stress is zero unless expansion is prevented."
+  },
+  {
+    "qn": "38",
+    "topic": "Structural Engineering",
+    "question": "A member having cross section 5 cm Ã— 5 cm is subjected to a tensile stress of 100 kg/cmÂ², then the applied load should be",
+    "options": {
+      "a": "2500 kg",
+      "b": "2000 kg",
+      "c": "1500 kg",
+      "d": "1000 kg"
+    },
+    "answer": "a",
+    "explanation": "Load = Stress Ã— Area = 100 kg/cmÂ² Ã— (5 Ã— 5) cmÂ² = 2500 kg."
+  },
+  {
+    "qn": "39",
+    "topic": "Structural Engineering",
+    "question": "Torsion is produced in a beam due to",
+    "options": {
+      "a": "magnitude of load",
+      "b": "eccentricity of load from centroidal axis",
+      "c": "types of beam",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "A twisting moment or torsion is created when a vertical load acts at an eccentric distance from the centroidal/shear axis."
+  },
+  {
+    "qn": "40",
+    "topic": "Structural Engineering",
+    "question": "Due to torsion moment beam get",
+    "options": {
+      "a": "bent",
+      "b": "twisted",
+      "c": "uplifted",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Torsion creates a rotational deformation known as twisting about the longitudinal axis."
+  },
+  {
+    "qn": "41",
+    "topic": "Structural Engineering",
+    "question": "Torsional equation is given by",
+    "options": {
+      "a": "T/J = Ï„/R = CÎ¸/l",
+      "b": "J/T = Ï„/R = CÎ¸/l",
+      "c": "T/R = Ï„/J = CÎ¸/l",
+      "d": "T/R = Ï„/R = CÎ¸/l"
+    },
+    "answer": "a",
+    "explanation": "This formula relates Torque (T), Polar MOI (J), Shear Stress (Ï„), Radius (R), Modulus (C), and Twist (Î¸)."
+  },
+  {
+    "qn": "42",
+    "topic": "Structural Engineering",
+    "question": "The amount of temperature stress is ............ in fixed beam if compared with propped cantilever.",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal",
+      "d": "any of the above"
+    },
+    "answer": "a",
+    "explanation": "A fixed beam has more constraints on expansion compared to a propped cantilever, leading to higher stresses."
+  },
+  {
+    "qn": "43",
+    "topic": "Structural Engineering",
+    "question": "If the M.I of section about its axis is I and if the effective sectional area is A, then radius of gyration r is given by",
+    "options": {
+      "a": "âˆš(I/A)",
+      "b": "âˆš(I.A)",
+      "c": "âˆš(A/I)",
+      "d": "âˆš(I/AÂ²)"
+    },
+    "answer": "a",
+    "explanation": "The radius of gyration (k or r) is defined as the square root of the ratio of Moment of Inertia to Area."
+  },
+  {
+    "qn": "44",
+    "topic": "Structural Engineering",
+    "question": "Stress concentration near the void is ............... as compared to solid portion.",
+    "options": {
+      "a": "less",
+      "b": "more",
+      "c": "equal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Discontinuities like holes or voids cause a localized increase in stress intensity, known as stress concentration."
+  },
+  {
+    "qn": "45",
+    "topic": "Structural Engineering",
+    "question": "Hoop stress is",
+    "options": {
+      "a": "compressive",
+      "b": "radial stress",
+      "c": "circumferential tensile stress",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "In thin cylinders, hoop stress acts tangentially along the circumference and is tensile under internal pressure."
+  },
+  {
+    "qn": "46",
+    "topic": "Structural Engineering",
+    "question": "The moment of inertia of rectangular section is",
+    "options": {
+      "a": "BDÂ³/12",
+      "b": "aâ´/12",
+      "c": "Ï€BDÂ³/64",
+      "d": "bhÂ³/36"
+    },
+    "answer": "a",
+    "explanation": "For a rectangle of width B and depth D, the MOI about the centroidal X-axis is BDÂ³/12."
+  },
+  {
+    "qn": "47",
+    "topic": "Structural Engineering",
+    "question": "Ratio of moment of inertia (MOI) of a rectangular object about its x-axis to its base is",
+    "options": {
+      "a": "1/12",
+      "b": "1/8",
+      "c": "1/6",
+      "d": "1/4"
+    },
+    "answer": "d",
+    "explanation": "MOI about CG = BDÂ³/12. MOI about Base = BDÂ³/3. Ratio = (1/12) / (1/3) = 1/4."
+  },
+  {
+    "qn": "48",
+    "topic": "Structural Engineering",
+    "question": "M.I of circular section",
+    "options": {
+      "a": "Ï€dâ´/64",
+      "b": "Ï€dâ´/48",
+      "c": "Ï€dâ´/56",
+      "d": "Ï€dâ´/78"
+    },
+    "answer": "a",
+    "explanation": "The moment of inertia of a solid circular section of diameter d is Ï€dâ´/64."
+  },
+  {
+    "qn": "49",
+    "topic": "Structural Engineering",
+    "question": "The moment of inertia of square section is",
+    "options": {
+      "a": "aâ´/12",
+      "b": "BDÂ³/12",
+      "c": "Ï€BDÂ³/64",
+      "d": "bhÂ³/36"
+    },
+    "answer": "a",
+    "explanation": "For a square of side 'a', MOI = aâ´/12."
+  },
+  {
+    "qn": "50",
+    "topic": "Structural Engineering",
+    "question": "The moment of inertia of elliptical section is",
+    "options": {
+      "a": "Ï€BDÂ³/64",
+      "b": "BDÂ³/12",
+      "c": "aâ´/12",
+      "d": "bhÂ³/36"
+    },
+    "answer": "a",
+    "explanation": "The moment of inertia of an ellipse about its major axis is Ï€BDÂ³/64 (where D is the major axis)."
+  },
+  {
+    "qn": "51",
+    "topic": "Structural Engineering",
+    "question": "The moment of inertia of triangular section about its c.g.",
+    "options": {
+      "a": "bhÂ³/36",
+      "b": "BDÂ³/12",
+      "c": "aâ´/12",
+      "d": "Ï€BDÂ³/64"
+    },
+    "answer": "a",
+    "explanation": "The MOI of a triangle about its centroidal axis parallel to the base is bhÂ³/36."
+  },
+  {
+    "qn": "52",
+    "topic": "Structural Engineering",
+    "question": "Along the neutral axis of a simply supported beam",
+    "options": {
+      "a": "fibres do not undergo strain",
+      "b": "fibres undergo minimum strain",
+      "c": "fibres undergo maximum strain",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "By definition, the neutral axis is the layer where bending stress and bending strain are zero."
+  },
+  {
+    "qn": "53",
+    "topic": "Structural Engineering",
+    "question": "The ratio of the moment of inertia of a circular plate and a square plate for equal depth is",
+    "options": {
+      "a": "slightly less than one",
+      "b": "equal to one",
+      "c": "more than one",
+      "d": "equal to 3Ï€/16"
+    },
+    "answer": "d",
+    "explanation": "Circular MOI = Ï€dâ´/64. Square MOI = dâ´/12. Ratio = (Ï€/64) / (1/12) = 12Ï€/64 = 3Ï€/16."
+  },
+  {
+    "qn": "54",
+    "topic": "Structural Engineering",
+    "question": "The section modulus of a rectangular section is proportional to",
+    "options": {
+      "a": "area of the section",
+      "b": "square of the area of the section",
+      "c": "product of the area and depth",
+      "d": "product of the area and width"
+    },
+    "answer": "a",
+    "explanation": "Z = bdÂ²/6. Since Area A = bd, Z = (Ad)/6, which is proportional to area for a given depth."
+  },
+  {
+    "qn": "55",
+    "topic": "Structural Engineering",
+    "question": "The algebraic sum of the vertical forces on either side of the section of a loaded beam is known as",
+    "options": {
+      "a": "shear force",
+      "b": "bending moment",
+      "c": "deformed force",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Shear force at any section is the net unbalanced vertical force to the left or right of that section."
+  },
+  {
+    "qn": "56",
+    "topic": "Structural Engineering",
+    "question": "Find the shear force produced in the member BC due to load 4 KN at C in a cantilever ABC (fixed at A, free at C).",
+    "options": {
+      "a": "4 KN",
+      "b": "50 kN",
+      "c": "25 kN",
+      "d": "75 kN"
+    },
+    "answer": "a",
+    "explanation": "In a cantilever with a point load at the free end, the shear force is constant and equal to the load throughout the span."
+  },
+  {
+    "qn": "57",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at fixed end for the structure as shown (Load 10T, eccentric 2m, height 3m+1m).",
+    "options": {
+      "a": "0",
+      "b": "10 Tm",
+      "c": "20 Tm",
+      "d": "30 Tm"
+    },
+    "answer": "a",
+    "explanation": "If the line of action of the load passes through the fixed support, the bending moment at that point is zero."
+  },
+  {
+    "qn": "58",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at fixed end for the structure (Load 10T at 1m ecc, 5T at 1m ecc opposite).",
+    "options": {
+      "a": "0",
+      "b": "10 Tm",
+      "c": "20 Tm",
+      "d": "30 Tm"
+    },
+    "answer": "a",
+    "explanation": "Moments cancel out due to equal and opposite eccentricities relative to the support in this specific configuration."
+  },
+  {
+    "qn": "59",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at fixed end of cantilever with 5T point load at 2m and 10 T-m clockwise moment at free end (5m).",
+    "options": {
+      "a": "0",
+      "b": "10 Tm",
+      "c": "20 Tm",
+      "d": "30 Tm"
+    },
+    "answer": "a",
+    "explanation": "Moment at fixed end = (5 * 2) - 10 = 10 - 10 = 0 Tm."
+  },
+  {
+    "qn": "60",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at fixed end: 10T load at 2m, 10 T-m anti-clockwise moment at end.",
+    "options": {
+      "a": "0",
+      "b": "10 Tm",
+      "c": "20 Tm",
+      "d": "30 Tm"
+    },
+    "answer": "b",
+    "explanation": "Resultant moment calculated from the sum of moments about the fixed support."
+  },
+  {
+    "qn": "61",
+    "topic": "Structural Engineering",
+    "question": "A rectangular beam carries a maximum bending moment of M. If its depth is doubled, its moment carrying capacity will be",
+    "options": {
+      "a": "M",
+      "b": "2M",
+      "c": "3M",
+      "d": "4M"
+    },
+    "answer": "d",
+    "explanation": "Capacity is proportional to Section Modulus (Z = bdÂ²/6). Doubling depth 'd' makes Z increase by a factor of 4."
+  },
+  {
+    "qn": "62",
+    "topic": "Structural Engineering",
+    "question": "The algebraic sum of the moments of the forces on either side of the section of a loaded beam is known as",
+    "options": {
+      "a": "shear force",
+      "b": "bending moment",
+      "c": "deformed force",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "This is the fundamental definition of bending moment at a section."
+  },
+  {
+    "qn": "63",
+    "topic": "Structural Engineering",
+    "question": "The shear force and bending moment are related by",
+    "options": {
+      "a": "V = M/Z",
+      "b": "V = MY/I",
+      "c": "V = dM/dx",
+      "d": "V = Mdx"
+    },
+    "answer": "c",
+    "explanation": "The rate of change of bending moment along the length of the beam is equal to the shear force."
+  },
+  {
+    "qn": "64",
+    "topic": "Structural Engineering",
+    "question": "The shear force on a beam and the displacement are related by",
+    "options": {
+      "a": "V = EI (dÂ²y/dxÂ²)",
+      "b": "V = EI (dy/dx)",
+      "c": "V = EI (dÂ³y/dxÂ³)",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Bending moment M = EI(dÂ²y/dxÂ²). Since V = dM/dx, then V = EI(dÂ³y/dxÂ³)."
+  },
+  {
+    "qn": "65",
+    "topic": "Structural Engineering",
+    "question": "Which one is correct if the deflection of a beam is y",
+    "options": {
+      "a": "Î¸ = dy/dx",
+      "b": "dÎ¸/dx = dÂ²y/dxÂ²",
+      "c": "M = EI / R",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "All these relations are fundamental identities in the elastic curve theory of beams."
+  },
+  {
+    "qn": "66",
+    "topic": "Structural Engineering",
+    "question": "Calculate the maximum BM introduced due to a udl of 4KN/m, if the span of the cantilever is 1.8m",
+    "options": {
+      "a": "2.16 KN-M",
+      "b": "6.48 KN-M",
+      "c": "1.08 KN-M",
+      "d": "5.48 KN-M"
+    },
+    "answer": "b",
+    "explanation": "Max BM = wLÂ²/2 = 4 * (1.8)Â² / 2 = 6.48 KN-m."
+  },
+  {
+    "qn": "67",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at 1/4th of the span for SSB with point load 200kg at center (L=20m).",
+    "options": {
+      "a": "250 kg-m",
+      "b": "500 kg-m",
+      "c": "50 kg-m",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Reaction R = 100kg. BM at L/4 (5m) = 100 * 5 = 500 kg-m."
+  },
+  {
+    "qn": "68",
+    "topic": "Structural Engineering",
+    "question": "The maximum deflection in the cantilever beam subjected to an udl of W/m throughout the span is",
+    "options": {
+      "a": "WLâ´/8EI",
+      "b": "WLâ´/36EI",
+      "c": "3WLâ´/384EI",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "This is the standard formula for max deflection at the free end of a cantilever with UDL."
+  },
+  {
+    "qn": "69",
+    "topic": "Structural Engineering",
+    "question": "For SSB of length L with UVL from zero at left to max at right, max BM occurs at distance of",
+    "options": {
+      "a": "L/âˆš3 from left end",
+      "b": "L/3 from left end",
+      "c": "L/âˆš3 from right end",
+      "d": "L/3 from right end"
+    },
+    "answer": "a",
+    "explanation": "Calculated by setting SF = dM/dx = 0 in the loading equation."
+  },
+  {
+    "qn": "70",
+    "topic": "Structural Engineering",
+    "question": "Load carrying capacity of fixed beam is",
+    "options": {
+      "a": "lesser than simply supported beam",
+      "b": "lesser than cantilever beam",
+      "c": "greater than simply supported beam and cantilever beam",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Fixed beams have higher stiffness and lower maximum bending moments for the same load, increasing capacity."
+  },
+  {
+    "qn": "71",
+    "topic": "Structural Engineering",
+    "question": "The difference in placing end of beam over support vs through hinge on rollers is that roller support",
+    "options": {
+      "a": "can offer reaction in plane of rollers",
+      "b": "can offer moment reaction",
+      "c": "will not allowed the end to lift up the deflection",
+      "d": "will not offer reaction normal to the plane of rollers"
+    },
+    "answer": "c",
+    "explanation": "Roller supports constrain vertical movement but allow rotation and horizontal translation."
+  },
+  {
+    "qn": "72",
+    "topic": "Structural Engineering",
+    "question": "The number of reaction components possible at a hinged end for a general loading is",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "answer": "c",
+    "explanation": "A hinge provides vertical and horizontal reaction components."
+  },
+  {
+    "qn": "73",
+    "topic": "Structural Engineering",
+    "question": "At either ends of plane frame, maximum number of possible transverse shear forces, are",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "three",
+      "d": "four"
+    },
+    "answer": "a",
+    "explanation": "In 2D frame analysis, each member end has one shear force component."
+  },
+  {
+    "qn": "74",
+    "topic": "Structural Engineering",
+    "question": "At either ends of plane frame, maximum number of possible bending moment, are",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "three",
+      "d": "zero"
+    },
+    "answer": "d",
+    "explanation": "Refers to the count of moment components at a specific point end in a 2D plane frame context."
+  },
+  {
+    "qn": "75",
+    "topic": "Structural Engineering",
+    "question": "A simply supported beam of span L carries a uniformly distributed load, w. The maximum shear force, V is",
+    "options": {
+      "a": "wL/2",
+      "b": "wL/4",
+      "c": "wL/8",
+      "d": "wL/16"
+    },
+    "answer": "a",
+    "explanation": "The maximum shear force in an SSB with UDL occurs at the supports and is equal to half the total load."
+  },
+  {
+    "qn": "76",
+    "topic": "Structural Engineering",
+    "question": "A simply supported beam of span L carries a uniformly distributed load, w. The maximum bending moment, M is",
+    "options": {
+      "a": "wLÂ²/2",
+      "b": "wLÂ²/4",
+      "c": "wLÂ²/8",
+      "d": "wLÂ²/16"
+    },
+    "answer": "c",
+    "explanation": "Standard formula for max BM at mid-span of an SSB with UDL."
+  },
+  {
+    "qn": "77",
+    "topic": "Structural Engineering",
+    "question": "A simply supported beam of span L carries two equal concentrated loads, W at a distance of L/3 from either support. The maximum bending moment, M is",
+    "options": {
+      "a": "WL/2",
+      "b": "WL/3",
+      "c": "WL/4",
+      "d": "WL/5"
+    },
+    "answer": "b",
+    "explanation": "BM = Reaction * distance = W * (L/3) = WL/3."
+  },
+  {
+    "qn": "78",
+    "topic": "Structural Engineering",
+    "question": "A beam is hinged at both ends and loaded with a triangular load having maximum intensity (W) at centre. Find the maximum bending moment & shear force",
+    "options": {
+      "a": "WLÂ²/12 , WL/10",
+      "b": "WLÂ²/12 , WL/4",
+      "c": "WLÂ²/10 , WL/10",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Determined by structural integration and equilibrium of total load W."
+  },
+  {
+    "qn": "79",
+    "topic": "Structural Engineering",
+    "question": "The shape of bending moment diagram over the length of a beam, having no external load is",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubical",
+      "d": "circular"
+    },
+    "answer": "a",
+    "explanation": "In portions without load, the SF is constant and BM is linear."
+  },
+  {
+    "qn": "80",
+    "topic": "Structural Engineering",
+    "question": "The shape of bending moment diagram over the length of a beam, carrying a uniformly distributed load is",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubical",
+      "d": "circular"
+    },
+    "answer": "b",
+    "explanation": "BM is a second-order function of x for a constant load w."
+  },
+  {
+    "qn": "81",
+    "topic": "Structural Engineering",
+    "question": "In any beam, there is acting uniformly moment then its curve is",
+    "options": {
+      "a": "circular arch",
+      "b": "parabolic arch",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "A constant bending moment results in a circular deflection curve (arch) for the beam segment."
+  },
+  {
+    "qn": "82",
+    "topic": "Structural Engineering",
+    "question": "The shape of bending moment diagram over the length of a beam, carrying a uniformly increasing load is",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubical",
+      "d": "circular"
+    },
+    "answer": "c",
+    "explanation": "Load is linear (x), SF is parabolic (xÂ²), so BM is cubic (xÂ³)."
+  },
+  {
+    "qn": "83",
+    "topic": "Structural Engineering",
+    "question": "The maximum bending moment due to moving load on a simply supported beam occurs",
+    "options": {
+      "a": "at the mid span",
+      "b": "at the supports",
+      "c": "under the load",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "For a single point load moving across an SSB, the absolute maximum BM always occurs directly under the load."
+  },
+  {
+    "qn": "84",
+    "topic": "Structural Engineering",
+    "question": "For a simply supported beam with a central load, the bending moment is",
+    "options": {
+      "a": "least at the centre",
+      "b": "least at the supports",
+      "c": "maximum at the supports",
+      "d": "maximum at the center"
+    },
+    "answer": "d",
+    "explanation": "BM is WL/4 at the center and zero at the hinged supports."
+  },
+  {
+    "qn": "85",
+    "topic": "Structural Engineering",
+    "question": "For a cantilever with a uniformly distributed load, w over its entire length L, the maximum bending moment is",
+    "options": {
+      "a": "wLÂ²",
+      "b": "wLÂ²/2",
+      "c": "wLÂ²/3",
+      "d": "wLÂ²/4"
+    },
+    "answer": "b",
+    "explanation": "Max BM = Total load * Distance to CG = (wL) * (L/2) = wLÂ²/2."
+  },
+  {
+    "qn": "86",
+    "topic": "Structural Engineering",
+    "question": "The maximum deflection in the cantilever beam carrying a point load (W) at end is",
+    "options": {
+      "a": "WLÂ³/3EI",
+      "b": "WLÂ³/8EI",
+      "c": "WLÂ³/16EI",
+      "d": "WLÂ³/32EI"
+    },
+    "answer": "a",
+    "explanation": "Standard displacement formula for a cantilever with end load."
+  },
+  {
+    "qn": "87",
+    "topic": "Structural Engineering",
+    "question": "In a cantilever beam a point load is applied at the free end. Which one is correct?",
+    "options": {
+      "a": "SF is uniform throughout the beam",
+      "b": "SF varies linearly from free end to fixed end",
+      "c": "BM is uniform throughout the beam",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Shear force is constant and equal to W across the entire span."
+  },
+  {
+    "qn": "88",
+    "topic": "Structural Engineering",
+    "question": "Which of the following end conditions permits the displacement in any direction and also rotation",
+    "options": {
+      "a": "fixed end",
+      "b": "hinged end",
+      "c": "roller end",
+      "d": "free end"
+    },
+    "answer": "d",
+    "explanation": "A free end has no constraints, allowing both translation and rotation."
+  },
+  {
+    "qn": "89",
+    "topic": "Structural Engineering",
+    "question": "Which of the following section is the most efficient in carrying bending moments ?",
+    "options": {
+      "a": "I-section",
+      "b": "rectangular-section",
+      "c": "T-section",
+      "d": "circular-section"
+    },
+    "answer": "a",
+    "explanation": "I-sections place more material away from the neutral axis, maximizing the section modulus Z."
+  },
+  {
+    "qn": "90",
+    "topic": "Structural Engineering",
+    "question": "In an I-section almost all the shear force is taken by",
+    "options": {
+      "a": "top flange",
+      "b": "web",
+      "c": "bottom flange",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "The flanges carry bending, while the vertical web carries the majority of the transverse shear stress."
+  },
+  {
+    "qn": "91",
+    "topic": "Structural Engineering",
+    "question": "The bending moment is maximum on a section where shear force",
+    "options": {
+      "a": "is maximum",
+      "b": "is minimum",
+      "c": "is equal",
+      "d": "changes sign"
+    },
+    "answer": "d",
+    "explanation": "Maximum BM occurs where dM/dx = 0, which corresponds to zero or sign-changing shear force."
+  },
+  {
+    "qn": "92",
+    "topic": "Structural Engineering",
+    "question": "In a continuous bending moment curve the point where its changes sign is called",
+    "options": {
+      "a": "point of inflexion",
+      "b": "point of contraflexture",
+      "c": "point of virtual hinge",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "The location where BM changes sign (and is zero) is the point of contraflexture."
+  },
+  {
+    "qn": "93",
+    "topic": "Structural Engineering",
+    "question": "For any types of loading, the no. of point of contraflexture in a simply supported beam is",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "zero",
+      "d": "three"
+    },
+    "answer": "c",
+    "explanation": "In a simply supported beam, the BM remains of one sign (typically positive) for downward loads."
+  },
+  {
+    "qn": "94",
+    "topic": "Structural Engineering",
+    "question": "The moment diagram for a cantilever carrying concentrated load at its free end will be",
+    "options": {
+      "a": "triangle",
+      "b": "rectangle",
+      "c": "parabola",
+      "d": "cubic parabola"
+    },
+    "answer": "a",
+    "explanation": "BM = W * x, which is a linear (triangular) diagram."
+  },
+  {
+    "qn": "95",
+    "topic": "Structural Engineering",
+    "question": "Shear force for a cantilever carrying a uniformly distributed load over its whole length is",
+    "options": {
+      "a": "triangle",
+      "b": "rectangle",
+      "c": "parabola",
+      "d": "cubic parabola"
+    },
+    "answer": "a",
+    "explanation": "SF = w * x, which varies linearly from zero at the free end to wL at the fixed end."
+  },
+  {
+    "qn": "96",
+    "topic": "Structural Engineering",
+    "question": "When a rectangular beam is loaded longitudinally, shear develops",
+    "options": {
+      "a": "bottom fibre",
+      "b": "top fibre",
+      "c": "neutral axis",
+      "d": "every horizontal plane"
+    },
+    "answer": "d",
+    "explanation": "Longitudinal loading (axial) primarily creates normal stress; shear develops in various planes if combined with bending."
+  },
+  {
+    "qn": "97",
+    "topic": "Structural Engineering",
+    "question": "When a rectangular beam is loaded transversely, the maximum compressive force develops on",
+    "options": {
+      "a": "bottom fibre",
+      "b": "top fibre",
+      "c": "neutral axis",
+      "d": "every horizontal plane"
+    },
+    "answer": "b",
+    "explanation": "For a downward load, the top fibers of a beam are in compression."
+  },
+  {
+    "qn": "98",
+    "topic": "Structural Engineering",
+    "question": "If the shear force along a section of a beam is zero, the bending moment at the section is",
+    "options": {
+      "a": "zero",
+      "b": "minimum",
+      "c": "maximum",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Where shear force is zero, the rate of change of BM is zero, indicating a local peak (maximum or minimum)."
+  },
+  {
+    "qn": "99",
+    "topic": "Structural Engineering",
+    "question": "The moments in the arch will be zero, if",
+    "options": {
+      "a": "ends are hinged",
+      "b": "ends are fixed",
+      "c": "the arch axis coincides with the line of thrust",
+      "d": "the arch axis is parallel to the line of thrust"
+    },
+    "answer": "c",
+    "explanation": "If the line of thrust passes through the center of the arch at every point, no moment is generated."
+  },
+  {
+    "qn": "100",
+    "topic": "Structural Engineering",
+    "question": "The arch meant for supporting uniformly distributed loads, to avoid any bending moment must be",
+    "options": {
+      "a": "circular",
+      "b": "elliptical",
+      "c": "parabolic",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "A parabolic arch is the ideal shape to carry UDL as pure compression (funicular shape)."
+  },
+  {
+    "qn": "101",
+    "topic": "Structural Engineering",
+    "question": "In any determinate structure, vertical load fall on the",
+    "options": {
+      "a": "hinge",
+      "b": "rollar",
+      "c": "fixed",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Roller supports only provide vertical reactions, thus carrying only vertical loads."
+  },
+  {
+    "qn": "102",
+    "topic": "Structural Engineering",
+    "question": "Three hinged arch is a .....structure.",
+    "options": {
+      "a": "indeterminate",
+      "b": "determinate",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "The three hinges provide enough equilibrium equations to solve for all reactions."
+  },
+  {
+    "qn": "103",
+    "topic": "Structural Engineering",
+    "question": "Three hinged arch will have three hinges",
+    "options": {
+      "a": "two at the two ends and one any where in between the two ends",
+      "b": "two at the two ends and one at the crown only",
+      "c": "one hinge at the crown essentially and the other two any where",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Standard three-hinged arch configuration: two at springings and one at the crown."
+  },
+  {
+    "qn": "104",
+    "topic": "Structural Engineering",
+    "question": "The value of horizontal thrust produced in a arch is",
+    "options": {
+      "a": "wLÂ²/4",
+      "b": "wLÂ²/6",
+      "c": "wLÂ²/8h",
+      "d": "wLÂ²/10"
+    },
+    "answer": "c",
+    "explanation": "For a parabolic arch with UDL, the horizontal thrust H = wLÂ²/8h."
+  },
+  {
+    "qn": "105",
+    "topic": "Structural Engineering",
+    "question": "The amount of bending moment induced in a cable is",
+    "options": {
+      "a": "unity",
+      "b": "zero",
+      "c": "two",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Ideally flexible cables can only carry axial tension; bending moments are zero throughout."
+  },
+  {
+    "qn": "106",
+    "topic": "Structural Engineering",
+    "question": "A suspension cable, supporting loads will be under",
+    "options": {
+      "a": "tension",
+      "b": "bending",
+      "c": "compression",
+      "d": "compression and bending"
+    },
+    "answer": "a",
+    "explanation": "Cables are designed to carry loads exclusively through tensile force."
+  },
+  {
+    "qn": "107",
+    "topic": "Structural Engineering",
+    "question": "The maximum tension in a cable occurs",
+    "options": {
+      "a": "at the highest point in the cable",
+      "b": "at the lowest point in the cable",
+      "c": "at the centre point of the cable",
+      "d": "at all points in the cable"
+    },
+    "answer": "a",
+    "explanation": "Tension T = âˆš(HÂ² + VÂ²). Since vertical shear V is max at supports (highest points), T is max there."
+  },
+  {
+    "qn": "108",
+    "topic": "Structural Engineering",
+    "question": "A cable subjected to UDL over its entire span assumes a shape of",
+    "options": {
+      "a": "semi-circle",
+      "b": "an isosceles triangle",
+      "c": "parabola",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "The funicular shape of a cable under UDL is a parabola."
+  },
+  {
+    "qn": "109",
+    "topic": "Structural Engineering",
+    "question": "What is the maximum number of unknown reaction components that can be determined using only statics",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "answer": "d",
+    "explanation": "For a single rigid body in 2D, there are 3 equations of statics (Î£Fx=0, Î£Fy=0, Î£M=0)."
+  },
+  {
+    "qn": "110",
+    "topic": "Structural Engineering",
+    "question": "A statically indeterminate structure is the one which",
+    "options": {
+      "a": "cannot be analysed using the equations of statics alone",
+      "b": "cannot be analysed at all",
+      "c": "is not stable for general loading",
+      "d": "can be analysed with the equations of statics alone"
+    },
+    "answer": "a",
+    "explanation": "Indeterminate structures have more unknown reactions than available equilibrium equations."
+  },
+  {
+    "qn": "111",
+    "topic": "Structural Engineering",
+    "question": "A roller support for a space structure",
+    "options": {
+      "a": "permits the movement perpendicular to the base of the supports only",
+      "b": "permits movement in any direction in the plane of the base",
+      "c": "does not permit any movement but permits rotation",
+      "d": "permits movement in any direction in the plane of the base but does not permit rotation"
+    },
+    "answer": "b",
+    "explanation": "In 3D, a roller allows translation in the horizontal plane (2 degrees of freedom)."
+  },
+  {
+    "qn": "112",
+    "topic": "Structural Engineering",
+    "question": "A hinged support for a space structure",
+    "options": {
+      "a": "permits the movement perpendicular to the base of the support only",
+      "b": "permits movement in any direction in the plane of the base",
+      "c": "does not permit any movement at all but permits rotation about all three mutually perpendicular axes through the joint",
+      "d": "does not permit movement as well as rotation in any direction."
+    },
+    "answer": "c",
+    "explanation": "A ball-and-socket joint in 3D allows all rotations but blocks all translations."
+  },
+  {
+    "qn": "113",
+    "topic": "Structural Engineering",
+    "question": "A fixed support for a space structure",
+    "options": {
+      "a": "permits the translation only in all direction",
+      "b": "permits rotation only about all three mutually perpendicular axes through the joint",
+      "c": "permits rotation about all the three mutually perpendicular axes and movement in any direction in the plane of the base",
+      "d": "permits neither rotation about nor translation along, any of the three principal axes"
+    },
+    "answer": "d",
+    "explanation": "A fixed support in space blocks all 6 degrees of freedom (3 translations and 3 rotations)."
+  },
+  {
+    "qn": "114",
+    "topic": "Structural Engineering",
+    "question": "Free body diagram is",
+    "options": {
+      "a": "the diagram of the body or a part of the body in isolated equilibrium",
+      "b": "the diagram of a body freed from all the forces that have been acting",
+      "c": "the diagram of a body with no supports at all",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "An FBD isolates an object and shows all the external forces and moments acting on it."
+  },
+  {
+    "qn": "115",
+    "topic": "Structural Engineering",
+    "question": "The free body diagram of a portion of a body will be in equilibrium under the action of",
+    "options": {
+      "a": "only external loading acting on that part without consideration of support reactions",
+      "b": "all super-imposed loads, self-weight, support reactions, if any, and the internal reactions exposed at the cuts",
+      "c": "only support reactions and the internal reactions exposed at the cuts",
+      "d": "external loading acting on that part and internal reactions exposed at the cuts"
+    },
+    "answer": "b",
+    "explanation": "For a segment to be in equilibrium, every force (loads, weight, support, and internal) must be accounted for."
+  },
+  {
+    "qn": "116",
+    "topic": "Structural Engineering",
+    "question": "The analysis of a structure is",
+    "options": {
+      "a": "deciding the material of the member",
+      "b": "deciding the dimensions of the member",
+      "c": "calculating the magnitude and nature of various straining actions at salient points of the structure",
+      "d": "planning of the structure"
+    },
+    "answer": "c",
+    "explanation": "Analysis involves determining the internal forces (straining actions) like shear, moment, and axial loads."
+  },
+  {
+    "qn": "117",
+    "topic": "Structural Engineering",
+    "question": "The design of a structure is",
+    "options": {
+      "a": "the planning of the structure",
+      "b": "the calculation of straining actions at salient points",
+      "c": "deciding the material and proportions of the various members of the structure",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Design is the process of selecting materials and cross-sectional dimensions to safely resist internal forces."
+  },
+  {
+    "qn": "118",
+    "topic": "Structural Engineering",
+    "question": "The statically indeterminate structure can be solved by",
+    "options": {
+      "a": "using equations of statics alone",
+      "b": "equations of compatibility alone",
+      "c": "ignoring all deformations and assuming the structure to be rigid",
+      "d": "using the equations of statics and the necessary number of equations of compatibility"
+    },
+    "answer": "d",
+    "explanation": "Compatibility equations provide the additional relations between deformations needed to solve indeterminacy."
+  },
+  {
+    "qn": "119",
+    "topic": "Structural Engineering",
+    "question": "The equations of compatibility are written based on",
+    "options": {
+      "a": "the geometry of the deformed structure under the action of several forces acting",
+      "b": "the nature of external forces",
+      "c": "the duration of external forces",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Compatibility relates the geometric deformations of various parts to ensure the structure stays continuous."
+  },
+  {
+    "qn": "120",
+    "topic": "Structural Engineering",
+    "question": "A plane structure is structure",
+    "options": {
+      "a": "the various members of which lie in a plane",
+      "b": "the thickness of various members of which will be very small",
+      "c": "in which there will not be any bending moment",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Plane structures operate in a 2D coordinate system (x, y)."
+  },
+  {
+    "qn": "121",
+    "topic": "Structural Engineering",
+    "question": "A one dimensional structure is one in which",
+    "options": {
+      "a": "one dimension is very small and other two are large",
+      "b": "one dimension is much larger than the other two dimensions",
+      "c": "all the three dimensions are equal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Members like beams and columns are 1D because their length is much greater than width or depth."
+  },
+  {
+    "qn": "122",
+    "topic": "Structural Engineering",
+    "question": "A two dimensional structure is one in which",
+    "options": {
+      "a": "two dimensions are very much larger than the third",
+      "b": "all the dimensions are equal",
+      "c": "two dimensions are very much smaller than the third",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Plates and shells are 2D because their surface area is much larger than their thickness."
+  },
+  {
+    "qn": "123",
+    "topic": "Structural Engineering",
+    "question": "A plane structure which subjected to a force lying outside the plane will be",
+    "options": {
+      "a": "stable",
+      "b": "statically determinate",
+      "c": "unstable",
+      "d": "statically indeterminate"
+    },
+    "answer": "c",
+    "explanation": "Out-of-plane forces cause 2D structures to become unstable or requires 3D analysis."
+  },
+  {
+    "qn": "124",
+    "topic": "Structural Engineering",
+    "question": "An externally indeterminate structure is the one in which",
+    "options": {
+      "a": "the total number of external reaction components is more than the equations of statics applicable to the structure as a whole",
+      "b": "the total number of external reaction components is more than the degree of indeterminacy",
+      "c": "the sum of external reaction components and the degree of internal redundancy is greater than three",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "External indeterminacy occurs when support reactions cannot be found using global equilibrium."
+  },
+  {
+    "qn": "125",
+    "topic": "Structural Engineering",
+    "question": "An internally indeterminate structure",
+    "options": {
+      "a": "must be externally indeterminate",
+      "b": "must be externally determinate",
+      "c": "may be an unstable structure based on supports",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Internal indeterminacy relates to the configuration of members, independent of support stability."
+  },
+  {
+    "qn": "126",
+    "topic": "Structural Engineering",
+    "question": "A frame is completely analysed, when",
+    "options": {
+      "a": "the variation in shear is found throughout the frame",
+      "b": "the variation in direct stress, shear and moment is found throughout the frame",
+      "c": "the shear and moment reaction from member to member are known at every joint",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Complete analysis requires knowing axial load, shear force, and bending moment everywhere."
+  },
+  {
+    "qn": "127",
+    "topic": "Structural Engineering",
+    "question": "A prop is",
+    "options": {
+      "a": "An additional support provided to a stable structure to avoid any displacement at the desired point in a direction perpendicular to the plane of the prop",
+      "b": "the support which gives the maximum number of reactions for the stability of the structure",
+      "c": "a support which will not affect the geometry of the deformed structure",
+      "d": "a dummy support provided for architectural purposes"
+    },
+    "answer": "a",
+    "explanation": "A prop is a rigid support (like a redundant roller) added to reduce deflection or provide extra stability."
+  },
+  {
+    "qn": "128",
+    "topic": "Structural Engineering",
+    "question": "A rigid prop is one which",
+    "options": {
+      "a": "permits 50% of free deflection, that would have occurred if the prop were not there",
+      "b": "does not permit any displacement perpendicular to that plane of prop",
+      "c": "does not offer any reaction",
+      "d": "supports the entire load and relieves all other supports completely."
+    },
+    "answer": "b",
+    "explanation": "Rigid props have zero settlement, blocking all translation at that point."
+  },
+  {
+    "qn": "129",
+    "topic": "Structural Engineering",
+    "question": "An elastic prop is one which",
+    "options": {
+      "a": "does not offer any reaction",
+      "b": "supports the entire load and relieves all other supports completely",
+      "c": "develops reaction proportional to the compression in itself",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Elastic props behave like springs; reaction R = k * Î”."
+  },
+  {
+    "qn": "130",
+    "topic": "Structural Engineering",
+    "question": "A sinking prop is one which",
+    "options": {
+      "a": "permits any amount of deflection",
+      "b": "does not permit any deflection at all",
+      "c": "is provided below the level of regular supports and becomes effective after the respective deflection occurs",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "It starts carrying load only after the structure settles or deflects to its initial gap level."
+  },
+  {
+    "qn": "131",
+    "topic": "Structural Engineering",
+    "question": "A support over which the real beam is continuous will correspond to",
+    "options": {
+      "a": "an internal hinge in the conjugate beam",
+      "b": "a hinged support in the conjugate beam",
+      "c": "a fixed support in the conjugate beam",
+      "d": "a discontinuity in the conjugate beam"
+    },
+    "answer": "a",
+    "explanation": "Continuity over an internal support (zero deflection, slope change) maps to an internal hinge in the conjugate beam method."
+  },
+  {
+    "qn": "132",
+    "topic": "Structural Engineering",
+    "question": "The displacements of joints of a truss can be obtained directly from",
+    "options": {
+      "a": "space diagram",
+      "b": "force diagram",
+      "c": "Williot Mohr diagram",
+      "d": "funicular polygon"
+    },
+    "answer": "c",
+    "explanation": "The Williot-Mohr diagram is a graphical method for finding joint displacements."
+  },
+  {
+    "qn": "133",
+    "topic": "Structural Engineering",
+    "question": "The basic form of a pin jointed frame is",
+    "options": {
+      "a": "triangle",
+      "b": "rectangular",
+      "c": "trapezium",
+      "d": "parallelogram"
+    },
+    "answer": "a",
+    "explanation": "The triangle is the simplest geometrically stable shape for pin-jointed structures."
+  },
+  {
+    "qn": "134",
+    "topic": "Structural Engineering",
+    "question": "In a pin jointed plane frame all the loads are assumed to act",
+    "options": {
+      "a": "in the plane of the frame",
+      "b": "perpendicular to the plane of the frame",
+      "c": "in a plane inclined at 45Â° to the plane of the frame",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Truss analysis assumes 2D action where all loads lie in the plane of the triangle network."
+  },
+  {
+    "qn": "135",
+    "topic": "Structural Engineering",
+    "question": "A pin jointed plane frame with J number of joints and n, number of members will be internally redundant, if",
+    "options": {
+      "a": "n = (2j+3)",
+      "b": "n > (2j-3)",
+      "c": "n < (2j-3)",
+      "d": "n = (2j-3)"
+    },
+    "answer": "b",
+    "explanation": "If the number of members exceeds those required for determinacy (2j-3), the frame is redundant."
+  },
+  {
+    "qn": "136",
+    "topic": "Structural Engineering",
+    "question": "A pin jointed frame with with J number of joints and n, number of members will be a perfect frame if",
+    "options": {
+      "a": "n > (2j-3)",
+      "b": "n < (2j-3)",
+      "c": "n = (2j-3)",
+      "d": "n < (2j+3)"
+    },
+    "answer": "c",
+    "explanation": "A 'perfect' or determinate truss has exactly n = 2j - 3 members."
+  },
+  {
+    "qn": "137",
+    "topic": "Structural Engineering",
+    "question": "Find the DSI of propped cantilever beam",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "4 reactions - 3 equations = 1 redundant. Degree of Static Indeterminacy = 1."
+  },
+  {
+    "qn": "138",
+    "topic": "Structural Engineering",
+    "question": "DSI of structure depends upon",
+    "options": {
+      "a": "loading",
+      "b": "types of material",
+      "c": "c/s of the member",
+      "d": "types of joint"
+    },
+    "answer": "d",
+    "explanation": "Static indeterminacy is a function of the number of joints and members/reactions, which depends on the joint type (fixed vs pin)."
+  },
+  {
+    "qn": "139",
+    "topic": "Structural Engineering",
+    "question": "The ends of continuous beam should be",
+    "options": {
+      "a": "cantilever",
+      "b": "hinged",
+      "c": "roller",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "Continuous beams can end with any support type or even an overhang."
+  },
+  {
+    "qn": "140",
+    "topic": "Structural Engineering",
+    "question": "A structure having J = 4 & number of member is 3 then structure should be",
+    "options": {
+      "a": "stable",
+      "b": "unstable",
+      "c": "indeterminate",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Since n < 2j-3 (3 < 5), the structure is deficient and unstable."
+  },
+  {
+    "qn": "141",
+    "topic": "Structural Engineering",
+    "question": "Find the number of member in a structure if the number of joint is 4 for a determinate structure.",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "c",
+    "explanation": "Using n = 2j - 3; n = 2(4) - 3 = 5."
+  },
+  {
+    "qn": "142",
+    "topic": "Structural Engineering",
+    "question": "Find the no of joint in a structure if the number of member is 3 for a determinate structure.",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "a",
+    "explanation": "Using n = 2j - 3; 3 = 2j - 3 => 2j = 6 => j = 3."
+  },
+  {
+    "qn": "143",
+    "topic": "Structural Engineering",
+    "question": "If the co moment of Joint A, B, & C are 10, 20 and 30 kN-m then find the balancing moment at joint B.",
+    "options": {
+      "a": "20 kN-m",
+      "b": "30 kN-m",
+      "c": "50 kN-m",
+      "d": "-20 kN-m"
+    },
+    "answer": "d",
+    "explanation": "Balancing moment is the negative of the out-of-balance moment at the joint."
+  },
+  {
+    "qn": "144",
+    "topic": "Structural Engineering",
+    "question": "For finding forces in the members of a truss by the graphical method. The force diagram is suggested by",
+    "options": {
+      "a": "Mohr",
+      "b": "Timoshenko",
+      "c": "Maxwell",
+      "d": "Betti"
+    },
+    "answer": "c",
+    "explanation": "Maxwell-Cremona diagram is the standard graphical method for trusses."
+  },
+  {
+    "qn": "145",
+    "topic": "Structural Engineering",
+    "question": "The theorem of three moments for the solution of continuous beams is formulated by",
+    "options": {
+      "a": "Young",
+      "b": "Maxwell",
+      "c": "Williot-Mohr",
+      "d": "Clepeyron"
+    },
+    "answer": "d",
+    "explanation": "Emile Clapeyron developed the Three Moment Equation for continuous beams."
+  },
+  {
+    "qn": "146",
+    "topic": "Structural Engineering",
+    "question": "The term centre of gravity was introduced by",
+    "options": {
+      "a": "Archimedes",
+      "b": "Otto Mohr",
+      "c": "Saint Venant",
+      "d": "Coulomb"
+    },
+    "answer": "a",
+    "explanation": "Archimedes of Syracuse was the first to formalize the concept of the center of gravity."
+  },
+  {
+    "qn": "147",
+    "topic": "Structural Engineering",
+    "question": "The moment distribution method is formulated by",
+    "options": {
+      "a": "hardy cross",
+      "b": "thomas young",
+      "c": "mohr",
+      "d": "kani's"
+    },
+    "answer": "a",
+    "explanation": "Hardy Cross published the Moment Distribution Method in 1930."
+  },
+  {
+    "qn": "148",
+    "topic": "Structural Engineering",
+    "question": "The simultaneous equations of slope deflection method can be solved by iteration in",
+    "options": {
+      "a": "moment distribution method",
+      "b": "consistent deformation method",
+      "c": "conjugate beam method",
+      "d": "willot Mohr method"
+    },
+    "answer": "a",
+    "explanation": "Moment distribution is effectively an iterative numerical solution to slope-deflection equations."
+  },
+  {
+    "qn": "149",
+    "topic": "Structural Engineering",
+    "question": "Slope deflection method is",
+    "options": {
+      "a": "energy method",
+      "b": "deflection method",
+      "c": "unit load method",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "It is a stiffness method where displacements (deflections/rotations) are the primary unknowns."
+  },
+  {
+    "qn": "150",
+    "topic": "Structural Engineering",
+    "question": "Moment distribution method is",
+    "options": {
+      "a": "approximate method",
+      "b": "accurate method",
+      "c": "international method",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "While iterative, it converges to an exact theoretical solution based on beam equations."
+  },
+  {
+    "qn": "151",
+    "topic": "Structural Engineering",
+    "question": "Degree of freedom (DOF) or DKI, for the structure (a simple span/joint shown) is",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "Kinematic indeterminacy relates to the possible independent displacements at joints."
+  },
+  {
+    "qn": "152",
+    "topic": "Structural Engineering",
+    "question": "The stiffness factor at the near end of a member with far end hinged is",
+    "options": {
+      "a": "4EI/l",
+      "b": "3EI/l",
+      "c": "EI/l",
+      "d": "EI"
+    },
+    "answer": "b",
+    "explanation": "For a hinge at the far end, the moment required for unit rotation is 3EI/L."
+  },
+  {
+    "qn": "153",
+    "topic": "Structural Engineering",
+    "question": "The ratio of stiffness of a member when far end is hinged to that of the member when far end is fixed is",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3/4",
+      "d": "4/3"
+    },
+    "answer": "c",
+    "explanation": "Ratio = (3EI/L) / (4EI/L) = 3/4."
+  },
+  {
+    "qn": "154",
+    "topic": "Structural Engineering",
+    "question": "At a joint where several members meet, any applied moment will be distributed among the various members",
+    "options": {
+      "a": "equally",
+      "b": "equally among such members whose far ends are fixed",
+      "c": "in proportion to their stiffness",
+      "d": "equally among such members whose far ends are hinged"
+    },
+    "answer": "c",
+    "explanation": "Members with higher stiffness carry a proportionally larger share of the applied moment."
+  },
+  {
+    "qn": "155",
+    "topic": "Structural Engineering",
+    "question": "The distribution factor of a member at a joint is",
+    "options": {
+      "a": "the ratio of the moment borne by the member to the total moment applied at the joint",
+      "b": "the ratio of the area of the member to the sum of the areas of several members",
+      "c": "the ratio of the moment induced at the far end to the moment applied at the near end",
+      "d": "equally among such members whose far ends are hinged."
+    },
+    "answer": "a",
+    "explanation": "DF = K_member / Î£K_joint, representing the proportion of joint moment taken by the member."
+  },
+  {
+    "qn": "156",
+    "topic": "Structural Engineering",
+    "question": "If Ki is the stiffness of i th member of a Joint, the distribution factor for the member is",
+    "options": {
+      "a": "Ki / Î£Ki",
+      "b": "Î£Ki",
+      "c": "Ki",
+      "d": "(Î£Ki - Ki)"
+    },
+    "answer": "a",
+    "explanation": "Standard definition of Distribution Factor in moment distribution method."
+  },
+  {
+    "qn": "157",
+    "topic": "Structural Engineering",
+    "question": "The vertical distance of the crown of the arch above the springing is called",
+    "options": {
+      "a": "span of the arch",
+      "b": "rise of the arch",
+      "c": "thickness of the arch",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "The 'rise' is the vertical distance from the springing line to the highest point (crown)."
+  },
+  {
+    "qn": "158",
+    "topic": "Structural Engineering",
+    "question": "An arch can be treated as a curved beam",
+    "options": {
+      "a": "whose ends are restrained against horizontal movement",
+      "b": "whose ends do not provide any reaction",
+      "c": "whose ends are unsupported",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Horizontal thrust distinguishes an arch from a simple curved beam."
+  },
+  {
+    "qn": "159",
+    "topic": "Structural Engineering",
+    "question": "The line of thrust of the linear arch is",
+    "options": {
+      "a": "the axis of the arch",
+      "b": "the imaginary line of thrust for a given set of loads",
+      "c": "the springing line",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Line of thrust is the locus of the resultant force center along the arch span."
+  },
+  {
+    "qn": "160",
+    "topic": "Structural Engineering",
+    "question": "In hingeless arch, it is supposed to be indeterminate by",
+    "options": {
+      "a": "stable",
+      "b": "geometrically unstable",
+      "c": "2nd degree",
+      "d": "3rd degree"
+    },
+    "answer": "d",
+    "explanation": "A hingeless (fixed) arch in 2D has 6 reaction components and 3 equations, so DSI = 3."
+  },
+  {
+    "qn": "161",
+    "topic": "Structural Engineering",
+    "question": "If there is a cantilever beam joined with the edge of the span, then it is",
+    "options": {
+      "a": "determinate",
+      "b": "indeterminate",
+      "c": "2nd degree",
+      "d": "3rd degree"
+    },
+    "answer": "b",
+    "explanation": "Depends on the jointing and overall structure redundancy."
+  },
+  {
+    "qn": "162",
+    "topic": "Structural Engineering",
+    "question": "Influence line is",
+    "options": {
+      "a": "the line showing stress function due to unit moving load",
+      "b": "the line showing stress function due to unit load",
+      "c": "the line showing stress function due to udl",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "ILD shows the variation of a reaction/SF/BM at a specific section as a unit load moves across the span."
+  },
+  {
+    "qn": "163",
+    "topic": "Structural Engineering",
+    "question": "The line showing the variations of stress function at a given point due to a unit load moving on a span is known as",
+    "options": {
+      "a": "load line",
+      "b": "influence line",
+      "c": "curve line",
+      "d": "stress function line"
+    },
+    "answer": "b",
+    "explanation": "Direct definition of an Influence Line Diagram (ILD)."
+  },
+  {
+    "qn": "164",
+    "topic": "Structural Engineering",
+    "question": "Influence lines are drawn for structures",
+    "options": {
+      "a": "indeterminate",
+      "b": "determinate",
+      "c": "any type",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "ILDs can be constructed for both determinate and indeterminate structures to analyze moving loads."
+  },
+  {
+    "qn": "165",
+    "topic": "Structural Engineering",
+    "question": "Which one is right w.r.t. ILD?",
+    "options": {
+      "a": "it is the BMD due to unit load",
+      "b": "it is the BMD due to static unit load",
+      "c": "it is the BMD due to moving unit load",
+      "d": "it is the BMD due to impacting unit load"
+    },
+    "answer": "c",
+    "explanation": "ILD captures the effect of the unit load as its position changes along the structure."
+  },
+  {
+    "qn": "166",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for S.F. or BM at a section is",
+    "options": {
+      "a": "the value of S.F. or B.M. at that section when the unit load is placed over that section only",
+      "b": "the value of S.F. or B.M. at that section when the unit load is at the centre of the span",
+      "c": "the variation in the value of S.F. or B.M. at that section as the unit load transverses the span from left to right",
+      "d": "the S.F. or B.M. diagram"
+    },
+    "answer": "c",
+    "explanation": "Describes the functional change of the sectional property with load position."
+  },
+  {
+    "qn": "167",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for reaction at a support of a simply supported beam is",
+    "options": {
+      "a": "a triangle with ordinate 1 at that support",
+      "b": "a triangle with ordinate 1 at the other support",
+      "c": "a rectangle with ordinate 1",
+      "d": "a rectangle with ordinate Â½"
+    },
+    "answer": "a",
+    "explanation": "ILD for reaction Ra starts at 1 at A and decreases linearly to 0 at B."
+  },
+  {
+    "qn": "168",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for reaction at the support of a cantilever will be a",
+    "options": {
+      "a": "triangle with zero ordinate at fixed end and unit ordinate at free end",
+      "b": "triangle with unit ordinate at fixed end and zero ordinate at free end",
+      "c": "rectangle with ordinate Â½",
+      "d": "rectangle with unit ordinate"
+    },
+    "answer": "d",
+    "explanation": "Since total load is always carried by the fixed support, reaction is constant (=1) regardless of load position."
+  },
+  {
+    "qn": "169",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for shear force at a section on a cantilever will be",
+    "options": {
+      "a": "a rectangle of length equal to full length of span with unit ordinate",
+      "b": "a rectangle extending between free end and the section with unit ordinate",
+      "c": "a triangle extending for whole length of span with unit ordinate at fixed support",
+      "d": "a triangle extending between the section and the fixed end with unit ordinate at fixed support."
+    },
+    "answer": "b",
+    "explanation": "SF at section x is 1 only when the load is between the free end and that section."
+  },
+  {
+    "qn": "170",
+    "topic": "Structural Engineering",
+    "question": "The ILD for BM at a section in a cantilever will be a triangle extending between the section and the",
+    "options": {
+      "a": "fixed end with maximum ordinate under the section",
+      "b": "fixed end with maximum ordinate under the fixed end",
+      "c": "unsupported end with maximum ordinate at the section",
+      "d": "unsupported end with maximum ordinate at the supported end"
+    },
+    "answer": "d",
+    "explanation": "The maximum moment at the section occurs when the load is at the free end."
+  },
+  {
+    "qn": "171",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for BM at a section of a simply supported beam will be a",
+    "options": {
+      "a": "triangle with maximum ordinate at the section and zero at the two supports",
+      "b": "triangle with maximum ordinate at the support nearer to the section and zero at the other support",
+      "c": "rectangle with unit ordinate",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "The moment at section 'a' is max when load is at 'a' and zero at the hinged ends."
+  },
+  {
+    "qn": "172",
+    "topic": "Structural Engineering",
+    "question": "Plastic section modulus is defined as",
+    "options": {
+      "a": "the ratio of plastic moment capacity of a section to the yield moment",
+      "b": "the ratio of moment of inertia to radius of gyration",
+      "c": "radius of gyration multiplied by the area",
+      "d": "the ratio of plastic moment capacity of a section to the yield stress"
+    },
+    "answer": "d",
+    "explanation": "Plastic modulus Zp = Mp / Ïƒy, where Mp is plastic moment and Ïƒy is yield stress."
+  },
+  {
+    "qn": "173",
+    "topic": "Structural Engineering",
+    "question": "Plastic hinge in a section is caused",
+    "options": {
+      "a": "when the material at a section reach plastic state",
+      "b": "when the extreme fibres at a section reach plastic state",
+      "c": "when all the fibres at a section reach plastic state",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "A plastic hinge forms when the entire cross-section has reached the yield stress Ïƒy."
+  },
+  {
+    "qn": "174",
+    "topic": "Structural Engineering",
+    "question": "The shape factor is defined as the ratio of",
+    "options": {
+      "a": "plastic moment / yield moment",
+      "b": "M.I. / yield stress",
+      "c": "ultimate moment / yield stress",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Shape factor S = Mp / My, representing the reserve strength of the section beyond initial yielding."
+  },
+  {
+    "qn": "175",
+    "topic": "Structural Engineering",
+    "question": "According to Hook's law, which one is wrong?",
+    "options": {
+      "a": "ÏƒÎ±E",
+      "b": "Ïƒ/E = constant",
+      "c": "MoE Ã— Strain = Stress",
+      "d": "MoE Ã— Stress = Strain"
+    },
+    "answer": "d",
+    "explanation": "Hooke's law states that Stress = Young's Modulus (E) Ã— Strain. Therefore, Modulus Ã— Stress does not equal strain."
+  },
+  {
+    "qn": "176",
+    "topic": "Structural Engineering",
+    "question": "What is tenancy?",
+    "options": {
+      "a": "ultimate strength in tension",
+      "b": "ultimate strength in compression",
+      "c": "ultimate shear strength",
+      "d": "ultimate impact strength"
+    },
+    "answer": "a",
+    "explanation": "Tenacity (often misspelled as tenancy) refers to the property of a material to resist being pulled apart, synonymous with ultimate tensile strength."
+  },
+  {
+    "qn": "177",
+    "topic": "Structural Engineering",
+    "question": "At ordinary temperatures, how is the yield point affected with rate of loading?",
+    "options": {
+      "a": "not greatly influenced",
+      "b": "very greatly influenced",
+      "c": "not influenced at all",
+      "d": "difficult to tell"
+    },
+    "answer": "a",
+    "explanation": "For most structural metals at room temperature, minor variations in the strain rate do not significantly alter the yield point value."
+  },
+  [
+  {
+    "qn": "1",
+    "topic": "Structural Engineering",
+    "question": "The direction of shear stress is",
+    "options": {
+      "a": "horizontal",
+      "b": "vertical",
+      "c": "both (a) and (b) above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "To maintain equilibrium, a shear stress on any plane is always accompanied by an equal complementary shear stress on the perpendicular plane."
+  },
+  {
+    "qn": "2",
+    "topic": "Structural Engineering",
+    "question": "The direction of normal stress is",
+    "options": {
+      "a": "parallel to failure plane",
+      "b": "perpendicular to failure plane",
+      "c": "both (a) and (b) above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Normal stress acts perpendicular to the surface area of a cross-section."
+  },
+  {
+    "qn": "3",
+    "topic": "Structural Engineering",
+    "question": "The actual numerical value of tensile stress is ............... than the theoretical stress (engineering stress)",
+    "options": {
+      "a": "less",
+      "b": "more",
+      "c": "equal",
+      "d": "any of the above"
+    },
+    "answer": "b",
+    "explanation": "Actual (true) stress uses the instantaneous area, which decreases during tension, whereas engineering stress uses the original area."
+  },
+  {
+    "qn": "4",
+    "topic": "Structural Engineering",
+    "question": "Allowable stress in steel is less than",
+    "options": {
+      "a": "permissible stress",
+      "b": "working stress",
+      "c": "yield stress",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Allowable stress is determined by dividing the yield stress by a factor of safety, so it is always lower than the yield stress."
+  },
+  {
+    "qn": "5",
+    "topic": "Structural Engineering",
+    "question": "According to Hook's law, which one is wrong ?",
+    "options": {
+      "a": "ÏƒÎ±E",
+      "b": "Ïƒ / E = constant",
+      "c": "MoE Ã— Strain = Stress",
+      "d": "MoE Ã— Stress = Strain"
+    },
+    "answer": "d",
+    "explanation": "Hooke's Law states Stress = Modulus Ã— Strain. Therefore, Modulus Ã— Stress does not equal Strain."
+  },
+  {
+    "qn": "6",
+    "topic": "Structural Engineering",
+    "question": "Stress is directly proportional to strain within elastic limit is given by",
+    "options": {
+      "a": "Archimedes",
+      "b": "Hooke's",
+      "c": "Newton",
+      "d": "Galileo"
+    },
+    "answer": "b",
+    "explanation": "Robert Hooke discovered that for many materials, the extension is proportional to the applied load within the limit of proportionality."
+  },
+  {
+    "qn": "7",
+    "topic": "Structural Engineering",
+    "question": "Elasticity of a body is defined",
+    "options": {
+      "a": "the property by which a body returns to its original shape after removal of load",
+      "b": "the property by which a body don't returns to its original shape after removal of load",
+      "c": "the property by which a body undergoes deformation even after removal of load",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Elasticity is the physical property that allows a material to regain its original dimensions after the external forces are removed."
+  },
+  {
+    "qn": "8",
+    "topic": "Structural Engineering",
+    "question": "Elasticity of a body is",
+    "options": {
+      "a": "the ratio of stress to strain",
+      "b": "the resistance to the force acting",
+      "c": "large deformability",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "In a physical sense, elasticity represents the resistance of a body to the forces trying to deform it."
+  },
+  {
+    "qn": "9",
+    "topic": "Structural Engineering",
+    "question": "Permanent set is",
+    "options": {
+      "a": "the force which acts permanently on the body",
+      "b": "irrecoverable deformation in the body",
+      "c": "the shape of the member just after completion of construction",
+      "d": "ratio of poisson's ratio to young's modulus"
+    },
+    "answer": "b",
+    "explanation": "Permanent set is the plastic deformation that remains in a material even after the removal of the applied stress."
+  },
+  {
+    "qn": "10",
+    "topic": "Structural Engineering",
+    "question": "Stress in a member subjected to a force is",
+    "options": {
+      "a": "the ratio of modulus of elasticity to strain",
+      "b": "the product of modulus of elasticity and strain",
+      "c": "the resistance to the force acting",
+      "d": "sum of strain and modulus of elasticity"
+    },
+    "answer": "b",
+    "explanation": "From Hooke's Law (Ïƒ = EÎµ), stress is the product of the Modulus of Elasticity and the strain."
+  },
+  {
+    "qn": "11",
+    "topic": "Structural Engineering",
+    "question": "Young's modulus is the ratio of the normal stress to the",
+    "options": {
+      "a": "normal strain within elastic limit",
+      "b": "normal strain within proportional limit",
+      "c": "reciprocal of normal strain within elastic limit",
+      "d": "normal strain at yield point"
+    },
+    "answer": "b",
+    "explanation": "Young's Modulus is defined as the constant of proportionality between stress and strain within the proportional limit."
+  },
+  {
+    "qn": "12",
+    "topic": "Structural Engineering",
+    "question": "Modulus of rigidity is the ratio of",
+    "options": {
+      "a": "normal stress to normal strain",
+      "b": "shear stress to shear strain",
+      "c": "lateral stress to lateral strain",
+      "d": "normal strain to normal stress"
+    },
+    "answer": "b",
+    "explanation": "Modulus of rigidity (G) is the ratio of shear stress to the corresponding shear strain."
+  },
+  {
+    "qn": "13",
+    "topic": "Structural Engineering",
+    "question": "In any member of structure system, the strain does not effect the size of member",
+    "options": {
+      "a": "lateral strain",
+      "b": "volumetric strain",
+      "c": "shear strain",
+      "d": "longitudinal strain"
+    },
+    "answer": "c",
+    "explanation": "Shear strain involves a change in shape (angle) but does not result in a change in the volume or physical dimensions of the sides."
+  },
+  {
+    "qn": "14",
+    "topic": "Structural Engineering",
+    "question": "Plasticity of a body is",
+    "options": {
+      "a": "the ratio of stress to strain",
+      "b": "same as property of elasticity",
+      "c": "opposite property of elasticity",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Plasticity refers to permanent deformation, which is the functional opposite of the shape-recovery property of elasticity."
+  },
+  {
+    "qn": "15",
+    "topic": "Structural Engineering",
+    "question": "The ratio of lateral strain to longitudinal strain is called",
+    "options": {
+      "a": "poisson's ratio",
+      "b": "stress",
+      "c": "Hook's law",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Poisson's ratio is the ratio of transverse strain to axial strain."
+  },
+  {
+    "qn": "16",
+    "topic": "Structural Engineering",
+    "question": "The product EI is called",
+    "options": {
+      "a": "flexural rigidity",
+      "b": "torsional rigidity",
+      "c": "second moment of area",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "The product of Young's Modulus and Moment of Inertia defines the flexural rigidity of a beam section."
+  },
+  {
+    "qn": "17",
+    "topic": "Structural Engineering",
+    "question": "The value of poisson's ratio always remains",
+    "options": {
+      "a": "greater than one",
+      "b": "less than one",
+      "c": "equal to one",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "For most engineering materials, Poisson's ratio ranges between 0.0 and 0.5."
+  },
+  {
+    "qn": "18",
+    "topic": "Structural Engineering",
+    "question": "The percentage elongation of a material from a direct tensile test indicates",
+    "options": {
+      "a": "ductility",
+      "b": "strength",
+      "c": "yield stress",
+      "d": "brittleness"
+    },
+    "answer": "a",
+    "explanation": "Ductility is the ability of a material to deform plastically without fracture, measured by percentage elongation."
+  },
+  {
+    "qn": "19",
+    "topic": "Structural Engineering",
+    "question": "The percentage reduction of a material from a direct compressive test indicates",
+    "options": {
+      "a": "ductility",
+      "b": "strength",
+      "c": "yield stress",
+      "d": "brittleness"
+    },
+    "answer": "a",
+    "explanation": "In compression, a ductile material will show a significant reduction in height and increase in area before failure."
+  },
+  {
+    "qn": "20",
+    "topic": "Structural Engineering",
+    "question": "The safe value of stress below which the material will not fail when subjected to reversal of stress is known as",
+    "options": {
+      "a": "fatigue stress",
+      "b": "endurance limit",
+      "c": "elastic limit",
+      "d": "tolerance limit"
+    },
+    "answer": "b",
+    "explanation": "Endurance limit is the maximum stress that a material can withstand for an infinite number of cycles without fatigue failure."
+  },
+  {
+    "qn": "21",
+    "topic": "Structural Engineering",
+    "question": "The property by which the metals deforms continuously at a slow rate without further increase in stress is called",
+    "options": {
+      "a": "creep",
+      "b": "fatigue",
+      "c": "resilience",
+      "d": "plasticity"
+    },
+    "answer": "a",
+    "explanation": "Creep is the time-dependent permanent deformation under constant load."
+  },
+  {
+    "qn": "22",
+    "topic": "Structural Engineering",
+    "question": "Toughness is",
+    "options": {
+      "a": "ability to absorb energy during plastic deformation",
+      "b": "higher ultimate strength",
+      "c": "stress at field",
+      "d": "strain energy at field"
+    },
+    "answer": "a",
+    "explanation": "Toughness is the total energy a material can absorb before fracture."
+  },
+  {
+    "qn": "23",
+    "topic": "Structural Engineering",
+    "question": "The impact tests are used to determine",
+    "options": {
+      "a": "ultimate crushing strength",
+      "b": "toughness",
+      "c": "ductility",
+      "d": "tenancy"
+    },
+    "answer": "b",
+    "explanation": "Impact tests (Charpy/Izod) measure the energy absorbed during sudden fracture, which determines toughness."
+  },
+  {
+    "qn": "24",
+    "topic": "Structural Engineering",
+    "question": "The ratio of maximum instantaneous stress due to sudden loading to the maximum stress due to gradual loading will be",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "Suddenly applied loads produce twice the stress compared to the same load applied gradually."
+  },
+  {
+    "qn": "25",
+    "topic": "Structural Engineering",
+    "question": "What is tenancy ?",
+    "options": {
+      "a": "ultimate strength in tension",
+      "b": "ultimate strength in compression",
+      "c": "ultimate shear strength",
+      "d": "ultimate impact strength"
+    },
+    "answer": "a",
+    "explanation": "Tenacity refers to the ultimate tensile strength or the resistance of a material to being pulled apart."
+  },
+  {
+    "qn": "26",
+    "topic": "Structural Engineering",
+    "question": "At ordinary temperatures, how is the yield point affected with rate of loading ?",
+    "options": {
+      "a": "not greatly influenced",
+      "b": "very greatly influenced",
+      "c": "not influenced at all",
+      "d": "difficult to tell"
+    },
+    "answer": "a",
+    "explanation": "For most structural metals, minor changes in loading rates at room temperature do not significantly change the yield stress."
+  },
+  {
+    "qn": "27",
+    "topic": "Structural Engineering",
+    "question": "Simple bending equation is",
+    "options": {
+      "a": "M/I = f/y = E/R",
+      "b": "f/I = M/y = E/R",
+      "c": "M/I = E/y = f/R",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "The bending formula relates Bending Moment (M), Moment of Inertia (I), Bending Stress (f), distance from NA (y), Modulus (E), and Radius (R)."
+  },
+  {
+    "qn": "28",
+    "topic": "Structural Engineering",
+    "question": "Stress in a beam due to simple bending is",
+    "options": {
+      "a": "directly proportional",
+      "b": "inversely proportional",
+      "c": "curvilinearly related",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "According to f = (M/I) * y, the bending stress is directly proportional to the distance from the neutral axis."
+  },
+  {
+    "qn": "29",
+    "topic": "Structural Engineering",
+    "question": "In a composite bar the load distribution among different materials of which it is made is based on the assumption the all the materials will have",
+    "options": {
+      "a": "equal areas",
+      "b": "same Young's modulus",
+      "c": "same strain",
+      "d": "same stress"
+    },
+    "answer": "c",
+    "explanation": "For composite members acting together, they must undergo the same deformation per unit length (strain)."
+  },
+  {
+    "qn": "30",
+    "topic": "Structural Engineering",
+    "question": "The stress due to temperature change in a member depends on",
+    "options": {
+      "a": "supporting conditions of ends",
+      "b": "length of member",
+      "c": "area of cross section",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Temperature stress only develops if thermal expansion/contraction is restricted by the supports."
+  },
+  {
+    "qn": "31",
+    "topic": "Structural Engineering",
+    "question": "Strain energy of a member may be defined as work done on it",
+    "options": {
+      "a": "to deform it",
+      "b": "to resist elongation",
+      "c": "to resist shortening",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Strain energy is the internal work stored in a body during deformation (tension, compression, or shear)."
+  },
+  {
+    "qn": "32",
+    "topic": "Structural Engineering",
+    "question": "Partial derivative of strain energy gives",
+    "options": {
+      "a": "deflection",
+      "b": "slop",
+      "c": "moment",
+      "d": "redundant force"
+    },
+    "answer": "a",
+    "explanation": "Castigliano's First Theorem states that the partial derivative of total strain energy with respect to a load gives the displacement in the direction of the load."
+  },
+  {
+    "qn": "33",
+    "topic": "Structural Engineering",
+    "question": "The strain energy stored in a specimen when strained within the elastic limit is known as",
+    "options": {
+      "a": "resilience",
+      "b": "proof resilience",
+      "c": "strain energy",
+      "d": "modulus of resilience"
+    },
+    "answer": "a",
+    "explanation": "Resilience is the capacity of a material to absorb energy when deformed elastically."
+  },
+  {
+    "qn": "34",
+    "topic": "Structural Engineering",
+    "question": "The maximum strain energy stored in a specimen when strained within the elastic limit is known as",
+    "options": {
+      "a": "resilience",
+      "b": "proof resilience",
+      "c": "strain energy",
+      "d": "modulus of resilience"
+    },
+    "answer": "b",
+    "explanation": "Proof resilience is the maximum strain energy that can be stored in a body up to the elastic limit point."
+  },
+  {
+    "qn": "35",
+    "topic": "Structural Engineering",
+    "question": "Find the elongation of a rod if a load of p is applied on a rod having length, l c/s area, A and modulus of elasticity, E",
+    "options": {
+      "a": "pl/AE",
+      "b": "pE/Al",
+      "c": "Al/pE",
+      "d": "pA/IE"
+    },
+    "answer": "a",
+    "explanation": "From Î” = (Stress/E) * L, elongation = PL/AE."
+  },
+  {
+    "qn": "36",
+    "topic": "Structural Engineering",
+    "question": "Find the modulus elasticity of bar material (E) if c/s area of bar is A, length L, applied load P and elongation is Î”",
+    "options": {
+      "a": "pl/AÎ”",
+      "b": "pÎ”/la",
+      "c": "AÎ”/pl",
+      "d": "pA/Î”l"
+    },
+    "answer": "a",
+    "explanation": "Rearranging Î” = PL/AE gives E = PL/AÎ”."
+  },
+  {
+    "qn": "37",
+    "topic": "Structural Engineering",
+    "question": "The amount of stress developed due to increase in temperature in case of SSB if l=10m, Î”T=10Â°C, A=5cmÂ²",
+    "options": {
+      "a": "1N/mmÂ²",
+      "b": "100 N/mmÂ²",
+      "c": "500 N/mmÂ²",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "In a Simply Supported Beam (SSB) that is free to expand, temperature stress is zero unless expansion is prevented."
+  },
+  {
+    "qn": "38",
+    "topic": "Structural Engineering",
+    "question": "A member having cross section 5 cm Ã— 5 cm is subjected to a tensile stress of 100 kg/cmÂ², then the applied load should be",
+    "options": {
+      "a": "2500 kg",
+      "b": "2000 kg",
+      "c": "1500 kg",
+      "d": "1000 kg"
+    },
+    "answer": "a",
+    "explanation": "Load = Stress Ã— Area = 100 kg/cmÂ² Ã— (5 Ã— 5) cmÂ² = 2500 kg."
+  },
+  {
+    "qn": "39",
+    "topic": "Structural Engineering",
+    "question": "Torsion is produced in a beam due to",
+    "options": {
+      "a": "magnitude of load",
+      "b": "eccentricity of load from centroidal axis",
+      "c": "types of beam",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "A twisting moment or torsion is created when a vertical load acts at an eccentric distance from the centroidal/shear axis."
+  },
+  {
+    "qn": "40",
+    "topic": "Structural Engineering",
+    "question": "Due to torsion moment beam get",
+    "options": {
+      "a": "bent",
+      "b": "twisted",
+      "c": "uplifted",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Torsion creates a rotational deformation known as twisting about the longitudinal axis."
+  },
+  {
+    "qn": "41",
+    "topic": "Structural Engineering",
+    "question": "Torsional equation is given by",
+    "options": {
+      "a": "T/J = Ï„/R = CÎ¸/l",
+      "b": "J/T = Ï„/R = CÎ¸/l",
+      "c": "T/R = Ï„/J = CÎ¸/l",
+      "d": "T/R = Ï„/R = CÎ¸/l"
+    },
+    "answer": "a",
+    "explanation": "This formula relates Torque (T), Polar MOI (J), Shear Stress (Ï„), Radius (R), Modulus (C), and Twist (Î¸)."
+  },
+  {
+    "qn": "42",
+    "topic": "Structural Engineering",
+    "question": "The amount of temperature stress is ............ in fixed beam if compared with propped cantilever.",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal",
+      "d": "any of the above"
+    },
+    "answer": "a",
+    "explanation": "A fixed beam has more constraints on expansion compared to a propped cantilever, leading to higher stresses."
+  },
+  {
+    "qn": "43",
+    "topic": "Structural Engineering",
+    "question": "If the M.I of section about its axis is I and if the effective sectional area is A, then radius of gyration r is given by",
+    "options": {
+      "a": "âˆš(I/A)",
+      "b": "âˆš(I.A)",
+      "c": "âˆš(A/I)",
+      "d": "âˆš(I/AÂ²)"
+    },
+    "answer": "a",
+    "explanation": "The radius of gyration (k or r) is defined as the square root of the ratio of Moment of Inertia to Area."
+  },
+  {
+    "qn": "44",
+    "topic": "Structural Engineering",
+    "question": "Stress concentration near the void is ............... as compared to solid portion.",
+    "options": {
+      "a": "less",
+      "b": "more",
+      "c": "equal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Discontinuities like holes or voids cause a localized increase in stress intensity, known as stress concentration."
+  },
+  {
+    "qn": "45",
+    "topic": "Structural Engineering",
+    "question": "Hoop stress is",
+    "options": {
+      "a": "compressive",
+      "b": "radial stress",
+      "c": "circumferential tensile stress",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "In thin cylinders, hoop stress acts tangentially along the circumference and is tensile under internal pressure."
+  },
+  {
+    "qn": "46",
+    "topic": "Structural Engineering",
+    "question": "The moment of inertia of rectangular section is",
+    "options": {
+      "a": "BDÂ³/12",
+      "b": "aâ´/12",
+      "c": "Ï€BDÂ³/64",
+      "d": "bhÂ³/36"
+    },
+    "answer": "a",
+    "explanation": "For a rectangle of width B and depth D, the MOI about the centroidal X-axis is BDÂ³/12."
+  },
+  {
+    "qn": "47",
+    "topic": "Structural Engineering",
+    "question": "Ratio of moment of inertia (MOI) of a rectangular object about its x-axis to its base is",
+    "options": {
+      "a": "1/12",
+      "b": "1/8",
+      "c": "1/6",
+      "d": "1/4"
+    },
+    "answer": "d",
+    "explanation": "MOI about CG = BDÂ³/12. MOI about Base = BDÂ³/3. Ratio = (1/12) / (1/3) = 1/4."
+  },
+  {
+    "qn": "48",
+    "topic": "Structural Engineering",
+    "question": "M.I of circular section",
+    "options": {
+      "a": "Ï€dâ´/64",
+      "b": "Ï€dâ´/48",
+      "c": "Ï€dâ´/56",
+      "d": "Ï€dâ´/78"
+    },
+    "answer": "a",
+    "explanation": "The moment of inertia of a solid circular section of diameter d is Ï€dâ´/64."
+  },
+  {
+    "qn": "49",
+    "topic": "Structural Engineering",
+    "question": "The moment of inertia of square section is",
+    "options": {
+      "a": "aâ´/12",
+      "b": "BDÂ³/12",
+      "c": "Ï€BDÂ³/64",
+      "d": "bhÂ³/36"
+    },
+    "answer": "a",
+    "explanation": "For a square of side 'a', MOI = aâ´/12."
+  },
+  {
+    "qn": "50",
+    "topic": "Structural Engineering",
+    "question": "The moment of inertia of elliptical section is",
+    "options": {
+      "a": "Ï€BDÂ³/64",
+      "b": "BDÂ³/12",
+      "c": "aâ´/12",
+      "d": "bhÂ³/36"
+    },
+    "answer": "a",
+    "explanation": "The moment of inertia of an ellipse about its major axis is Ï€BDÂ³/64 (where D is the major axis)."
+  },
+  {
+    "qn": "51",
+    "topic": "Structural Engineering",
+    "question": "The moment of inertia of triangular section about its c.g.",
+    "options": {
+      "a": "bhÂ³/36",
+      "b": "BDÂ³/12",
+      "c": "aâ´/12",
+      "d": "Ï€BDÂ³/64"
+    },
+    "answer": "a",
+    "explanation": "The MOI of a triangle about its centroidal axis parallel to the base is bhÂ³/36."
+  },
+  {
+    "qn": "52",
+    "topic": "Structural Engineering",
+    "question": "Along the neutral axis of a simply supported beam",
+    "options": {
+      "a": "fibres do not undergo strain",
+      "b": "fibres undergo minimum strain",
+      "c": "fibres undergo maximum strain",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "By definition, the neutral axis is the layer where bending stress and bending strain are zero."
+  },
+  {
+    "qn": "53",
+    "topic": "Structural Engineering",
+    "question": "The ratio of the moment of inertia of a circular plate and a square plate for equal depth is",
+    "options": {
+      "a": "slightly less than one",
+      "b": "equal to one",
+      "c": "more than one",
+      "d": "equal to 3Ï€/16"
+    },
+    "answer": "d",
+    "explanation": "Circular MOI = Ï€dâ´/64. Square MOI = dâ´/12. Ratio = (Ï€/64) / (1/12) = 12Ï€/64 = 3Ï€/16."
+  },
+  {
+    "qn": "54",
+    "topic": "Structural Engineering",
+    "question": "The section modulus of a rectangular section is proportional to",
+    "options": {
+      "a": "area of the section",
+      "b": "square of the area of the section",
+      "c": "product of the area and depth",
+      "d": "product of the area and width"
+    },
+    "answer": "a",
+    "explanation": "Z = bdÂ²/6. Since Area A = bd, Z = (Ad)/6, which is proportional to area for a given depth."
+  },
+  {
+    "qn": "55",
+    "topic": "Structural Engineering",
+    "question": "The algebraic sum of the vertical forces on either side of the section of a loaded beam is known as",
+    "options": {
+      "a": "shear force",
+      "b": "bending moment",
+      "c": "deformed force",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Shear force at any section is the net unbalanced vertical force to the left or right of that section."
+  },
+  {
+    "qn": "56",
+    "topic": "Structural Engineering",
+    "question": "Find the shear force produced in the member BC due to load 4 KN at C in a cantilever ABC (fixed at A, free at C).",
+    "options": {
+      "a": "4 KN",
+      "b": "50 kN",
+      "c": "25 kN",
+      "d": "75 kN"
+    },
+    "answer": "a",
+    "explanation": "In a cantilever with a point load at the free end, the shear force is constant and equal to the load throughout the span."
+  },
+  {
+    "qn": "57",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at fixed end for the structure as shown (Load 10T, eccentric 2m, height 3m+1m).",
+    "options": {
+      "a": "0",
+      "b": "10 Tm",
+      "c": "20 Tm",
+      "d": "30 Tm"
+    },
+    "answer": "a",
+    "explanation": "If the line of action of the load passes through the fixed support, the bending moment at that point is zero."
+  },
+  {
+    "qn": "58",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at fixed end for the structure (Load 10T at 1m ecc, 5T at 1m ecc opposite).",
+    "options": {
+      "a": "0",
+      "b": "10 Tm",
+      "c": "20 Tm",
+      "d": "30 Tm"
+    },
+    "answer": "a",
+    "explanation": "Moments cancel out due to equal and opposite eccentricities relative to the support in this specific configuration."
+  },
+  {
+    "qn": "59",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at fixed end of cantilever with 5T point load at 2m and 10 T-m clockwise moment at free end (5m).",
+    "options": {
+      "a": "0",
+      "b": "10 Tm",
+      "c": "20 Tm",
+      "d": "30 Tm"
+    },
+    "answer": "a",
+    "explanation": "Moment at fixed end = (5 * 2) - 10 = 10 - 10 = 0 Tm."
+  },
+  {
+    "qn": "60",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at fixed end: 10T load at 2m, 10 T-m anti-clockwise moment at end.",
+    "options": {
+      "a": "0",
+      "b": "10 Tm",
+      "c": "20 Tm",
+      "d": "30 Tm"
+    },
+    "answer": "b",
+    "explanation": "Resultant moment calculated from the sum of moments about the fixed support."
+  },
+  {
+    "qn": "61",
+    "topic": "Structural Engineering",
+    "question": "A rectangular beam carries a maximum bending moment of M. If its depth is doubled, its moment carrying capacity will be",
+    "options": {
+      "a": "M",
+      "b": "2M",
+      "c": "3M",
+      "d": "4M"
+    },
+    "answer": "d",
+    "explanation": "Capacity is proportional to Section Modulus (Z = bdÂ²/6). Doubling depth 'd' makes Z increase by a factor of 4."
+  },
+  {
+    "qn": "62",
+    "topic": "Structural Engineering",
+    "question": "The algebraic sum of the moments of the forces on either side of the section of a loaded beam is known as",
+    "options": {
+      "a": "shear force",
+      "b": "bending moment",
+      "c": "deformed force",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "This is the fundamental definition of bending moment at a section."
+  },
+  {
+    "qn": "63",
+    "topic": "Structural Engineering",
+    "question": "The shear force and bending moment are related by",
+    "options": {
+      "a": "V = M/Z",
+      "b": "V = MY/I",
+      "c": "V = dM/dx",
+      "d": "V = Mdx"
+    },
+    "answer": "c",
+    "explanation": "The rate of change of bending moment along the length of the beam is equal to the shear force."
+  },
+  {
+    "qn": "64",
+    "topic": "Structural Engineering",
+    "question": "The shear force on a beam and the displacement are related by",
+    "options": {
+      "a": "V = EI (dÂ²y/dxÂ²)",
+      "b": "V = EI (dy/dx)",
+      "c": "V = EI (dÂ³y/dxÂ³)",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Bending moment M = EI(dÂ²y/dxÂ²). Since V = dM/dx, then V = EI(dÂ³y/dxÂ³)."
+  },
+  {
+    "qn": "65",
+    "topic": "Structural Engineering",
+    "question": "Which one is correct if the deflection of a beam is y",
+    "options": {
+      "a": "Î¸ = dy/dx",
+      "b": "dÎ¸/dx = dÂ²y/dxÂ²",
+      "c": "M = EI / R",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "All these relations are fundamental identities in the elastic curve theory of beams."
+  },
+  {
+    "qn": "66",
+    "topic": "Structural Engineering",
+    "question": "Calculate the maximum BM introduced due to a udl of 4KN/m, if the span of the cantilever is 1.8m",
+    "options": {
+      "a": "2.16 KN-M",
+      "b": "6.48 KN-M",
+      "c": "1.08 KN-M",
+      "d": "5.48 KN-M"
+    },
+    "answer": "b",
+    "explanation": "Max BM = wLÂ²/2 = 4 * (1.8)Â² / 2 = 6.48 KN-m."
+  },
+  {
+    "qn": "67",
+    "topic": "Structural Engineering",
+    "question": "Find the bending moment at 1/4th of the span for SSB with point load 200kg at center (L=20m).",
+    "options": {
+      "a": "250 kg-m",
+      "b": "500 kg-m",
+      "c": "50 kg-m",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Reaction R = 100kg. BM at L/4 (5m) = 100 * 5 = 500 kg-m."
+  },
+  {
+    "qn": "68",
+    "topic": "Structural Engineering",
+    "question": "The maximum deflection in the cantilever beam subjected to an udl of W/m throughout the span is",
+    "options": {
+      "a": "WLâ´/8EI",
+      "b": "WLâ´/36EI",
+      "c": "3WLâ´/384EI",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "This is the standard formula for max deflection at the free end of a cantilever with UDL."
+  },
+  {
+    "qn": "69",
+    "topic": "Structural Engineering",
+    "question": "For SSB of length L with UVL from zero at left to max at right, max BM occurs at distance of",
+    "options": {
+      "a": "L/âˆš3 from left end",
+      "b": "L/3 from left end",
+      "c": "L/âˆš3 from right end",
+      "d": "L/3 from right end"
+    },
+    "answer": "a",
+    "explanation": "Calculated by setting SF = dM/dx = 0 in the loading equation."
+  },
+  {
+    "qn": "70",
+    "topic": "Structural Engineering",
+    "question": "Load carrying capacity of fixed beam is",
+    "options": {
+      "a": "lesser than simply supported beam",
+      "b": "lesser than cantilever beam",
+      "c": "greater than simply supported beam and cantilever beam",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Fixed beams have higher stiffness and lower maximum bending moments for the same load, increasing capacity."
+  },
+  {
+    "qn": "71",
+    "topic": "Structural Engineering",
+    "question": "The difference in placing end of beam over support vs through hinge on rollers is that roller support",
+    "options": {
+      "a": "can offer reaction in plane of rollers",
+      "b": "can offer moment reaction",
+      "c": "will not allowed the end to lift up the deflection",
+      "d": "will not offer reaction normal to the plane of rollers"
+    },
+    "answer": "c",
+    "explanation": "Roller supports constrain vertical movement but allow rotation and horizontal translation."
+  },
+  {
+    "qn": "72",
+    "topic": "Structural Engineering",
+    "question": "The number of reaction components possible at a hinged end for a general loading is",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "answer": "c",
+    "explanation": "A hinge provides vertical and horizontal reaction components."
+  },
+  {
+    "qn": "73",
+    "topic": "Structural Engineering",
+    "question": "At either ends of plane frame, maximum number of possible transverse shear forces, are",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "three",
+      "d": "four"
+    },
+    "answer": "a",
+    "explanation": "In 2D frame analysis, each member end has one shear force component."
+  },
+  {
+    "qn": "74",
+    "topic": "Structural Engineering",
+    "question": "At either ends of plane frame, maximum number of possible bending moment, are",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "three",
+      "d": "zero"
+    },
+    "answer": "d",
+    "explanation": "Refers to the count of moment components at a specific point end in a 2D plane frame context."
+  },
+  {
+    "qn": "75",
+    "topic": "Structural Engineering",
+    "question": "A simply supported beam of span L carries a uniformly distributed load, w. The maximum shear force, V is",
+    "options": {
+      "a": "wL/2",
+      "b": "wL/4",
+      "c": "wL/8",
+      "d": "wL/16"
+    },
+    "answer": "a",
+    "explanation": "The maximum shear force in an SSB with UDL occurs at the supports and is equal to half the total load."
+  },
+  {
+    "qn": "76",
+    "topic": "Structural Engineering",
+    "question": "A simply supported beam of span L carries a uniformly distributed load, w. The maximum bending moment, M is",
+    "options": {
+      "a": "wLÂ²/2",
+      "b": "wLÂ²/4",
+      "c": "wLÂ²/8",
+      "d": "wLÂ²/16"
+    },
+    "answer": "c",
+    "explanation": "Standard formula for max BM at mid-span of an SSB with UDL."
+  },
+  {
+    "qn": "77",
+    "topic": "Structural Engineering",
+    "question": "A simply supported beam of span L carries two equal concentrated loads, W at a distance of L/3 from either support. The maximum bending moment, M is",
+    "options": {
+      "a": "WL/2",
+      "b": "WL/3",
+      "c": "WL/4",
+      "d": "WL/5"
+    },
+    "answer": "b",
+    "explanation": "BM = Reaction * distance = W * (L/3) = WL/3."
+  },
+  {
+    "qn": "78",
+    "topic": "Structural Engineering",
+    "question": "A beam is hinged at both ends and loaded with a triangular load having maximum intensity (W) at centre. Find the maximum bending moment & shear force",
+    "options": {
+      "a": "WLÂ²/12 , WL/10",
+      "b": "WLÂ²/12 , WL/4",
+      "c": "WLÂ²/10 , WL/10",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Determined by structural integration and equilibrium of total load W."
+  },
+  {
+    "qn": "79",
+    "topic": "Structural Engineering",
+    "question": "The shape of bending moment diagram over the length of a beam, having no external load is",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubical",
+      "d": "circular"
+    },
+    "answer": "a",
+    "explanation": "In portions without load, the SF is constant and BM is linear."
+  },
+  {
+    "qn": "80",
+    "topic": "Structural Engineering",
+    "question": "The shape of bending moment diagram over the length of a beam, carrying a uniformly distributed load is",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubical",
+      "d": "circular"
+    },
+    "answer": "b",
+    "explanation": "BM is a second-order function of x for a constant load w."
+  },
+  {
+    "qn": "81",
+    "topic": "Structural Engineering",
+    "question": "In any beam, there is acting uniformly moment then its curve is",
+    "options": {
+      "a": "circular arch",
+      "b": "parabolic arch",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "A constant bending moment results in a circular deflection curve (arch) for the beam segment."
+  },
+  {
+    "qn": "82",
+    "topic": "Structural Engineering",
+    "question": "The shape of bending moment diagram over the length of a beam, carrying a uniformly increasing load is",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubical",
+      "d": "circular"
+    },
+    "answer": "c",
+    "explanation": "Load is linear (x), SF is parabolic (xÂ²), so BM is cubic (xÂ³)."
+  },
+  {
+    "qn": "83",
+    "topic": "Structural Engineering",
+    "question": "The maximum bending moment due to moving load on a simply supported beam occurs",
+    "options": {
+      "a": "at the mid span",
+      "b": "at the supports",
+      "c": "under the load",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "For a single point load moving across an SSB, the absolute maximum BM always occurs directly under the load."
+  },
+  {
+    "qn": "84",
+    "topic": "Structural Engineering",
+    "question": "For a simply supported beam with a central load, the bending moment is",
+    "options": {
+      "a": "least at the centre",
+      "b": "least at the supports",
+      "c": "maximum at the supports",
+      "d": "maximum at the center"
+    },
+    "answer": "d",
+    "explanation": "BM is WL/4 at the center and zero at the hinged supports."
+  },
+  {
+    "qn": "85",
+    "topic": "Structural Engineering",
+    "question": "For a cantilever with a uniformly distributed load, w over its entire length L, the maximum bending moment is",
+    "options": {
+      "a": "wLÂ²",
+      "b": "wLÂ²/2",
+      "c": "wLÂ²/3",
+      "d": "wLÂ²/4"
+    },
+    "answer": "b",
+    "explanation": "Max BM = Total load * Distance to CG = (wL) * (L/2) = wLÂ²/2."
+  },
+  {
+    "qn": "86",
+    "topic": "Structural Engineering",
+    "question": "The maximum deflection in the cantilever beam carrying a point load (W) at end is",
+    "options": {
+      "a": "WLÂ³/3EI",
+      "b": "WLÂ³/8EI",
+      "c": "WLÂ³/16EI",
+      "d": "WLÂ³/32EI"
+    },
+    "answer": "a",
+    "explanation": "Standard displacement formula for a cantilever with end load."
+  },
+  {
+    "qn": "87",
+    "topic": "Structural Engineering",
+    "question": "In a cantilever beam a point load is applied at the free end. Which one is correct?",
+    "options": {
+      "a": "SF is uniform throughout the beam",
+      "b": "SF varies linearly from free end to fixed end",
+      "c": "BM is uniform throughout the beam",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Shear force is constant and equal to W across the entire span."
+  },
+  {
+    "qn": "88",
+    "topic": "Structural Engineering",
+    "question": "Which of the following end conditions permits the displacement in any direction and also rotation",
+    "options": {
+      "a": "fixed end",
+      "b": "hinged end",
+      "c": "roller end",
+      "d": "free end"
+    },
+    "answer": "d",
+    "explanation": "A free end has no constraints, allowing both translation and rotation."
+  },
+  {
+    "qn": "89",
+    "topic": "Structural Engineering",
+    "question": "Which of the following section is the most efficient in carrying bending moments ?",
+    "options": {
+      "a": "I-section",
+      "b": "rectangular-section",
+      "c": "T-section",
+      "d": "circular-section"
+    },
+    "answer": "a",
+    "explanation": "I-sections place more material away from the neutral axis, maximizing the section modulus Z."
+  },
+  {
+    "qn": "90",
+    "topic": "Structural Engineering",
+    "question": "In an I-section almost all the shear force is taken by",
+    "options": {
+      "a": "top flange",
+      "b": "web",
+      "c": "bottom flange",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "The flanges carry bending, while the vertical web carries the majority of the transverse shear stress."
+  },
+  {
+    "qn": "91",
+    "topic": "Structural Engineering",
+    "question": "The bending moment is maximum on a section where shear force",
+    "options": {
+      "a": "is maximum",
+      "b": "is minimum",
+      "c": "is equal",
+      "d": "changes sign"
+    },
+    "answer": "d",
+    "explanation": "Maximum BM occurs where dM/dx = 0, which corresponds to zero or sign-changing shear force."
+  },
+  {
+    "qn": "92",
+    "topic": "Structural Engineering",
+    "question": "In a continuous bending moment curve the point where its changes sign is called",
+    "options": {
+      "a": "point of inflexion",
+      "b": "point of contraflexture",
+      "c": "point of virtual hinge",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "The location where BM changes sign (and is zero) is the point of contraflexture."
+  },
+  {
+    "qn": "93",
+    "topic": "Structural Engineering",
+    "question": "For any types of loading, the no. of point of contraflexture in a simply supported beam is",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "zero",
+      "d": "three"
+    },
+    "answer": "c",
+    "explanation": "In a simply supported beam, the BM remains of one sign (typically positive) for downward loads."
+  },
+  {
+    "qn": "94",
+    "topic": "Structural Engineering",
+    "question": "The moment diagram for a cantilever carrying concentrated load at its free end will be",
+    "options": {
+      "a": "triangle",
+      "b": "rectangle",
+      "c": "parabola",
+      "d": "cubic parabola"
+    },
+    "answer": "a",
+    "explanation": "BM = W * x, which is a linear (triangular) diagram."
+  },
+  {
+    "qn": "95",
+    "topic": "Structural Engineering",
+    "question": "Shear force for a cantilever carrying a uniformly distributed load over its whole length is",
+    "options": {
+      "a": "triangle",
+      "b": "rectangle",
+      "c": "parabola",
+      "d": "cubic parabola"
+    },
+    "answer": "a",
+    "explanation": "SF = w * x, which varies linearly from zero at the free end to wL at the fixed end."
+  },
+  {
+    "qn": "96",
+    "topic": "Structural Engineering",
+    "question": "When a rectangular beam is loaded longitudinally, shear develops",
+    "options": {
+      "a": "bottom fibre",
+      "b": "top fibre",
+      "c": "neutral axis",
+      "d": "every horizontal plane"
+    },
+    "answer": "d",
+    "explanation": "Longitudinal loading (axial) primarily creates normal stress; shear develops in various planes if combined with bending."
+  },
+  {
+    "qn": "97",
+    "topic": "Structural Engineering",
+    "question": "When a rectangular beam is loaded transversely, the maximum compressive force develops on",
+    "options": {
+      "a": "bottom fibre",
+      "b": "top fibre",
+      "c": "neutral axis",
+      "d": "every horizontal plane"
+    },
+    "answer": "b",
+    "explanation": "For a downward load, the top fibers of a beam are in compression."
+  },
+  {
+    "qn": "98",
+    "topic": "Structural Engineering",
+    "question": "If the shear force along a section of a beam is zero, the bending moment at the section is",
+    "options": {
+      "a": "zero",
+      "b": "minimum",
+      "c": "maximum",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Where shear force is zero, the rate of change of BM is zero, indicating a local peak (maximum or minimum)."
+  },
+  {
+    "qn": "99",
+    "topic": "Structural Engineering",
+    "question": "The moments in the arch will be zero, if",
+    "options": {
+      "a": "ends are hinged",
+      "b": "ends are fixed",
+      "c": "the arch axis coincides with the line of thrust",
+      "d": "the arch axis is parallel to the line of thrust"
+    },
+    "answer": "c",
+    "explanation": "If the line of thrust passes through the center of the arch at every point, no moment is generated."
+  },
+  {
+    "qn": "100",
+    "topic": "Structural Engineering",
+    "question": "The arch meant for supporting uniformly distributed loads, to avoid any bending moment must be",
+    "options": {
+      "a": "circular",
+      "b": "elliptical",
+      "c": "parabolic",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "A parabolic arch is the ideal shape to carry UDL as pure compression (funicular shape)."
+  },
+  {
+    "qn": "101",
+    "topic": "Structural Engineering",
+    "question": "In any determinate structure, vertical load fall on the",
+    "options": {
+      "a": "hinge",
+      "b": "rollar",
+      "c": "fixed",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Roller supports only provide vertical reactions, thus carrying only vertical loads."
+  },
+  {
+    "qn": "102",
+    "topic": "Structural Engineering",
+    "question": "Three hinged arch is a .....structure.",
+    "options": {
+      "a": "indeterminate",
+      "b": "determinate",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "The three hinges provide enough equilibrium equations to solve for all reactions."
+  },
+  {
+    "qn": "103",
+    "topic": "Structural Engineering",
+    "question": "Three hinged arch will have three hinges",
+    "options": {
+      "a": "two at the two ends and one any where in between the two ends",
+      "b": "two at the two ends and one at the crown only",
+      "c": "one hinge at the crown essentially and the other two any where",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Standard three-hinged arch configuration: two at springings and one at the crown."
+  },
+  {
+    "qn": "104",
+    "topic": "Structural Engineering",
+    "question": "The value of horizontal thrust produced in a arch is",
+    "options": {
+      "a": "wLÂ²/4",
+      "b": "wLÂ²/6",
+      "c": "wLÂ²/8h",
+      "d": "wLÂ²/10"
+    },
+    "answer": "c",
+    "explanation": "For a parabolic arch with UDL, the horizontal thrust H = wLÂ²/8h."
+  },
+  {
+    "qn": "105",
+    "topic": "Structural Engineering",
+    "question": "The amount of bending moment induced in a cable is",
+    "options": {
+      "a": "unity",
+      "b": "zero",
+      "c": "two",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Ideally flexible cables can only carry axial tension; bending moments are zero throughout."
+  },
+  {
+    "qn": "106",
+    "topic": "Structural Engineering",
+    "question": "A suspension cable, supporting loads will be under",
+    "options": {
+      "a": "tension",
+      "b": "bending",
+      "c": "compression",
+      "d": "compression and bending"
+    },
+    "answer": "a",
+    "explanation": "Cables are designed to carry loads exclusively through tensile force."
+  },
+  {
+    "qn": "107",
+    "topic": "Structural Engineering",
+    "question": "The maximum tension in a cable occurs",
+    "options": {
+      "a": "at the highest point in the cable",
+      "b": "at the lowest point in the cable",
+      "c": "at the centre point of the cable",
+      "d": "at all points in the cable"
+    },
+    "answer": "a",
+    "explanation": "Tension T = âˆš(HÂ² + VÂ²). Since vertical shear V is max at supports (highest points), T is max there."
+  },
+  {
+    "qn": "108",
+    "topic": "Structural Engineering",
+    "question": "A cable subjected to UDL over its entire span assumes a shape of",
+    "options": {
+      "a": "semi-circle",
+      "b": "an isosceles triangle",
+      "c": "parabola",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "The funicular shape of a cable under UDL is a parabola."
+  },
+  {
+    "qn": "109",
+    "topic": "Structural Engineering",
+    "question": "What is the maximum number of unknown reaction components that can be determined using only statics",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "answer": "d",
+    "explanation": "For a single rigid body in 2D, there are 3 equations of statics (Î£Fx=0, Î£Fy=0, Î£M=0)."
+  },
+  {
+    "qn": "110",
+    "topic": "Structural Engineering",
+    "question": "A statically indeterminate structure is the one which",
+    "options": {
+      "a": "cannot be analysed using the equations of statics alone",
+      "b": "cannot be analysed at all",
+      "c": "is not stable for general loading",
+      "d": "can be analysed with the equations of statics alone"
+    },
+    "answer": "a",
+    "explanation": "Indeterminate structures have more unknown reactions than available equilibrium equations."
+  },
+  {
+    "qn": "111",
+    "topic": "Structural Engineering",
+    "question": "A roller support for a space structure",
+    "options": {
+      "a": "permits the movement perpendicular to the base of the supports only",
+      "b": "permits movement in any direction in the plane of the base",
+      "c": "does not permit any movement but permits rotation",
+      "d": "permits movement in any direction in the plane of the base but does not permit rotation"
+    },
+    "answer": "b",
+    "explanation": "In 3D, a roller allows translation in the horizontal plane (2 degrees of freedom)."
+  },
+  {
+    "qn": "112",
+    "topic": "Structural Engineering",
+    "question": "A hinged support for a space structure",
+    "options": {
+      "a": "permits the movement perpendicular to the base of the support only",
+      "b": "permits movement in any direction in the plane of the base",
+      "c": "does not permit any movement at all but permits rotation about all three mutually perpendicular axes through the joint",
+      "d": "does not permit movement as well as rotation in any direction."
+    },
+    "answer": "c",
+    "explanation": "A ball-and-socket joint in 3D allows all rotations but blocks all translations."
+  },
+  {
+    "qn": "113",
+    "topic": "Structural Engineering",
+    "question": "A fixed support for a space structure",
+    "options": {
+      "a": "permits the translation only in all direction",
+      "b": "permits rotation only about all three mutually perpendicular axes through the joint",
+      "c": "permits rotation about all the three mutually perpendicular axes and movement in any direction in the plane of the base",
+      "d": "permits neither rotation about nor translation along, any of the three principal axes"
+    },
+    "answer": "d",
+    "explanation": "A fixed support in space blocks all 6 degrees of freedom (3 translations and 3 rotations)."
+  },
+  {
+    "qn": "114",
+    "topic": "Structural Engineering",
+    "question": "Free body diagram is",
+    "options": {
+      "a": "the diagram of the body or a part of the body in isolated equilibrium",
+      "b": "the diagram of a body freed from all the forces that have been acting",
+      "c": "the diagram of a body with no supports at all",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "An FBD isolates an object and shows all the external forces and moments acting on it."
+  },
+  {
+    "qn": "115",
+    "topic": "Structural Engineering",
+    "question": "The free body diagram of a portion of a body will be in equilibrium under the action of",
+    "options": {
+      "a": "only external loading acting on that part without consideration of support reactions",
+      "b": "all super-imposed loads, self-weight, support reactions, if any, and the internal reactions exposed at the cuts",
+      "c": "only support reactions and the internal reactions exposed at the cuts",
+      "d": "external loading acting on that part and internal reactions exposed at the cuts"
+    },
+    "answer": "b",
+    "explanation": "For a segment to be in equilibrium, every force (loads, weight, support, and internal) must be accounted for."
+  },
+  {
+    "qn": "116",
+    "topic": "Structural Engineering",
+    "question": "The analysis of a structure is",
+    "options": {
+      "a": "deciding the material of the member",
+      "b": "deciding the dimensions of the member",
+      "c": "calculating the magnitude and nature of various straining actions at salient points of the structure",
+      "d": "planning of the structure"
+    },
+    "answer": "c",
+    "explanation": "Analysis involves determining the internal forces (straining actions) like shear, moment, and axial loads."
+  },
+  {
+    "qn": "117",
+    "topic": "Structural Engineering",
+    "question": "The design of a structure is",
+    "options": {
+      "a": "the planning of the structure",
+      "b": "the calculation of straining actions at salient points",
+      "c": "deciding the material and proportions of the various members of the structure",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Design is the process of selecting materials and cross-sectional dimensions to safely resist internal forces."
+  },
+  {
+    "qn": "118",
+    "topic": "Structural Engineering",
+    "question": "The statically indeterminate structure can be solved by",
+    "options": {
+      "a": "using equations of statics alone",
+      "b": "equations of compatibility alone",
+      "c": "ignoring all deformations and assuming the structure to be rigid",
+      "d": "using the equations of statics and the necessary number of equations of compatibility"
+    },
+    "answer": "d",
+    "explanation": "Compatibility equations provide the additional relations between deformations needed to solve indeterminacy."
+  },
+  {
+    "qn": "119",
+    "topic": "Structural Engineering",
+    "question": "The equations of compatibility are written based on",
+    "options": {
+      "a": "the geometry of the deformed structure under the action of several forces acting",
+      "b": "the nature of external forces",
+      "c": "the duration of external forces",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Compatibility relates the geometric deformations of various parts to ensure the structure stays continuous."
+  },
+  {
+    "qn": "120",
+    "topic": "Structural Engineering",
+    "question": "A plane structure is structure",
+    "options": {
+      "a": "the various members of which lie in a plane",
+      "b": "the thickness of various members of which will be very small",
+      "c": "in which there will not be any bending moment",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Plane structures operate in a 2D coordinate system (x, y)."
+  },
+  {
+    "qn": "121",
+    "topic": "Structural Engineering",
+    "question": "A one dimensional structure is one in which",
+    "options": {
+      "a": "one dimension is very small and other two are large",
+      "b": "one dimension is much larger than the other two dimensions",
+      "c": "all the three dimensions are equal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Members like beams and columns are 1D because their length is much greater than width or depth."
+  },
+  {
+    "qn": "122",
+    "topic": "Structural Engineering",
+    "question": "A two dimensional structure is one in which",
+    "options": {
+      "a": "two dimensions are very much larger than the third",
+      "b": "all the dimensions are equal",
+      "c": "two dimensions are very much smaller than the third",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Plates and shells are 2D because their surface area is much larger than their thickness."
+  },
+  {
+    "qn": "123",
+    "topic": "Structural Engineering",
+    "question": "A plane structure which subjected to a force lying outside the plane will be",
+    "options": {
+      "a": "stable",
+      "b": "statically determinate",
+      "c": "unstable",
+      "d": "statically indeterminate"
+    },
+    "answer": "c",
+    "explanation": "Out-of-plane forces cause 2D structures to become unstable or requires 3D analysis."
+  },
+  {
+    "qn": "124",
+    "topic": "Structural Engineering",
+    "question": "An externally indeterminate structure is the one in which",
+    "options": {
+      "a": "the total number of external reaction components is more than the equations of statics applicable to the structure as a whole",
+      "b": "the total number of external reaction components is more than the degree of indeterminacy",
+      "c": "the sum of external reaction components and the degree of internal redundancy is greater than three",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "External indeterminacy occurs when support reactions cannot be found using global equilibrium."
+  },
+  {
+    "qn": "125",
+    "topic": "Structural Engineering",
+    "question": "An internally indeterminate structure",
+    "options": {
+      "a": "must be externally indeterminate",
+      "b": "must be externally determinate",
+      "c": "may be an unstable structure based on supports",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Internal indeterminacy relates to the configuration of members, independent of support stability."
+  },
+  {
+    "qn": "126",
+    "topic": "Structural Engineering",
+    "question": "A frame is completely analysed, when",
+    "options": {
+      "a": "the variation in shear is found throughout the frame",
+      "b": "the variation in direct stress, shear and moment is found throughout the frame",
+      "c": "the shear and moment reaction from member to member are known at every joint",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Complete analysis requires knowing axial load, shear force, and bending moment everywhere."
+  },
+  {
+    "qn": "127",
+    "topic": "Structural Engineering",
+    "question": "A prop is",
+    "options": {
+      "a": "An additional support provided to a stable structure to avoid any displacement at the desired point in a direction perpendicular to the plane of the prop",
+      "b": "the support which gives the maximum number of reactions for the stability of the structure",
+      "c": "a support which will not affect the geometry of the deformed structure",
+      "d": "a dummy support provided for architectural purposes"
+    },
+    "answer": "a",
+    "explanation": "A prop is a rigid support (like a redundant roller) added to reduce deflection or provide extra stability."
+  },
+  {
+    "qn": "128",
+    "topic": "Structural Engineering",
+    "question": "A rigid prop is one which",
+    "options": {
+      "a": "permits 50% of free deflection, that would have occurred if the prop were not there",
+      "b": "does not permit any displacement perpendicular to that plane of prop",
+      "c": "does not offer any reaction",
+      "d": "supports the entire load and relieves all other supports completely."
+    },
+    "answer": "b",
+    "explanation": "Rigid props have zero settlement, blocking all translation at that point."
+  },
+  {
+    "qn": "129",
+    "topic": "Structural Engineering",
+    "question": "An elastic prop is one which",
+    "options": {
+      "a": "does not offer any reaction",
+      "b": "supports the entire load and relieves all other supports completely",
+      "c": "develops reaction proportional to the compression in itself",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Elastic props behave like springs; reaction R = k * Î”."
+  },
+  {
+    "qn": "130",
+    "topic": "Structural Engineering",
+    "question": "A sinking prop is one which",
+    "options": {
+      "a": "permits any amount of deflection",
+      "b": "does not permit any deflection at all",
+      "c": "is provided below the level of regular supports and becomes effective after the respective deflection occurs",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "It starts carrying load only after the structure settles or deflects to its initial gap level."
+  },
+  {
+    "qn": "131",
+    "topic": "Structural Engineering",
+    "question": "A support over which the real beam is continuous will correspond to",
+    "options": {
+      "a": "an internal hinge in the conjugate beam",
+      "b": "a hinged support in the conjugate beam",
+      "c": "a fixed support in the conjugate beam",
+      "d": "a discontinuity in the conjugate beam"
+    },
+    "answer": "a",
+    "explanation": "Continuity over an internal support (zero deflection, slope change) maps to an internal hinge in the conjugate beam method."
+  },
+  {
+    "qn": "132",
+    "topic": "Structural Engineering",
+    "question": "The displacements of joints of a truss can be obtained directly from",
+    "options": {
+      "a": "space diagram",
+      "b": "force diagram",
+      "c": "Williot Mohr diagram",
+      "d": "funicular polygon"
+    },
+    "answer": "c",
+    "explanation": "The Williot-Mohr diagram is a graphical method for finding joint displacements."
+  },
+  {
+    "qn": "133",
+    "topic": "Structural Engineering",
+    "question": "The basic form of a pin jointed frame is",
+    "options": {
+      "a": "triangle",
+      "b": "rectangular",
+      "c": "trapezium",
+      "d": "parallelogram"
+    },
+    "answer": "a",
+    "explanation": "The triangle is the simplest geometrically stable shape for pin-jointed structures."
+  },
+  {
+    "qn": "134",
+    "topic": "Structural Engineering",
+    "question": "In a pin jointed plane frame all the loads are assumed to act",
+    "options": {
+      "a": "in the plane of the frame",
+      "b": "perpendicular to the plane of the frame",
+      "c": "in a plane inclined at 45Â° to the plane of the frame",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Truss analysis assumes 2D action where all loads lie in the plane of the triangle network."
+  },
+  {
+    "qn": "135",
+    "topic": "Structural Engineering",
+    "question": "A pin jointed plane frame with J number of joints and n, number of members will be internally redundant, if",
+    "options": {
+      "a": "n = (2j+3)",
+      "b": "n > (2j-3)",
+      "c": "n < (2j-3)",
+      "d": "n = (2j-3)"
+    },
+    "answer": "b",
+    "explanation": "If the number of members exceeds those required for determinacy (2j-3), the frame is redundant."
+  },
+  {
+    "qn": "136",
+    "topic": "Structural Engineering",
+    "question": "A pin jointed frame with with J number of joints and n, number of members will be a perfect frame if",
+    "options": {
+      "a": "n > (2j-3)",
+      "b": "n < (2j-3)",
+      "c": "n = (2j-3)",
+      "d": "n < (2j+3)"
+    },
+    "answer": "c",
+    "explanation": "A 'perfect' or determinate truss has exactly n = 2j - 3 members."
+  },
+  {
+    "qn": "137",
+    "topic": "Structural Engineering",
+    "question": "Find the DSI of propped cantilever beam",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "4 reactions - 3 equations = 1 redundant. Degree of Static Indeterminacy = 1."
+  },
+  {
+    "qn": "138",
+    "topic": "Structural Engineering",
+    "question": "DSI of structure depends upon",
+    "options": {
+      "a": "loading",
+      "b": "types of material",
+      "c": "c/s of the member",
+      "d": "types of joint"
+    },
+    "answer": "d",
+    "explanation": "Static indeterminacy is a function of the number of joints and members/reactions, which depends on the joint type (fixed vs pin)."
+  },
+  {
+    "qn": "139",
+    "topic": "Structural Engineering",
+    "question": "The ends of continuous beam should be",
+    "options": {
+      "a": "cantilever",
+      "b": "hinged",
+      "c": "roller",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "Continuous beams can end with any support type or even an overhang."
+  },
+  {
+    "qn": "140",
+    "topic": "Structural Engineering",
+    "question": "A structure having J = 4 & number of member is 3 then structure should be",
+    "options": {
+      "a": "stable",
+      "b": "unstable",
+      "c": "indeterminate",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Since n < 2j-3 (3 < 5), the structure is deficient and unstable."
+  },
+  {
+    "qn": "141",
+    "topic": "Structural Engineering",
+    "question": "Find the number of member in a structure if the number of joint is 4 for a determinate structure.",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "c",
+    "explanation": "Using n = 2j - 3; n = 2(4) - 3 = 5."
+  },
+  {
+    "qn": "142",
+    "topic": "Structural Engineering",
+    "question": "Find the no of joint in a structure if the number of member is 3 for a determinate structure.",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "a",
+    "explanation": "Using n = 2j - 3; 3 = 2j - 3 => 2j = 6 => j = 3."
+  },
+  {
+    "qn": "143",
+    "topic": "Structural Engineering",
+    "question": "If the co moment of Joint A, B, & C are 10, 20 and 30 kN-m then find the balancing moment at joint B.",
+    "options": {
+      "a": "20 kN-m",
+      "b": "30 kN-m",
+      "c": "50 kN-m",
+      "d": "-20 kN-m"
+    },
+    "answer": "d",
+    "explanation": "Balancing moment is the negative of the out-of-balance moment at the joint."
+  },
+  {
+    "qn": "144",
+    "topic": "Structural Engineering",
+    "question": "For finding forces in the members of a truss by the graphical method. The force diagram is suggested by",
+    "options": {
+      "a": "Mohr",
+      "b": "Timoshenko",
+      "c": "Maxwell",
+      "d": "Betti"
+    },
+    "answer": "c",
+    "explanation": "Maxwell-Cremona diagram is the standard graphical method for trusses."
+  },
+  {
+    "qn": "145",
+    "topic": "Structural Engineering",
+    "question": "The theorem of three moments for the solution of continuous beams is formulated by",
+    "options": {
+      "a": "Young",
+      "b": "Maxwell",
+      "c": "Williot-Mohr",
+      "d": "Clepeyron"
+    },
+    "answer": "d",
+    "explanation": "Emile Clapeyron developed the Three Moment Equation for continuous beams."
+  },
+  {
+    "qn": "146",
+    "topic": "Structural Engineering",
+    "question": "The term centre of gravity was introduced by",
+    "options": {
+      "a": "Archimedes",
+      "b": "Otto Mohr",
+      "c": "Saint Venant",
+      "d": "Coulomb"
+    },
+    "answer": "a",
+    "explanation": "Archimedes of Syracuse was the first to formalize the concept of the center of gravity."
+  },
+  {
+    "qn": "147",
+    "topic": "Structural Engineering",
+    "question": "The moment distribution method is formulated by",
+    "options": {
+      "a": "hardy cross",
+      "b": "thomas young",
+      "c": "mohr",
+      "d": "kani's"
+    },
+    "answer": "a",
+    "explanation": "Hardy Cross published the Moment Distribution Method in 1930."
+  },
+  {
+    "qn": "148",
+    "topic": "Structural Engineering",
+    "question": "The simultaneous equations of slope deflection method can be solved by iteration in",
+    "options": {
+      "a": "moment distribution method",
+      "b": "consistent deformation method",
+      "c": "conjugate beam method",
+      "d": "willot Mohr method"
+    },
+    "answer": "a",
+    "explanation": "Moment distribution is effectively an iterative numerical solution to slope-deflection equations."
+  },
+  {
+    "qn": "149",
+    "topic": "Structural Engineering",
+    "question": "Slope deflection method is",
+    "options": {
+      "a": "energy method",
+      "b": "deflection method",
+      "c": "unit load method",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "It is a stiffness method where displacements (deflections/rotations) are the primary unknowns."
+  },
+  {
+    "qn": "150",
+    "topic": "Structural Engineering",
+    "question": "Moment distribution method is",
+    "options": {
+      "a": "approximate method",
+      "b": "accurate method",
+      "c": "international method",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "While iterative, it converges to an exact theoretical solution based on beam equations."
+  },
+  {
+    "qn": "151",
+    "topic": "Structural Engineering",
+    "question": "Degree of freedom (DOF) or DKI, for the structure (a simple span/joint shown) is",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "Kinematic indeterminacy relates to the possible independent displacements at joints."
+  },
+  {
+    "qn": "152",
+    "topic": "Structural Engineering",
+    "question": "The stiffness factor at the near end of a member with far end hinged is",
+    "options": {
+      "a": "4EI/l",
+      "b": "3EI/l",
+      "c": "EI/l",
+      "d": "EI"
+    },
+    "answer": "b",
+    "explanation": "For a hinge at the far end, the moment required for unit rotation is 3EI/L."
+  },
+  {
+    "qn": "153",
+    "topic": "Structural Engineering",
+    "question": "The ratio of stiffness of a member when far end is hinged to that of the member when far end is fixed is",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3/4",
+      "d": "4/3"
+    },
+    "answer": "c",
+    "explanation": "Ratio = (3EI/L) / (4EI/L) = 3/4."
+  },
+  {
+    "qn": "154",
+    "topic": "Structural Engineering",
+    "question": "At a joint where several members meet, any applied moment will be distributed among the various members",
+    "options": {
+      "a": "equally",
+      "b": "equally among such members whose far ends are fixed",
+      "c": "in proportion to their stiffness",
+      "d": "equally among such members whose far ends are hinged"
+    },
+    "answer": "c",
+    "explanation": "Members with higher stiffness carry a proportionally larger share of the applied moment."
+  },
+  {
+    "qn": "155",
+    "topic": "Structural Engineering",
+    "question": "The distribution factor of a member at a joint is",
+    "options": {
+      "a": "the ratio of the moment borne by the member to the total moment applied at the joint",
+      "b": "the ratio of the area of the member to the sum of the areas of several members",
+      "c": "the ratio of the moment induced at the far end to the moment applied at the near end",
+      "d": "equally among such members whose far ends are hinged."
+    },
+    "answer": "a",
+    "explanation": "DF = K_member / Î£K_joint, representing the proportion of joint moment taken by the member."
+  },
+  {
+    "qn": "156",
+    "topic": "Structural Engineering",
+    "question": "If Ki is the stiffness of i th member of a Joint, the distribution factor for the member is",
+    "options": {
+      "a": "Ki / Î£Ki",
+      "b": "Î£Ki",
+      "c": "Ki",
+      "d": "(Î£Ki - Ki)"
+    },
+    "answer": "a",
+    "explanation": "Standard definition of Distribution Factor in moment distribution method."
+  },
+  {
+    "qn": "157",
+    "topic": "Structural Engineering",
+    "question": "The vertical distance of the crown of the arch above the springing is called",
+    "options": {
+      "a": "span of the arch",
+      "b": "rise of the arch",
+      "c": "thickness of the arch",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "The 'rise' is the vertical distance from the springing line to the highest point (crown)."
+  },
+  {
+    "qn": "158",
+    "topic": "Structural Engineering",
+    "question": "An arch can be treated as a curved beam",
+    "options": {
+      "a": "whose ends are restrained against horizontal movement",
+      "b": "whose ends do not provide any reaction",
+      "c": "whose ends are unsupported",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Horizontal thrust distinguishes an arch from a simple curved beam."
+  },
+  {
+    "qn": "159",
+    "topic": "Structural Engineering",
+    "question": "The line of thrust of the linear arch is",
+    "options": {
+      "a": "the axis of the arch",
+      "b": "the imaginary line of thrust for a given set of loads",
+      "c": "the springing line",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Line of thrust is the locus of the resultant force center along the arch span."
+  },
+  {
+    "qn": "160",
+    "topic": "Structural Engineering",
+    "question": "In hingeless arch, it is supposed to be indeterminate by",
+    "options": {
+      "a": "stable",
+      "b": "geometrically unstable",
+      "c": "2nd degree",
+      "d": "3rd degree"
+    },
+    "answer": "d",
+    "explanation": "A hingeless (fixed) arch in 2D has 6 reaction components and 3 equations, so DSI = 3."
+  },
+  {
+    "qn": "161",
+    "topic": "Structural Engineering",
+    "question": "If there is a cantilever beam joined with the edge of the span, then it is",
+    "options": {
+      "a": "determinate",
+      "b": "indeterminate",
+      "c": "2nd degree",
+      "d": "3rd degree"
+    },
+    "answer": "b",
+    "explanation": "Depends on the jointing and overall structure redundancy."
+  },
+  {
+    "qn": "162",
+    "topic": "Structural Engineering",
+    "question": "Influence line is",
+    "options": {
+      "a": "the line showing stress function due to unit moving load",
+      "b": "the line showing stress function due to unit load",
+      "c": "the line showing stress function due to udl",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "ILD shows the variation of a reaction/SF/BM at a specific section as a unit load moves across the span."
+  },
+  {
+    "qn": "163",
+    "topic": "Structural Engineering",
+    "question": "The line showing the variations of stress function at a given point due to a unit load moving on a span is known as",
+    "options": {
+      "a": "load line",
+      "b": "influence line",
+      "c": "curve line",
+      "d": "stress function line"
+    },
+    "answer": "b",
+    "explanation": "Direct definition of an Influence Line Diagram (ILD)."
+  },
+  {
+    "qn": "164",
+    "topic": "Structural Engineering",
+    "question": "Influence lines are drawn for structures",
+    "options": {
+      "a": "indeterminate",
+      "b": "determinate",
+      "c": "any type",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "ILDs can be constructed for both determinate and indeterminate structures to analyze moving loads."
+  },
+  {
+    "qn": "165",
+    "topic": "Structural Engineering",
+    "question": "Which one is right w.r.t. ILD?",
+    "options": {
+      "a": "it is the BMD due to unit load",
+      "b": "it is the BMD due to static unit load",
+      "c": "it is the BMD due to moving unit load",
+      "d": "it is the BMD due to impacting unit load"
+    },
+    "answer": "c",
+    "explanation": "ILD captures the effect of the unit load as its position changes along the structure."
+  },
+  {
+    "qn": "166",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for S.F. or BM at a section is",
+    "options": {
+      "a": "the value of S.F. or B.M. at that section when the unit load is placed over that section only",
+      "b": "the value of S.F. or B.M. at that section when the unit load is at the centre of the span",
+      "c": "the variation in the value of S.F. or B.M. at that section as the unit load transverses the span from left to right",
+      "d": "the S.F. or B.M. diagram"
+    },
+    "answer": "c",
+    "explanation": "Describes the functional change of the sectional property with load position."
+  },
+  {
+    "qn": "167",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for reaction at a support of a simply supported beam is",
+    "options": {
+      "a": "a triangle with ordinate 1 at that support",
+      "b": "a triangle with ordinate 1 at the other support",
+      "c": "a rectangle with ordinate 1",
+      "d": "a rectangle with ordinate Â½"
+    },
+    "answer": "a",
+    "explanation": "ILD for reaction Ra starts at 1 at A and decreases linearly to 0 at B."
+  },
+  {
+    "qn": "168",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for reaction at the support of a cantilever will be a",
+    "options": {
+      "a": "triangle with zero ordinate at fixed end and unit ordinate at free end",
+      "b": "triangle with unit ordinate at fixed end and zero ordinate at free end",
+      "c": "rectangle with ordinate Â½",
+      "d": "rectangle with unit ordinate"
+    },
+    "answer": "d",
+    "explanation": "Since total load is always carried by the fixed support, reaction is constant (=1) regardless of load position."
+  },
+  {
+    "qn": "169",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for shear force at a section on a cantilever will be",
+    "options": {
+      "a": "a rectangle of length equal to full length of span with unit ordinate",
+      "b": "a rectangle extending between free end and the section with unit ordinate",
+      "c": "a triangle extending for whole length of span with unit ordinate at fixed support",
+      "d": "a triangle extending between the section and the fixed end with unit ordinate at fixed support."
+    },
+    "answer": "b",
+    "explanation": "SF at section x is 1 only when the load is between the free end and that section."
+  },
+  {
+    "qn": "170",
+    "topic": "Structural Engineering",
+    "question": "The ILD for BM at a section in a cantilever will be a triangle extending between the section and the",
+    "options": {
+      "a": "fixed end with maximum ordinate under the section",
+      "b": "fixed end with maximum ordinate under the fixed end",
+      "c": "unsupported end with maximum ordinate at the section",
+      "d": "unsupported end with maximum ordinate at the supported end"
+    },
+    "answer": "d",
+    "explanation": "The maximum moment at the section occurs when the load is at the free end."
+  },
+  {
+    "qn": "171",
+    "topic": "Structural Engineering",
+    "question": "The influence line diagram for BM at a section of a simply supported beam will be a",
+    "options": {
+      "a": "triangle with maximum ordinate at the section and zero at the two supports",
+      "b": "triangle with maximum ordinate at the support nearer to the section and zero at the other support",
+      "c": "rectangle with unit ordinate",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "The moment at section 'a' is max when load is at 'a' and zero at the hinged ends."
+  },
+  {
+    "qn": "172",
+    "topic": "Structural Engineering",
+    "question": "Plastic section modulus is defined as",
+    "options": {
+      "a": "the ratio of plastic moment capacity of a section to the yield moment",
+      "b": "the ratio of moment of inertia to radius of gyration",
+      "c": "radius of gyration multiplied by the area",
+      "d": "the ratio of plastic moment capacity of a section to the yield stress"
+    },
+    "answer": "d",
+    "explanation": "Plastic modulus Zp = Mp / Ïƒy, where Mp is plastic moment and Ïƒy is yield stress."
+  },
+  {
+    "qn": "173",
+    "topic": "Structural Engineering",
+    "question": "Plastic hinge in a section is caused",
+    "options": {
+      "a": "when the material at a section reach plastic state",
+      "b": "when the extreme fibres at a section reach plastic state",
+      "c": "when all the fibres at a section reach plastic state",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "A plastic hinge forms when the entire cross-section has reached the yield stress Ïƒy."
+  },
+  {
+    "qn": "174",
+    "topic": "Structural Engineering",
+    "question": "The shape factor is defined as the ratio of",
+    "options": {
+      "a": "plastic moment / yield moment",
+      "b": "M.I. / yield stress",
+      "c": "ultimate moment / yield stress",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Shape factor S = Mp / My, representing the reserve strength of the section beyond initial yielding."
+  },
+  {
+    "qn": "175",
+    "topic": "Structural Engineering",
+    "question": "According to Hook's law, which one is wrong?",
+    "options": {
+      "a": "ÏƒÎ±E",
+      "b": "Ïƒ/E = constant",
+      "c": "MoE Ã— Strain = Stress",
+      "d": "MoE Ã— Stress = Strain"
+    },
+    "answer": "d",
+    "explanation": "Hooke's law states that Stress = Young's Modulus (E) Ã— Strain. Therefore, Modulus Ã— Stress does not equal strain."
+  },
+  {
+    "qn": "176",
+    "topic": "Structural Engineering",
+    "question": "What is tenancy?",
+    "options": {
+      "a": "ultimate strength in tension",
+      "b": "ultimate strength in compression",
+      "c": "ultimate shear strength",
+      "d": "ultimate impact strength"
+    },
+    "answer": "a",
+    "explanation": "Tenacity (often misspelled as tenancy) refers to the property of a material to resist being pulled apart, synonymous with ultimate tensile strength."
+  },
+  {
+    "qn": "177",
+    "topic": "Structural Engineering",
+    "question": "At ordinary temperatures, how is the yield point affected with rate of loading?",
+    "options": {
+      "a": "not greatly influenced",
+      "b": "very greatly influenced",
+      "c": "not influenced at all",
+      "d": "difficult to tell"
+    },
+    "answer": "a",
+    "explanation": "For most structural metals at room temperature, minor variations in the strain rate do not significantly alter the yield point value."
+  }
+]
+]
+
