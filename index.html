@@ -192,6 +192,8 @@
     let examTimerInterval = null;
     let activeExamQuestions = [];
     let examUserAnswers = {};
+    let currentPracticePage = 1;
+    const practicePageSize = 10;
 
     document.addEventListener("DOMContentLoaded", () => {
       loadState();
@@ -345,6 +347,7 @@
 
     function renderMCQs() {
       const container = document.getElementById("mcq-container");
+      const pager = document.getElementById("page-nav");
       const topic = document.getElementById("topic-select").value;
       const search = document.getElementById("search-input").value.toLowerCase().trim();
 
@@ -362,11 +365,43 @@
 
       if (filtered.length === 0) {
         container.innerHTML = `<div class="text-center py-12 bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700"><p class="text-slate-400">No questions match your current filter.</p></div>`;
+        pager.innerHTML = "";
         return;
       }
 
-      container.innerHTML = filtered.map((q, idx) => buildMCQCard(q, idx, userAnswers[q.id], 'practice')).join('');
+      const totalPages = Math.max(1, Math.ceil(filtered.length / practicePageSize));
+      if (currentPracticePage > totalPages) currentPracticePage = totalPages;
+      if (currentPracticePage < 1) currentPracticePage = 1;
+
+      const start = (currentPracticePage - 1) * practicePageSize;
+      const pageItems = filtered.slice(start, start + practicePageSize);
+
+      container.innerHTML = pageItems.map((q, idx) => buildMCQCard(q, start + idx + 1, userAnswers[q.id], 'practice')).join('');
+
+      const pageNumbers = [];
+      for (let i = 1; i <= totalPages; i++) {
+        if (i === 1 || i === totalPages || (i >= currentPracticePage - 1 && i <= currentPracticePage + 1)) {
+          pageNumbers.push(`<button onclick="goToPracticePage(${i})" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${i === currentPracticePage ? 'bg-indigo-600 text-white shadow-sm' : 'bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 hover:bg-slate-200'}">${i}</button>`);
+        } else if (i === currentPracticePage - 2 || i === currentPracticePage + 2) {
+          pageNumbers.push(`<span class="text-slate-400 text-xs px-1">...</span>`);
+        }
+      }
+
+      pager.innerHTML = `
+        <div class="text-xs text-slate-500 font-medium">Showing <span class="font-bold text-slate-700 dark:text-slate-200">${Math.min(start + 1, filtered.length)}-${Math.min(start + practicePageSize, filtered.length)}</span> of <span class="font-bold text-slate-700 dark:text-slate-200">${filtered.length}</span> questions</div>
+        <div class="flex items-center gap-2 flex-wrap">
+          <button onclick="goToPracticePage(${currentPracticePage - 1})" ${currentPracticePage === 1 ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-200">Previous</button>
+          <div class="flex items-center gap-1.5 flex-wrap">${pageNumbers.join('')}</div>
+          <button onclick="goToPracticePage(${currentPracticePage + 1})" ${currentPracticePage === totalPages ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-200">Next</button>
+        </div>
+      `;
       lucide.createIcons();
+    }
+
+    function goToPracticePage(page) {
+      currentPracticePage = page;
+      renderMCQs();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     function buildMCQCard(q, idx, userChoice, mode = 'practice') {
