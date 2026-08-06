@@ -1451,4 +1451,1110 @@
     "explanation": ""
   }
 
+  ,
+  {
+    "id": "751",
+    "topic": "Geotechnical Engineering",
+    "question": "Seismic waves are classified as",
+    "options": {
+      "a": "Surface waves and body waves",
+      "b": "Compression waves and rarefaction waves",
+      "c": "Rayleigh waves and Lindbergh waves",
+      "d": "Shear waves and bending waves"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "752",
+    "topic": "Geotechnical Engineering",
+    "question": "Compressional waves and shear waves are which type of seismic waves?",
+    "options": {
+      "a": "Body waves",
+      "b": "Surface waves",
+      "c": "Rayleigh waves",
+      "d": "Love waves"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "753",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of these seismic waves are acoustical in nature?",
+    "options": {
+      "a": "Shear waves",
+      "b": "Compressional waves",
+      "c": "Rayleigh waves",
+      "d": "Love waves"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "754",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of these seismic waves do not propagate through fluids?",
+    "options": {
+      "a": "Shear waves",
+      "b": "Love waves",
+      "c": "Rayleigh waves",
+      "d": "Compressional waves"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "755",
+    "topic": "Geotechnical Engineering",
+    "question": "A Rayleigh wave occurs as a result of combination of which of these waves?",
+    "options": {
+      "a": "P waves and SV waves",
+      "b": "P waves and SH waves",
+      "c": "S waves and PV waves",
+      "d": "S waves and PH waves"
+    },
+    "answer": "a",
+    "explanation": "Rayleigh waves occur as a result of out of phase vibration of P and SV waves. The out of phase vibration results in the wave travelling in an elliptical path along the surface of the body."
+  },
+  {
+    "id": "756",
+    "topic": "Geotechnical Engineering",
+    "question": "The velocity of the Rayleigh waves through a medium depends on which of these parameter of the medium?",
+    "options": {
+      "a": "Poisson ratio",
+      "b": "Young's modulus",
+      "c": "Shear modulus",
+      "d": "Torsional rigidity"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "757",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of these statements are correct?",
+    "options": {
+      "a": "P and S waves are surface waves",
+      "b": "P and S waves travel in an elliptical path",
+      "c": "P waves travel faster than S-waves",
+      "d": "Velocity of P and S waves are independent of medium properties"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "758",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of these waves are the first to arrive at seismic stations?",
+    "options": {
+      "a": "P waves",
+      "b": "S waves",
+      "c": "Q waves",
+      "d": "L waves"
+    },
+    "answer": "a",
+    "explanation": "P-waves are fastest, then S-waves, then Love waves, then Rayleigh"
+  },
+  {
+    "id": "759",
+    "topic": "Geotechnical Engineering",
+    "question": "Which wave on an earthquake is produced by a rolling effect along the earth’s surface? [2080/10/27 Ko]",
+    "options": {
+      "a": "L waves",
+      "b": "P waves",
+      "c": "S waves",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "760",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of these waves cannot travel through the outer core of the earth?",
+    "options": {
+      "a": "P waves",
+      "b": "S waves",
+      "c": "Q waves",
+      "d": "L waves"
+    },
+    "answer": "b",
+    "explanation": "The outer core of Earth is liquid and S waves cannot travel through it."
+  },
+  {
+    "id": "761",
+    "topic": "Geotechnical Engineering",
+    "question": "Seismic waves have made possible to study the",
+    "options": {
+      "a": "Interior of the earth",
+      "b": "Formation of universe",
+      "c": "Oceanic waves",
+      "d": "Earth's magnetism"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "762",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following instrument is used to record the seismic waves?",
+    "options": {
+      "a": "Seismometer",
+      "b": "Seismogram",
+      "c": "Seismograph",
+      "d": "Seismologist"
+    },
+    "answer": "c",
+    "explanation": "A seismometer is an instrument that responds to ground displacement and shaking. They are usually combined with a timing device and a recording device to form a seismograph."
+  },
+  {
+    "id": "763",
+    "topic": "Geotechnical Engineering",
+    "question": "Instrument used to measure earthquake is",
+    "options": {
+      "a": "quake meter",
+      "b": "quake graph",
+      "c": "seismograph",
+      "d": "typanicgraph"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "764",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following is not used to measure the intensity of an earthquake?",
+    "options": {
+      "a": "Mercalli Scale",
+      "b": "Medvedev Scale",
+      "c": "Rossi Forel Scale",
+      "d": "Reid's Scale"
+    },
+    "answer": "d",
+    "explanation": "The intensity is a qualitative description of the effects of the earthquake at a particular location. Scales include Rossi-Forel, Mercalli (MMI), Japanese Meteorological Agency (JMA), and MSK scale."
+  },
+  {
+    "id": "765",
+    "topic": "Geotechnical Engineering",
+    "question": "The MSK scale does not depend on which of these parameters?",
+    "options": {
+      "a": "Type of structure",
+      "b": "Percentage of damage",
+      "c": "Grade of damage",
+      "d": "Location of structure"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "766",
+    "topic": "Geotechnical Engineering",
+    "question": "The intensity of earthquake in an MSK scale ranges from one to",
+    "options": {
+      "a": "Twelve",
+      "b": "Four",
+      "c": "Eight",
+      "d": "Six"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "767",
+    "topic": "Geotechnical Engineering",
+    "question": "A map showing regions of same seismic intensity in form of contours is called",
+    "options": {
+      "a": "Isoseismic map",
+      "b": "Isohaline map",
+      "c": "Isobar map",
+      "d": "Isozymes map"
+    },
+    "answer": "a",
+    "explanation": "A plot of reported intensities at different locations on a map allows contours of equal intensity or isoseisms to be plotted. Such a map is called an isoseismal map."
+  },
+  {
+    "id": "768",
+    "topic": "Geotechnical Engineering",
+    "question": "How are magnitudes of the earthquake classified?",
+    "options": {
+      "a": "Richter and duration magnitude",
+      "b": "Reid’s and Mercalli magnitude",
+      "c": "Richter and Mercalli magnitude",
+      "d": "Reid’s and duration magnitude"
+    },
+    "answer": "a",
+    "explanation": "Mercalli scale measures earthquake intensity and not magnitude."
+  },
+  {
+    "id": "769",
+    "topic": "Geotechnical Engineering",
+    "question": "The moment magnitude of an earthquake is measured by measuring which of these phenomena in an earthquake?",
+    "options": {
+      "a": "Moment released during earthquake rupture",
+      "b": "Displacement due to ground shaking",
+      "c": "Energy released due to pounding of two masses",
+      "d": "Duration required to achieve static equilibrium"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "770",
+    "topic": "Geotechnical Engineering",
+    "question": "The moment released in a moment magnitude scale does not depend on which of these parameters?",
+    "options": {
+      "a": "Physical dimensions of rupture",
+      "b": "Shear strength of the rock",
+      "c": "Average displacement of fault plane",
+      "d": "Friction coefficient between the rock surface"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "771",
+    "topic": "Geotechnical Engineering",
+    "question": "The graphical representation of past earthquake data in form of a plot of the distance of the seismometer from the epicenter in km and the amplitude in mm was given by which of these researchers?",
+    "options": {
+      "a": "Richter",
+      "b": "Mercalli",
+      "c": "Medvedev",
+      "d": "Reid"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "772",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of these scales is a logarithmic scale?",
+    "options": {
+      "a": "Mercalli scale",
+      "b": "Medvedev scale",
+      "c": "Richter scale",
+      "d": "Rossi forel scale"
+    },
+    "answer": "c",
+    "explanation": "Richter scale is a logarithmic scale."
+  },
+  {
+    "id": "773",
+    "topic": "Geotechnical Engineering",
+    "question": "Amount of energy released by an earthquake is called",
+    "options": {
+      "a": "unit",
+      "b": "magnitude",
+      "c": "direction",
+      "d": "scale"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "774",
+    "topic": "Geotechnical Engineering",
+    "question": "At convergent plate boundaries, one would expect to find",
+    "options": {
+      "a": "folds",
+      "b": "faults",
+      "c": "folds and faults",
+      "d": "neither folds nor faults"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "775",
+    "topic": "Geotechnical Engineering",
+    "question": "At divergent plate boundaries, one would expect to find",
+    "options": {
+      "a": "folds",
+      "b": "faults",
+      "c": "folds and faults",
+      "d": "neither folds nor faults"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "776",
+    "topic": "Geotechnical Engineering",
+    "question": "The point where movement occurred which triggered the earthquake is the",
+    "options": {
+      "a": "dip",
+      "b": "epicenter",
+      "c": "focus",
+      "d": "strike"
+    },
+    "answer": "c",
+    "explanation": "The point at which rupture begins and the first seismic waves originate is called the focus, or hypocenter. The point on the ground surface directly above the focus is called the epicenter."
+  },
+  {
+    "id": "777",
+    "topic": "Geotechnical Engineering",
+    "question": "The locus below the earth’s surface where the earthquake starts is called",
+    "options": {
+      "a": "hypocenter",
+      "b": "epicenter",
+      "c": "foci",
+      "d": "all of above"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "778",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following sequences correctly lists the different arrivals from first to last?",
+    "options": {
+      "a": "P waves ........... S waves ............... surface waves",
+      "b": "Surface waves ............. P waves ............... S waves",
+      "c": "P waves ................ surface waves ............ S waves",
+      "d": "S waves ................ P waves ............. surface waves"
+    },
+    "answer": "a",
+    "explanation": "In bedrock, p-wave velocities are generally 3 to 8 km/s and s-wave velocities range from 2 to 5 km/s."
+  },
+  {
+    "id": "779",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following describes the build up and release of stress during an earthquake?",
+    "options": {
+      "a": "the modified Mercalli scale",
+      "b": "the elastic rebound theory",
+      "c": "the principle of superposition",
+      "d": "the travel time difference"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "780",
+    "topic": "Geotechnical Engineering",
+    "question": "The amount of ground displacement in an earthquake is called",
+    "options": {
+      "a": "epicenter",
+      "b": "dip",
+      "c": "slip",
+      "d": "locus"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "781",
+    "topic": "Geotechnical Engineering",
+    "question": "The two sides of folds are called its",
+    "options": {
+      "a": "anticlines",
+      "b": "synclines",
+      "c": "limbs",
+      "d": "axial planes"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "782",
+    "topic": "Geotechnical Engineering",
+    "question": "Which two measurements describe the orientation of a fault plane at a given location?",
+    "options": {
+      "a": "axial and plane",
+      "b": "strike and dip",
+      "c": "lateral and thrust",
+      "d": "trend and plunge"
+    },
+    "answer": "b",
+    "explanation": "The surfaces on which relative movements occur are called faults. A fault is assumed to be planar with an orientation described by its strike and dip."
+  },
+  {
+    "id": "783",
+    "topic": "Geotechnical Engineering",
+    "question": "Nepal lies in seismic zone",
+    "options": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "V"
+    },
+    "answer": "d",
+    "explanation": "The whole of Nepal falls under zone V (Z=0.36) based on categorization of the IS code."
+  },
+  {
+    "id": "784",
+    "topic": "Geotechnical Engineering",
+    "question": "How do rock particles move during the passage of a P wave through the rock?",
+    "options": {
+      "a": "back and forth parallel to the direction of wave travel",
+      "b": "back and forth perpendicular to the direction of wave travel",
+      "c": "in a rolling circular motion",
+      "d": "the particles do not move"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "785",
+    "topic": "Geotechnical Engineering",
+    "question": "How many seismograph stations are needed to locate the epicenter of an earthquake?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "The location of an earthquake is often initially specified in terms of the location of its epicenter. Preliminary location is based on the relative arrival times of p- and s- waves at a set of at least three seismographs."
+  },
+  {
+    "id": "786",
+    "topic": "Geotechnical Engineering",
+    "question": "Earthquake can occur with ................. faulting",
+    "options": {
+      "a": "normal",
+      "b": "reverse",
+      "c": "thrust",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "787",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following measures an earthquake’s intensity based on the observed effects on people and structures?",
+    "options": {
+      "a": "Richter scale",
+      "b": "Modified Mercalli Scale",
+      "c": "The centigrade scale",
+      "d": "the moment magnitude scale"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "788",
+    "topic": "Geotechnical Engineering",
+    "question": "Approximately what percentage of earthquake occur at plate boundaries?",
+    "options": {
+      "a": "25%",
+      "b": "50%",
+      "c": "75%",
+      "d": "90%"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "789",
+    "topic": "Geotechnical Engineering",
+    "question": "Vibrations radiate from focus in all direction as",
+    "options": {
+      "a": "longitudinal waves",
+      "b": "transverse waves",
+      "c": "seismic waves",
+      "d": "tympanic waves"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "790",
+    "topic": "Geotechnical Engineering",
+    "question": "The moment of magnitude of earthquake depends on all the following except",
+    "options": {
+      "a": "the area of the fault break",
+      "b": "the rigidity of the fault",
+      "c": "the slip on the fault",
+      "d": "the type of faulting"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "791",
+    "topic": "Geotechnical Engineering",
+    "question": "Earthquake occur more frequently at",
+    "options": {
+      "a": "plate boundaries",
+      "b": "plate surface",
+      "c": "ocean beds",
+      "d": "plate vacuum"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "792",
+    "topic": "Geotechnical Engineering",
+    "question": "Where do most earthquakes occur?",
+    "options": {
+      "a": "along dikes",
+      "b": "along faults",
+      "c": "along folds",
+      "d": "along joints"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "793",
+    "topic": "Geotechnical Engineering",
+    "question": "Who developed the procedure used to measure the size of an earthquake?",
+    "options": {
+      "a": "Charles Richter",
+      "b": "Edward Sheridan",
+      "c": "James Hutton",
+      "d": "Art Smith"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "794",
+    "topic": "Geotechnical Engineering",
+    "question": "If an S wave were to go from a solid to a liquid- what would happen to its velocity?",
+    "options": {
+      "a": "stay the same",
+      "b": "increases",
+      "c": "decreases",
+      "d": "decreases to zero"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "795",
+    "topic": "Geotechnical Engineering",
+    "question": "Body waves consist of",
+    "options": {
+      "a": "P waves only",
+      "b": "S waves only",
+      "c": "P and S waves",
+      "d": "surface waves"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "796",
+    "topic": "Geotechnical Engineering",
+    "question": "In general, the most destructive earthquakes waves are the",
+    "options": {
+      "a": "P waves",
+      "b": "S waves",
+      "c": "surface waves",
+      "d": "Q waves"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "797",
+    "topic": "Geotechnical Engineering",
+    "question": "How do particles move during the passage of a S wave through the rock?",
+    "options": {
+      "a": "back and forth parallel to the direction of wave travel",
+      "b": "perpendicular to the direction of wave travel",
+      "c": "in a rolling elliptical motion",
+      "d": "in a rolling circular motion"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "798",
+    "topic": "Geotechnical Engineering",
+    "question": "The maximum angle of slope of a bed with horizontal is known as",
+    "options": {
+      "a": "dip",
+      "b": "strike",
+      "c": "bedding",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "799",
+    "topic": "Geotechnical Engineering",
+    "question": "Geographic direction of intersection of the bedding plane with a horizontal plane is called",
+    "options": {
+      "a": "dip",
+      "b": "strike",
+      "c": "bedding",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "800",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following is true in relation to apparent and true dip?",
+    "options": {
+      "a": "apparent dip > true dip",
+      "b": "apparent dip < true dip",
+      "c": "apparent dip >= true dip",
+      "d": "apparent dip = true dip"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "801",
+    "topic": "Geotechnical Engineering",
+    "question": "If P waves were to go from a solid to liquid .................... what would happen to its velocity?",
+    "options": {
+      "a": "stays the same",
+      "b": "increases",
+      "c": "decreases",
+      "d": "none of above"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "802",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following waves is the slowest?",
+    "options": {
+      "a": "P waves",
+      "b": "S waves",
+      "c": "Surface waves",
+      "d": "Tsunami"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "803",
+    "topic": "Geotechnical Engineering",
+    "question": "A syncline is a fold in which",
+    "options": {
+      "a": "the strata become concave upwards",
+      "b": "the younger rocks usually occupy a position in the interior",
+      "c": "all of these",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "804",
+    "topic": "Geotechnical Engineering",
+    "question": "The head of fault plane is its inclination with the",
+    "options": {
+      "a": "dip",
+      "b": "vertical",
+      "c": "horizontal",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "805",
+    "topic": "Geotechnical Engineering",
+    "question": "Which thrust line has highest potentiality of largest earthquake in Nepal?",
+    "options": {
+      "a": "MFT",
+      "b": "MBT",
+      "c": "MCT",
+      "d": "HFT"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "806",
+    "topic": "Geotechnical Engineering",
+    "question": "Detailed study of what earthquake allowed researchers to develop the elastic rebound theory?",
+    "options": {
+      "a": "the 1906 San Francisco earthquake",
+      "b": "the 1964 Anchorage, Alaska earthquake",
+      "c": "the 1755 Lisbon, Portugal earthquake",
+      "d": "the 195 Mexico City earthquake"
+    },
+    "answer": "a",
+    "explanation": "Elastic rebound theory describes the build up and release of stress during an earthquake."
+  },
+  {
+    "id": "807",
+    "topic": "Geotechnical Engineering",
+    "question": "How often do magnitude 8 earthquakes occur?",
+    "options": {
+      "a": "about 5 to 10 times per year",
+      "b": "about once a year",
+      "c": "about every 5 to 10 years",
+      "d": "about every 50 to 100 years"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "808",
+    "topic": "Geotechnical Engineering",
+    "question": "The bulk modulus measures",
+    "options": {
+      "a": "the resistance to flow of a liquid",
+      "b": "the resistance to change in color",
+      "c": "the resistance to change in volume",
+      "d": "the resistance to change in shape"
+    },
+    "answer": "c",
+    "explanation": "Bulk Modulus - resistance to a change in volume. Solids and liquids resist attempts to change their volume."
+  },
+  {
+    "id": "809",
+    "topic": "Geotechnical Engineering",
+    "question": "The shear modulus measures",
+    "options": {
+      "a": "the resistance to flow of a liquid",
+      "b": "the resistance to change in shape",
+      "c": "the resistance to change in volume of a liquid",
+      "d": "the resistance to change in volume of a solid"
+    },
+    "answer": "b",
+    "explanation": "Shear Modulus - resistance to a change in shape. Liquids have no resistance to a change in shape - G = 0"
+  },
+  {
+    "id": "810",
+    "topic": "Geotechnical Engineering",
+    "question": "If only density increases with increasing depth within the Earth, the velocity of a P wave should",
+    "options": {
+      "a": "stay the same",
+      "b": "increase",
+      "c": "decrease",
+      "d": "none"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "811",
+    "topic": "Geotechnical Engineering",
+    "question": "Which boundary marks a change from 100% solid to 100% liquid?",
+    "options": {
+      "a": "mantle......... outer core",
+      "b": "lithosphere ...... asthenosphere",
+      "c": "crust......... mantle",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "812",
+    "topic": "Geotechnical Engineering",
+    "question": "With increasing travel time, the difference in arrival times between the P and S waves",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "stays constant",
+      "d": "none of above"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "813",
+    "topic": "Geotechnical Engineering",
+    "question": "Earthquake A has a Richter magnitude of 7 as compared with earthquake B’s 6. The amount of ground motion is one measure of earthquake intensity.",
+    "options": {
+      "a": "A is 10 x more intense than B",
+      "b": "A is 1000 more intense than B",
+      "c": "Richter magnitude does not measure intensity",
+      "d": "B is 0.01 x as intense as A"
+    },
+    "answer": "a",
+    "explanation": "Richter Scale - measures amplitude of ground motion - Magnitude 5 event has an amplitude 10 times that of a Magnitude 4. Energy - ~ 30 times as much energy for a 6 as compared with a 5"
+  },
+  {
+    "id": "814",
+    "topic": "Geotechnical Engineering",
+    "question": "Where is focus with respect to the epicenter:",
+    "options": {
+      "a": "directly below the epicenter",
+      "b": "directly above the epicenter",
+      "c": "in the P wave shadow zone",
+      "d": "in the S wave shadow zone"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "815",
+    "topic": "Geotechnical Engineering",
+    "question": "Shallow earthquakes, less than 20 km deep, are associated with",
+    "options": {
+      "a": "convergent plate boundaries",
+      "b": "divergent plate boundaries",
+      "c": "transform plate boundaries",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "816",
+    "topic": "Geotechnical Engineering",
+    "question": "What type of faulting would be most likely to occur along transform faults?",
+    "options": {
+      "a": "normal faulting",
+      "b": "reverse faulting",
+      "c": "strike-slip faulting",
+      "d": "all of these"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "817",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following can be triggered by an earthquake?",
+    "options": {
+      "a": "tsunami",
+      "b": "intense ground shaking",
+      "c": "a landslide",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "818",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following can trigger a tsunami?",
+    "options": {
+      "a": "undersea earthquakes",
+      "b": "undersea landslides",
+      "c": "the eruption of an oceanic volcano",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "819",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following statements is false?",
+    "options": {
+      "a": "Most earthquakes occur at plate boundaries",
+      "b": "the time and location of most major earthquakes can be predicted several days in advance",
+      "c": "earthquakes can be caused by normal, reverse and strike-slip faulting",
+      "d": "P waves travel faster than both S waves and Surface waves"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "820",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following observations may indicate a forthcoming destructive earthquake?",
+    "options": {
+      "a": "an increase in the frequency of smaller earthquakes in the region",
+      "b": "rapid tilting of ground",
+      "c": "rapid changes in water levels in wells",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "821",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following statements best describes the state of earthquake prediction?",
+    "options": {
+      "a": "scientists can accurately predict the time and location of almost all earthquakes",
+      "b": "scientists can accurately predict the time and location of about 50% of all earthquakes",
+      "c": "scientists can accurately predict when an earthquake will occur, but not where",
+      "d": "scientists can characterize the seismic risk of an area, but can not yet accurately predict most earthquakes"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "822",
+    "topic": "Geotechnical Engineering",
+    "question": "Earthquakes are produced during:",
+    "options": {
+      "a": "plastic failure within the mantle",
+      "b": "brittle failure during faulting",
+      "c": "mushrooming during folding",
+      "d": "none of above"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "823",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following classes represent earthquakes with magnitudes between 6 and 6.9?",
+    "options": {
+      "a": "moderate",
+      "b": "great",
+      "c": "strong",
+      "d": "light"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "824",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following classes represent earthquakes with magnitudes between 4 and 4.9?",
+    "options": {
+      "a": "moderate",
+      "b": "great",
+      "c": "strong",
+      "d": "light"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "825",
+    "topic": "Geotechnical Engineering",
+    "question": "Earthquakes occur when there is a sudden release of stored up energy in earths",
+    "options": {
+      "a": "inner core",
+      "b": "outer core",
+      "c": "upper mantle",
+      "d": "lower crust"
+    },
+    "answer": "c",
+    "explanation": ""
+  },
+  {
+    "id": "826",
+    "topic": "Geotechnical Engineering",
+    "question": "Approximate range of earthquakes that occur each year is",
+    "options": {
+      "a": "hundreds",
+      "b": "thousands",
+      "c": "millions",
+      "d": "billions"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "827",
+    "topic": "Geotechnical Engineering",
+    "question": "Mercalli indices of VII or higher measure the effects of an earthquake on",
+    "options": {
+      "a": "dogs",
+      "b": "horses",
+      "c": "people",
+      "d": "buildings"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "828",
+    "topic": "Geotechnical Engineering",
+    "question": "Mercalli indices of VI or higher measure the effects of an earthquake on",
+    "options": {
+      "a": "dogs",
+      "b": "horses",
+      "c": "people",
+      "d": "buildings"
+    },
+    "answer": "c",
+    "explanation": "Six or higher- people. Seven or higher- buildings."
+  },
+  {
+    "id": "829",
+    "topic": "Geotechnical Engineering",
+    "question": "Poorly built buildings may collapse at a scale of",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8 to 10"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "830",
+    "topic": "Geotechnical Engineering",
+    "question": "Windows may rattle and people may feel tremor at scale of",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "2"
+    },
+    "answer": "b",
+    "explanation": ""
+  },
+  {
+    "id": "831",
+    "topic": "Geotechnical Engineering",
+    "question": "A seismograph is a device used to",
+    "options": {
+      "a": "calm the seismologist during an earthquake",
+      "b": "sound an alarm",
+      "c": "prevent earthquakes from occurring",
+      "d": "record the vibrations produced during an earthquake"
+    },
+    "answer": "d",
+    "explanation": ""
+  },
+  {
+    "id": "832",
+    "topic": "Geotechnical Engineering",
+    "question": "Magnitude of earthquake indicates amount of",
+    "options": {
+      "a": "energy released",
+      "b": "vibrations per second",
+      "c": "vibrations per minute",
+      "d": "oscillations"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "833",
+    "topic": "Geotechnical Engineering",
+    "question": "When was the biggest earthquake in Nepal?",
+    "options": {
+      "a": "April 25, 2015",
+      "b": "April 24, 2015",
+      "c": "May 25, 2015",
+      "d": "May 24, 2015"
+    },
+    "answer": "a",
+    "explanation": "The biggest earthquake in Nepal's recorded history is the April 25, 2015 earthquake, commonly referred to as the Gorkha earthquake. Magnitude: 7.8 (moment magnitude scale). Epicenter: Approximately 34 km east-southeast of Lamjung."
+  },
+  {
+    "id": "834",
+    "topic": "Geotechnical Engineering",
+    "question": "Which of the following is true about biggest earthquake in Nepal?",
+    "options": {
+      "a": "magnitude 7.8",
+      "b": "named by Gorkha Earthquake",
+      "c": "about 9000 people were killed",
+      "d": "all of above"
+    },
+    "answer": "a",
+    "explanation": ""
+  },
+  {
+    "id": "835",
+    "topic": "Geotechnical Engineering",
+    "question": "Tectonic movement is mainly due to",
+    "options": {
+      "a": "volcanic activities",
+      "b": "manmade causes",
+      "c": "sea floor spreading",
+      "d": "other natural processes"
+    },
+    "answer": "c",
+    "explanation": ""
+  }
 ]
