@@ -379,12 +379,15 @@
       container.innerHTML = pageItems.map((q, idx) => buildMCQCard(q, start + idx + 1, userAnswers[q.id], 'practice')).join('');
 
       const pageNumbers = [];
-      for (let i = 1; i <= totalPages; i++) {
-        if (i === 1 || i === totalPages || (i >= currentPracticePage - 1 && i <= currentPracticePage + 1)) {
-          pageNumbers.push(`<button onclick="goToPracticePage(${i})" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${i === currentPracticePage ? 'bg-indigo-600 text-white shadow-sm' : 'bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 hover:bg-slate-200'}">${i}</button>`);
-        } else if (i === currentPracticePage - 2 || i === currentPracticePage + 2) {
-          pageNumbers.push(`<span class="text-slate-400 text-xs px-1">...</span>`);
-        }
+      const windowSize = 3;
+      let startPage = Math.max(1, currentPracticePage - 1);
+      let endPage = Math.min(totalPages, startPage + windowSize - 1);
+      if (endPage - startPage + 1 < windowSize) {
+        startPage = Math.max(1, endPage - windowSize + 1);
+      }
+
+      for (let i = startPage; i <= endPage; i++) {
+        pageNumbers.push(`<button onclick="goToPracticePage(${i})" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${i === currentPracticePage ? 'bg-indigo-600 text-white shadow-sm' : 'bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 hover:bg-slate-200'}">${i}</button>`);
       }
 
       pager.innerHTML = `
