@@ -81,6 +81,7 @@
       </div>
 
       <div id="mcq-container" class="space-y-5"></div>
+      <div id="page-nav" class="flex flex-col md:flex-row justify-between items-center gap-3 p-4 bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm"></div>
     </section>
 
     <!-- 2. TIMED EXAM MODE TAB -->
@@ -265,6 +266,57 @@
       return question;
     }
 
+    function normalizeForComparison(value) {
+      return normalizeText(String(value || ""))
+        .normalize("NFKD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, " ")
+        .trim();
+    }
+
+    function getQuestionSignature(question) {
+      const normalizedTopic = normalizeForComparison(question?.topic);
+      const normalizedQuestion = normalizeForComparison(question?.question);
+      const normalizedAnswer = normalizeForComparison(question?.answer);
+      const normalizedOptions = Object.entries(question?.options || {})
+        .sort(([a], [b]) => a.localeCompare(b))
+        .map(([key, value]) => `${key}:${normalizeForComparison(value)}`)
+        .join("|");
+
+      return `${normalizedTopic}::${normalizedQuestion}::${normalizedAnswer}::${normalizedOptions}`;
+    }
+
+    function flattenQuestionItems(items) {
+      if (!Array.isArray(items)) {
+        return items ? [items] : [];
+      }
+
+      return items.flatMap((item) => flattenQuestionItems(item));
+    }
+
+    function deduplicateQuestions(items) {
+      const seen = new Set();
+      const uniqueItems = [];
+
+      flattenQuestionItems(items).forEach((rawItem) => {
+        const normalizedItem = normalizeQuestionData(rawItem);
+        if (!normalizedItem || typeof normalizedItem !== "object") {
+          return;
+        }
+
+        const signature = getQuestionSignature(normalizedItem);
+        if (!signature || seen.has(signature)) {
+          return;
+        }
+
+        seen.add(signature);
+        uniqueItems.push(normalizedItem);
+      });
+
+      return uniqueItems;
+    }
+
     async function loadState() {
       try {
         const manifestRes = await fetch('manifest.json');
@@ -274,8 +326,12 @@
         const filePromises = fileList.map(async (filePath) => {
           const res = await fetch(filePath);
           const items = res.ok ? await res.json() : [];
-          const normalizedItems = (Array.isArray(items) ? items : []).map((item, index) => {
+          const normalizedItems = flattenQuestionItems(Array.isArray(items) ? items : []).map((item, index) => {
             const normalizedItem = normalizeQuestionData(item);
+            if (!normalizedItem || typeof normalizedItem !== "object") {
+              return normalizedItem;
+            }
+
             const sourceName = (filePath || '').split('/').pop().replace(/\.json$/i, '').replace(/\s+/g, '_');
             const baseId = normalizedItem.id || normalizedItem.qn || normalizedItem.qnNumber || normalizedItem.questionId || `${sourceName}-${index + 1}`;
             normalizedItem.id = `${sourceName}-${String(baseId).replace(/\s+/g, '_').replace(/[^a-zA-Z0-9_-]/g, '_')}`;
@@ -285,7 +341,7 @@
         });
 
         const results = await Promise.all(filePromises);
-        mcqs = results.flat();
+        mcqs = deduplicateQuestions(results.flat());
         
         if (mcqs.length === 0) {
           mcqs = [{ id: "fallback_1", topic: "Structural Engineering", question: "No questions found in manifest files.", options: { a: "OK", b: "Check paths", c: "Reload", d: "Verify" }, answer: "a" }];
@@ -376,26 +432,24 @@
       const start = (currentPracticePage - 1) * practicePageSize;
       const pageItems = filtered.slice(start, start + practicePageSize);
 
-      container.innerHTML = pageItems.map((q, idx) => buildMCQCard(q, start + idx + 1, userAnswers[q.id], 'practice')).join('');
+      container.innerHTML = pageItems.map((q, idx) => buildMCQCard(q, start + idx, userAnswers[q.id], 'practice')).join('');
 
       const pageNumbers = [];
-      const windowSize = 3;
-      let startPage = Math.max(1, currentPracticePage - 1);
-      let endPage = Math.min(totalPages, startPage + windowSize - 1);
-      if (endPage - startPage + 1 < windowSize) {
-        startPage = Math.max(1, endPage - windowSize + 1);
+      for (let i = 1; i <= totalPages; i++) {
+        pageNumbers.push(`<button onclick="goToPracticePage(${i})" class="min-w-9 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${i === currentPracticePage ? 'bg-indigo-600 text-white shadow-sm' : 'bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 hover:bg-slate-200'}">${i}</button>`);
       }
 
-      for (let i = startPage; i <= endPage; i++) {
-        pageNumbers.push(`<button onclick="goToPracticePage(${i})" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${i === currentPracticePage ? 'bg-indigo-600 text-white shadow-sm' : 'bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 hover:bg-slate-200'}">${i}</button>`);
-      }
+      const prevPage = Math.max(1, currentPracticePage - 1);
+      const nextPage = Math.min(totalPages, currentPracticePage + 1);
+      const isFirstPage = currentPracticePage === 1;
+      const isLastPage = currentPracticePage === totalPages;
 
       pager.innerHTML = `
         <div class="text-xs text-slate-500 font-medium">Showing <span class="font-bold text-slate-700 dark:text-slate-200">${Math.min(start + 1, filtered.length)}-${Math.min(start + practicePageSize, filtered.length)}</span> of <span class="font-bold text-slate-700 dark:text-slate-200">${filtered.length}</span> questions</div>
         <div class="flex items-center gap-2 flex-wrap">
-          <button onclick="goToPracticePage(${currentPracticePage - 1})" ${currentPracticePage === 1 ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-200">Previous</button>
+          <button onclick="goToPracticePage(${prevPage})" ${isFirstPage ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-200">Previous</button>
           <div class="flex items-center gap-1.5 flex-wrap">${pageNumbers.join('')}</div>
-          <button onclick="goToPracticePage(${currentPracticePage + 1})" ${currentPracticePage === totalPages ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-200">Next</button>
+          <button onclick="goToPracticePage(${nextPage})" ${isLastPage ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-200">Next</button>
         </div>
       `;
       lucide.createIcons();
