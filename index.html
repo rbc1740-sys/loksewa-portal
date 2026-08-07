@@ -513,11 +513,11 @@
             </div>
           ` : ''}
 
-          <div class="pt-3 border-t border-slate-100 dark:border-slate-700/60 flex flex-wrap items-center justify-between text-xs gap-2">
-            <div class="flex items-center space-x-2 flex-wrap">
-              <span class="text-slate-400 font-medium flex items-center gap-1"><i data-lucide="flag" class="w-3.5 h-3.5"></i> Report:</span>
-              
-              <div class="flex items-center space-x-1.5 flex-wrap">
+          <div class="pt-3 border-t border-slate-100 dark:border-slate-700/60 flex flex-col sm:flex-row sm:items-center sm:justify-between text-xs gap-2">
+            <div class="flex items-start sm:items-center gap-1.5 min-w-0 flex-wrap">
+              <span class="text-slate-400 font-medium flex items-center gap-1 shrink-0"><i data-lucide="flag" class="w-3.5 h-3.5"></i> Report:</span>
+
+              <div class="flex items-center flex-wrap gap-x-1.5 gap-y-1 min-w-0">
                 <button onclick="toggleAnswerReport('${q.id}')" class="text-slate-600 dark:text-slate-300 hover:text-rose-600 font-medium">Answer (${counts['Answer'] || 0})</button>
                 <span class="text-slate-300">·</span>
                 <button onclick="submitReport('${q.id}', 'Option')" class="text-slate-600 dark:text-slate-300 hover:text-rose-600">Option (${counts['Option'] || 0})</button>
@@ -528,7 +528,7 @@
               </div>
             </div>
 
-            <button onclick="toggleCommentBox('${q.id}')" class="text-indigo-600 dark:text-indigo-400 font-medium hover:underline flex items-center gap-1">
+            <button onclick="toggleCommentBox('${q.id}')" class="text-indigo-600 dark:text-indigo-400 font-medium hover:underline flex items-center gap-1 self-start sm:self-auto shrink-0">
               <i data-lucide="message-square" class="w-3.5 h-3.5"></i> Discuss (<span id="comment-count-${q.id}">${getTotalCommentCount(comments)}</span>)
             </button>
           </div>
