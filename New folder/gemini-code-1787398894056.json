@@ -1,0 +1,1275 @@
+{
+  "document": "objective d prasad.pdf",
+  "question_range": "301-405",
+  "total_questions": 105,
+  "questions": [
+    {
+      "question_number": 301,
+      "question": "Higher workability of concrete is required if the structure is",
+      "options": {
+        "a": "made with cement concrete",
+        "b": "thick and reinforced",
+        "c": "thin and heavily reinforced",
+        "d": "thick and heavily reinforced"
+      },
+      "correct_answer": "d",
+      "explanation": "Higher workability ensures that concrete flows easily around congested reinforcement and fills thin or heavily reinforced sections completely without honeycombing[cite: 3]."
+    },
+    {
+      "question_number": 302,
+      "question": "Pick up the correct statement form the following:",
+      "options": {
+        "a": "higher workability indicates unexpected increase in the moisture content",
+        "b": "higher workability indicates deficiency of sand",
+        "c": "if the concrete mix is dry, the slump is zero",
+        "d": "concrete mix having zero slump, is unsuitable for high strength",
+        "e": "all of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "All statements correctly describe various aspects of workability, moisture variation, and slump characteristics in concrete mixes[cite: 3]."
+    },
+    {
+      "question_number": 303,
+      "question": "The maximum thickness of concrete floor of a cement warehouse, is",
+      "options": {
+        "a": "10 cm",
+        "b": "15 cm",
+        "c": "20 cm",
+        "d": "25 cm"
+      },
+      "correct_answer": "b",
+      "explanation": "A standard concrete floor thickness of 15 cm is generally recommended and sufficient for cement warehouses to prevent moisture dampness from the ground[cite: 3]."
+    },
+    {
+      "question_number": 304,
+      "question": "The shuttering of a hall measuring 4m x 5m can be removed after",
+      "options": {
+        "a": "5 days",
+        "b": "7 days",
+        "c": "10 days",
+        "d": "14 days"
+      },
+      "correct_answer": "b",
+      "explanation": "According to standard codes (like IS 456), shuttering/formwork to slabs (spanning up to 4.5m) can be removed after 7 days[cite: 3]."
+    },
+    {
+      "question_number": 305,
+      "question": "Pick up the correct statement from the following",
+      "options": {
+        "a": "there should not be any loss of cement from the charged drum of the mixer",
+        "b": "cement should be mixed for at least one minute",
+        "c": "10% of water is placed in the rotating drum before adding dry material",
+        "d": "10% of water is added after placing the other ingredients in the drum",
+        "e": "all of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "All these are standard good practices in batching and mixing concrete in a mixer drum[cite: 3]."
+    },
+    {
+      "question_number": 306,
+      "question": "If the effective working time is 7 hours and per batch time of concrete mixer capacity, is...",
+      "options": {
+        "a": "15,900 litres",
+        "b": "16,900 litres",
+        "c": "17,900 litres",
+        "d": "18,900 litres"
+      },
+      "correct_answer": "d",
+      "explanation": "Based on standard mixer output calculations where total output equals working hours multiplied by batches per hour and mixer capacity[cite: 3]."
+    },
+    {
+      "question_number": 307,
+      "question": "The main object of compaction of concrete is",
+      "options": {
+        "a": "to eliminate air holes",
+        "b": "to achieve maximum density",
+        "c": "to provide intimate contact between the concrete and embedded materials",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Compacting concrete removes entrapped air voids, maximizes density, and ensures proper bond with reinforcement and embedded items[cite: 3]."
+    },
+    {
+      "question_number": 308,
+      "question": "Non-uniform compaction may cause the concrete",
+      "options": {
+        "a": "porous",
+        "b": "non-homogeneous",
+        "c": "reduced strength",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Inadequate or non-uniform compaction leaves localized air pockets, leading to porosity, non-homogeneity, and weak zones[cite: 3]."
+    },
+    {
+      "question_number": 309,
+      "question": "The compaction of concrete, improves",
+      "options": {
+        "a": "density",
+        "b": "strength",
+        "c": "durability",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Eliminating voids directly enhances density, compressive strength, and overall durability[cite: 3]."
+    },
+    {
+      "question_number": 310,
+      "question": "The final operation of finishing floors, is known",
+      "options": {
+        "a": "screening",
+        "b": "floating",
+        "c": "trowelling",
+        "d": "finishing"
+      },
+      "correct_answer": "c",
+      "explanation": "Trowelling is the final smoothing operation performed on concrete floors after floating[cite: 3]."
+    },
+    {
+      "question_number": 311,
+      "question": "The operation of removing humps and hollows of uniform concrete surface, is known as",
+      "options": {
+        "a": "floating",
+        "b": "screeding",
+        "c": "trowelling",
+        "d": "finishing"
+      },
+      "correct_answer": "b",
+      "explanation": "Screeding strikes off excess concrete and removes surface irregularities, leveling humps and hollows[cite: 3]."
+    },
+    {
+      "question_number": 312,
+      "question": "The ratio of the length and breadth of wooden float, is",
+      "options": {
+        "a": "4.5",
+        "b": "5.5",
+        "c": "6.5",
+        "d": "7.5"
+      },
+      "correct_answer": "d",
+      "explanation": "Standard proportioning for wooden floats used in finishing gives a length-to-breadth ratio around 7.5[cite: 3]."
+    },
+    {
+      "question_number": 313,
+      "question": "Construction joints are provided",
+      "options": {
+        "a": "where BM and SF are small",
+        "b": "where it is supported by another member",
+        "c": "at 18 m apart in huge structures",
+        "d": "in concrete wall at sill level of windows",
+        "e": "all of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "All listed conditions and locations are standard practice for placing construction joints[cite: 3]."
+    },
+    {
+      "question_number": 314,
+      "question": "The surface where two successive placements of concrete meet, is known as",
+      "options": {
+        "a": "contraction joint",
+        "b": "expansion joint",
+        "c": "construction joint",
+        "d": "both (a) and (b) of above"
+      },
+      "correct_answer": "c",
+      "explanation": "A construction joint marks the boundary where fresh concrete is placed against previously hardened concrete[cite: 3]."
+    },
+    {
+      "question_number": 315,
+      "question": "A construction joint is provided where",
+      "options": {
+        "a": "bending moment is small",
+        "b": "shear force is small",
+        "c": "it is supported by other member",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Construction joints are planned at locations of minimum stress (low bending moment and shear force) or support locations[cite: 3]."
+    },
+    {
+      "question_number": 316,
+      "question": "Horizontal construction joins in concrete walls are generally provided at",
+      "options": {
+        "a": "soffit level",
+        "b": "window sill level",
+        "c": "floor level",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Horizontal joints in walls are typically located at architectural lines like soffit levels, sill levels, and floor levels[cite: 3]."
+    },
+    {
+      "question_number": 317,
+      "question": "Pick up the correct statement from the following:",
+      "options": {
+        "a": "construction joints in columns are provided a few cm below the junction of beam",
+        "b": "construction joints in columns are provided at the bottom haunching",
+        "c": "construction joints in beam and slabs are provided within middle third",
+        "d": "construction joints are generally provided in positions subjected to least shear force",
+        "e": "all of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "Each of these statements correctly outlines standard code provisions for positioning structural construction joints[cite: 3]."
+    },
+    {
+      "question_number": 318,
+      "question": "Joints in concrete structures, are provided",
+      "options": {
+        "a": "to reduce the tensile stresses likely to be developed due to evaporation of water",
+        "b": "to minimize the change in the dimensions of the slab",
+        "c": "to minimize the necessary cracking",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Joints accommodate volume changes, control cracking, and relieve tensile stresses caused by shrinkage and temperature variations[cite: 3]."
+    },
+    {
+      "question_number": 319,
+      "question": "Expansion joints are provided if the length of concrete structures exceeds",
+      "options": {
+        "a": "10 m",
+        "b": "15 m",
+        "c": "20 m",
+        "d": "40 m"
+      },
+      "correct_answer": "d",
+      "explanation": "Structures exceeding roughly 40m to 45m in length require expansion joints to prevent thermal cracking[cite: 3]."
+    },
+    {
+      "question_number": 320,
+      "question": "According to the recommendations of IS:456-2000, expansion joints",
+      "options": {
+        "a": "are provided where plane changes abruptly",
+        "b": "are provided to ensure minimum resistance",
+        "c": "are supported on separate columns",
+        "d": "do not carry reinforcement across them",
+        "e": "all of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "All given guidelines conform to IS:456 provisions regarding expansion joint detailing[cite: 3]."
+    },
+    {
+      "question_number": 321,
+      "question": "Construction joints are generally provided in concrete",
+      "options": {
+        "a": "roads",
+        "b": "retaining walls",
+        "c": "lining of channel",
+        "d": "lining of tunnels",
+        "e": "all of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "Construction joints are widely utilized in pavements, walls, and long lining works where continuous casting is impossible[cite: 3]."
+    },
+    {
+      "question_number": 322,
+      "question": "Pick up the correct statement from the following:",
+      "options": {
+        "a": "construction joins are necessarily planned for their locations",
+        "b": "expansion joints are provided to accommodate thermal expansion",
+        "c": "construction joints are provided to control shrinkage cracks",
+        "d": "expansion joints need not be provided in foundation concrete",
+        "e": "all of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "All statements accurately describe the principles of structural joint planning[cite: 3]."
+    },
+    {
+      "question_number": 323,
+      "question": "The main purpose of concrete design mix is",
+      "options": {
+        "a": "economise the cost of concrete",
+        "b": "mixing the concrete in better way",
+        "c": "selection of ingredients of concrete",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Design mix aims to optimize proportions to achieve required strength and durability with maximum economy[cite: 3]."
+    },
+    {
+      "question_number": 324,
+      "question": "Generally nominal mix is done by volume while design mix is done by",
+      "options": {
+        "a": "volume",
+        "b": "weight",
+        "c": "both (a) and (b) of above",
+        "d": "consolidation"
+      },
+      "correct_answer": "b",
+      "explanation": "Nominal mixes use volumetric batching, whereas designed mixes require precise weight batching of ingredients[cite: 3]."
+    },
+    {
+      "question_number": 325,
+      "question": "Pick up the correct statement from the following:",
+      "options": {
+        "a": "the free water is the amount of water added while mixing and the amount held on the surface of the aggregates prior to mixing",
+        "b": "the total water is the free water and the amount actually absorbed by the aggregate",
+        "c": "both (a) and (b) of above",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Both definitions correctly account for surface moisture (free water) and absorption characteristics of aggregates[cite: 3]."
+    },
+    {
+      "question_number": 326,
+      "question": "If the average compressive strength is 4000 kg/cm2 and standard deviation is 500, coefficient of variation is",
+      "options": {
+        "a": "10%",
+        "b": "12.5%",
+        "c": "15%",
+        "d": "18.5%"
+      },
+      "correct_answer": "b",
+      "explanation": "Numerical Solution: Coefficient of Variation (CV) = (Standard Deviation / Mean) * 100 = (500 / 4000) * 100 = 12.5%[cite: 3]."
+    },
+    {
+      "question_number": 327,
+      "question": "The risk of segregation is more for",
+      "options": {
+        "a": "water mix",
+        "b": "larger proportion of maximum size aggregate",
+        "c": "coarser grading",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Wet mixes, large maximum aggregate sizes, and gap or coarse gradings all increase the tendency of cement paste and aggregates to separate (segregation)[cite: 3]."
+    },
+    {
+      "question_number": 328,
+      "question": "The process by which fresh cement concrete is compacted to remove the air bubbles known as",
+      "options": {
+        "a": "compaction",
+        "b": "wetting",
+        "c": "placing",
+        "d": "consolidation"
+      },
+      "correct_answer": "a",
+      "explanation": "Compaction is specifically the process of expelling entrapped air from fresh concrete[cite: 3]."
+    },
+    {
+      "question_number": 329,
+      "question": "Maturity of concrete means",
+      "options": {
+        "a": "oldness of concrete",
+        "b": "strength of concrete",
+        "c": "sum of product of temperature & time",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Maturity is quantified as the cumulative product of curing temperature and time (degree-hours or degree-days)[cite: 3]."
+    },
+    {
+      "question_number": 330,
+      "question": "Gypsum is used as admixture in concrete to increase the property of concrete",
+      "options": {
+        "a": "accelerator",
+        "b": "retarder",
+        "c": "water proofer",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Gypsum acts primarily as a set-retarder in cement manufacturing and concrete mixes[cite: 3]."
+    },
+    {
+      "question_number": 331,
+      "question": "Calcium chloride is used as admixture in concrete to increase the property of concrete",
+      "options": {
+        "a": "accelerator",
+        "b": "retarder",
+        "c": "water proofer",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Calcium chloride is a well-known accelerating admixture that speeds up setting and early strength gain[cite: 3]."
+    },
+    {
+      "question_number": 332,
+      "question": "Calcium chloride as an accelerating admixture is not recommended for use with",
+      "options": {
+        "a": "ordinary portland cement",
+        "b": "high alumina cement",
+        "c": "rapid hardening cement",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Calcium chloride can cause adverse chemical reactions and loss of strength or corrosion when used with high alumina cement[cite: 3]."
+    },
+    {
+      "question_number": 333,
+      "question": "To improve the certain properties of concrete, admixture is used in concrete at the time of",
+      "options": {
+        "a": "grading of cement",
+        "b": "mixing of concrete",
+        "c": "after pouring of concrete",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Admixtures are typically added during the mixing process to ensure uniform dispersion throughout the batch[cite: 3]."
+    },
+    {
+      "question_number": 334,
+      "question": "An admixture...",
+      "options": {
+        "a": "is a substitute for good concreting practice",
+        "b": "offers improvement not economically attained by adjusting mix proportions",
+        "c": "retarder",
+        "d": "is beneficial to the properties of concrete when used in large quantities"
+      },
+      "correct_answer": "b",
+      "explanation": "Admixtures are used to achieve specific performance improvements that are otherwise uneconomical or difficult via mix adjustments alone[cite: 3]."
+    },
+    {
+      "question_number": 335,
+      "question": "An admixture could be used to",
+      "options": {
+        "a": "accelerate initial setting of concrete",
+        "b": "increase strength of concrete",
+        "c": "improve workability",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Different types of admixtures can accelerate setting, increase strength, or improve workability[cite: 3]."
+    },
+    {
+      "question_number": 336,
+      "question": "An accelerator shortens all of the following except",
+      "options": {
+        "a": "setting time",
+        "b": "period of curing",
+        "c": "strength of concrete",
+        "d": "period of removal of formwork"
+      },
+      "correct_answer": "c",
+      "explanation": "Accelerators shorten setting time, curing period, and formwork stripping time, but they do not reduce/shorten the ultimate strength of concrete[cite: 3]."
+    },
+    {
+      "question_number": 337,
+      "question": "Addition of retarder to concrete decreases all of the following except",
+      "options": {
+        "a": "rate of hydration",
+        "b": "water-cement ratio",
+        "c": "workability and compressive strength",
+        "d": "rate of development of strength"
+      },
+      "correct_answer": "b",
+      "explanation": "Retarders slow down hydration and strength development rates, whereas water-cement ratio is managed independently based on mix design[cite: 3]."
+    },
+    {
+      "question_number": 338,
+      "question": "Pick up the incorrect statement from the following:",
+      "options": {
+        "a": "admixtures accelerate hydration",
+        "b": "admixtures make concrete water proof",
+        "c": "admixtures make concrete acid proof",
+        "d": "admixtures give high strength",
+        "e": "none of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "Specialized admixtures can fulfill each of these specialized functions depending on their chemical formulation[cite: 3]."
+    },
+    {
+      "question_number": 339,
+      "question": "Gel space ratio is defined as the ratio of",
+      "options": {
+        "a": "volume of hydrated cement paste to the sum of volume of hydrated cement and capillary pores",
+        "b": "the sum of volume of hydrated cement and capillary pores to volume of hydrated cement",
+        "c": "both a) and b) of above",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Gel-space ratio is the ratio of the volume of hydrated cement gel to the sum of the volumes of gel and capillary pores[cite: 3]."
+    },
+    {
+      "question_number": 340,
+      "question": "Find the gel space ratio of concrete with following data: cement = 50 kg. Weight of water = 20 kg",
+      "options": {
+        "a": "0.85",
+        "b": "0.91",
+        "c": "0.96",
+        "d": "0.99"
+      },
+      "correct_answer": "b",
+      "explanation": "Numerical Solution: Using Powers' gel-space ratio formula for fully hydrated cement with given water-cement proportion yields approximately 0.91[cite: 3]."
+    },
+    {
+      "question_number": 341,
+      "question": "The minimum grade of high strength concrete is",
+      "options": {
+        "a": "M25",
+        "b": "M40",
+        "c": "M50",
+        "d": "M60"
+      },
+      "correct_answer": "c",
+      "explanation": "According to standard structural engineering classifications, high-strength concrete typically starts from grade M50[cite: 3]."
+    },
+    {
+      "question_number": 342,
+      "question": "The type of aggregates not suitable for high strength concrete and for pavements to tension, is",
+      "options": {
+        "a": "rounded aggregate",
+        "b": "irregular aggregate",
+        "c": "angular aggregate",
+        "d": "flaky aggregate"
+      },
+      "correct_answer": "d",
+      "explanation": "Flaky and elongated aggregates result in poor interlocking, high void content, and low strength, making them unsuitable[cite: 3]."
+    },
+    {
+      "question_number": 343,
+      "question": "The aggregate used for high strength concrete is",
+      "options": {
+        "a": "round aggregate",
+        "b": "irregular aggregate",
+        "c": "angular aggregate",
+        "d": "all of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Angular aggregates provide superior interlocking and frictional resistance, essential for high-strength concrete[cite: 3]."
+    },
+    {
+      "question_number": 344,
+      "question": "To obtain a very high strength concrete, use very fine grained",
+      "options": {
+        "a": "round aggregate",
+        "b": "granite",
+        "c": "magnetite",
+        "d": "pumice"
+      },
+      "correct_answer": "c",
+      "explanation": "Heavy, dense, fine-grained mineral aggregates like magnetite are used for specialized high-strength and radiation-shielding concretes[cite: 3]."
+    },
+    {
+      "question_number": 345,
+      "question": "Prestress is imparted to concrete by bearing in",
+      "options": {
+        "a": "pre tensioning",
+        "b": "post tensioning",
+        "c": "both (a) and (b) of above",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Prestressing force is transferred via bond in pre-tensioning and via end-anchorage bearing plates in post-tensioning[cite: 3]."
+    },
+    {
+      "question_number": 346,
+      "question": "The minimum grade of concrete for pre-tensioned member is",
+      "options": {
+        "a": "M15",
+        "b": "M20",
+        "c": "M25",
+        "d": "M40"
+      },
+      "correct_answer": "c",
+      "explanation": "IS 1343 specifies M25 as the minimum concrete grade for pre-tensioned prestressed concrete members[cite: 3]."
+    },
+    {
+      "question_number": 347,
+      "question": "The mix proportion of cement mortar used in the joints in precast prestressed member is",
+      "options": {
+        "a": "1:1",
+        "b": "1:1.5",
+        "c": "1:2",
+        "d": "1:2.5"
+      },
+      "correct_answer": "a",
+      "explanation": "A rich cement mortar mix of 1:1 is typically used for jointing precast prestressed elements to ensure high strength and bonding[cite: 3]."
+    },
+    {
+      "question_number": 348,
+      "question": "The diameter of high tensile steel tendons used is",
+      "options": {
+        "a": "3 mm to 5 mm",
+        "b": "5 mm to 8 mm",
+        "c": "6 mm to 9 mm",
+        "d": "8 mm to 12 mm"
+      },
+      "correct_answer": "b",
+      "explanation": "High tensile steel wires and tendons commonly range between 5 mm to 8 mm in diameter[cite: 3]."
+    },
+    {
+      "question_number": 349,
+      "question": "The minimum clear spacing for single wires used in pre-tension system is",
+      "options": {
+        "a": "2 times the diameter of wire and max size of aggregate whichever is greater",
+        "b": "3 times the diameter of wire and max size of aggregate whichever is greater",
+        "c": "2 times the diameter of wire and 1.5 times max size of aggregate whichever is greater",
+        "d": "3 times the diameter of wire and 1.5 times max size of aggregate whichever is greater"
+      },
+      "correct_answer": "d",
+      "explanation": "Standard code provisions require clear spacing to be at least 3 times wire diameter or 1.5 times maximum aggregate size, whichever is greater[cite: 3]."
+    },
+    {
+      "question_number": 350,
+      "question": "The minimum clear spacing of non-grouped cables or large bars shall be",
+      "options": {
+        "a": "40 mm",
+        "b": "maximum size of cable or bar",
+        "c": "5 mm plus maximum size of aggregate",
+        "d": "greater of (a), (b) and (c) of above"
+      },
+      "correct_answer": "d",
+      "explanation": "Clear spacing rules for non-grouped cables take the maximum of these criteria to ensure proper consolidation[cite: 3]."
+    },
+    {
+      "question_number": 351,
+      "question": "The minimum clear horizontal spacing between groups of cables or ducts of grouped cables shall be greater of",
+      "options": {
+        "a": "30 mm or 5 mm more than maximum size of aggregate",
+        "b": "40 mm or 5 mm more than maximum size of aggregate",
+        "c": "30 mm or maximum size of aggregate",
+        "d": "40 mm or maximum size of aggregate"
+      },
+      "correct_answer": "a",
+      "explanation": "Horizontal duct spacing must accommodate aggregate flow around groups per standard prestressed design codes[cite: 3]."
+    },
+    {
+      "question_number": 352,
+      "question": "The minimum clear vertical spacing between groups of cables or ducts of grouped cables shall be",
+      "options": {
+        "a": "30 mm",
+        "b": "40 mm",
+        "c": "50 mm",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Vertical clearance requirements between cable groups are specified as 40 mm to permit adequate grout and concrete placement[cite: 3]."
+    },
+    {
+      "question_number": 353,
+      "question": "The grouting of ducts in post-tensioned prestressed concrete causes",
+      "options": {
+        "a": "reduction in deflections",
+        "b": "reduction in crack width",
+        "c": "reduction in corrosion",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Grouting protects tendons from corrosion, improves bond between steel and concrete, and enhances structural rigidity[cite: 3]."
+    },
+    {
+      "question_number": 354,
+      "question": "A parabolic tendon in prestressed beam causes an equivalent balancing",
+      "options": {
+        "a": "concentrated shear force",
+        "b": "constant moment",
+        "c": "distributed force",
+        "d": "uniformly distributed force"
+      },
+      "correct_answer": "d",
+      "explanation": "A parabolic profile exerts a uniform upward transverse load opposing gravity loads across the span[cite: 3]."
+    },
+    {
+      "question_number": 355,
+      "question": "An increase in strain in a concrete member at constant stress is called",
+      "options": {
+        "a": "creep loss",
+        "b": "relaxation",
+        "c": "shrinkage",
+        "d": "momentum force"
+      },
+      "correct_answer": "c",
+      "explanation": "Creep is defined as the time-dependent increase in strain under sustained constant stress[cite: 3]."
+    },
+    {
+      "question_number": 356,
+      "question": "Strain in concrete at zero stress is called",
+      "options": {
+        "a": "creep loss",
+        "b": "relaxation",
+        "c": "shrinkage",
+        "d": "transfer stress"
+      },
+      "correct_answer": "c",
+      "explanation": "Volume changes occurring due to moisture loss without external load application represent drying shrinkage[cite: 3]."
+    },
+    {
+      "question_number": 357,
+      "question": "In case of prestressed concrete, prestressing force is",
+      "options": {
+        "a": "tensile force",
+        "b": "compressive force",
+        "c": "shear force",
+        "d": "momentum force"
+      },
+      "correct_answer": "b",
+      "explanation": "Prestressing introduces initial internal compressive stresses into the concrete section to counteract tensile stresses[cite: 3]."
+    },
+    {
+      "question_number": 358,
+      "question": "In case of prestressed concrete",
+      "options": {
+        "a": "load carrying capacity of member increases",
+        "b": "quantity of concrete is saved for same grade",
+        "c": "quantity of steel is saved for same grade",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Prestressing optimizes material utilization, reducing dead weight and material quantities while improving load capacity[cite: 3]."
+    },
+    {
+      "question_number": 359,
+      "question": "Light weight concrete is prepared by",
+      "options": {
+        "a": "using light aggregate",
+        "b": "formation of air void in concrete by omitting sand",
+        "c": "formation of air voids in cement paste by the substances causing foam",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Lightweight concrete can be produced using lightweight aggregates, gas-forming agents, or by omitting fine aggregate (no-fines)[cite: 3]."
+    },
+    {
+      "question_number": 360,
+      "question": "Light weight concrete is used in",
+      "options": {
+        "a": "heat resistance",
+        "b": "air conditioning of buildings",
+        "c": "non load bearing wall",
+        "d": "reducing thickness"
+      },
+      "correct_answer": "c",
+      "explanation": "It is predominantly utilized in non-load-bearing partitions and thermal insulation applications[cite: 3]."
+    },
+    {
+      "question_number": 361,
+      "question": "To obtain a light weight concrete the types of aggregate used are",
+      "options": {
+        "a": "granite",
+        "b": "magnetite",
+        "c": "barite",
+        "d": "pumice"
+      },
+      "correct_answer": "d",
+      "explanation": "Pumice is a porous, lightweight volcanic aggregate used specifically for producing lightweight concrete[cite: 3]."
+    },
+    {
+      "question_number": 362,
+      "question": "A concrete in which dry coarse aggregate first packed... and cement sand mortar injected is known as",
+      "options": {
+        "a": "pre-packed concrete",
+        "b": "vacuum concrete",
+        "c": "no fines concrete",
+        "d": "aerated concrete"
+      },
+      "correct_answer": "a",
+      "explanation": "Pre-packed (or prepacked/aggregate) concrete involves placing coarse aggregate first and injecting grout/mortar into voids[cite: 3]."
+    },
+    {
+      "question_number": 363,
+      "question": "The ferrocement is a composite material obtained by",
+      "options": {
+        "a": "random disposal of short, discontinuous fibres in conventional concrete",
+        "b": "reinforcing the cement mortar with steel fibres in the form of wire mesh",
+        "c": "blending ferrous compounds in ordinary Portland cement",
+        "d": "all of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Ferrocement consists of rich cement mortar reinforced with multiple layers of continuous wire mesh[cite: 3]."
+    },
+    {
+      "question_number": 364,
+      "question": "The cement sand ratio in the ferrocement matrix should not be leaner than",
+      "options": {
+        "a": "1:1.5",
+        "b": "1:2",
+        "c": "1:2.5",
+        "d": "1:3"
+      },
+      "correct_answer": "a",
+      "explanation": "Ferrocement matrix requires a rich mortar mix, typically not leaner than 1:1.5 cement-to-sand ratio[cite: 3]."
+    },
+    {
+      "question_number": 365,
+      "question": "The volume of reinforcement in ferrocement (percent) normally varies between",
+      "options": {
+        "a": "1-2",
+        "b": "2-5",
+        "c": "5-8",
+        "d": "8-10"
+      },
+      "correct_answer": "b",
+      "explanation": "The volume fraction of wire mesh reinforcement in ferrocement normally ranges from 2% to 5%[cite: 3]."
+    },
+    {
+      "question_number": 366,
+      "question": "The water cement ratio for ferrocement mix should be",
+      "options": {
+        "a": "less than 0.35",
+        "b": "between 0.35 to 0.40",
+        "c": "between 0.40 to 0.45",
+        "d": "between 0.45 to 0.60"
+      },
+      "correct_answer": "a",
+      "explanation": "A low water-cement ratio (less than 0.35) is maintained in ferrocement to ensure high strength and impermeability[cite: 3]."
+    },
+    {
+      "question_number": 367,
+      "question": "What is the process of smoothening the surface of newly placed concrete with... called?",
+      "options": {
+        "a": "hardening",
+        "b": "knock up",
+        "c": "flashing",
+        "d": "floating"
+      },
+      "correct_answer": "d",
+      "explanation": "Floating levels and smoothens the surface of freshly placed concrete[cite: 3]."
+    },
+    {
+      "question_number": 368,
+      "question": "If water cement ratio is more,",
+      "options": {
+        "a": "the durability of the concrete will be more",
+        "b": "the durability of the concrete will be less",
+        "c": "the durability of the concrete will not be affected",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Higher water-cement ratios increase porosity and permeability, thereby decreasing durability[cite: 3]."
+    },
+    {
+      "question_number": 369,
+      "question": "Low water-cement ratio in concrete:",
+      "options": {
+        "a": "reduces permeability",
+        "b": "increases compressive strength",
+        "c": "improves frost resistance",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "A low water-cement ratio benefits strength, impermeability, and resistance to environmental weathering[cite: 3]."
+    },
+    {
+      "question_number": 370,
+      "question": "To get ultra high strength concrete:",
+      "options": {
+        "a": "compaction by pressure and helical binding",
+        "b": "polymerization in concrete",
+        "c": "reactive powder concrete",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Ultra-high-strength concretes utilize advanced techniques such as reactive powders, high pressure compaction, and polymers[cite: 3]."
+    },
+    {
+      "question_number": 371,
+      "question": "As compared to Ordinary Portland Cement, use of pozzolanic cement:",
+      "options": {
+        "a": "reduces workability",
+        "b": "increases bleeding",
+        "c": "increases shrinkage",
+        "d": "increases strength"
+      },
+      "correct_answer": "c",
+      "explanation": "Pozzolanic cement typically exhibits higher drying shrinkage compared to standard OPC mixes[cite: 3]."
+    },
+    {
+      "question_number": 372,
+      "question": "Steel mould used for slump test is in the form of:",
+      "options": {
+        "a": "cube",
+        "b": "cylinder",
+        "c": "frustum of a cone",
+        "d": "triangular"
+      },
+      "correct_answer": "c",
+      "explanation": "The standard slump cone mould is shaped as a frustum of a cone[cite: 3]."
+    },
+    {
+      "question_number": 373,
+      "question": "The interval for which the cement products remain in plastic condition is known as",
+      "options": {
+        "a": "reaction time",
+        "b": "hardening time",
+        "c": "curing time",
+        "d": "setting time"
+      },
+      "correct_answer": "d",
+      "explanation": "Setting time refers to the duration over which cement paste remains workable and plastic[cite: 3]."
+    },
+    {
+      "question_number": 374,
+      "question": "The compressive strength of an ordinary Portland cement (1:3 cement:sand) after days test should not be less than:",
+      "options": {
+        "a": "115 kg/cm2",
+        "b": "175 kg/cm2",
+        "c": "220 kg/cm2",
+        "d": "275 kg/cm2"
+      },
+      "correct_answer": "b",
+      "explanation": "Standard 3-day or 7-day mortar cube strength requirements specify minimum thresholds (e.g., 175 kg/cm2 for 7 days in older specifications)[cite: 3]."
+    },
+    {
+      "question_number": 375,
+      "question": "The concrete in which preliminary tests are preformed for designing the mix is called",
+      "options": {
+        "a": "ordinary concrete",
+        "b": "rich concrete",
+        "c": "controlled concrete",
+        "d": "lean concrete"
+      },
+      "correct_answer": "c",
+      "explanation": "Controlled concrete relies on preliminary mix design tests to guarantee specified target strengths[cite: 3]."
+    },
+    {
+      "question_number": 376,
+      "question": "Concreting should be stopped when temperature falls below...",
+      "options": {
+        "a": "4.5°C",
+        "b": "20°C",
+        "c": "15°C",
+        "d": "10°C"
+      },
+      "correct_answer": "a",
+      "explanation": "Standard specifications state that concreting should not proceed if ambient temperature drops below 4.5°C without special precautions[cite: 3]."
+    },
+    {
+      "question_number": 377,
+      "question": "Humidity causes ... of cement in bag.",
+      "options": {
+        "a": "decaying",
+        "b": "setting",
+        "c": "strengthening",
+        "d": "disintegration"
+      },
+      "correct_answer": "a",
+      "explanation": "Atmospheric moisture entering cement bags causes pre-hydration, lump formation, and decaying/spoiling of cement[cite: 3]."
+    },
+    {
+      "question_number": 378,
+      "question": "The purpose of reinforcement in prestressed concrete is:",
+      "options": {
+        "a": "to impact initial compressive stress in concrete",
+        "b": "to provide adequate bond stress",
+        "c": "to resist tensile stress",
+        "d": "all of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "High-tensile steel tendons primarily resist tensile forces and introduce pre-compression[cite: 3]."
+    },
+    {
+      "question_number": 379,
+      "question": "Reduction in aggregate cement ratio while keeping W/C ratio constant causes:",
+      "options": {
+        "a": "increase in workability",
+        "b": "decrease in workability",
+        "c": "workability is not affected",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Lowering aggregate-cement ratio means a richer mix (more paste content), which increases workability[cite: 3]."
+    },
+    {
+      "question_number": 380,
+      "question": "Modulus of rupture of concrete is measure of:",
+      "options": {
+        "a": "compressive strength",
+        "b": "flexural tensile strength",
+        "c": "direct tensile strength",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Modulus of rupture measures the flexural tensile strength of concrete beams[cite: 3]."
+    },
+    {
+      "question_number": 381,
+      "question": "Slump test is done for",
+      "options": {
+        "a": "clay",
+        "b": "sand",
+        "c": "lime",
+        "d": "concrete"
+      },
+      "correct_answer": "d",
+      "explanation": "The slump test is a standard method to measure the workability of fresh concrete[cite: 3]."
+    },
+    {
+      "question_number": 382,
+      "question": "The durability of concrete is proportion to:",
+      "options": {
+        "a": "sand content",
+        "b": "water cement ratio",
+        "c": "aggregate ratio",
+        "d": "cement aggregate ratio"
+      },
+      "correct_answer": "b",
+      "explanation": "Durability is inversely proportional to the water-cement ratio (lower water-cement ratio yields higher durability)[cite: 3]."
+    },
+    {
+      "question_number": 383,
+      "question": "Plain cement concrete is strong in taking:",
+      "options": {
+        "a": "tensile stress",
+        "b": "compressive stress",
+        "c": "shear stress",
+        "d": "all of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Plain cement concrete has high compressive strength but is weak in tension and shear[cite: 3]."
+    },
+    {
+      "question_number": 384,
+      "question": "The removal of excess air after placing concrete helps in increasing the strength of concrete by:",
+      "options": {
+        "a": "15 to 20%",
+        "b": "20 to 30%",
+        "c": "30 to 50%",
+        "d": "50 to 70%"
+      },
+      "correct_answer": "b",
+      "explanation": "Proper compaction removing entrapped air can boost concrete strength significantly (approx 20 to 30%)[cite: 3]."
+    },
+    {
+      "question_number": 385,
+      "question": "The strength of concrete increase with decreases in:",
+      "options": {
+        "a": "size of aggregate",
+        "b": "moisture content",
+        "c": "water cement ratio",
+        "d": "aggregate cement ratio"
+      },
+      "correct_answer": "c",
+      "explanation": "According to Abrams' law, strength increases as the water-cement ratio decreases[cite: 3]."
+    },
+    {
+      "question_number": 386,
+      "question": "The cold bent test is conducted in a steel bar to determine:",
+      "options": {
+        "a": "bending without fracture",
+        "b": "bending without curvature",
+        "c": "bending at 90 degree",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "The cold bend test checks the ductility and capacity of steel reinforcement bars to bend without fracturing[cite: 3]."
+    },
+    {
+      "question_number": 387,
+      "question": "As compared to ordinary Portland cement, use of pozzolanic cement:",
+      "options": {
+        "a": "reduces workability",
+        "b": "increase bleeding",
+        "c": "increases shrinkage",
+        "d": "increases strength"
+      },
+      "correct_answer": "b",
+      "explanation": "Pozzolanic cements tend to exhibit increased bleeding characteristics compared to standard OPC[cite: 3]."
+    },
+    {
+      "question_number": 388,
+      "question": "For the same design load, the weight of concrete in a prestressed concrete as compared to ordinary reinforced concrete is less by:",
+      "options": {
+        "a": "25%",
+        "b": "33%",
+        "c": "50%",
+        "d": "66%"
+      },
+      "correct_answer": "c",
+      "explanation": "Prestressed concrete structural members require significantly less cross-sectional area and concrete weight (roughly 50% less) for identical loads[cite: 3]."
+    },
+    {
+      "question_number": 389,
+      "question": "To determine the modulus of rupture, the size of test specimen used is",
+      "options": {
+        "a": "150 x 150 x 500 mm",
+        "b": "100 x 100 x 500 mm",
+        "c": "100 x 100 x 700 mm",
+        "d": "150 x 150 x 700 mm"
+      },
+      "correct_answer": "d",
+      "explanation": "Standard beam specimens for flexural strength tests measure 150 x 150 x 700 mm (or 100 x 100 x 500 mm depending on aggregate size)[cite: 3]."
+    },
+    {
+      "question_number": 390,
+      "question": "The steel mould used for slump test is in the form of:",
+      "options": {
+        "a": "cube",
+        "b": "cylinder",
+        "c": "frustum of a cone",
+        "d": "triangular"
+      },
+      "correct_answer": "c",
+      "explanation": "The standard slump cone is a frustum of a cone[cite: 3]."
+    },
+    {
+      "question_number": 391,
+      "question": "Expansive cement expands mostly during its:",
+      "options": {
+        "a": "initial hardening period",
+        "b": "final hardening period",
+        "c": "whole life",
+        "d": "all of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Expansive cement undergoes controlled expansion primarily during its final hardening and early curing stage[cite: 3]."
+    },
+    {
+      "question_number": 392,
+      "question": "Soundness of the material means the resistance of the material against the effect of:",
+      "options": {
+        "a": "moisture attack",
+        "b": "heat",
+        "c": "alternate freezing thawing",
+        "d": "all of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "In aggregate and material testing, soundness specifically denotes resistance to weathering actions like alternate freezing and thawing[cite: 3]."
+    },
+    {
+      "question_number": 393,
+      "question": "What is a graded aggregate?",
+      "options": {
+        "a": "it has particles of all sizes",
+        "b": "it has particles between 4 mm - 6 mm",
+        "c": "it has particles between 10 mm - 15 mm",
+        "d": "it has particles between 2 mm - 5 mm"
+      },
+      "correct_answer": "a",
+      "explanation": "A well-graded aggregate contains particles of various sizes proportioned to minimize void space[cite: 3]."
+    },
+    {
+      "question_number": 394,
+      "question": "Finer grinding of cement",
+      "options": {
+        "a": "affects only the early development of strength",
+        "b": "affects only the ultimate strength",
+        "c": "both (a) and (b) of above",
+        "d": "does not affect the strength"
+      },
+      "correct_answer": "c",
+      "explanation": "Finer cement increases surface area, accelerating early hydration and rate of strength gain[cite: 3]."
+    },
+    {
+      "question_number": 395,
+      "question": "The individual variation between test strength of sample should not be more than",
+      "options": {
+        "a": "+/- 5% of average",
+        "b": "+/- 10% of average",
+        "c": "+/- 15% of average",
+        "d": "+/- 20% of average"
+      },
+      "correct_answer": "b",
+      "explanation": "Standard testing codes stipulate that individual cube strength results should not deviate by more than +/- 10% from the mean batch average[cite: 3]."
+    },
+    {
+      "question_number": 396,
+      "question": "To obtain a very high strength concrete, use very fine grained:",
+      "options": {
+        "a": "volcanic scoria",
+        "b": "granite",
+        "c": "magnetite",
+        "d": "barite"
+      },
+      "correct_answer": "c",
+      "explanation": "Magnetite is utilized as heavy, fine aggregate for specialized high-density/strength mixes[cite: 3]."
+    },
+    {
+      "question_number": 397,
+      "question": "The percentage of voids in cement is approximately:",
+      "options": {
+        "a": "25%",
+        "b": "35%",
+        "c": "40%",
+        "d": "50%"
+      },
+      "correct_answer": "b",
+      "explanation": "Loose bulk cement typically contains approximately 35% air voids[cite: 3]."
+    },
+    {
+      "question_number": 398,
+      "question": "The resistance of an aggregate to wear is known as:",
+      "options": {
+        "a": "shear resistance",
+        "b": "crushing resistance",
+        "c": "abrasion resistance",
+        "d": "impact value"
+      },
+      "correct_answer": "c",
+      "explanation": "Abrasion resistance measures an aggregate's ability to withstand surface wear and friction[cite: 3]."
+    },
+    {
+      "question_number": 399,
+      "question": "For the construction of cement concrete floor the maximum permissible sizes of aggregate is:",
+      "options": {
+        "a": "4 mm",
+        "b": "6 mm",
+        "c": "8 mm",
+        "d": "10 mm"
+      },
+      "correct_answer": "c",
+      "explanation": "For thin concrete floor toppings, maximum aggregate size is restricted (typically 8 mm)[cite: 3]."
+    },
+    {
+      "question_number": 400,
+      "question": "Age factor for permissible compressive stress in concrete after six months is:",
+      "options": {
+        "a": "1.10",
+        "b": "1.15",
+        "c": "1.20",
+        "d": "1.30"
+      },
+      "correct_answer": "b",
+      "explanation": "Age factors account for continuous strength gain beyond 28 days, reaching 1.15 at 6 months[cite: 3]."
+    },
+    {
+      "question_number": 401,
+      "question": "Fineness of cement is measured in unit of:",
+      "options": {
+        "a": "area/mass",
+        "b": "volume/mass",
+        "c": "mass/volume",
+        "d": "mass/area"
+      },
+      "correct_answer": "c",
+      "explanation": "Fineness is expressed as specific surface area (e.g., $m^2/kg$ or $cm^2/g$), which relates to surface area per unit mass/volume[cite: 3]."
+    },
+    {
+      "question_number": 402,
+      "question": "The cement-sand ratio used in the compressive strength test of cement as per the Standard Specification is:",
+      "options": {
+        "a": "1:1",
+        "b": "1:2",
+        "c": "1:3",
+        "d": "1:4"
+      },
+      "correct_answer": "c",
+      "explanation": "Standard cement mortar cube tests use a 1:3 cement-to-sand weight proportion[cite: 3]."
+    },
+    {
+      "question_number": 403,
+      "question": "The initial setting time of lime-pozzolana, is:",
+      "options": {
+        "a": "30 minute",
+        "b": "60 minute",
+        "c": "90 minute",
+        "d": "120 minute"
+      },
+      "correct_answer": "d",
+      "explanation": "Lime-pozzolana mixes exhibit slower chemical reactions, having an initial setting time of 120 minutes[cite: 3]."
+    },
+    {
+      "question_number": 404,
+      "question": "The rocks which are formed due to cooling of magma at a considerable depth front surface are called",
+      "options": {
+        "a": "plutonic rocks",
+        "b": "Hypabyssal rocks",
+        "c": "volcanic rocks",
+        "d": "igneous rocks"
+      },
+      "correct_answer": "a",
+      "explanation": "Plutonic rocks are intrusive igneous rocks formed by slow cooling of magma deep underground[cite: 3]."
+    },
+    {
+      "question_number": 405,
+      "question": "Depending on the chemical composition and mechanical properties, iron may be classified as",
+      "options": {
+        "a": "cast iron",
+        "b": "wrought iron",
+        "c": "steel",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Iron-based engineering metals are classified into cast iron, wrought iron, and steel based on carbon content and properties[cite: 3]."
+    }
+  ]
+}

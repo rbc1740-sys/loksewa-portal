@@ -1,0 +1,1298 @@
+[
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Labour act was introduced /founded in",
+        "options":  {
+                        "a":  "2038",
+                        "b":  "2048",
+                        "c":  "2043",
+                        "d":  "2053"
+                    },
+        "answer":  "b",
+        "explanation":  "As per the answer key provided in the text, the correct option is b (2048)[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Who is the chairperson of Central Labour Advisory Board?",
+        "options":  {
+                        "a":  "Secretory of ministry of labour",
+                        "b":  "Specialist of ministry of labour",
+                        "c":  "Director General, Department of labour",
+                        "d":  "Labour minister/ state minister"
+                    },
+        "answer":  "d",
+        "explanation":  "According to the official answer key, the Labour minister/ state minister serves as the chairperson[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "In Nepal, which of the following act contains the provisions on health and safety of the workers?",
+        "options":  {
+                        "a":  "contract act",
+                        "b":  "industry act",
+                        "c":  "labour act",
+                        "d":  "all of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "The Labour Act contains explicit provisions regarding the health and safety of workers[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "According to labour act considering health condition is",
+        "options":  {
+                        "a":  "first aid after accident",
+                        "b":  "safety on inst. and cloth",
+                        "c":  "education \u0026 training",
+                        "d":  "none of the above"
+                    },
+        "answer":  "a",
+        "explanation":  "First aid after an accident is categorized under health considerations according to the provided answer key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Maximum working hour for a labour per week should be",
+        "options":  {
+                        "a":  "42hr",
+                        "b":  "45hr",
+                        "c":  "48hr",
+                        "d":  "53hr"
+                    },
+        "answer":  "c",
+        "explanation":  "The maximum standard working hours per week for a laborer is established as 48 hours[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Workers are not allowed to work continuously more than",
+        "options":  {
+                        "a":  "3hr",
+                        "b":  "5hr",
+                        "c":  "7hr",
+                        "d":  "4hr"
+                    },
+        "answer":  "b",
+        "explanation":  "Workers are restricted from working continuously for more than 5 hours without a break[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The space required for living the worker is $15m^{3}$ with considering the maximum height of room above floor level.",
+        "options":  {
+                        "a":  "3m",
+                        "b":  "3.5m",
+                        "c":  "4m",
+                        "d":  "5m"
+                    },
+        "answer":  "a",
+        "explanation":  "Based on the answer key, the corresponding height parameter for the specified worker volume is 3m[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which of the following is not concerned with the authority of Engineers?",
+        "options":  {
+                        "a":  "good behaviour with client",
+                        "b":  "conscious with his profession",
+                        "c":  "divulge the confidential matter",
+                        "d":  "express an opinion on engineering matter"
+                    },
+        "answer":  "c",
+        "explanation":  "Divulging confidential matters violates professional ethics and is not an authorized or acceptable practice for engineers[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Ethics is the science which deals with",
+        "options":  {
+                        "a":  "rightness of professional",
+                        "b":  "wrong of professional",
+                        "c":  "both (a) and (b) of above",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Ethics deals with evaluating both the rightness and wrongness of professional conduct[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Profession is defined as",
+        "options":  {
+                        "a":  "systematic knowledge through specialized training",
+                        "b":  "synonym to job or occupation",
+                        "c":  "types of service to needy people",
+                        "d":  "all of the above"
+                    },
+        "answer":  "b",
+        "explanation":  "As per the answer key, a profession is treated synonymously with a job or occupation in this context[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The Nepal Engineers\u0027 Association was established in",
+        "options":  {
+                        "a":  "2014 BS",
+                        "b":  "2024 BS",
+                        "c":  "2034 BS",
+                        "d":  "2044 BS"
+                    },
+        "answer":  "b",
+        "explanation":  "The Nepal Engineers\u0027 Association (NEA) was established in 2024 BS[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The number of members in Nepal Engineers\u0027 Association are",
+        "options":  {
+                        "a":  "5",
+                        "b":  "10",
+                        "c":  "15",
+                        "d":  "20"
+                    },
+        "answer":  "d",
+        "explanation":  "According to the key, option d corresponds to the correct choice[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "नेपाल इन्जिनियरिङ परिषद् ऐन, २०५५ लालमोहर र प्रकाशन मिति कुन हो ?",
+        "options":  {
+                        "a":  "२०५५।१०।२७",
+                        "b":  "२०५५।११।२७",
+                        "c":  "२०५५।१०/१७",
+                        "d":  "२०५५।१०।१७"
+                    },
+        "answer":  "b",
+        "explanation":  "As per the answer key, the authentication and publication date is २०५५।११।२७[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "नेपाल इन्जिनियरिङ परिषद्मा कति जना सदस्य हुन्छन ?",
+        "options":  {
+                        "a":  "१२",
+                        "b":  "१५",
+                        "c":  "१८",
+                        "d":  "२१"
+                    },
+        "answer":  "c",
+        "explanation":  "The total number of members in the Nepal Engineering Council (NEC) is 18 according to the answer key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC मा NEA मध्ये निर्वाचन गरी पठाएको सदस्यहरुको संख्या कति हुन्छ?",
+        "options":  {
+                        "a":  "१२",
+                        "b":  "१५",
+                        "c":  "५०",
+                        "d":  "११"
+                    },
+        "answer":  "b",
+        "explanation":  "The number of members elected and sent from NEA to NEC is indicated as option b[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC मा मनोनित वा निवार्चित सदस्यको पदावधि कति दिनको हुन्छ ?",
+        "options":  {
+                        "a":  "१ वर्ष",
+                        "b":  "२ वर्ष",
+                        "c":  "३ वर्ष",
+                        "d":  "४ वर्ष"
+                    },
+        "answer":  "d",
+        "explanation":  "The tenure of nominated or elected members in the NEC is 4 years[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC को बैठकमा कति प्रतिशत भन्दा बढी सदस्यको संख्या उपस्थिपत भएमा परिषद‌को बैठकको गणपूरक संख्या पुगेको मानिन्छ ?",
+        "options":  {
+                        "a":  "33%",
+                        "b":  "50%",
+                        "c":  "66%",
+                        "d":  "90%"
+                    },
+        "answer":  "b",
+        "explanation":  "A quorum requires more than 50% attendance of the total members[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "नेपाल इन्जिनियरिङ परिषद् ऐन, २०५५ मा कतिवटा दफा रहेछन्?",
+        "options":  {
+                        "a":  "18",
+                        "b":  "28",
+                        "c":  "38",
+                        "d":  "48"
+                    },
+        "answer":  "c",
+        "explanation":  "There are 38 sections (दफा) in the Nepal Engineering Council Act, 2055[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC अन्तर्गत कतिवटा नेपाल इन्जिनियरिङ व्यवसायलाई संलग्न गरिएको छ ?",
+        "options":  {
+                        "a":  "15",
+                        "b":  "25",
+                        "c":  "34",
+                        "d":  "40"
+                    },
+        "answer":  "b",
+        "explanation":  "According to the key, 25 is the correct count[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "नेपाल इन्जिनियरिङ परिषद्‌को अध्यक्ष पदको लागी न्युन्तम योग्यता कति निर्धारण गरिएको छ ?",
+        "options":  {
+                        "a":  "इन्जिनियरिङ विषयमा स्नातकोत्तर",
+                        "b":  "व्यवस्थापन विषयमा स्नातकोत्तर",
+                        "c":  "इन्जिनियरिङ विषयमा स्नातक",
+                        "d":  "व्यवस्थापन विषयमा स्नातक"
+                    },
+        "answer":  "a",
+        "explanation":  "A master\u0027s degree in engineering is required for the position of chairperson as per the solution key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "नेपाल इन्जिनियरिङ परिषदले श्री ५ को सरकारसँगसम्पर्क राख्दा कुन मंत्रालय मार्फत सम्पर्क राख्नु पर्ने छ ?",
+        "options":  {
+                        "a":  "अर्थ मंत्रालय",
+                        "b":  "गृह मंत्रालय",
+                        "c":  "सामान्य प्रशासन मंत्रालय",
+                        "d":  "भौतिक पूर्वाधार तथा यातायात मंत्रालय"
+                    },
+        "answer":  "d",
+        "explanation":  "Communication with the government is channeled through the Ministry of Physical Infrastructure and Transport (or corresponding ministry) as per option d[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "नेपाल इन्जिनियरिङ परिषद् नियमावली, २०५७ सम्बन्धी कुन गलत छ ?",
+        "options":  {
+                        "a":  "ने.ई.प.नि, २०५७ को निर्माण NEC ले गरेको हो।",
+                        "b":  "ने.ई.प.नि, २०५७ को निर्माण NEC ले NEC Act 2055 को दफा ३७ बमोजिम गरेको हो।",
+                        "c":  "both (a) and (b) of above",
+                        "d":  "none of the above"
+                    },
+        "answer":  "a",
+        "explanation":  "Option a is identified as incorrect in the context of how the regulation was framed under the legal provisions[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC ले इन्जिनियरहरुलाई कति भागमा बिभाजन गरेका छन् ?",
+        "options":  {
+                        "a":  "2",
+                        "b":  "3",
+                        "c":  "4",
+                        "d":  "5"
+                    },
+        "answer":  "a",
+        "explanation":  "Engineers are divided into 2 primary groups/categories for registration purposes as per the answer key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "As per the NEC Act, 2055 the name of engineers categories are",
+        "options":  {
+                        "a":  "general, professional, and foreigner",
+                        "b":  "special, local and international engineer",
+                        "c":  "civil, electrical and mechanical engineer",
+                        "d":  "computer, electronics and agriculture engineer"
+                    },
+        "answer":  "a",
+        "explanation":  "The structural categories include general, professional, and foreign engineers[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC Regulation, 2057 is effective from",
+        "options":  {
+                        "a":  "2057/3/8",
+                        "b":  "2057/4/8",
+                        "c":  "2057/5/8",
+                        "d":  "2057/6/8"
+                    },
+        "answer":  "a",
+        "explanation":  "The regulation came into effect on 2057/3/8[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The number of countries in which Nepal Engineering Council has recognized the academic institutions are (September, 2013)",
+        "options":  {
+                        "a":  "20",
+                        "b":  "30",
+                        "c":  "40",
+                        "d":  "50"
+                    },
+        "answer":  "a",
+        "explanation":  "According to the key, academic institutions from 20 countries were recognized at that time[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The Engineering Council members consist of the following members",
+        "options":  {
+                        "a":  "12",
+                        "b":  "14",
+                        "c":  "16",
+                        "d":  "18"
+                    },
+        "answer":  "d",
+        "explanation":  "Total council members equal 18[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which one type of membership is not categorized by NEC?",
+        "options":  {
+                        "a":  "general engineer",
+                        "b":  "foreign engineer",
+                        "c":  "professional engineer",
+                        "d":  "superintendent engineer"
+                    },
+        "answer":  "d",
+        "explanation":  "Superintendent engineer is a service designation, not a basic NEC registration category[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "For the registration of general engineer the amount of fee required is",
+        "options":  {
+                        "a":  "NRs 2000/-",
+                        "b":  "NRs 3000/-",
+                        "c":  "NRs 3500/-",
+                        "d":  "NRs 4000/-"
+                    },
+        "answer":  "b",
+        "explanation":  "The prescribed registration fee for a general engineer is NRs 3000/-[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "For the registration of professional engineers the amount of fee required is",
+        "options":  {
+                        "a":  "NRS 5000/-",
+                        "b":  "NRS 10000/-",
+                        "c":  "NRS 15000/-",
+                        "d":  "NRS 20000/-"
+                    },
+        "answer":  "b",
+        "explanation":  "The registration fee for professional engineers is NRS 10000/-[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "For the registration of foreigner engineers the amount of fee required is",
+        "options":  {
+                        "a":  "NRS 3000/-",
+                        "b":  "NRS 5000/-",
+                        "c":  "NRS 10000/-",
+                        "d":  "NRS 15000/-"
+                    },
+        "answer":  "d",
+        "explanation":  "The registration fee for foreign engineers is NRS 15000/-[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "If the registration of an engineer is cancelled from NEC his name will be registered or not if engineer is ready to register his name (दफा) - 18 NEC, regulation",
+        "options":  {
+                        "a":  "yes",
+                        "b":  "no",
+                        "c":  "may be",
+                        "d":  "all of the above"
+                    },
+        "answer":  "a",
+        "explanation":  "Yes, re-registration provisions apply under specific conditions set out in the regulations[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The minimum qualification required for a general engineer is",
+        "options":  {
+                        "a":  "diploma in engg.",
+                        "b":  "bachelor in engg.",
+                        "c":  "master in engg.",
+                        "d":  "all of the above"
+                    },
+        "answer":  "b",
+        "explanation":  "A bachelor\u0027s degree in engineering is the minimum requirement for a general engineer[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The minimum qualification required for a professional engineer is",
+        "options":  {
+                        "a":  "diploma in engg.",
+                        "b":  "bachelor in engg.",
+                        "c":  "master in engg.",
+                        "d":  "all of the above"
+                    },
+        "answer":  "b",
+        "explanation":  "A bachelor\u0027s degree alongside mandatory experience qualifies one for professional status[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The minimum qualification \u0026 experience required for the registration of foreigner engineers is",
+        "options":  {
+                        "a":  "bachelor in engg. and 5 years experience",
+                        "b":  "bachelor in engg. and 10 yrs experience",
+                        "c":  "master in engg. and 5 yrs experience",
+                        "d":  "master in engg. and 10 yrs experience"
+                    },
+        "answer":  "d",
+        "explanation":  "According to the answer key, option d outlines the required credentials for foreign registration[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The registration book for general and professional engineers is written in Nepali language while for foreigner engineer name of foreigner engineers publish",
+        "options":  {
+                        "a":  "Nepali",
+                        "b":  "every forth year",
+                        "c":  "Nepali and English",
+                        "d":  "English"
+                    },
+        "answer":  "d",
+        "explanation":  "Foreigner engineer registries/publications are maintained in English[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC publishes the name of registered engineers each year as well as every fourth year. The",
+        "options":  {
+                        "a":  "each year",
+                        "b":  "every fourth year",
+                        "c":  "both (a) and (b)",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Both annual lists and comprehensive updates every fourth year are managed by the council[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC act and its regulation..........",
+        "options":  {
+                        "a":  "55 and 57",
+                        "b":  "54 and 55",
+                        "c":  "55 and 56",
+                        "d":  "57 and 58"
+                    },
+        "answer":  "a",
+        "explanation":  "The Act is of 2055 BS and the Regulations are of 2057 BS[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Nepal engineering council is an autonomous body formed under NEC act in",
+        "options":  {
+                        "a":  "2056 BS",
+                        "b":  "2055 BS",
+                        "c":  "2054 BS",
+                        "d":  "2053 BS"
+                    },
+        "answer":  "b",
+        "explanation":  "The body was formed following the 2055 BS Act[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which of the following category of Engineer is not mentioned in Engineering Council rule",
+        "options":  {
+                        "a":  "Chartered Engineer",
+                        "b":  "General Engineer",
+                        "c":  "Professional Engineer",
+                        "d":  "Non-Nepali Regd. Engineer"
+                    },
+        "answer":  "a",
+        "explanation":  "Chartered Engineer is not the standard category name used in the local council rules compared to general, professional, and foreign registrations[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which one is not concerned with the NEC",
+        "options":  {
+                        "a":  "licensing (Registration) of Engineers",
+                        "b":  "accreditation of certificates of academic qualifications",
+                        "c":  "recognition of the academic institution",
+                        "d":  "authority of opening engineering college"
+                    },
+        "answer":  "d",
+        "explanation":  "The authority of opening engineering colleges does not fall under the direct purview of the NEC[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which one is not concerned with NEC",
+        "options":  {
+                        "a":  "accreditation of academic certificate",
+                        "b":  "authority of opening engineering college",
+                        "c":  "appointment of teacher",
+                        "d":  "all of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Appointment of teachers is outside the mandate of the NEC[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "NEC does not approach for",
+        "options":  {
+                        "a":  "engineer",
+                        "b":  "overseer to engineer",
+                        "c":  "minimum degree B.E.",
+                        "d":  "all of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Option c represents the correct choice per the official answer key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "गैह्र नेपाली दर्तावाला इन्जिनियरहरुको नाम दर्ता गर्दा ----को लागी गरिनेछ ।",
+        "options":  {
+                        "a":  "एक वर्ष",
+                        "b":  "दुई वर्ष",
+                        "c":  "तीन वर्ष",
+                        "d":  "चार वर्ष"
+                    },
+        "answer":  "c",
+        "explanation":  "Registration for foreign engineers is done for three years as indicated by the key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "गैह्र नेपाली दर्तावालामा इन्जिनियरको कार्यविधि समाप्त भएपछि काम लगाउने संस्थाको अन्रोधमा परिषदले उपयुक्त ठानेमा एक पटकमाको अवधि भन्दा बढी नहने गरी जति सकै पटक पनि त्यस्तो दर्ता नवीकरण गरिदिन सक्नेछ ।",
+        "options":  {
+                        "a":  "एक वर्ष",
+                        "b":  "दुई वर्ष",
+                        "c":  "तीन वर्ष",
+                        "d":  "चार वर्ष"
+                    },
+        "answer":  "c",
+        "explanation":  "Renewal duration parameters match the three-year provision[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "परिषद्ले प्राप्त भएको रकम वाणिज्य बैंकमा जम्मा गर्दा खाता संचालन कसको नाममा हुन्छ?",
+        "options":  {
+                        "a":  "अध्यक्ष र रजिष्ट्रार",
+                        "b":  "अध्यक्ष र लेखा अधिकृत",
+                        "c":  "रजिष्ट्रार र लेखा अधिकृत",
+                        "d":  "अध्यक्ष वा रजिष्ट्रार र लेखा अधिकृत"
+                    },
+        "answer":  "d",
+        "explanation":  "Bank accounts are operated under joint signatures as specified in option d[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "परिष‌द्मा नाम दर्ता नगराई इन्जिनियरिङ व्यवसाय गरेमा कति रुपैयासम्म जरिवाना गरिनेछ ?",
+        "options":  {
+                        "a":  "एक हजार",
+                        "b":  "दुइ हजार",
+                        "c":  "तीन हजार",
+                        "d":  "चार हजार"
+                    },
+        "answer":  "d",
+        "explanation":  "The fine specified for practicing without registration is up to four thousand[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The abbreviation PWD stands for",
+        "options":  {
+                        "a":  "public work directives",
+                        "b":  "public work department",
+                        "c":  "private work directives",
+                        "d":  "private work department"
+                    },
+        "answer":  "b",
+        "explanation":  "PWD stands for Public Work Department[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Prequalification is not required for any types of firm if the costing to buy an equipment is",
+        "options":  {
+                        "a":  "less than 20 million",
+                        "b":  "more than 20 million",
+                        "c":  "any amount",
+                        "d":  "all of the above"
+                    },
+        "answer":  "a",
+        "explanation":  "Prequalification thresholds exempt values below 20 million[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The minimum and maximum no. of members in the user\u0027s committee should be",
+        "options":  {
+                        "a":  "15 \u0026 17",
+                        "b":  "17 \u0026 19",
+                        "c":  "9 \u0026 15",
+                        "d":  "7 \u0026 9"
+                    },
+        "answer":  "c",
+        "explanation":  "The user committee member bounds are 9 and 15 according to standard public procurement guidelines referenced[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "प्रत्येक बोलपत्र दाताले बढीमा कतिवटा बोलपत्र दाखिला गर्न सक्छ ?",
+        "options":  {
+                        "a":  "एक",
+                        "b":  "दुई",
+                        "c":  "तीन",
+                        "d":  "चार"
+                    },
+        "answer":  "a",
+        "explanation":  "Each bidder can submit at most one tender/bid package per procurement invitation[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "What percent of interest is taken for the advance amount paid to the contractor by employer?",
+        "options":  {
+                        "a":  "1% of advance amount",
+                        "b":  "2% of advance amount",
+                        "c":  "3% of advance amount",
+                        "d":  "none of the above"
+                    },
+        "answer":  "d",
+        "explanation":  "Advance payments under standard public contracts in Nepal are typically interest-free provided bank guarantees are furnished, leading to \u0027none of the above\u0027[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "In case of National Competitive Bidding, the prices shall be quoted in",
+        "options":  {
+                        "a":  "Nepalese rupees",
+                        "b":  "American dollar",
+                        "c":  "Qatari Riyal",
+                        "d":  "Dhiram"
+                    },
+        "answer":  "a",
+        "explanation":  "National Competitive Bidding (NCB) requires pricing in local currency (Nepalese rupees)[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The employer\u0027s have right to",
+        "options":  {
+                        "a":  "accept the bid",
+                        "b":  "reject the bid",
+                        "c":  "both (a) and (b) of above",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Employers retain the administrative right to accept or lawfully reject bids[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The number of members in dispute resolution committee are",
+        "options":  {
+                        "a":  "2",
+                        "b":  "3",
+                        "c":  "4",
+                        "d":  "5"
+                    },
+        "answer":  "b",
+        "explanation":  "A Dispute Resolution Committee (DRC) typically consists of 3 members[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Engineer shall practices:",
+        "options":  {
+                        "a":  "in favour of client",
+                        "b":  "in favour of contractor",
+                        "c":  "in favour of him/herself",
+                        "d":  "impartial and diligent professional personnel"
+                    },
+        "answer":  "d",
+        "explanation":  "Engineers must maintain impartiality and act as diligent professionals[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Engineering ethics is the field of applied ethics and system of moral principles that apply to",
+        "options":  {
+                        "a":  "practice engineering",
+                        "b":  "responsibility engineering",
+                        "c":  "management engineering",
+                        "d":  "accountability engineering"
+                    },
+        "answer":  "a",
+        "explanation":  "It applies directly to the practice of engineering[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Code of conduct is not related with",
+        "options":  {
+                        "a":  "making the advice of the engineer impartial",
+                        "b":  "building code",
+                        "c":  "ensuring the quality of advice",
+                        "d":  "making the advice untained by any personal consideration"
+                    },
+        "answer":  "b",
+        "explanation":  "A building code is a technical design/construction standard, whereas a code of conduct governs professional behavior[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Time extension may need to be granted due to",
+        "options":  {
+                        "a":  "causes by force majeure",
+                        "b":  "causes by purchaser",
+                        "c":  "both a) and b) of above",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Time extensions are validly granted due to force majeure or purchaser-delayed causes[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "What is the abbreviation used for German Technical Co-operation?",
+        "options":  {
+                        "a":  "GIZ",
+                        "b":  "GTC",
+                        "c":  "GTZ (or GIZ)",
+                        "d":  "all of the above"
+                    },
+        "answer":  "a",
+        "explanation":  "GIZ (formerly GTZ) represents German technical cooperation organizations[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which action does not fall under the principle of public procurement",
+        "options":  {
+                        "a":  "procurement should be economic and efficient",
+                        "b":  "procurement should always be lowest cost",
+                        "c":  "information and equal opportunities to all",
+                        "d":  "procurement process should be transparent"
+                    },
+        "answer":  "b",
+        "explanation":  "Public procurement aims for the lowest evaluated substantially responsive bid, not blindly \u0027always lowest cost\u0027 ignoring quality or specifications[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The variation exceeding 15% of the contract amount is approved by",
+        "options":  {
+                        "a":  "gazetted 2nd class",
+                        "b":  "gazetted 1st class",
+                        "c":  "department head",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Major variations exceeding standard thresholds require approval from higher authorities like the department head[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "To work for survey, design estimate \u0026 supervision of a road project, the consultant has to submit",
+        "options":  {
+                        "a":  "technical proposal",
+                        "b":  "financial proposal",
+                        "c":  "technical and financial proposal",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Consultants bidding for services submit both technical and financial proposals[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Who is the Chairperson of Project Co-ordination Committee?",
+        "options":  {
+                        "a":  "CDO",
+                        "b":  "LDO",
+                        "c":  "chairperson of DDC",
+                        "d":  "section officer"
+                    },
+        "answer":  "c",
+        "explanation":  "The chairperson of the District Development Committee (DDC) chairs the project coordination committee contextually[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Who is the Chairperson of Construction Material Rate Fixation Committee?",
+        "options":  {
+                        "a":  "CDO",
+                        "b":  "LDO",
+                        "c":  "chairperson of DDC",
+                        "d":  "section officer"
+                    },
+        "answer":  "a",
+        "explanation":  "The Chief District Officer (CDO) heads the construction material rate fixation committee[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Who is the Chairperson of House Rent Fixation Committee?",
+        "options":  {
+                        "a":  "CDO",
+                        "b":  "LDO",
+                        "c":  "chairperson of DDC",
+                        "d":  "section officer"
+                    },
+        "answer":  "a",
+        "explanation":  "The CDO acts as chairperson for the house rent fixation committee[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The bid security shall be forfeited if",
+        "options":  {
+                        "a":  "Bidder withdraws its bid during the period of bid validity specified by the bidder in the Bid form",
+                        "b":  "in case of successful bidder, if the bidder fails within the specified time limit either to sign the contract or furnish performance security",
+                        "c":  "both (a) and (b) of above",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Bid security is forfeited for both withdrawing during validity or failing to sign/provide performance security upon winning[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Integrity is",
+        "options":  {
+                        "a":  "state or quality of being complete, undivided or unbroken moral soundness, honesty \u0026 uprightness",
+                        "b":  "the wholeness of deriving quality",
+                        "c":  "both a) and b) of above",
+                        "d":  "none of the above"
+                    },
+        "answer":  "a",
+        "explanation":  "Integrity denotes moral soundness, honesty, and completeness of character[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Code of ethics should be",
+        "options":  {
+                        "a":  "comprehensive and precise",
+                        "b":  "measure of integrity performance",
+                        "c":  "both a) and b) of above",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "A code of ethics should be comprehensive, precise, and serve as a performance measure for professional integrity[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "For the supply of any goods as per agreement, who is responsible for all taxes, duties, licence fees and other such levies imposed by the GoN.",
+        "options":  {
+                        "a":  "CDO",
+                        "b":  "employer",
+                        "c":  "supplier",
+                        "d":  "consultant"
+                    },
+        "answer":  "c",
+        "explanation":  "The supplier/contractor is generally responsible for local taxes and duties unless contractually exempted[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The technology applicable for the development in developing countries is",
+        "options":  {
+                        "a":  "appropriate technology",
+                        "b":  "high technology",
+                        "c":  "low technology",
+                        "d":  "information technology"
+                    },
+        "answer":  "a",
+        "explanation":  "Appropriate technology fits the economic, resource, and social conditions of developing countries[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "\"Corrupt practice\" means",
+        "options":  {
+                        "a":  "offering/receiving anything to influence the action of public official",
+                        "b":  "buy more than one bid document",
+                        "c":  "misrepresentation of facts in order to influence a procurement process",
+                        "d":  "all of the above"
+                    },
+        "answer":  "a",
+        "explanation":  "Corrupt practice involves offering or receiving things of value to improperly influence official actions[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "\"Fraudulent practice\" means",
+        "options":  {
+                        "a":  "offering anything to influence the action of public official",
+                        "b":  "buy more than one bid document",
+                        "c":  "misrepresentation of facts in order to influence a procurement process",
+                        "d":  "all of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Fraudulent practice refers to misrepresentation of facts to influence procurement processes[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which Ministry of Government of Nepal deals with Civil Engineering group of Nepal Engineering service?",
+        "options":  {
+                        "a":  "Ministry of General Administration",
+                        "b":  "Ministry of Energy",
+                        "c":  "Ministry of Irrigation",
+                        "d":  "Ministry of Physical Infrastructure and Transport"
+                    },
+        "answer":  "d",
+        "explanation":  "The Ministry of Physical Infrastructure and Transport handles the core civil engineering service group[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Professional code of conduct issued by Nepal Engineering Council has",
+        "options":  {
+                        "a":  "6 articles",
+                        "b":  "7 articles",
+                        "c":  "8 articles",
+                        "d":  "9 articles"
+                    },
+        "answer":  "c",
+        "explanation":  "The NEC professional code of conduct comprises 8 articles[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Fundamental principle of Professional Engineering Ethics is:",
+        "options":  {
+                        "a":  "enhancement of professional honor",
+                        "b":  "maintain high level of ethical conduct",
+                        "c":  "both of the above",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Both enhancing professional honor and maintaining high ethical standards form the core principles[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "For the fulfillment of his/her professional duties Engineer should:",
+        "options":  {
+                        "a":  "paramount the health of the public",
+                        "b":  "paramount the safety of the public",
+                        "c":  "welfare of the public",
+                        "d":  "all of the above"
+                    },
+        "answer":  "d",
+        "explanation":  "Engineers must hold paramount the safety, health, and welfare of the public[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Five members are elected from Nepal Engineers Association members to represent in Nepal Engineering Council every:",
+        "options":  {
+                        "a":  "2 years",
+                        "b":  "3 years",
+                        "c":  "4 years",
+                        "d":  "5 years"
+                    },
+        "answer":  "a",
+        "explanation":  "NEA representatives are chosen every 2 years according to the institutional provisions[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Engineers shall build their professional reputation on the merit of their services and shall not compete unfairly with others.",
+        "options":  {
+                        "a":  "publicity",
+                        "b":  "basis",
+                        "c":  "merit",
+                        "d":  "reputation"
+                    },
+        "answer":  "c",
+        "explanation":  "Professional reputation must be built on merit[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "In general, Nepal Engineering Council meeting per year should be held;",
+        "options":  {
+                        "a":  "2 times",
+                        "b":  "3 times",
+                        "c":  "4 times",
+                        "d":  "5 times"
+                    },
+        "answer":  "b",
+        "explanation":  "The council is mandated to hold meetings at least 3 times a year per the answer key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Engineering profession needs cooperation with the profession of;",
+        "options":  {
+                        "a":  "medical professional",
+                        "b":  "accountant",
+                        "c":  "lawyer",
+                        "d":  "all of the above"
+                    },
+        "answer":  "d",
+        "explanation":  "Interdisciplinary collaboration across legal, financial, and other technical fields is essential[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Engineer shall act in such a manner as to uphold and enhance the honor and dignity of engineering profession and shall act with...... for bribery, fraud and corruption,",
+        "options":  {
+                        "a":  "a tolerance",
+                        "b":  "a penchant",
+                        "c":  "a predilection",
+                        "d":  "zero tolerance"
+                    },
+        "answer":  "d",
+        "explanation":  "Engineers must maintain zero tolerance for bribery, fraud, and corruption[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The registered engineer in Nepal Engineering Council should have to renew their registration in:",
+        "options":  {
+                        "a":  "every year",
+                        "b":  "every two years",
+                        "c":  "every four years",
+                        "d":  "none of the above"
+                    },
+        "answer":  "d",
+        "explanation":  "Renewal cycles follow specific regulations distinct from simple annual options listed, rendering \u0027none of the above\u0027 correct for the given choices[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Engineer shall not disclose, without...... confidential information concerning the business affairs or technical processes of any present or former client or employer of public body on which they serve:",
+        "options":  {
+                        "a":  "editing",
+                        "b":  "getting paid",
+                        "c":  "remuneration",
+                        "d":  "consent"
+                    },
+        "answer":  "d",
+        "explanation":  "Confidential information cannot be disclosed without proper consent[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The user\u0027s committee method of construction is labour intensive with a cost estimate upto (Source:PPR 2064):",
+        "options":  {
+                        "a":  "4 million",
+                        "b":  "6 million",
+                        "c":  "8 million",
+                        "d":  "10 million"
+                    },
+        "answer":  "d",
+        "explanation":  "User committee construction ceilings extend up to 10 million under Public Procurement Regulations[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "\"Collusive practice\" means",
+        "options":  {
+                        "a":  "offering anything to influence the action of public official",
+                        "b":  "arrangement between two or more parties to achieve an improper purpose including influencing improperly the action of another party",
+                        "c":  "misrepresentation of facts in order to influence a procurement process",
+                        "d":  "all of the above"
+                    },
+        "answer":  "b",
+        "explanation":  "Collusive practice involves secret arrangements between parties to achieve improper outcomes, such as fixing bid prices[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which one is correct with respect to values, morals and ethics?",
+        "options":  {
+                        "a":  "values are the rules",
+                        "b":  "morals are the personal character",
+                        "c":  "ethics are professional standards",
+                        "d":  "all of the above"
+                    },
+        "answer":  "d",
+        "explanation":  "All the descriptive definitions provided for values, morals, and ethics are correct[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Ethics as a normative science needs code of conduct and guidelines to maintaining high level of standard of good behavior in the society. This is applicable to:",
+        "options":  {
+                        "a":  "Lawyers",
+                        "b":  "doctors",
+                        "c":  "Engineers",
+                        "d":  "all of the above"
+                    },
+        "answer":  "d",
+        "explanation":  "Ethical codes apply universally across all regulated professions like law, medicine, and engineering[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Prequalification is done",
+        "options":  {
+                        "a":  "after the invitation of bids",
+                        "b":  "before the invitation of bids",
+                        "c":  "during the invitation of bids",
+                        "d":  "none of the above"
+                    },
+        "answer":  "b",
+        "explanation":  "Prequalification is completed prior to inviting financial/main commercial bids to filter qualified bidders[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "According to the Public Procurement Regulation, 2064, Who approves the prequalification criteria?",
+        "options":  {
+                        "a":  "concerned project chief",
+                        "b":  "concerned department chief",
+                        "c":  "concerned secretary",
+                        "d":  "concerned minister"
+                    },
+        "answer":  "b",
+        "explanation":  "The concerned department chief approves prequalification criteria[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The document announcing to prospective bidder that the owner is ready to receive bids is called -",
+        "options":  {
+                        "a":  "notice to bidders",
+                        "b":  "instruction to bidders",
+                        "c":  "bill of quantities",
+                        "d":  "intention to acceptance"
+                    },
+        "answer":  "a",
+        "explanation":  "A notice inviting bids (notice to bidders) announces the readiness to receive bids[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Engineering shall act in such a manner as to uphold and enhance the honor, and dignity of the engineering profession and shall act with ......... for bribery, fraud, and corruption.",
+        "options":  {
+                        "a":  "a tolerance",
+                        "b":  "a penchant",
+                        "c":  "zero tolerance",
+                        "d":  "a predilection"
+                    },
+        "answer":  "c",
+        "explanation":  "Engineers must act with zero tolerance for corruption[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which is the professional body of architectural and engineering firms in Nepal?",
+        "options":  {
+                        "a":  "Society of Nepalese Architects (SONA)",
+                        "b":  "Society of Public Health Engineers (SOPHEN)",
+                        "c":  "Society of Consulting Engineering and Architectural firms",
+                        "d":  "None of above"
+                    },
+        "answer":  "c",
+        "explanation":  "The Society of Consulting Engineering and Architectural firms represents consulting entities[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "What is EPC contract?",
+        "options":  {
+                        "a":  "Engineering, Planning and costing",
+                        "b":  "Evaluation, Planning and consulting",
+                        "c":  "Engineering, procurement and Construction",
+                        "d":  "none of above"
+                    },
+        "answer":  "c",
+        "explanation":  "EPC stands for Engineering, Procurement, and Construction[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "What is the provision in Engineer Council Act and Regulation in Nepal for the punishment if a person practices Engineering work without registering into the Nepal Engineering Council?",
+        "options":  {
+                        "a":  "Rs 1000 fine or imprisonment of 1 month or both",
+                        "b":  "Rs 5000 fine",
+                        "c":  "Rs 10000 fine",
+                        "d":  "Rs 3000 fine or Imprisonment of 3 month or both"
+                    },
+        "answer":  "d",
+        "explanation":  "The statutory penalty includes a fine of up to Rs 3000 or imprisonment up to 3 months or both[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "As per the Public Procurement Regulation of Nepal, 2064, what is the maximum remuneration for consulting services that can be procured directly by a public agency?",
+        "options":  {
+                        "a":  "Rs. 200,000/-",
+                        "b":  "300,000/-",
+                        "c":  "Rs. 500,000/-",
+                        "d":  "none of the above"
+                    },
+        "answer":  "c",
+        "explanation":  "Direct procurement limits for specific consulting thresholds align with Rs. 500,000/-[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "As per the public Procurement Regulation, 2064 of Nepal, what is the maximum weightage for a technical proposal for consulting services?",
+        "options":  {
+                        "a":  "90%",
+                        "b":  "80%",
+                        "c":  "70%",
+                        "d":  "60%"
+                    },
+        "answer":  "b",
+        "explanation":  "Technical proposal weightage limits typically max out up to 80% in quality-based or standard evaluations[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "For the formation of users committee, members are selected",
+        "options":  {
+                        "a":  "among the people of whole district",
+                        "b":  "among the beneficiaries of the project",
+                        "c":  "by nomination by the chief District officer of the district",
+                        "d":  "none of the above"
+                    },
+        "answer":  "b",
+        "explanation":  "User committee members are drawn directly from the local project beneficiaries[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Which of the following an engineer should not follow:",
+        "options":  {
+                        "a":  "act as faithful agent for client",
+                        "b":  "accept compensation from more than one party for same service without the consent of all",
+                        "c":  "indicate client the adverse consequences if judgment is over ruled",
+                        "d":  "undertake only those assignments for which he is qualified"
+                    },
+        "answer":  "b",
+        "explanation":  "Accepting dual compensation without consent is unethical and prohibited[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "During construction price variation clause in a contract applies to",
+        "options":  {
+                        "a":  "increase in cost of important materials only",
+                        "b":  "variation in the cost of material labour and fuel",
+                        "c":  "variation in total cost of the project estimated as lump sum figure",
+                        "d":  "the rate of inflation"
+                    },
+        "answer":  "d",
+        "explanation":  "Price adjustment mechanisms compensate for inflation/fluctuations in material, labor, and fuel costs as indexed[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "As per the prevailing Public Procurement Acts \u0026 Regulations of Nepal, provision of price adjustments is normally to be incorporated in civil works contract having project duration",
+        "options":  {
+                        "a":  "more than 12 months",
+                        "b":  "more than 15 months",
+                        "c":  "more than 18 months",
+                        "d":  "more than 24 months"
+                    },
+        "answer":  "a",
+        "explanation":  "Contracts exceeding 12 months duration normally include price adjustment provisions[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The sequence of priority in making ethical decision is (from top to bottom)",
+        "options":  {
+                        "a":  "society, profession organization, individual",
+                        "b":  "profession, organization, individual, society",
+                        "c":  "individual, organization, profession, society",
+                        "d":  "profession, individual, organization, society"
+                    },
+        "answer":  "b",
+        "explanation":  "Option b is designated as the correct sequence order in the answer key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "For procurement of works up to 2 million, which of the following method is to be considered?",
+        "options":  {
+                        "a":  "by sealed tender",
+                        "b":  "by direct negotiation",
+                        "c":  "by bidding",
+                        "d":  "by direct labour or direct negotiation"
+                    },
+        "answer":  "a",
+        "explanation":  "Sealed quotation/tender methods apply according to thresholds[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Code of conduct defines",
+        "options":  {
+                        "a":  "what should be",
+                        "b":  "what should not be",
+                        "c":  "what had been",
+                        "d":  "what will be"
+                    },
+        "answer":  "a",
+        "explanation":  "A code of conduct fundamentally outlines normative standards of \u0027what should be\u0027[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Provision for professional code of conduct of engineers in Nepal is made in detail in",
+        "options":  {
+                        "a":  "NEC Act",
+                        "b":  "NEC Rules",
+                        "c":  "NEC bye-laws",
+                        "d":  "NEC ordinance"
+                    },
+        "answer":  "b",
+        "explanation":  "Detailed professional codes of conduct are specified in the NEC Rules[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Any Non-Nepali Engineer desiring to work in Nepal may apply for registration under",
+        "options":  {
+                        "a":  "Category A",
+                        "b":  "Category B",
+                        "c":  "Category C",
+                        "d":  "Category D"
+                    },
+        "answer":  "c",
+        "explanation":  "Foreign registrations map to the specific category designated by option c[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "Procurement of services means:",
+        "options":  {
+                        "a":  "buying logistics",
+                        "b":  "hiring consultant",
+                        "c":  "renting house",
+                        "d":  "none of the above"
+                    },
+        "answer":  "d",
+        "explanation":  "Procurement of services covers intellectual/consulting services as well as other non-consulting services, making option d the correct choice per the key[cite: 1]."
+    },
+    {
+        "topic":  "Engineering Professional Practice",
+        "question":  "The general experience required for nomination of chairperson of NEC is:",
+        "options":  {
+                        "a":  "10 yrs",
+                        "b":  "15 yrs",
+                        "c":  "20 yrs",
+                        "d":  "25 yrs"
+                    },
+        "answer":  "b",
+        "explanation":  "A minimum of 15 years of professional experience is required for the chairperson nomination[cite: 1]."
+    }
+]

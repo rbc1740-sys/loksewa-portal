@@ -1,0 +1,11 @@
+const fs = require('fs');
+const c = fs.readFileSync('D:\\loksewa-portal\\app.html', 'utf8');
+console.log('setExamReviewFilter:', (c.match(/function setExamReviewFilter/g) || []).length);
+console.log('renderExamReview:', (c.match(/function renderExamReview/g) || []).length);
+console.log('exam-filter-mistakes:', (c.match(/exam-filter-mistakes/g) || []).length);
+console.log('exam-filter-correct:', (c.match(/exam-filter-correct/g) || []).length);
+console.log('exam-filter-skipped:', (c.match(/exam-filter-skipped/g) || []).length);
+console.log('exam-filter-all:', (c.match(/exam-filter-all/g) || []).length);
+console.log('exam-review-cards:', (c.match(/exam-review-cards/g) || []).length);
+console.log('currentExamReviewFilter:', (c.match(/currentExamReviewFilter/g) || []).length);
+console.log('buildMCQCard:', (c.match(/function buildMCQCard/g) || []).length);

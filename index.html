@@ -1,1157 +1,756 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Loksewa Prep Portal - Engineering MCQs</title>
-  <!-- Tailwind CSS -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <!-- Lucide Icons -->
-  <script src="https://unpkg.com/lucide@latest"></script>
-  <script>
-    tailwind.config = { darkMode: 'class' };
-  </script>
-</head>
-<body class="bg-slate-50 text-slate-800 dark:bg-slate-900 dark:text-slate-100 min-h-screen flex flex-col font-sans transition-colors duration-200">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Loksewa Prep Pro — Free Civil Engineering & GK MCQ Practice</title>
+    <meta
+      name="description"
+      content="A free MCQ practice portal for Nepal's Loksewa exams — 1,000+ Civil Engineering & General Knowledge questions, timed mocks, spaced repetition and 1v1 battles."
+    />
 
-  <!-- Header / Navigation -->
-  <header class="bg-white dark:bg-slate-800 shadow-sm border-b border-slate-200 dark:border-slate-700 sticky top-0 z-50">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-      <div class="flex items-center space-x-3 cursor-pointer" onclick="switchTab('practice')">
-        <div class="bg-indigo-600 text-white p-2.5 rounded-xl shadow-md">
-          <i data-lucide="award" class="w-6 h-6"></i>
-        </div>
-        <div>
-          <h1 class="font-bold text-lg leading-tight tracking-tight">Loksewa Prep Pro</h1>
-          <p class="text-xs text-indigo-600 dark:text-indigo-400 font-semibold">Civil Engineering Portal</p>
-        </div>
-      </div>
+    <!-- Google Fonts: Outfit (display), Plus Jakarta Sans (body), JetBrains Mono (annotations) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
 
-      <!-- Navigation Tabs -->
-      <nav class="flex items-center space-x-1 sm:space-x-2">
-        <button onclick="switchTab('practice')" id="nav-practice" class="nav-btn px-3 py-2 rounded-lg text-sm font-medium transition-all bg-indigo-50 text-indigo-600 dark:bg-indigo-900/40 dark:text-indigo-400">
-          <i data-lucide="book-open" class="w-4 h-4 inline mr-1"></i> Practice
-        </button>
-        <button onclick="switchTab('exam')" id="nav-exam" class="nav-btn px-3 py-2 rounded-lg text-sm font-medium transition-all text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700">
-          <i data-lucide="timer" class="w-4 h-4 inline mr-1"></i> Timed Exam
-        </button>
-        <button onclick="switchTab('revision')" id="nav-revision" class="nav-btn px-3 py-2 rounded-lg text-sm font-medium transition-all text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700">
-          <i data-lucide="alert-circle" class="w-4 h-4 inline mr-1"></i> Weak Areas (<span id="weak-count">0</span>)
-        </button>
-        <button onclick="switchTab('manage')" id="nav-manage" class="nav-btn px-3 py-2 rounded-lg text-sm font-medium transition-all text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700">
-          <i data-lucide="database" class="w-4 h-4 inline mr-1"></i> Data Bank
-        </button>
-        <button onclick="toggleDarkMode()" class="p-2 text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-700 rounded-lg ml-2">
-          <i data-lucide="moon" id="dark-icon" class="w-5 h-5"></i>
-        </button>
-      </nav>
-    </div>
-  </header>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
+              display: ['"Outfit"', 'system-ui', 'sans-serif'],
+              mono: ['"JetBrains Mono"', 'ui-monospace', 'monospace'],
+            },
+          },
+        },
+      };
+    </script>
 
-  <!-- Main Body Content -->
-  <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
 
-    <!-- 1. PRACTICE MODE TAB -->
-    <section id="tab-practice" class="space-y-6">
-      <div class="bg-white dark:bg-slate-800 p-5 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-700 grid grid-cols-1 md:grid-cols-3 gap-4">
-        <div class="md:col-span-2 relative">
-          <i data-lucide="search" class="w-5 h-5 absolute left-3 top-3 text-slate-400"></i>
-          <input type="text" id="search-input" oninput="renderMCQs()" placeholder="Search question statement, options, or #tag..." class="w-full pl-10 pr-4 py-2.5 bg-slate-50 dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500">
-        </div>
-        <div>
-          <select id="topic-select" onchange="renderMCQs()" class="w-full p-2.5 bg-slate-50 dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500">
-            <option value="All">All Topics</option>
-          </select>
-        </div>
-      </div>
+    <style>
+      /* ---- Blueprint / technical-drawing motif ---- */
+      .blueprint-grid {
+        background-image: linear-gradient(rgba(79, 70, 229, 0.15) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(79, 70, 229, 0.15) 1px, transparent 1px),
+          linear-gradient(rgba(79, 70, 229, 0.07) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(79, 70, 229, 0.07) 1px, transparent 1px);
+        background-size:
+          80px 80px,
+          80px 80px,
+          16px 16px,
+          16px 16px;
+      }
 
-      <div class="grid grid-cols-3 gap-4 text-center">
-        <div class="bg-white dark:bg-slate-800 p-4 rounded-xl border border-slate-200 dark:border-slate-700 shadow-sm">
-          <p class="text-xs uppercase font-bold text-slate-400">Available MCQs</p>
-          <p id="stat-total" class="text-2xl font-black text-indigo-600 dark:text-indigo-400">0</p>
-        </div>
-        <div class="bg-white dark:bg-slate-800 p-4 rounded-xl border border-slate-200 dark:border-slate-700 shadow-sm">
-          <p class="text-xs uppercase font-bold text-emerald-500">Correct Answers</p>
-          <p id="stat-correct" class="text-2xl font-black text-emerald-600 dark:text-emerald-400">0</p>
-        </div>
-        <div class="bg-white dark:bg-slate-800 p-4 rounded-xl border border-slate-200 dark:border-slate-700 shadow-sm">
-          <p class="text-xs uppercase font-bold text-rose-500">Mistakes / Review</p>
-          <p id="stat-incorrect" class="text-2xl font-black text-rose-600 dark:text-rose-400">0</p>
-        </div>
-      </div>
+      .blueprint-grid-dark {
+        background-image: linear-gradient(rgba(165, 180, 252, 0.1) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(165, 180, 252, 0.1) 1px, transparent 1px),
+          linear-gradient(rgba(165, 180, 252, 0.05) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(165, 180, 252, 0.05) 1px, transparent 1px);
+        background-size:
+          80px 80px,
+          80px 80px,
+          16px 16px,
+          16px 16px;
+      }
 
-      <div id="mcq-container" class="space-y-5"></div>
-      <div id="page-nav" class="flex flex-col md:flex-row justify-between items-center gap-3 p-4 bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm"></div>
-    </section>
+      .blueprint-grid-light {
+        background-image: linear-gradient(rgba(255, 255, 255, 0.16) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.16) 1px, transparent 1px),
+          linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+        background-size:
+          80px 80px,
+          80px 80px,
+          16px 16px,
+          16px 16px;
+      }
 
-    <!-- 2. TIMED EXAM MODE TAB -->
-    <section id="tab-exam" class="hidden space-y-6">
-      <div id="exam-setup" class="bg-white dark:bg-slate-800 p-8 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm text-center max-w-xl mx-auto space-y-6">
-        <div class="bg-indigo-100 dark:bg-indigo-900/40 p-4 rounded-full w-16 h-16 mx-auto flex items-center justify-center text-indigo-600 dark:text-indigo-400">
-          <i data-lucide="stopwatch" class="w-8 h-8"></i>
-        </div>
-        <div>
-          <h2 class="text-2xl font-bold">Loksewa Mock Test Simulator</h2>
-          <p class="text-sm text-slate-500 mt-1">Test your knowledge under realistic time constraints.</p>
-        </div>
+      /* Engineering-drawing dimension line under stat callouts */
+      .dimension-line {
+        position: relative;
+        padding-bottom: 0.85rem;
+      }
+      .dimension-line::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border-bottom: 1px dashed rgba(79, 70, 229, 0.45);
+      }
+      .dimension-line::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: -3px;
+        height: 6px;
+        border-left: 1px solid rgba(79, 70, 229, 0.45);
+        border-right: 1px solid rgba(79, 70, 229, 0.45);
+      }
 
-        <div class="space-y-4 text-left">
-          <div>
-            <label class="block text-sm font-medium mb-1">Select Exam Topic</label>
-            <select id="exam-topic-select" class="w-full p-2.5 bg-slate-50 dark:bg-slate-700 border rounded-xl text-sm"></select>
+      /* Monospace "sheet annotation" tags */
+      .sheet-tag {
+        font-family: 'JetBrains Mono', ui-monospace, monospace;
+        letter-spacing: 0.04em;
+        font-size: 10px;
+        font-weight: 500;
+      }
+    </style>
+
+    <style>
+      /* Floating stat chips */
+      @keyframes floatY {
+        0%,
+        100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-10px);
+        }
+      }
+      .float-slow {
+        animation: floatY 5s ease-in-out infinite;
+      }
+      .float-slower {
+        animation: floatY 6.5s ease-in-out infinite reverse;
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .float-slow,
+        .float-slower {
+          animation: none !important;
+        }
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        -webkit-font-smoothing: antialiased;
+      }
+      h1,
+      h2,
+      h3 {
+        letter-spacing: -0.02em;
+      }
+
+      .glass-nav {
+        background: rgba(255, 255, 255, 0.85);
+        backdrop-filter: blur(18px) saturate(1.4);
+        -webkit-backdrop-filter: blur(18px) saturate(1.4);
+      }
+
+      .gradient-brand {
+        background: linear-gradient(135deg, #6366f1 0%, #4f46e5 55%, #4338ca 100%);
+      }
+
+      .gradient-text {
+        background: linear-gradient(120deg, #4f46e5 0%, #6366f1 100%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: rgba(99, 102, 241, 0.4);
+        border-radius: 9999px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+    </style>
+  </head>
+  <body
+    class="bg-white text-slate-800 font-sans antialiased selection:bg-indigo-500 selection:text-white"
+  >
+    <!-- ============ 1. STICKY HEADER ============ -->
+    <header class="glass-nav sticky top-0 z-50 border-b border-slate-200/80">
+      <div
+        class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3"
+      >
+        <!-- Logo -->
+        <a href="#top" class="flex items-center gap-3 shrink-0 group">
+          <div
+            class="gradient-brand text-white p-2.5 rounded-2xl ring-1 ring-white/20 group-hover:scale-105 group-hover:rotate-3 transition-transform duration-300 shadow-lg shadow-indigo-600/30"
+          >
+            <i data-lucide="graduation-cap" class="w-5 h-5"></i>
           </div>
-          <div>
-            <label class="block text-sm font-medium mb-1">Number of Questions</label>
-            <select id="exam-limit-select" class="w-full p-2.5 bg-slate-50 dark:bg-slate-700 border rounded-xl text-sm">
-              <option value="10">10 Questions (8 Minutes)</option>
-              <option value="25">25 Questions (20 Minutes)</option>
-              <option value="50">50 Questions (45 Minutes)</option>
-            </select>
+          <div class="leading-none">
+            <h1 class="font-display font-black text-lg tracking-tight gradient-text">
+              Loksewa Prep Pro
+            </h1>
+            <p class="text-[10px] text-slate-400 font-bold uppercase tracking-[0.18em] mt-1">
+              Civil &amp; GK Portal
+            </p>
           </div>
-        </div>
+        </a>
 
-        <button onclick="startExam()" class="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 rounded-xl transition-all shadow-md">
-          Begin Timed Exam
-        </button>
-      </div>
+        <!-- Desktop nav -->
+        <nav class="hidden md:flex items-center gap-1">
+          <a
+            href="#top"
+            class="px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 transition-colors"
+            >Home</a
+          >
+          <a
+            href="#modes"
+            class="px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 transition-colors"
+            >Practice</a
+          >
+          <a
+            href="#tracks"
+            class="px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 transition-colors"
+            >Question Bank</a
+          >
+          <a
+            href="#reviews"
+            class="px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 transition-colors"
+            >Reviews</a
+          >
+        </nav>
 
-      <div id="exam-active" class="hidden space-y-6">
-        <div class="bg-indigo-900 text-white p-4 rounded-2xl flex items-center justify-between sticky top-20 z-40 shadow-lg">
-          <div>
-            <span class="text-xs uppercase text-indigo-300 font-bold tracking-wider">Exam Progress</span>
-            <p id="exam-progress-text" class="text-lg font-black">Question 1 of 10</p>
-          </div>
-          <div class="bg-indigo-950 px-4 py-2 rounded-xl border border-indigo-700 text-right">
-            <span class="text-xs text-indigo-300 uppercase font-bold">Time Remaining</span>
-            <p id="exam-timer" class="text-xl font-mono font-bold text-amber-400">00:00</p>
-          </div>
-        </div>
-
-        <div id="exam-questions-container" class="space-y-6"></div>
-
-        <button onclick="submitExam()" class="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-black py-4 rounded-xl text-lg shadow-lg">
-          Submit & Grade Exam
-        </button>
-      </div>
-
-      <div id="exam-results" class="hidden space-y-6"></div>
-    </section>
-
-    <!-- 3. WEAK AREAS / REVISION TAB -->
-    <section id="tab-revision" class="hidden space-y-6">
-      <div class="bg-amber-50 dark:bg-amber-950/30 p-6 rounded-2xl border border-amber-200 dark:border-amber-800 flex items-center justify-between">
-        <div>
-          <h2 class="text-xl font-bold text-amber-900 dark:text-amber-300">Weak Area Target List</h2>
-          <p class="text-xs text-amber-700 dark:text-amber-400 mt-1">Questions answered incorrectly are automatically saved here.</p>
-        </div>
-        <button onclick="clearWeakPoints()" class="px-4 py-2 bg-amber-200 dark:bg-amber-800 text-amber-900 dark:text-amber-100 rounded-lg text-xs font-bold hover:bg-amber-300">Clear List</button>
-      </div>
-
-      <div id="revision-container" class="space-y-5"></div>
-    </section>
-
-    <!-- 4. DATA BANK & IMPORT TAB -->
-    <section id="tab-manage" class="hidden space-y-8">
-      <div class="bg-indigo-900 text-white p-8 rounded-2xl shadow-xl space-y-4">
-        <div class="flex items-center space-x-3">
-          <i data-lucide="file-up" class="w-8 h-8 text-indigo-300"></i>
-          <div>
-            <h2 class="text-xl font-bold">Smart JSON Bank Import</h2>
-            <p class="text-xs text-indigo-200">Import extra extracted question files into your session cache.</p>
-          </div>
-        </div>
-
-        <div class="pt-4 border-t border-indigo-800 flex flex-col md:flex-row items-center gap-4">
-          <label class="w-full md:w-auto px-6 py-3 bg-emerald-500 hover:bg-emerald-600 text-white font-bold rounded-xl cursor-pointer transition-colors text-center text-sm shadow-md">
-            <i data-lucide="plus" class="w-4 h-4 inline mr-2"></i> Select & Merge JSON File
-            <input type="file" id="import-file" accept=".json" onchange="smartMergeJSON(event)" class="hidden">
-          </label>
-          <button onclick="exportData()" class="w-full md:w-auto px-6 py-3 bg-indigo-800 hover:bg-indigo-700 text-indigo-100 font-semibold rounded-xl text-sm border border-indigo-700">
-            <i data-lucide="download" class="w-4 h-4 inline mr-2"></i> Export Database (.JSON)
+        <!-- Auth-ish CTAs -->
+        <div class="flex items-center gap-2">
+          <a
+            href="app.html"
+            class="hidden sm:inline-flex items-center px-4 py-2 rounded-xl border border-slate-300 text-sm font-bold text-slate-700 hover:border-indigo-400 hover:text-indigo-600 transition-colors"
+          >
+            Sign In
+          </a>
+          <a
+            href="app.html"
+            class="inline-flex items-center gap-1.5 gradient-brand text-white text-sm font-bold px-4 py-2 rounded-xl shadow-lg shadow-indigo-600/30 hover:shadow-indigo-600/40 transition-shadow"
+          >
+            Start Practicing
+            <i data-lucide="arrow-right" class="w-4 h-4"></i>
+          </a>
+          <button
+            onclick="toggleMobileMenu()"
+            class="md:hidden p-2 rounded-lg text-slate-600 hover:bg-slate-100"
+            aria-label="Toggle menu"
+          >
+            <i data-lucide="menu" class="w-5 h-5"></i>
           </button>
         </div>
       </div>
 
-      <div class="p-4 bg-rose-50 dark:bg-rose-950/30 border border-rose-200 dark:border-rose-900 rounded-xl flex items-center justify-between">
-        <div>
-          <p class="text-sm font-bold text-rose-800 dark:text-rose-300">Reload Database</p>
-          <p class="text-xs text-rose-600 dark:text-rose-400">Re-fetches the latest questions from source files.</p>
-        </div>
-        <button onclick="loadState()" class="px-4 py-2 bg-rose-600 text-white text-xs font-bold rounded-lg hover:bg-rose-700">Reload Files</button>
+      <!-- Mobile menu -->
+      <div
+        id="mobile-menu"
+        class="hidden md:hidden border-t border-slate-200/80 px-4 py-3 space-y-1 bg-white/95"
+      >
+        <a
+          href="#top"
+          onclick="toggleMobileMenu()"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 hover:bg-indigo-50"
+          >Home</a
+        >
+        <a
+          href="#modes"
+          onclick="toggleMobileMenu()"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 hover:bg-indigo-50"
+          >Practice</a
+        >
+        <a
+          href="#tracks"
+          onclick="toggleMobileMenu()"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 hover:bg-indigo-50"
+          >Question Bank</a
+        >
+        <a
+          href="#reviews"
+          onclick="toggleMobileMenu()"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 hover:bg-indigo-50"
+          >Reviews</a
+        >
+        <a
+          href="app.html"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-indigo-600 hover:bg-indigo-50"
+          >Sign In</a
+        >
       </div>
-    </section>
-  </main>
+    </header>
 
-  <script>
-    let mcqs = [];
-    let userAnswers = {};
-    let weakPoints = new Set();
-    let questionComments = JSON.parse(localStorage.getItem("loksewa_comments") || "{}");
-    let myCommentIds = new Set(JSON.parse(localStorage.getItem("loksewa_my_comments") || "[]"));
-    let questionReports = JSON.parse(localStorage.getItem("loksewa_reports") || "{}");
-    let activeAnswerReporting = new Set();
-    let examTimerInterval = null;
-    let activeExamQuestions = [];
-    let examUserAnswers = {};
-    let currentPracticePage = 1;
-    const practicePageSize = 10;
+    <!-- ============ 2. HERO ============ -->
+    <main id="top">
+      <section class="blueprint-grid border-b border-slate-200/80">
+        <div
+          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24 grid lg:grid-cols-2 gap-14 lg:gap-10 items-center"
+        >
+          <!-- Left: pitch -->
+          <div class="space-y-7">
+            <span
+              class="sheet-tag inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-indigo-200 bg-white/70 text-indigo-700"
+            >
+              <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+              LOKSEWA-AAYOG · CIVIL-ENGINEERING PREP
+            </span>
 
-    document.addEventListener("DOMContentLoaded", () => {
-      loadState();
-    });
-
-    function normalizeText(value) {
-      if (typeof value !== "string") return value;
-
-      const replacements = {
-        "Ïƒ": "σ",
-        "Îµ": "ε",
-        "Î”": "Δ",
-        "Â°C": "°C",
-        "Â²": "²",
-        "Â³": "³",
-        "Ã—": "×",
-        "â€°": "°",
-        "â€“": "–",
-        "â€”": "—",
-        "â€˜": "‘",
-        "â€™": "’",
-        "â€œ": "“",
-        "â€": "”",
-        "â€¢": "•",
-        "âˆš": "√",
-        "â´": "⁴",
-        "Ï€": "π",
-        "Ï„": "τ",
-        "Î¸": "θ",
-        "Î£": "Σ",
-        "Î¼": "μ",
-        "Î±": "α",
-        "Î²": "β",
-        "Î³": "γ",
-        "Î·": "η",
-        "Î»": "λ",
-        "Î´": "δ",
-        "Îº": "κ",
-        "Î¾": "ξ",
-        "Î¶": "ζ",
-        "Ï‰": "ω",
-        "Ï": "ρ"
-      };
-
-      let text = value;
-      Object.entries(replacements).forEach(([from, to]) => {
-        text = text.split(from).join(to);
-      });
-      return text;
-    }
-
-    function normalizeQuestionData(question) {
-      if (Array.isArray(question)) {
-        return question.map(normalizeQuestionData);
-      }
-
-      if (question && typeof question === "object") {
-        const normalized = {};
-        Object.entries(question).forEach(([key, value]) => {
-          normalized[key] = normalizeQuestionData(value);
-        });
-        return normalized;
-      }
-
-      if (typeof question === "string") {
-        return normalizeText(question);
-      }
-
-      return question;
-    }
-
-    function normalizeForComparison(value) {
-      return normalizeText(String(value || ""))
-        .normalize("NFKD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, " ")
-        .trim();
-    }
-
-    function getQuestionSignature(question) {
-      const normalizedTopic = normalizeForComparison(question?.topic);
-      const normalizedQuestion = normalizeForComparison(question?.question);
-      const normalizedAnswer = normalizeForComparison(question?.answer);
-      const normalizedOptions = Object.entries(question?.options || {})
-        .sort(([a], [b]) => a.localeCompare(b))
-        .map(([key, value]) => `${key}:${normalizeForComparison(value)}`)
-        .join("|");
-
-      return `${normalizedTopic}::${normalizedQuestion}::${normalizedAnswer}::${normalizedOptions}`;
-    }
-
-    function flattenQuestionItems(items) {
-      if (!Array.isArray(items)) {
-        return items ? [items] : [];
-      }
-
-      return items.flatMap((item) => flattenQuestionItems(item));
-    }
-
-    function deduplicateQuestions(items) {
-      const seen = new Set();
-      const uniqueItems = [];
-
-      flattenQuestionItems(items).forEach((rawItem) => {
-        const normalizedItem = normalizeQuestionData(rawItem);
-        if (!normalizedItem || typeof normalizedItem !== "object") {
-          return;
-        }
-
-        const signature = getQuestionSignature(normalizedItem);
-        if (!signature || seen.has(signature)) {
-          return;
-        }
-
-        seen.add(signature);
-        uniqueItems.push(normalizedItem);
-      });
-
-      return uniqueItems;
-    }
-
-    async function loadState() {
-      try {
-        const manifestRes = await fetch('manifest.json');
-        if (!manifestRes.ok) throw new Error("Could not load manifest.json");
-        const fileList = await manifestRes.json();
-
-        const filePromises = fileList.map(async (filePath) => {
-          const res = await fetch(filePath);
-          const items = res.ok ? await res.json() : [];
-          const normalizedItems = flattenQuestionItems(Array.isArray(items) ? items : []).map((item, index) => {
-            const normalizedItem = normalizeQuestionData(item);
-            if (!normalizedItem || typeof normalizedItem !== "object") {
-              return normalizedItem;
-            }
-
-            const sourceName = (filePath || '').split('/').pop().replace(/\.json$/i, '').replace(/\s+/g, '_');
-            const baseId = normalizedItem.id || normalizedItem.qn || normalizedItem.qnNumber || normalizedItem.questionId || `${sourceName}-${index + 1}`;
-            normalizedItem.id = `${sourceName}-${String(baseId).replace(/\s+/g, '_').replace(/[^a-zA-Z0-9_-]/g, '_')}`;
-            return normalizedItem;
-          });
-          return normalizedItems;
-        });
-
-        const results = await Promise.all(filePromises);
-        mcqs = deduplicateQuestions(results.flat());
-        
-        if (mcqs.length === 0) {
-          mcqs = [{ id: "fallback_1", topic: "Structural Engineering", question: "No questions found in manifest files.", options: { a: "OK", b: "Check paths", c: "Reload", d: "Verify" }, answer: "a" }];
-        }
-
-        const storedWeak = localStorage.getItem("loksewa_weak_ids");
-        if (storedWeak) weakPoints = new Set(JSON.parse(storedWeak));
-
-      } catch (e) {
-        console.warn("Fetch limitation detected.", e);
-        mcqs = [{ id: "fallback_err", topic: "System Error", question: "Local fetch blocked. Please use Live Server or GitHub Pages.", options: { a: "Understood", b: "Fix server", c: "Refresh", d: "Check console" }, answer: "a" }];
-      }
-
-      populateTopicFilters();
-      renderMCQs();
-      updateWeakBadge();
-      lucide.createIcons();
-    }
-
-    function saveState() {
-      localStorage.setItem("loksewa_weak_ids", JSON.stringify([...weakPoints]));
-      localStorage.setItem("loksewa_my_comments", JSON.stringify([...myCommentIds]));
-      updateWeakBadge();
-    }
-
-    function updateWeakBadge() {
-      document.getElementById("weak-count").textContent = weakPoints.size;
-    }
-
-    function switchTab(tab) {
-      document.querySelectorAll('section').forEach(s => s.classList.add('hidden'));
-      document.querySelectorAll('.nav-btn').forEach(b => {
-        b.className = "nav-btn px-3 py-2 rounded-lg text-sm font-medium transition-all text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700";
-      });
-
-      document.getElementById(`tab-${tab}`).classList.remove('hidden');
-      document.getElementById(`nav-${tab}`).className = "nav-btn px-3 py-2 rounded-lg text-sm font-medium transition-all bg-indigo-50 text-indigo-600 dark:bg-indigo-900/40 dark:text-indigo-400";
-
-      if (tab === 'practice') { populateTopicFilters(); renderMCQs(); }
-      if (tab === 'exam') { populateExamTopics(); }
-      if (tab === 'revision') { renderRevisionMCQs(); }
-      lucide.createIcons();
-    }
-
-    function populateTopicFilters() {
-      const select = document.getElementById("topic-select");
-      const current = select.value;
-      const topics = [...new Set(mcqs.map(q => q.topic).filter(Boolean))];
-      select.innerHTML = `<option value="All">All Topics (${mcqs.length})</option>`;
-      topics.forEach(t => {
-        const count = mcqs.filter(q => q.topic === t).length;
-        const opt = document.createElement("option");
-        opt.value = t;
-        opt.textContent = `${t} (${count})`;
-        select.appendChild(opt);
-      });
-      select.value = topics.includes(current) ? current : "All";
-    }
-
-    function renderMCQs() {
-      const container = document.getElementById("mcq-container");
-      const pager = document.getElementById("page-nav");
-      const topic = document.getElementById("topic-select").value;
-      const search = document.getElementById("search-input").value.toLowerCase().trim();
-
-      let filtered = mcqs.filter(q => {
-        const matchesTopic = topic === "All" || q.topic === topic;
-        const matchesSearch = !search || 
-          q.question.toLowerCase().includes(search) || 
-          (q.id && q.id.toLowerCase().includes(search)) ||
-          Object.values(q.options || {}).some(opt => opt.toLowerCase().includes(search));
-        return matchesTopic && matchesSearch;
-      });
-
-      document.getElementById("stat-total").textContent = filtered.length;
-      updatePracticeStats(filtered);
-
-      if (filtered.length === 0) {
-        container.innerHTML = `<div class="text-center py-12 bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700"><p class="text-slate-400">No questions match your current filter.</p></div>`;
-        pager.innerHTML = "";
-        return;
-      }
-
-      const totalPages = Math.max(1, Math.ceil(filtered.length / practicePageSize));
-      if (currentPracticePage > totalPages) currentPracticePage = totalPages;
-      if (currentPracticePage < 1) currentPracticePage = 1;
-
-      const start = (currentPracticePage - 1) * practicePageSize;
-      const pageItems = filtered.slice(start, start + practicePageSize);
-
-      container.innerHTML = pageItems.map((q, idx) => buildMCQCard(q, start + idx, userAnswers[q.id], 'practice')).join('');
-
-      const pageNumbers = [];
-      for (let i = 1; i <= totalPages; i++) {
-        pageNumbers.push(`<button onclick="goToPracticePage(${i})" class="min-w-9 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${i === currentPracticePage ? 'bg-indigo-600 text-white shadow-sm' : 'bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 hover:bg-slate-200'}">${i}</button>`);
-      }
-
-      const prevPage = Math.max(1, currentPracticePage - 1);
-      const nextPage = Math.min(totalPages, currentPracticePage + 1);
-      const isFirstPage = currentPracticePage === 1;
-      const isLastPage = currentPracticePage === totalPages;
-
-      pager.innerHTML = `
-        <div class="text-xs text-slate-500 font-medium">Showing <span class="font-bold text-slate-700 dark:text-slate-200">${Math.min(start + 1, filtered.length)}-${Math.min(start + practicePageSize, filtered.length)}</span> of <span class="font-bold text-slate-700 dark:text-slate-200">${filtered.length}</span> questions</div>
-        <div class="flex items-center gap-2 flex-wrap">
-          <button onclick="goToPracticePage(${prevPage})" ${isFirstPage ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-200">Previous</button>
-          <div class="flex items-center gap-1.5 flex-wrap">${pageNumbers.join('')}</div>
-          <button onclick="goToPracticePage(${nextPage})" ${isLastPage ? 'disabled' : ''} class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-slate-200">Next</button>
-        </div>
-      `;
-      lucide.createIcons();
-    }
-
-    function goToPracticePage(page) {
-      currentPracticePage = page;
-      renderMCQs();
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-
-    function buildMCQCard(q, idx, userChoice, mode = 'practice') {
-      const isWeak = weakPoints.has(q.id);
-      const comments = questionComments[q.id] || [];
-      const isAnsweringReport = activeAnswerReporting.has(q.id);
-      
-      const reportData = questionReports[q.id] || { 
-        userChoice: null, 
-        suggestedAnswer: null,
-        reason: null,
-        counts: { "Answer": 0, "Option": 0, "Irrelevant": 0, "Outdated": 0 } 
-      };
-      const myReport = reportData.userChoice;
-      const counts = reportData.counts;
-
-      const savedName = localStorage.getItem("loksewa_username") || "";
-      const defaultName = (savedName && savedName !== 'Student') ? savedName : '';
-
-      return `
-        <div class="bg-white dark:bg-slate-800 p-6 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm space-y-4">
-          <div class="flex items-start justify-between gap-4">
-            <div>
-              <span class="inline-block text-xs font-bold px-2.5 py-1 bg-indigo-50 dark:bg-indigo-900/40 text-indigo-600 dark:text-indigo-300 rounded-lg mb-2">
-                ${q.topic || ''}
+            <h1
+              class="font-display text-4xl sm:text-5xl lg:text-[3.4rem] font-black tracking-tight text-slate-900 leading-[1.1]"
+            >
+              Prepare for Loksewa
+              <span class="relative inline-block">
+                <span class="gradient-text">with confidence.</span>
+                <svg
+                  class="absolute -bottom-2 left-0 w-full h-2.5"
+                  viewBox="0 0 220 12"
+                  fill="none"
+                  preserveAspectRatio="none"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M3 9C40 3 80 3 110 7C145 11 185 6 217 4"
+                    stroke="#d97706"
+                    stroke-width="3.5"
+                    stroke-linecap="round"
+                  />
+                </svg>
               </span>
-              <h3 class="text-base font-semibold leading-relaxed text-slate-900 dark:text-slate-100">${idx + 1}. ${q.question}</h3>
-            </div>
-            <button onclick="toggleWeakPoint('${q.id}')" title="Bookmark to Weak Area" class="p-2 text-slate-300 hover:text-amber-500 transition-colors ${isWeak ? 'text-amber-500' : ''}">
-              <i data-lucide="bookmark" class="w-5 h-5 ${isWeak ? 'fill-current' : ''}"></i>
-            </button>
-          </div>
+            </h1>
 
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            ${Object.entries(q.options || {}).map(([key, text]) => {
-              let btnStyle = "border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700/50";
-              if (userChoice) {
-                if (key.toLowerCase() === (q.answer || '').toLowerCase()) btnStyle = "border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-900 dark:text-emerald-300 font-medium";
-                else if (userChoice.toLowerCase() === key.toLowerCase()) btnStyle = "border-rose-500 bg-rose-50 dark:bg-rose-950/40 text-rose-900 dark:text-rose-300 font-medium";
-              }
-              return `
-                <button onclick="selectPracticeAnswer('${q.id}', '${key}')" class="p-3 text-left rounded-xl border text-sm transition-all flex items-center justify-between ${btnStyle}">
-                  <span><strong class="uppercase mr-2">${key})</strong> ${text}</span>
-                </button>
-              `;
-            }).join('')}
-          </div>
+            <p class="text-slate-600 text-base sm:text-lg leading-relaxed max-w-xl">
+              A free, no-paywall MCQ portal for Nepal's Civil Engineering and General Knowledge
+              Loksewa aspirants — past questions, timed mocks, spaced repetition and 1v1 duels,
+              all in one place.
+            </p>
 
-          ${userChoice && q.explanation ? `
-            <div class="mt-3 p-3 bg-slate-50 dark:bg-slate-700/40 rounded-xl border-l-4 border-indigo-500 text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
-              <strong>Explanation:</strong> ${q.explanation}
-            </div>
-          ` : ''}
+            <!-- Search -->
+            <form action="app.html" class="flex flex-col sm:flex-row gap-2.5 max-w-xl">
+              <div class="relative flex-1">
+                <i
+                  data-lucide="search"
+                  class="w-5 h-5 absolute left-4 top-1/2 -translate-y-1/2 text-slate-400"
+                ></i>
+                <input
+                  type="search"
+                  name="q"
+                  placeholder="Search a subject — Surveying, Hydraulics, GK..."
+                  class="w-full pl-11 pr-4 py-3.5 rounded-xl border border-slate-300 bg-white/80 text-sm text-slate-800 placeholder:text-slate-400 focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/15 transition-all"
+                />
+              </div>
+              <button
+                type="submit"
+                class="gradient-brand text-white font-bold px-6 py-3.5 rounded-xl shadow-lg shadow-indigo-600/30 hover:shadow-indigo-600/40 transition-shadow flex items-center justify-center gap-2"
+              >
+                <i data-lucide="search" class="w-4 h-4"></i>
+                Search
+              </button>
+            </form>
 
-          <div class="pt-3 border-t border-slate-100 dark:border-slate-700/60 flex flex-col sm:flex-row sm:items-center sm:justify-between text-xs gap-2">
-            <div class="flex items-start sm:items-center gap-1.5 min-w-0 flex-wrap">
-              <span class="text-slate-400 font-medium flex items-center gap-1 shrink-0"><i data-lucide="flag" class="w-3.5 h-3.5"></i> Report:</span>
-
-              <div class="flex items-center flex-wrap gap-x-1.5 gap-y-1 min-w-0">
-                <button onclick="toggleAnswerReport('${q.id}')" class="text-slate-600 dark:text-slate-300 hover:text-rose-600 font-medium">Answer (${counts['Answer'] || 0})</button>
-                <span class="text-slate-300">·</span>
-                <button onclick="submitReport('${q.id}', 'Option')" class="text-slate-600 dark:text-slate-300 hover:text-rose-600">Option (${counts['Option'] || 0})</button>
-                <span class="text-slate-300">·</span>
-                <button onclick="submitReport('${q.id}', 'Irrelevant')" class="text-slate-600 dark:text-slate-300 hover:text-rose-600">Irrelevant (${counts['Irrelevant'] || 0})</button>
-                <span class="text-slate-300">·</span>
-                <button onclick="submitReport('${q.id}', 'Outdated')" class="text-slate-600 dark:text-slate-300 hover:text-rose-600">Outdated (${counts['Outdated'] || 0})</button>
+            <!-- Stat callouts with dimension lines -->
+            <div class="flex flex-wrap items-start gap-x-8 gap-y-6 pt-3 sm:divide-x divide-slate-200">
+              <div class="dimension-line sm:pr-8">
+                <p class="font-display text-2xl font-black text-slate-900">1,000+</p>
+                <p class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mt-1">
+                  MCQs in bank
+                </p>
+              </div>
+              <div class="dimension-line sm:px-8">
+                <p class="font-display text-2xl font-black text-slate-900">100%</p>
+                <p class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mt-1">
+                  Free
+                </p>
+              </div>
+              <div class="dimension-line sm:pl-8">
+                <p class="font-display text-2xl font-black text-slate-900">5</p>
+                <p class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mt-1">
+                  Study modes
+                </p>
               </div>
             </div>
-
-            <button onclick="toggleCommentBox('${q.id}')" class="text-indigo-600 dark:text-indigo-400 font-medium hover:underline flex items-center gap-1 self-start sm:self-auto shrink-0">
-              <i data-lucide="message-square" class="w-3.5 h-3.5"></i> Discuss (<span id="comment-count-${q.id}">${getTotalCommentCount(comments)}</span>)
-            </button>
           </div>
 
-          <!-- Answer Correction Form Dialog -->
-          ${isAnsweringReport ? `
-            <div class="mt-3 p-4 bg-indigo-50/70 dark:bg-slate-700/60 rounded-xl border border-indigo-200 dark:border-indigo-900 space-y-3">
+          <!-- Right: rotated answer sheet -->
+          <div class="relative max-w-md w-full mx-auto lg:mx-0 lg:justify-self-end pt-6 pb-8">
+            <div
+              class="relative rotate-2 hover:rotate-0 transition-transform duration-300 bg-white rounded-2xl border border-slate-200 shadow-xl shadow-indigo-950/10 p-5 sm:p-6 space-y-5"
+            >
               <div class="flex items-center justify-between">
-                <p class="text-xs font-bold text-indigo-900 dark:text-indigo-200 flex items-center gap-1.5"><i data-lucide="check-circle" class="w-4 h-4 text-indigo-600"></i> Suggest Correct Option & Explanation</p>
-                <button onclick="toggleAnswerReport('${q.id}')" class="text-slate-400 hover:text-slate-600 text-xs">✕ Close</button>
+                <span class="sheet-tag text-indigo-500">SHEET 01 / MCQ-ANSWER</span>
+                <span class="sheet-tag text-slate-400">SCALE 1:1</span>
               </div>
-              <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
-                <div>
-                  <label class="block text-[10px] uppercase font-bold text-slate-500 mb-1">Correct Option</label>
-                  <select id="correct-opt-${q.id}" class="w-full p-2 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:ring-1 focus:ring-indigo-500">
-                    ${Object.keys(q.options || {}).map(k => `<option value="${k}" ${reportData.suggestedAnswer === k ? 'selected' : ''}>Option ${k.toUpperCase()}</option>`).join('')}
-                  </select>
+
+              <div class="space-y-1.5">
+                <span class="sheet-tag text-slate-400">Q.07 — STRUCTURAL</span>
+                <p class="font-semibold text-slate-900 text-sm sm:text-base leading-snug">
+                  The modular ratio in working-stress design of RCC depends on:
+                </p>
+              </div>
+
+              <div class="space-y-2.5">
+                <div class="flex items-center gap-3 p-3 rounded-xl border-2 border-emerald-500 bg-emerald-50">
+                  <span class="w-6 h-6 rounded-full bg-emerald-500 text-white flex items-center justify-center shrink-0">
+                    <i data-lucide="check" class="w-3.5 h-3.5"></i>
+                  </span>
+                  <span class="text-sm font-bold text-emerald-900">Compressive strength of concrete</span>
                 </div>
-                <div class="sm:col-span-2">
-                  <label class="block text-[10px] uppercase font-bold text-slate-500 mb-1">Why is this correct?</label>
-                  <input type="text" id="correct-reason-${q.id}" value="${reportData.reason || ''}" placeholder="Provide brief explanation/reason..." class="w-full p-2 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:ring-1 focus:ring-indigo-500">
+                <div class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50/60">
+                  <span class="w-6 h-6 rounded-full border-2 border-slate-300 text-slate-400 text-xs font-bold flex items-center justify-center shrink-0">B</span>
+                  <span class="text-sm text-slate-500">Modular ratio of steel</span>
+                </div>
+                <div class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50/60">
+                  <span class="w-6 h-6 rounded-full border-2 border-slate-300 text-slate-400 text-xs font-bold flex items-center justify-center shrink-0">C</span>
+                  <span class="text-sm text-slate-500">Permissible stress in steel</span>
                 </div>
               </div>
-              <div class="flex justify-end space-x-2 pt-1">
-                <button onclick="toggleAnswerReport('${q.id}')" class="px-3 py-1.5 bg-slate-200 dark:bg-slate-600 text-slate-700 dark:text-slate-200 text-xs rounded-lg font-medium">Cancel</button>
-                <button onclick="submitAnswerCorrection('${q.id}')" class="px-4 py-1.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold rounded-lg shadow-sm">Submit Correction</button>
+
+              <div class="pt-4 border-t border-dashed border-slate-300 flex items-center justify-between">
+                <span class="sheet-tag text-slate-500 flex items-center gap-1.5">
+                  <i data-lucide="timer" class="w-3.5 h-3.5 text-amber-600"></i>
+                  01:45 REMAINING
+                </span>
+                <div class="w-24 h-1.5 rounded-full bg-slate-100 overflow-hidden">
+                  <div class="h-full w-2/3 gradient-brand rounded-full"></div>
+                </div>
               </div>
             </div>
-          ` : ''}
 
-          <!-- Display Submitted Answer Correction if available -->
-          ${reportData.userChoice === 'Answer' && reportData.suggestedAnswer ? `
-            <div class="mt-2 p-3 bg-emerald-50 dark:bg-emerald-950/40 rounded-xl border border-emerald-200 dark:border-emerald-900 text-xs text-emerald-900 dark:text-emerald-300 flex items-start justify-between">
+            <!-- Floating stat chips -->
+            <div class="hidden sm:flex float-slow absolute -top-1 -right-3 lg:-right-6 items-center gap-2.5 bg-white rounded-xl border border-slate-200 shadow-lg shadow-slate-950/5 px-3.5 py-2.5">
+              <div class="p-2 rounded-lg bg-amber-100 text-amber-700">
+                <i data-lucide="target" class="w-4 h-4"></i>
+              </div>
               <div>
-                <strong class="font-bold">Your Correction Submitted:</strong> Option <span class="uppercase font-bold">${reportData.suggestedAnswer}</span> is correct because: <em>${reportData.reason || 'No explanation provided.'}</em>
+                <p class="text-xs font-black text-slate-900 leading-none">92% Accuracy</p>
+                <p class="text-[10px] text-slate-500 mt-1">Top scorers avg.</p>
               </div>
-              <button onclick="clearAnswerReport('${q.id}')" class="text-[11px] underline text-emerald-700 dark:text-emerald-400 hover:text-emerald-900 ml-2 whitespace-nowrap">Remove</button>
             </div>
-          ` : ''}
-
-          <div id="comments-section-${q.id}" class="hidden mt-3 pt-3 border-t border-slate-100 dark:border-slate-700 space-y-3">
-            <div class="space-y-3 max-h-60 overflow-y-auto pr-1" id="comments-list-${q.id}">
-              ${comments.length === 0 ? '<p class="text-xs text-slate-400 italic">No comments yet. Be the first to start the discussion!</p>' : 
-                comments.map(c => renderCommentItem(q.id, c)).join('')}
-            </div>
-            <div class="space-y-2 pt-2 border-t border-slate-100 dark:border-slate-700/60">
-              <input type="text" id="comment-name-${q.id}" value="${defaultName}" placeholder="Enter your name..." class="w-full sm:w-1/2 p-2 text-xs bg-slate-50 dark:bg-slate-700 border border-slate-200 dark:border-slate-600 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
-              <div class="flex gap-2 items-center">
-                <input type="text" id="comment-input-${q.id}" placeholder="Write your discussion or query..." class="flex-grow p-2 text-xs bg-slate-50 dark:bg-slate-700 border border-slate-200 dark:border-slate-600 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
-                <button onclick="postComment('${q.id}')" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold rounded-lg shadow-sm">Post</button>
+            <div class="hidden sm:flex float-slower absolute -bottom-2 -left-3 lg:-left-8 items-center gap-2.5 bg-white rounded-xl border border-slate-200 shadow-lg shadow-slate-950/5 px-3.5 py-2.5">
+              <div class="p-2 rounded-lg bg-indigo-100 text-indigo-700">
+                <i data-lucide="flame" class="w-4 h-4"></i>
+              </div>
+              <div>
+                <p class="text-xs font-black text-slate-900 leading-none">Daily Streaks</p>
+                <p class="text-[10px] text-slate-500 mt-1">Built-in habit tracking</p>
               </div>
             </div>
           </div>
         </div>
-      `;
-    }
+      </section>
 
-    function renderCommentItem(qId, c) {
-      const isMyComment = myCommentIds.has(c.id);
-      const replies = c.replies || [];
-      const savedName = localStorage.getItem("loksewa_username") || "";
+      <!-- ============ 3. WHAT WE OFFER ============ -->
+      <section id="modes" class="py-16 sm:py-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
+            <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700">HOW IT WORKS</span>
+            <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-slate-900">
+              Study modes built to spec.
+            </h2>
+            <p class="text-slate-600 leading-relaxed">
+              Four focused modes cover the full preparation cycle — learn, drill, compete and
+              retain.
+            </p>
+          </div>
 
-      return `
-        <div class="p-3 bg-slate-50 dark:bg-slate-700/40 rounded-xl text-xs space-y-2 border border-slate-100 dark:border-slate-700" id="comment-wrap-${c.id}">
-          <div class="flex justify-between items-center">
-            <span class="text-indigo-600 dark:text-indigo-400 font-bold">${c.user}</span>
-            <div class="flex items-center space-x-2 text-[10px] text-slate-400">
-              <span>${c.time}</span>
-              ${isMyComment ? `
-                <button onclick="startEditComment('${qId}', '${c.id}')" class="hover:text-indigo-600 underline">Edit</button>
-                <button onclick="deleteComment('${qId}', '${c.id}')" class="hover:text-rose-600 underline">Delete</button>
-              ` : ''}
+          <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
+            <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
+              <div class="w-11 h-11 rounded-xl bg-indigo-100 text-indigo-600 flex items-center justify-center group-hover:scale-110 transition-transform">
+                <i data-lucide="book-open" class="w-5 h-5"></i>
+              </div>
+              <h3 class="font-display font-black text-slate-900">Objective Practice</h3>
+              <p class="text-sm text-slate-500 leading-relaxed">
+                Work through 1,000+ past-Loksewa MCQs with instant answers and explanations.
+              </p>
+            </div>
+
+            <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
+              <div class="w-11 h-11 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center group-hover:scale-110 transition-transform">
+                <i data-lucide="timer" class="w-5 h-5"></i>
+              </div>
+              <h3 class="font-display font-black text-slate-900">Timed Exams</h3>
+              <p class="text-sm text-slate-500 leading-relaxed">
+                Simulate real exam pressure with full-length, auto-graded mock papers.
+              </p>
+            </div>
+
+            <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
+              <div class="w-11 h-11 rounded-xl bg-rose-100 text-rose-600 flex items-center justify-center group-hover:scale-110 transition-transform">
+                <i data-lucide="swords" class="w-5 h-5"></i>
+              </div>
+              <h3 class="font-display font-black text-slate-900">1v1 Battle Arena</h3>
+              <p class="text-sm text-slate-500 leading-relaxed">
+                Challenge a study partner to a head-to-head speed duel on any topic.
+              </p>
+            </div>
+
+            <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
+              <div class="w-11 h-11 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center group-hover:scale-110 transition-transform">
+                <i data-lucide="refresh-cw" class="w-5 h-5"></i>
+              </div>
+              <h3 class="font-display font-black text-slate-900">Spaced Review</h3>
+              <p class="text-sm text-slate-500 leading-relaxed">
+                An SM-2 scheduler resurfaces weak questions right before you forget them.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ 4. PREP TRACKS ============ -->
+      <section id="tracks" class="relative bg-slate-900 py-16 sm:py-24 overflow-hidden">
+        <div class="absolute inset-0 blueprint-grid-dark" aria-hidden="true"></div>
+        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
+            <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-400/40 bg-indigo-500/10 text-indigo-300">QUESTION BANK</span>
+            <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-white">
+              Pick a track, not a price tag.
+            </h2>
+            <p class="text-slate-400 leading-relaxed">
+              Every question in every track is free — no accounts, no paywalls, no locked
+              sections.
+            </p>
+          </div>
+
+          <div class="grid md:grid-cols-3 gap-5">
+            <div class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300">
+              <div class="flex items-center justify-between">
+                <span class="sheet-tag text-indigo-300">TRACK-01</span>
+                <i data-lucide="building-2" class="w-5 h-5 text-indigo-400"></i>
+              </div>
+              <h3 class="font-display text-lg font-black text-white">Structural &amp; RCC Design</h3>
+              <p class="text-sm text-slate-400 leading-relaxed">
+                Beams, columns, foundations, concrete technology and limit-state design questions
+                from past papers.
+              </p>
+              <a href="app.html" class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group">
+                Start track
+                <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+              </a>
+            </div>
+
+            <div class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300">
+              <div class="flex items-center justify-between">
+                <span class="sheet-tag text-indigo-300">TRACK-02</span>
+                <i data-lucide="ruler" class="w-5 h-5 text-indigo-400"></i>
+              </div>
+              <h3 class="font-display text-lg font-black text-white">Surveying &amp; Hydraulics</h3>
+              <p class="text-sm text-slate-400 leading-relaxed">
+                Chain surveying to total stations, plus flow through pipes, channels and
+                hydraulic machines.
+              </p>
+              <a href="app.html" class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group">
+                Start track
+                <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+              </a>
+            </div>
+
+            <div class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300">
+              <div class="flex items-center justify-between">
+                <span class="sheet-tag text-indigo-300">TRACK-03</span>
+                <i data-lucide="globe" class="w-5 h-5 text-indigo-400"></i>
+              </div>
+              <h3 class="font-display text-lg font-black text-white">General Knowledge</h3>
+              <p class="text-sm text-slate-400 leading-relaxed">
+                Nepal's constitution, geography, history, current affairs and public-service
+                awareness.
+              </p>
+              <a href="app.html" class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group">
+                Start track
+                <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+              </a>
             </div>
           </div>
 
-          <p class="text-slate-700 dark:text-slate-200 leading-relaxed" id="comment-text-${c.id}">${c.text}</p>
+          <div class="text-center mt-12">
+            <a
+              href="app.html"
+              class="inline-flex items-center gap-2 bg-white text-slate-900 font-bold px-7 py-3.5 rounded-xl shadow-lg hover:bg-indigo-50 transition-colors"
+            >
+              View All Question Banks
+              <i data-lucide="arrow-right" class="w-4 h-4"></i>
+            </a>
+          </div>
+        </div>
+      </section>
 
-          <div id="comment-edit-box-${c.id}" class="hidden space-y-2 pt-1">
-            <textarea id="comment-edit-input-${c.id}" class="w-full p-2 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">${c.text}</textarea>
-            <div class="flex space-x-2">
-              <button onclick="saveEditComment('${qId}', '${c.id}')" class="px-2.5 py-1 bg-indigo-600 text-white rounded font-bold">Save</button>
-              <button onclick="cancelEditComment('${c.id}')" class="px-2.5 py-1 bg-slate-200 dark:bg-slate-600 rounded">Cancel</button>
-            </div>
+      <!-- ============ 5. TESTIMONIALS ============ -->
+      <section id="reviews" class="py-16 sm:py-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
+            <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700">FIELD NOTES</span>
+            <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-slate-900">
+              Our students are our biggest fans.
+            </h2>
+            <p class="text-slate-600 leading-relaxed">
+              Notes from candidates who drilled with us before exam day.
+            </p>
           </div>
 
-          <!-- Replies List -->
-          ${replies.length > 0 ? `
-            <div class="ml-4 pl-3 border-l-2 border-indigo-200 dark:border-indigo-900 space-y-2 pt-1">
-              ${replies.map(r => {
-                const isMyReply = myCommentIds.has(r.id);
-                return `
-                  <div class="space-y-1" id="reply-wrap-${r.id}">
-                    <div class="flex justify-between items-center text-[11px]">
-                      <span class="text-emerald-600 dark:text-emerald-400 font-bold">${r.user}</span>
-                      <div class="flex items-center space-x-2 text-[10px] text-slate-400">
-                        <span>${r.time}</span>
-                        ${isMyReply ? `
-                          <button onclick="startEditReply('${qId}', '${c.id}', '${r.id}')" class="hover:text-indigo-600 underline">Edit</button>
-                          <button onclick="deleteReply('${qId}', '${c.id}', '${r.id}')" class="hover:text-rose-600 underline">Delete</button>
-                        ` : ''}
-                      </div>
-                    </div>
-                    <p class="text-slate-700 dark:text-slate-200" id="reply-text-${r.id}">${r.text}</p>
-                    <div id="reply-edit-box-${r.id}" class="hidden space-y-1 pt-1">
-                      <input type="text" id="reply-edit-input-${r.id}" value="${r.text}" class="w-full p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg">
-                      <div class="flex space-x-2">
-                        <button onclick="saveEditReply('${qId}', '${c.id}', '${r.id}')" class="px-2 py-0.5 bg-indigo-600 text-white rounded text-[10px]">Save</button>
-                        <button onclick="cancelEditReply('${r.id}')" class="px-2 py-0.5 bg-slate-200 dark:bg-slate-600 rounded text-[10px]">Cancel</button>
-                      </div>
-                    </div>
-                  </div>
-                `;
-              }).join('')}
+          <div class="grid md:grid-cols-3 gap-5">
+            <div class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300">
+              <i data-lucide="quote" class="w-7 h-7 text-indigo-200"></i>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                "The timed exam mode felt exactly like the real paper. I walked into the exam hall
+                knowing exactly what to expect."
+              </p>
+              <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
+                <span class="w-10 h-10 rounded-full bg-indigo-600 text-white text-xs font-black flex items-center justify-center">SP</span>
+                <div>
+                  <p class="text-sm font-bold text-slate-900">Sujata P.</p>
+                  <p class="text-xs text-slate-500">Civil Engineering candidate</p>
+                </div>
+              </div>
             </div>
-          ` : ''}
 
-          <!-- Reply Toggle & Input Box -->
-          <div class="pt-1">
-            <button onclick="toggleReplyBox('${c.id}')" class="text-[11px] text-indigo-600 dark:text-indigo-400 font-semibold hover:underline">Reply</button>
-            <div id="reply-box-${c.id}" class="hidden mt-2 space-y-2 pt-2 border-t border-slate-200 dark:border-slate-700">
-              <input type="text" id="reply-name-${c.id}" value="${savedName && savedName !== 'Student' ? savedName : ''}" placeholder="Your name..." class="w-full sm:w-1/2 p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
-              <div class="flex gap-2">
-                <input type="text" id="reply-input-${c.id}" placeholder="Write a reply..." class="flex-grow p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
-                <button onclick="postReply('${qId}', '${c.id}')" class="px-3 py-1 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs font-bold">Send</button>
+            <div class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300">
+              <i data-lucide="quote" class="w-7 h-7 text-emerald-200"></i>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                "Spaced review fixed my weak areas in weeks. My mock scores jumped from 55% to
+                82% before the mains."
+              </p>
+              <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
+                <span class="w-10 h-10 rounded-full bg-emerald-600 text-white text-xs font-black flex items-center justify-center">BT</span>
+                <div>
+                  <p class="text-sm font-bold text-slate-900">Bikash T.</p>
+                  <p class="text-xs text-slate-500">Sub-Engineer aspirant</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300">
+              <i data-lucide="quote" class="w-7 h-7 text-amber-200"></i>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                "Finally a free portal that doesn't hide the question bank behind a paywall.
+                Everything is just… open. Respect."
+              </p>
+              <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
+                <span class="w-10 h-10 rounded-full bg-amber-500 text-white text-xs font-black flex items-center justify-center">AK</span>
+                <div>
+                  <p class="text-sm font-bold text-slate-900">Anisha K.</p>
+                  <p class="text-xs text-slate-500">GK section topper</p>
+                </div>
               </div>
             </div>
           </div>
         </div>
-      `;
-    }
+      </section>
 
-    function getTotalCommentCount(comments) {
-      let count = comments.length;
-      comments.forEach(c => {
-        if (c.replies) count += c.replies.length;
-      });
-      return count;
-    }
+      <!-- ============ 6. CTA BAND ============ -->
+      <section class="pb-16 sm:pb-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div
+            class="relative gradient-brand rounded-3xl overflow-hidden px-6 py-14 sm:py-16 text-center shadow-2xl shadow-indigo-600/30"
+          >
+            <div class="absolute inset-0 blueprint-grid-light" aria-hidden="true"></div>
+            <div class="relative space-y-5 max-w-2xl mx-auto">
+              <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-white">
+                Ready to prepare with confidence?
+              </h2>
+              <p class="text-indigo-100 leading-relaxed">
+                Open the portal and start your first practice set in seconds — no sign-up, no
+                cost, no catch.
+              </p>
+              <a
+                href="app.html"
+                class="inline-flex items-center gap-2 bg-white text-indigo-700 font-black px-7 py-3.5 rounded-xl shadow-lg hover:bg-indigo-50 hover:-translate-y-0.5 transition-all"
+              >
+                Start Practicing Free
+                <i data-lucide="arrow-right" class="w-4 h-4"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
 
-    function postComment(id) {
-      const nameInput = document.getElementById(`comment-name-${id}`);
-      const commentInput = document.getElementById(`comment-input-${id}`);
-      
-      const userName = nameInput ? nameInput.value.trim() : '';
-      const text = commentInput ? commentInput.value.trim() : '';
+    <!-- ============ 7. FOOTER ============ -->
+    <footer class="border-t border-slate-200 bg-slate-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+        <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
+          <!-- Brand -->
+          <div class="space-y-4">
+            <div class="flex items-center gap-3">
+              <div class="gradient-brand text-white p-2 rounded-xl shadow-md">
+                <i data-lucide="graduation-cap" class="w-4 h-4"></i>
+              </div>
+              <span class="font-display font-black text-slate-900">Loksewa Prep Pro</span>
+            </div>
+            <p class="text-sm text-slate-500 leading-relaxed">
+              A free MCQ practice portal built for Nepal's Civil Engineering and General
+              Knowledge Loksewa aspirants. Study, drill, compete — and walk in with confidence.
+            </p>
+          </div>
 
-      if (!userName) {
-        alert("Please enter your name before posting a comment.");
-        nameInput.focus();
-        return;
-      }
-      if (!text) {
-        alert("Please write a comment or query.");
-        commentInput.focus();
-        return;
-      }
+          <!-- Navigation -->
+          <div>
+            <h3 class="sheet-tag text-slate-400 uppercase mb-4">Navigation</h3>
+            <ul class="space-y-2.5 text-sm font-semibold text-slate-600">
+              <li><a href="#top" class="hover:text-indigo-600 transition-colors">Home</a></li>
+              <li><a href="#modes" class="hover:text-indigo-600 transition-colors">Study Modes</a></li>
+              <li><a href="#tracks" class="hover:text-indigo-600 transition-colors">Question Bank</a></li>
+              <li><a href="#reviews" class="hover:text-indigo-600 transition-colors">Reviews</a></li>
+            </ul>
+          </div>
 
-      localStorage.setItem("loksewa_username", userName);
+          <!-- Resources -->
+          <div>
+            <h3 class="sheet-tag text-slate-400 uppercase mb-4">Resources</h3>
+            <ul class="space-y-2.5 text-sm font-semibold text-slate-600">
+              <li><a href="app.html" class="hover:text-indigo-600 transition-colors">Practice App</a></li>
+              <li><a href="app.html" class="hover:text-indigo-600 transition-colors">Question Bank</a></li>
+              <li><a href="app.html" class="hover:text-indigo-600 transition-colors">Timed Exams</a></li>
+              <li><a href="app.html" class="hover:text-indigo-600 transition-colors">Progress Dashboard</a></li>
+            </ul>
+          </div>
 
-      if (!questionComments[id]) {
-        questionComments[id] = [];
-      }
+          <!-- Newsletter (non-functional) -->
+          <div>
+            <h3 class="sheet-tag text-slate-400 uppercase mb-4">Stay up to date</h3>
+            <p class="text-sm text-slate-500 mb-3">
+              Get new question drops and exam-date reminders.
+            </p>
+            <form onsubmit="return false" class="flex gap-2">
+              <input
+                type="email"
+                placeholder="you@example.com"
+                class="flex-1 min-w-0 px-3.5 py-2.5 rounded-xl border border-slate-300 bg-white text-sm focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/15 transition-all"
+              />
+              <button
+                type="submit"
+                class="gradient-brand text-white p-2.5 rounded-xl shadow-md hover:shadow-lg transition-shadow"
+                aria-label="Subscribe"
+              >
+                <i data-lucide="send" class="w-4 h-4"></i>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
 
-      const now = new Date();
-      const timeStr = now.toLocaleDateString() + ' ' + now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-      const commentId = 'c_' + Date.now() + '_' + Math.random().toString(36).substr(2, 4);
+      <div class="border-t border-slate-200">
+        <div
+          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-400"
+        >
+          <p>© 2026 Loksewa Prep Pro. Free forever for Loksewa aspirants.</p>
+          <div class="flex items-center gap-5 font-semibold">
+            <a href="#" class="hover:text-indigo-600 transition-colors">Privacy</a>
+            <a href="#" class="hover:text-indigo-600 transition-colors">Terms</a>
+          </div>
+        </div>
+      </div>
+    </footer>
 
-      questionComments[id].push({
-        id: commentId,
-        user: userName,
-        text: text,
-        time: timeStr,
-        replies: []
-      });
-
-      myCommentIds.add(commentId);
-      localStorage.setItem("loksewa_comments", JSON.stringify(questionComments));
-      saveState();
-      commentInput.value = '';
-      
-      renderMCQs();
-      setTimeout(() => {
-        const box = document.getElementById(`comments-section-${id}`);
-        if (box) box.classList.remove('hidden');
-      }, 50);
-    }
-
-    function deleteComment(qId, commentId) {
-      if (confirm("Are you sure you want to delete this comment?")) {
-        questionComments[qId] = questionComments[qId].filter(c => c.id !== commentId);
-        myCommentIds.delete(commentId);
-        localStorage.setItem("loksewa_comments", JSON.stringify(questionComments));
-        saveState();
-        renderMCQs();
-        setTimeout(() => {
-          const box = document.getElementById(`comments-section-${qId}`);
-          if (box) box.classList.remove('hidden');
-        }, 50);
-      }
-    }
-
-    function startEditComment(qId, commentId) {
-      document.getElementById(`comment-text-${commentId}`).classList.add('hidden');
-      document.getElementById(`comment-edit-box-${commentId}`).classList.remove('hidden');
-    }
-
-    function cancelEditComment(commentId) {
-      document.getElementById(`comment-text-${commentId}`).classList.remove('hidden');
-      document.getElementById(`comment-edit-box-${commentId}`).classList.add('hidden');
-    }
-
-    function saveEditComment(qId, commentId) {
-      const newText = document.getElementById(`comment-edit-input-${commentId}`).value.trim();
-      if (!newText) {
-        alert("Comment cannot be empty.");
-        return;
-      }
-
-      const comment = questionComments[qId].find(c => c.id === commentId);
-      if (comment) {
-        comment.text = newText;
-        localStorage.setItem("loksewa_comments", JSON.stringify(questionComments));
-        renderMCQs();
-        setTimeout(() => {
-          const box = document.getElementById(`comments-section-${qId}`);
-          if (box) box.classList.remove('hidden');
-        }, 50);
-      }
-    }
-
-    function toggleReplyBox(commentId) {
-      const box = document.getElementById(`reply-box-${commentId}`);
-      if (box) box.classList.toggle('hidden');
-    }
-
-    function postReply(qId, commentId) {
-      const nameInput = document.getElementById(`reply-name-${commentId}`);
-      const replyInput = document.getElementById(`reply-input-${commentId}`);
-
-      const userName = nameInput ? nameInput.value.trim() : '';
-      const text = replyInput ? replyInput.value.trim() : '';
-
-      if (!userName) {
-        alert("Please enter your name before replying.");
-        nameInput.focus();
-        return;
-      }
-      if (!text) {
-        alert("Please write a reply.");
-        replyInput.focus();
-        return;
-      }
-
-      localStorage.setItem("loksewa_username", userName);
-
-      const comment = questionComments[qId].find(c => c.id === commentId);
-      if (comment) {
-        if (!comment.replies) comment.replies = [];
-        const now = new Date();
-        const timeStr = now.toLocaleDateString() + ' ' + now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-        const replyId = 'r_' + Date.now() + '_' + Math.random().toString(36).substr(2, 4);
-
-        comment.replies.push({
-          id: replyId,
-          user: userName,
-          text: text,
-          time: timeStr
-        });
-
-        myCommentIds.add(replyId);
-        localStorage.setItem("loksewa_comments", JSON.stringify(questionComments));
-        saveState();
-        renderMCQs();
-        setTimeout(() => {
-          const box = document.getElementById(`comments-section-${qId}`);
-          if (box) box.classList.remove('hidden');
-          const replyBox = document.getElementById(`reply-box-${commentId}`);
-          if (replyBox) replyBox.classList.remove('hidden');
-        }, 50);
-      }
-    }
-
-    function deleteReply(qId, commentId, replyId) {
-      if (confirm("Are you sure you want to delete this reply?")) {
-        const comment = questionComments[qId].find(c => c.id === commentId);
-        if (comment && comment.replies) {
-          comment.replies = comment.replies.filter(r => r.id !== replyId);
-          myCommentIds.delete(replyId);
-          localStorage.setItem("loksewa_comments", JSON.stringify(questionComments));
-          saveState();
-          renderMCQs();
-          setTimeout(() => {
-            const box = document.getElementById(`comments-section-${qId}`);
-            if (box) box.classList.remove('hidden');
-          }, 50);
-        }
-      }
-    }
-
-    function startEditReply(qId, commentId, replyId) {
-      document.getElementById(`reply-text-${replyId}`).classList.add('hidden');
-      document.getElementById(`reply-edit-box-${replyId}`).classList.remove('hidden');
-    }
-
-    function cancelEditReply(replyId) {
-      document.getElementById(`reply-text-${replyId}`).classList.remove('hidden');
-      document.getElementById(`reply-edit-box-${replyId}`).classList.add('hidden');
-    }
-
-    function saveEditReply(qId, commentId, replyId) {
-      const newText = document.getElementById(`reply-edit-input-${replyId}`).value.trim();
-      if (!newText) {
-        alert("Reply cannot be empty.");
-        return;
-      }
-
-      const comment = questionComments[qId].find(c => c.id === commentId);
-      if (comment && comment.replies) {
-        const reply = comment.replies.find(r => r.id === replyId);
-        if (reply) {
-          reply.text = newText;
-          localStorage.setItem("loksewa_comments", JSON.stringify(questionComments));
-          renderMCQs();
-          setTimeout(() => {
-            const box = document.getElementById(`comments-section-${qId}`);
-            if (box) box.classList.remove('hidden');
-          }, 50);
-        }
-      }
-    }
-
-    function toggleAnswerReport(id) {
-      if (activeAnswerReporting.has(id)) {
-        activeAnswerReporting.delete(id);
-      } else {
-        activeAnswerReporting.add(id);
-      }
-      renderMCQs();
-    }
-
-    function submitAnswerCorrection(id) {
-      const optSelect = document.getElementById(`correct-opt-${id}`);
-      const reasonInput = document.getElementById(`correct-reason-${id}`);
-
-      const suggestedOpt = optSelect ? optSelect.value : 'a';
-      const reasonText = reasonInput ? reasonInput.value.trim() : '';
-
-      if (!questionReports[id]) {
-        questionReports[id] = {
-          userChoice: null,
-          suggestedAnswer: null,
-          reason: null,
-          counts: { "Answer": 0, "Option": 0, "Irrelevant": 0, "Outdated": 0 }
-        };
-      }
-
-      const record = questionReports[id];
-
-      if (record.userChoice !== 'Answer') {
-        if (record.userChoice && record.counts[record.userChoice] > 0) {
-          record.counts[record.userChoice]--;
-        }
-        record.userChoice = 'Answer';
-        record.counts['Answer'] = (record.counts['Answer'] || 0) + 1;
-      }
-
-      record.suggestedAnswer = suggestedOpt;
-      record.reason = reasonText;
-
-      activeAnswerReporting.delete(id);
-      localStorage.setItem("loksewa_reports", JSON.stringify(questionReports));
-      renderMCQs();
-    }
-
-    function clearAnswerReport(id) {
-      const record = questionReports[id];
-      if (record && record.userChoice === 'Answer') {
-        if (record.counts['Answer'] > 0) record.counts['Answer']--;
-        record.userChoice = null;
-        record.suggestedAnswer = null;
-        record.reason = null;
-        localStorage.setItem("loksewa_reports", JSON.stringify(questionReports));
-        renderMCQs();
-      }
-    }
-
-    function submitReport(id, choice) {
-      if (!questionReports[id]) {
-        questionReports[id] = {
-          userChoice: null,
-          suggestedAnswer: null,
-          reason: null,
-          counts: { "Answer": 0, "Option": 0, "Irrelevant": 0, "Outdated": 0 }
-        };
-      }
-
-      const record = questionReports[id];
-
-      if (record.userChoice === choice) {
-        if (record.counts[choice] > 0) record.counts[choice]--;
-        record.userChoice = null;
-      } else {
-        if (record.userChoice && record.counts[record.userChoice] > 0) {
-          record.counts[record.userChoice]--;
-        }
-        record.userChoice = choice;
-        record.counts[choice] = (record.counts[choice] || 0) + 1;
-        if (choice !== 'Answer') {
-          record.suggestedAnswer = null;
-          record.reason = null;
-        }
-      }
-
-      localStorage.setItem("loksewa_reports", JSON.stringify(questionReports));
-      renderMCQs();
-    }
-
-    function toggleCommentBox(id) {
-      const box = document.getElementById(`comments-section-${id}`);
-      if (box) {
-        box.classList.toggle('hidden');
-      }
-    }
-
-    function selectPracticeAnswer(id, key) {
-      userAnswers[id] = key;
-      const question = mcqs.find(q => q.id === id);
-      if (question) {
-        if (key.toLowerCase() !== (question.answer || '').toLowerCase()) {
-          weakPoints.add(id);
-        }
-        saveState();
-      }
-      renderMCQs();
-    }
-
-    function toggleWeakPoint(id) {
-      if (weakPoints.has(id)) weakPoints.delete(id);
-      else weakPoints.add(id);
-      saveState();
-      renderMCQs();
-    }
-
-    function updatePracticeStats(filtered) {
-      let correct = 0, incorrect = 0;
-      filtered.forEach(q => {
-        if (userAnswers[q.id]) {
-          if (userAnswers[q.id].toLowerCase() === (q.answer || '').toLowerCase()) correct++;
-          else incorrect++;
-        }
-      });
-      document.getElementById("stat-correct").textContent = correct;
-      document.getElementById("stat-incorrect").textContent = incorrect;
-    }
-
-    function renderRevisionMCQs() {
-      const container = document.getElementById("revision-container");
-      const list = mcqs.filter(q => weakPoints.has(q.id));
-
-      if (list.length === 0) {
-        container.innerHTML = `<div class="text-center py-12 bg-white dark:bg-slate-800 rounded-2xl"><p class="text-slate-400">Great job! No weak points bookmarked currently.</p></div>`;
-        return;
-      }
-
-      container.innerHTML = list.map((q, idx) => buildMCQCard(q, idx, userAnswers[q.id], 'revision')).join('');
+    <script>
       lucide.createIcons();
-    }
 
-    function clearWeakPoints() {
-      if (confirm("Clear all bookmarked weak points?")) {
-        weakPoints.clear();
-        saveState();
-        renderRevisionMCQs();
+      function toggleMobileMenu() {
+        document.getElementById('mobile-menu').classList.toggle('hidden');
       }
-    }
-
-    function populateExamTopics() {
-      const select = document.getElementById("exam-topic-select");
-      const topics = [...new Set(mcqs.map(q => q.topic).filter(Boolean))];
-      select.innerHTML = `<option value="All">All Topics Combined</option>`;
-      topics.forEach(t => {
-        const opt = document.createElement("option");
-        opt.value = t;
-        opt.textContent = t;
-        select.appendChild(opt);
-      });
-    }
-
-    function startExam() {
-      const topic = document.getElementById("exam-topic-select").value;
-      const limit = parseInt(document.getElementById("exam-limit-select").value);
-
-      let eligible = topic === "All" ? [...mcqs] : mcqs.filter(q => q.topic === topic);
-      if (eligible.length === 0) return alert("No questions available for this topic.");
-
-      activeExamQuestions = eligible.sort(() => 0.5 - Math.random()).slice(0, Math.min(limit, eligible.length));
-      examUserAnswers = {};
-
-      document.getElementById("exam-setup").classList.add("hidden");
-      document.getElementById("exam-results").classList.add("hidden");
-      document.getElementById("exam-active").classList.remove("hidden");
-
-      renderExamQuestions();
-
-      let totalSeconds = activeExamQuestions.length * 45;
-      clearInterval(examTimerInterval);
-      
-      const timerDisplay = document.getElementById("exam-timer");
-      examTimerInterval = setInterval(() => {
-        totalSeconds--;
-        const mins = Math.floor(totalSeconds / 60);
-        const secs = totalSeconds % 60;
-        timerDisplay.textContent = `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
-
-        if (totalSeconds <= 0) {
-          clearInterval(examTimerInterval);
-          alert("Time is up! Submitting exam now.");
-          submitExam();
-        }
-      }, 1000);
-    }
-
-    function renderExamQuestions() {
-      const container = document.getElementById("exam-questions-container");
-      container.innerHTML = activeExamQuestions.map((q, idx) => {
-        const chosen = examUserAnswers[q.id];
-        return `
-          <div class="bg-white dark:bg-slate-800 p-6 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm space-y-4">
-            <h3 class="text-base font-semibold text-slate-900 dark:text-slate-100">${idx + 1}. ${q.question}</h3>
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-              ${Object.entries(q.options || {}).map(([key, text]) => `
-                <button onclick="selectExamChoice('${q.id}', '${key}')" class="p-3 text-left rounded-xl border text-sm transition-all flex items-center justify-between ${chosen === key ? 'border-indigo-600 bg-indigo-50 dark:bg-indigo-900/40 text-indigo-600 font-bold' : 'border-slate-200 dark:border-slate-700'}">
-                  <span><strong class="uppercase mr-2">${key})</strong> ${text}</span>
-                </button>
-              `).join('')}
-            </div>
-          </div>
-        `;
-      }).join('');
-    }
-
-    function selectExamChoice(qId, key) {
-      examUserAnswers[qId] = key;
-      renderExamQuestions();
-      document.getElementById("exam-progress-text").textContent = `Answered ${Object.keys(examUserAnswers).length} of ${activeExamQuestions.length}`;
-    }
-
-    function submitExam() {
-      clearInterval(examTimerInterval);
-      document.getElementById("exam-active").classList.add("hidden");
-
-      let correct = 0, incorrect = 0, unattempted = 0;
-      activeExamQuestions.forEach(q => {
-        const choice = examUserAnswers[q.id];
-        if (!choice) unattempted++;
-        else if (choice.toLowerCase() === (q.answer || '').toLowerCase()) correct++;
-        else {
-          incorrect++;
-          weakPoints.add(q.id);
-        }
-      });
-
-      saveState();
-
-      const scorePct = Math.round((correct / activeExamQuestions.length) * 100);
-      const resultsBox = document.getElementById("exam-results");
-      resultsBox.classList.remove("hidden");
-      resultsBox.innerHTML = `
-        <div class="bg-white dark:bg-slate-800 p-8 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm text-center space-y-6">
-          <h2 class="text-2xl font-black">Exam Complete!</h2>
-          <div class="text-5xl font-black ${scorePct >= 60 ? 'text-emerald-500' : 'text-rose-500'}">${scorePct}%</div>
-          <div class="grid grid-cols-3 gap-4 max-w-md mx-auto text-center">
-            <div class="p-3 bg-emerald-50 dark:bg-emerald-950/40 rounded-xl"><p class="text-xs text-emerald-600 font-bold">Correct</p><p class="text-xl font-bold text-emerald-700">${correct}</p></div>
-            <div class="p-3 bg-rose-50 dark:bg-rose-950/40 rounded-xl"><p class="text-xs text-rose-600 font-bold">Incorrect</p><p class="text-xl font-bold text-rose-700">${incorrect}</p></div>
-            <div class="p-3 bg-slate-100 dark:bg-slate-700 rounded-xl"><p class="text-xs text-slate-500 font-bold">Skipped</p><p class="text-xl font-bold">${unattempted}</p></div>
-          </div>
-          <button onclick="switchTab('exam')" class="px-6 py-3 bg-indigo-600 text-white font-bold rounded-xl shadow-md">Take Another Exam</button>
-        </div>
-      `;
-    }
-
-    function smartMergeJSON(e) {
-      const file = e.target.files[0];
-      if (!file) return;
-      const reader = new FileReader();
-      reader.onload = function(event) {
-        try {
-          const imported = JSON.parse(event.target.result);
-          if (Array.isArray(imported)) {
-            const existingIds = new Set(mcqs.map(q => q.id));
-            let addedCount = 0;
-            imported.forEach(item => {
-              if (!item.id || existingIds.has(item.id)) {
-                item.id = `mcq_${Date.now()}_${Math.random().toString(36).substr(2, 4)}`;
-              }
-              mcqs.push(item);
-              existingIds.add(item.id);
-              addedCount++;
-            });
-            alert(`🎉 Merged ${addedCount} questions into session bank! Total: ${mcqs.length}`);
-            populateTopicFilters();
-            renderMCQs();
-          }
-        } catch (err) {
-          alert("Error parsing JSON.");
-        }
-      };
-      reader.readAsText(file);
-    }
-
-    function exportData() {
-      const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(mcqs, null, 2));
-      const a = document.createElement('a');
-      a.href = dataStr;
-      a.download = `loksewa_master_bank.json`;
-      document.body.appendChild(a);
-      a.click();
-      a.remove();
-    }
-
-    function toggleDarkMode() {
-      document.documentElement.classList.toggle("dark");
-    }
-  </script>
-</body>
+    </script>
+  </body>
 </html>

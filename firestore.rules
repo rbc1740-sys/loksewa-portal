@@ -1,0 +1,55 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ---- Comments: shared, editable by author only, NO deletes ----
+    match /comments/{commentId} {
+      allow read: if request.auth != null;
+
+      allow create: if request.auth != null
+                    && request.resource.data.userId == request.auth.uid
+                    && request.resource.data.text is string
+                    && request.resource.data.text.size() > 0
+                    && request.resource.data.text.size() <= 1000;
+
+      allow update: if request.auth != null && (
+        // Author may edit their own comment (text and replies)
+        (resource.data.userId == request.auth.uid
+         && request.resource.data.userId == resource.data.userId)
+        ||
+        // Anyone may append a reply (replies array only)
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['replies'])
+      );
+
+      // Nobody can delete comments through the app.
+      // Moderation is done via the Firebase Console by the developer.
+      allow delete: if false;
+    }
+
+    // ---- Answer votes (A/B/C/D counts): readable by all ----
+    match /votes/{questionId} {
+      allow read: if true;
+      allow create, update: if request.auth != null
+                    && request.resource.data.voters.keys().size() <= 500;
+      allow delete: if false;
+    }
+
+    // ---- Irrelevant / Outdated flags: readable by all ----
+    match /flags/{questionId} {
+      allow read: if true;
+      allow create, update: if request.auth != null;
+      allow delete: if false;
+    }
+
+    // ---- 1v1 Battle rooms: only the two participants may read/update ----
+    match /battles/{roomCode} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null
+                    && request.resource.data.hostUid == request.auth.uid;
+      allow update: if request.auth != null
+                    && (resource.data.hostUid == request.auth.uid || resource.data.guestUid == request.auth.uid)
+                    && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['guest','guestUid','guestScore','hostScore','status']);
+      allow delete: if false;
+    }
+  }
+}

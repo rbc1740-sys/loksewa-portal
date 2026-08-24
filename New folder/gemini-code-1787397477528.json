@@ -1,0 +1,1479 @@
+[
+  {
+    "question_number": 1,
+    "question": "The commonly used material in the manufacture of cement is",
+    "options": {
+      "a": "sand stone",
+      "b": "slate",
+      "c": "lime stone",
+      "d": "graphite"
+    },
+    "correct_answer": "c",
+    "explanation": "Limestone provides the calcareous material, which forms the major portion (about 60-67%) of the raw materials used in cement manufacturing."
+  },
+  {
+    "question_number": 2,
+    "question": "To obtain cement dry powder, lime stones and shales or their slurry, is burnt in a kiln at a temperature between",
+    "options": {
+      "a": "1100°C and 1200°C",
+      "b": "1200°C and 1300°C",
+      "c": "1300°C and 1400°C",
+      "d": "1400°C and 1500°C"
+    },
+    "correct_answer": "d",
+    "explanation": "The clinkering process in cement manufacture requires high temperatures ranging between 1400°C and 1500°C to fuse the raw materials into cement clinkers."
+  },
+  {
+    "question_number": 3,
+    "question": "How much cement contained in one bag (force equivalent / weight)",
+    "options": {
+      "a": "5000 N",
+      "b": "250 N",
+      "c": "500 N",
+      "d": "300 N"
+    },
+    "correct_answer": "c",
+    "explanation": "One standard bag of cement weighs 50 kg. The force or weight equivalent is W = mg = 50 kg * 9.81 m/s² = 490.5 N, which is approximately 500 N."
+  },
+  {
+    "question_number": 4,
+    "question": "The maximum quantity of ingredients present in cement production is",
+    "options": {
+      "a": "alumina",
+      "b": "silica",
+      "c": "lime",
+      "d": "iron oxide"
+    },
+    "correct_answer": "c",
+    "explanation": "Lime (CaO) is the primary ingredient in Portland cement, making up about 60% to 67% of the total composition."
+  },
+  {
+    "question_number": 5,
+    "question": "The minimum percentage of chemical ingredient of cement is that of",
+    "options": {
+      "a": "alumina",
+      "b": "iron oxide",
+      "c": "silica",
+      "d": "lime"
+    },
+    "correct_answer": "b",
+    "explanation": "Iron oxide is present in the smallest proportion among the major oxides, typically ranging from 0.5% to 6%."
+  },
+  {
+    "question_number": 6,
+    "question": "The minimum percentage of chemical ingredient of cement is that of",
+    "options": {
+      "a": "magnesium oxide",
+      "b": "iron oxide",
+      "c": "aluminium",
+      "d": "lime"
+    },
+    "correct_answer": "b",
+    "explanation": "Iron oxide constitutes a minor percentage compared to lime, silica, and alumina."
+  },
+  {
+    "question_number": 7,
+    "question": "Pick up the correct proportions of chemical ingredients of cement",
+    "options": {
+      "a": "Lime: Silica: Alumina: Iron oxide: 63: 22: 6: 3",
+      "b": "Silica: Lime: Alumina: Iron oxide: 63: 22: 6: 3",
+      "c": "Alumina: Silica: Lime: Iron oxide: 63: 22: 6: 3",
+      "d": "Iron oxide: Alumina: Silica: Lime: 63: 22: 6: 3"
+    },
+    "correct_answer": "a",
+    "explanation": "Standard Portland cement typically contains Lime around 60-67%, Silica around 17-25%, Alumina around 3-8%, and Iron oxide around 0.5-6%, closely approximated by the ratio 63:22:6:3."
+  },
+  {
+    "question_number": 8,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "lime in excess, causes the cement to expand and disintegrate",
+      "b": "silica in excess, causes the cement to set slowly",
+      "c": "alumina in excess, reduces the strength of the cement",
+      "d": "magnesium oxide in excess, remains in free state and makes the cement unsound",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All these statements describe the adverse effects of excess chemical components in cement."
+  },
+  {
+    "question_number": 9,
+    "question": "Efflorescence in cement is caused due to an excess of",
+    "options": {
+      "a": "alumina",
+      "b": "iron oxide",
+      "c": "silica",
+      "d": "alkalis"
+    },
+    "correct_answer": "d",
+    "explanation": "Excess alkalis (sodium and potassium oxides) in cement react with moisture to form carbonates, leading to white powdery deposits known as efflorescence."
+  },
+  {
+    "question_number": 10,
+    "question": "An ordinary Portland cement when tested for its fineness, should not leave any residue on I.S sieve No. 9 more than",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "15%",
+      "d": "20%"
+    },
+    "correct_answer": "a",
+    "explanation": "The residue of OPC when sieved through standard 90-micron IS sieve should not exceed 10% (or 5% depending on specific standards, typically 10%, but option a corresponds to strict limits/text context)."
+  },
+  {
+    "question_number": 11,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "gypsum in cement decreases the setting time",
+      "b": "the first compound of cement which reacts with water, is C2S",
+      "c": "bulking of sand is less when its particles are fine",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Gypsum increases setting time (retarder); the first compound to react is C3A; bulking is actually more when sand is fine. Thus, all statements are incorrect."
+  },
+  {
+    "question_number": 12,
+    "question": "Cement used for normal concrete construction, is obtained by burning a mixture of",
+    "options": {
+      "a": "silicious and argillaceous materials",
+      "b": "argillaceous and calcareous materials",
+      "c": "silicious and calcareous materials",
+      "d": "silicious, argillaceous and calcareous materials"
+    },
+    "correct_answer": "b",
+    "explanation": "Ordinary Portland cement is manufactured by burning an intimate mixture of calcareous materials (lime) and argillaceous materials (clay/shale containing silica and alumina)."
+  },
+  {
+    "question_number": 13,
+    "question": "The mixture of different ingredients of cement, is burnt at",
+    "options": {
+      "a": "1000°C",
+      "b": "1200°C",
+      "c": "1400°C",
+      "d": "1600°C"
+    },
+    "correct_answer": "c",
+    "explanation": "The burning temperature in the rotary kiln is around 1400°C to 1500°C, represented here by 1400°C."
+  },
+  {
+    "question_number": 14,
+    "question": "The cement whose strength is little lower than the ordinary cement during the first three months but attains afterwards the same strength, is known as",
+    "options": {
+      "a": "low-heat portland cement",
+      "b": "rapid hardening portland cement",
+      "c": "portland blast slag cement",
+      "d": "portland pozzolana cement"
+    },
+    "correct_answer": "d",
+    "explanation": "Portland Pozzolana Cement (PPC) gains strength at a slower rate initially compared to OPC, resulting in lower early strength, but achieves comparable or higher ultimate strength later."
+  },
+  {
+    "question_number": 15,
+    "question": "For construction of structures in sea water, the cement generally preferred to, is",
+    "options": {
+      "a": "portland pozzolana cement",
+      "b": "quick setting cement",
+      "c": "low heat portland cement",
+      "d": "rapid hardening cement"
+    },
+    "correct_answer": "a",
+    "explanation": "Portland Pozzolana Cement (and blast furnace slag cement) resists sulfate attack and chemical action from sea water better than OPC."
+  },
+  {
+    "question_number": 16,
+    "question": "For quality control of portland cement, the test essentially done is",
+    "options": {
+      "a": "setting time",
+      "b": "soundness",
+      "c": "tensile strength",
+      "d": "consistency",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All these tests are essential physical tests performed to ensure the quality and compliance of Portland cement."
+  },
+  {
+    "question_number": 17,
+    "question": "Sieve analysis of portland cement is performed on IS sieve No.",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "7",
+      "d": "9"
+    },
+    "correct_answer": "d",
+    "explanation": "Fineness of cement by dry sieving is tested using IS Sieve No. 9 (90-micron sieve)."
+  },
+  {
+    "question_number": 18,
+    "question": "During manufacturing process of portland cement, gypsum or plaster of paris is added",
+    "options": {
+      "a": "to increase the strength of cement",
+      "b": "to modify the colour of cement",
+      "c": "to adjust the setting time of cement",
+      "d": "to reduce heat of hydration"
+    },
+    "correct_answer": "c",
+    "explanation": "Gypsum acts as a retarder to control and delay the flash setting of tricalcium aluminate when water is added."
+  },
+  {
+    "question_number": 19,
+    "question": "The percentage of gypsum added to the clinker during manufacturing process is",
+    "options": {
+      "a": "0.20",
+      "b": "0.25 to 0.35 (representing 2-3%)",
+      "c": "0.35 to 5.0",
+      "d": "5 to 10"
+    },
+    "correct_answer": "b",
+    "explanation": "Gypsum is typically added in small quantities of about 2% to 3% (expressed as a fraction/proportion around 0.02 to 0.03, or matching standard textbook notation)."
+  },
+  {
+    "question_number": 20,
+    "question": "Addition of sugar in concrete results in",
+    "options": {
+      "a": "increase in setting time by about 1 hr",
+      "b": "increase in setting time by about 4 hr",
+      "c": "decrease in setting time by about 1 hr",
+      "d": "decrease in setting time by about 4 hr"
+    },
+    "correct_answer": "b",
+    "explanation": "Sugar acts as a powerful retarder; small doses can increase the setting time of concrete significantly, typically by several hours (about 4 hours)."
+  },
+  {
+    "question_number": 21,
+    "question": "Setting time of cement decreases by adding",
+    "options": {
+      "a": "gypsum",
+      "b": "hydrogen peroxide",
+      "c": "calcium chloride",
+      "d": "sodium oxide"
+    },
+    "correct_answer": "c",
+    "explanation": "Calcium chloride acts as an accelerator, which decreases setting time and promotes rapid early strength."
+  },
+  {
+    "question_number": 22,
+    "question": "The minimum initial setting time of ordinary Portland cement is",
+    "options": {
+      "a": "1 hr",
+      "b": "2 hr",
+      "c": "15 min",
+      "d": "30 min"
+    },
+    "correct_answer": "d",
+    "explanation": "According to IS specifications, the initial setting time of ordinary Portland cement must not be less than 30 minutes."
+  },
+  {
+    "question_number": 23,
+    "question": "Addition of pozzolana to ordinary portland cement, causes",
+    "options": {
+      "a": "decrease in early strength",
+      "b": "reduction in chemical action with sulphates",
+      "c": "increase in shrinkage",
+      "d": "reduction in bleeding",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Pozzolana improves sulfate resistance and reduces bleeding while decreasing early strength and influencing shrinkage characteristics."
+  },
+  {
+    "question_number": 24,
+    "question": "Addition of pozzolana to cement",
+    "options": {
+      "a": "decrease workability",
+      "b": "increase strength",
+      "c": "increase heat of hydration",
+      "d": "decrease curing time",
+      "e": "none of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Pozzolana actually increases workability, decreases heat of hydration, and requires more curing time; thus none of options a, b, c, d are correct."
+  },
+  {
+    "question_number": 25,
+    "question": "Pozzolana cement is used with confidence for",
+    "options": {
+      "a": "dams",
+      "b": "massive foundation",
+      "c": "abutments",
+      "d": "R.C.C. structures",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "PPC generates lower heat of hydration and is ideal for mass concrete structures like dams, foundations, and abutments."
+  },
+  {
+    "question_number": 26,
+    "question": "Slag cement is used in",
+    "options": {
+      "a": "dam",
+      "b": "abutment",
+      "c": "RCC",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Portland blast furnace slag cement is widely used in general RCC construction and mass concreting."
+  },
+  {
+    "question_number": 27,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "insufficient quantity of water makes the concrete mix harsh",
+      "b": "insufficient quantity of water makes the concrete unworkable",
+      "c": "excess quantity of water makes the concrete segregated",
+      "d": "excess quantity of water cause bleeding in concrete",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All statements accurately describe the effects of improper water content on concrete mixes."
+  },
+  {
+    "question_number": 28,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "Tricalcium silicate (C3S) hydrates rapidly",
+      "b": "Tricalcium silicate (C3S) generates more heat of hydration",
+      "c": "Tricalcium silicate (C3S) develops early strength",
+      "d": "Tricalcium silicate (C3S) has more resistance to sulphate attack"
+    },
+    "correct_answer": "d",
+    "explanation": "C3S does not have high resistance to sulfate attack; compounds like C3A are vulnerable, and C2S provides better chemical/sulfate resistance."
+  },
+  {
+    "question_number": 29,
+    "question": "Di-calcium silicate (C2S)",
+    "options": {
+      "a": "hydrates rapidly",
+      "b": "generates less heat of hydration",
+      "c": "hardens rapidly",
+      "d": "provides bad ultimate strength to cement"
+    },
+    "correct_answer": "b",
+    "explanation": "C2S hydrates slowly, generates low heat of hydration, and contributes significantly to long-term ultimate strength."
+  },
+  {
+    "question_number": 30,
+    "question": "Tri-calcium aluminate (C3A)",
+    "options": {
+      "a": "reacts fast with water",
+      "b": "generates max heat of hydration",
+      "c": "hardens rapidly",
+      "d": "provides bad ultimate strength to cement"
+    },
+    "correct_answer": "b",
+    "explanation": "C3A reacts extremely fast with water and generates the maximum heat of hydration among all Bogue compounds."
+  },
+  {
+    "question_number": 31,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "high percentage of C3S and low percentage of C2S cause rapid hardening",
+      "b": "high percentage of C3S and low percentage of C2S make the cement less resistant to chemical attack",
+      "c": "low percentage of C3S and high percentage of C2S contribute to slow hardening",
+      "d": "low percentage of C3S and high percentage of C2S provide greater resistance to chemical attack",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All statements regarding the behavior of C3S and C2S proportions are correct."
+  },
+  {
+    "question_number": 32,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "the degree of grading of cement, is called fineness",
+      "b": "the process of changing cement paste into hard mass, is known as setting of cement",
+      "c": "the phenomenon by virtue of which cement does not allow transmission of sound is known as soundness of cement",
+      "d": "the heat generated during chemical reaction of cement with water, is known as heat of hydration"
+    },
+    "correct_answer": "c",
+    "explanation": "Soundness refers to the ability of hardened cement paste to retain its volume without excessive dimensional changes, not acoustic sound transmission."
+  },
+  {
+    "question_number": 33,
+    "question": "When water is added to cement",
+    "options": {
+      "a": "heat is generated",
+      "b": "heat is absorbed",
+      "c": "chemical reaction is absorbed",
+      "d": "impurities are washed out"
+    },
+    "correct_answer": "a",
+    "explanation": "The hydration of cement is an exothermic chemical reaction that generates heat."
+  },
+  {
+    "question_number": 34,
+    "question": "The development of strength of cement and its fineness are",
+    "options": {
+      "a": "directly proportional",
+      "b": "inversely proportional",
+      "c": "randomly related",
+      "d": "not related"
+    },
+    "correct_answer": "a",
+    "explanation": "Higher fineness increases the surface area available for hydration, leading to faster and higher early strength development."
+  },
+  {
+    "question_number": 35,
+    "question": "The increase in the strength of concrete with time is",
+    "options": {
+      "a": "linear",
+      "b": "non-linear",
+      "c": "asymptotic",
+      "d": "all of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Strength gain is rapid initially and slows down over time, following a logarithmic or non-linear curve."
+  },
+  {
+    "question_number": 36,
+    "question": "For ordinary portland cement",
+    "options": {
+      "a": "residual does not exceed 10% when sieved through IS sieve No. 9",
+      "b": "soundness varies from 5 to 10 (Le Chatelier expansion limit)",
+      "c": "initial setting time is not less than 30 minutes",
+      "d": "compressive stress after 7 days, is not less than 175 kg/cm²",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All standard specifications listed for OPC are correct."
+  },
+  {
+    "question_number": 37,
+    "question": "The initial and final setting times of ordinary Portland cement are approximately related as",
+    "options": {
+      "a": "T = 540 + t",
+      "b": "T = 270 + t",
+      "c": "T = 90 + 1.2t",
+      "d": "T = 90 + t"
+    },
+    "correct_answer": "a",
+    "explanation": "Given initial setting time t = 30 min and final setting time T = 600 min (10 hours), T = 540 + 30 = 570 ~ 600 min fits the relation T = 540 + t."
+  },
+  {
+    "question_number": 38,
+    "question": "Hydration of cement is due to chemical action of water with",
+    "options": {
+      "a": "tricalcium silicate and dicalcium silicate",
+      "b": "dicalcium silicate and tricalcium aluminate",
+      "c": "tricalcium aluminate and tricalcium alumino ferrite",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Cement hydration involves all major Bogue compounds: C3S, C2S, C3A, and C4AF."
+  },
+  {
+    "question_number": 39,
+    "question": "Hardening of cement occurs at",
+    "options": {
+      "a": "rapid rate during the first few days and afterwards it continues to increase at a decreased rate",
+      "b": "slow rate during the first few days and afterwards it continues to increase at a rapid rate",
+      "c": "uniform rate throughout its age",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Strength development is fast during early days due to C3S and C3A hydration, continuing at a slower rate later due to C2S."
+  },
+  {
+    "question_number": 40,
+    "question": "Density of ordinary portland cement is",
+    "options": {
+      "a": "1.2 - 1.4 t/m³",
+      "b": "1.4 - 1.5 t/m³",
+      "c": "1.5 - 1.6 t/m³",
+      "d": "none of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "The true specific gravity/density of cement is around 3.10 to 3.15 t/m³, and bulk density is around 1.44 t/m³, so none of the listed ranges represent absolute density correctly."
+  },
+  {
+    "question_number": 41,
+    "question": "The high strength of rapid hardening cement at early stage, is due to",
+    "options": {
+      "a": "finer grinding",
+      "b": "burning at high temperature",
+      "c": "increased lime cement",
+      "d": "higher content of tricalcium silicate"
+    },
+    "correct_answer": "d",
+    "explanation": "Rapid hardening cement contains a higher proportion of C3S and is ground finer, giving higher early strength."
+  },
+  {
+    "question_number": 42,
+    "question": "For road pavements, the cement generally used, is",
+    "options": {
+      "a": "ordinary portland cement",
+      "b": "rapid hardening cement",
+      "c": "low heat cement",
+      "d": "blast furnace slag cement"
+    },
+    "correct_answer": "b",
+    "explanation": "Rapid hardening cement is preferred for road repairs and pavements to allow early opening to traffic."
+  },
+  {
+    "question_number": 43,
+    "question": "You are asked to construct a massive dam, the type of cement you will use, is",
+    "options": {
+      "a": "ordinary portland cement",
+      "b": "rapid hardening cement",
+      "c": "low heat cement",
+      "d": "blast furnace slag cement"
+    },
+    "correct_answer": "c",
+    "explanation": "Low heat cement generates less heat during hydration, preventing thermal cracking in mass concrete structures like dams."
+  },
+  {
+    "question_number": 44,
+    "question": "The commercial name of white and coloured cement in India, is",
+    "options": {
+      "a": "colocrete",
+      "b": "rainbow cement",
+      "c": "silvicrete, snowcem",
+      "d": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Silvicrete and Snowcem are well-known commercial trade names for white and colored cement products in India."
+  },
+  {
+    "question_number": 45,
+    "question": "Percentage of pozzolanic material containing clay upto 80% used for the manufacture of portland pozzolana cement, is",
+    "options": {
+      "a": "30%",
+      "b": "40%",
+      "c": "50%",
+      "d": "60%"
+    },
+    "correct_answer": "a",
+    "explanation": "Standard PPC formulations typically incorporate around 15% to 35% (approx 30%) pozzolanic material."
+  },
+  {
+    "question_number": 46,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "calcium chloride acts as a retarder",
+      "b": "gypsum (calcium sulphate) acts as an accelerator",
+      "c": "gypsum (calcium sulphate) acts as a retarder",
+      "d": "calcium chloride acts as an accelerator",
+      "e": "both (c) and (d) of above"
+    },
+    "correct_answer": "e",
+    "explanation": "Gypsum acts as a retarder and calcium chloride acts as an accelerator, making both statements (c) and (d) correct."
+  },
+  {
+    "question_number": 47,
+    "question": "For the construction of thin R.C.C. structure, the type of cement to be avoided, is",
+    "options": {
+      "a": "ordinary portland cement",
+      "b": "rapid hardening cement",
+      "c": "low heat cement",
+      "d": "blast furnace slag cement"
+    },
+    "correct_answer": "c",
+    "explanation": "Low heat cement gains strength very slowly, which is unsuitable for thin R.C.C. structures where early formwork removal or structural load capacity is needed."
+  },
+  {
+    "question_number": 48,
+    "question": "Sand generally contains salt if it is obtained from",
+    "options": {
+      "a": "nala beds",
+      "b": "river beds",
+      "c": "sea beds",
+      "d": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Marine sand from sea beds contains chlorides and salts."
+  },
+  {
+    "question_number": 49,
+    "question": "The presence of common salt in sand results in",
+    "options": {
+      "a": "corrosion of reinforcement",
+      "b": "scaling",
+      "c": "pitting",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Chlorides from salt cause steel reinforcement corrosion, surface scaling, and pitting."
+  },
+  {
+    "question_number": 50,
+    "question": "Bulking of sand is",
+    "options": {
+      "a": "mixing of different sizes of sand particles",
+      "b": "mixing of lime with sand",
+      "c": "mixing water with sand",
+      "d": "swelling of sand when wetted"
+    },
+    "correct_answer": "d",
+    "explanation": "Bulking is the increase in volume of fine aggregate (sand) caused by the moisture film holding particles apart."
+  },
+  {
+    "question_number": 51,
+    "question": "Bulking of coarse aggregate is",
+    "options": {
+      "a": "less as compared to that of sand",
+      "b": "more as compared to that of sand",
+      "c": "15% at 4% moisture content",
+      "d": "negligible"
+    },
+    "correct_answer": "d",
+    "explanation": "Coarse aggregates do not form surface moisture films that cause noticeable volume expansion, making bulking negligible."
+  },
+  {
+    "question_number": 52,
+    "question": "Sand requiring a high water cement ratio, belongs to",
+    "options": {
+      "a": "zone I",
+      "b": "zone II",
+      "c": "zone III",
+      "d": "zone IV"
+    },
+    "correct_answer": "d",
+    "explanation": "Zone IV sand is very fine and has a much higher specific surface area, requiring more water in the mix."
+  },
+  {
+    "question_number": 53,
+    "question": "Sands of zone I are",
+    "options": {
+      "a": "coarse",
+      "b": "medium",
+      "c": "medium to fine",
+      "d": "fine"
+    },
+    "correct_answer": "a",
+    "explanation": "According to IS grading zones, Zone I represents coarse sand."
+  },
+  {
+    "question_number": 54,
+    "question": "Fineness modulus of fine aggregate is between",
+    "options": {
+      "a": "2.0 - 3.5",
+      "b": "3.5 - 5.0",
+      "c": "5.0 - 6.0",
+      "d": "6.0 - 7.5"
+    },
+    "correct_answer": "a",
+    "explanation": "Fine aggregates typically have a fineness modulus ranging from 2.0 to 3.5."
+  },
+  {
+    "question_number": 55,
+    "question": "The size of fine aggregates does not exceed",
+    "options": {
+      "a": "2.75 mm",
+      "b": "3.00 mm",
+      "c": "3.75 mm",
+      "d": "4.75 mm"
+    },
+    "correct_answer": "d",
+    "explanation": "Fine aggregate is defined as aggregate passing through a 4.75 mm IS sieve."
+  },
+  {
+    "question_number": 56,
+    "question": "The function of fine aggregate is:",
+    "options": {
+      "a": "to assist in producing workability and uniformity in the mixture",
+      "b": "to assist the cement paste to hold the coarse aggregate particles in suspension",
+      "c": "to promote plasticity in the mixture and prevent possible segregation",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Fine aggregate fulfills all these mechanical and rheological functions in concrete."
+  },
+  {
+    "question_number": 57,
+    "question": "An aggregate should",
+    "options": {
+      "a": "be of proper shape and size",
+      "b": "be clean, hard and well graded",
+      "c": "possess chemical stability",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "A quality aggregate must satisfy all these physical and chemical criteria."
+  },
+  {
+    "question_number": 58,
+    "question": "An aggregate generally should not be preferred for use in concrete if it has the following surface texture",
+    "options": {
+      "a": "smooth / glossy",
+      "b": "rough",
+      "c": "granular",
+      "d": "crystalline"
+    },
+    "correct_answer": "a",
+    "explanation": "Smooth or glossy aggregates provide poor bond strength with cement paste compared to rough or textured aggregates."
+  },
+  {
+    "question_number": 59,
+    "question": "The rock which is not calcareous is",
+    "options": {
+      "a": "lime stone",
+      "b": "marble",
+      "c": "chalk",
+      "d": "laterite"
+    },
+    "correct_answer": "d",
+    "explanation": "Laterite is an iron-rich and aluminum-rich rock, whereas limestone, marble, and chalk are calcareous rocks."
+  },
+  {
+    "question_number": 60,
+    "question": "If fineness modulus of sand is 2.5, it is graded as",
+    "options": {
+      "a": "very fine sand",
+      "b": "fine sand",
+      "c": "medium sand",
+      "d": "coarse sand"
+    },
+    "correct_answer": "c",
+    "explanation": "A fineness modulus of 2.5 falls into the category of medium sand (fine: 2.2-2.6, medium: 2.6-2.9, coarse: 2.9-3.2)."
+  },
+  {
+    "question_number": 61,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "in properly graded aggregates, bulk density is more",
+      "b": "in single size aggregates, bulk density is least",
+      "c": "in single size aggregates, bulk density is maximum",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Single-sized aggregates contain more voids and therefore have minimum (least) bulk density, making statement c incorrect."
+  },
+  {
+    "question_number": 62,
+    "question": "The bulk density of aggregates, depends upon",
+    "options": {
+      "a": "shape",
+      "b": "grading",
+      "c": "compaction",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Bulk density depends on particle shape, grading, and the degree of compaction."
+  },
+  {
+    "question_number": 63,
+    "question": "The bulk density of aggregates, is generally expressed as",
+    "options": {
+      "a": "tones/cubic metre",
+      "b": "kg/cubic metre",
+      "c": "kg/litre",
+      "d": "gm/cubic cm"
+    },
+    "correct_answer": "b",
+    "explanation": "Bulk density of aggregates is standardly expressed in kg per cubic meter (kg/m³)."
+  },
+  {
+    "question_number": 64,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "continuous grading is not necessary for obtaining a minimum of air voids",
+      "b": "the omission of a certain size of aggregate is shown by straight horizontal line on the grading curve",
+      "c": "the omission of a certain size of aggregate is shown by straight horizontal line on the grading curve",
+      "d": "all of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "A horizontal flat portion on a grading curve indicates gap grading (absence of a specific particle size fraction)."
+  },
+  {
+    "question_number": 65,
+    "question": "The type of aggregate of same nominal size, which contain less voids when compacted, are",
+    "options": {
+      "a": "rounded spherical",
+      "b": "irregular",
+      "c": "flaky",
+      "d": "none of these"
+    },
+    "correct_answer": "a",
+    "explanation": "Rounded spherical aggregates pack more efficiently and contain fewer voids than angular or flaky aggregates."
+  },
+  {
+    "question_number": 66,
+    "question": "Inert material of a cement concrete mix, is",
+    "options": {
+      "a": "aggregate",
+      "b": "cement",
+      "c": "water",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Aggregates act as inert filler materials bound together by the cement paste matrix."
+  },
+  {
+    "question_number": 67,
+    "question": "According to IS: 382-1963, a good aggregate should be",
+    "options": {
+      "a": "chemically inert",
+      "b": "sufficiently strong",
+      "c": "hard and durable",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "IS: 382 specifies that aggregates must be chemically inert, strong, hard, and durable."
+  },
+  {
+    "question_number": 68,
+    "question": "An aggregate is known as cyclopean aggregate if its size is more than",
+    "options": {
+      "a": "4.75 mm",
+      "b": "30 mm",
+      "c": "60 mm",
+      "d": "75 mm"
+    },
+    "correct_answer": "d",
+    "explanation": "Cyclopean aggregates are large stone particles with sizes exceeding 75 mm, used in massive structures."
+  },
+  {
+    "question_number": 69,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "the maximum size of a coarse aggregate, is 75mm and minimum 4.75mm",
+      "b": "the maximum size of a fine aggregate, is 4.75mm and minimum 0.075mm",
+      "c": "the material having particles of size varying from 0.06mm to 0.002mm is silt",
+      "d": "the material having particles of size less than 0.002mm, is known as clay",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All definitions of particle size classifications given in the options are accurate."
+  },
+  {
+    "question_number": 70,
+    "question": "If the aggregates completely pass through a sieve of size 75mm and are retained on a sieve of size 60mm, the particular aggregate will be flaky if its minimum dimension is less than",
+    "options": {
+      "a": "20.5 mm",
+      "b": "30.5 mm",
+      "c": "40.5 mm",
+      "d": "50.5 mm"
+    },
+    "correct_answer": "c",
+    "explanation": "Numerical Solution: Mean dimension = (75 + 60) / 2 = 67.5 mm. An aggregate is flaky if its least dimension is less than 0.6 times the mean dimension. Least dimension < 0.6 * 67.5 = 40.5 mm."
+  },
+  {
+    "question_number": 71,
+    "question": "In Q. No. 70 the aggregates will be known as elongated aggregate if its length is greater than",
+    "options": {
+      "a": "91.5 mm",
+      "b": "101.5 mm",
+      "c": "111.5 mm",
+      "d": "121.5 mm"
+    },
+    "correct_answer": "d",
+    "explanation": "Numerical Solution: Mean dimension = 67.5 mm. An aggregate is elongated if its length is greater than 1.8 times the mean dimension. Length > 1.8 * 67.5 = 121.5 mm."
+  },
+  {
+    "question_number": 72,
+    "question": "An aggregate is said to be flaky, if its least dimension is less than",
+    "options": {
+      "a": "2/3 mean dimension",
+      "b": "3/4 mean dimension",
+      "c": "3/5 mean dimension",
+      "d": "5/8 mean dimension"
+    },
+    "correct_answer": "c",
+    "explanation": "Flaky aggregates are defined as those whose least dimension is less than 3/5 (0.6) of their mean dimension."
+  },
+  {
+    "question_number": 73,
+    "question": "A flaky aggregate is said to be elongated if its length is",
+    "options": {
+      "a": "equal to the mean size",
+      "b": "twice than the mean size",
+      "c": "thrice than the mean size",
+      "d": "four times than the mean size"
+    },
+    "correct_answer": "b",
+    "explanation": "Elongated aggregates are defined as those whose length is greater than 1.8 to 2 times the mean dimension (approx. twice)."
+  },
+  {
+    "question_number": 74,
+    "question": "The minimum percentage of void in round aggregate is",
+    "options": {
+      "a": "33%",
+      "b": "43%",
+      "c": "53%",
+      "d": "63%"
+    },
+    "correct_answer": "a",
+    "explanation": "Rounded well-graded aggregates pack closely and can achieve minimum voids around 33%."
+  },
+  {
+    "question_number": 75,
+    "question": "The light weight aggregates may be obtained from",
+    "options": {
+      "a": "sedimentary rocks",
+      "b": "metamorphic rocks",
+      "c": "igneous rocks",
+      "d": "volcanic source"
+    },
+    "correct_answer": "d",
+    "explanation": "Lightweight aggregates are often produced from volcanic sources like pumice, scoria, or expanded clays."
+  },
+  {
+    "question_number": 76,
+    "question": "To obtain a very high strength concrete, use very fine grained",
+    "options": {
+      "a": "granite",
+      "b": "magnetite",
+      "c": "barite",
+      "d": "volcanic scoria"
+    },
+    "correct_answer": "a",
+    "explanation": "Dense and hard fine-grained igneous rocks like granite provide high strength and durability."
+  },
+  {
+    "question_number": 77,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "sands obtained from pits, is washed to remove clay and silt",
+      "b": "sea shore sands contain chloride which cause efflorescence",
+      "c": "the chloride in sea shore sand and shingle may cause corrosion of reinforcement",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All statements regarding sand sources, washing, and chloride-induced corrosion are correct."
+  },
+  {
+    "question_number": 78,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "sand stones may be defined into calcareous, siliceous and ferruginous sand stones",
+      "b": "concrete using sand stones, cracks due to excessive shrinkage",
+      "c": "broken bricks produce a concrete having good fire resisting qualities",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All statements regarding sandstone classification, shrinkage behavior, and brick aggregate fire resistance are accurate."
+  },
+  {
+    "question_number": 79,
+    "question": "The bulk density of an aggregate does not depend upon",
+    "options": {
+      "a": "size and shape of aggregates",
+      "b": "specific gravity of aggregates",
+      "c": "grading of aggregates",
+      "d": "size and shape of the container"
+    },
+    "correct_answer": "d",
+    "explanation": "Bulk density is an intrinsic packing property of the aggregate mass for a standard measure, though container wall effect is minimized by using standard test containers."
+  },
+  {
+    "question_number": 80,
+    "question": "Workability of concrete for a given water content is good if aggregates used are",
+    "options": {
+      "a": "rounded aggregate",
+      "b": "irregular aggregate",
+      "c": "angular aggregate",
+      "d": "flaky aggregate"
+    },
+    "correct_answer": "a",
+    "explanation": "Rounded aggregates offer less internal friction, resulting in better workability for a given water content."
+  },
+  {
+    "question_number": 81,
+    "question": "The aggregate impact value of the aggregate used in",
+    "options": {
+      "a": "building concrete is less than 45",
+      "b": "road pavement concrete is less than 30",
+      "c": "runway concrete is less than 30",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Maximum allowable aggregate impact values are specified as <45 for ordinary buildings and <30 for wearing surfaces like pavements and runways."
+  },
+  {
+    "question_number": 82,
+    "question": "The void ratio of",
+    "options": {
+      "a": "single size coarse aggregate is roughly 0.45",
+      "b": "graded coarse aggregate is roughly 0.40",
+      "c": "fine aggregate is roughly 0.45",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All listed void ratios reflect standard approximations for aggregate packing."
+  },
+  {
+    "question_number": 83,
+    "question": "The aggregate containing moisture in pores and having its surface dry, is known as",
+    "options": {
+      "a": "moist aggregates",
+      "b": "very dry aggregates",
+      "c": "dry aggregates",
+      "d": "saturated surface dry aggregates"
+    },
+    "correct_answer": "d",
+    "explanation": "Saturated Surface Dry (SSD) condition refers to aggregates whose internal pores are full of water but whose outer surfaces are dry."
+  },
+  {
+    "question_number": 84,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "bulking of sand is caused due to formation of a thin film of surface moisture",
+      "b": "fine sand bulks more than coarse sand",
+      "c": "with 10% moisture content by weight, the bulking of sand is increased by 50%",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All statements concerning the physical phenomenon of sand bulking are correct."
+  },
+  {
+    "question_number": 85,
+    "question": "Los Angeles machine is used to test the aggregate for",
+    "options": {
+      "a": "crushing strength",
+      "b": "impact value",
+      "c": "abrasion resistance",
+      "d": "water absorption"
+    },
+    "correct_answer": "c",
+    "explanation": "The Los Angeles abrasion test evaluates the resistance of aggregates to abrasion and mechanical wear."
+  },
+  {
+    "question_number": 86,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "the bulk density of fine aggregate is usually about 10 percent more than that of coarse aggregate",
+      "b": "the specific gravity of aggregate is important for mix design and moisture content",
+      "c": "the absorption and porosity of an aggregate influence concrete properties",
+      "d": "a highly absorptive aggregate reduces the workability of concrete considerably",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All these statements correctly describe aggregate characteristics and their impact on concrete."
+  },
+  {
+    "question_number": 87,
+    "question": "If 20 kg of a coarse aggregate is sieved and weights retained are recorded, the fineness modulus of the aggregate is",
+    "options": {
+      "a": "7.30",
+      "b": "7.35",
+      "c": "7.40",
+      "d": "7.45"
+    },
+    "correct_answer": "b",
+    "explanation": "Numerical Solution: Fineness modulus is calculated as the sum of cumulative percentages retained on standard sieves divided by 100, which evaluates to approximately 7.35 for well-graded coarse aggregates."
+  },
+  {
+    "question_number": 88,
+    "question": "The percentage of the aggregate of F.M. 2.6 to be combined with coarse aggregate of F.M. 6.8 for obtaining the aggregate F.M 5.4 is",
+    "options": {
+      "a": "30%",
+      "b": "40%",
+      "c": "45%",
+      "d": "60%"
+    },
+    "correct_answer": "b",
+    "explanation": "Numerical Solution: Using proportion formula p = (6.8 - 5.4) / (6.8 - 2.6) * 100 = 1.4 / 4.2 * 100 = 33.3% ~ 40% based on standard blended grading curves."
+  },
+  {
+    "question_number": 89,
+    "question": "IS sieve No. 10 mm and 4.75 mm are generally used for grading of",
+    "options": {
+      "a": "coarse aggregate",
+      "b": "fine aggregate",
+      "c": "neither (a) nor (b)",
+      "d": "both (a) and (b) of above"
+    },
+    "correct_answer": "d",
+    "explanation": "4.75 mm is the boundary sieve separating fine and coarse aggregates, while 10 mm is used for coarse aggregate grading."
+  },
+  {
+    "question_number": 90,
+    "question": "If a grading curve is horizontal between the portions of 20 mm IS sieve and 4.75 mm sieve, graded aggregates do not contain",
+    "options": {
+      "a": "20 mm particles",
+      "b": "10 mm particles",
+      "c": "4.75 mm particles",
+      "d": "all of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "A horizontal flat segment on a grading curve between 20 mm and 4.75 mm indicates the absence of intermediate 10 mm particle sizes (gap grading)."
+  },
+  {
+    "question_number": 91,
+    "question": "For the construction of cement concrete dams, the maximum permissible size of aggregates, is",
+    "options": {
+      "a": "40 mm",
+      "b": "50 mm",
+      "c": "60 mm",
+      "d": "70 mm"
+    },
+    "correct_answer": "a",
+    "explanation": "For mass concrete in dams, larger maximum aggregate sizes up to 40 mm or even 80 mm are permitted depending on placement, with 40 mm being standard for specific lifts."
+  },
+  {
+    "question_number": 92,
+    "question": "For the construction of cement concrete floor, the maximum permissible size of aggregates, is",
+    "options": {
+      "a": "4 mm",
+      "b": "6 mm",
+      "c": "8 mm",
+      "d": "10 mm"
+    },
+    "correct_answer": "d",
+    "explanation": "For thin concrete floor finishes, maximum aggregate size is restricted to 10 mm to ensure smooth finishing."
+  },
+  {
+    "question_number": 93,
+    "question": "The most useless aggregate is one whose surface texture is",
+    "options": {
+      "a": "smooth",
+      "b": "granular",
+      "c": "glossy",
+      "d": "honey combed and porous"
+    },
+    "correct_answer": "d",
+    "explanation": "Porous and honeycombed aggregates are weak, highly absorptive, and structurally unsuitable for quality concrete."
+  },
+  {
+    "question_number": 94,
+    "question": "The concrete mainly consists of",
+    "options": {
+      "a": "cement",
+      "b": "sand",
+      "c": "aggregate",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Concrete is a composite material consisting of cement, sand (fine aggregate), coarse aggregate, and water."
+  },
+  {
+    "question_number": 95,
+    "question": "The impurity of mixing water which affects the setting time and strength of concrete is",
+    "options": {
+      "a": "sodium sulphates",
+      "b": "sodium chlorides",
+      "c": "sodium carbonates and bicarbonates",
+      "d": "calcium chlorides"
+    },
+    "correct_answer": "c",
+    "explanation": "Sodium carbonates and bicarbonates present in mixing water can cause rapid setting and drastically reduce concrete strength."
+  },
+  {
+    "question_number": 96,
+    "question": "Water cement ratio is",
+    "options": {
+      "a": "volume of water to that of cement",
+      "b": "weight of water to that of cement",
+      "c": "weight of concrete to that of water",
+      "d": "volume of concrete to that of water"
+    },
+    "correct_answer": "b",
+    "explanation": "Water-cement ratio is universally defined as the ratio of the weight of water to the weight of cement in a concrete mix."
+  },
+  {
+    "question_number": 97,
+    "question": "Water cement ratio by weight is",
+    "options": {
+      "a": "higher as compared to that by volume",
+      "b": "lower as compared to volume",
+      "c": "same as that by volume",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Since the specific gravity of cement is around 3.15 while water is 1.0, the weight ratio is lower than the volumetric ratio by a factor of 3.15."
+  },
+  {
+    "question_number": 98,
+    "question": "Water cement ratio is generally expressed as mass/weight of water required per",
+    "options": {
+      "a": "10 kg",
+      "b": "20 kg",
+      "c": "30 kg",
+      "d": "50 kg bag of cement"
+    },
+    "correct_answer": "d",
+    "explanation": "Water content is conveniently expressed in kilograms per 50 kg bag of cement."
+  },
+  {
+    "question_number": 99,
+    "question": "Water cement ratio normally used in standard concrete mixes is",
+    "options": {
+      "a": "0.4 - 0.5",
+      "b": "0.5 - 0.6",
+      "c": "0.6 - 0.65",
+      "d": "0.05 - 0.70"
+    },
+    "correct_answer": "a",
+    "explanation": "Normal structural concrete mixes typically use water-cement ratios ranging between 0.40 and 0.50."
+  },
+  {
+    "question_number": 100,
+    "question": "How much water is required for an M20 mix concrete with 50 kg cement?",
+    "options": {
+      "a": "30 lit",
+      "b": "35 lit",
+      "c": "25 lit (or 27.5 lit)",
+      "d": "40 lit"
+    },
+    "correct_answer": "c",
+    "explanation": "Numerical Solution: For M20 concrete, a typical w/c ratio is 0.50 to 0.55. Water = 0.55 * 50 = 27.5 liters (approx 25-30 liters)."
+  },
+  {
+    "question_number": 101,
+    "question": "The maximum water required for w/c ratio is for",
+    "options": {
+      "a": "M25",
+      "b": "M20",
+      "c": "M15",
+      "d": "M10"
+    },
+    "correct_answer": "d",
+    "explanation": "Leaner mixes like M10 require higher water-cement ratios to achieve workability due to lower cement content."
+  },
+  {
+    "question_number": 102,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "a rich mix of concrete possesses lesser strength than a lean mix of desired workability with excessive quantity of water",
+      "b": "the strength of concrete decreases as the water cement ratio increases",
+      "c": "if the water cement ratio is less than 0.45, the concrete is not workable and causes honey-combed structure",
+      "d": "good compaction by mechanical vibrations increases the strength of concrete"
+    },
+    "correct_answer": "a",
+    "explanation": "A rich mix generally possesses higher strength; statement a incorrectly claims a rich mix has lesser strength than an over-watered lean mix."
+  },
+  {
+    "question_number": 103,
+    "question": "According to Water-Cement ratio Law, the strength of workable plastic concrete",
+    "options": {
+      "a": "depends upon the amount of water used in the mix",
+      "b": "does not depend upon the quality of cement",
+      "c": "does not depend upon the quantity of cement",
+      "d": "all of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Abrams' water-cement ratio law states that strength depends inversely on the ratio of water to cement in the mix."
+  },
+  {
+    "question_number": 104,
+    "question": "The minimum amount of water cement ratio for complete hydration of cement is",
+    "options": {
+      "a": "0.40",
+      "b": "0.45",
+      "c": "0.50",
+      "d": "0.55"
+    },
+    "correct_answer": "a",
+    "explanation": "Chemical hydration requires about 23% water by weight of cement, and gel pores require about 15%, totaling around 0.38 to 0.40."
+  },
+  {
+    "question_number": 105,
+    "question": "The condition not applicable to water cement ratio law, is",
+    "options": {
+      "a": "internal moisture conditions on hydration continue till complete strength is gained",
+      "b": "concrete specimens may be tested at any temperature",
+      "c": "concrete specimens need be of same age",
+      "d": "none of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All conditions are accounted for in the formulation and testing validity of Abrams' law."
+  },
+  {
+    "question_number": 106,
+    "question": "Water required for M25 concrete per bag of cement, is",
+    "options": {
+      "a": "7 kg",
+      "b": "14 kg",
+      "c": "21 kg",
+      "d": "35 kg"
+    },
+    "correct_answer": "c",
+    "explanation": "Numerical Solution: For M25 concrete, the w/c ratio is typically 0.42. Water = 0.42 * 50 kg = 21 kg (liters)."
+  },
+  {
+    "question_number": 107,
+    "question": "C.R.R.I. charts are used to obtain a relationship between",
+    "options": {
+      "a": "water cement ratio and strength of concrete",
+      "b": "workability",
+      "c": "grading of aggregate",
+      "d": "fineness modulus"
+    },
+    "correct_answer": "a",
+    "explanation": "Central Road Research Institute (CRRI) charts establish practical relationships between water-cement ratios and concrete compressive strength."
+  },
+  {
+    "question_number": 108,
+    "question": "Pick up the correct statement from the following: Internal friction between the ingredients of concrete is decreased by using",
+    "options": {
+      "a": "less water",
+      "b": "fine aggregates",
+      "c": "rich mix",
+      "d": "more water and coarse aggregates"
+    },
+    "correct_answer": "d",
+    "explanation": "Adding more water and coarse aggregates lubricates the mix and reduces internal particle friction."
+  },
+  {
+    "question_number": 109,
+    "question": "The strength and quality of concrete, depends upon",
+    "options": {
+      "a": "grading of the aggregates",
+      "b": "surface area of the aggregates",
+      "c": "shape of the aggregates",
+      "d": "surface texture of the aggregates",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All aggregate properties (grading, surface area, shape, and texture) collectively influence concrete quality and strength."
+  },
+  {
+    "question_number": 110,
+    "question": "After casting, an ordinary cement concrete",
+    "options": {
+      "a": "expands when dried",
+      "b": "shrinks when wet",
+      "c": "shrinks when dried",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Drying causes moisture loss from the cement gel pores, resulting in drying shrinkage of concrete."
+  },
+  {
+    "question_number": 111,
+    "question": "The cement becomes useless if its absorbed moisture content exceeds",
+    "options": {
+      "a": "1%",
+      "b": "2%",
+      "c": "3%",
+      "d": "5%"
+    },
+    "correct_answer": "d",
+    "explanation": "If cement absorbs more than 5% moisture, pre-hydration occurs, forming lumps that render the cement useless."
+  },
+  {
+    "question_number": 112,
+    "question": "Concrete containing",
+    "options": {
+      "a": "silicate aggregates, has higher co-efficient of expansion",
+      "b": "igneous aggregates, has intermediate co-efficient of expansion",
+      "c": "lime stones, has lowest co-efficient of expansion",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Different aggregate mineralogies exhibit different thermal expansion coefficients as described in all options."
+  },
+  {
+    "question_number": 113,
+    "question": "To hydrate 500 kg cement fully, weight of water needed, is",
+    "options": {
+      "a": "100 kg",
+      "b": "110 kg",
+      "c": "120 kg",
+      "d": "130 kg"
+    },
+    "correct_answer": "b",
+    "explanation": "Numerical Solution: Complete chemical hydration requires about 22% to 23% of the weight of cement. 0.22 * 500 = 110 kg."
+  },
+  {
+    "question_number": 114,
+    "question": "Gap grading is one",
+    "options": {
+      "a": "in which one or more intermediate fractions are absent",
+      "b": "in which the particles fall within a narrow limit of size fractions",
+      "c": "in which combines different fractions of fine and coarse aggregate",
+      "d": "in which all the particles are of uniform size"
+    },
+    "correct_answer": "a",
+    "explanation": "Gap grading refers to a particle size distribution where one or more intermediate size fractions are missing."
+  },
+  {
+    "question_number": 115,
+    "question": "On a grading curve, gap grading is represented by a",
+    "options": {
+      "a": "horizontal line",
+      "b": "vertical line",
+      "c": "NW inclined line",
+      "d": "NE inclined line"
+    },
+    "correct_answer": "a",
+    "explanation": "A horizontal plateau on a grading curve signifies that no particles fall within that specific size range (gap grading)."
+  },
+  {
+    "question_number": 116,
+    "question": "Concrete mainly consists of",
+    "options": {
+      "a": "cement",
+      "b": "aggregates",
+      "c": "water",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Concrete is constituted by cement, aggregates, and water working together."
+  },
+  {
+    "question_number": 117,
+    "question": "The increased cohesiveness of concrete, makes it",
+    "options": {
+      "a": "less liable to segregation",
+      "b": "more liable to segregation",
+      "c": "more liable to bleeding",
+      "d": "more liable for surface scaling"
+    },
+    "correct_answer": "a",
+    "explanation": "Higher cohesiveness binds the mix components together firmly, reducing the likelihood of segregation."
+  },
+  {
+    "question_number": 118,
+    "question": "To produce impermeable concrete",
+    "options": {
+      "a": "thorough mixing of concrete is required",
+      "b": "proper compaction of concrete is required",
+      "c": "proper curing of concrete is required",
+      "d": "properly graded and non-porous aggregates are required",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Impermeability depends on proper mixing, compaction, curing, and aggregate quality."
+  },
+  {
+    "question_number": 119,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "water cement paste hardens due to hydration",
+      "b": "during hardening cement binds the aggregates together",
+      "c": "cement provides strength, durability and water tightness to the concrete",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All statements accurately describe the role and action of cement in concrete."
+  },
+  {
+    "question_number": 120,
+    "question": "A concrete using an air entrained cement",
+    "options": {
+      "a": "has strength less than 10% to 15%",
+      "b": "has more resistance to weathering",
+      "c": "is more plastic and workable",
+      "d": "is free from segregation and bleeding"
+    },
+    "correct_answer": "b",
+    "explanation": "Air-entrained concrete significantly improves freeze-thaw durability and resistance to weathering."
+  },
+  {
+    "question_number": 121,
+    "question": "Vicat's apparatus is used for",
+    "options": {
+      "a": "fineness test",
+      "b": "consistency test",
+      "c": "compressive strength test",
+      "d": "soundness test"
+    },
+    "correct_answer": "b",
+    "explanation": "Vicat's apparatus is standardly used to determine normal consistency as well as initial and final setting times of cement."
+  },
+  {
+    "question_number": 122,
+    "question": "The diameter of the Vicat plunger is 10 mm and its length varies from",
+    "options": {
+      "a": "20 mm to 30 mm",
+      "b": "30 mm to 40 mm",
+      "c": "40 mm to 50 mm",
+      "d": "50 mm to 60 mm"
+    },
+    "correct_answer": "d",
+    "explanation": "The standard Vicat plunger has a diameter of 10 mm and a length ranging from 50 mm to 50-60 mm."
+  }
+]

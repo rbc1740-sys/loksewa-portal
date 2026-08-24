@@ -1,0 +1,2171 @@
+[
+  {
+    "question_number": 123,
+    "question": "If 1500 g of water is required to have a cement paste 1875 g of normal consistency, the percentage of water is,",
+    "options": {
+      "a": "20%",
+      "b": "30%",
+      "c": "25%",
+      "d": "35%"
+    },
+    "correct_answer": "b",
+    "explanation": "According to the official answer key provided in the text, option b is the correct choice[cite: 2]."
+  },
+  {
+    "question_number": 124,
+    "question": "Pick up the incorrect statement from the following. For performing compressive strength test of cement",
+    "options": {
+      "a": "cement and standard sand mortar are used in the ratio of 1:3",
+      "b": "water is added at the rate of P/4 + 3.0 percentage of water where P is the percentage of water for standard consistency",
+      "c": "a cube mould of 10cm x 10cm x 10cm is used",
+      "d": "the prepared moulds are kept in an atmosphere of 50% relative humidity"
+    },
+    "correct_answer": "c",
+    "explanation": "Statement c is incorrect because standard compressive strength tests for cement use a cube mould of 7.06 cm (or 50 cm^2 face area), not 10 cm x 10 cm x 10 cm[cite: 2]."
+  },
+  {
+    "question_number": 125,
+    "question": "Pick up the incorrect statement applicable to the field test of good cement",
+    "options": {
+      "a": "when one thrusts one's hand into a bag of cement, one should feel warm",
+      "b": "the colour of the cement is bluish",
+      "c": "a handful of cement thrown into a bucket of water should sink immediately",
+      "d": "by rubbing the cement in between fingers, one should feel rough",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "According to the answer key, all the listed options are considered incorrect statements regarding field tests for cement in this context[cite: 2]."
+  },
+  {
+    "question_number": 126,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "the concrete gains strength due to hydration of cement",
+      "b": "the concrete cured at a temperature below 23 deg C gains strength up to 28 days",
+      "c": "the concrete does not set at freezing point",
+      "d": "the strength of concrete increases with its age",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All the statements correctly describe the behavior and hydration characteristics of concrete[cite: 2]."
+  },
+  {
+    "question_number": 127,
+    "question": "At freezing point of water, concrete",
+    "options": {
+      "a": "sets freely",
+      "b": "sets slowly",
+      "c": "sets rapidly",
+      "d": "does not set"
+    },
+    "correct_answer": "d",
+    "explanation": "At freezing temperatures, water turns into ice, halting the chemical hydration process required for concrete to set[cite: 2]."
+  },
+  {
+    "question_number": 128,
+    "question": "The datum temperature for maturity by Plowman, is",
+    "options": {
+      "a": "23 deg C",
+      "b": "0 deg C",
+      "c": "-5.6 deg C",
+      "d": "-11.7 deg C"
+    },
+    "correct_answer": "d",
+    "explanation": "According to Plowman's maturity formula, the datum temperature (below which no strength gain occurs) is -11.7 deg C[cite: 2]."
+  },
+  {
+    "question_number": 129,
+    "question": "I.S.I. has specified the full strength of concrete after",
+    "options": {
+      "a": "7 days",
+      "b": "14 days",
+      "c": "21 days",
+      "d": "28 days"
+    },
+    "correct_answer": "d",
+    "explanation": "Standard structural design and testing specify 28 days as the benchmark for full characteristic strength of concrete[cite: 2]."
+  },
+  {
+    "question_number": 130,
+    "question": "The strength of concrete is directly proportional to",
+    "options": {
+      "a": "cement water ratio",
+      "b": "water cement ratio",
+      "c": "sand cement ratio",
+      "d": "water aggregate ratio"
+    },
+    "correct_answer": "a",
+    "explanation": "Since strength is inversely proportional to the water-cement ratio, it is directly proportional to the cement-water ratio[cite: 2]."
+  },
+  {
+    "question_number": 131,
+    "question": "The approximate ratio of strength of cement concrete at 3 months to that of 28 days of curing",
+    "options": {
+      "a": "1.0",
+      "b": "1.15",
+      "c": "1.20",
+      "d": "1.30"
+    },
+    "correct_answer": "b",
+    "explanation": "Concrete continues to gain strength after 28 days, reaching approximately 1.15 times the 28-day strength at 3 months[cite: 2]."
+  },
+  {
+    "question_number": 132,
+    "question": "The percentage of compressive strength of concrete at 7 days to that of 28 days",
+    "options": {
+      "a": "40%",
+      "b": "65%",
+      "c": "100%",
+      "d": "115%"
+    },
+    "correct_answer": "b",
+    "explanation": "At 7 days, concrete typically achieves about 65% of its specified 28-day compressive strength[cite: 2]."
+  },
+  {
+    "question_number": 133,
+    "question": "The approximate ratio of direct tensile strength to direct compressive strength test of concrete",
+    "options": {
+      "a": "0.65",
+      "b": "0.40",
+      "c": "0.15",
+      "d": "0.10"
+    },
+    "correct_answer": "d",
+    "explanation": "Concrete is weak in tension; its direct tensile strength is roughly 10% (0.10) of its direct compressive strength[cite: 2]."
+  },
+  {
+    "question_number": 134,
+    "question": "Gypsum is added for",
+    "options": {
+      "a": "colour",
+      "b": "strength",
+      "c": "controlling setting time",
+      "d": "none of these"
+    },
+    "correct_answer": "c",
+    "explanation": "Gypsum acts as a retarder to control and prevent flash setting of cement during manufacture[cite: 2]."
+  },
+  {
+    "question_number": 135,
+    "question": "High increase in temperature",
+    "options": {
+      "a": "increases the strength of concrete",
+      "b": "decreases the strength of concrete",
+      "c": "has no effect on the strength of concrete",
+      "d": "none of these"
+    },
+    "correct_answer": "b",
+    "explanation": "Excessively high temperatures during early curing can cause rapid evaporation and improper crystal formation, decreasing long-term strength[cite: 2]."
+  },
+  {
+    "question_number": 136,
+    "question": "Segregation is responsible for",
+    "options": {
+      "a": "honey-combed concrete",
+      "b": "porous layers in concrete",
+      "c": "surface scaling in concrete",
+      "d": "sand streaks in concrete",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Segregation causes separation of ingredients, leading to honeycombing, porous layers, scaling, and sand streaks[cite: 2]."
+  },
+  {
+    "question_number": 137,
+    "question": "Separation of coarse aggregates from cement concrete during transportation, is known as",
+    "options": {
+      "a": "bleeding",
+      "b": "creeping",
+      "c": "segregation",
+      "d": "shrinkage"
+    },
+    "correct_answer": "c",
+    "explanation": "The separation of coarse aggregates from the finer matrix is defined as segregation[cite: 2]."
+  },
+  {
+    "question_number": 138,
+    "question": "Separation of water or water sand cement from a freshly mixed concrete, is known as",
+    "options": {
+      "a": "bleeding",
+      "b": "creeping",
+      "c": "segregation",
+      "d": "shrinkage"
+    },
+    "correct_answer": "a",
+    "explanation": "The upward movement and separation of water from freshly placed concrete is known as bleeding[cite: 2]."
+  },
+  {
+    "question_number": 139,
+    "question": "The specific surface of cement is expressed in",
+    "options": {
+      "a": "mm^2",
+      "b": "mm^2/g",
+      "c": "g/mm^2",
+      "d": "mm^2/g mm"
+    },
+    "correct_answer": "b",
+    "explanation": "Specific surface area represents surface area per unit mass (commonly expressed in cm^2/g or mm^2/g)[cite: 2]."
+  },
+  {
+    "question_number": 140,
+    "question": "A setting of cement or concrete which occurs suddenly while being mixed and prevents further working of the materials is called",
+    "options": {
+      "a": "quick set",
+      "b": "flash set",
+      "c": "initial setting",
+      "d": "knocking"
+    },
+    "correct_answer": "b",
+    "explanation": "Rapid release of heat and immediate stiffening without proper gypsum control is called flash set[cite: 2]."
+  },
+  {
+    "question_number": 141,
+    "question": "Adding a thin layer of cement mortar to the surface of concrete is known as",
+    "options": {
+      "a": "punning",
+      "b": "admixing",
+      "c": "rodding",
+      "d": "rendering"
+    },
+    "correct_answer": "b",
+    "explanation": "Per the official answer key, option b is designated as the correct answer[cite: 2]."
+  },
+  {
+    "question_number": 142,
+    "question": "The breaking up and remixing of concrete that has layers to set is called",
+    "options": {
+      "a": "resetting",
+      "b": "double setting",
+      "c": "knocking",
+      "d": "time setting"
+    },
+    "correct_answer": "c",
+    "explanation": "Knocking refers to the remixing of concrete that has begun to stiffen or set prematurely[cite: 2]."
+  },
+  {
+    "question_number": 143,
+    "question": "A concrete mix that causes difficulty in obtaining a smooth or good contact which may be due to excess of middle sized particles or a deficiency of lime matter is called",
+    "options": {
+      "a": "uneven mix",
+      "b": "harsh mix",
+      "c": "heterogeneous",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "A harsh mix lacks sufficient fines or workability, making smooth finishing difficult[cite: 2]."
+  },
+  {
+    "question_number": 144,
+    "question": "A watery scum that is formed on top of concrete due to excessive water or excessive use of trowel or float is called",
+    "options": {
+      "a": "laitance",
+      "b": "flashing",
+      "c": "punning",
+      "d": "water facing"
+    },
+    "correct_answer": "a",
+    "explanation": "Laitance is the milky layer of cement and fine particles brought to the surface by excess water or overworking[cite: 2]."
+  },
+  {
+    "question_number": 145,
+    "question": "For protection from frost, concrete should be",
+    "options": {
+      "a": "dense",
+      "b": "free from cracks",
+      "c": "adhesion between mortar and aggregate should be perfect",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "To prevent frost damage, concrete must be impermeable, dense, crack-free, and well-bonded[cite: 2]."
+  },
+  {
+    "question_number": 146,
+    "question": "The lower water cement ratio in concrete, introduces",
+    "options": {
+      "a": "smaller creep and shrinkage",
+      "b": "greater density and smaller permeability",
+      "c": "improved frost resistance",
+      "d": "greater wear resistance and improved bond strength",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Lower water-cement ratios enhance density, durability, strength, and reduce shrinkage and creep across all parameters[cite: 2]."
+  },
+  {
+    "question_number": 147,
+    "question": "The entrained air in concrete",
+    "options": {
+      "a": "increases workability",
+      "b": "decrease workability",
+      "c": "decrease resistance to weathering",
+      "d": "increase strength"
+    },
+    "correct_answer": "a",
+    "explanation": "Entrained microscopic air bubbles act like ball bearings, significantly increasing workability and freeze-thaw resistance[cite: 2]."
+  },
+  {
+    "question_number": 148,
+    "question": "The concrete mix which causes difficulty in obtaining a smooth finish, is known to possess",
+    "options": {
+      "a": "segregation",
+      "b": "hardness",
+      "c": "internal friction",
+      "d": "bleeding"
+    },
+    "correct_answer": "c",
+    "explanation": "High internal friction between aggregate particles causes harshness and prevents smooth finishing[cite: 2]."
+  },
+  {
+    "question_number": 149,
+    "question": "The factor which affects workability, is",
+    "options": {
+      "a": "water content and its temperature",
+      "b": "shape and size of the aggregates",
+      "c": "grading and surface textures of the aggregates",
+      "d": "air entraining agents",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed factors directly influence the consistency and workability of fresh concrete[cite: 2]."
+  },
+  {
+    "question_number": 150,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "large size aggregates increase the workability due to lesser surface area",
+      "b": "angular and rough aggregates reduce the workability of the concrete",
+      "c": "the slump of the concrete mix decreases due to an increase in temperature",
+      "d": "an increase in water content must be accompanied by an increase in cement content",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All statements accurately describe physical and environmental factors affecting concrete mixes[cite: 2]."
+  },
+  {
+    "question_number": 151,
+    "question": "The top diameter, bottom diameter and the height of a slump mould are",
+    "options": {
+      "a": "10 cm, 20 cm, 30 cm",
+      "b": "10 cm, 30 cm, 20 cm",
+      "c": "20 cm, 10 cm, 30 cm",
+      "d": "20 cm, 30 cm, 10 cm"
+    },
+    "correct_answer": "a",
+    "explanation": "A standard Abram's slump cone has dimensions of 10 cm top diameter, 20 cm bottom diameter, and 30 cm height[cite: 2]."
+  },
+  {
+    "question_number": 152,
+    "question": "In a mix if a desired slump is not obtained, the adjustment for each concrete slump by adjusting water content by",
+    "options": {
+      "a": "0.25%",
+      "b": "0.50%",
+      "c": "0.75%",
+      "d": "1%"
+    },
+    "correct_answer": "d",
+    "explanation": "According to mix design guidelines, approximately 1% change in water content adjusts slump by about 25 mm[cite: 2]."
+  },
+  {
+    "question_number": 153,
+    "question": "Maximum amount of water content is required if size of the aggregate is",
+    "options": {
+      "a": "round",
+      "b": "angular",
+      "c": "irregular",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Angular aggregates have a higher surface-to-volume ratio and interparticle friction, requiring more water for workability[cite: 2]."
+  },
+  {
+    "question_number": 154,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "the bottom and top ends of slump mould are parallel to each other",
+      "b": "the axis of the mould is perpendicular to the end faces",
+      "c": "the internal surface of the mould is kept clean and free from set cement",
+      "d": "the mould is in the form of a frustum of hexagonal pyramid"
+    },
+    "correct_answer": "d",
+    "explanation": "Statement d is incorrect because the slump mould is a frustum of a cone, not a hexagonal pyramid[cite: 2]."
+  },
+  {
+    "question_number": 155,
+    "question": "Slump test of concrete is a measure of its",
+    "options": {
+      "a": "workability",
+      "b": "compressive strength",
+      "c": "tensile strength",
+      "d": "impact value"
+    },
+    "correct_answer": "a",
+    "explanation": "The slump test is a standard method used to measure the consistency and workability of fresh concrete[cite: 2]."
+  },
+  {
+    "question_number": 156,
+    "question": "The amount of slump depends on",
+    "options": {
+      "a": "aggregate",
+      "b": "sand",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Per the official answer key, option b is designated as the correct choice[cite: 2]."
+  },
+  {
+    "question_number": 157,
+    "question": "In slump test, each layer of concrete compacted by a steel rod 60 cm long and 16 mm diameter for",
+    "options": {
+      "a": "20 times",
+      "b": "25 times",
+      "c": "30 times",
+      "d": "40 times"
+    },
+    "correct_answer": "b",
+    "explanation": "Each of the 3 layers in a slump test is rodded uniformly 25 times[cite: 2]."
+  },
+  {
+    "question_number": 158,
+    "question": "If the slump of concrete mix is 60 mm, its workability is",
+    "options": {
+      "a": "very low",
+      "b": "low",
+      "c": "medium",
+      "d": "high"
+    },
+    "correct_answer": "a",
+    "explanation": "Per the official answer key table, 60 mm corresponds to very low workability category in this classification[cite: 2]."
+  },
+  {
+    "question_number": 159,
+    "question": "The concrete having a slump of 6.5 cm, is said to be",
+    "options": {
+      "a": "dry",
+      "b": "earth moist",
+      "c": "semi-plastic",
+      "d": "plastic"
+    },
+    "correct_answer": "d",
+    "explanation": "A slump of 6.5 cm (65 mm) falls into the plastic consistency range (typically 50-100 mm)[cite: 2]."
+  },
+  {
+    "question_number": 160,
+    "question": "Slump test is the most widely used field test primarily because",
+    "options": {
+      "a": "it measures consistency or wetness of mix",
+      "b": "of the simplicity of apparatus and test procedure",
+      "c": "it indicates the behaviour of fresh concrete under action of gravitational forces",
+      "d": "it ensures uniformity among different batches of similar concrete"
+    },
+    "correct_answer": "b",
+    "explanation": "The slump test is popular in the field due to its inexpensive, simple apparatus and rapid test procedure[cite: 2]."
+  },
+  {
+    "question_number": 161,
+    "question": "The workability of concrete by slump test is expressed as",
+    "options": {
+      "a": "mm^3/h",
+      "b": "mm^2/h",
+      "c": "mm/h",
+      "d": "mm"
+    },
+    "correct_answer": "d",
+    "explanation": "Slump is measured and expressed in millimeters (mm) of subsidence[cite: 2]."
+  },
+  {
+    "question_number": 162,
+    "question": "The slump for beam slab is",
+    "options": {
+      "a": "75-150 mm",
+      "b": "15-30 mm",
+      "c": "50-100 mm",
+      "d": "all of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Beams and slabs with normal reinforcement typically require a medium-to-high workability slump of 75-150 mm[cite: 2]."
+  },
+  {
+    "question_number": 163,
+    "question": "Workability may be defined as the amount of applied work required to compact the concrete to its maximum density. The principle is used in",
+    "options": {
+      "a": "Vee Bee test",
+      "b": "slump test",
+      "c": "compaction factor test",
+      "d": "flow test"
+    },
+    "correct_answer": "a",
+    "explanation": "The Vee Bee consistometer test measures workability based on the time required to remould concrete under vibration[cite: 2]."
+  },
+  {
+    "question_number": 164,
+    "question": "When water cement ratio is increased; workability",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Adding more water increases fluidity, thereby increasing workability[cite: 2]."
+  },
+  {
+    "question_number": 165,
+    "question": "A concrete is said to be workable if",
+    "options": {
+      "a": "it is of uniform colour",
+      "b": "it is almost a fluid",
+      "c": "it can be easily mixed, placed and compacted",
+      "d": "it has a tendency to segregate and bleed"
+    },
+    "correct_answer": "c",
+    "explanation": "A workable concrete can be easily mixed, transported, placed, and compacted without segregation[cite: 2]."
+  },
+  {
+    "question_number": 166,
+    "question": "Workability of concrete in which low water cement ratio is determined by",
+    "options": {
+      "a": "tensile strength test",
+      "b": "slump test",
+      "c": "compaction factor test",
+      "d": "flexural strength test"
+    },
+    "correct_answer": "c",
+    "explanation": "The compaction factor test is more sensitive and suitable for determining workability of low water-cement ratio mixes than the slump test[cite: 2]."
+  },
+  {
+    "question_number": 167,
+    "question": "W_p and W_f are the weights of a cylinder containing partially compacted and fully compacted concrete. If the compaction factor is 0.95, the workability of concrete is",
+    "options": {
+      "a": "extremely low",
+      "b": "very low",
+      "c": "low",
+      "d": "high"
+    },
+    "correct_answer": "d",
+    "explanation": "A high compaction factor (such as 0.95) indicates high workability[cite: 2]."
+  },
+  {
+    "question_number": 168,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "segregation is necessary for a workable concrete",
+      "b": "consistency does not affect the workability of concrete",
+      "c": "if the slump increases, workability decreases",
+      "d": "if the concrete mix is dry, the slump is maximum",
+      "e": "none of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Options a, b, c, and d are all incorrect statements, making 'none of the above' correct[cite: 2]."
+  },
+  {
+    "question_number": 169,
+    "question": "Proper proportioning of concrete, ensures",
+    "options": {
+      "a": "desired strength and workability",
+      "b": "desired durability",
+      "c": "water tightness of the structure",
+      "d": "resistance to wear",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Proper mix proportioning ensures all structural and durability requirements are met[cite: 2]."
+  },
+  {
+    "question_number": 170,
+    "question": "As the grade of concrete increases the quantity of cement required per cubic metre",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "all of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Higher concrete grades require higher compressive strength, which necessitates a richer mix with more cement per cubic meter[cite: 2]."
+  },
+  {
+    "question_number": 171,
+    "question": "The grade of concrete M20 means that compressive strength of a 15 cm cube at 28 days, is",
+    "options": {
+      "a": "100 kg/cm^2",
+      "b": "200 kg/cm^2",
+      "c": "450 kg/cm^2",
+      "d": "250 kg/cm^3"
+    },
+    "correct_answer": "c",
+    "explanation": "Per the answer key mapping in the source text, option c is indicated[cite: 2]."
+  },
+  {
+    "question_number": 172,
+    "question": "A joint positioned so as to separate concrete from adjacent surfaces or individual structural elements that are not in direct physical contact, is known as",
+    "options": {
+      "a": "contraction joint",
+      "b": "expansion joint",
+      "c": "construction joint",
+      "d": "isolation joint"
+    },
+    "correct_answer": "d",
+    "explanation": "Isolation joints separate different structural elements to allow independent movement[cite: 2]."
+  },
+  {
+    "question_number": 173,
+    "question": "If the engineer-in-charge approves, the 10 cm cubes may be used for the work concrete provided maximum nominal size of aggregate, does not exceed",
+    "options": {
+      "a": "10 mm",
+      "b": "15 mm",
+      "c": "20 mm",
+      "d": "25 mm"
+    },
+    "correct_answer": "c",
+    "explanation": "10 cm cubes can be used if the maximum nominal aggregate size does not exceed 20 mm[cite: 2]."
+  },
+  {
+    "question_number": 174,
+    "question": "Pick up the incorrect statement from the following. While performing preliminary test concrete",
+    "options": {
+      "a": "proportions of the material and water should be the same as to be used at the site",
+      "b": "cement should be mixed by hand in order to maintain uniformity",
+      "c": "concrete mix should be stored in air-tight containers",
+      "d": "concrete ingredients should be kept at a temperature of 27 +- 2 deg C"
+    },
+    "correct_answer": "d",
+    "explanation": "Per the official answer key, option d is identified as the incorrect statement in this test context[cite: 2]."
+  },
+  {
+    "question_number": 175,
+    "question": "For preparing a test-specimen, it is necessary",
+    "options": {
+      "a": "to mix cement and fine aggregate by dry hand",
+      "b": "to mix coarse aggregates",
+      "c": "to mix water to the cement, fine aggregates and coarse aggregates",
+      "d": "to oil inner surface of the mould and the base plate, before placing concrete",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed steps are standard procedures for preparing reliable concrete test specimens[cite: 2]."
+  },
+  {
+    "question_number": 176,
+    "question": "Minimum number of test specimens required for finding the compressive strength of concrete are",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "6",
+      "d": "9"
+    },
+    "correct_answer": "c",
+    "explanation": "Typically, a sample consists of 6 cubes (3 tested at 7 days and 3 at 28 days)[cite: 2]."
+  },
+  {
+    "question_number": 177,
+    "question": "The preliminary test is repeated if the difference of compressive strength of three specimens, exceeds",
+    "options": {
+      "a": "5 kg/cm^2",
+      "b": "10 kg/cm^2",
+      "c": "12 kg/cm^2",
+      "d": "15 kg/cm^2"
+    },
+    "correct_answer": "d",
+    "explanation": "If the individual strength variation exceeds 15 kg/cm^2 from the average, the test results are discarded and repeated[cite: 2]."
+  },
+  {
+    "question_number": 178,
+    "question": "For the construction of R.C.C. slabs, columns, beams, walls, etc. the grade of concrete used, is",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:1.5:3",
+      "c": "1:2:4",
+      "d": "1:1:2"
+    },
+    "correct_answer": "d",
+    "explanation": "Per the answer key mapping in the text, option d is listed as correct[cite: 2]."
+  },
+  {
+    "question_number": 179,
+    "question": "For the construction of the retaining structures, the type of concrete mix to be used is",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:1.5:3",
+      "c": "1:2:4",
+      "d": "1:1:2"
+    },
+    "correct_answer": "c",
+    "explanation": "Retaining structures typically require dense, impermeable mixes such as 1:2:4[cite: 2]."
+  },
+  {
+    "question_number": 180,
+    "question": "The correct proportion of ingredients of concrete, depends upon",
+    "options": {
+      "a": "bulking of sand",
+      "b": "water content",
+      "c": "absorption",
+      "d": "workability",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Proportioning depends on sand bulking, water content, aggregate absorption, and workability requirements[cite: 2]."
+  },
+  {
+    "question_number": 181,
+    "question": "If the depth of moist sand in a cylinder is 15 cm and the depth of the sand inundated with water is 12 cm, the bulking of the moist sand, is",
+    "options": {
+      "a": "10%",
+      "b": "15%",
+      "c": "20%",
+      "d": "25%"
+    },
+    "correct_answer": "a",
+    "explanation": "Per the official answer key table, option a is the correct choice[cite: 2]."
+  },
+  {
+    "question_number": 182,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "the quality of water governs the strength of concrete",
+      "b": "the quality of water required for concreting, depends upon the grading of aggregate and method of compaction",
+      "c": "10% excess of water reduces the strength of concrete by 15%",
+      "d": "30% excess of water reduces the strength of concrete by 50%",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed statements regarding water quality, quantity, and its detrimental effect on strength are correct[cite: 2]."
+  },
+  {
+    "question_number": 183,
+    "question": "For preparing ordinary concrete, the quantity of water used, is",
+    "options": {
+      "a": "5% by weight of aggregates plus 20% of weight of cement",
+      "b": "10% by weight of aggregates plus 10% of weight of cement",
+      "c": "5% by weight of aggregates plus 30% weight of cement",
+      "d": "30% by weight of aggregates plus 10% of weight of cement"
+    },
+    "correct_answer": "a",
+    "explanation": "This empirical formula is commonly used for estimating standard mixing water quantities[cite: 2]."
+  },
+  {
+    "question_number": 184,
+    "question": "The arbitrary method of proportioning or concrete mix, is not in confirmation to following proportion of the ingredients:",
+    "options": {
+      "a": "1:1:2",
+      "b": "1:2:4",
+      "c": "1:3:6",
+      "d": "1:4:10"
+    },
+    "correct_answer": "b",
+    "explanation": "Per the answer key in the text, option b is designated[cite: 2]."
+  },
+  {
+    "question_number": 185,
+    "question": "If X, Y, Z are the fineness moduli of coarse, fine and combined aggregates, the percentage (P) of fine aggregate to combined aggregates, is",
+    "options": {
+      "a": "p = (z-x)/(z-y)",
+      "b": "p = ((x-z)/(z-y))*100",
+      "c": "p = ((x-z)/(z+y))*100",
+      "d": "p = ((x+z)/(z-y))*100"
+    },
+    "correct_answer": "b",
+    "explanation": "Based on standard proportioning equations using fineness modulus, option b represents the percentage formula[cite: 2]."
+  },
+  {
+    "question_number": 186,
+    "question": "If P, Y and Z are the weights of cement, fine aggregates and coarse aggregates respectively and W/C is the water to be added to first batch, is obtained by the equation",
+    "options": {
+      "a": "0.1p + 0.3y + 0.1z = (w/c)*p",
+      "b": "0.3p + 0.1y + 0.012z = (w/c)*p",
+      "c": "0.4p + 0.2y + 0.01z = (w/c)*p",
+      "d": "0.5p + 0.3y + 0.01z = (w/c)*p"
+    },
+    "correct_answer": "a",
+    "explanation": "Per the answer key, equation a accounts for the absorption and surface moisture factors in batching calculations[cite: 2]."
+  },
+  {
+    "question_number": 187,
+    "question": "If 50 kg of fine aggregates and 100 kg of coarse aggregates are mixed in a concrete whose water cement ratio is 0.6, the weight of water required for harsh mix, is",
+    "options": {
+      "a": "8 kg",
+      "b": "10 kg",
+      "c": "12 kg",
+      "d": "14 kg"
+    },
+    "correct_answer": "c",
+    "explanation": "Per the official answer table, option c (12 kg) is the correct numerical solution matching standard empirical adjustments[cite: 2]."
+  },
+  {
+    "question_number": 188,
+    "question": "The method of voids for determination of quantity of cement paste assumes that",
+    "options": {
+      "a": "voids in coarse aggregates are filled by fine aggregates",
+      "b": "voids in fine aggregates are filled by the cement paste",
+      "c": "volume of fine aggregates is equal to total voids in coarse aggregate plus 10% extra",
+      "d": "volume of cement paste required is equal to total volume of voids in fine aggregates plus 15% extra",
+      "e": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Per the answer table, option c is the designated correct principle for this void calculation method[cite: 2]."
+  },
+  {
+    "question_number": 189,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "workability of the concrete mix decreases with an increase in the moisture content",
+      "b": "concrete for which preliminary tests are conducted, is called controlled concrete",
+      "c": "bulking of sand depends upon the finesse grains",
+      "d": "concrete mix 1:6:12, is used for mass concrete in piers",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Per the answer key, all listed options are categorized as incorrect statements[cite: 2]."
+  },
+  {
+    "question_number": 190,
+    "question": "Shrinkage in cement concrete can be reduced by using",
+    "options": {
+      "a": "low water cement ratio",
+      "b": "less cement in the concrete",
+      "c": "proper concrete mix",
+      "d": "pre-saturated aggregates",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Reducing water content, cement content, and using saturated aggregates all minimize drying shrinkage[cite: 2]."
+  },
+  {
+    "question_number": 191,
+    "question": "Shrinkage in cement concrete is directly proportional to",
+    "options": {
+      "a": "water content in the mix",
+      "b": "cement content",
+      "c": "aggregate content",
+      "d": "aggregate content"
+    },
+    "correct_answer": "a",
+    "explanation": "Higher water content leaves more evaporable voids, leading to increased drying shrinkage[cite: 2]."
+  },
+  {
+    "question_number": 192,
+    "question": "Shrinkage in cement concrete is directly proportional to",
+    "options": {
+      "a": "water content in the mix",
+      "b": "cement content",
+      "c": "sand content",
+      "d": "aggregate content"
+    },
+    "correct_answer": "b",
+    "explanation": "Rich mixes with higher cement content exhibit greater paste shrinkage[cite: 2]."
+  },
+  {
+    "question_number": 193,
+    "question": "Shrinkage in cement concrete decrease with",
+    "options": {
+      "a": "initiation of load",
+      "b": "removal of load",
+      "c": "removal of moisture",
+      "d": "addition of moisture"
+    },
+    "correct_answer": "d",
+    "explanation": "Adding/maintaining moisture (curing) prevents drying shrinkage[cite: 2]."
+  },
+  {
+    "question_number": 194,
+    "question": "The shrinkage of concrete is due to change in",
+    "options": {
+      "a": "length",
+      "b": "cross-sectional area",
+      "c": "volume",
+      "d": "surface area"
+    },
+    "correct_answer": "c",
+    "explanation": "Drying shrinkage is fundamentally a volumetric change caused by moisture loss[cite: 2]."
+  },
+  {
+    "question_number": 195,
+    "question": "The concrete shrinkage is more pronounced in",
+    "options": {
+      "a": "rich mix",
+      "b": "lean mix",
+      "c": "very lean mix",
+      "d": "normal mix"
+    },
+    "correct_answer": "a",
+    "explanation": "Rich mixes contain more cement paste matrix, which undergoes higher shrinkage than aggregate[cite: 2]."
+  },
+  {
+    "question_number": 196,
+    "question": "Maximum shrinkage takes place in cement concrete after drying for",
+    "options": {
+      "a": "28 days",
+      "b": "three month",
+      "c": "six month",
+      "d": "one year"
+    },
+    "correct_answer": "d",
+    "explanation": "Long-term drying over an extended period (up to a year or more) accounts for maximum ultimate shrinkage[cite: 2]."
+  },
+  {
+    "question_number": 197,
+    "question": "Poisson's ratio of concrete reduced by using",
+    "options": {
+      "a": "richer mix",
+      "b": "poor mix",
+      "c": "constant with any mix",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Per the official answer key, option d is correct[cite: 2]."
+  },
+  {
+    "question_number": 198,
+    "question": "Poisson's ratio for concrete ranges between",
+    "options": {
+      "a": "0.11 and 0.20",
+      "b": "0.20 and 0.25",
+      "c": "0.25 and 0.30",
+      "d": "0.30 and 0.35"
+    },
+    "correct_answer": "b",
+    "explanation": "The Poisson's ratio for normal concrete typically ranges from 0.10 to 0.25 (specifically 0.20 to 0.25 in this context)[cite: 2]."
+  },
+  {
+    "question_number": 199,
+    "question": "As compared to static tests the dynamic tests on concrete give",
+    "options": {
+      "a": "higher value of poisson's ratio",
+      "b": "lower value of poisson's ratio",
+      "c": "same value of poisson's ratio",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Dynamic testing methods (such as ultrasonic pulse velocity) yield higher elastic constants and Poisson's ratio values compared to static tests[cite: 2]."
+  },
+  {
+    "question_number": 200,
+    "question": "The 28 days cube strength of mass concrete using aggregates of maximum size between 150 to gravity dams should be",
+    "options": {
+      "a": "300 kg/cm^2",
+      "b": "between 350 to 600 kg/cm^2",
+      "c": "between 150 to 500 kg/cm^2",
+      "d": "below 200 kg/cm^2"
+    },
+    "correct_answer": "a",
+    "explanation": "Per the answer table, option a is correct[cite: 2]."
+  },
+  {
+    "question_number": 201,
+    "question": "While designing an air entrained concrete",
+    "options": {
+      "a": "water cement ratio is reduced",
+      "b": "proportion of aggregates is reduced",
+      "c": "an allowance for the entrained air is made",
+      "d": "strength of the concretes is reduced",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed considerations apply when designing air-entrained concrete mixes[cite: 2]."
+  },
+  {
+    "question_number": 202,
+    "question": "An ideal warehouse, is provided with",
+    "options": {
+      "a": "water proof masonry walls",
+      "b": "water proof roof",
+      "c": "few windows which remain generally closed",
+      "d": "15 cm thick concrete floor laid on a dry course of soling",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "An ideal cement storage warehouse incorporates all these moisture-prevention features[cite: 2]."
+  },
+  {
+    "question_number": 203,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "space between the exterior walls of a warehouse and heating piles...",
+      "b": "cement bags should preferably be piled on wooden planks",
+      "c": "cement bags should be placed such that bags of one layer do not touch the adjacent layer",
+      "d": "width and height of the pile should not exceed 3 m and 2.7 m",
+      "e": "none of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Per the answer key, option e is correct as none of the listed standard storage rules are incorrect[cite: 2]."
+  },
+  {
+    "question_number": 204,
+    "question": "The specification of a cement bag for storage, are",
+    "options": {
+      "a": "weight 50 kg",
+      "b": "height 18 cm",
+      "c": "plan area 3000 sq.cm",
+      "d": "volume 35 litres",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Standard cement bag specifications include 50 kg weight, ~35 liters volume, and approximate dimensions[cite: 2]."
+  },
+  {
+    "question_number": 205,
+    "question": "Warehouse pack of cement means",
+    "options": {
+      "a": "full capacity of warehouse",
+      "b": "pressure exertion of the bags of upper layers",
+      "c": "pressure compaction of bags on lower layers",
+      "d": "packing the warehouse"
+    },
+    "correct_answer": "b",
+    "explanation": "Warehouse pack refers to the pressure exerted by upper layers of stacked cement bags[cite: 2]."
+  },
+  {
+    "question_number": 206,
+    "question": "Warehouse set cement is",
+    "options": {
+      "a": "cement which absorbs moisture in warehouse",
+      "b": "cement which sets due to being adjacent wall",
+      "c": "cement which gets compressed due to load of several bags of cement above it",
+      "d": "there is no such setting"
+    },
+    "correct_answer": "a",
+    "explanation": "Cement that absorbs ambient moisture during prolonged storage and forms lumps is known as warehouse set cement[cite: 2]."
+  },
+  {
+    "question_number": 207,
+    "question": "If the effective plan area of a warehouse is 54 sq.m, and maximum height of piles permitted is 270 cm, the number of cement bags to be stored, is",
+    "options": {
+      "a": "2000 bags",
+      "b": "2200 bags",
+      "c": "2400 bags",
+      "d": "2700 bags"
+    },
+    "correct_answer": "d",
+    "explanation": "Based on standard stack calculations for cement storage capacity, option d is correct[cite: 2]."
+  },
+  {
+    "question_number": 208,
+    "question": "The internal dimensions of a warehouse are 15m x 5.6m and the maximum height of piles is 2.70 m. The maximum number of bags to be stored in two piles, are",
+    "options": {
+      "a": "1500 bags",
+      "b": "2000 bags",
+      "c": "2500 bags",
+      "d": "3000 bags"
+    },
+    "correct_answer": "b",
+    "explanation": "Using floor area and allowable stacking height formulas, 2000 bags is the correct capacity[cite: 2]."
+  },
+  {
+    "question_number": 209,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": {
+      "a": "with passage of time, the strength of cement increases",
+      "b": "with passage of time, the strength of cement decreases",
+      "c": "after a period of 24 months, the strength of cement reduces to 50%",
+      "d": "The concrete made with storage deteriorated cement, gains strength with manner"
+    },
+    "correct_answer": "b",
+    "explanation": "Cement strength decreases over time due to atmospheric moisture absorption, making statement b incorrect as a general rule for aged cement[cite: 2]."
+  },
+  {
+    "question_number": 210,
+    "question": "To ensure constant moisture content in aggregates",
+    "options": {
+      "a": "area of each aggregate pile should be large",
+      "b": "height of each aggregate pile should not exceed 1.50 m",
+      "c": "aggregate pile should be left for 24 hours before aggregates are used",
+      "d": "conical heaps of aggregates should be avoided to prevent moisture vibration",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed practices help stabilize moisture distribution in aggregate stockpiles[cite: 2]."
+  },
+  {
+    "question_number": 211,
+    "question": "An aggregate which passes through 25 mm IS sieve and is retained on 20 mm sieve, is said to be flaky if its least dimension is less than",
+    "options": {
+      "a": "13.5 mm",
+      "b": "18.5 mm",
+      "c": "16.5 mm",
+      "d": "13.5 mm"
+    },
+    "correct_answer": "d",
+    "explanation": "Flakiness index dictates that an aggregate is flaky when its least dimension is less than 0.6 times the mean sieve size (0.6 * 22.5 = 13.5 mm)[cite: 2]."
+  },
+  {
+    "question_number": 212,
+    "question": "Workability of concrete for a given water content is good if aggregates used, are",
+    "options": {
+      "a": "rounded aggregate",
+      "b": "irregular aggregate",
+      "c": "angular aggregate",
+      "d": "flaky aggregate"
+    },
+    "correct_answer": "a",
+    "explanation": "Rounded aggregates offer less interparticle friction, providing better workability for a given water content[cite: 2]."
+  },
+  {
+    "question_number": 213,
+    "question": "An excess of flaky particles in concrete aggregates",
+    "options": {
+      "a": "decrease the workability",
+      "b": "increase the quantity of water and sand",
+      "c": "affects the durability of concrete",
+      "d": "more than 15% are not desirable",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Flaky particles reduce workability, require more paste/water, and negatively impact durability[cite: 2]."
+  },
+  {
+    "question_number": 214,
+    "question": "Grading of sand causes great variation in",
+    "options": {
+      "a": "workability of concrete",
+      "b": "strength of concrete",
+      "c": "durability of concrete",
+      "d": "handling and placing",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Sand grading directly affects workability, strength, durability, and handling properties[cite: 2]."
+  },
+  {
+    "question_number": 215,
+    "question": "The durability of concrete is due to its resistance to",
+    "options": {
+      "a": "deterioration from environmental condition",
+      "b": "internal disruptive forces",
+      "c": "chemical crack",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Durability encompasses resistance to environmental exposure, internal stresses, and chemical attacks[cite: 2]."
+  },
+  {
+    "question_number": 216,
+    "question": "The inelastic behavior of concrete is due to the",
+    "options": {
+      "a": "shrinkage in concrete",
+      "b": "propagation of bond and mortar cracks",
+      "c": "presence of macro and micro cracks",
+      "d": "all of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Per the answer key, option b is designated as the primary cause for inelastic deformation under stress[cite: 2]."
+  },
+  {
+    "question_number": 217,
+    "question": "The modulus of elasticity of concrete improves with",
+    "options": {
+      "a": "age",
+      "b": "high water cement ratio",
+      "c": "shorter curing periods",
+      "d": "better compaction"
+    },
+    "correct_answer": "d",
+    "explanation": "Proper compaction eliminates voids and increases density, directly improving the modulus of elasticity[cite: 2]."
+  },
+  {
+    "question_number": 218,
+    "question": "Which of the following does not react with concrete?",
+    "options": {
+      "a": "sewage water",
+      "b": "sulphuric acid",
+      "c": "vegetable oil",
+      "d": "alcohol"
+    },
+    "correct_answer": "d",
+    "explanation": "Alcohol is chemically inert towards cured concrete, whereas sewage, acids, and certain oils can cause chemical degradation[cite: 2]."
+  },
+  {
+    "question_number": 219,
+    "question": "The presence of algae in concrete",
+    "options": {
+      "a": "reduces its strength",
+      "b": "reduces its bond",
+      "c": "causes a large entrainment of air",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Algae contamination interferes with hydration, reduces bond strength, and introduces unwanted air voids[cite: 2]."
+  },
+  {
+    "question_number": 220,
+    "question": "Quality control means",
+    "options": {
+      "a": "extra cost",
+      "b": "a rational use of available resources",
+      "c": "adequate design to minimize cost",
+      "d": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Per the answer key mapping in the text, option e is correct[cite: 2]."
+  },
+  {
+    "question_number": 221,
+    "question": "The cube strength of concrete exceeds the cylinder strength by (in percent)",
+    "options": {
+      "a": "10 to 50",
+      "b": "10 to 15",
+      "c": "15 to 20",
+      "d": "25"
+    },
+    "correct_answer": "a",
+    "explanation": "Per the answer key, option a (10 to 50 percent higher) correctly covers the general cube-to-cylinder strength ratio range[cite: 2]."
+  },
+  {
+    "question_number": 222,
+    "question": "For cylindrical specimens, the dimension of cylinder generally used",
+    "options": {
+      "a": "D=15 cm, H=30 cm",
+      "b": "D=30 cm, H=30 cm",
+      "c": "D=15 cm, H=15 cm",
+      "d": "D=30 cm, H=15 cm"
+    },
+    "correct_answer": "a",
+    "explanation": "Standard test cylinders have a diameter of 15 cm and height of 30 cm[cite: 2]."
+  },
+  {
+    "question_number": 223,
+    "question": "For cylindrical specimens, minimum strength required should be",
+    "options": {
+      "a": "0.20 times the strength of 15 cm cubes",
+      "b": "...",
+      "c": "0.60 times the strength of 15 cm cubes",
+      "d": "0.80 times the strength of 15 cm cubes"
+    },
+    "correct_answer": "c",
+    "explanation": "Per the answer table, option c is correct[cite: 2]."
+  },
+  {
+    "question_number": 224,
+    "question": "The surface area of standard cube used for finding compressive strength of concrete is",
+    "options": {
+      "a": "225 cm^2",
+      "b": "22500 mm^2",
+      "c": "0.0225 m^2",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "A standard 15 cm x 15 cm cube face has an area of 225 cm^2, which equals 22,500 mm^2 and 0.0225 m^2[cite: 2]."
+  },
+  {
+    "question_number": 225,
+    "question": "During application of load on cylindrical specimen the failure plane makes an angle of",
+    "options": {
+      "a": "30 deg",
+      "b": "45 deg",
+      "c": "60 deg",
+      "d": "75 deg"
+    },
+    "correct_answer": "a",
+    "explanation": "Per the official answer key table, option a is designated as correct[cite: 2]."
+  },
+  {
+    "question_number": 226,
+    "question": "For given water content, workability decreases if the concrete aggregates contain an excess of",
+    "options": {
+      "a": "thin particles",
+      "b": "flat particles",
+      "c": "elongated particles",
+      "d": "flaky particles",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All non-spherical, thin, flat, elongated, or flaky particles reduce workability[cite: 2]."
+  },
+  {
+    "question_number": 227,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "according to the petrological characteristics, concrete aggregates are classified as heavy weight, normal weight and light weight",
+      "b": "according to the shape of the particles, concrete aggregates are classified as rounded, irregular, angular and flaky",
+      "c": "according to the surface texture of the particles, the concrete aggregates are classified as glossy, smooth, granular, rough, crystalline, honey combed and porous",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All classifications of aggregates based on petrology, shape, and surface texture are correct[cite: 2]."
+  },
+  {
+    "question_number": 228,
+    "question": "Water in excess of that required for chemical reaction in concrete results in",
+    "options": {
+      "a": "bleeding",
+      "b": "segregation",
+      "c": "cracks",
+      "d": "honeycombing"
+    },
+    "correct_answer": "a",
+    "explanation": "Excess mixing water rises to the surface, resulting in bleeding[cite: 2]."
+  },
+  {
+    "question_number": 229,
+    "question": "Saw dust can be rendered chemically inert by boiling it in water containing",
+    "options": {
+      "a": "ferrous sulphate",
+      "b": "potassium chloride",
+      "c": "ammonia",
+      "d": "nitric acid"
+    },
+    "correct_answer": "a",
+    "explanation": "Ferrous sulphate neutralizes organic impurities in sawdust so it can be used safely in concrete[cite: 2]."
+  },
+  {
+    "question_number": 230,
+    "question": "For given workability the grading requiring the least amount of water is one that gives",
+    "options": {
+      "a": "greatest surface area for the given cement and aggregates",
+      "b": "least surface area for the given cement and aggregates",
+      "c": "lest weight for the given cement and aggregates",
+      "d": "greatest weight for the given cement and aggregates"
+    },
+    "correct_answer": "b",
+    "explanation": "Aggregates with the least specific surface area require less water to coat all particles for a given workability[cite: 2]."
+  },
+  {
+    "question_number": 231,
+    "question": "Pick up the correct statement from the following",
+    "options": {
+      "a": "5% of the total aggregates for low workability with a coarse grading",
+      "b": "10% of the total aggregates for low workability with a coarse grading",
+      "c": "20% of the total aggregates for a mix having high workability with fine grading",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Per the answer key, all listed proportioning statements are correct[cite: 2]."
+  },
+  {
+    "question_number": 232,
+    "question": "Pozzolanic properties exist in",
+    "options": {
+      "a": "shales",
+      "b": "fly ash",
+      "c": "pumicite",
+      "d": "diatomaceous clay",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Shales, fly ash, pumicite, and diatomaceous earth all exhibit pozzolanic behavior[cite: 2]."
+  },
+  {
+    "question_number": 233,
+    "question": "For ensuring quality of concrete, use",
+    "options": {
+      "a": "single sized aggregate",
+      "b": "two sized aggregates",
+      "c": "graded aggregate",
+      "d": "coarse aggregate"
+    },
+    "correct_answer": "c",
+    "explanation": "Well-graded aggregates minimize voids and ensure optimal density and quality[cite: 2]."
+  },
+  {
+    "question_number": 234,
+    "question": "Ordinary portland cement is manufactured from",
+    "options": {
+      "a": "lime stone and clay",
+      "b": "gypsum and lime",
+      "c": "pozzolona",
+      "d": "lime, pozzolona and clay"
+    },
+    "correct_answer": "a",
+    "explanation": "OPC is manufactured primarily using calcareous (limestone) and argillaceous (clay) raw materials[cite: 2]."
+  },
+  {
+    "question_number": 235,
+    "question": "Allowable shear strength of concrete, depends upon",
+    "options": {
+      "a": "shear strength",
+      "b": "tensile strength",
+      "c": "compressive strength",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Allowable shear strength in concrete design is directly a function of its characteristic compressive strength[cite: 2]."
+  },
+  {
+    "question_number": 236,
+    "question": "The strength of concrete is decreased by",
+    "options": {
+      "a": "vibration",
+      "b": "impact",
+      "c": "fatigue",
+      "d": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Per the official answer key table, option c (fatigue) is designated[cite: 2]."
+  },
+  {
+    "question_number": 237,
+    "question": "The most appropriate method to specify the concrete mix is by",
+    "options": {
+      "a": "nominal mix ratio",
+      "b": "designed mix ratio",
+      "c": "grade of concrete",
+      "d": "degree of control"
+    },
+    "correct_answer": "b",
+    "explanation": "Designed mix ratio (design mix) is the most scientifically accurate and appropriate method for specifying concrete[cite: 2]."
+  },
+  {
+    "question_number": 238,
+    "question": "The total number of grades of ordinary concrete stipulated in IS 456:2000 are",
+    "options": {
+      "a": "3",
+      "b": "6",
+      "c": "9",
+      "d": "12"
+    },
+    "correct_answer": "b",
+    "explanation": "Ordinary concrete grades range from M10 to M20 (6 grades in total under IS 456 standards including M10, M15, M20, etc.)[cite: 2]."
+  },
+  {
+    "question_number": 239,
+    "question": "The standard size of a concrete cube for compressive strength test is",
+    "options": {
+      "a": "50 mm",
+      "b": "100 mm",
+      "c": "150 mm",
+      "d": "200 mm"
+    },
+    "correct_answer": "c",
+    "explanation": "The standard testing cube size specified is 150 mm (15 cm)[cite: 2]."
+  },
+  {
+    "question_number": 240,
+    "question": "If the various concrete ingredients i.e, cement, sand and aggregates are in the ratio 1:3:6, the grade of concrete, is",
+    "options": {
+      "a": "M100",
+      "b": "M150",
+      "c": "M200",
+      "d": "M250"
+    },
+    "correct_answer": "c",
+    "explanation": "Per the answer table mapping, option c is indicated[cite: 2]."
+  },
+  {
+    "question_number": 241,
+    "question": "Permissible compressive strength of M150 concrete grade is",
+    "options": {
+      "a": "100 kg/cm^2",
+      "b": "150 kg/cm^2",
+      "c": "200 kg/cm^2",
+      "d": "250 kg/cm^2"
+    },
+    "correct_answer": "b",
+    "explanation": "M150 corresponds to a characteristic compressive strength of 150 kg/cm^2 (approx 15 N/mm^2)[cite: 2]."
+  },
+  {
+    "question_number": 242,
+    "question": "Permissible compressive strength of M150 concrete grade is",
+    "options": {
+      "a": "100 kg/m^2",
+      "b": "15 kg/cm^2",
+      "c": "15 N/mm^2",
+      "d": "25 kg/mm^2"
+    },
+    "correct_answer": "c",
+    "explanation": "Per the answer table, 15 N/mm^2 is the correct unit representation for M150[cite: 2]."
+  },
+  {
+    "question_number": 243,
+    "question": "Permissible compressive strength of M200 concrete grade is",
+    "options": {
+      "a": "100 kg/cm^2",
+      "b": "150 kg/cm^2",
+      "c": "200 kg/cm^2",
+      "d": "250 kg/cm^2"
+    },
+    "correct_answer": "c",
+    "explanation": "M200 grade corresponds to 200 kg/cm^2[cite: 2]."
+  },
+  {
+    "question_number": 244,
+    "question": "The ratio of various ingredients (cement, sand, aggregates) in concrete of grade M150 is",
+    "options": {
+      "a": "1:2:4",
+      "b": "1:3:6",
+      "c": "1:1.5:3",
+      "d": "1:1:2"
+    },
+    "correct_answer": "c",
+    "explanation": "M150 concrete traditionally approximates a nominal mix ratio of 1:1.5:3[cite: 2]."
+  },
+  {
+    "question_number": 245,
+    "question": "Permissible compressive strength of M250 concrete grade is",
+    "options": {
+      "a": "100 kg/cm^2",
+      "b": "150 kg/cm^2",
+      "c": "200 kg/cm^2",
+      "d": "250 kg/cm^2"
+    },
+    "correct_answer": "d",
+    "explanation": "M250 grade corresponds to 250 kg/cm^2[cite: 2]."
+  },
+  {
+    "question_number": 246,
+    "question": "Permissible compressive strength of M300 concrete grade is",
+    "options": {
+      "a": "100 kg/cm^2",
+      "b": "150 kg/cm^2",
+      "c": "200 kg/cm^2",
+      "d": "300 kg/cm^2"
+    },
+    "correct_answer": "d",
+    "explanation": "M300 grade corresponds to 300 kg/cm^2[cite: 2]."
+  },
+  {
+    "question_number": 247,
+    "question": "Internal friction between the ingredients of concrete, is decreased by using",
+    "options": {
+      "a": "less water",
+      "b": "fine aggregates",
+      "c": "rich mix",
+      "d": "more water and coarse aggregate"
+    },
+    "correct_answer": "a",
+    "explanation": "Per the official answer key table, option a is designated[cite: 2]."
+  },
+  {
+    "question_number": 248,
+    "question": "Le-Chatelier's apparatus is used for testing",
+    "options": {
+      "a": "soundness of cement",
+      "b": "hardness of cement",
+      "c": "strength of cement",
+      "d": "durability of cement"
+    },
+    "correct_answer": "a",
+    "explanation": "Le-Chatelier apparatus measures unsoundness due to uncombined lime in cement[cite: 2]."
+  },
+  {
+    "question_number": 249,
+    "question": "Slump test is done for",
+    "options": {
+      "a": "clay",
+      "b": "sand",
+      "c": "lime",
+      "d": "concrete"
+    },
+    "correct_answer": "d",
+    "explanation": "The slump test is exclusively performed on fresh concrete[cite: 2]."
+  },
+  {
+    "question_number": 250,
+    "question": "Workability of concrete may be improved by adding",
+    "options": {
+      "a": "fly ash",
+      "b": "hydrated lime",
+      "c": "calcium chloride",
+      "d": "bentonite",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed admixtures and mineral additions can enhance workability properties[cite: 2]."
+  },
+  {
+    "question_number": 251,
+    "question": "Workability of concrete may be improved by adding",
+    "options": {
+      "a": "air-entering agent",
+      "b": "foaming agent",
+      "c": "oily agent",
+      "d": "aluminium compound",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed agents act as workability-improving or air-entraining admixtures[cite: 2]."
+  },
+  {
+    "question_number": 252,
+    "question": "Workability of concrete is directly proportional to",
+    "options": {
+      "a": "grading of the aggregate",
+      "b": "time of transit",
+      "c": "aggregate cement ratio",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Proper grading of aggregates directly improves workability[cite: 2]."
+  },
+  {
+    "question_number": 253,
+    "question": "Workability of concrete is inversely proportional to",
+    "options": {
+      "a": "grading of the aggregate",
+      "b": "time of transit",
+      "c": "aggregate cement ratio",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "A higher aggregate-cement ratio means less paste is available to lubricate the mix, reducing workability[cite: 2]."
+  },
+  {
+    "question_number": 254,
+    "question": "The shrinkage of concrete",
+    "options": {
+      "a": "is proportional to water content in the mix",
+      "b": "is proportional to cement concrete",
+      "c": "increases with age of concrete",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Shrinkage is affected by water content, cement paste volume, and increases over time as moisture continues to dissipate[cite: 2]."
+  },
+  {
+    "question_number": 255,
+    "question": "Addition of pozzolana to cement causes",
+    "options": {
+      "a": "reduction in permeability",
+      "b": "loss of heat of hydration",
+      "c": "reduction in bleeding",
+      "d": "increase in curing time",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Pozzolanas reduce permeability, lower hydration heat, decrease bleeding, and require careful curing[cite: 2]."
+  },
+  {
+    "question_number": 256,
+    "question": "For a good concrete",
+    "options": {
+      "a": "aggregates should be hard and durable",
+      "b": "cement should be sufficient to produce the required strength",
+      "c": "water should be free form organic material",
+      "d": "mixing of ingredients should be done thoroughly so as to produce homogeneity",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed conditions are essential requirements for producing good quality concrete[cite: 2]."
+  },
+  {
+    "question_number": 257,
+    "question": "For the construction of RCC slab, column, beam and walls, the minimum grade of concrete mixed is used for",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:1:2",
+      "c": "1:1.5:3",
+      "d": "1:2:4"
+    },
+    "correct_answer": "d",
+    "explanation": "Per the answer table, option d is designated as correct[cite: 2]."
+  },
+  {
+    "question_number": 258,
+    "question": "M100 grade of concrete approximates",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:1:2",
+      "c": "1:1.5:3",
+      "d": "1:2:4"
+    },
+    "correct_answer": "a",
+    "explanation": "M100 grade concrete corresponds to the nominal mix proportion of 1:3:6[cite: 2]."
+  },
+  {
+    "question_number": 259,
+    "question": "M150 grade of concrete approximates",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:1:2",
+      "c": "1:2:4",
+      "d": "1:1.5:3"
+    },
+    "correct_answer": "c",
+    "explanation": "M150 grade concrete corresponds to the nominal mix proportion of 1:2:4[cite: 2]."
+  },
+  {
+    "question_number": 260,
+    "question": "Strength of concrete with passage of time",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "fluctuates",
+      "d": "remains constants"
+    },
+    "correct_answer": "a",
+    "explanation": "Concrete continuously gains strength as long as moisture is present for ongoing cement hydration[cite: 2]."
+  },
+  {
+    "question_number": 261,
+    "question": "Concrete gains strength due to",
+    "options": {
+      "a": "chemical reaction of cement with sand and coarse aggregates",
+      "b": "evaporation of water from concrete",
+      "c": "hydration of cement",
+      "d": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Strength development is driven specifically by the chemical hydration reaction of cement[cite: 2]."
+  },
+  {
+    "question_number": 262,
+    "question": "The nature of fresh concrete is",
+    "options": {
+      "a": "elastic",
+      "b": "plastic",
+      "c": "rigid",
+      "d": "all of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Freshly mixed concrete behaves primarily as a plastic material before it sets and hardens[cite: 2]."
+  },
+  {
+    "question_number": 263,
+    "question": "Too wet concrete may cause",
+    "options": {
+      "a": "weakness of concrete",
+      "b": "excessive laitance",
+      "c": "segregation",
+      "d": "lower density",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Excess water leads to segregation, laitance, low density, and reduced strength[cite: 2]."
+  },
+  {
+    "question_number": 264,
+    "question": "The process of proper and accurate measurement of concrete ingredients for uniform proportion, is known",
+    "options": {
+      "a": "grading",
+      "b": "curing",
+      "c": "mixing",
+      "d": "batching"
+    },
+    "correct_answer": "d",
+    "explanation": "Measuring concrete materials by weight or volume for a batch is called batching[cite: 2]."
+  },
+  {
+    "question_number": 265,
+    "question": "Proper batching ensures",
+    "options": {
+      "a": "economy",
+      "b": "durability",
+      "c": "workability",
+      "d": "strength",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "Accurate batching guarantees uniformity, ensuring strength, durability, workability, and cost-efficiency[cite: 2]."
+  },
+  {
+    "question_number": 266,
+    "question": "Batching error means inaccuracy in the quantity of",
+    "options": {
+      "a": "aggregates",
+      "b": "cement",
+      "c": "water",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Batching errors can occur in aggregates, cement, or water measurements[cite: 2]."
+  },
+  {
+    "question_number": 267,
+    "question": "In the batching of materials, the percentage of batch quantity of ingredients should be measured to a tolerance of",
+    "options": {
+      "a": "+-1.0",
+      "b": "+-2.0",
+      "c": "+-3.0",
+      "d": "+-4.0"
+    },
+    "correct_answer": "a",
+    "explanation": "Standard specifications require tight tolerances (such as +-1% for cement and water) during batching[cite: 2]."
+  },
+  {
+    "question_number": 268,
+    "question": "The process of mixing some mortar in the mixer at the beginning of the fresh concrete mixing is called",
+    "options": {
+      "a": "buttering",
+      "b": "borrowing",
+      "c": "initiating",
+      "d": "accelerating"
+    },
+    "correct_answer": "a",
+    "explanation": "Buttering the mixer involves coating the drum interior with mortar to prevent loss of cement paste from the first batch[cite: 2]."
+  },
+  {
+    "question_number": 269,
+    "question": "During manufacture of concrete minimum period for which mixing is done",
+    "options": {
+      "a": "1 min",
+      "b": "1.5 min",
+      "c": "2 min",
+      "d": "2.5 min"
+    },
+    "correct_answer": "b",
+    "explanation": "Machine mixing should be performed for a minimum of 1.5 to 2 minutes (1.5 min per answer table)[cite: 2]."
+  },
+  {
+    "question_number": 270,
+    "question": "The concrete mixers are normally classified on the basis of",
+    "options": {
+      "a": "the technique of discharging the mixed concrete",
+      "b": "capacity of batch handled",
+      "c": "the number of drums",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Mixers are classified by discharge method, batch capacity, and drum configuration[cite: 2]."
+  },
+  {
+    "question_number": 271,
+    "question": "The capacity of concrete mixer is expressed in terms of",
+    "options": {
+      "a": "total volume of concrete produced per day",
+      "b": "total volume of concrete produced in 8 hrs",
+      "c": "total volume of concrete produced per hr",
+      "d": "volume of concrete mix handled per batch"
+    },
+    "correct_answer": "d",
+    "explanation": "Mixer capacity is rated by the volume of mixed concrete produced per batch[cite: 2]."
+  },
+  {
+    "question_number": 272,
+    "question": "The objective of mixing concrete materials are the following except",
+    "options": {
+      "a": "coat the surface of all aggregate particles with cement paste",
+      "b": "blend all the ingredients into a uniform mass",
+      "c": "obtain concrete of uniform colour and grading",
+      "d": "obtain concrete of desired workability"
+    },
+    "correct_answer": "d",
+    "explanation": "Per the answer table, option d is designated as the exception among the primary direct mixing objectives[cite: 2]."
+  },
+  {
+    "question_number": 273,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "The weight of ingredients of concrete mix, is taken in kilograms",
+      "b": "water and aggregates is measured in liters",
+      "c": "the finished concrete is measured in cubic metres",
+      "d": "20 bags of cement make one tonne",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed standard measurement units and conversions for concrete work are correct[cite: 2]."
+  },
+  {
+    "question_number": 274,
+    "question": "For batching 1:3:6 and water cement ratio 0.6 both by weight, the quantity of water required per bag, is",
+    "options": {
+      "a": "10 kg",
+      "b": "15 kg",
+      "c": "20 kg",
+      "d": "30 kg"
+    },
+    "correct_answer": "d",
+    "explanation": "With a 50 kg cement bag and a 0.6 water-cement ratio, water required = 50 * 0.6 = 30 kg[cite: 2]."
+  },
+  {
+    "question_number": 275,
+    "question": "For batching 1:3:6 concrete mix by volume, the ingredients required per bag for 50kg cement are",
+    "options": {
+      "a": "70 liters of sand 120 liters of aggregates",
+      "b": "70 kg of sand 140 liters of aggregates",
+      "c": "105 liters of sand and 140 liters of aggregates",
+      "d": "105 liters of sand and 210 liters of aggregates"
+    },
+    "correct_answer": "d",
+    "explanation": "Taking 1 bag of cement = 35 liters volume: sand = 3 * 35 = 105 liters, coarse aggregates = 6 * 35 = 210 liters[cite: 2]."
+  },
+  {
+    "question_number": 276,
+    "question": "The dimension of a 35 litre formal for measuring aggregates by volume, are",
+    "options": {
+      "a": "length 30 cm, breadth 25 cm, height 30 cm",
+      "b": "length 39 cm, breadth 25 cm, height 32 cm",
+      "c": "length 27 cm, breadth 27 cm, height 48 cm",
+      "d": "length 220 cm, breadth 25 cm, height 40 cm"
+    },
+    "correct_answer": "c",
+    "explanation": "Per the answer table, option c provides the correct container dimensions corresponding to 35 liters capacity[cite: 2]."
+  },
+  {
+    "question_number": 277,
+    "question": "In case of hand mixing of concrete, the extra cement to be added is",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "15%",
+      "d": "20%"
+    },
+    "correct_answer": "b",
+    "explanation": "An extra 10% cement is added during hand mixing to compensate for cement loss and incomplete mixing efficiency[cite: 2]."
+  },
+  {
+    "question_number": 278,
+    "question": "The process of mixing, transporting, placing and compacting concrete using Ordinary Portland Cement should not take more than",
+    "options": {
+      "a": "30 minutes",
+      "b": "40 minutes",
+      "c": "60 minutes",
+      "d": "75 minutes"
+    },
+    "correct_answer": "a",
+    "explanation": "Initial setting and workability loss dictate that operations using OPC should be completed within 30 minutes of water addition[cite: 2]."
+  },
+  {
+    "question_number": 279,
+    "question": "Placing of concrete should preferably be done at a temperature of",
+    "options": {
+      "a": "0 deg C",
+      "b": "10 deg C",
+      "c": "20 deg C",
+      "d": "27 +- 2 deg C"
+    },
+    "correct_answer": "d",
+    "explanation": "Standard laboratory and placement temperature conditions are maintained at 27 +- 2 deg C[cite: 2]."
+  },
+  {
+    "question_number": 280,
+    "question": "To prevent segregation, the maximum vertical height for placing concrete, is",
+    "options": {
+      "a": "100 cm",
+      "b": "125 cm",
+      "c": "150 cm",
+      "d": "200 cm"
+    },
+    "correct_answer": "c",
+    "explanation": "Concrete should not be dropped from a height greater than 150 cm (1.5 m) to prevent segregation of coarse aggregates[cite: 2]."
+  },
+  {
+    "question_number": 281,
+    "question": "For concreting of tunnel linings, transportation of concrete is done by",
+    "options": {
+      "a": "pans",
+      "b": "wheel borrows",
+      "c": "containers",
+      "d": "pumps"
+    },
+    "correct_answer": "d",
+    "explanation": "Pumping concrete is the most efficient method for confined spaces like tunnel linings[cite: 2]."
+  },
+  {
+    "question_number": 282,
+    "question": "Transport of concrete by pumps, is done for a distance of",
+    "options": {
+      "a": "100 m",
+      "b": "200 m",
+      "c": "300 m",
+      "d": "400 m"
+    },
+    "correct_answer": "d",
+    "explanation": "Per the answer table, option d (400 m) represents the maximum efficient pumping distance range[cite: 2]."
+  },
+  {
+    "question_number": 283,
+    "question": "'Tremie' is a",
+    "options": {
+      "a": "bucket",
+      "b": "water-tight pipe",
+      "c": "bag",
+      "d": "prepack concrete"
+    },
+    "correct_answer": "b",
+    "explanation": "A tremie is a water-tight pipe used for pouring concrete underwater[cite: 2]."
+  },
+  {
+    "question_number": 284,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "the diameter of the pipe line used for transportation of concrete by pumps does not exceed 30 cm",
+      "b": "the slump of the concrete to be pumped should not be less that 5 cm and more than 10 cm",
+      "c": "the water cement ratio of concrete to be pumped is kept between 0.5 to 0.65",
+      "d": "number of bends provided in the pipe line should be minimum",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed technical parameters for pumped concrete operations are correct[cite: 2]."
+  },
+  {
+    "question_number": 285,
+    "question": "Concrete is unsuitable for compaction by vibrator if it is",
+    "options": {
+      "a": "dry",
+      "b": "earth moist",
+      "c": "semi-plastic",
+      "d": "plastic"
+    },
+    "correct_answer": "d",
+    "explanation": "Per the answer table, option d is designated as correct[cite: 2]."
+  },
+  {
+    "question_number": 286,
+    "question": "While compacting the concrete by a mechanical vibrator, the slump should not exceed",
+    "options": {
+      "a": "2.5 cm",
+      "b": "5.0 cm",
+      "c": "7.5 cm",
+      "d": "10 cm"
+    },
+    "correct_answer": "c",
+    "explanation": "Mixes intended for mechanical vibration typically have slumps not exceeding 7.5 cm to avoid segregation[cite: 2]."
+  },
+  {
+    "question_number": 287,
+    "question": "Compaction of mechanical vibrations is suitable for",
+    "options": {
+      "a": "all the grades of concrete",
+      "b": "all the structural elements",
+      "c": "all the mixes except very plastic mixes",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Mechanical vibration is universally applicable across grades and structural elements[cite: 2]."
+  },
+  {
+    "question_number": 288,
+    "question": "Surface vibrator is effective only when the thickness of concrete member does not exceed",
+    "options": {
+      "a": "100 mm",
+      "b": "150 mm",
+      "c": "200 mm",
+      "d": "250 mm"
+    },
+    "correct_answer": "c",
+    "explanation": "Surface vibrators are generally effective for shallow sections up to 200 mm (20 cm) thick[cite: 2]."
+  },
+  {
+    "question_number": 289,
+    "question": "A surface vibrator for compaction of concrete is preferred for all of the following except",
+    "options": {
+      "a": "raft footings",
+      "b": "columns",
+      "c": "RCC slab",
+      "d": "road pavements"
+    },
+    "correct_answer": "b",
+    "explanation": "Columns are deep vertical members unsuited for surface vibrators; internal needle vibrators are required instead[cite: 2]."
+  },
+  {
+    "question_number": 290,
+    "question": "Curing",
+    "options": {
+      "a": "reduces the shrinkage of concrete",
+      "b": "preserves the properties of concrete",
+      "c": "prevents the loss of water by evaporation",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Proper curing retains moisture, controls shrinkage, and preserves long-term concrete properties[cite: 2]."
+  },
+  {
+    "question_number": 291,
+    "question": "The process by which fresh cement concrete is wetted by rain water is known as",
+    "options": {
+      "a": "curing",
+      "b": "wetting",
+      "c": "raining",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Wetting concrete to maintain moisture is categorized under curing processes[cite: 2]."
+  },
+  {
+    "question_number": 292,
+    "question": "The process of hardening the concrete by keeping its surface moist is known as",
+    "options": {
+      "a": "placing",
+      "b": "wetting",
+      "c": "curing",
+      "d": "compacting"
+    },
+    "correct_answer": "c",
+    "explanation": "Keeping concrete moist to promote continued hydration during hardening is called curing[cite: 2]."
+  },
+  {
+    "question_number": 293,
+    "question": "Generally curing is allowed only after concreting of",
+    "options": {
+      "a": "24 hours",
+      "b": "7 days",
+      "c": "fully set",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Curing water is applied after the concrete has sufficiently set to prevent surface washing[cite: 2]."
+  },
+  {
+    "question_number": 294,
+    "question": "Steam curing is used in",
+    "options": {
+      "a": "columns only",
+      "b": "long slabs and column",
+      "c": "mass production of precast concrete",
+      "d": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Steam curing accelerates strength gain and is widely used in precast concrete factories[cite: 2]."
+  },
+  {
+    "question_number": 295,
+    "question": "Steam curing is not used with",
+    "options": {
+      "a": "ordinary portland cement",
+      "b": "high alumina cement",
+      "c": "rapid hardening cement",
+      "d": "all of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "High alumina cement undergoes conversion at high temperatures, making steam curing unsuitable[cite: 2]."
+  },
+  {
+    "question_number": 296,
+    "question": "Curing of pavements, floors, roofs and slabs is done by",
+    "options": {
+      "a": "membrane method",
+      "b": "ponding method",
+      "c": "covering surface with bags",
+      "d": "sprinkling water method"
+    },
+    "correct_answer": "b",
+    "explanation": "Ponding is an ideal curing method for horizontal surfaces like slabs and pavements[cite: 2]."
+  },
+  {
+    "question_number": 297,
+    "question": "Curing period is minimum for concrete using",
+    "options": {
+      "a": "ordinary portland cement",
+      "b": "high alumina cement",
+      "c": "rapid hardening cement",
+      "d": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Rapid hardening cement achieves strength faster, reducing the minimum required curing duration[cite: 2]."
+  },
+  {
+    "question_number": 298,
+    "question": "Curing of concrete for long period ensures better",
+    "options": {
+      "a": "strength",
+      "b": "wear resistance",
+      "c": "water tightness and durability",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Extended curing improves overall strength, wear resistance, impermeability, and durability[cite: 2]."
+  },
+  {
+    "question_number": 299,
+    "question": "Under normal conditions using an ordinary cement, the period of removal of the form work is",
+    "options": {
+      "a": "7 days for beams soffits",
+      "b": "14 days for bottom of slabs of spans 4.6 m and more",
+      "c": "21 days for bottom of beams over 6m spans",
+      "d": "2 days for vertical sides of columns",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All listed formwork removal periods conform to standard civil engineering codes of practice[cite: 2]."
+  },
+  {
+    "question_number": 300,
+    "question": "Pick up the correct statement from the following:",
+    "options": {
+      "a": "water enables chemical reaction to take place with cement",
+      "b": "water lubricates the mixture of gravel, sand and cement",
+      "c": "only a small quantity of water is required for hydration of cement",
+      "d": "strength of concrete structure largely depends upon its workability",
+      "e": "all of the above"
+    },
+    "correct_answer": "e",
+    "explanation": "All statements accurately summarize the roles and importance of water in concrete technology[cite: 2]."
+  }
+]

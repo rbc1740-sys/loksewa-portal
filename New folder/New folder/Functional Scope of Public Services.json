@@ -1,0 +1,522 @@
+{
+  "document_title": "Public Service Delivery and Governance Multiple Choice Questions",
+  "total_questions": 43,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "From which decade is the concept of the public service considered to have emerged?",
+      "options": {
+        "a": "1970s",
+        "b": "1980s",
+        "c": "New Public Administration",
+        "d": "1990s"
+      },
+      "correct_answer": "c",
+      "explanation": "The evolutionary framework of public service administration paradigms aligns closely with the foundational phases of New Public Administration[cite: 12]."
+    },
+    {
+      "question_number": 2,
+      "question": "What is the principle called that emerged in the 80s advocating reform public service delivery?",
+      "options": {
+        "a": "New Public Service",
+        "b": "New Public Management",
+        "c": "New Public Governance",
+        "d": "Traditional Public Administration"
+      },
+      "correct_answer": "b",
+      "explanation": "New Public Management (NPM) principles emerged prominently during the 1980s to marketize, decentralize, and reform traditional public service delivery[cite: 12]."
+    },
+    {
+      "question_number": 3,
+      "question": "Which public management concept developed the idea that \"citizens are not customers but also service providers\"?",
+      "options": {
+        "a": "New Public Management (NPM)",
+        "b": "New Public Service (NPS)",
+        "c": "New Public Governance (NPG)",
+        "d": "New Public Passion (NPP)"
+      },
+      "correct_answer": "c",
+      "explanation": "New Public Governance (NPG) emphasizes a pluralistic state model where citizens act not merely as passive customers, but as active co-producers and service providers[cite: 12]."
+    },
+    {
+      "question_number": 4,
+      "question": "The New Public Management System is introduced by:",
+      "options": {
+        "a": "Margaret Thatcher",
+        "b": "Christopher Hood",
+        "c": "Ronald Reagan",
+        "d": "Woodrow Wilson"
+      },
+      "correct_answer": "b",
+      "explanation": "Christopher Hood is widely recognized as the prominent academic who formulated and coined the term New Public Management (NPM)[cite: 12]."
+    },
+    {
+      "question_number": 5,
+      "question": "\"Service should be around the people, not the people around the service.\" This statement relates to which concept of service delivery management framework?",
+      "options": {
+        "a": "New Public Service",
+        "b": "New Public Management",
+        "c": "Public Administration",
+        "d": "New Public Governance"
+      },
+      "correct_answer": "a",
+      "explanation": "A citizen-centric focus that prioritizes community needs over bureaucratic convenience is a core tenet of the New Public Service framework[cite: 12]."
+    },
+    {
+      "question_number": 6,
+      "question": "Who are the primary theorists associated with the formulation of the New Public Service?",
+      "options": {
+        "a": "David Osborne and Ted Gaebler",
+        "b": "Denhard and Denhard",
+        "c": "Woodrow Wilson and Max Weber",
+        "d": "Herbert Simon and Dwight Waldo"
+      },
+      "correct_answer": "b",
+      "explanation": "Janet V. Denhardt and Robert B. Denhardt are the primary scholars and theorists who formulated the New Public Service (NPS) theory[cite: 12]."
+    },
+    {
+      "question_number": 7,
+      "question": "What is the central slogan/core tenet of the New Public Service approach?",
+      "options": {
+        "a": "\"Steer, don't row\"",
+        "b": "\"Row, don't steer\"",
+        "c": "\"Serve, rather than steer\"",
+        "d": "\"Empower, don't serve\""
+      },
+      "correct_answer": "c",
+      "explanation": "The core philosophy of NPS is \"Serve, rather than steer,\" emphasizing democratic dialogue, community engagement, and public service over entrepreneurial control[cite: 12]."
+    },
+    {
+      "question_number": 8,
+      "question": "The term New Public Governance came into use at...",
+      "options": {
+        "a": "Early 1990s",
+        "b": "Late 1990s",
+        "c": "Early 2000s",
+        "d": "Late 2000s / Modern era"
+      },
+      "correct_answer": "d",
+      "explanation": "The paradigm of New Public Governance gained prominence in contemporary administrative discourse reflecting network-based governance structures[cite: 12]."
+    },
+    {
+      "question_number": 9,
+      "question": "What is public service delivery?",
+      "options": {
+        "a": "Responsibility of the state",
+        "b": "Right of the people",
+        "c": "Core function of government",
+        "d": "All of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Public service delivery represents both the fundamental constitutional responsibility of the state and an enforceable right of the citizens[cite: 12]."
+    },
+    {
+      "question_number": 10,
+      "question": "What is the primary objective of public service delivery?",
+      "options": {
+        "a": "Serving private sector interests",
+        "b": "Increasing political influence",
+        "c": "Enhancing citizen welfare",
+        "d": "None of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "The fundamental goal of public service delivery is to enhance citizen welfare, social justice, and public good[cite: 12]."
+    },
+    {
+      "question_number": 11,
+      "question": "What are the bases of public service delivery in Nepal?",
+      "options": {
+        "a": "Constitution of Nepal",
+        "b": "Civil Service Act, 2049",
+        "c": "Service Delivery Campaign Directive, 2065",
+        "d": "All of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Public service delivery in Nepal is grounded across multiple legal and policy instruments including the Constitution, Civil Service Act, and administrative directives[cite: 12]."
+    },
+    {
+      "question_number": 12,
+      "question": "What is essential for effective service delivery?",
+      "options": {
+        "a": "Fixed contact points",
+        "b": "Customer satisfaction",
+        "c": "Defined cost and time",
+        "d": "All of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Effective service delivery relies on clear contact points, measured customer satisfaction, and predictable parameters of cost and processing time[cite: 12]."
+    },
+    {
+      "question_number": 13,
+      "question": "Which of the following is NOT a medium of public service delivery?",
+      "options": {
+        "a": "Complaint box",
+        "b": "Online platform",
+        "c": "Service counter",
+        "d": "All of the above are valid mediums"
+      },
+      "correct_answer": "d",
+      "explanation": "Complaint boxes, digital online portals, and physical service counters are all standard operational mediums utilized in public service delivery[cite: 12]."
+    },
+    {
+      "question_number": 14,
+      "question": "Which of the following is/are involved in public service delivery?",
+      "options": {
+        "a": "Government",
+        "b": "Private sector",
+        "c": "NGOs",
+        "d": "All of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Modern governance models involve a pluralistic approach where government agencies, private sectors, and non-governmental organizations participate in service delivery[cite: 12]."
+    },
+    {
+      "question_number": 15,
+      "question": "Which country implemented the \"National Smiling Movement\" for better service delivery?",
+      "options": {
+        "a": "USA",
+        "b": "UK",
+        "c": "Malaysia",
+        "d": "Singapore"
+      },
+      "correct_answer": "c",
+      "explanation": "Malaysia introduced the \"National Smiling Movement\" as part of administrative cultural reforms to promote courteous and responsive public service[cite: 12]."
+    },
+    {
+      "question_number": 16,
+      "question": "Who developed Next Steps Agency for the efficient & citizen-centric public service delivery in UK?",
+      "options": {
+        "a": "David Cameron",
+        "b": "John Major",
+        "c": "Margaret Thatcher",
+        "d": "Tony Blair"
+      },
+      "correct_answer": "c",
+      "explanation": "The Next Steps Executive Agencies initiative in the UK civil service was launched during the premiership of Margaret Thatcher[cite: 12]."
+    },
+    {
+      "question_number": 17,
+      "question": "Principles of \"Service First\" was launched by Tony Blair's in 1998. How many principles were there?",
+      "options": {
+        "a": "Six",
+        "b": "Ten",
+        "c": "Nine",
+        "d": "Fourteen"
+      },
+      "correct_answer": "c",
+      "explanation": "The \"Service First\" initiative introduced in the UK in 1998 was anchored upon nine core principles of quality public service delivery[cite: 12]."
+    },
+    {
+      "question_number": 18,
+      "question": "Which of the following falls under the categories of mandatory public service?",
+      "options": {
+        "a": "Maintaining peace & order",
+        "b": "Promote public welfare",
+        "c": "Service related to benefit of weak & marginalized communities",
+        "d": "Implementing laws & regulation"
+      },
+      "correct_answer": "a",
+      "explanation": "Maintaining peace, order, and national security represents the primary sovereign mandatory function of the state[cite: 12]."
+    },
+    {
+      "question_number": 19,
+      "question": "Government delivers public service to play the role of...",
+      "options": {
+        "a": "Regulation",
+        "b": "Provision",
+        "c": "Facilitation",
+        "d": "All of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "In public service management, the government fulfills multiple roles encompassing regulatory control, direct provision, and overall economic facilitation[cite: 12]."
+    },
+    {
+      "question_number": 20,
+      "question": "What factor(s) is/are to be considered in public service delivery?",
+      "options": {
+        "a": "Identification of service needs",
+        "b": "Standards of service delivery",
+        "c": "Prioritization of services",
+        "d": "All of above"
+      },
+      "correct_answer": "d",
+      "explanation": "Comprehensive service delivery requires identifying public needs, establishing clear standards, and prioritizing services efficiently[cite: 12]."
+    },
+    {
+      "question_number": 21,
+      "question": "Which of the following is/are the characteristics of public service?",
+      "options": {
+        "a": "Non-profit oriented",
+        "b": "Service provided as per law",
+        "c": "Equal access to all",
+        "d": "All of above"
+      },
+      "correct_answer": "d",
+      "explanation": "Public services are characterized by non-profit orientations, statutory legal backing, and universal accessibility for all citizens[cite: 12]."
+    },
+    {
+      "question_number": 22,
+      "question": "What is/are measure(s) to promote transparency in public service in Nepal?",
+      "options": {
+        "a": "By maintaining social justice and social security",
+        "b": "Discouraging irregularities and corruption",
+        "c": "By utilizing Right to Information",
+        "d": "All of above"
+      },
+      "correct_answer": "d",
+      "explanation": "Promoting transparency involves enforcing the Right to Information (RTI), curbing corruption, and ensuring equitable social security and justice[cite: 12]."
+    },
+    {
+      "question_number": 23,
+      "question": "Which of the following is not a valid principle for public service delivery?",
+      "options": {
+        "a": "Responsiveness",
+        "b": "Continuity",
+        "c": "Accessibility",
+        "d": "Limited choice"
+      },
+      "correct_answer": "d",
+      "explanation": "Limited choice is an administrative drawback rather than a principle; valid public service delivery principles emphasize citizen choice, accessibility, and continuity[cite: 12]."
+    },
+    {
+      "question_number": 24,
+      "question": "In which articles of the constitution of Nepal, has guaranteed about the \"Public Service\"?",
+      "options": {
+        "a": "Article 41",
+        "b": "Article 51",
+        "c": "Article 56",
+        "d": "Article 61"
+      },
+      "correct_answer": "b",
+      "explanation": "Article 51 of the Constitution of Nepal outlines the policies of the State concerning governance, public service delivery, and socio-economic transformation[cite: 12]."
+    },
+    {
+      "question_number": 25,
+      "question": "Every government office should have a spokesperson is provisioned in?",
+      "options": {
+        "a": "Good Governance Act-2064",
+        "b": "Right to Information Act-2064",
+        "c": "Local Government Operation Act-2074",
+        "d": "Civil Service Act-2049"
+      },
+      "correct_answer": "a",
+      "explanation": "The Good Governance (Management and Operation) Act, 2064 mandates that every government office must designate an official spokesperson to ensure transparency[cite: 12]."
+    },
+    {
+      "question_number": 26,
+      "question": "From which Prime Minister's tenure the Hello Sarkar portal was launched in Nepal?",
+      "options": {
+        "a": "K.P. Sharma Oli",
+        "b": "Sushil Koirala",
+        "c": "Puspa Kamal Dahal",
+        "d": "Dr. Baburam Bhattarai"
+      },
+      "correct_answer": "d",
+      "explanation": "The Hello Sarkar public grievance redressal desk and portal was launched during the tenure of Prime Minister Dr. Baburam Bhattarai[cite: 12]."
+    },
+    {
+      "question_number": 27,
+      "question": "When was Hello Sarkar extended to 24-hour service inaugurated in Nepal?",
+      "options": {
+        "a": "2080, Bhadra 17",
+        "b": "2080, Bhadra 30",
+        "c": "2080, Ashwin 04",
+        "d": "2080, Paush 01"
+      },
+      "correct_answer": "a",
+      "explanation": "Hello Sarkar was formally expanded into a round-the-clock (24-hour) operational service starting on Bhadra 17, 2080 BS[cite: 12]."
+    },
+    {
+      "question_number": 28,
+      "question": "The United Nations Public Service Day is celebrated on ________ of every year.",
+      "options": {
+        "a": "December 24",
+        "b": "June 23",
+        "c": "December 27",
+        "d": "June 17"
+      },
+      "correct_answer": "b",
+      "explanation": "June 23 is officially designated by the United Nations as Public Service Day to honor the value of public service in development[cite: 12]."
+    },
+    {
+      "question_number": 29,
+      "question": "Which of the following service falls under the free health service provided by the government of Nepal through its administrative mechanism?",
+      "options": {
+        "a": "Mandatory Service",
+        "b": "Welfare service",
+        "c": "Emergency Service",
+        "d": "Regulatory service"
+      },
+      "correct_answer": "b",
+      "explanation": "Targeted free health care provided by the state falls under welfare services aimed at social protection for vulnerable populations[cite: 12]."
+    },
+    {
+      "question_number": 30,
+      "question": "In which date, the concept mobile public service evolved in Nepal?",
+      "options": {
+        "a": "2064 B.S.",
+        "b": "2056 B.S.",
+        "c": "2060 B.S.",
+        "d": "2074 B.S."
+      },
+      "correct_answer": "a",
+      "explanation": "The mobile public service delivery concept (bringing administrative services directly to remote doorsteps) evolved and expanded around 2064 BS[cite: 12]."
+    },
+    {
+      "question_number": 31,
+      "question": "When was Government of Nepal launched Hello Sarkar program for the General Public?",
+      "options": {
+        "a": "2068, Kartik 17",
+        "b": "2069, Baishakh 01",
+        "c": "2068, Push 10",
+        "d": "2068, Push 03"
+      },
+      "correct_answer": "a",
+      "explanation": "The Hello Sarkar program was officially launched for public grievance handling on Kartik 17, 2068 BS[cite: 12]."
+    },
+    {
+      "question_number": 32,
+      "question": "Which of the following helpline number is launched by Hello Sarkar for the general public?",
+      "options": {
+        "a": "103",
+        "b": "1111",
+        "c": "113",
+        "d": "1100"
+      },
+      "correct_answer": "b",
+      "explanation": "The dedicated toll-free shortcode telephone helpline established for Hello Sarkar is 1111[cite: 12]."
+    },
+    {
+      "question_number": 33,
+      "question": "What is/are the legal instruments of public service delivery in Nepal?",
+      "options": {
+        "a": "Civil Service Act-2049",
+        "b": "Good Governance Act-2064",
+        "c": "Directive principles of state policy",
+        "d": "All of Above"
+      },
+      "correct_answer": "d",
+      "explanation": "Nepal's public service delivery is backed by multiple legal frameworks including the Civil Service Act, Good Governance Act, and constitutional state policies[cite: 12]."
+    },
+    {
+      "question_number": 34,
+      "question": "Which of the following is/are the principle(s) of public service delivery?",
+      "options": {
+        "a": "Sovereignty",
+        "b": "Subsidiary",
+        "c": "Non-discrimination",
+        "d": "All of above"
+      },
+      "correct_answer": "d",
+      "explanation": "Foundational principles of public service delivery encompass state sovereignty, subsidiarity, and absolute non-discrimination[cite: 12]."
+    },
+    {
+      "question_number": 35,
+      "question": "Which of the following is not a characteristic of Public Service Delivery?",
+      "options": {
+        "a": "Confidentiality",
+        "b": "Equal access to all",
+        "c": "Impartiality",
+        "d": "Service provided as per law"
+      },
+      "correct_answer": "a",
+      "explanation": "Public service delivery relies on transparency, impartiality, legal backing, and universal access, whereas unnecessary confidentiality hinders effective delivery[cite: 12]."
+    },
+    {
+      "question_number": 36,
+      "question": "What do we call public service designed for a particular group which is relatively vulnerable?",
+      "options": {
+        "a": "Business service",
+        "b": "Promotional service",
+        "c": "Counseling service",
+        "d": "Welfare service"
+      },
+      "correct_answer": "d",
+      "explanation": "Public services designed specifically to uplift and support relatively vulnerable or marginalized groups are classified as welfare services[cite: 12]."
+    },
+    {
+      "question_number": 37,
+      "question": "Which of the following entities is responsible for implementation of public service delivery in Nepal?",
+      "options": {
+        "a": "Bureaucracy",
+        "b": "Legislature",
+        "c": "Cabinet",
+        "d": "All of above"
+      },
+      "correct_answer": "a",
+      "explanation": "The permanent civil service bureaucracy acts as the core operational machinery responsible for the direct execution and implementation of public services[cite: 12]."
+    },
+    {
+      "question_number": 38,
+      "question": "Public Education, provided by the Government of Nepal is an example of...",
+      "options": {
+        "a": "Emergency service",
+        "b": "Welfare service",
+        "c": "Promotional service",
+        "d": "Mandatory service"
+      },
+      "correct_answer": "c",
+      "explanation": "State-provided public education functions as a developmental and promotional service aimed at human capital enhancement[cite: 12]."
+    },
+    {
+      "question_number": 39,
+      "question": "What is/are the role of people in public service delivery?",
+      "options": {
+        "a": "To discourage irregularities and corruption in public service",
+        "b": "To give feedback of service delivery",
+        "c": "To be attentive to the obligation and duties of people",
+        "d": "All of above"
+      },
+      "correct_answer": "d",
+      "explanation": "Citizens engage actively by providing constructive feedback, fulfilling civic duties, and acting as watchdogs against administrative corruption[cite: 12]."
+    },
+    {
+      "question_number": 40,
+      "question": "What is/are factor(s) to be considered in public service delivery in Nepal?",
+      "options": {
+        "a": "Public Participation",
+        "b": "Standard of responsibility",
+        "c": "Service Mapping",
+        "d": "All of above"
+      },
+      "correct_answer": "d",
+      "explanation": "Crucial factors in Nepal's service delivery framework include active public participation, service mapping, and clearly defined standards of responsibility[cite: 12]."
+    },
+    {
+      "question_number": 41,
+      "question": "Which of the following element(s) ensure access to information and transparency?",
+      "options": {
+        "a": "Citizen's Charters",
+        "b": "Public hearing",
+        "c": "Hello Sarkar Programme",
+        "d": "All of Above"
+      },
+      "correct_answer": "d",
+      "explanation": "Citizen's Charters, public hearings (sarwajanik sunuwai), and Hello Sarkar platforms collectively promote transparency and information access[cite: 12]."
+    },
+    {
+      "question_number": 42,
+      "question": "What is the role of civil society organizations in promoting good governance in Nepal?",
+      "options": {
+        "a": "To provide basic service",
+        "b": "To participate in election",
+        "c": "To advocate for the rights of marginalized group",
+        "d": "None of the above"
+      },
+      "correct_answer": "correct_answer: c",
+      "explanation": "Civil society organizations function as independent watchdogs and powerful advocates for the rights, inclusion, and representation of marginalized groups[cite: 12]."
+    },
+    {
+      "question_number": 43,
+      "question": "Which article of constitution of Nepal ensures equal access to public services?",
+      "options": {
+        "a": "51",
+        "b": "52",
+        "c": "53",
+        "d": "54"
+      },
+      "correct_answer": "a",
+      "explanation": "Article 51 enshrines state policies aimed at ensuring equitable distribution of opportunities, public services, and balanced regional development[cite: 12]."
+    }
+  ]
+}

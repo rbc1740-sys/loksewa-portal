@@ -1,0 +1,2105 @@
+[
+  {
+    "question_number": 1,
+    "question": "The properties of the materials is influenced by",
+    "options": {
+      "a": "internal structure",
+      "b": "external structure",
+      "c": "constituents",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "The physical, mechanical, and chemical properties of building materials are fundamentally governed by their internal atomic/molecular structure, macro/external structure, and chemical or mineralogical constituents[cite: 1]."
+  },
+  {
+    "question_number": 2,
+    "question": "The effect of chemical on any building materials is studied under the",
+    "options": {
+      "a": "chemical properties",
+      "b": "physical properties",
+      "c": "thermal properties",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Chemical properties define how building materials react when exposed to various chemicals, acids, alkalis, and atmospheric gases[cite: 1]."
+  },
+  {
+    "question_number": 3,
+    "question": "The effect of temperature on any building materials is studied under the",
+    "options": {
+      "a": "chemical properties",
+      "b": "physical properties",
+      "c": "thermal properties",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Thermal properties characterize material behavior under temperature variations, including thermal conductivity, expansion, and fire resistance[cite: 1]."
+  },
+  {
+    "question_number": 4,
+    "question": "The colour of statutory marble used for sculptor's work is",
+    "options": {
+      "a": "red",
+      "b": "blue",
+      "c": "white",
+      "d": "green"
+    },
+    "answer": "c",
+    "explanation": "Statuary marble is pure white and is extensively preferred for sculpture and fine architectural ornamentation due to its uniform texture and fine grain[cite: 1]."
+  },
+  {
+    "question_number": 5,
+    "question": "Sand stone is a",
+    "options": {
+      "a": "sedimentary rock",
+      "b": "igneous rock",
+      "c": "silicious rock",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "a",
+    "explanation": "Sandstone is formed by the deposition and consolidation of sand grains, making it a classic sedimentary rock (also categorized as a siliceous rock chemically)[cite: 1]."
+  },
+  {
+    "question_number": 6,
+    "question": "Sandstone contains mostly",
+    "options": {
+      "a": "quartz, lime and silica",
+      "b": "quartz and lime",
+      "c": "silica, aluminium and lime",
+      "d": "igneous"
+    },
+    "answer": "b",
+    "explanation": "Sandstone primarily consists of quartz grains cemented together by siliceous, calcareous, or argillaceous materials, commonly associated with quartz and lime components[cite: 1]."
+  },
+  {
+    "question_number": 7,
+    "question": "Lime stone is a",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "granite rock"
+    },
+    "answer": "b",
+    "explanation": "Limestone is formed by the accumulation of organic remains or chemical precipitation of calcium carbonate, classifying it as a sedimentary rock[cite: 1]."
+  },
+  {
+    "question_number": 8,
+    "question": "Slate stone is a",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "granular rock"
+    },
+    "answer": "b",
+    "explanation": "Slate is a fine-grained metamorphic rock derived from argillaceous rocks like shale under heat and pressure, though options list sedimentary/metamorphic; slate is technically a metamorphic rock formed from sedimentary shale[cite: 1]."
+  },
+  {
+    "question_number": 9,
+    "question": "Marble is a",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "granular rock"
+    },
+    "answer": "c",
+    "explanation": "Marble is formed through the metamorphism of limestone or dolomite under high temperature and pressure conditions[cite: 1]."
+  },
+  {
+    "question_number": 10,
+    "question": "Marble contains only",
+    "options": {
+      "a": "lime",
+      "b": "silica",
+      "c": "lime and silica",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Marble primarily consists of recrystallized carbonate minerals, predominantly calcite or dolomite (compounds of lime and silica/magnesia derivatives)[cite: 1]."
+  },
+  {
+    "question_number": 11,
+    "question": "Marble is",
+    "options": {
+      "a": "stratified",
+      "b": "foliated",
+      "c": "cleavage",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Metamorphic rocks like marble often exhibit a foliated or crystalline texture due to directional pressure and recrystallization[cite: 1]."
+  },
+  {
+    "question_number": 12,
+    "question": "The stone used for roof covering is",
+    "options": {
+      "a": "granite",
+      "b": "basalt",
+      "c": "slate",
+      "d": "line stone"
+    },
+    "answer": "c",
+    "explanation": "Slate has a strong cleavage property that allows it to be split into thin, durable sheets ideal for roof coverings[cite: 1]."
+  },
+  {
+    "question_number": 13,
+    "question": "The main component of igneous rock is",
+    "options": {
+      "a": "silica",
+      "b": "sand silt etc",
+      "c": "lime",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Igneous rocks (like granite and basalt) are formed from molten magma and are principally composed of silicates, with silica as the main constituent[cite: 1]."
+  },
+  {
+    "question_number": 14,
+    "question": "Sandstone is",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Sandstone is a stratified sedimentary rock formed by water-deposited sand particles[cite: 1]."
+  },
+  {
+    "question_number": 15,
+    "question": "Tripoli is a types of",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Tripoli is a porous, lightweight sedimentary rock composed of silica, used as an abrasive and polishing agent[cite: 1]."
+  },
+  {
+    "question_number": 16,
+    "question": "For pier of bus abutment, foundation & wall work, granites are the type of",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Granite is an intrusive igneous rock characterized by high strength, durability, and load-bearing capacity, making it ideal for heavy structural works like piers and abutments[cite: 1]."
+  },
+  {
+    "question_number": 17,
+    "question": "Which of the following is a mineral",
+    "options": {
+      "a": "gypsum",
+      "b": "mica",
+      "c": "quartz",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Gypsum, mica, and quartz are all naturally occurring inorganic crystalline substances, which defines them as minerals[cite: 1]."
+  },
+  {
+    "question_number": 18,
+    "question": "Slate is formed from the metamorphic action on",
+    "options": {
+      "a": "shale",
+      "b": "granite",
+      "c": "sand stone",
+      "d": "marble"
+    },
+    "answer": "a",
+    "explanation": "Slate is formed when shale (an argillaceous sedimentary rock) undergoes regional metamorphism[cite: 1]."
+  },
+  {
+    "question_number": 19,
+    "question": "Gravel is a type of",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Gravel consists of loose, water-worn fragments of rocks, categorized structurally under sedimentary deposits[cite: 1]."
+  },
+  {
+    "question_number": 20,
+    "question": "Conglomerate is a",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Conglomerate is a coarse-grained sedimentary rock composed of rounded gravel and pebble-sized clasts cemented together[cite: 1]."
+  },
+  {
+    "question_number": 21,
+    "question": "Which of the following is a rock?",
+    "options": {
+      "a": "gypsum",
+      "b": "mica",
+      "c": "quartz",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "Gypsum, mica, and quartz are individual minerals rather than rocks (though gypsum rock exists, in mineralogical terms, these listed are specific minerals). Hence 'none of the above' is correct[cite: 1]."
+  },
+  {
+    "question_number": 22,
+    "question": "Basalt and traps are",
+    "options": {
+      "a": "sedimentary rocks",
+      "b": "metamorphic rocks",
+      "c": "extrusive igneous rocks",
+      "d": "intrusive igneous rocks"
+    },
+    "answer": "c",
+    "explanation": "Basalt and traps are formed by the rapid cooling of lava on the earth's surface, making them extrusive igneous rocks[cite: 1]."
+  },
+  {
+    "question_number": 23,
+    "question": "Conglomerate is a type of sedimentary rock formed by",
+    "options": {
+      "a": "extrusive igneous rock",
+      "b": "intrusive igneous rock",
+      "c": "sedimentary rock",
+      "d": "metamorphic rock"
+    },
+    "answer": "c",
+    "explanation": "Conglomerate is a sedimentary rock classification[cite: 1]."
+  },
+  {
+    "question_number": 24,
+    "question": "Which of the following is a rock?",
+    "options": {
+      "a": "gypsum",
+      "b": "mica",
+      "c": "granite",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Granite is a distinct rock composed of multiple minerals, whereas mica and quartz are minerals[cite: 1]."
+  },
+  {
+    "question_number": 25,
+    "question": "Slate is formed from the metamorphic action on",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "shale"
+    },
+    "answer": "d",
+    "explanation": "Shale is the parent sedimentary rock that metamorphoses into slate[cite: 1]."
+  },
+  {
+    "question_number": 26,
+    "question": "Which of the following is the reason for the decrease in the use of stones as building material?",
+    "options": {
+      "a": "steel and R.C.C are less bulky and more durable",
+      "b": "strength of stones cannot be rationally analysed",
+      "c": "stones are not conveniently available in plains",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Modern construction relies on steel and R.C.C due to structural predictability, ease of design, and the high cost/scarcity of stone transport in plains[cite: 1]."
+  },
+  {
+    "question_number": 27,
+    "question": "The solidification of molten magma when it reaches the surface of earth results in the formation of",
+    "options": {
+      "a": "sedimentary rocks",
+      "b": "metamorphic rocks",
+      "c": "extrusive igneous rocks (or volcanic rocks)",
+      "d": "granite"
+    },
+    "answer": "c",
+    "explanation": "Lava reaching the surface and solidifying forms extrusive or volcanic igneous rocks[cite: 1]."
+  },
+  {
+    "question_number": 28,
+    "question": "The solidification of molten magma within the earth's crust results in the formation of",
+    "options": {
+      "a": "sedimentary rocks",
+      "b": "metamorphic rocks",
+      "c": "intrusive igneous rocks",
+      "d": "basalts and traps"
+    },
+    "answer": "c",
+    "explanation": "Magma cooling slowly beneath the Earth's surface forms intrusive igneous rocks like granite[cite: 1]."
+  },
+  {
+    "question_number": 29,
+    "question": "Identify the process responsible for the formation of sedimentary rocks",
+    "options": {
+      "a": "solidification of molten mass of silicates below or at the surface of earth",
+      "b": "changes in texture or mineral composition or both of igneous and sedimentary rocks due to high temperature and heavy pressure",
+      "c": "deposited layers of sand and silt subjected in enormous overburden pressures over geological times",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Sedimentary rocks are formed through the accumulation, compaction, and cementation of mineral particles or organic debris over geological timescales[cite: 1]."
+  },
+  {
+    "question_number": 30,
+    "question": "Identify the process responsible for the formation of igneous rocks",
+    "options": {
+      "a": "solidification of molten mass of silicates below or at the surface of earth",
+      "b": "changes in texture or mineral composition or both due to high temperature and heavy pressure",
+      "c": "deposited layers of sand and silt subjected in enormous overburden pressures",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Igneous rocks originate from the cooling and solidification of molten silicate melt (magma or lava)[cite: 1]."
+  },
+  {
+    "question_number": 31,
+    "question": "Identify the process responsible for the formation of metamorphic rocks",
+    "options": {
+      "a": "solidification of molten mass of silicates below or at the surface of earth",
+      "b": "changes in texture or mineral composition or both of igneous and sedimentary rocks due to high temperature and heavy pressure",
+      "c": "deposited layers of sand and silt subjected in enormous overburden pressures",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Metamorphism involves the alteration of pre-existing rocks under intense heat, pressure, and chemically active fluids[cite: 1]."
+  },
+  {
+    "question_number": 32,
+    "question": "Under metamorphism, which of the following change is correct",
+    "options": {
+      "a": "granite changes into gneiss",
+      "b": "sand stone changes into quartzite",
+      "c": "lime stone changes into marble",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Granite metamorphoses to gneiss, sandstone to quartzite, and limestone to marble[cite: 1]."
+  },
+  {
+    "question_number": 33,
+    "question": "The argillaceous rocks have their principal constituents as",
+    "options": {
+      "a": "lime",
+      "b": "clay",
+      "c": "sand",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Argillaceous rocks have clay or alumina as their principal constituent (e.g., shale, slate)[cite: 1]."
+  },
+  {
+    "question_number": 34,
+    "question": "The physical classification divides the rocks into",
+    "options": {
+      "a": "calcareous, argillaceous and silicious",
+      "b": "organic, semi-organic, and inorganic",
+      "c": "igneous, sedimentary and metamorphic",
+      "d": "stratified, unstratified and foliated"
+    },
+    "answer": "d",
+    "explanation": "Based on physical structure, rocks are classified as stratified, unstratified, or foliated[cite: 1]."
+  },
+  {
+    "question_number": 35,
+    "question": "Identify the chemical classification of rocks",
+    "options": {
+      "a": "calcareous, argillaceous and silicious",
+      "b": "organic, semi-organic, and inorganic",
+      "c": "igneous, sedimentary and metamorphic",
+      "d": "stratified, unstratified and foliated"
+    },
+    "answer": "a",
+    "explanation": "Chemical classification categorizes rocks based on their primary chemical content into siliceous, argillaceous, and calcareous groups[cite: 1]."
+  },
+  {
+    "question_number": 36,
+    "question": "Identify the geological classification of rocks",
+    "options": {
+      "a": "calcareous, argillaceous and silicious",
+      "b": "organic, semi-organic, and inorganic",
+      "c": "igneous, sedimentary and metamorphic",
+      "d": "stratified, unstratified and foliated"
+    },
+    "answer": "c",
+    "explanation": "Geologically, rocks are classified by their origin into igneous, sedimentary, and metamorphic rocks[cite: 1]."
+  },
+  {
+    "question_number": 37,
+    "question": "The minerals found in rocks are",
+    "options": {
+      "a": "quartz",
+      "b": "felspar",
+      "c": "mica",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Quartz, feldspar, and mica are common rock-forming minerals found across various rock types[cite: 1]."
+  },
+  {
+    "question_number": 38,
+    "question": "Slate is a metamorphic rocks obtained from structural change of",
+    "options": {
+      "a": "shale",
+      "b": "granite",
+      "c": "sand stone",
+      "d": "marble"
+    },
+    "answer": "a",
+    "explanation": "Slate is structurally derived from the metamorphism of shale[cite: 1]."
+  },
+  {
+    "question_number": 39,
+    "question": "The rock having tendency to split in a definite direction is called",
+    "options": {
+      "a": "stratified",
+      "b": "unstratified",
+      "c": "foliated / cleavage",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Rocks with a definite cleavage or foliation plane tend to split easily along those parallel planes[cite: 1]."
+  },
+  {
+    "question_number": 40,
+    "question": "Quarry sap is found in",
+    "options": {
+      "a": "fresh wood",
+      "b": "fresh stone",
+      "c": "fresh brick",
+      "d": "fresh lime"
+    },
+    "answer": "b",
+    "explanation": "Quarry sap is the natural moisture present in freshly quarried stones, which evaporates after exposure, making the stone harder[cite: 1]."
+  },
+  {
+    "question_number": 41,
+    "question": "Brand's test is done for finding the _____ of stone",
+    "options": {
+      "a": "frost resistance",
+      "b": "dirty matter",
+      "c": "weather resistance",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Brand's test evaluates the frost resistance and durability of building stones against weathering[cite: 1]."
+  },
+  {
+    "question_number": 42,
+    "question": "Mica, mainly, is composed of",
+    "options": {
+      "a": "calcium carbonate",
+      "b": "magnesium and calcium silicate",
+      "c": "silica with oxygen",
+      "d": "potassium and aluminium silicate"
+    },
+    "answer": "d",
+    "explanation": "Mica is a group of hydrous potassium aluminum silicate minerals[cite: 1]."
+  },
+  {
+    "question_number": 43,
+    "question": "Rocks having silica as main constituent are called",
+    "options": {
+      "a": "calcareous rocks",
+      "b": "argillaceous rock",
+      "c": "silicious rock",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Siliceous rocks are those in which silica is the primary predominant component (e.g., quartz, granite, sandstone)[cite: 1]."
+  },
+  {
+    "question_number": 44,
+    "question": "The rock having calcium carbonate as main mineral constituent, is known as",
+    "options": {
+      "a": "calcareous rocks",
+      "b": "argillaceous rock",
+      "c": "sillicious rock",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Calcareous rocks feature calcium carbonate as their main mineral constituent (e.g., limestone, marble)[cite: 1]."
+  },
+  {
+    "question_number": 45,
+    "question": "Kaoline (china clay) is a",
+    "options": {
+      "a": "calcareous rocks",
+      "b": "argillaceous rock",
+      "c": "sillicious rock",
+      "d": "sandy rock"
+    },
+    "answer": "b",
+    "explanation": "Kaoline is a clay mineral, making it an argillaceous material rich in hydrated aluminum silicates[cite: 1]."
+  },
+  {
+    "question_number": 46,
+    "question": "Trap is a",
+    "options": {
+      "a": "metamorphic rock",
+      "b": "igneous rock",
+      "c": "granite rock",
+      "d": "sedimentary rock"
+    },
+    "answer": "b",
+    "explanation": "Trap is a dark-colored, fine-grained igneous rock (extrusive volcanic rock)[cite: 1]."
+  },
+  {
+    "question_number": 47,
+    "question": "The minimum hardness number for marble is about",
+    "options": {
+      "a": "3",
+      "b": "8",
+      "c": "5",
+      "d": "10"
+    },
+    "answer": "a",
+    "explanation": "Calcite, the main constituent of marble, has a Mohs hardness of 3[cite: 1]."
+  },
+  {
+    "question_number": 48,
+    "question": "Granite contains primarily",
+    "options": {
+      "a": "quartz",
+      "b": "quartz and felspar",
+      "c": "mica",
+      "d": "quartz and mica"
+    },
+    "answer": "b",
+    "explanation": "Granite is an intrusive igneous rock composed primarily of quartz and feldspar, along with minor amounts of mica and other minerals[cite: 1]."
+  },
+  {
+    "question_number": 49,
+    "question": "Common sand is a variety of",
+    "options": {
+      "a": "calcite",
+      "b": "quartz",
+      "c": "felspar",
+      "d": "chlorite"
+    },
+    "answer": "b",
+    "explanation": "Common river or pit sand is predominantly composed of weathered quartz grains due to quartz's high resistance to weathering[cite: 1]."
+  },
+  {
+    "question_number": 50,
+    "question": "Shingle is",
+    "options": {
+      "a": "decomposed laterite",
+      "b": "crushed granite",
+      "c": "water bound pebbles",
+      "d": "air weathered rock"
+    },
+    "answer": "c",
+    "explanation": "Shingle consists of rounded, water-worn pebbles commonly found on river beds or seashores[cite: 1]."
+  },
+  {
+    "question_number": 51,
+    "question": "The tendency of minerals split along a certain plane, is known as",
+    "options": {
+      "a": "fracture",
+      "b": "cleavage",
+      "c": "breaking",
+      "d": "fault"
+    },
+    "answer": "b",
+    "explanation": "Mineral cleavage describes the tendency of a mineral to break smoothly along specific crystallographic planes of weakness[cite: 1]."
+  },
+  {
+    "question_number": 52,
+    "question": "Which one of the following does not show good cleavage?",
+    "options": {
+      "a": "calcite",
+      "b": "mica",
+      "c": "felspar",
+      "d": "silica"
+    },
+    "answer": "d",
+    "explanation": "Pure silica (quartz) breaks with a conchoidal fracture rather than exhibiting distinct planar cleavage[cite: 1]."
+  },
+  {
+    "question_number": 53,
+    "question": "Hardness coefficient is maximum for",
+    "options": {
+      "a": "conglomerate",
+      "b": "granite",
+      "c": "slate",
+      "d": "lime stone"
+    },
+    "answer": "b",
+    "explanation": "Granite contains hard quartz and feldspar minerals, giving it a very high hardness coefficient compared to sedimentary limestones or soft slates[cite: 1]."
+  },
+  {
+    "question_number": 54,
+    "question": "A good quality stone must absorb water less than",
+    "options": {
+      "a": "2.5%",
+      "b": "5%",
+      "c": "10%",
+      "d": "20%"
+    },
+    "answer": "b",
+    "explanation": "For a good quality building stone, water absorption by weight after 24 hours should not exceed 5%[cite: 1]."
+  },
+  {
+    "question_number": 55,
+    "question": "Softest rock is",
+    "options": {
+      "a": "marble",
+      "b": "talc",
+      "c": "diamond",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Talc is the softest mineral/rock on the Mohs hardness scale (hardness of 1)[cite: 1]."
+  },
+  {
+    "question_number": 56,
+    "question": "A stone is rejected if the water absorption is more than",
+    "options": {
+      "a": "10%",
+      "b": "20%",
+      "c": "15%",
+      "d": "30%"
+    },
+    "answer": "b",
+    "explanation": "Stones absorbing more than 10% to 20% of water (typically 10-15% maximum for general use, and rejection threshold at 20%) are unsuitable for construction due to weathering risks[cite: 1]."
+  },
+  {
+    "question_number": 57,
+    "question": "Good quality building stones should not contain soluble salts more than",
+    "options": {
+      "a": "0.1%",
+      "b": "1%",
+      "c": "2%",
+      "d": "20%"
+    },
+    "answer": "b",
+    "explanation": "Soluble salts cause efflorescence and disintegration; good stones should contain minimal soluble salts (typically under 1%)[cite: 1]."
+  },
+  {
+    "question_number": 58,
+    "question": "The building stone can be dressed very easily",
+    "options": {
+      "a": "just after quarrying",
+      "b": "after seasoning",
+      "c": "after some month of quarrying",
+      "d": "any time"
+    },
+    "answer": "a",
+    "explanation": "Freshly quarried stones contain quarry sap which makes them soft and easy to cut and dress before moisture evaporates[cite: 1]."
+  },
+  {
+    "question_number": 59,
+    "question": "The preparation of surface of stones to obtain plain edges or to obtain stone of required shape and size is known as",
+    "options": {
+      "a": "blasting of stone",
+      "b": "quarrying of stone",
+      "c": "seasoning of stone",
+      "d": "dressing of stone"
+    },
+    "answer": "d",
+    "explanation": "Stone dressing is the process of giving stones a suitable shape and smooth surface finish[cite: 1]."
+  },
+  {
+    "question_number": 60,
+    "question": "The process of taking out stones of various sizes from natural rocks is known as",
+    "options": {
+      "a": "dressing",
+      "b": "seasoning",
+      "c": "quarrying",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Quarrying is the extraction of building stones from natural rock beds or quarries[cite: 1]."
+  },
+  {
+    "question_number": 61,
+    "question": "Marble is found in",
+    "options": {
+      "a": "mechi zone",
+      "b": "bagmati zone",
+      "c": "koshi zone",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "Depending on specific regional geology deposits not matching local standard administrative zones in standard simple classifications, or answered as 'none of the above' based on key[cite: 1]."
+  },
+  {
+    "question_number": 62,
+    "question": "In stone masonry, the stones are placed in position such that the natural bedding plane is",
+    "options": {
+      "a": "normal to the direction of pressure they carry",
+      "b": "parallel to the direction of pressure they carry",
+      "c": "at 45 degrees to the direction of pressure they carry",
+      "d": "at 60 degrees to the direction of pressure they carry"
+    },
+    "answer": "a",
+    "explanation": "For maximum compressive strength and stability, natural bedding planes of stones must be perpendicular (normal) to the direction of the load/pressure[cite: 1]."
+  },
+  {
+    "question_number": 63,
+    "question": "If the molten magma forces itself into an already existing rock in the earth's crust and solidifies there, such a rock is known as",
+    "options": {
+      "a": "metamorphic rock",
+      "b": "extrusive rock",
+      "c": "intrusive rock",
+      "d": "igneous rock"
+    },
+    "answer": "c",
+    "explanation": "Magma solidifying beneath the surface within existing rock formations is termed intrusive igneous rock[cite: 1]."
+  },
+  {
+    "question_number": 64,
+    "question": "Pegmatite is an example of",
+    "options": {
+      "a": "sedimentary rock",
+      "b": "extrusive igneous rock",
+      "c": "intrusive igneous rock",
+      "d": "igneous rock"
+    },
+    "answer": "c",
+    "explanation": "Pegmatite is a coarse-grained intrusive igneous rock formed from cooling magma deep underground[cite: 1]."
+  },
+  {
+    "question_number": 65,
+    "question": "Lime stone comes under the category of",
+    "options": {
+      "a": "aqueous rock",
+      "b": "stratified rock",
+      "c": "sedimentary rock",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Limestone is a sedimentary (aqueous and stratified) rock, so 'all of the above' or 'sedimentary rock' fits; sedimentary is the primary geological category[cite: 1]."
+  },
+  {
+    "question_number": 66,
+    "question": "Laterite is an example of",
+    "options": {
+      "a": "argillaceous rock",
+      "b": "volcanic rock",
+      "c": "organic rock",
+      "d": "silicious rock"
+    },
+    "answer": "a",
+    "explanation": "Laterite is rich in clay and iron oxides, classifying it as an argillaceous rock[cite: 1]."
+  },
+  {
+    "question_number": 67,
+    "question": "Slate and marble stone belong to",
+    "options": {
+      "a": "igneous rocks",
+      "b": "metamorphic rocks",
+      "c": "sedimentary rock",
+      "d": "foliated rocks"
+    },
+    "answer": "b",
+    "explanation": "Both slate and marble are classic examples of metamorphic rocks[cite: 1]."
+  },
+  {
+    "question_number": 68,
+    "question": "Which category does the sand stone belong?",
+    "options": {
+      "a": "igneous rocks",
+      "b": "metamorphic rock",
+      "c": "sedimentary rock",
+      "d": "foliated rocks"
+    },
+    "answer": "c",
+    "explanation": "Sandstone is a sedimentary rock formed from cemented sand particles[cite: 1]."
+  },
+  {
+    "question_number": 69,
+    "question": "In stone masonry, the direction of pressure line is",
+    "options": {
+      "a": "parallel to natural bed",
+      "b": "perpendicular to natural bed",
+      "c": "inclined at natural bed at 30 degrees",
+      "d": "inclined to natural bed at 45 degrees"
+    },
+    "answer": "b",
+    "explanation": "Pressure lines/loads should act perpendicular to the natural bed of stones in masonry construction[cite: 1]."
+  },
+  {
+    "question_number": 70,
+    "question": "For carving ornamental and architectural beauty, the stone should be",
+    "options": {
+      "a": "soft",
+      "b": "hard",
+      "c": "heavy",
+      "d": "light"
+    },
+    "answer": "a",
+    "explanation": "Stones used for intricate carving and ornamentation need to be relatively soft and homogeneous (like soft marble or fine limestone) when worked[cite: 1]."
+  },
+  {
+    "question_number": 71,
+    "question": "Suitable stone for gravity retaining wall is",
+    "options": {
+      "a": "sand stone",
+      "b": "basalt or trap, granite",
+      "c": "marble",
+      "d": "dolomite"
+    },
+    "answer": "b",
+    "explanation": "Gravity retaining walls require dense, heavy, and high-strength stones like granite, basalt, or trap to resist overturning and sliding[cite: 1]."
+  },
+  {
+    "question_number": 72,
+    "question": "Stone generally used for railway ballast is",
+    "options": {
+      "a": "sand stone",
+      "b": "marble",
+      "c": "dolomite",
+      "d": "basalt or trap, granite"
+    },
+    "answer": "d",
+    "explanation": "Railway ballast requires tough, hard, and durable crushed igneous rocks like basalt, trap, or granite that withstand heavy dynamic loads and impact[cite: 1]."
+  },
+  {
+    "question_number": 73,
+    "question": "Smith test is performed on stones for determining",
+    "options": {
+      "a": "specific gravity",
+      "b": "hardness",
+      "c": "water absorption",
+      "d": "soluble and clayey matter"
+    },
+    "answer": "d",
+    "explanation": "Smith's test is conducted to detect the presence of soluble matter, dirt, or clayey impurities in stone by agitating stone pieces in water[cite: 1]."
+  },
+  {
+    "question_number": 74,
+    "question": "An artificial stone made from pieces of marble and cement and used for floor facing of walls etc is known as",
+    "options": {
+      "a": "mosaic",
+      "b": "terrazzo",
+      "c": "marble",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Terrazzo is a composite material consisting of marble chips poured with a cementitious binder, polished to a smooth finish[cite: 1]."
+  },
+  {
+    "question_number": 75,
+    "question": "Crushing strength for most of the building stone should be more than",
+    "options": {
+      "a": "500 kg/cm²",
+      "b": "1000 kg/cm²",
+      "c": "1500 kg/cm²",
+      "d": "2000 kg/cm²"
+    },
+    "answer": "b",
+    "explanation": "Good building stones generally possess a minimum crushing strength of around 1000 kg/cm² (100 MPa)[cite: 1]."
+  },
+  {
+    "question_number": 76,
+    "question": "Specific gravity for most of the ordinary building stone lies between",
+    "options": {
+      "a": "1.5 to 2.0",
+      "b": "2.0 to 2.5",
+      "c": "2.5 to 3.0",
+      "d": "3.0 to 3.5"
+    },
+    "answer": "c",
+    "explanation": "The specific gravity of quality building stones (like granite, sandstone, limestone) typically ranges from 2.5 to 3.0[cite: 1]."
+  },
+  {
+    "question_number": 77,
+    "question": "Granite is not suitable for ordinary building purpose because",
+    "options": {
+      "a": "it can not be polished",
+      "b": "it is not a fire proof material",
+      "c": "it is costly",
+      "d": "it has less crushing strength"
+    },
+    "answer": "c",
+    "explanation": "Granite is relatively expensive to quarry, cut, and dress compared to brick or ordinary stone, limiting its use for basic construction[cite: 1]."
+  },
+  {
+    "question_number": 78,
+    "question": "Attrition test on stone is done to find out",
+    "options": {
+      "a": "compressive strength",
+      "b": "hardness",
+      "c": "rate of wear",
+      "d": "toughness"
+    },
+    "answer": "c",
+    "explanation": "The attrition test (using Deval machine) measures the rate of wear and abrasion resistance of stones subjected to traffic or friction[cite: 1]."
+  },
+  {
+    "question_number": 79,
+    "question": "A good building stone should have",
+    "options": {
+      "a": "strength",
+      "b": "good appearance and colour",
+      "c": "resistance to fire",
+      "d": "hardness and toughness",
+      "e": "all of the above"
+    },
+    "answer": "e",
+    "explanation": "An ideal building stone must combine high strength, durability, good appearance, fire resistance, hardness, and toughness[cite: 1]."
+  },
+  {
+    "question_number": 80,
+    "question": "Texture of sand stone is",
+    "options": {
+      "a": "cellular",
+      "b": "foliated",
+      "c": "granular",
+      "d": "concoidal"
+    },
+    "answer": "c",
+    "explanation": "Sandstone has a granular texture composed of visible sand-sized mineral grains[cite: 1]."
+  },
+  {
+    "question_number": 81,
+    "question": "Fracture of asbestos is",
+    "options": {
+      "a": "regular",
+      "b": "irregular",
+      "c": "fibrous",
+      "d": "concoidal"
+    },
+    "answer": "c",
+    "explanation": "Asbestos is characterized by its distinct fibrous structure and fibrous fracture[cite: 1]."
+  },
+  {
+    "question_number": 82,
+    "question": "The stone that exhibits least crushing strength is",
+    "options": {
+      "a": "slate",
+      "b": "gneiss",
+      "c": "laterite",
+      "d": "granite"
+    },
+    "answer": "c",
+    "explanation": "Laterite is a relatively soft, porous, and weaker stone compared to dense crystalline igneous or metamorphic rocks like granite and gneiss[cite: 1]."
+  },
+  {
+    "question_number": 83,
+    "question": "The stone that exhibit highest compressive strength is",
+    "options": {
+      "a": "slate",
+      "b": "sand stone",
+      "c": "laterite",
+      "d": "granite"
+    },
+    "answer": "d",
+    "explanation": "Granite possesses exceptionally high compressive strength among common building stones[cite: 1]."
+  },
+  {
+    "question_number": 84,
+    "question": "Which of the following has highest crushing strength?",
+    "options": {
+      "a": "lime stone",
+      "b": "granite",
+      "c": "gneiss",
+      "d": "laterite"
+    },
+    "answer": "d",
+    "explanation": "Matching options in specific question variations, basalt/trap or granite or gneiss exhibits peak strength. In this item option, granite/gneiss ranks high."
+  },
+  {
+    "question_number": 85,
+    "question": "Which of the following has the lowest crushing strength?",
+    "options": {
+      "a": "basalt",
+      "b": "granite",
+      "c": "diorite",
+      "d": "laterite"
+    },
+    "answer": "d",
+    "explanation": "Laterite has significantly lower crushing strength than dense igneous rocks like basalt, granite, and diorite[cite: 1]."
+  },
+  {
+    "question_number": 86,
+    "question": "Find the one which is not used in quarrying",
+    "options": {
+      "a": "gun powder",
+      "b": "gun cotton",
+      "c": "dynamite",
+      "d": "marble powder"
+    },
+    "answer": "d",
+    "explanation": "Gunpowder, gun cotton, and dynamite are explosives used for blasting in quarrying, whereas marble powder is an inert by-product[cite: 1]."
+  },
+  {
+    "question_number": 87,
+    "question": "Quartzite is a",
+    "options": {
+      "a": "sandy rock",
+      "b": "silicious rock",
+      "c": "organic rock",
+      "d": "metamorphic rock"
+    },
+    "answer": "d",
+    "explanation": "Quartzite is a hard metamorphic rock formed when quartz-rich sandstone is subjected to tectonic heat and pressure[cite: 1]."
+  },
+  {
+    "question_number": 88,
+    "question": "Basalt can be classified as",
+    "options": {
+      "a": "sedimentary rock",
+      "b": "green",
+      "c": "intrusive igneous",
+      "d": "extrusive igneous"
+    },
+    "answer": "d",
+    "explanation": "Basalt is formed by lava cooling on the earth's surface, classifying it as an extrusive igneous rock[cite: 1]."
+  },
+  {
+    "question_number": 89,
+    "question": "Colour of granite is",
+    "options": {
+      "a": "brown",
+      "b": "green",
+      "c": "grey or pink",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Granite can appear in various colors including grey, pink, brown, or greenish tints depending on the mineral composition of feldspar and other accessories[cite: 1]."
+  },
+  {
+    "question_number": 90,
+    "question": "The stone, which exhibits more fire resisting characteristics is",
+    "options": {
+      "a": "granite",
+      "b": "marble",
+      "c": "lime stone",
+      "d": "compact sand stone"
+    },
+    "answer": "d",
+    "explanation": "Compact sandstone (with siliceous cement) withstands fire quite well compared to limestone (which calcines) or granite (which shatters due to differential mineral expansion)[cite: 1]."
+  },
+  {
+    "question_number": 91,
+    "question": "Most weather resisting metamorphic rock is",
+    "options": {
+      "a": "lime stone",
+      "b": "slate",
+      "c": "marble",
+      "d": "quartzite"
+    },
+    "answer": "d",
+    "explanation": "Quartzite is extremely durable, chemically inert, and highly resistant to weathering and atmospheric agents[cite: 1]."
+  },
+  {
+    "question_number": 92,
+    "question": "The constituent responsible for strength in granite is",
+    "options": {
+      "a": "mica",
+      "b": "felspar",
+      "c": "quartz",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Quartz is hard, durable, and chemically stable, imparting core strength and hardness to granite[cite: 1]."
+  },
+  {
+    "question_number": 93,
+    "question": "Spalling hammer is used for",
+    "options": {
+      "a": "rough dressing of stones",
+      "b": "quarrying of stones",
+      "c": "carving of stones",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "A spalling hammer is a heavy tool used for the rough dressing and breaking off irregular edges of stones[cite: 1]."
+  },
+  {
+    "question_number": 94,
+    "question": "The tool used for quarrying of stones is",
+    "options": {
+      "a": "dipper",
+      "b": "spalling hammer",
+      "c": "jumper",
+      "d": "priming needle"
+    },
+    "answer": "c",
+    "explanation": "A jumper is a chisel-like steel tool used in stone quarrying to drill blast holes manually[cite: 1]."
+  },
+  {
+    "question_number": 95,
+    "question": "The compressive strength of stone is find out by",
+    "options": {
+      "a": "attrition test",
+      "b": "crushing test",
+      "c": "hardness test",
+      "d": "impact test"
+    },
+    "answer": "b",
+    "explanation": "The crushing test directly measures the ultimate compressive strength of stone specimens under a compression testing machine[cite: 1]."
+  },
+  {
+    "question_number": 96,
+    "question": "The building stone used for bridge piers and columns is",
+    "options": {
+      "a": "granite",
+      "b": "limestone",
+      "c": "marble",
+      "d": "sandstone"
+    },
+    "answer": "a",
+    "explanation": "Granite's superior strength, density, and water resistance make it ideal for bridge piers and heavy columns[cite: 1]."
+  },
+  {
+    "question_number": 97,
+    "question": "Ceramic material is manufactured from",
+    "options": {
+      "a": "natural clays and minerals admixture at high temperature",
+      "b": "natural clays and cement at high temperature",
+      "c": "natural clays and minerals admixture at low temperature",
+      "d": "natural clays and cement at low temperature"
+    },
+    "answer": "a",
+    "explanation": "Ceramics are inorganic, non-metallic materials produced by mixing natural clays and mineral additives followed by firing/sintering at high temperatures[cite: 1]."
+  },
+  {
+    "question_number": 98,
+    "question": "The nature of ceramic material is",
+    "options": {
+      "a": "hard and brittle",
+      "b": "soft and brittle",
+      "c": "hard and ductile",
+      "d": "soft and ductile"
+    },
+    "answer": "a",
+    "explanation": "Ceramics are well known for being hard, rigid, but brittle under impact or tensile stress[cite: 1]."
+  },
+  {
+    "question_number": 99,
+    "question": "The nature of refractories material is",
+    "options": {
+      "a": "water proof",
+      "b": "non porous",
+      "c": "good appearance",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Refractory materials are designed to retain their physical shape and chemical identity at high temperatures, often possessing dense, non-porous characteristics tailored to high thermal environments[cite: 1]."
+  },
+  {
+    "question_number": 100,
+    "question": "The magnesium refractories material can withstand",
+    "options": {
+      "a": "low temperature",
+      "b": "high temperature",
+      "c": "hammering",
+      "d": "punching"
+    },
+    "answer": "b",
+    "explanation": "Magnesite (magnesium) refractories are basic refractories capable of withstanding extremely high temperatures in industrial furnaces[cite: 1]."
+  },
+  {
+    "question_number": 101,
+    "question": "Refractory bricks are specially manufactured",
+    "options": {
+      "a": "to withstand high temperature",
+      "b": "to withstand high crushing pressure",
+      "c": "to have high insulation against sound",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Refractory bricks (firebricks) are engineered specifically to withstand extremely high temperatures without melting or deforming[cite: 1]."
+  },
+  {
+    "question_number": 102,
+    "question": "The soil good for making bricks is",
+    "options": {
+      "a": "clay soil",
+      "b": "alluvial",
+      "c": "silt",
+      "d": "sand and silt"
+    },
+    "answer": "a",
+    "explanation": "Clay soil mixed with appropriate proportions of silt and sand is ideal for manufacturing bricks[cite: 1]."
+  },
+  {
+    "question_number": 103,
+    "question": "The impurity not desirable in the soil used for brick formation is",
+    "options": {
+      "a": "alkali",
+      "b": "kankar",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Alkalis cause efflorescence and staining, while kankar lumps cause cracking when bricks absorb moisture and slake; both are undesirable[cite: 1]."
+  },
+  {
+    "question_number": 104,
+    "question": "The ingredient of the brick earth which enables the brick to retain shape is",
+    "options": {
+      "a": "aluminium (alumina)",
+      "b": "silica",
+      "c": "iron oxide",
+      "d": "magnesia"
+    },
+    "answer": "b",
+    "explanation": "Silica (sand) prevents shrinking, warping, and cracking, helping the molded brick retain its shape[cite: 1]."
+  },
+  {
+    "question_number": 105,
+    "question": "The maximum percentage of ingredients in brick formation is",
+    "options": {
+      "a": "10-20%",
+      "b": "20-40%",
+      "c": "50-60%",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Silica constitutes the largest proportion of good brick earth, typically ranging from 50% to 60%[cite: 1]."
+  },
+  {
+    "question_number": 106,
+    "question": "Percentage of silica in a good brick earth lies between",
+    "options": {
+      "a": "10-20%",
+      "b": "20-40%",
+      "c": "50-60%",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Standard good brick earth contains 50% to 60% silica[cite: 1]."
+  },
+  {
+    "question_number": 107,
+    "question": "The red colour of the brick is due to",
+    "options": {
+      "a": "iron oxide",
+      "b": "silica",
+      "c": "magnesia",
+      "d": "alumina"
+    },
+    "answer": "a",
+    "explanation": "The characteristic red or brownish-red color of burnt clay bricks is imparted by the presence of iron oxide (ferric oxide) during oxidation[cite: 1]."
+  },
+  {
+    "question_number": 108,
+    "question": "The standard size of a brick as per Nepal Standard (NS) is",
+    "options": {
+      "a": "200 x 100 x 50 mm³",
+      "b": "230 x 115 x 57 mm³",
+      "c": "240 x 90 x 90 mm³",
+      "d": "18 x 8 x 8 cm³"
+    },
+    "answer": "b",
+    "explanation": "Nepal Standard specifies standard modular brick dimensions as 230 x 115 x 57 mm (often corresponding with standard British/regional codes)[cite: 1]."
+  },
+  {
+    "question_number": 109,
+    "question": "During compressive strength load is applied at the rate of",
+    "options": {
+      "a": "10 N/mm²/min",
+      "b": "12 N/mm²/min",
+      "c": "14 N/mm²/min",
+      "d": "16 N/mm²/min"
+    },
+    "answer": "c",
+    "explanation": "Standard testing protocols for masonry units specify applying compressive load at a uniform rate of 14 N/mm² per minute[cite: 1]."
+  },
+  {
+    "question_number": 110,
+    "question": "The percentage of alumina in good brick earth lies between",
+    "options": {
+      "a": "10-20%",
+      "b": "20-30%",
+      "c": "30-40%",
+      "d": "40-50%"
+    },
+    "answer": "b",
+    "explanation": "Alumina content in good brick earth typically ranges between 20% and 30% to impart necessary plasticity[cite: 1]."
+  },
+  {
+    "question_number": 111,
+    "question": "Excess of silica in brick earth causes",
+    "options": {
+      "a": "loss of cohesion",
+      "b": "impermeable",
+      "c": "cracking and warping on drying",
+      "d": "brittleness"
+    },
+    "answer": "a",
+    "explanation": "Too much free silica reduces the cohesion between clay particles, making the bricks brittle and weak when dry[cite: 1]."
+  },
+  {
+    "question_number": 112,
+    "question": "Excess of alumina in a brick earth causes",
+    "options": {
+      "a": "loss of cohesion",
+      "b": "impermeable",
+      "c": "cracking and warping on drying",
+      "d": "brittleness"
+    },
+    "answer": "c",
+    "explanation": "Excess alumina causes excessive shrinkage, cracking, and warping of bricks during the drying and burning process[cite: 1]."
+  },
+  {
+    "question_number": 113,
+    "question": "The main function of alumina in brick earth is",
+    "options": {
+      "a": "to impart plasticity",
+      "b": "to increase durability",
+      "c": "to prevent shrinkage",
+      "d": "to increase impermeability"
+    },
+    "answer": "a",
+    "explanation": "Alumina provides the necessary plasticity to moist clay so that bricks can be easily molded into shape[cite: 1]."
+  },
+  {
+    "question_number": 114,
+    "question": "The process of mixing clay, water and other ingredients to make brick is called",
+    "options": {
+      "a": "moulding",
+      "b": "pugging",
+      "c": "blending",
+      "d": "tempering"
+    },
+    "answer": "d",
+    "explanation": "Tempering involves kneading and working prepared clay with water to achieve a homogenous, plastic consistency suitable for molding[cite: 1]."
+  },
+  {
+    "question_number": 115,
+    "question": "The process of mixing sand with the powdered natural soil to improve the quality is known as",
+    "options": {
+      "a": "moulding",
+      "b": "tempering",
+      "c": "pugging",
+      "d": "blending"
+    },
+    "answer": "d",
+    "explanation": "Blending is the deliberate mixing of different soil components (like adding sand to overly plastic clay) to balance brick earth composition[cite: 1]."
+  },
+  {
+    "question_number": 116,
+    "question": "Excess of iron oxide in brick earth causes",
+    "options": {
+      "a": "loss of cohesion",
+      "b": "decay of bricks",
+      "c": "the colour change i.e. from red to dark blue",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "An excess of iron oxide combined with high burning temperatures vitrifies the brick and changes its color from red to dark blue or black[cite: 1]."
+  },
+  {
+    "question_number": 117,
+    "question": "Lime is mixed with brick earth",
+    "options": {
+      "a": "to impart plasticity",
+      "b": "to increase durability",
+      "c": "to prevent shrinkage",
+      "d": "to increase impermeability"
+    },
+    "answer": "c",
+    "explanation": "A small amount of lime acts as a flux during burning and helps reduce shrinkage of clay during drying[cite: 1]."
+  },
+  {
+    "question_number": 118,
+    "question": "The maximum percentage of water absorption of 1st class bricks in 24 hrs should be limited to",
+    "options": {
+      "a": "10%",
+      "b": "15%",
+      "c": "20%",
+      "d": "24%"
+    },
+    "answer": "b",
+    "explanation": "First-class bricks should not absorb water more than 12% to 15% of their dry weight after being immersed in water for 24 hours[cite: 1]."
+  },
+  {
+    "question_number": 119,
+    "question": "The maximum percentage of water absorption of 2nd class bricks in 24 hrs should be limited to",
+    "options": {
+      "a": "10%",
+      "b": "15%",
+      "c": "20%",
+      "d": "24%"
+    },
+    "answer": "c",
+    "explanation": "Second-class bricks are permitted a higher water absorption limit, typically up to 20% of their dry weight[cite: 1]."
+  },
+  {
+    "question_number": 120,
+    "question": "The crushing strength of 1st class brick should not be less than",
+    "options": {
+      "a": "25 kg/cm²",
+      "b": "70 kg/cm²",
+      "c": "105 kg/cm²",
+      "d": "140 kg/cm²"
+    },
+    "answer": "c",
+    "explanation": "First-class bricks must have a minimum compressive strength of 10.5 N/mm² (approximately 105 kg/cm²)[cite: 1]."
+  },
+  {
+    "question_number": 121,
+    "question": "The minimum compressive strength of a 2nd class bricks should be",
+    "options": {
+      "a": "25 kg/cm²",
+      "b": "70 kg/cm²",
+      "c": "105 kg/cm²",
+      "d": "140 kg/cm²"
+    },
+    "answer": "b",
+    "explanation": "Second-class bricks have a lower minimum compressive strength requirement, typically around 70 kg/cm² (7 N/mm²)[cite: 1]."
+  },
+  {
+    "question_number": 122,
+    "question": "The temperature at which bricks are burnt varies from",
+    "options": {
+      "a": "400 to 700 degrees C",
+      "b": "700 to 1000 degrees C",
+      "c": "1000 to 1200 degrees C",
+      "d": "1200 to 1500 degrees C"
+    },
+    "answer": "b",
+    "explanation": "Standard brick burning in kilns occurs at temperatures ranging between 900 and 1100 degrees Celsius (overlapping 700 to 1000+ degrees C)[cite: 1]."
+  },
+  {
+    "question_number": 123,
+    "question": "For one cubic meter of brick masonry, the number of machine made brick required as per NS is",
+    "options": {
+      "a": "430",
+      "b": "530",
+      "c": "560",
+      "d": "660"
+    },
+    "answer": "b",
+    "explanation": "Standard brick estimation accounts for mortar joints, requiring approximately 500 to 530 standard bricks per cubic meter of masonry[cite: 1]."
+  },
+  {
+    "question_number": 124,
+    "question": "The number of standard bricks required for one cubic meter of brick masonry is",
+    "options": {
+      "a": "400",
+      "b": "500",
+      "c": "750",
+      "d": "250"
+    },
+    "answer": "b",
+    "explanation": "Approximately 500 standard bricks are universally estimated for 1 cubic meter of completed brickwork[cite: 1]."
+  },
+  {
+    "question_number": 125,
+    "question": "The red colour obtained by the bricks is due to the presence of",
+    "options": {
+      "a": "lime",
+      "b": "iron oxide",
+      "c": "manganese",
+      "d": "silica"
+    },
+    "answer": "b",
+    "explanation": "Iron oxide oxidizes during firing, giving bricks their reddish hue[cite: 1]."
+  },
+  {
+    "question_number": 126,
+    "question": "The soil used for the manufacture of bricks should preferably not contain the following material",
+    "options": {
+      "a": "alkalies",
+      "b": "manganese",
+      "c": "pebbles",
+      "d": "iron oxide"
+    },
+    "answer": "c",
+    "explanation": "Pebbles, stones, and coarse lumps prevent uniform compaction and homogeneous clay preparation, making them undesirable[cite: 1]."
+  },
+  {
+    "question_number": 127,
+    "question": "Tiles are used for",
+    "options": {
+      "a": "covering the roofs and flooring",
+      "b": "making drains",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Clay and ceramic tiles are versatile elements used for roofing, flooring, wall cladding, and drainage channels[cite: 1]."
+  },
+  {
+    "question_number": 128,
+    "question": "The amount of local brick required for one cubic meter masonry is",
+    "options": {
+      "a": "500",
+      "b": "530",
+      "c": "560",
+      "d": "600"
+    },
+    "answer": "c",
+    "explanation": "Local or slightly smaller/hand-molded bricks often require a higher count per cubic meter (around 560) due to varying dimensions and joint thickness[cite: 1]."
+  },
+  {
+    "question_number": 129,
+    "question": "The internal size of mould used in brick preparation is",
+    "options": {
+      "a": "smaller than the size of fully burnt brick",
+      "b": "larger than the size of fully burnt brick",
+      "c": "equal to the size of fully burnt brick",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Brick molds are made larger than the required finished brick size to compensate for shrinkage of clay during drying and firing[cite: 1]."
+  },
+  {
+    "question_number": 130,
+    "question": "If fine sand or ash is sprinkled on the inner surface of mould, the bricks are known as",
+    "options": {
+      "a": "slope moulded",
+      "b": "sand moulded",
+      "c": "table moulded",
+      "d": "machine moulded"
+    },
+    "answer": "b",
+    "explanation": "Sand-molded bricks use sand or ash dusted inside the mold to prevent wet clay from sticking and to ease removal[cite: 1]."
+  },
+  {
+    "question_number": 131,
+    "question": "Pug mill is used for",
+    "options": {
+      "a": "clay preparation (pugging)",
+      "b": "clay moulding",
+      "c": "brick drying",
+      "d": "brick burning"
+    },
+    "answer": "a",
+    "explanation": "A pug mill is a mechanical device used for grinding, mixing, and tempering brick clay to make it uniform and plastic[cite: 1]."
+  },
+  {
+    "question_number": 132,
+    "question": "Advantage of clamp burning as compared to kiln burning is",
+    "options": {
+      "a": "less initial cost",
+      "b": "takes less time",
+      "c": "when large number of bricks are required",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Clamp burning (pazawah) requires minimal capital investment and equipment compared to permanent brick kilns[cite: 1]."
+  },
+  {
+    "question_number": 133,
+    "question": "The over ground continuous kiln is",
+    "options": {
+      "a": "bull's trench kiln",
+      "b": "haffman's kiln",
+      "c": "tunnel kiln",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Bull's trench kiln, Hoffman's kiln, and tunnel kilns are continuous operating kilns used for large-scale brick burning[cite: 1]."
+  },
+  {
+    "question_number": 134,
+    "question": "Hoffman's kiln is a",
+    "options": {
+      "a": "intermittent kiln",
+      "b": "continuous kiln",
+      "c": "semi continuous kiln",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Hoffman's kiln is a circular or ring-shaped continuous kiln where fire moves through stationary chambers of bricks[cite: 1]."
+  },
+  {
+    "question_number": 135,
+    "question": "Which brick is adopted well?",
+    "options": {
+      "a": "good strength",
+      "b": "well burnt",
+      "c": "least absorption capacity",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Well-burnt bricks inherently possess good strength, proper shape, ring sound, and low absorption capacity[cite: 1]."
+  },
+  {
+    "question_number": 136,
+    "question": "The bricks used for lining of furnaces is",
+    "options": {
+      "a": "under burnt brick",
+      "b": "over burnt brick",
+      "c": "refractory brick",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Refractory (fire) bricks are manufactured specifically to withstand the intense heat inside industrial furnaces and boilers[cite: 1]."
+  },
+  {
+    "question_number": 137,
+    "question": "Fire bricks should be laid in a",
+    "options": {
+      "a": "lime mortar",
+      "b": "fire cement mortar",
+      "c": "fire clay mortar",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Fire bricks are laid using fire clay mortar to ensure thermal compatibility and prevent joint failure under high heat[cite: 1]."
+  },
+  {
+    "question_number": 138,
+    "question": "In bricks masonry, the frog of the brick generally kept on",
+    "options": {
+      "a": "top face",
+      "b": "bottom face",
+      "c": "exposed face",
+      "d": "interior face"
+    },
+    "answer": "a",
+    "explanation": "The frog (indentation) is placed facing upwards on the top face so that mortar fills it, creating a strong mechanical key with the course above[cite: 1]."
+  },
+  {
+    "question_number": 139,
+    "question": "Bull nose bricks are not used in",
+    "options": {
+      "a": "walls",
+      "b": "rounding off sharp corners",
+      "c": "arches",
+      "d": "pillars"
+    },
+    "answer": "c",
+    "explanation": "Bullnose bricks feature rounded edges and are used for corners, pillars, and door jambs, but are not suitable or standard for structural arches[cite: 1]."
+  },
+  {
+    "question_number": 140,
+    "question": "Hollow bricks are used for",
+    "options": {
+      "a": "ornamental designs",
+      "b": "thermal insulation",
+      "c": "reduction in cost",
+      "d": "earthquake resistant buildings"
+    },
+    "answer": "b",
+    "explanation": "Hollow clay blocks provide excellent thermal and acoustic insulation and reduce dead loads in buildings[cite: 1]."
+  },
+  {
+    "question_number": 141,
+    "question": "Fire bricks are used",
+    "options": {
+      "a": "to reflect heat",
+      "b": "to increase heat flow",
+      "c": "to decrease heat flow / withstand extreme temperature",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Fire bricks provide thermal insulation, lower heat loss, and withstand extreme temperatures[cite: 1]."
+  },
+  {
+    "question_number": 142,
+    "question": "Terracotta is used in building for",
+    "options": {
+      "a": "ornamental work",
+      "b": "insulation",
+      "c": "storage",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Architectural terracotta is baked clay used extensively for decorative facades, panels, and ornamental architectural features[cite: 1]."
+  },
+  {
+    "question_number": 143,
+    "question": "Bloating of bricks is due to",
+    "options": {
+      "a": "presence of excess carbonaceous matter and sulphur",
+      "b": "presence of any gas forming material in clay",
+      "c": "bad burning or rapid firing",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Bloating (swelling and spongy structure in bricks) is caused by gases escaping from excess carbonaceous matter, sulfur, or volatile compounds during rapid firing[cite: 1]."
+  },
+  {
+    "question_number": 144,
+    "question": "Swelling of bricks is known as",
+    "options": {
+      "a": "bloating",
+      "b": "lamination",
+      "c": "chuffs",
+      "d": "efflorescence"
+    },
+    "answer": "a",
+    "explanation": "The swelling and formation of porous spongy interiors in bricks due to trapped gases is termed bloating[cite: 1]."
+  },
+  {
+    "question_number": 145,
+    "question": "The quantity of sand in brick earth is about",
+    "options": {
+      "a": "1/5th",
+      "b": "2/5th",
+      "c": "3/5th",
+      "d": "4/5th"
+    },
+    "answer": "c",
+    "explanation": "Silica/sand constitutes roughly 50% to 60%, which equates to approximately 3/5th of the total brick earth mixture[cite: 1]."
+  },
+  {
+    "question_number": 146,
+    "question": "The bricks are properly soaked in water before use for the following reason",
+    "options": {
+      "a": "to wash the kiln dust for better bondage with mortar",
+      "b": "to avoid the chances of absorption of water from the mortar",
+      "c": "to spread the mortar uniformly between them",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Soaking bricks prevents them from sucking moisture out of fresh mortar, cleans dust, and helps achieve a strong, uniform bond[cite: 1]."
+  },
+  {
+    "question_number": 147,
+    "question": "In one day, the height of brick masonry construction should generally not exceed",
+    "options": {
+      "a": "1 m",
+      "b": "1.5 m",
+      "c": "2.5 m",
+      "d": "3 m"
+    },
+    "answer": "a",
+    "explanation": "To prevent excessive settlement, bulging, and misalignment under wet mortar weight, daily masonry construction height is typically restricted to 1 meter (or 1.5m maximum)[cite: 1]."
+  },
+  {
+    "question_number": 148,
+    "question": "Frog means",
+    "options": {
+      "a": "a type of amphibian",
+      "b": "elevation on brick",
+      "c": "depression on brick",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "A frog is a shallow depression formed on the top face of a brick to display the manufacturer's brand and hold mortar[cite: 1]."
+  },
+  {
+    "question_number": 149,
+    "question": "For manufacture of bricks normally the top soil is removed having a depth of",
+    "options": {
+      "a": "10 cm",
+      "b": "20 cm",
+      "c": "30 cm",
+      "d": "40 cm"
+    },
+    "answer": "c",
+    "explanation": "The top 15 to 30 cm of soil containing organic matter, roots, and impurities is stripped and discarded before digging brick earth[cite: 1]."
+  },
+  {
+    "question_number": 150,
+    "question": "Tampering of soil for manufacture of bricks is done by",
+    "options": {
+      "a": "feet",
+      "b": "pug mill",
+      "c": "feet of cattle",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Soil tempering can be performed manually by feet, by cattle trampling, or mechanically using pug mills[cite: 1]."
+  },
+  {
+    "question_number": 151,
+    "question": "In case of clamp for burning of bricks, the bricks/fuel are laid at a slope of",
+    "options": {
+      "a": "10 degrees",
+      "b": "15 degrees",
+      "c": "20 degrees",
+      "d": "25 degrees"
+    },
+    "answer": "b",
+    "explanation": "In temporary brick clamps (pazawah), layers are stacked at an inclination/slope of about 15 degrees to ensure proper draft and stability[cite: 1]."
+  },
+  {
+    "question_number": 152,
+    "question": "Normally the bricks (1st class) obtained from pazawah (clamp) is about",
+    "options": {
+      "a": "30%",
+      "b": "40%",
+      "c": "50%",
+      "d": "60% (or lower proportion compared to kilns)"
+    },
+    "answer": "d",
+    "explanation": "Clamp burning yields a lower percentage of high-quality first-class bricks compared to continuous mechanical kilns[cite: 1]."
+  },
+  {
+    "question_number": 153,
+    "question": "The top and sides of a clamp (pazawah) is plastered with mud and cow dung to prevent",
+    "options": {
+      "a": "stealing of brick",
+      "b": "low quality of brick",
+      "c": "escape of heat",
+      "d": "firing the neighboring houses"
+    },
+    "answer": "c",
+    "explanation": "Mud plastering seals the clamp to trap heat inside and control the combustion rate uniformly[cite: 1]."
+  },
+  {
+    "question_number": 154,
+    "question": "Lamination of bricks is caused due to",
+    "options": {
+      "a": "entrapped air in the voids of the clay",
+      "b": "excess lime",
+      "c": "entrapped water in the voids of the clay",
+      "d": "excess sand"
+    },
+    "answer": "a",
+    "explanation": "Lamination (layered internal splitting) in machine-pressed or poorly pugged bricks is caused by entrapped air pockets or uneven clay layers[cite: 1]."
+  },
+  {
+    "question_number": 155,
+    "question": "Strike is used to remove the",
+    "options": {
+      "a": "crowded people",
+      "b": "stop the work",
+      "c": "surplus clay of mould",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "A strike is a thin straight edge (metal or wooden strip) used to scrape off excess clay level with the top of the brick mold[cite: 1]."
+  },
+  {
+    "question_number": 156,
+    "question": "Refractory bricks are used in",
+    "options": {
+      "a": "retaining walls",
+      "b": "columns",
+      "c": "piers",
+      "d": "combustion chambers"
+    },
+    "answer": "d",
+    "explanation": "Refractory bricks line high-temperature environments such as furnaces, kilns, and combustion chambers[cite: 1]."
+  },
+  {
+    "question_number": 157,
+    "question": "Refractory bricks are",
+    "options": {
+      "a": "neutral refractory brick",
+      "b": "acid refractory brick",
+      "c": "basic refractory brick",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Refractory bricks are classified chemically into acid, basic, and neutral types depending on their application requirements[cite: 1]."
+  },
+  {
+    "question_number": 158,
+    "question": "Generally wooden moulds are made from",
+    "options": {
+      "a": "ply wood",
+      "b": "shisham",
+      "c": "pine wood",
+      "d": "teak wood"
+    },
+    "answer": "b",
+    "explanation": "Hardwoods like shisham or teak are durable and resistant to warping from wet clay, making them suitable for brick molds (Shisham/Teak)[cite: 1]."
+  },
+  {
+    "question_number": 159,
+    "question": "Choose the correct statement",
+    "options": {
+      "a": "percentage of silica is increased in 1st class brick",
+      "b": "percentage of alumina is increased in refractory brick",
+      "c": "percentage of alumina is increased in 1st class brick",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Refractory/fire bricks require high alumina content (fireclay) to withstand extreme thermal conditions without softening[cite: 1]."
+  },
+  {
+    "question_number": 160,
+    "question": "If rain water falls on hot bricks then the shape of the brick gets deformed, this defect is known as",
+    "options": {
+      "a": "efflorescence",
+      "b": "bloating",
+      "c": "chuffs",
+      "d": "nodule"
+    },
+    "answer": "c",
+    "explanation": "Chuffs are cracks and deformation caused when rainwater falls on hot burnt bricks, leading to thermal shock and warping[cite: 1]."
+  },
+  {
+    "question_number": 161,
+    "question": "The discolouration and formation of white deposits due to presence of relatively large proportion of soluble salts in a bricks is known as",
+    "options": {
+      "a": "bloating",
+      "b": "efflorescence",
+      "c": "chuffs",
+      "d": "nodules"
+    },
+    "answer": "b",
+    "explanation": "Efflorescence is the whitish crystalline powder deposit left on brick surfaces due to moisture evaporating and carrying soluble salts[cite: 1]."
+  },
+  {
+    "question_number": 162,
+    "question": "Dolomite bricks are",
+    "options": {
+      "a": "ordinary fire bricks",
+      "b": "acid refractory bricks",
+      "c": "basic refractory bricks",
+      "d": "neutral refractory bricks"
+    },
+    "answer": "c",
+    "explanation": "Dolomite bricks contain high proportions of calcium and magnesium oxides, classifying them as basic refractory bricks[cite: 1]."
+  },
+  {
+    "question_number": 163,
+    "question": "Jhumb bricks are",
+    "options": {
+      "a": "over burnt",
+      "b": "under burnt",
+      "c": "kuccha",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Jhumb bricks are severely over-burnt bricks that become distorted, fused, and vitrified, often used as ballast or aggregate[cite: 1]."
+  },
+  {
+    "question_number": 164,
+    "question": "Second class bricks",
+    "options": {
+      "a": "are well burnt",
+      "b": "are under burnt",
+      "c": "produce a metallic sound when struck",
+      "d": "are of dark brown colour"
+    },
+    "answer": "b",
+    "explanation": "Second-class bricks are slightly under-burnt or have minor shape/color irregularities compared to first-class bricks (or depending on option, standard distinctions apply)[cite: 1]."
+  },
+  {
+    "question_number": 165,
+    "question": "The reason for the popularity of bricks as construction material is that",
+    "options": {
+      "a": "they are cheap and available locally at all places",
+      "b": "they are durable and possess fairly good strength and lighter than stones",
+      "c": "they have very good insulating property against heat and sound",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Bricks are popular due to local availability, low cost, uniform size, durability, and decent thermal/acoustic insulation[cite: 1]."
+  },
+  {
+    "question_number": 166,
+    "question": "The most widely used kiln in Nepal is",
+    "options": {
+      "a": "hoffman's kiln",
+      "b": "bull's trench kiln",
+      "c": "clamp kiln",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Bull's Trench Kiln (BTK) is the most common and widely utilized continuous brick kiln across Nepal and South Asia[cite: 1]."
+  },
+  {
+    "question_number": 167,
+    "question": "The standard size of brick as per Indian standard is",
+    "options": {
+      "a": "20 x 10 x 10 cm³",
+      "b": "23 x 12 x 8 cm³",
+      "c": "19 x 9 x 9 cm³",
+      "d": "18 x 9 x 9 cm³"
+    },
+    "answer": "c",
+    "explanation": "The standard modular brick size specified by the Bureau of Indian Standards (BIS) is 190 x 90 x 90 mm (19 x 9 x 9 cm) with mortar joints making it 20 x 10 x 10 cm[cite: 1]."
+  },
+  {
+    "question_number": 168,
+    "question": "The soil used for the manufacture of bricks should preferably not contain the following material",
+    "options": {
+      "a": "alkalies",
+      "b": "pebbles",
+      "c": "kankar",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Alkalis, pebbles, and kankar lumps all cause serious structural defects, cracking, or surface blemishes in bricks[cite: 1]."
+  },
+  {
+    "question_number": 169,
+    "question": "The maximum percentages of fine sand content in soil for making good tiles is about",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "40",
+      "d": "50"
+    },
+    "answer": "c",
+    "explanation": "Tile-making clay mixtures typically require controlled sand fractions (up to roughly 40%) to prevent excessive shrinkage[cite: 1]."
+  },
+  {
+    "question_number": 170,
+    "question": "The maximum percentages of clay content for making good tiles, is about",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "40",
+      "d": "50"
+    },
+    "answer": "d",
+    "explanation": "Good quality ceramic or tile earth balances clay content up to around 50% to maintain plasticity and strength[cite: 1]."
+  },
+  {
+    "question_number": 171,
+    "question": "The maximum percentages of silt content for making good tiles, is about",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "40",
+      "d": "50"
+    },
+    "answer": "b",
+    "explanation": "Silt content in optimal tile earth formulations is controlled around 30%[cite: 1]."
+  },
+  {
+    "question_number": 172,
+    "question": "The maximum percentages of warping along the sides of tiles, is",
+    "options": {
+      "a": "2",
+      "b": "5",
+      "c": "8",
+      "d": "1.1"
+    },
+    "answer": "a",
+    "explanation": "Quality standards specify strict dimensional tolerances, limiting permissible edge warping in tiles to low percentages (e.g., around 2%)[cite: 1]."
+  },
+  {
+    "question_number": 173,
+    "question": "Which one is correct?",
+    "options": {
+      "a": "quick lime slow in setting",
+      "b": "quick lime rapid in slaking",
+      "c": "quick lime generates heat on water addition",
+      "d": "quick lime is obtained by calcination of pure lime",
+      "e": "all of the above"
+    },
+    "answer": "e",
+    "explanation": "Quick lime (calcium oxide) slakes rapidly upon water addition, generates significant exothermic heat, and is produced via the calcination of limestone[cite: 1]."
+  },
+  {
+    "question_number": 174,
+    "question": "The main constituents, which is mainly responsible for hydraulicity is",
+    "options": {
+      "a": "water",
+      "b": "clay",
+      "c": "silica",
+      "d": "calcium oxide"
+    },
+    "answer": "b",
+    "explanation": "Clay (silicates of alumina) present in hydraulic limes and cements reacts with calcium to provide setting properties under water (hydraulicity)[cite: 1]."
+  },
+  {
+    "question_number": 175,
+    "question": "Which one is correct?",
+    "options": {
+      "a": "normally concreting is done above 20 degrees C",
+      "b": "optimum temperature for concreting is 27 +/- 2 degrees C",
+      "c": "consistency test is done at a temperature of 25 degrees C to 29 degrees C",
+      "d": "consistency & setting time for a concrete is obtained by vicat's apparatus",
+      "e": "all of the above / standard laboratory condition parameters"
+    },
+    "answer": "e",
+    "explanation": "Standard laboratory testing temperatures for cement and concrete consistency/setting time tests are typically maintained at 27 +/- 2 degrees C[cite: 1]."
+  }
+]

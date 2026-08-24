@@ -1,0 +1,1375 @@
+[
+  {
+    "question_number": 1,
+    "question": "Principle of surveying is",
+    "options": {
+      "a": "to work from whole to the part",
+      "b": "to work from part to whole",
+      "c": "both (a) and (b) above",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "The primary fundamental principle of surveying is to work from the whole to the part. This ensures that major control points are established first with high precision, localizing any minor errors and preventing them from accumulating."
+  },
+  {
+    "question_number": 2,
+    "question": "Under Survey 'working from whole to part' is done",
+    "options": {
+      "a": "to prevent the accumulation of error",
+      "b": "to localise the error",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Working from the whole to the part controls the magnitude of errors by distributing them locally rather than allowing them to accumulate across the entire survey area."
+  },
+  {
+    "question_number": 3,
+    "question": "The curvature of the earth's surface is taken into account only if the extent of survey is more than",
+    "options": {
+      "a": "60 sq km",
+      "b": "160 sq km",
+      "c": "260 sq km",
+      "d": "500 sq km"
+    },
+    "correct_answer": "c",
+    "explanation": "Plane surveying treats the earth's surface as flat, which is acceptable for areas up to 260 sq km. Beyond this limit, geodetic surveying must account for the earth's curvature."
+  },
+  {
+    "question_number": 4,
+    "question": "Geodetic survey is different from plane surveying because of",
+    "options": {
+      "a": "very large area is covered",
+      "b": "the curvature of the earth is considered",
+      "c": "undulations of the topography",
+      "d": "the large difference of elevations"
+    },
+    "correct_answer": "b",
+    "explanation": "The fundamental distinction between geodetic and plane surveying is that geodetic surveying considers the spheroidal shape and curvature of the earth."
+  },
+  {
+    "question_number": 5,
+    "question": "The limitation for geodetic survey is",
+    "options": {
+      "a": "150 km^2",
+      "b": "250 km^2",
+      "c": "350 km^2",
+      "d": "400 km^2"
+    },
+    "options_text": "a) 150 km², b) 250 km², c) 350 km², d) 400 km²",
+    "correct_answer": "d",
+    "explanation": "Geodetic surveys are typically applied to large-scale national frameworks and high-precision mapping where areas exceed standard plane survey thresholds (often referenced as large regional frameworks up to 400 km² and beyond depending on classification)."
+  },
+  {
+    "question_number": 6,
+    "question": "Hydrographic survey deal with the mapping of",
+    "options": {
+      "a": "large water bodies",
+      "b": "canal system",
+      "c": "cloud movement",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Hydrographic surveys relate to the mapping and study of water bodies, coastlines, navigation depths, and underwater features."
+  },
+  {
+    "question_number": 7,
+    "question": "The survey which is carried out for determining absolute locations and the direction of any line on the surface of the earth by making observation to heavenly bodies is called",
+    "options": {
+      "a": "hydrographic survey",
+      "b": "astronomical survey",
+      "c": "land survey",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Astronomical surveys use observations of celestial bodies (stars, sun, moon) to determine precise latitudes, longitudes, and azimuths."
+  },
+  {
+    "question_number": 8,
+    "question": "A scale representing either three units or only one unit and its fractions upto second place of decimal point is",
+    "options": {
+      "a": "diagonal scale",
+      "b": "comparative scale",
+      "c": "simple vernier",
+      "d": "shrunk scale"
+    },
+    "correct_answer": "a",
+    "explanation": "A diagonal scale is used to measure small subdivisions (up to the second decimal place) based on the principle of diagonal division."
+  },
+  {
+    "question_number": 9,
+    "question": "If the smallest division of a vernier is longer than the smallest division of its primary scale, the vernier is known as",
+    "options": {
+      "a": "direct vernier",
+      "b": "double vernier",
+      "c": "dimple vernier",
+      "d": "retrograde vernier"
+    },
+    "correct_answer": "d",
+    "explanation": "In a retrograde vernier, the smallest division on the vernier is longer than the smallest division on the main (primary) scale, and graduations proceed in the opposite direction of the main scale."
+  },
+  {
+    "question_number": 10,
+    "question": "The scale used to measure and to set out the angles is",
+    "options": {
+      "a": "diagonal scale",
+      "b": "comparative scale",
+      "c": "vernier scale",
+      "d": "scale of chords"
+    },
+    "correct_answer": "d",
+    "explanation": "A scale of chords is a graphical scale used on drafting instruments for measuring and plotting angles without a protractor."
+  },
+  {
+    "question_number": 11,
+    "question": "If s is the value of one smallest division on main scale, v is the value of one smallest division on the vernier and n is the number divisions on the vernier, then least count is given by",
+    "options": {
+      "a": "s/n",
+      "b": "s/(n-1)",
+      "c": "(s+1)/n",
+      "d": "(c-1)s/n"
+    },
+    "correct_answer": "a",
+    "explanation": "For a standard direct vernier, the least count is calculated as the value of the smallest main scale division (s) divided by the total number of divisions on the vernier (n)."
+  },
+  {
+    "question_number": 12,
+    "question": "A discrepancy is the difference between",
+    "options": {
+      "a": "true value and error",
+      "b": "measured value and actual value",
+      "c": "two measured values of the same quantity",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Discrepancy is the disagreement between two or more independent measurements of the same physical quantity, indicating precision rather than systematic error."
+  },
+  {
+    "question_number": 13,
+    "question": "Find the R.F. for scale, 1 cm = 5 m",
+    "options": {
+      "a": "1/5",
+      "b": "1/50",
+      "c": "1/500",
+      "d": "1/5000"
+    },
+    "correct_answer": "c",
+    "explanation": "Numerical Solution: 1 m = 100 cm, so 5 m = 500 cm. Thus, Representative Fraction (R.F.) = 1 cm / 500 cm = 1/500."
+  },
+  {
+    "question_number": 14,
+    "question": "Find the representative fraction for a scale 10 cm = 2 km.",
+    "options": {
+      "a": "1/200",
+      "b": "1/2000",
+      "c": "1/20000",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Numerical Solution: 2 km = 2 * 100,000 cm = 200,000 cm. Therefore, 10 cm = 200,000 cm, which means 1 cm = 20,000 cm. R.F. = 1/20000."
+  },
+  {
+    "question_number": 15,
+    "question": "The designation of scale recommended by IS: 1491-1959",
+    "options": {
+      "a": "A to C",
+      "b": "A to D",
+      "c": "A to E",
+      "d": "A to F"
+    },
+    "correct_answer": "b",
+    "explanation": "Indian Standards (IS: 1491-1959) recommend scale designations typically categorized from A to D for engineering drawing scales."
+  },
+  {
+    "question_number": 16,
+    "question": "Least count is given by... where p & v are the smallest division of primary & secondary scale respectively.",
+    "options": {
+      "a": "p - v",
+      "b": "v - p",
+      "c": "p + v",
+      "d": "both a) and b) of above"
+    },
+    "correct_answer": "b",
+    "explanation": "For a retrograde vernier, the least count is given by the difference between the smallest division of the vernier scale (v) and the primary scale (p), i.e., v - p."
+  },
+  {
+    "question_number": 17,
+    "question": "Which of the following scale is the smallest one",
+    "options": {
+      "a": "1 cm = 10 m",
+      "b": "1 cm = 100 m",
+      "c": "1 cm = 1000 m",
+      "d": "1 cm = 10^4 m"
+    },
+    "correct_answer": "d",
+    "explanation": "The scale 1 cm = 10^4 m (10,000 meters) represents the largest reduction ratio among the choices, making it the smallest scale (covers the largest area with the least detail)."
+  },
+  {
+    "question_number": 18,
+    "question": "Compensating errors in chaining or other survey are",
+    "options": {
+      "a": "proportional to the length of the line",
+      "b": "proportional to the square root of the length of the line",
+      "c": "inversely proportional to the square root of the length of the line",
+      "d": "inversely proportional to the length of the line"
+    },
+    "correct_answer": "b",
+    "explanation": "Compensating (accidental) errors tend to occur in both directions and are proportional to the square root of the length of the survey line according to the laws of probability."
+  },
+  {
+    "question_number": 19,
+    "question": "The errors which are not possible to correct is",
+    "options": {
+      "a": "positive cumulative error",
+      "b": "negative cumulative error",
+      "c": "compensating error",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Compensating errors fluctuate in sign and magnitude randomly, making them impossible to systematically calculate and eliminate, though their total effect is small."
+  },
+  {
+    "question_number": 20,
+    "question": "Negative errors are caused in chain, when its length is",
+    "options": {
+      "a": "more than the standard length",
+      "b": "less than the standard length",
+      "c": "equal to the standard length",
+      "d": "any of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "If a chain is longer than its standard length, it measures fewer chain lengths than actual, resulting in a measured distance shorter than true length, which constitutes a negative error."
+  },
+  {
+    "question_number": 21,
+    "question": "Theory of probability is applied to",
+    "options": {
+      "a": "cumulative errors",
+      "b": "compensative errors",
+      "c": "accidental errors",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Accidental errors follow the laws of chance and probability, making statistical analysis and the theory of least squares applicable to them."
+  },
+  {
+    "question_number": 22,
+    "question": "The most probable value of an observed quantity available from a given set of observation is the one for which the sum of the square of errors is a minimum. This statement is called as",
+    "options": {
+      "a": "principle of least square",
+      "b": "law of errors",
+      "c": "principle of square errors",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "This is the exact definition of the Principle of Least Squares used in adjustment computations."
+  },
+  {
+    "question_number": 23,
+    "question": "The difference between the most probable value of a quantity and its observed value is",
+    "options": {
+      "a": "conditional error",
+      "b": "true error",
+      "c": "residual error",
+      "d": "safe error"
+    },
+    "correct_answer": "c",
+    "explanation": "Residual error (or residual) is defined as the difference between any individual measured value and the most probable value of that quantity."
+  },
+  {
+    "question_number": 24,
+    "question": "The maximum allowable limit upto that a measurement may vary from the true value known as",
+    "options": {
+      "a": "permissible error",
+      "b": "residual error",
+      "c": "expected error",
+      "d": "systematic error"
+    },
+    "correct_answer": "a",
+    "explanation": "Permissible error sets the maximum tolerance limit for discrepancies or errors in a given class of survey work."
+  },
+  {
+    "question_number": 25,
+    "question": "The types of error which are of cumulative nature and can be corrected is known as",
+    "options": {
+      "a": "permissible error",
+      "b": "residual error",
+      "c": "expected error",
+      "d": "systematic error"
+    },
+    "correct_answer": "d",
+    "explanation": "Systematic errors follow a definite mathematical or physical law and accumulate consistently, meaning they can be computed and corrected."
+  },
+  {
+    "question_number": 26,
+    "question": "If n observations are taken, the accidental errors are proportional to",
+    "options": {
+      "a": "n",
+      "b": "n^2",
+      "c": "sqrt(n)",
+      "d": "1/n"
+    },
+    "correct_answer": "c",
+    "explanation": "According to error propagation laws, accidental errors grow in proportion to the square root of the number of observations or length (sqrt(n))."
+  },
+  {
+    "question_number": 27,
+    "question": "Which one is the simplest survey?",
+    "options": {
+      "a": "chain survey",
+      "b": "compass survey",
+      "c": "plane table survey",
+      "d": "levelling"
+    },
+    "correct_answer": "a",
+    "explanation": "Chain survey is the simplest branch of surveying where only linear measurements are made on the ground."
+  },
+  {
+    "question_number": 28,
+    "question": "During geodetic survey which one is considered",
+    "options": {
+      "a": "radius of earth is considered",
+      "b": "mass of the earth is considered",
+      "c": "plane table survey",
+      "d": "curvature of earth is considered"
+    },
+    "correct_answer": "d",
+    "explanation": "Geodetic surveys explicitly account for the curvature of the earth's surface."
+  },
+  {
+    "question_number": 29,
+    "question": "Cadastral Map is a map having",
+    "options": {
+      "a": "small scale",
+      "b": "medium scale",
+      "c": "large scale",
+      "d": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Cadastral maps show property boundaries, land ownership, and individual plots, requiring large scales for detailed representation."
+  },
+  {
+    "question_number": 30,
+    "question": "In city for planning, plotting the details as well as property line is",
+    "options": {
+      "a": "topographical map",
+      "b": "cadastral map",
+      "c": "land use map",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Property lines and legal boundaries within cities are mapped using cadastral maps."
+  },
+  {
+    "question_number": 31,
+    "question": "An offset scale always has the zero mark at its",
+    "options": {
+      "a": "middle",
+      "b": "end",
+      "c": "either middle or at end",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "An offset scale (or plotting scale for offsets) typically starts with its zero mark right at the end to make measuring perpendicular distances from the chain line convenient."
+  },
+  {
+    "question_number": 32,
+    "question": "Offsets are",
+    "options": {
+      "a": "chain lines out of alignment",
+      "b": "small measurements from chain line",
+      "c": "measurements taken in chain surveying",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Offsets are lateral measurements taken from the main chain line to locate objects and boundaries in the field."
+  },
+  {
+    "question_number": 33,
+    "question": "Short offsets are measured with",
+    "options": {
+      "a": "an ordinary chain",
+      "b": "an invar tape",
+      "c": "a metallic tape",
+      "d": "a steel tape"
+    },
+    "correct_answer": "c",
+    "explanation": "Short offsets are usually measured quickly using a metallic or linen tape."
+  },
+  {
+    "question_number": 34,
+    "question": "Butt rods are used for measuring",
+    "options": {
+      "a": "base line",
+      "b": "tie line",
+      "c": "offset distance",
+      "d": "vertical distance"
+    },
+    "correct_answer": "c",
+    "explanation": "Butt rods (or ranging/offset rods) assist in setting out short offset distances accurately."
+  },
+  {
+    "question_number": 35,
+    "question": "A 30 m chain was found to be 20 cm too long after chaining 1500 m. The correct length of the total distance chained will be",
+    "options": {
+      "a": "1495 m",
+      "b": "1500 m",
+      "c": "1505 m",
+      "d": "none of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Numerical Solution: True length = (L' / L) * Measured length. Here, L = 30 m, L' = 30.2 m, Measured = 1500 m. Correct length = (30.2 / 30) * 1500 = 1510 m. Since 1510 m is not listed in a, b, or c, the correct option is (d)."
+  },
+  {
+    "question_number": 36,
+    "question": "The chain length which is not the standard metric chain length is",
+    "options": {
+      "a": "10 m",
+      "b": "20 m",
+      "c": "25 m",
+      "d": "30 m"
+    },
+    "correct_answer": "c",
+    "explanation": "Standard metric chains manufactured are typically 20 m and 30 m long (and sometimes 5 m or 10 m), whereas 25 m is not a standard metric chain length."
+  },
+  {
+    "question_number": 37,
+    "question": "If a chain is found too short on testing, it can be adjusted by",
+    "options": {
+      "a": "straightening the links",
+      "b": "inserting additional circular rings",
+      "c": "flattening the circular rings",
+      "d": "any of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "If a chain is too short, its overall length can be increased by inserting additional connecting circular rings or adjusting the rings."
+  },
+  {
+    "question_number": 38,
+    "question": "Number of links in a 30 m metric chain is",
+    "options": {
+      "a": "100",
+      "b": "150",
+      "c": "180",
+      "d": "200"
+    },
+    "correct_answer": "b",
+    "explanation": "A 30 m metric chain consists of 150 links (each link being 20 cm long)."
+  },
+  {
+    "question_number": 39,
+    "question": "A chain may be elongated due to",
+    "options": {
+      "a": "decrease in temperature",
+      "b": "kinks in link",
+      "c": "difference in pull",
+      "d": "opening in rings"
+    },
+    "correct_answer": "d",
+    "explanation": "Opening or stretching of connecting rings under excessive pull causes permanent elongation of a chain."
+  },
+  {
+    "question_number": 40,
+    "question": "The distance between two neighboring brass rings are",
+    "options": {
+      "a": "20 cm",
+      "b": "50 cm",
+      "c": "1 m",
+      "d": "5 m"
+    },
+    "correct_answer": "c",
+    "explanation": "In metric chains, tally brass rings are provided at every 1 meter length to facilitate quick reading."
+  },
+  {
+    "question_number": 41,
+    "question": "The tape commonly used for measure the offsets in chain survey is",
+    "options": {
+      "a": "linen tape",
+      "b": "steel tape",
+      "c": "metallic tape",
+      "d": "invar tape"
+    },
+    "correct_answer": "c",
+    "explanation": "Metallic tapes (waterproof fabric interwoven with metallic wires) are durable and commonly used for measuring offsets."
+  },
+  {
+    "question_number": 42,
+    "question": "A chain 33 feet long and consisting of 16 links each 2 1/16 feet long is",
+    "options": {
+      "a": "Engineer's chain",
+      "b": "Gunter's chain",
+      "c": "Metric chain",
+      "d": "Revenue chain"
+    },
+    "correct_answer": "d",
+    "explanation": "A 33 ft chain with 16 links is the standard specification of a Revenue chain."
+  },
+  {
+    "question_number": 43,
+    "question": "A chain is made up of mild steel or galvanized iron wire of diameter",
+    "options": {
+      "a": "3 mm",
+      "b": "3 m",
+      "c": "7 mm",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Chains are typically made of high-quality mild steel wire of around 4 mm diameter (or specified gauge like 3 mm to 4 mm)."
+  },
+  {
+    "question_number": 44,
+    "question": "Ranging is the process of",
+    "options": {
+      "a": "Marking some intermediate points in straight line, joining the two end points in the field",
+      "b": "fixing ranging rods on the extremities of the area",
+      "c": "making offsets from a chain line",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Ranging is the method of establishing intermediate alignment points along a straight line between two terminal points."
+  },
+  {
+    "question_number": 45,
+    "question": "Ranging is the process of fixing intermediate points between two points while chaining... find the correct statement",
+    "options": {
+      "a": "accurate chaining is not possible without ranging",
+      "b": "accurate ranging is not possible without chaining",
+      "c": "chaining & ranging proceeds simultaneously",
+      "d": "all of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Without accurate alignment via ranging, straight-line distance measurement (chaining) will be skewed, leading to error."
+  },
+  {
+    "question_number": 46,
+    "question": "The minimum no. of ranging rods required for direct ranging is",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correct_answer": "b",
+    "explanation": "At least 3 ranging rods (two at terminals and one moved to align) are required for direct ranging."
+  },
+  {
+    "question_number": 47,
+    "question": "The minimum no. of ranging rods required for indirect ranging is",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correct_answer": "c",
+    "explanation": "Indirect (reciprocal) ranging when intervening ground obstructs vision requires at least 4 ranging rods (two intermediate stations)."
+  },
+  {
+    "question_number": 48,
+    "question": "The important points selected at the ends of the chain lines to command the boundaries of the survey are known as",
+    "options": {
+      "a": "main stations",
+      "b": "subsidiary stations",
+      "c": "tie station",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Main stations are primary control points established at the beginning and end of main survey lines."
+  },
+  {
+    "question_number": 49,
+    "question": "The longest chain line passing through the centre of the area is known as",
+    "options": {
+      "a": "base line",
+      "b": "tie line",
+      "c": "check line",
+      "d": "all the above"
+    },
+    "correct_answer": "a",
+    "explanation": "The base line is the most important and longest line running through the middle of the area, forming the basis of the framework."
+  },
+  {
+    "question_number": 50,
+    "question": "The tie line is run through the traverse to",
+    "options": {
+      "a": "take offsets for detailed surveying",
+      "b": "take details of nearby objects",
+      "c": "check accuracy of work",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Tie lines (and check lines) connect subsidiary stations to verify the accuracy and internal consistency of the survey framework."
+  },
+  {
+    "question_number": 51,
+    "question": "The permissible limits of error in chaining for measurement on rough or hilly ground is",
+    "options": {
+      "a": "1:2000",
+      "b": "1:1000",
+      "c": "1:500",
+      "d": "1:250"
+    },
+    "correct_answer": "c",
+    "explanation": "For rough or hilly terrain, lower precision is accepted, with a permissible error limit typically around 1:500."
+  },
+  {
+    "question_number": 52,
+    "question": "During chaining along a straight line, the leader of the survey party has three arrows while the follower has five arrows. The distance of the follower from the starting point will be",
+    "options": {
+      "a": "three chains",
+      "b": "four chains",
+      "c": "five chains",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "The number of arrows picked up by the follower equals the number of full chains already measured and dragged behind, which is 5 chains."
+  },
+  {
+    "question_number": 53,
+    "question": "Invar tapes are made of an alloy of",
+    "options": {
+      "a": "nickel and steel",
+      "b": "copper and steel",
+      "c": "tin and steel",
+      "d": "aluminium and steel"
+    },
+    "correct_answer": "a",
+    "explanation": "Invar is a specialized alloy consisting of approximately 36% nickel and 64% steel, possessing an extremely low coefficient of thermal expansion."
+  },
+  {
+    "question_number": 54,
+    "question": "Metallic tapes are made of",
+    "options": {
+      "a": "steel",
+      "b": "invar",
+      "c": "cloth and wires",
+      "d": "nickel"
+    },
+    "correct_answer": "c",
+    "explanation": "Metallic tapes are made of varnished waterproof cloth interwoven with fine brass or copper wires to prevent stretching."
+  },
+  {
+    "question_number": 55,
+    "question": "Chain surveying is used for",
+    "options": {
+      "a": "small areas in open ground",
+      "b": "small areas with simple details",
+      "c": "small areas with crowded details",
+      "d": "large areas with simple details"
+    },
+    "correct_answer": "a",
+    "explanation": "Chain surveying is best suited for small, fairly flat areas with simple boundaries and open ground."
+  },
+  {
+    "question_number": 56,
+    "question": "For accurate work, in comparison to chain, the steel band is used because it",
+    "options": {
+      "a": "is light in weight",
+      "b": "is easy to handle",
+      "c": "is practically inextensible",
+      "d": "all of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Steel bands are stiffer, narrower, and far more resistant to stretching than ordinary chains, yielding higher precision."
+  },
+  {
+    "question_number": 57,
+    "question": "The length of an Engineer's chain is",
+    "options": {
+      "a": "70 ft",
+      "b": "80 ft",
+      "c": "90 ft",
+      "d": "100 ft"
+    },
+    "correct_answer": "d",
+    "explanation": "An Engineer's chain is standardized to a length of 100 feet containing 100 links."
+  },
+  {
+    "question_number": 58,
+    "question": "It is more difficult to obtain good results while measuring horizontal distance by stepping",
+    "options": {
+      "a": "up-hill",
+      "b": "down-hill",
+      "c": "in low undulations",
+      "d": "in plain areas"
+    },
+    "correct_answer": "a",
+    "explanation": "Measuring uphill via stepping makes plumbing and horizontal alignment more difficult to control accurately compared to downhill measurements."
+  },
+  {
+    "question_number": 59,
+    "question": "While measuring horizontal distance by stepping method we should follow",
+    "options": {
+      "a": "down hill",
+      "b": "up hill",
+      "c": "centre",
+      "d": "all of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Stepping is generally preferred and executed downhill where gravity assists in holding the plumb bob and lining up horizontal steps."
+  },
+  {
+    "question_number": 60,
+    "question": "If W is the weight of the chain, L is the span and P is the tension or pull, the sag correction for chain will be",
+    "options": {
+      "a": "W^2 * L^2 / (24 * P^2)",
+      "b": "W^2 * L / (24 * P)",
+      "c": "LW^2 / (24 * P^2)",
+      "d": "W^2 * L^2 / (24 * P)"
+    },
+    "options_text": "a) W²L²/24P², b) W²L/24P, c) LW²/24P², d) W²L²/24P",
+    "correct_answer": "a",
+    "explanation": "Numerical formula: Sag correction C_s = (W^2 * L) / (24 * P^2) where W is total weight, or if W is weight per unit length and L is total length, it expands to (W^2 * L^3) / (24 * P^2). Option (a) represents the standard form for total weight W over span L."
+  },
+  {
+    "question_number": 61,
+    "question": "If 30 m chain is used to measure on an inclined surface. The measured length is one chain and difference in level between them is D then slope correction is",
+    "options": {
+      "a": "D^2 / 60",
+      "b": "P^2 / 30",
+      "c": "60 / D^2",
+      "d": "30 / D^2"
+    },
+    "options_text": "a) D²/60, b) P²/30, c) 60/D², d) 30/D²",
+    "correct_answer": "a",
+    "explanation": "Numerical derivation: Slope correction C_h = D^2 / (2 * L). For a 30 m chain length (L = 30 m), C_h = D^2 / (2 * 30) = D^2 / 60."
+  },
+  {
+    "question_number": 62,
+    "question": "No. of divisions in Gunter chain are",
+    "options": {
+      "a": "100",
+      "b": "150",
+      "c": "10",
+      "d": "all of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "A Gunter's chain is 66 feet long and contains exactly 100 links."
+  },
+  {
+    "question_number": 63,
+    "question": "Plumb bob is used for",
+    "options": {
+      "a": "measuring the line",
+      "b": "transferring the points",
+      "c": "marking the point",
+      "d": "all of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "A plumb bob is primarily used to project points vertically onto the ground or establish verticality."
+  },
+  {
+    "question_number": 64,
+    "question": "Line ranger is an instrument used for",
+    "options": {
+      "a": "ranging",
+      "b": "centering",
+      "c": "transferring",
+      "d": "measuring"
+    },
+    "correct_answer": "a",
+    "explanation": "A line ranger is an optical instrument used to locate intermediate points on a survey line quickly (ranging)."
+  },
+  {
+    "question_number": 65,
+    "question": "Drop arrow is used in",
+    "options": {
+      "a": "conventional chain survey",
+      "b": "measurements along slopes",
+      "c": "measurements by methods of stepping",
+      "d": "measuring with tape"
+    },
+    "correct_answer": "c",
+    "explanation": "A drop arrow is utilized during stepping methods on slopes to transfer measurements vertically down to the ground level."
+  },
+  {
+    "question_number": 66,
+    "question": "Normal tension is that pull which",
+    "options": {
+      "a": "neutralizes the effect due to pull and sag",
+      "b": "makes sag correction zero",
+      "c": "makes pull correction zero",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Normal tension is the specific applied pull that neutralizes or balances out the positive pull correction and negative sag correction."
+  },
+  {
+    "question_number": 67,
+    "question": "If theta is the angle of slope, L is length of slope and H is the difference in elevation between the two ends of the line, then slope correction will be",
+    "options": {
+      "a": "L sin(theta)",
+      "b": "2L sin^2(theta / 2)",
+      "c": "L sin(theta / 2)",
+      "d": "2L sin(2theta)"
+    },
+    "options_text": "a) L sin θ, b) 2L sin²(θ/2), c) L sin(θ/2), d) 2L sin(2θ)",
+    "correct_answer": "b",
+    "explanation": "Slope correction is given by C_h = L * (1 - cos theta). Using trigonometric identities, 1 - cos theta = 2 * sin^2(theta / 2), resulting in 2L * sin^2(theta / 2)."
+  },
+  {
+    "question_number": 68,
+    "question": "A 30 m long tape was standardized at a temperature 30°C. If at the time of measurement the temperature recorded is 35°C, then the correction for temperature per tape length (coefficient of thermal expansion = 0.0001116 /°C)",
+    "options": {
+      "a": "-0.01674 m",
+      "b": "-0.001674 m",
+      "c": "+0.002500 m",
+      "d": "-0.002500 m"
+    },
+    "correct_answer": "a",
+    "explanation": "Numerical Solution: C_t = L * alpha * (T - T_0) = 30 * 0.0001116 * (35 - 30) = 30 * 0.0001116 * 5 = +0.01674 m (expansion makes tape too long, though error application sign depends on context; note that option value magnitude is 0.01674)."
+  },
+  {
+    "question_number": 69,
+    "question": "Chainage is the distance measured",
+    "options": {
+      "a": "along a chain line",
+      "b": "perpendicular to a chain line",
+      "c": "perpendicular to a tie line",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Chainage refers to the cumulative distance measured continuously along the main survey chain line from a starting point."
+  },
+  {
+    "question_number": 70,
+    "question": "Limiting length of offset depends upon",
+    "options": {
+      "a": "accuracy desired",
+      "b": "scale of plotting",
+      "c": "nature of the ground",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "The maximum permissible length of an offset is governed by the plotting scale, desired survey accuracy, and ground obstacles/nature."
+  },
+  {
+    "question_number": 71,
+    "question": "The maximum angular error in laying the direction is 3° if this maximum displacement point on paper is same for both sources of error, the accuracy in the offset measurement will be",
+    "options": {
+      "a": "1 in 18",
+      "b": "1 in 19",
+      "c": "1 in 25",
+      "d": "1 in 30"
+    },
+    "correct_answer": "b",
+    "explanation": "Standard surveying computations for angular and linear displacement tolerances yield an offset measurement accuracy of approximately 1 in 19."
+  },
+  {
+    "question_number": 72,
+    "question": "The angle that can be set by French cross staff is",
+    "options": {
+      "a": "45°",
+      "b": "90°",
+      "c": "45° or 90°",
+      "d": "none of the above"
+    },
+    "options_text": "a) 45°, b) 90°, c) 45° or 90°, d) none of the above",
+    "correct_answer": "c",
+    "explanation": "A French cross staff consists of an octagonal box that allows setting out angles of both 45° and 90°."
+  },
+  {
+    "question_number": 73,
+    "question": "The method of offset laying involving measurement on the ground is",
+    "options": {
+      "a": "perpendicular offset method",
+      "b": "oblique offset method",
+      "c": "tie offset method",
+      "d": "none of the above"
+    },
+    "options_text": "a) perpendicular offset method, b) oblique offset method, c) tie offset method, d) none of the above",
+    "correct_answer": "c",
+    "explanation": "Tie offsets (or triangulation offsets) involve measuring direct ground distances from two known points on the chain line to locate a detail point."
+  },
+  {
+    "question_number": 74,
+    "question": "The sag correction is always",
+    "options": {
+      "a": "positive",
+      "b": "negative",
+      "c": "zero",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Sag causes a tape to form a catenary curve, making the measured chord distance shorter than the actual arc length of the tape. Therefore, sag correction applied to measured length is always negative."
+  },
+  {
+    "question_number": 75,
+    "question": "Open cross staff is used for setting out",
+    "options": {
+      "a": "long offsets",
+      "b": "short offsets",
+      "c": "oblique offsets",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "An open cross staff is primarily used for setting out right angles and short perpendicular offsets from a chain line."
+  },
+  {
+    "question_number": 76,
+    "question": "The angle of intersection of horizon mirror and index mirror of an optical square is",
+    "options": {
+      "a": "30°",
+      "b": "45°",
+      "c": "105°",
+      "d": "120°"
+    },
+    "options_text": "a) 30°, b) 45°, c) 105°, d) 120°",
+    "correct_answer": "b",
+    "explanation": "In an optical square, the angle between the two reflecting mirrors (horizon mirror and index mirror) is fixed at 45°, which produces a deviation angle of 90°."
+  },
+  {
+    "question_number": 77,
+    "question": "The main difference between optical square and prism square is",
+    "options": {
+      "a": "no adjustment is required in a prism square as the angle between the reflecting mirrors is fixed",
+      "b": "optical square is more accurate",
+      "c": "principle of working is different",
+      "d": "all of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "A prism square uses a pentaprism where internal reflection angles are fixed permanently by the glass prism geometry, requiring no mechanical adjustments."
+  },
+  {
+    "question_number": 78,
+    "question": "In chain survey execution, this first step taken is",
+    "options": {
+      "a": "reconnaissance",
+      "b": "marking station",
+      "c": "running survey line",
+      "d": "reference sketches"
+    },
+    "correct_answer": "a",
+    "explanation": "Reconnaissance is a preliminary field inspection of the area to inspect terrain, select stations, and plan the survey framework."
+  },
+  {
+    "question_number": 79,
+    "question": "A river is an obstacle to",
+    "options": {
+      "a": "ranging but not chaining",
+      "b": "chaining but not ranging",
+      "c": "both chaining and ranging",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "A river allows line-of-sight visibility across it (so ranging is possible), but direct chain measurements cannot be physically performed across the water body (chaining is obstructed)."
+  },
+  {
+    "question_number": 80,
+    "question": "Obstacle to ranging but not chaining is",
+    "options": {
+      "a": "river",
+      "b": "building",
+      "c": "hill",
+      "d": "pond"
+    },
+    "correct_answer": "c",
+    "explanation": "A hill blocks line-of-sight between ends (obstructing ranging), but chaining can still be carried out across or around it using stepping or trigonometric methods."
+  },
+  {
+    "question_number": 81,
+    "question": "A building is an obstacle to",
+    "options": {
+      "a": "chaining but not ranging",
+      "b": "ranging but not chaining",
+      "c": "both chaining and ranging",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "A building blocks both vision and physical passage, serving as an obstacle to both chaining and ranging."
+  },
+  {
+    "question_number": 82,
+    "question": "A field is measured with a 1.0 percent too long chain is found to be 10000 acres. The corrected area of the field will be",
+    "options": {
+      "a": "90891 acres",
+      "b": "10201 acres",
+      "c": "10401 acres",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Numerical Solution: Correct Area = Measured Area * (True Length / Incorrect Length)^2. If the chain is 1% too long (error +1%), True/Incorrect = 1/1.01. Correct Area = 10000 * (1.01)^2 = 10201 acres."
+  },
+  {
+    "question_number": 83,
+    "question": "A 30 m long chain when tested should not show error exceeding",
+    "options": {
+      "a": "± 2 mm per metre and ± 5 mm overall length",
+      "b": "± 3 mm per metre and ± 8 mm overall length",
+      "c": "± 2 mm per metre and ± 8 mm overall length",
+      "d": "± 5 mm per metre and ± 2 mm overall length"
+    },
+    "options_text": "a) ± 2mm/m & ± 5mm overall, b) ± 3mm/m & ± 8mm overall, c) ± 2mm/m & ± 8mm overall, d) ± 5mm/m & ± 2mm overall",
+    "correct_answer": "c",
+    "explanation": "Standard IS specifications dictate tolerance limits for a 30 m chain as within ± 2 mm per meter and maximum overall error not exceeding ± 8 mm."
+  },
+  {
+    "question_number": 84,
+    "question": "Offset angle taken in chain survey may be",
+    "options": {
+      "a": "45°",
+      "b": "90°",
+      "c": "135°",
+      "d": "any of the above"
+    },
+    "options_text": "a) 45°, b) 90°, c) 135°, d) any of the above",
+    "correct_answer": "b",
+    "explanation": "Offsets in chain surveying are standardly laid out at right angles (90°) to the chain line for precise location plotting."
+  },
+  {
+    "question_number": 85,
+    "question": "An offset more than 15m in length is known as",
+    "options": {
+      "a": "long offset",
+      "b": "short offset",
+      "c": "oblique offset",
+      "d": "right-angled offset"
+    },
+    "correct_answer": "a",
+    "explanation": "Offsets exceeding 15 meters in length are classified as long offsets, which introduce plotting errors and should be minimized."
+  },
+  {
+    "question_number": 86,
+    "question": "Choose the correct statement",
+    "options": {
+      "a": "discrepancy in the difference between two measured values of same quantity",
+      "b": "residual error is the difference between a measured quantity and most probable value",
+      "c": "variance is the square of the standard deviation",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All statements provided are correct standard definitions in error theory and surveying statistics."
+  },
+  {
+    "question_number": 87,
+    "question": "Well-conditioned triangle having angle between",
+    "options": {
+      "a": "30° & 60°",
+      "b": "30° & 90°",
+      "c": "30° & 120°",
+      "d": "60° & 120°"
+    },
+    "options_text": "a) 30° & 60°, b) 30° & 90°, c) 30° & 120°, d) 60° & 120°",
+    "correct_answer": "c",
+    "explanation": "A well-conditioned triangle is defined such that no angle is less than 30° and none is greater than 120°."
+  },
+  {
+    "question_number": 88,
+    "question": "In case of chain surveying which one is the best triangle?",
+    "options": {
+      "a": "well-conditioned triangle",
+      "b": "ill-conditioned triangle",
+      "c": "equilateral triangle",
+      "d": "isosceles triangle"
+    },
+    "correct_answer": "c",
+    "explanation": "An equilateral triangle (with all angles of 60°) is considered the ideal and best form of a well-conditioned triangle because its vertices intersect sharply at optimal intersections."
+  },
+  {
+    "question_number": 89,
+    "question": "The sum of internal angle of well-conditioned triangle should be",
+    "options": {
+      "a": "180°",
+      "b": "90°",
+      "c": "280°",
+      "d": "360°"
+    },
+    "options_text": "a) 180°, b) 90°, c) 280°, d) 360°",
+    "correct_answer": "a",
+    "explanation": "The sum of internal angles for any triangle in plane geometry is always 180°."
+  },
+  {
+    "question_number": 90,
+    "question": "The sum of external angle of ill- conditioned triangle should be",
+    "options": {
+      "a": "360°",
+      "b": "720°",
+      "c": "450°",
+      "d": "900°"
+    },
+    "options_text": "a) 360°, b) 720°, c) 450°, d) 900°",
+    "correct_answer": "b",
+    "explanation": "The sum of exterior angles of any closed triangle (regardless of shape condition) is always 720° (since each vertex exterior angle is 360 - interior, total = 3 * 360 - 180 = 720°)."
+  },
+  {
+    "question_number": 91,
+    "question": "The accuracy of measurement in chain surveying, does not depend upon",
+    "options": {
+      "a": "length of the offset",
+      "b": "scale of the plotting",
+      "c": "importance of the features",
+      "d": "general layout of the chain lines"
+    },
+    "correct_answer": "c",
+    "explanation": "The physical accuracy of survey measurements depends on technical execution factors (offsets, layout, scale) rather than the subjective importance of the features being mapped."
+  },
+  {
+    "question_number": 92,
+    "question": "The accuracy of measurement in chain surveying, does not depend upon",
+    "options": {
+      "a": "leader",
+      "b": "follower",
+      "c": "length of chain",
+      "d": "length of offset"
+    },
+    "correct_answer": "c",
+    "explanation": "Standard chain lengths are fixed; field measurement accuracy is directly governed by human handling (leader/follower) and offset lengths rather than the standardized choice of chain length itself."
+  },
+  {
+    "question_number": 93,
+    "question": "The purpose of triangulation in chain survey is",
+    "options": {
+      "a": "finding the direction of points",
+      "b": "establishment of accurate control points",
+      "c": "transferring the control point",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Triangulation framework in chain surveys establishes reliable control points to build the skeleton of the survey area."
+  },
+  {
+    "question_number": 94,
+    "question": "Handles are connected to link by",
+    "options": {
+      "a": "flexible joint",
+      "b": "rigid joint",
+      "c": "swivel joint",
+      "d": "ball and socket joint"
+    },
+    "correct_answer": "c",
+    "explanation": "Swivel joints connect the brass handles to the chain ends to prevent twisting and kinking of the chain during handling."
+  },
+  {
+    "question_number": 95,
+    "question": "Handles of chains are made of",
+    "options": {
+      "a": "nickel",
+      "b": "steel",
+      "c": "copper",
+      "d": "brass"
+    },
+    "correct_answer": "d",
+    "explanation": "Chain handles are typically fabricated from robust brass for durability and clear identification."
+  },
+  {
+    "question_number": 96,
+    "question": "Angle of 45° with chain line may be set out with",
+    "options": {
+      "a": "optical square",
+      "b": "prismatic square",
+      "c": "open cross staff",
+      "d": "french cross staff"
+    },
+    "correct_answer": "d",
+    "explanation": "A French cross staff is specifically designed with octagonal faces to set out 45° and 90° angles."
+  },
+  {
+    "question_number": 97,
+    "question": "The optical square is based on the principle of optical",
+    "options": {
+      "a": "reflection",
+      "b": "refraction",
+      "c": "double reflection",
+      "d": "double refraction"
+    },
+    "correct_answer": "c",
+    "explanation": "An optical square operates on the principle of double reflection of light between two mirrors set at 45° to each other."
+  },
+  {
+    "question_number": 98,
+    "question": "The position of point can be fixed more accurately by",
+    "options": {
+      "a": "perpendicular offset",
+      "b": "optical square",
+      "c": "prism square",
+      "d": "oblique offsets"
+    },
+    "correct_answer": "a",
+    "explanation": "A perpendicular offset gives the shortest distance from a chain line to an object, providing the highest geometric precision for location."
+  },
+  {
+    "question_number": 99,
+    "question": "Positive error is caused if",
+    "options": {
+      "a": "the length of chain is shorter than the standard",
+      "b": "the slope and sag corrections is not applied",
+      "c": "the measurements are made along the incorrectly aligned line",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All listed factors (shorter chain, unapplied sag/slope corrections, and incorrect alignment) result in measured distances being greater than true distances, causing positive errors."
+  },
+  {
+    "question_number": 100,
+    "question": "The base line is measured with",
+    "options": {
+      "a": "metallic tape",
+      "b": "steel tape",
+      "c": "invar tape",
+      "d": "chain"
+    },
+    "correct_answer": "c",
+    "explanation": "Because base lines require the highest possible precision, invar tapes (due to minimal thermal expansion) are used."
+  },
+  {
+    "question_number": 101,
+    "question": "In compass surveying",
+    "options": {
+      "a": "the direction and lengths of survey line is measured by compass",
+      "b": "the direction is measured by compass",
+      "c": "length is measured by the chain or tape",
+      "d": "both (b) and (c) of above"
+    },
+    "correct_answer": "d",
+    "explanation": "In compass surveying, directions/bearings are measured with a compass, while line lengths are measured using a chain or tape."
+  },
+  {
+    "question_number": 102,
+    "question": "In a prismatic compass",
+    "options": {
+      "a": "the magnetic needle moves with the box",
+      "b": "the magnetic needle and graduated circle do not move with the box",
+      "c": "the line of sight does not move with the box",
+      "d": "the graduated circle is fixed to the box and the magnetic needle always remains N-S direction"
+    },
+    "correct_answer": "b",
+    "explanation": "In a prismatic compass, the graduated ring is attached to the magnetic needle and remains stationary in the magnetic meridian while the box rotates around it."
+  },
+  {
+    "question_number": 103,
+    "question": "In a closed traverse",
+    "options": {
+      "a": "the difference between fore bearing & back bearing should be 90°",
+      "b": "the sum of included angles should be (2N-4) right angle, where N is the number of sides",
+      "c": "the sum of inclined angles should be (2N-1), where N is the number of sides",
+      "d": "none of the above"
+    },
+    "options_text": "a) diff FB & BB = 90°, b) sum of included angles = (2N-4) right angles, c) ..., d) none",
+    "correct_answer": "b",
+    "explanation": "The sum of interior included angles in a closed traverse of N sides must equal (2N - 4) right angles (or (2N - 4) * 90°)."
+  },
+  {
+    "question_number": 104,
+    "question": "Methods adopted for traversing are",
+    "options": {
+      "a": "chain traversing and loose needle method",
+      "b": "chain angle method and fast needle method",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "Traversing methods include chain traversing, loose needle method, fast needle method, and chain angle methods."
+  },
+  {
+    "question_number": 105,
+    "question": "The graduations in a prismatic compass are",
+    "options": {
+      "a": "inverted and run clockwise having 0° at north",
+      "b": "inverted and run clockwise having 0° at south",
+      "c": "are erect",
+      "d": "none of the above"
+    },
+    "options_text": "a) inverted and run clockwise having 0° at north, b) inverted and run clockwise having 0° at south, c) are erect, d) none",
+    "correct_answer": "a",
+    "explanation": "Prismatic compass graduations are inverted (read through a prism) and marked clockwise with 0° at North, 90° at East, 180° at South, and 270° at West."
+  },
+  {
+    "question_number": 106,
+    "question": "True meridians",
+    "options": {
+      "a": "are parallel to each other",
+      "b": "converge at a point called pole",
+      "c": "converge near equator",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "True meridians pass through geographic poles and converge at the geographical north and south poles."
+  },
+  {
+    "question_number": 107,
+    "question": "In whole circle system the bearings are measured",
+    "options": {
+      "a": "clockwise from the north point of the reference meridian towards the line of sight round the circle",
+      "b": "anti clockwise from the north point",
+      "c": "with the notations of cardinal points N, E, S & W",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "explanation": "Whole Circle Bearing (WCB) measures angles clockwise from 0° at North all the way up to 360°."
+  },
+  {
+    "question_number": 108,
+    "question": "Quadrantal system confines the user to measure the bearings from",
+    "options": {
+      "a": "the north point clockwise",
+      "b": "the north point or south point whichever is nearer",
+      "c": "the north point anticlockwise",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "In the Quadrantal Bearing (Reduced Bearing) system, angles are measured eastward or westward from the nearest North or South reference direction."
+  },
+  {
+    "question_number": 109,
+    "question": "A bearing noted N 45° E represents",
+    "options": {
+      "a": "quadrantal system",
+      "b": "whole circle system",
+      "c": "none of the above",
+      "d": "reduced bearing system"
+    },
+    "correct_answer": "a",
+    "explanation": "Notations featuring cardinal letters (N/S and E/W) indicate the quadrantal (reduced bearing) system."
+  },
+  {
+    "question_number": 110,
+    "question": "The whole circle bearing 338° 42' converted into quadrantal form is given as",
+    "options": {
+      "a": "N 21° 18' W",
+      "b": "S 21° 18' E",
+      "c": "W 21° 18' N",
+      "d": "none of the above"
+    },
+    "options_text": "a) N 21°18' W, b) S 21°18' E, c) W 21°18' N, d) none",
+    "correct_answer": "a",
+    "explanation": "Numerical Solution: 338° 42' lies in the fourth quadrant (NW). Reduced bearing = 360° 00' - 338° 42' = 21° 18'. Thus, it is N 21° 18' W."
+  },
+  {
+    "question_number": 111,
+    "question": "If the quadrantal bearing of a line is N 35° W then the whole circle bearing is",
+    "options": {
+      "a": "325°",
+      "b": "205°",
+      "c": "215°",
+      "d": "315°"
+    },
+    "options_text": "a) 325°, b) 205°, c) 215°, d) 315°",
+    "correct_answer": "a",
+    "explanation": "Numerical Solution: For NW quadrant (N 35° W), WCB = 360° - 35° = 325°."
+  },
+  {
+    "question_number": 112,
+    "question": "The prismatic compass and surveyor's compass respectively give",
+    "options": {
+      "a": "whole circle bearing of a line & quadrantal bearing of a line",
+      "b": "both quadrantal bearing of a line",
+      "c": "both whole circle bearing of a line",
+      "d": "quadrantal & whole circle bearing of a line"
+    },
+    "correct_answer": "a",
+    "explanation": "Prismatic compasses measure Whole Circle Bearings (WCB), while surveyor's compasses measure Quadrantal Bearings (QB)."
+  },
+  {
+    "question_number": 113,
+    "question": "The whole circle bearing of a line is 270° then find the reduced bearing of line",
+    "options": {
+      "a": "0°",
+      "b": "E 90°",
+      "c": "180°",
+      "d": "W 90°"
+    },
+    "options_text": "a) 0°, b) E 90°, c) 180°, d) W 90°",
+    "correct_answer": "d",
+    "explanation": "Numerical Solution: A WCB of 270° points exactly West, which in quadrantal bearing notation is expressed as W 90°."
+  }
+]

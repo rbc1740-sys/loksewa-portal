@@ -1,0 +1,12 @@
+const fs = require('fs');
+const c = fs.readFileSync('D:\\loksewa-portal\\app.html', 'utf8');
+console.log('mcq-container:', (c.match(/id="mcq-container"/g) || []).length);
+console.log('topic-select:', (c.match(/id="topic-select"/g) || []).length);
+console.log('page-nav:', (c.match(/id="page-nav"/g) || []).length);
+console.log('practice-list-view:', (c.match(/id="practice-list-view"/g) || []).length);
+console.log('zen-flashcard-container:', (c.match(/zen-flashcard-container/g) || []).length);
+console.log('instant-filter-tags:', (c.match(/instant-filter-tags/g) || []).length);
+console.log('resume-topic-name:', (c.match(/resume-topic-name/g) || []).length);
+console.log('startTopicFromSyllabus:', (c.match(/startTopicFromSyllabus/g) || []).length);
+console.log('selectAndEvaluatePracticeAnswer:', (c.match(/selectAndEvaluatePracticeAnswer/g) || []).length);
+console.log('evaluatePracticeAnswer:', (c.match(/evaluatePracticeAnswer/g) || []).length);

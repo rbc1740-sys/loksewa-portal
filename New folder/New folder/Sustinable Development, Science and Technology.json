@@ -1,0 +1,1646 @@
+[
+  {
+    "question_number": 1,
+    "question": "In which year did the term 'Sustainable Development' come into existence?",
+    "options": {
+      "a": "1987 A.D.",
+      "b": "1980 A.D.",
+      "c": "1978 A.D.",
+      "d": "1992 A.D."
+    },
+    "correct_answer": "a",
+    "explanation": "The term 'Sustainable Development' gained international prominence and formal definition in 1987 with the publication of the Brundtland Commission report titled 'Our Common Future'."
+  },
+  {
+    "question_number": 2,
+    "question": "Which famous report on sustainable development was titled 'Our Common Future'?",
+    "options": {
+      "a": "Brundtland Commission",
+      "b": "J. Doberman's Report",
+      "c": "E.O. Wilson's Report",
+      "d": "Barbara Ward Report"
+    },
+    "correct_answer": "a",
+    "explanation": "The World Commission on Environment and Development, chaired by Gro Harlem Brundtland and commonly known as the Brundtland Commission, published its landmark report 'Our Common Future' in 1987."
+  },
+  {
+    "question_number": 3,
+    "question": "When was Sustainable Development policy introduced in Nepal?",
+    "options": {
+      "a": "7th five year plan",
+      "b": "9th five year plan",
+      "c": "14th five year plan",
+      "d": "8th five year plan"
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal officially integrated sustainable development concepts and environmental preservation policies into its national planning framework during the 8th Five-Year Plan."
+  },
+  {
+    "question_number": 4,
+    "question": "Which of the following is/are core element(s) of Sustainable Development?",
+    "options": {
+      "a": "Economic growth",
+      "b": "social inclusion",
+      "c": "Environmental protection",
+      "d": "all of above"
+    },
+    "correct_answer": "d",
+    "explanation": "Sustainable development rests on three interconnected pillars: economic growth, social inclusion, and environmental protection."
+  },
+  {
+    "question_number": 5,
+    "question": "How many Sustainable Development Goals have been set by the United Nations Sustainable Development Summit - 2015?",
+    "options": {
+      "a": "11",
+      "b": "15",
+      "c": "17",
+      "d": "20"
+    },
+    "correct_answer": "c",
+    "explanation": "The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, established 17 universal Sustainable Development Goals (SDGs)."
+  },
+  {
+    "question_number": 6,
+    "question": "The international organizations are working with ___ to meet SDG goals.",
+    "options": {
+      "a": "Government",
+      "b": "private sector",
+      "c": "community sector",
+      "d": "all of above"
+    },
+    "correct_answer": "d",
+    "explanation": "Achieving the SDGs requires multi-stakeholder partnerships involving governments, the private sector, and local communities/civil society."
+  },
+  {
+    "question_number": 7,
+    "question": "Among the 17 Sustainable Development Goals, 13th Goal is",
+    "options": {
+      "a": "Life below Water",
+      "b": "Life on Land-15",
+      "c": "Reduced Inequalities",
+      "d": "Climate Action"
+    },
+    "correct_answer": "d",
+    "explanation": "SDG 13 is explicitly dedicated to 'Climate Action', urging urgent action to combat climate change and its impacts."
+  },
+  {
+    "question_number": 8,
+    "question": "Who was first coined the term 'Sustainable Development'?",
+    "options": {
+      "a": "Harlem Bruntland",
+      "b": "Barbara Ward",
+      "c": "Wally Broecker",
+      "d": "Wangari Maathai"
+    },
+    "correct_answer": "b",
+    "explanation": "British economist and environmentalist Barbara Ward is widely credited with first coining and popularizing the term 'sustainable development' in the early 1970s."
+  },
+  {
+    "question_number": 9,
+    "question": "Which statement depicts the best definition of sustainable development?",
+    "options": {
+      "a": "It means optimal utilization of natural resources.",
+      "b": "Sustainable use of natural resources without considering the need of the future generation",
+      "c": "Present generation fulfills its needs while consider the needs of the future generation as well",
+      "d": "None of these"
+    },
+    "correct_answer": "c",
+    "explanation": "Sustainable development is defined as development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+  },
+  {
+    "question_number": 10,
+    "question": "The 2030 Agenda for Sustainable Development Goals acknowledge that all governments must promote action in:",
+    "options": {
+      "a": "People, Planet, Prosperity, Peace and Partnership",
+      "b": "People, Planet, Prosperity and Peace",
+      "c": "People, Planet, Wealth and Peace",
+      "d": "People, Environment, Prosperity, Peace and Foresight"
+    },
+    "correct_answer": "a",
+    "explanation": "The 5 Ps—People, Planet, Prosperity, Peace, and Partnership—form the core foundational principles guiding the 2030 Agenda for Sustainable Development."
+  },
+  {
+    "question_number": 11,
+    "question": "Among the 17 Sustainable Development Goals, which of the following goal is not related to with Nepal?",
+    "options": {
+      "a": "Climate action-13",
+      "b": "life below water",
+      "c": "zero hunger",
+      "d": "life on land"
+    },
+    "correct_answer": "b",
+    "explanation": "As a landlocked nation without direct territorial access to marine oceans, SDG 14 ('Life Below Water') is generally less directly applicable to domestic waters compared to other terrestrial and developmental goals."
+  },
+  {
+    "question_number": 12,
+    "question": "How many targets have been set by sustainable development goals to eliminate all kinds of poverty and hunger by 2030 A.D.?",
+    "options": {
+      "a": "165",
+      "b": "166",
+      "c": "168",
+      "d": "169"
+    },
+    "correct_answer": "d",
+    "explanation": "The entire SDG framework consists of 17 goals supported by a total of 169 specific, interconnected targets."
+  },
+  {
+    "question_number": 13,
+    "question": "'We don't have plan B because there is no planet B.' Whose statement is this regarding to the development of the Sustainable Development Goals (SDGs)?",
+    "options": {
+      "a": "Antonio Gutteres",
+      "b": "Ban Ki-moon",
+      "c": "Sumaila",
+      "d": "Makin Falkenmark"
+    },
+    "correct_answer": "b",
+    "explanation": "Former UN Secretary-General Ban Ki-moon frequently emphasized this phrase to stress the urgency of environmental protection and climate action."
+  },
+  {
+    "question_number": 14,
+    "question": "In which year, the millennium development goals (MDGs) declared by the United Nations (UN)?",
+    "options": {
+      "a": "2000 AD",
+      "b": "2015 AD",
+      "c": "1992 AD",
+      "d": "2012 AD"
+    },
+    "correct_answer": "a",
+    "explanation": "The Millennium Development Goals (MDGs) were officially established following the adoption of the United Nations Millennium Declaration in September 2000."
+  },
+  {
+    "question_number": 15,
+    "question": "The first Earth summit was held at",
+    "options": {
+      "a": "Buenos Aires",
+      "b": "Rio de Janeiro",
+      "c": "Dar-es-Salam",
+      "d": "Nagoya"
+    },
+    "correct_answer": "b",
+    "explanation": "The United Nations Conference on Environment and Development (UNCED), widely known as the First Earth Summit, was held in Rio de Janeiro, Brazil, in 1992."
+  },
+  {
+    "question_number": 16,
+    "question": "___ came out as a part of Earth Summit 1992.",
+    "options": {
+      "a": "Kyoto Protocol",
+      "b": "Agenda-21",
+      "c": "Both a and b",
+      "d": "Neither a or b"
+    },
+    "correct_answer": "b",
+    "explanation": "Agenda 21 was a comprehensive non-binding action plan of the United Nations resulting from the 1992 Earth Summit in Rio de Janeiro."
+  },
+  {
+    "question_number": 17,
+    "question": "Agenda-21 related to",
+    "options": {
+      "a": "Environment and Development",
+      "b": "Conservation of Wetland",
+      "c": "Climate change",
+      "d": "Global warming"
+    },
+    "correct_answer": "a",
+    "explanation": "Agenda 21 is a global blueprint detailing comprehensive actions to achieve sustainable development across economic, social, and environmental sectors."
+  },
+  {
+    "question_number": 18,
+    "question": "The first country to sign in Agenda 21 is",
+    "options": {
+      "a": "UK",
+      "b": "China",
+      "c": "France",
+      "d": "Australia"
+    },
+    "correct_answer": "b",
+    "explanation": "China was among the earliest major developing nations to actively formulate and commit to national strategies aligned with Agenda 21."
+  },
+  {
+    "question_number": 19,
+    "question": "During which plan period, the Environmental protection act and Rules were enacted and enforced in Nepal?",
+    "options": {
+      "a": "10th",
+      "b": "7th",
+      "c": "8th",
+      "d": "6th"
+    },
+    "correct_answer": "c",
+    "explanation": "Nepal's Environment Protection Act and Rules were enacted and enforced during the 8th Five-Year Plan period (specifically in 1996/1997 A.D.)."
+  },
+  {
+    "question_number": 20,
+    "question": "Where is global headquarters of United Nations Environment Program (UNEP) located?",
+    "options": {
+      "a": "Geneva, Switzerland",
+      "b": "Nairobi, Kenya",
+      "c": "New Delhi, India",
+      "d": "NY, USA"
+    },
+    "correct_answer": "b",
+    "explanation": "The headquarters of the United Nations Environment Programme (UNEP) is located in Nairobi, Kenya."
+  },
+  {
+    "question_number": 21,
+    "question": "Earth Watch is related to",
+    "options": {
+      "a": "Pollution",
+      "b": "Global warming",
+      "c": "Conservation of Environment",
+      "d": "Conservation of Wetland"
+    },
+    "correct_answer": "c",
+    "explanation": "Earthwatch is an international environmental organization dedicated to scientific field research and education focused on environmental conservation."
+  },
+  {
+    "question_number": 22,
+    "question": "The first environment day in Nepal was observed in?",
+    "options": {
+      "a": "1972 A.D.",
+      "b": "1973 A.D.",
+      "c": "1976 A.D.",
+      "d": "1997 A.D."
+    },
+    "correct_answer": "c",
+    "explanation": "Nepal officially started observing World Environment Day nationwide starting from 1976 A.D."
+  },
+  {
+    "question_number": 23,
+    "question": "Which country has been started the movement of 'Earth hour'?",
+    "options": {
+      "a": "Australia",
+      "b": "Japan",
+      "c": "USA",
+      "d": "Finland"
+    },
+    "correct_answer": "a",
+    "explanation": "Earth Hour was originated and first launched in Sydney, Australia, in 2007 by the World Wide Fund for Nature (WWF)."
+  },
+  {
+    "question_number": 24,
+    "question": "Which of the following is correct slogan regarding international Environment Day-2025 celebrated on 5th June every year?",
+    "options": {
+      "a": "Beat Plastic Pollution",
+      "b": "Save the earth, save our environment",
+      "c": "Only One Earth",
+      "d": "Think, Eat and Save"
+    },
+    "correct_answer": "a",
+    "explanation": "World Environment Day campaigns emphasize critical themes like 'Beat Plastic Pollution' to address global environmental crises."
+  },
+  {
+    "question_number": 25,
+    "question": "The Theme of 'Earth day' 2025 is;",
+    "options": {
+      "a": "Our Power, Our Planet",
+      "b": "Invest in Our Planet",
+      "c": "The only earth",
+      "d": "Gift to Earth"
+    },
+    "correct_answer": "b",
+    "explanation": "Earth Day initiatives emphasize active financial, corporate, and individual commitments encapsulated in themes such as 'Invest in Our Planet'."
+  },
+  {
+    "question_number": 26,
+    "question": "Earth hour 2025 was celebrated throughout the world to combat climate change and protect biodiversity and nature. What edition of 'Earth Hour' was it?",
+    "options": {
+      "a": "17th",
+      "b": "11th",
+      "c": "19th",
+      "d": "10th"
+    },
+    "correct_answer": "c",
+    "explanation": "Since its inception in Sydney in 2007, Earth Hour marked its 19th edition."
+  },
+  {
+    "question_number": 27,
+    "question": "Which one agenda is not related with Earth Summit, 1992 AD?",
+    "options": {
+      "a": "Global-500",
+      "b": "Climate Change",
+      "c": "Bio-diversity",
+      "d": "Agenda-21"
+    },
+    "correct_answer": "a",
+    "explanation": "The Global 500 Roll of Honour was an environmental award scheme established by UNEP prior to the 1992 Earth Summit, whereas Climate Change (UNFCCC), Biodiversity (CBD), and Agenda 21 were direct outcomes of the Rio Earth Summit."
+  },
+  {
+    "question_number": 28,
+    "question": "Which ISO specifies audit protocol of environment?",
+    "options": {
+      "a": "ISO 9000",
+      "b": "ISO 9001",
+      "c": "ISO 14064",
+      "d": "ISO 14001"
+    },
+    "correct_answer": "d",
+    "explanation": "ISO 14001 sets out the criteria for an environmental management system and serves as the foundational standard for environmental auditing."
+  },
+  {
+    "question_number": 29,
+    "question": "Who among the following environmental Pioneer founded the Green Belt Movement in Kenya?",
+    "options": {
+      "a": "Gaylord Nelson",
+      "b": "Wangari Maathai",
+      "c": "Paul Watson",
+      "d": "John Muir"
+    },
+    "correct_answer": "b",
+    "explanation": "Nobel Peace Prize laureate Wangari Maathai founded the grassroots Green Belt Movement in Kenya in 1977 to focus on tree planting, environmental conservation, and women's rights."
+  },
+  {
+    "question_number": 30,
+    "question": "Who is awarded WWF Nepal Conservation Award 2025 A.D.?",
+    "options": {
+      "a": "Arjun Kumar Karki",
+      "b": "Doma Poudel",
+      "c": "Govinda Bahadur Singh",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "WWF Nepal confers conservation awards to multiple distinguished individuals who have made outstanding contributions to wildlife and environmental protection."
+  },
+  {
+    "question_number": 31,
+    "question": "Who received Blue Planet Award 2025 A.D.?",
+    "options": {
+      "a": "Brayan Walker",
+      "b": "Prof. Malin Falken Mark",
+      "c": "Tamara Galloway",
+      "d": "Dr. Jeremy Leggett"
+    },
+    "correct_answer": "d",
+    "explanation": "The Blue Planet Prize is an international environmental award given by the Asahi Glass Foundation, recognizing individuals who made major contributions to solving global environmental problems."
+  },
+  {
+    "question_number": 32,
+    "question": "The Goldman award is related to;",
+    "options": {
+      "a": "Environmental Sector",
+      "b": "Pollution Sector",
+      "c": "Bio-Diversity Sector",
+      "d": "Sustainable Development"
+    },
+    "correct_answer": "a",
+    "explanation": "The Goldman Environmental Prize is awarded annually to grassroots environmental activists worldwide, representing the world's largest prize for grassroots environmentalism."
+  },
+  {
+    "question_number": 33,
+    "question": "Who was the first Nepali to receive the Global-500 award?",
+    "options": {
+      "a": "Mahesh Chandra Regmi",
+      "b": "Dr. Sanduk Ruit",
+      "c": "Dr. Krishna Kumar Pandey",
+      "d": "Dr. Harka Gurung"
+    },
+    "correct_answer": "c",
+    "explanation": "Dr. Krishna Kumar Pandey was honored as the first Nepali recipient of UNEP's prestigious Global 500 award for outstanding environmental achievements."
+  },
+  {
+    "question_number": 34,
+    "question": "Global 500 awards are given for the outstanding achievement in which of the following field's?",
+    "options": {
+      "a": "Population Control",
+      "b": "Campaign against drugs",
+      "c": "Elimination of illiteracy",
+      "d": "Protection of environment"
+    },
+    "correct_answer": "d",
+    "explanation": "The Global 500 Roll of Honour was awarded by UNEP specifically to recognize individuals and organizations for exceptional environmental protection efforts."
+  },
+  {
+    "question_number": 35,
+    "question": "When World Wildlife Fund was established?",
+    "options": {
+      "a": "1960 A.D.",
+      "b": "1961 A.D.",
+      "c": "1962 A.D.",
+      "d": "1963 A.D."
+    },
+    "correct_answer": "b",
+    "explanation": "The World Wide Fund for Nature (WWF) was founded on April 29, 1961, in Morges, Switzerland."
+  },
+  {
+    "question_number": 36,
+    "question": "Who published the 'Red Data Book' about the list of rare animals?",
+    "options": {
+      "a": "ICIMOD",
+      "b": "WWF",
+      "c": "IUCN",
+      "d": "UNEP"
+    },
+    "correct_answer": "c",
+    "explanation": "The International Union for Conservation of Nature (IUCN) maintains and publishes the IUCN Red List of Threatened Species, commonly known as the Red Data Book."
+  },
+  {
+    "question_number": 37,
+    "question": "Currently, How many countries have signed the CITES treaty?",
+    "options": {
+      "a": "784",
+      "b": "175",
+      "c": "185",
+      "d": "193"
+    },
+    "correct_answer": "a",
+    "explanation": "CITES (the Convention on International Trade in Endangered Species of Wild Fauna and Flora) has widespread international adherence among state parties."
+  },
+  {
+    "question_number": 38,
+    "question": "Organization related to 'Red Data Book' or 'Red List' is",
+    "options": {
+      "a": "U.N.E.P.",
+      "b": "I.U.C.N.",
+      "c": "I.P.C.C",
+      "d": "W.W.F."
+    },
+    "correct_answer": "b",
+    "explanation": "The IUCN is the global authority on the status of the natural world and the measures needed to safeguard it, famously managing the Red List."
+  },
+  {
+    "question_number": 39,
+    "question": "CITES is related to",
+    "options": {
+      "a": "Protection of Endangered species of wild Flora and Fauna",
+      "b": "Protection of mountains",
+      "c": "Both a and b",
+      "d": "Neither a Nor b"
+    },
+    "correct_answer": "a",
+    "explanation": "CITES ensures that international trade in specimens of wild animals and plants does not threaten their survival."
+  },
+  {
+    "question_number": 40,
+    "question": "Which of the following pairs is not matched?",
+    "options": {
+      "a": "W.W.F.-1961 AD",
+      "b": "I.U.C.N-1948 AD",
+      "c": "Rio 20-2012 AD",
+      "d": "Red Data Book - CITES"
+    },
+    "correct_answer": "d",
+    "explanation": "The Red Data Book is published by the IUCN, not CITES (though both deal with wildlife conservation, they are distinct entities)."
+  },
+  {
+    "question_number": 41,
+    "question": "World Wildlife fund was established in",
+    "options": {
+      "a": "1959 A.D.",
+      "b": "1960 A.D.",
+      "c": "1961 A.D.",
+      "d": "1962 A.D."
+    },
+    "correct_answer": "c",
+    "explanation": "WWF was established in 1961 A.D. to act as an international fundraising organization supporting wildlife conservation."
+  },
+  {
+    "question_number": 42,
+    "question": "Which country is not included in ICIMOD?",
+    "options": {
+      "a": "Myanmar",
+      "b": "Afghanistan",
+      "c": "Bhutan",
+      "d": "Thailand"
+    },
+    "correct_answer": "d",
+    "explanation": "ICIMOD (International Centre for Integrated Mountain Development) serves the eight regional member countries of the Hindu Kush Himalaya: Afghanistan, Bangladesh, Bhutan, China, India, Myanmar, Nepal, and Pakistan. Thailand is not a member."
+  },
+  {
+    "question_number": 43,
+    "question": "Which of the following is incorrect?",
+    "options": {
+      "a": "First World Environmental Day - 1972 AD",
+      "b": "Kyoto Protocol - 1997 AD",
+      "c": "SAARC Environmental year - 1990 AD",
+      "d": "IUCN-1948 AD"
+    },
+    "correct_answer": "c",
+    "explanation": "The SAARC Environmental Year was designated in a different year, making option (c) incorrect in this specific chronological pairing."
+  },
+  {
+    "question_number": 44,
+    "question": "Sound is said to be hazardous when its Intensity is above",
+    "options": {
+      "a": "30 dB",
+      "b": "40 dB",
+      "c": "60 dB",
+      "d": "80 dB"
+    },
+    "correct_answer": "d",
+    "explanation": "Sound levels exceeding 80 to 85 decibels (dB) are generally considered hazardous to human hearing over prolonged exposure."
+  },
+  {
+    "question_number": 45,
+    "question": "Which one of the following is not a secondary Pollutant?",
+    "options": {
+      "a": "PAN",
+      "b": "Smog",
+      "c": "Sulphur dioxide",
+      "d": "Ozone"
+    },
+    "correct_answer": "c",
+    "explanation": "Sulphur dioxide ($SO_2$) is a primary pollutant emitted directly from sources, whereas PAN, smog, and tropospheric ozone are secondary pollutants formed by atmospheric reactions."
+  },
+  {
+    "question_number": 46,
+    "question": "Kyoto protocol (1997) is related with",
+    "options": {
+      "a": "Environmental protection",
+      "b": "Renewable Energy",
+      "c": "Concerning the Control of Nitrogen Oxides gas",
+      "d": "Reduction of emission of green house gas"
+    },
+    "correct_answer": "d",
+    "explanation": "The Kyoto Protocol is an international treaty committing state parties to reduce greenhouse gas emissions based on scientific consensus."
+  },
+  {
+    "question_number": 47,
+    "question": "The concept of 'Carbon credit' originated from;",
+    "options": {
+      "a": "Earth Summit, Rio-de-Janeiro",
+      "b": "Kyoto Protocol",
+      "c": "Montreal Protocol",
+      "d": "G-8 Summit"
+    },
+    "correct_answer": "b",
+    "explanation": "The mechanism of carbon credits and cap-and-trade systems was formalized under the Kyoto Protocol as a market-based approach to curbing greenhouse gas emissions."
+  },
+  {
+    "question_number": 48,
+    "question": "Which country in the world responsible for largest percentage of global greenhouse gas (GHG) emissions?",
+    "options": {
+      "a": "India",
+      "b": "Brazil",
+      "c": "USA",
+      "d": "China"
+    },
+    "correct_answer": "d",
+    "explanation": "China currently emits the largest absolute volume of greenhouse gases globally due to its vast industrial output and energy consumption."
+  },
+  {
+    "question_number": 49,
+    "question": "'Montreal Protocol' is related to",
+    "options": {
+      "a": "Protection of Red panda",
+      "b": "Protection of Ozone layer depletion",
+      "c": "Water pollution",
+      "d": "Bio-diversity"
+    },
+    "correct_answer": "b",
+    "explanation": "The Montreal Protocol is a landmark international treaty designed to protect the ozone layer by phasing out the production of numerous substances responsible for ozone depletion."
+  },
+  {
+    "question_number": 50,
+    "question": "When did Nepal signed Paris Agreement?",
+    "options": {
+      "a": "October 05, 2016",
+      "b": "September 14, 2016",
+      "c": "November 04, 2016",
+      "d": "April 22, 2016"
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal officially signed the Paris Agreement on Climate Change on April 22, 2016."
+  },
+  {
+    "question_number": 51,
+    "question": "According to IPCC, what part in the world, Nepal contributes greenhouse gas emission?",
+    "options": {
+      "a": "0.027",
+      "b": "0.056",
+      "c": "0.021",
+      "d": "0.012"
+    },
+    "correct_answer": "a",
+    "explanation": "Nepal's share of global greenhouse gas emissions is extremely negligible, estimated at approximately 0.027% according to IPCC and national communications."
+  },
+  {
+    "question_number": 52,
+    "question": "According the Recent study conducted by department of hydrology and metrology, the average maximum temperature of Nepal has risen by",
+    "options": {
+      "a": "0.0056°C",
+      "b": "0.056°C",
+      "c": "0.001°C",
+      "d": "0.021°C"
+    },
+    "correct_answer": "b",
+    "explanation": "Studies by Nepal's Department of Hydrology and Meteorology indicate an average maximum temperature rise of approximately 0.056°C per year, highlighting high climate vulnerability in the Himalayas."
+  },
+  {
+    "question_number": 53,
+    "question": "How long has Nepal declared its commitment to zero emission strategy (Zero Net Strategy) at the Glasgow conference on climate change in 2021?",
+    "options": {
+      "a": "2025 AD",
+      "b": "2035 AD",
+      "c": "2045 AD",
+      "d": "2100 AD"
+    },
+    "correct_answer": "c",
+    "explanation": "At COP26 in Glasgow (2021), Nepal committed to achieving net-zero carbon emissions by the year 2045 A.D."
+  },
+  {
+    "question_number": 54,
+    "question": "Who was coined the term Global warming?",
+    "options": {
+      "a": "Wally Broecker",
+      "b": "John Tyndall",
+      "c": "J.C. Farman",
+      "d": "E.O. Wilson"
+    },
+    "correct_answer": "a",
+    "explanation": "Geochemist Wallace Smith (Wally) Broecker popularized and coined the term 'global warming' in a 1975 Science magazine paper."
+  },
+  {
+    "question_number": 55,
+    "question": "Consider the following Statement & Choose the correct one: I. The Earth Summit 1992 issued United Nations Framework Convention on Climate Change (UNFCCC). II. 10-10-10 is related to climate change.",
+    "options": {
+      "a": "Only I",
+      "b": "only II",
+      "c": "both I & II",
+      "d": "neither I nor II"
+    },
+    "correct_answer": "c",
+    "explanation": "Both statements are correct: the UNFCCC was launched at the 1992 Rio Earth Summit, and '10-10-10' campaigns have been organized globally to promote carbon reduction targets."
+  },
+  {
+    "question_number": 56,
+    "question": "UNFCCC COP-29 conferences, Baku, Azerbaijan focused on",
+    "options": {
+      "a": "The reduction of Green house & its emission",
+      "b": "Green growth Strategy",
+      "c": "To established 'Climate Finance'",
+      "d": "Protect and restore ecosystem"
+    },
+    "correct_answer": "c",
+    "explanation": "COP29 in Baku placed heavy emphasis on climate finance, specifically establishing new financial goals to support developing nations in climate adaptation and mitigation."
+  },
+  {
+    "question_number": 57,
+    "question": "Which One of the following is the main objective of Vienna Convention and its Montreal protocol?",
+    "options": {
+      "a": "Combat Desertification",
+      "b": "formulate sustainable development goals",
+      "c": "Protection of ozone layer",
+      "d": "combat climate Change"
+    },
+    "correct_answer": "c",
+    "explanation": "The Vienna Convention for the Protection of the Ozone Layer and its Montreal Protocol are international treaties specifically dedicated to preserving the ozone layer."
+  },
+  {
+    "question_number": 58,
+    "question": "Which of the following Greenhouse Gases has the highest global warming potential / effect according to specific indexing?",
+    "options": {
+      "a": "Nitrous oxide",
+      "b": "Methane",
+      "c": "Carbon dioxide",
+      "d": "Sulphur Hexa Fluoride"
+    },
+    "correct_answer": "d",
+    "explanation": "Fluorinated gases like Sulphur Hexafluoride ($SF_6$) possess extremely high global warming potentials relative to mass compared to standard greenhouse gases."
+  },
+  {
+    "question_number": 59,
+    "question": "The one which isn't considered as naturally occurring green house gas is",
+    "options": {
+      "a": "CFC's",
+      "b": "Methane",
+      "c": "Carbon dioxide",
+      "d": "Nitrous oxide"
+    },
+    "correct_answer": "a",
+    "explanation": "Chlorofluorocarbons (CFCs) are entirely synthetic chemical compounds manufactured for industrial applications, whereas water vapor, $CO_2$, methane, and nitrous oxide occur naturally."
+  },
+  {
+    "question_number": 60,
+    "question": "Which one of the following pairs of gases are the major causes of 'Green House Effect'?",
+    "options": {
+      "a": "$CO_2$ and $NO_2$",
+      "b": "$CO_2$ and $O_3$",
+      "c": "$CO_2$ and CO",
+      "d": "$CO_2$ and $CH_4$"
+    },
+    "correct_answer": "d",
+    "explanation": "Carbon dioxide ($CO_2$) and methane ($CH_4$) are the two primary anthropogenic greenhouse gases contributing most significantly to global warming."
+  },
+  {
+    "question_number": 61,
+    "question": "Which one of the following is mainly responsible for green house effect?",
+    "options": {
+      "a": "$SO_2$",
+      "b": "CO",
+      "c": "$CO_2$",
+      "d": "$NO_2$"
+    },
+    "correct_answer": "c",
+    "explanation": "Carbon dioxide ($CO_2$) is the single largest contributor to the enhanced greenhouse effect due to massive fossil fuel combustion and deforestation."
+  },
+  {
+    "question_number": 62,
+    "question": "Which of the following is true for the relative contribution of various Green gases to total Global warming?",
+    "options": {
+      "a": "$CO_2 > CH_4 > N_2O > CFCs$",
+      "b": "$N_2O > CH_4 > CFCs > CO_2$",
+      "c": "$CO_2 > N_2O > CH_4 > CFCs$",
+      "d": "$CH_4 > CFCs > N_2O > CO_2$"
+    },
+    "correct_answer": "a",
+    "explanation": "In terms of total cumulative radiative forcing contribution to global warming, carbon dioxide leads, followed by methane, nitrous oxide, and CFCs."
+  },
+  {
+    "question_number": 63,
+    "question": "Which of the following is not a green house gas?",
+    "options": {
+      "a": "Carbon dioxide",
+      "b": "Carbon monoxide",
+      "c": "Methane",
+      "d": "Nitrous oxide"
+    },
+    "correct_answer": "b",
+    "explanation": "Carbon monoxide (CO) is an indirect greenhouse gas and air pollutant, but it is not classified directly as a primary greenhouse gas in standard inventories."
+  },
+  {
+    "question_number": 64,
+    "question": "Among the following, which gas is the main cause of depletion of ozone layer?",
+    "options": {
+      "a": "Sulphur dioxide",
+      "b": "CFCs",
+      "c": "Methane",
+      "d": "Carbon dioxide"
+    },
+    "correct_answer": "b",
+    "explanation": "Chlorofluorocarbons (CFCs) release chlorine atoms in the stratosphere, which catalytically break down ozone molecules."
+  },
+  {
+    "question_number": 65,
+    "question": "Kyoto Protocol was ratified by Nepal",
+    "options": {
+      "a": "2004 AD",
+      "b": "1997 AD",
+      "c": "2005 AD",
+      "d": "2007 AD"
+    },
+    "correct_answer": "c",
+    "explanation": "Nepal formally acceded to and ratified the Kyoto Protocol in 2005 A.D."
+  },
+  {
+    "question_number": 66,
+    "question": "Where the UN Climate Change Conference COP 30 held?",
+    "options": {
+      "a": "London",
+      "b": "Brazil",
+      "c": "Madrid",
+      "d": "Rome"
+    },
+    "correct_answer": "b",
+    "explanation": "Brazil was selected to host the UN Climate Change Conference COP 30 (scheduled in Belém, Brazil)."
+  },
+  {
+    "question_number": 67,
+    "question": "Which of the following is not major green house gas?",
+    "options": {
+      "a": "Nitrogen",
+      "b": "Methane",
+      "c": "Carbon dioxide",
+      "d": "$CF_6$"
+    },
+    "correct_answer": "a",
+    "explanation": "Nitrogen makes up roughly 78% of Earth's atmosphere and is transparent to infrared radiation, meaning it does not act as a greenhouse gas."
+  },
+  {
+    "question_number": 68,
+    "question": "Who was the first person to experiment scientifically about the greenhouse effects?",
+    "options": {
+      "a": "John Tyndall",
+      "b": "E. Newton Foote",
+      "c": "James Hansen",
+      "d": "none"
+    },
+    "correct_answer": "b",
+    "explanation": "Eunice Newton Foote conducted pioneering experiments in the 1850s demonstrating the heat-absorbing effects of solar radiation on carbon dioxide and air."
+  },
+  {
+    "question_number": 69,
+    "question": "When was Kalapatthar meeting at foothill of Mt. Everest held to draw the attention of the world regarding the effect of Climate Change?",
+    "options": {
+      "a": "Mangsir 19, 2066",
+      "b": "Ashadh 03, 2067",
+      "c": "Kartik 03, 2070",
+      "d": "Sharwan 10, 2073"
+    },
+    "correct_answer": "a",
+    "explanation": "The Government of Nepal held a historic cabinet meeting at Kalapatthar (base of Mt. Everest) on Mangsir 19, 2066 B.S. to draw global attention to Himalayan climate change impacts."
+  },
+  {
+    "question_number": 70,
+    "question": "Which is the nation to conduct the Cabinet Meeting under the water to gain the attention of the world to reduce the effect of climate change?",
+    "options": {
+      "a": "Sri Lanka",
+      "b": "Japan",
+      "c": "India",
+      "d": "Maldives"
+    },
+    "correct_answer": "d",
+    "explanation": "The government of Maldives held an underwater cabinet meeting in 2009 to highlight the existential threat posed by rising sea levels."
+  },
+  {
+    "question_number": 71,
+    "question": "'Kyoto Protocol' is related to",
+    "options": {
+      "a": "Air pollution",
+      "b": "Conservation of Wetland",
+      "c": "Climate change",
+      "d": "Water Pollution"
+    },
+    "correct_answer": "c",
+    "explanation": "The Kyoto Protocol is an international agreement linked to the UNFCCC focused on commitments to mitigate global climate change."
+  },
+  {
+    "question_number": 72,
+    "question": "Basel convention is related to the ...",
+    "options": {
+      "a": "Trans-boundary Movements of the Hazardous wastes and their disposal",
+      "b": "Ozone Layer depletion",
+      "c": "Sustainable Development",
+      "d": "Earth Summit"
+    },
+    "correct_answer": "a",
+    "explanation": "The Basel Convention is an international treaty designed to reduce the movements of hazardous waste between nations, specifically preventing the transfer of hazardous waste from developed to developing countries."
+  },
+  {
+    "question_number": 73,
+    "question": "Which international organization has declared a global climate & environmental emergency?",
+    "options": {
+      "a": "European Union",
+      "b": "BRICS",
+      "c": "WHO",
+      "d": "SAARC"
+    },
+    "correct_answer": "a",
+    "explanation": "The European Parliament formally declared a climate and environmental emergency to emphasize the urgency of legislative action."
+  },
+  {
+    "question_number": 74,
+    "question": "When was the first Nepal National Wetland Policy issued by the Government?",
+    "options": {
+      "a": "2059 B.S.",
+      "b": "2045 B.S.",
+      "c": "2053 B.S.",
+      "d": "2050 B.S."
+    },
+    "correct_answer": "a",
+    "explanation": "Nepal's first National Wetland Policy was officially issued in 2059 B.S. to ensure conservation and wise use of wetland resources."
+  },
+  {
+    "question_number": 75,
+    "question": "When was the National Climate Change Policy introduced in Nepal?",
+    "options": {
+      "a": "2053 B.S.",
+      "b": "2059 B.S.",
+      "c": "2076 B.S.",
+      "d": "2079 B.S."
+    },
+    "correct_answer": "c",
+    "explanation": "Nepal introduced its updated comprehensive National Climate Change Policy in 2076 B.S. to guide climate adaptation and mitigation actions across federal structures."
+  },
+  {
+    "question_number": 76,
+    "question": "In which of the following district of Nepal, biodiversity information centre is being established?",
+    "options": {
+      "a": "Chitwan",
+      "b": "Parsa",
+      "c": "Banke",
+      "d": "Bardia"
+    },
+    "correct_answer": "a",
+    "explanation": "Chitwan district houses major conservation initiatives and biodiversity information centers given its rich ecological diversity and national park infrastructure."
+  },
+  {
+    "question_number": 77,
+    "question": "Which of the following does not fall into category of biodiversity?",
+    "options": {
+      "a": "Species diversity",
+      "b": "Hereditary diversity",
+      "c": "Environmental diversity",
+      "d": "Climate diversity"
+    },
+    "correct_answer": "d",
+    "explanation": "Biodiversity is categorized into genetic diversity, species diversity, and ecosystem/environmental diversity. Climate diversity is a meteorological parameter, not a biological category."
+  },
+  {
+    "question_number": 78,
+    "question": "The largest ecosystem of the earth is",
+    "options": {
+      "a": "Hydrosphere",
+      "b": "Biosphere",
+      "c": "Lithosphere",
+      "d": "Biome"
+    },
+    "correct_answer": "b",
+    "explanation": "The biosphere encompasses all living organisms and their interactions with the lithosphere, hydrosphere, and atmosphere, making it the global ecological system."
+  },
+  {
+    "question_number": 79,
+    "question": "What is the theme of World Biodiversity Day 2026 A.D.?",
+    "options": {
+      "a": "Acting locally for global impact",
+      "b": "Save our species",
+      "c": "The only Earth",
+      "d": "Beat air pollution"
+    },
+    "correct_answer": "a",
+    "explanation": "International biodiversity awareness days highlight actionable local frameworks to achieve global conservation targets."
+  },
+  {
+    "question_number": 80,
+    "question": "How many places of Nepal have been declared wetland now (Ramsar sites)?",
+    "options": {
+      "a": "11",
+      "b": "12",
+      "c": "8",
+      "d": "10"
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal currently has 10 designated Ramsar sites of international importance, starting with Koshi Tappu Wildlife Reserve."
+  },
+  {
+    "question_number": 81,
+    "question": "How many kinds of ecosystem are found in Nepal?",
+    "options": {
+      "a": "108",
+      "b": "118",
+      "c": "98",
+      "d": "101"
+    },
+    "correct_answer": "b",
+    "explanation": "Ecological studies in Nepal classify the nation's diverse landscapes into 118 distinct types of ecosystems due to extreme altitudinal and climatic variations."
+  },
+  {
+    "question_number": 82,
+    "question": "The richest country in the world presented by mongabay.com-2023 in terms of Bio-diversity is",
+    "options": {
+      "a": "Indonesia",
+      "b": "Brazil",
+      "c": "Colombia",
+      "d": "China"
+    },
+    "correct_answer": "b",
+    "explanation": "Brazil is widely recognized as one of the megadiverse countries holding the highest overall species and ecosystem richness globally."
+  },
+  {
+    "question_number": 83,
+    "question": "Where is the Panda Breeding Centre established?",
+    "options": {
+      "a": "Mugu",
+      "b": "Humla",
+      "c": "Ilam",
+      "d": "Mustang"
+    },
+    "correct_answer": "c",
+    "explanation": "Red Panda conservation and breeding initiatives in Nepal have focused on eastern mountainous districts like Ilam."
+  },
+  {
+    "question_number": 84,
+    "question": "Which of the following among given richest country is richest in the field of Biodiversity?",
+    "options": {
+      "a": "Kenya",
+      "b": "Nepal",
+      "c": "Indonesia",
+      "d": "Malaysia"
+    },
+    "correct_answer": "c",
+    "explanation": "Among the options provided, Indonesia is an equatorial megadiverse country featuring exceptional rainforest and marine biodiversity."
+  },
+  {
+    "question_number": 85,
+    "question": "Nepal ranked ___ in the world in term of Bio-diversity.",
+    "options": {
+      "a": "47th",
+      "b": "58th",
+      "c": "49th",
+      "d": "50th"
+    },
+    "correct_answer": "c",
+    "explanation": "Globally, Nepal ranks 49th in terms of overall biodiversity richness."
+  },
+  {
+    "question_number": 86,
+    "question": "'Bio-diversity Day' is celebrated every year on",
+    "options": {
+      "a": "1st April",
+      "b": "23rd April",
+      "c": "22nd May",
+      "d": "5th June"
+    },
+    "correct_answer": "c",
+    "explanation": "The United Nations has proclaimed May 22 as International Day for Biological Diversity."
+  },
+  {
+    "question_number": 87,
+    "question": "Which of the following component is not related with bio-diversity?",
+    "options": {
+      "a": "Ecosystem",
+      "b": "species diversity",
+      "c": "Genetic diversity",
+      "d": "geographic diversity"
+    },
+    "correct_answer": "d",
+    "explanation": "Geographic diversity refers to physical landforms and topography rather than the biological classification pillars of biodiversity."
+  },
+  {
+    "question_number": 88,
+    "question": "The theory of relativity was propounded by",
+    "options": {
+      "a": "Henry Becquerel",
+      "b": "Albert Einstein",
+      "c": "Michel Faraday",
+      "d": "Enrico Fermi"
+    },
+    "correct_answer": "b",
+    "explanation": "Albert Einstein formulated the special and general theories of relativity, fundamentally transforming physics."
+  },
+  {
+    "question_number": 89,
+    "question": "Which of the following Statement(s) about famous Scientist Albert Einstein is/are correct? 1. He was born in France, 2. He received Nobel Prize in 1921 A.D., 3. He was died in U.S.A.",
+    "options": {
+      "a": "1, 2 & 3 are correct",
+      "b": "1 & 2 only",
+      "c": "2 & 3 only",
+      "d": "1 & 3 only"
+    },
+    "correct_answer": "c",
+    "explanation": "Einstein was born in Germany (not France), received the 1921 Nobel Prize in Physics, and passed away in the United States in 1955. Thus statements 2 and 3 are correct."
+  },
+  {
+    "question_number": 90,
+    "question": "Where was the Scientist Stephen Hawking born?",
+    "options": {
+      "a": "United Kingdom",
+      "b": "France",
+      "c": "Netherland",
+      "d": "Poland"
+    },
+    "correct_answer": "a",
+    "explanation": "Theoretical physicist Stephen Hawking was born in Oxford, United Kingdom."
+  },
+  {
+    "question_number": 91,
+    "question": "Who is the writer of 'A Brief History of Time: From the Big Bang to Black Hole'?",
+    "options": {
+      "a": "Albert Einstein",
+      "b": "Stephen Hawking",
+      "c": "Sir Isaac Newton",
+      "d": "Marie Curie"
+    },
+    "correct_answer": "b",
+    "explanation": "Stephen Hawking authored the popular-science masterpiece 'A Brief History of Time', published in 1988."
+  },
+  {
+    "question_number": 92,
+    "question": "In which country 'Madam Curie' was born?",
+    "options": {
+      "a": "France",
+      "b": "Germany",
+      "c": "Britain",
+      "d": "Poland"
+    },
+    "correct_answer": "d",
+    "explanation": "Marie Curie was born in Warsaw, Poland, before later moving to France for her university education and scientific career."
+  },
+  {
+    "question_number": 93,
+    "question": "Who is known as 'Father of Genetics Science'?",
+    "options": {
+      "a": "Charles Darwin",
+      "b": "Gregor Mendel",
+      "c": "Gregor Darwin",
+      "d": "Johann karl Nestler"
+    },
+    "correct_answer": "b",
+    "explanation": "Gregor Mendel gained posthumous recognition as the founder of the modern science of genetics through his pioneering pea plant hybridization experiments."
+  },
+  {
+    "question_number": 94,
+    "question": "Which is the largest underground atomic laboratory in the world?",
+    "options": {
+      "a": "The large Hadron Collider",
+      "b": "The big Impact Reactor",
+      "c": "The Large proton Reactor",
+      "d": "The big Thought"
+    },
+    "correct_answer": "a",
+    "explanation": "The Large Hadron Collider (LHC) built by CERN is the world's largest and highest-energy particle collider, housed in a massive underground tunnel."
+  },
+  {
+    "question_number": 95,
+    "question": "Identify whether the following statements are correct or incorrect: 1. The great Scientist sir Isaac Newton was born in Britain. 2. The first person to land in the Space from United States of America...",
+    "options": {
+      "a": "Both 1 and 2 correct",
+      "b": "Both 1 and 2 incorrect",
+      "c": "1 correct and 2 incorrect",
+      "d": "1 incorrect and 2 correct"
+    },
+    "correct_answer": "c",
+    "explanation": "Isaac Newton was born in England (Britain), making statement 1 correct."
+  },
+  {
+    "question_number": 96,
+    "question": "Who is the Father of Electricity?",
+    "options": {
+      "a": "Sir Isaac Newton",
+      "b": "John Dalton",
+      "c": "Michael Faraday",
+      "d": "Albert Einstein"
+    },
+    "correct_answer": "c",
+    "explanation": "Michael Faraday's discoveries of electromagnetic induction and principles underlying electric motor technology earned him the title 'Father of Electricity'."
+  },
+  {
+    "question_number": 97,
+    "question": "Among the following scientists, who is not related to evolution?",
+    "options": {
+      "a": "Alfred Russel Wallace",
+      "b": "Charles Darwin",
+      "c": "Gregor John Mendel",
+      "d": "Baptiste de Lamark"
+    },
+    "correct_answer": "c",
+    "explanation": "Gregor Mendel is the father of genetics, whereas Darwin, Wallace, and Lamarck are renowned for evolutionary biology theories."
+  },
+  {
+    "question_number": 98,
+    "question": "Radioactivity was discovered by?",
+    "options": {
+      "a": "Kelvin",
+      "b": "Thomson",
+      "c": "Rutherford",
+      "d": "Becquerel"
+    },
+    "correct_answer": "d",
+    "explanation": "Henri Becquerel discovered radioactivity in 1896 while investigating uranium salts."
+  },
+  {
+    "question_number": 99,
+    "question": "The Steam engine was invented by",
+    "options": {
+      "a": "James Watt",
+      "b": "James Prescott Joule",
+      "c": "Newcomen",
+      "d": "Isaac Newton"
+    },
+    "correct_answer": "a",
+    "explanation": "James Watt significantly improved the early Newcomen engine, creating the efficient steam engine that drove the Industrial Revolution."
+  },
+  {
+    "question_number": 100,
+    "question": "Double-helical structure of DNA was given by",
+    "options": {
+      "a": "Jacob and Monod",
+      "b": "Watson and Crick",
+      "c": "H.G. Khorana",
+      "d": "Charles Darwin"
+    },
+    "correct_answer": "b",
+    "explanation": "James Watson and Francis Crick proposed the double-helix model for the molecular structure of DNA in 1953."
+  },
+  {
+    "question_number": 101,
+    "question": "Who invented the e-mail?",
+    "options": {
+      "a": "Francis Galton",
+      "b": "Ray Tomlinson",
+      "c": "Tim Berners Lee",
+      "d": "Gabor Bath"
+    },
+    "correct_answer": "b",
+    "explanation": "Ray Tomlinson implemented the first networked email program on the ARPANET system in 1971."
+  },
+  {
+    "question_number": 102,
+    "question": "Who is the first test tube baby of the world?",
+    "options": {
+      "a": "Louise Joy Brown",
+      "b": "Dennis Ritchie",
+      "c": "Joseph Giblin",
+      "d": "Alan Emtage"
+    },
+    "correct_answer": "a",
+    "explanation": "Louise Joy Brown was born in 1978 as the world's first human baby successfully conceived via in vitro fertilization (IVF)."
+  },
+  {
+    "question_number": 103,
+    "question": "Who was invented Ballpoint pen?",
+    "options": {
+      "a": "Biro Brothers",
+      "b": "Waterman Brothers",
+      "c": "Bick Brothers",
+      "d": "None of above"
+    },
+    "correct_answer": "a",
+    "explanation": "László Bíró, along with his brother György Bíró, patented the modern commercial ballpoint pen."
+  },
+  {
+    "question_number": 104,
+    "question": "What is the full form of RADAR?",
+    "options": {
+      "a": "Radio Active Direction and Resuming",
+      "b": "Radio Detection and Ranging",
+      "c": "Radio Analysis Differentiation Research",
+      "d": "Rational Analysis of Damage and Risk"
+    },
+    "correct_answer": "b",
+    "explanation": "RADAR stands for Radio Detection and Ranging, a detection system that uses radio waves to determine the range, angle, or velocity of objects."
+  },
+  {
+    "question_number": 105,
+    "question": "Who invented the penicillin?",
+    "options": {
+      "a": "Alexander Fleming",
+      "b": "Edward Jenner",
+      "c": "Louis Pasteur",
+      "d": "Karl Erely"
+    },
+    "correct_answer": "a",
+    "explanation": "Sir Alexander Fleming discovered penicillin, the world's first broadly effective antibiotic, in 1928."
+  },
+  {
+    "question_number": 106,
+    "question": "What is the name of first satellite of Nepal?",
+    "options": {
+      "a": "Nepal Sat-I",
+      "b": "Nepal Sat",
+      "c": "Nepali Sat-1",
+      "d": "Nepali Sat"
+    },
+    "correct_answer": "c",
+    "explanation": "NepaliSat-1 was Nepal's first low-earth orbit scientific research satellite launched into space under the BIRDS project."
+  },
+  {
+    "question_number": 107,
+    "question": "Which among the following is not correct?",
+    "options": {
+      "a": "X-ray: Wilhelm Conrad Roentgen",
+      "b": "Telephone: Alexander Graham Bell",
+      "c": "Printing Press: Edison",
+      "d": "Computer: Charles Babbage"
+    },
+    "correct_answer": "c",
+    "explanation": "The mechanical movable-type printing press was invented by Johannes Gutenberg, not Thomas Edison."
+  },
+  {
+    "question_number": 108,
+    "question": "Who invented the calculator?",
+    "options": {
+      "a": "Blaise Pascal",
+      "b": "Robert Watson",
+      "c": "Gregor Mendel",
+      "d": "Robert Basely"
+    },
+    "correct_answer": "a",
+    "explanation": "French mathematician and philosopher Blaise Pascal invented the mechanical calculator (known as the Pascaline) in the 17th century."
+  },
+  {
+    "question_number": 109,
+    "question": "Who was the inventor of electric bulb?",
+    "options": {
+      "a": "Archimedes",
+      "b": "Napoleon Hill",
+      "c": "Thomas A. Edison",
+      "d": "Pythagoras"
+    },
+    "correct_answer": "c",
+    "explanation": "Thomas Edison developed one of the earliest commercially practical incandescent electric light bulbs."
+  },
+  {
+    "question_number": 110,
+    "question": "Who are the founders of Google Search Engine and Company?",
+    "options": {
+      "a": "Jack Dorsey and Biz Stone",
+      "b": "Larry Page and Sergey Brin",
+      "c": "Mark Zuckerberg and Priscilla Chan",
+      "d": "Kevin Systrom and Mike Krieger"
+    },
+    "correct_answer": "b",
+    "explanation": "Larry Page and Sergey Brin founded Google while they were Ph.D. students at Stanford University."
+  },
+  {
+    "question_number": 111,
+    "question": "Who has written the book, the 'Origin of Species'?",
+    "options": {
+      "a": "Madam Curie",
+      "b": "Stephen Hawking",
+      "c": "Charles Darwin",
+      "d": "John Dalton"
+    },
+    "correct_answer": "c",
+    "explanation": "Charles Darwin published his seminal evolutionary biology text 'On the Origin of Species' in 1859."
+  },
+  {
+    "question_number": 112,
+    "question": "Who was invented Pressure Cooker?",
+    "options": {
+      "a": "Denis Papin",
+      "b": "Waterman Brothers",
+      "c": "Bick Brothers",
+      "d": "None"
+    },
+    "correct_answer": "a",
+    "explanation": "French physicist Denis Papin invented the steam digester in 1679, which was the precursor to the modern pressure cooker."
+  },
+  {
+    "question_number": 113,
+    "question": "What is the name of new drug developed by Scientist as an alternative to antibiotics?",
+    "options": {
+      "a": "Orvactive",
+      "b": "Dalvance",
+      "c": "Staphefect",
+      "d": "Sivextro"
+    },
+    "correct_answer": "c",
+    "explanation": "Staphefect is an enzyme-based targeted therapy developed to combat specific bacterial infections as an alternative to traditional broad-spectrum antibiotics."
+  },
+  {
+    "question_number": 114,
+    "question": "Which of the following is the feature of Fifth Generation Computer?",
+    "options": {
+      "a": "Transistor",
+      "b": "Integrated circuit",
+      "c": "Microchip",
+      "d": "Biochip"
+    },
+    "correct_answer": "d",
+    "explanation": "Fifth-generation computing concepts heavily integrate advanced technologies, artificial intelligence architectures, and biochips or ultra-large-scale integration."
+  },
+  {
+    "question_number": 115,
+    "question": "Who invented the telephone?",
+    "options": {
+      "a": "Thomas Alva Edison",
+      "b": "Galileo",
+      "c": "Alexander Graham Bell",
+      "d": "G. Marconi"
+    },
+    "correct_answer": "c",
+    "explanation": "Alexander Graham Bell was awarded the first US patent for the invention of the electric telephone in 1876."
+  },
+  {
+    "question_number": 116,
+    "question": "Who is the father of the personal Computer?",
+    "options": {
+      "a": "Charles Babbage",
+      "b": "Konrad Zuse",
+      "c": "Henry E. Roberts",
+      "d": "Josh Brown"
+    },
+    "correct_answer": "c",
+    "explanation": "Ed Roberts (Henry Edward Roberts) is widely credited as the 'father of the personal computer' for developing the Altair 8800."
+  },
+  {
+    "question_number": 117,
+    "question": "Who invented the Rabies Vaccine?",
+    "options": {
+      "a": "Alexander Fleming",
+      "b": "Edward Jenner",
+      "c": "Louis Pasteur",
+      "d": "Karl Erely"
+    },
+    "correct_answer": "a",
+    "explanation": "Note: While Louis Pasteur historically developed the first rabies vaccine, this question aligns with the provided source answer key index mapping option (a) as the reference key."
+  },
+  {
+    "question_number": 118,
+    "question": "Who is the English physicist responsible for the 'Big Bang Theory'?",
+    "options": {
+      "a": "Albert Einstein",
+      "b": "Michael Skube",
+      "c": "George Gamow",
+      "d": "Roger Penrose"
+    },
+    "correct_answer": "c",
+    "explanation": "George Gamow developed and expanded the cosmological model of the Big Bang and primordial nucleosynthesis."
+  },
+  {
+    "question_number": 119,
+    "question": "Who is the Inventor of Watch?",
+    "options": {
+      "a": "Charles Fulton",
+      "b": "A.L. Breguet",
+      "c": "Waterman",
+      "d": "Charles"
+    },
+    "correct_answer": "b",
+    "explanation": "Abraham-Louis Breguet, a legendary watchmaker, introduced major innovations that shaped modern watchmaking."
+  },
+  {
+    "question_number": 120,
+    "question": "Consider the following matches: \n1. Printing Press - Johannes Gutenberg\n2. Radar - Robert Watson Watt\n3. Television - Alexander Graham Bell\nWhich of the above matches is/are correct?",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "1 only",
+      "d": "all of above"
+    },
+    "correct_answer": "a",
+    "explanation": "Matches 1 (Gutenberg for Printing Press) and 2 (Watson-Watt for Radar) are correct. Television was invented by John Logie Baird, making match 3 incorrect."
+  },
+  {
+    "question_number": 121,
+    "question": "Who is known as the father of Mobile?",
+    "options": {
+      "a": "Tomy Karl Palm",
+      "b": "Martin Cooper",
+      "c": "Justin Cell",
+      "d": "Justin Cooper"
+    },
+    "correct_answer": "b",
+    "explanation": "Martin Cooper led the Motorola team that developed the first handheld cellular mobile phone in 1973."
+  },
+  {
+    "question_number": 122,
+    "question": "What is the field that the famous scientist Stephen Hawking had significantly contributed to?",
+    "options": {
+      "a": "Radiation",
+      "b": "Law of motion",
+      "c": "Quantum gravity",
+      "d": "Medicine"
+    },
+    "correct_answer": "c",
+    "explanation": "Stephen Hawking's most famous theoretical work merged general relativity with quantum mechanics in the study of black holes and quantum gravity."
+  },
+  {
+    "question_number": 123,
+    "question": "Who is the current chairman of x.com (formerly twitter.com), the famous social network?",
+    "options": {
+      "a": "Brett Taylor",
+      "b": "Jack Dorsey",
+      "c": "Elon Musk",
+      "d": "Benjamin Franklin"
+    },
+    "correct_answer": "c",
+    "explanation": "Elon Musk acquired Twitter (rebranded as X) and oversees its strategic leadership."
+  },
+  {
+    "question_number": 124,
+    "question": "The world's smallest gold coin, which features Albert Einstein, is recently released by which country?",
+    "options": {
+      "a": "France",
+      "b": "Germany",
+      "c": "Switzerland",
+      "d": "Russia"
+    },
+    "correct_answer": "c",
+    "explanation": "Swissmint (Switzerland) issued an extremely small commemorative gold coin featuring Albert Einstein."
+  },
+  {
+    "question_number": 125,
+    "question": "Who was awarded Nobel Prize in 1945 for the discovery of penicillin and its curative effects in various infectious diseases?",
+    "options": {
+      "a": "Louis Pasteur",
+      "b": "Sir Alexander Fleming",
+      "c": "Madam Curie",
+      "d": "None of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "Sir Alexander Fleming shared the 1945 Nobel Prize in Physiology or Medicine with Ernst Chain and Howard Florey for the discovery of penicillin."
+  },
+  {
+    "question_number": 126,
+    "question": "Match Group I and II:\nGroup I: a. Atomic Theory, b. Law of Motion, c. Quantum Theory, d. Theory of Relativity\nGroup II: 1. Albert Einstein, 2. Max Planck, 3. John Dalton, 4. Isaac Newton",
+    "options": {
+      "a": "a3, b4, c1, d2",
+      "b": "a1, b3, c2, d4",
+      "c": "a3, b4, c2, d1",
+      "d": "a4, b2, c1, d1"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct pairings are: Atomic Theory (John Dalton - a3), Law of Motion (Isaac Newton - b4), Quantum Theory (Max Planck - c2), and Theory of Relativity (Albert Einstein - d1)."
+  },
+  {
+    "question_number": 127,
+    "question": "Which of the following was the first successful human Space Flight?",
+    "options": {
+      "a": "Sputnik-I",
+      "b": "Sputnik-II",
+      "c": "Apollo-I",
+      "d": "Vostok-I"
+    },
+    "correct_answer": "d",
+    "explanation": "Vostok 1 carried Soviet cosmonaut Yuri Gagarin into space on April 12, 1961, marking the first successful human spaceflight."
+  },
+  {
+    "question_number": 128,
+    "question": "The first woman to reach in space is;",
+    "options": {
+      "a": "V. Tereshkova",
+      "b": "Jeanette J. Epps",
+      "c": "Patricia Robertson",
+      "d": "Nadeznda Kuzhelnaya"
+    },
+    "correct_answer": "a",
+    "explanation": "Valentina Tereshkova orbited Earth aboard Vostok 6 in 1963, becoming the first woman in space."
+  },
+  {
+    "question_number": 129,
+    "question": "Who was the second person to walk on the moon?",
+    "options": {
+      "a": "Neil Armstrong",
+      "b": "Alan Shepard",
+      "c": "Edwin B. Aldrin",
+      "d": "James B. Irwin"
+    },
+    "correct_answer": "c",
+    "explanation": "Buzz Aldrin (Edwin E. Aldrin Jr.) followed Neil Armstrong out of the Lunar Module to walk on the lunar surface during Apollo 11."
+  },
+  {
+    "question_number": 130,
+    "question": "Which was the first country to enter to the Space?",
+    "options": {
+      "a": "USA",
+      "b": "USSR",
+      "c": "UK",
+      "d": "Japan"
+    },
+    "correct_answer": "b",
+    "explanation": "The Soviet Union (USSR) pioneered space exploration by launching the first artificial satellite and human spaceflight."
+  },
+  {
+    "question_number": 131,
+    "question": "Which is the first artificial Satellite to orbit Earth?",
+    "options": {
+      "a": "Explorer-I",
+      "b": "Sputnik-I",
+      "c": "Vanguard",
+      "d": "Vostok-I"
+    },
+    "correct_answer": "b",
+    "explanation": "Sputnik 1 was successfully launched by the Soviet Union on October 4, 1957, as the first artificial Earth satellite."
+  },
+  {
+    "question_number": 132,
+    "question": "Which of the following space agencies used a Space Craft named Hayabusa?",
+    "options": {
+      "a": "NASA",
+      "b": "CNSA",
+      "c": "JAXA",
+      "d": "ESA"
+    },
+    "correct_answer": "c",
+    "explanation": "Hayabusa was an asteroid sample-return spacecraft operated by the Japan Aerospace Exploration Agency (JAXA)."
+  },
+  {
+    "question_number": 133,
+    "question": "From which among the following Nepal has launched its first Satellite Nepali Sat-1?",
+    "options": {
+      "a": "USA",
+      "b": "Japan",
+      "c": "India",
+      "d": "China"
+    },
+    "correct_answer": "b",
+    "explanation": "NepaliSat-1 was developed by Nepali engineers studying at Kyushu Institute of Technology in Japan under a collaborative satellite program."
+  },
+  {
+    "question_number": 134,
+    "question": "The first flight program of the Space Shuttle by NASA was launched in",
+    "options": {
+      "a": "1979",
+      "b": "1980",
+      "c": "1981",
+      "d": "1982"
+    },
+    "correct_answer": "c",
+    "explanation": "Space Shuttle Columbia (STS-1) launched on April 12, 1981, marking the first orbital flight of NASA's Space Shuttle program."
+  },
+  {
+    "question_number": 135,
+    "question": "First Person to reach into space was",
+    "options": {
+      "a": "Alan Shepard",
+      "b": "Neil Armstrong",
+      "c": "Yuri Gagarin",
+      "d": "Vladimir Komarov"
+    },
+    "correct_answer": "c",
+    "explanation": "Soviet cosmonaut Yuri Gagarin became the first human to journey into outer space."
+  },
+  {
+    "question_number": 136,
+    "question": "The first human made object to orbit...",
+    "options": {
+      "a": "Apollo-I",
+      "b": "Sputnik-I",
+      "c": "Salyut-I",
+      "d": "Vostok-I"
+    },
+    "correct_answer": "b",
+    "explanation": "Sputnik 1 was the first human-made object placed into Earth orbit."
+  },
+  {
+    "question_number": 137,
+    "question": "The Luna programme was a series of unmanned space missions launched by which country?",
+    "options": {
+      "a": "Soviet Union",
+      "b": "USA",
+      "c": "China",
+      "d": "Japan"
+    },
+    "correct_answer": "a",
+    "explanation": "The Luna programme consisted of a series of robotic lunar probe missions sent to the Moon by the Soviet Union between 1959 and 1976."
+  }
+]

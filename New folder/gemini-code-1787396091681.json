@@ -1,0 +1,1925 @@
+{
+  "mcqs": [
+    {
+      "question_number": 176,
+      "question": "The process of adding water to lime to convert it in hydrated lime, is known as",
+      "options": {
+        "a": "hydration",
+        "b": "slaking",
+        "c": "calcinations",
+        "d": "watering"
+      },
+      "correct_answer": "b",
+      "explanation": "Slaking is the exothermic reaction where quicklime (calcium oxide) reacts with water to produce calcium hydroxide (hydrated lime)[cite: 2]."
+    },
+    {
+      "question_number": 177,
+      "question": "The lime suitable for making mortar is",
+      "options": {
+        "a": "quick lime",
+        "b": "fat lime",
+        "c": "hydraulic lime",
+        "d": "pure lime"
+      },
+      "correct_answer": "c",
+      "explanation": "Hydraulic lime contains clay and is capable of setting and hardening in damp conditions, making it suitable for structural mortar[cite: 2]."
+    },
+    {
+      "question_number": 178,
+      "question": "The lime suitable for use under water is",
+      "options": {
+        "a": "fat lime",
+        "b": "poor lime",
+        "c": "hydraulic lime",
+        "d": "all of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Hydraulic lime sets and hardens underwater due to the presence of clay and siliceous matter[cite: 2]."
+    },
+    {
+      "question_number": 179,
+      "question": "Setting time of hydraulic lime is",
+      "options": {
+        "a": "21 days",
+        "b": "7 days",
+        "c": "2-48hr",
+        "d": "all of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Hydraulic lime typically exhibits a setting time ranging from hours to a couple of days (2-48 hours) depending on its hydraulic grade[cite: 2]."
+    },
+    {
+      "question_number": 180,
+      "question": "Lime containing CaO and set in water under normal condition is called",
+      "options": {
+        "a": "poor",
+        "b": "fat",
+        "c": "hydraulic",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Hydraulic lime contains calcium oxide along with clay compounds which allow it to set in water[cite: 2]."
+    },
+    {
+      "question_number": 181,
+      "question": "Lime having high calcium oxide content, which can set and become hard only in the presence of CO2 from the atmosphere is known as",
+      "options": {
+        "a": "hydraulic lime",
+        "b": "fat lime",
+        "c": "quick lime",
+        "d": "lump lime"
+      },
+      "correct_answer": "b",
+      "explanation": "Fat lime (rich lime) hardens slowly by absorbing carbon dioxide from the surrounding air through carbonation[cite: 2]."
+    },
+    {
+      "question_number": 182,
+      "question": "Sand is mixed with lime mortar to",
+      "options": {
+        "a": "helps the pure lime to set by allowing penetration of air which provides the needed CO2",
+        "b": "reduce cost by increasing volume",
+        "c": "prevent shrinkage",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Sand serves multiple purposes: it prevents excessive shrinkage, increases bulk to reduce cost, and creates porous voids for air and CO2 penetration[cite: 2]."
+    },
+    {
+      "question_number": 183,
+      "question": "The advantage of adding pozzolana to lime is",
+      "options": {
+        "a": "increased strength to cracking",
+        "b": "reduced shrinkage",
+        "c": "increased resistance to chemical attack",
+        "d": "impart greater strength"
+      },
+      "correct_answer": "d",
+      "explanation": "Pozzolana reacts with lime to form cementitious compounds, imparting greater overall strength and durability[cite: 2]."
+    },
+    {
+      "question_number": 184,
+      "question": "Very strong lime mortar is obtained from",
+      "options": {
+        "a": "quick lime",
+        "b": "semi-hydraulic lime",
+        "c": "hydrated lime",
+        "d": "hydraulic lime"
+      },
+      "correct_answer": "d",
+      "explanation": "Hydraulic lime produces high-strength mortar compared to fat lime due to hydraulic hardening[cite: 2]."
+    },
+    {
+      "question_number": 185,
+      "question": "As compared to fat lime, the hydraulic lime sets",
+      "options": {
+        "a": "faster",
+        "b": "slowly",
+        "c": "same rate",
+        "d": "very slowly"
+      },
+      "correct_answer": "a",
+      "explanation": "Hydraulic lime sets much faster than fat lime because of chemical reactions involving its clay content[cite: 2]."
+    },
+    {
+      "question_number": 186,
+      "question": "Lime concrete is used in",
+      "options": {
+        "a": "foundation of columns",
+        "b": "roof slabs",
+        "c": "walls",
+        "d": "under the floors"
+      },
+      "correct_answer": "d",
+      "explanation": "Historically, lime concrete is widely used as a sub-base bed layer under floors and foundations[cite: 2]."
+    },
+    {
+      "question_number": 187,
+      "question": "The quick lime as it comes from kilns is called",
+      "options": {
+        "a": "milk lime",
+        "b": "hydraulic lime",
+        "c": "lump lime",
+        "d": "hydrated lime"
+      },
+      "correct_answer": "c",
+      "explanation": "Quicklime emerging directly from the burning kiln in lump form is termed lump lime[cite: 2]."
+    },
+    {
+      "question_number": 188,
+      "question": "A dry powder obtained on treating quick lime with just enough water to satisfy chemical affinity for water under the condition of its hydration is called",
+      "options": {
+        "a": "hydraulic lime",
+        "b": "hydrated lime",
+        "c": "milk of lime",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Hydrated lime is a dry powder formed by treating quicklime with a stoichiometric amount of water[cite: 2]."
+    },
+    {
+      "question_number": 189,
+      "question": "The quality of lime is checked by",
+      "options": {
+        "a": "slaking",
+        "b": "dimension test",
+        "c": "seasoning",
+        "d": "ball test"
+      },
+      "correct_answer": "a",
+      "explanation": "The slaking test evaluates the reactivity, purity, and quality of lime[cite: 2]."
+    },
+    {
+      "question_number": 190,
+      "question": "The constituent responsible for setting of hydraulic lime under water is",
+      "options": {
+        "a": "silica",
+        "b": "clay",
+        "c": "calcium oxide",
+        "d": "carbon dioxide"
+      },
+      "correct_answer": "b",
+      "explanation": "Clay provides the silicious and aluminous compounds necessary for hydraulic lime to set underwater[cite: 2]."
+    },
+    {
+      "question_number": 191,
+      "question": "A thin pourable suspension of slaked lime in water is known as",
+      "options": {
+        "a": "lime water",
+        "b": "lime paint",
+        "c": "milk of lime",
+        "d": "lime lotion"
+      },
+      "correct_answer": "c",
+      "explanation": "Milk of lime is a milky white fluid suspension of calcium hydroxide particles in water[cite: 2]."
+    },
+    {
+      "question_number": 192,
+      "question": "Lime suitable for making mortar of good strength",
+      "options": {
+        "a": "hydraulic lime",
+        "b": "fat lime",
+        "c": "lean lime",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Hydraulic lime provides superior strength for mortar compared to non-hydraulic varieties[cite: 2]."
+    },
+    {
+      "question_number": 193,
+      "question": "The calcinations of pure lime results in",
+      "options": {
+        "a": "quick lime",
+        "b": "hydraulic lime",
+        "c": "hydrated lime",
+        "d": "fat lime"
+      },
+      "correct_answer": "a",
+      "explanation": "Calcination of limestone drives off carbon dioxide, producing quicklime (calcium oxide)[cite: 2]."
+    },
+    {
+      "question_number": 194,
+      "question": "Plaster of paris can be obtained from the calcinations of",
+      "options": {
+        "a": "lime stone",
+        "b": "gypsum",
+        "c": "dolomite",
+        "d": "bauxite"
+      },
+      "correct_answer": "b",
+      "explanation": "Plaster of Paris is produced by the controlled calcination/dehydration of gypsum[cite: 2]."
+    },
+    {
+      "question_number": 195,
+      "question": "The silicious and aluminous minerals, which do not have cementitious qualities by themselves but which react with lime in the presence of water at normal temperature to form cementitious compounds, are known as",
+      "options": {
+        "a": "glazed materials",
+        "b": "porcelains",
+        "c": "pozzolonic materials",
+        "d": "carbonaceous materials"
+      },
+      "correct_answer": "c",
+      "explanation": "Pozzolanic materials possess reactive silica/alumina that react chemically with calcium hydroxide at room temperature[cite: 2]."
+    },
+    {
+      "question_number": 196,
+      "question": "The process of heating the lime stone to redness in contact with air is termed",
+      "options": {
+        "a": "carbonation",
+        "b": "calcinations",
+        "c": "hydration",
+        "d": "oxidation"
+      },
+      "correct_answer": "b",
+      "explanation": "Calcination is the thermal treatment process of heating limestone to high temperatures[cite: 2]."
+    },
+    {
+      "question_number": 197,
+      "question": "The advantage of adding pozzolona to lime is",
+      "options": {
+        "a": "to reduce the shrinkage",
+        "b": "to increase resistance to cracking",
+        "c": "to impart greater strength",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Pozzolana reduces shrinkage, prevents cracking, and enhances overall strength and chemical resistance[cite: 2]."
+    },
+    {
+      "question_number": 198,
+      "question": "Gypsum is added to cement for reducing the fast reacting property of",
+      "options": {
+        "a": "dicalcium silicate",
+        "b": "tricalcium silicate",
+        "c": "tricalcium aluminate",
+        "d": "tetra calcium aluminoferrite"
+      },
+      "correct_answer": "c",
+      "explanation": "Tricalcium aluminate reacts extremely fast with water causing flash set; gypsum acts as a retarder by binding with it[cite: 2]."
+    },
+    {
+      "question_number": 199,
+      "question": "The initial setting of cement is caused by formation of",
+      "options": {
+        "a": "dicalcium silicate",
+        "b": "tricalcium silicate",
+        "c": "tricalcium aluminate",
+        "d": "tetracalcium aluminate"
+      },
+      "correct_answer": "c",
+      "explanation": "Tricalcium aluminate hydrates immediately upon water addition, driving the initial stiffening and setting[cite: 2]."
+    },
+    {
+      "question_number": 200,
+      "question": "As per IS specification, the minimum time for initial setting of ordinary portland cement is",
+      "options": {
+        "a": "20 minutes",
+        "b": "30 minutes",
+        "c": "60 minutes",
+        "d": "10 hours"
+      },
+      "correct_answer": "b",
+      "explanation": "Indian Standards specify that the initial setting time of OPC must not be less than 30 minutes[cite: 2]."
+    },
+    {
+      "question_number": 201,
+      "question": "As per IS specification, the maximum final setting time for ordinary portland cement",
+      "options": {
+        "a": "30 minutes",
+        "b": "60 minutes",
+        "c": "10 hours",
+        "d": "24 hours"
+      },
+      "correct_answer": "c",
+      "explanation": "The final setting time of OPC must not exceed 600 minutes (10 hours) as per IS standards[cite: 2]."
+    },
+    {
+      "question_number": 202,
+      "question": "The undesirable properties of cement is due to formation of.",
+      "options": {
+        "a": "dicalcium silicate",
+        "b": "tricalcium silicate",
+        "c": "tricalcium aluminate",
+        "d": "tetracalcium aluminate"
+      },
+      "correct_answer": "c",
+      "explanation": "Tricalcium aluminate generates high heat of hydration and has poor resistance to chemical sulfate attacks[cite: 2]."
+    },
+    {
+      "question_number": 203,
+      "question": "The setting and hardening of cement after the addition of water occurs due to",
+      "options": {
+        "a": "binding action of water",
+        "b": "hydration and hydrolysis of some constituent compounds of cement which act as glue",
+        "c": "evaporation of water",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Hardening is driven by ongoing hydration and hydrolysis reactions of Bogue's compounds forming solid gel structures[cite: 2]."
+    },
+    {
+      "question_number": 204,
+      "question": "The constituents of cement, which act as binder are",
+      "options": {
+        "a": "dicalcium silicate, tricalcium silicate and carbon",
+        "b": "tricalcium aluminate, tricalcium silicate and carbon",
+        "c": "silica and carbon",
+        "d": "none of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "The true binders are calcium silicates and aluminates, none of which contain elemental carbon as listed in options a, b, or c[cite: 2]."
+    },
+    {
+      "question_number": 205,
+      "question": "A slow setting cement has higher percentage of",
+      "options": {
+        "a": "tricalcium aluminate",
+        "b": "tricalcium silicate",
+        "c": "dicalcium silicate",
+        "d": "gypsum"
+      },
+      "correct_answer": "c",
+      "explanation": "Dicalcium silicate hydrates very slowly, contributing to slow early set and long-term strength gain[cite: 2]."
+    },
+    {
+      "question_number": 206,
+      "question": "Normally bogues compounds found in cement during burning process",
+      "options": {
+        "a": "alite",
+        "b": "belite",
+        "c": "celite",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Alite (C3S), Belite (C2S), and Celite (C3A) are common terms for clinker compounds formed during burning[cite: 2]."
+    },
+    {
+      "question_number": 207,
+      "question": "When water is added to cement, the cement hydrates and chemical reactions takes place while cement is setting an increase in temperature occurs and a considerable quantity of heat is generated is called",
+      "options": {
+        "a": "heating of cement",
+        "b": "hydration of cement",
+        "c": "soundness of cement",
+        "d": "all of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "The exothermic heat released during cement-water interaction is known as the heat of hydration[cite: 2]."
+    },
+    {
+      "question_number": 208,
+      "question": "Dormant period (2-5hr) is concerned with",
+      "options": {
+        "a": "hydration of cement",
+        "b": "fineness of cement",
+        "c": "watering of cement",
+        "d": "workability of cement"
+      },
+      "correct_answer": "a",
+      "explanation": "The induction or dormant period is an initial phase of cement hydration where reaction slows briefly before hardening[cite: 2]."
+    },
+    {
+      "question_number": 209,
+      "question": "During production of cement raw materials are mixed in",
+      "options": {
+        "a": "ball mill",
+        "b": "pug mill",
+        "c": "rice mill",
+        "d": "cement mill"
+      },
+      "correct_answer": "a",
+      "explanation": "Raw materials are ground and intimately mixed inside tube or ball mills[cite: 2]."
+    },
+    {
+      "question_number": 210,
+      "question": "The amount of loss of ignition, insoluble residue & residual retained (OPC) on IS sieve",
+      "options": {
+        "a": "4%, 1.5% & 10%",
+        "b": "1.5%, 4% & 10%",
+        "c": "4%, 10% & 1.5%",
+        "d": "10%, 1.5% & 4%"
+      },
+      "correct_answer": "a",
+      "explanation": "Standard OPC specifications limit loss on ignition to max 4%, insoluble residue to max 1.5%, and residue on 90-micron sieve to max 10%[cite: 2]."
+    },
+    {
+      "question_number": 211,
+      "question": "Flash setting of cement means",
+      "options": {
+        "a": "hydration of cement",
+        "b": "hardening of cement",
+        "c": "stiffening of cement without strength development",
+        "d": "all of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Flash setting refers to premature hardening or stiffening of cement paste without proper strength gain due to lack of retarder[cite: 2]."
+    },
+    {
+      "question_number": 212,
+      "question": "The strength of RHPC for one day is equal to...day of PPC",
+      "options": {
+        "a": "2 days",
+        "b": "3 days",
+        "c": "4 days",
+        "d": "5 days"
+      },
+      "correct_answer": "b",
+      "explanation": "Rapid Hardening Portland Cement achieves 1-day strength roughly equivalent to 3 days of Portland Pozzolana Cement[cite: 2]."
+    },
+    {
+      "question_number": 213,
+      "question": "The excess quantity of CaCl2 (2%) and triethanolamine (>0.06%) admixtures be like a",
+      "options": {
+        "a": "accelerator",
+        "b": "retarder",
+        "c": "both (a) and (b)",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Calcium chloride and triethanolamine function as setting and hardening accelerators[cite: 2]."
+    },
+    {
+      "question_number": 214,
+      "question": "The possibility of bleeding, segregation and laitance is reduced by",
+      "options": {
+        "a": "colouring agent",
+        "b": "bleeding agent",
+        "c": "water proofer",
+        "d": "air entraining agent"
+      },
+      "correct_answer": "d",
+      "explanation": "Air entraining agents introduce micro-bubbles that improve cohesiveness and minimize bleeding and segregation[cite: 2]."
+    },
+    {
+      "question_number": 215,
+      "question": "Workability is tested by",
+      "options": {
+        "a": "slump test",
+        "b": "vee bee test",
+        "c": "C.F. test",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Slump test, Vee-Bee consistometer, and Compacting Factor (C.F.) test are all standard methods for testing concrete workability[cite: 2]."
+    },
+    {
+      "question_number": 216,
+      "question": "Pick up the air entraining agent from the following",
+      "options": {
+        "a": "animal fats",
+        "b": "natural wood resins",
+        "c": "alkali salts",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Animal fats, natural wood resins, and various alkali salts are common materials used as air-entraining agents[cite: 2]."
+    },
+    {
+      "question_number": 217,
+      "question": "The most commonly used accelerator for concreting is",
+      "options": {
+        "a": "gypsum",
+        "b": "calcium chloride",
+        "c": "calcium oxide",
+        "d": "calcium sulphate"
+      },
+      "correct_answer": "b",
+      "explanation": "Calcium chloride ($\text{CaCl}_2$) is the most popular chemical accelerator for fast setting and cold weather concreting[cite: 2]."
+    },
+    {
+      "question_number": 218,
+      "question": "The chemical used as accelerator is",
+      "options": {
+        "a": "CaCl2",
+        "b": "CaSo4",
+        "c": "ZnSO4",
+        "d": "Al2(So4)3"
+      },
+      "correct_answer": "a",
+      "explanation": "Calcium chloride ($\text{CaCl}_2$) accelerates the hydration process[cite: 2]."
+    },
+    {
+      "question_number": 219,
+      "question": "Workability of concrete is increased due to an excess of",
+      "options": {
+        "a": "cement",
+        "b": "water",
+        "c": "round aggregate",
+        "d": "all of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Adding excess water increases fluidity and workability, though it compromises strength and durability[cite: 2]."
+    },
+    {
+      "question_number": 220,
+      "question": "The amount of pozzolona in portland pozzolana cement is",
+      "options": {
+        "a": "20 to 30%",
+        "b": "30 to 40%",
+        "c": "40 to 50%",
+        "d": "50 to 60%"
+      },
+      "correct_answer": "a",
+      "explanation": "PPC typically contains between 15% to 35% (commonly 20-30%) pozzolanic material by weight[cite: 2]."
+    },
+    {
+      "question_number": 221,
+      "question": "Which one is correct?",
+      "options": {
+        "a": "PPC gains strength slowly as compared to OPC",
+        "b": "ultimate strength of PPC is higher than OPC",
+        "c": "PPC has higher resistance of chemical attack",
+        "d": "PPC has lower shrinkage on drying",
+        "e": "all of the above"
+      },
+      "correct_answer": "e",
+      "explanation": "All listed statements regarding Portland Pozzolana Cement are correct[cite: 2]."
+    },
+    {
+      "question_number": 222,
+      "question": "In quick setting cement the compound added is",
+      "options": {
+        "a": "aluminium sulphate",
+        "b": "aluminium silicate",
+        "c": "calcium sulphate",
+        "d": "gypsum"
+      },
+      "correct_answer": "a",
+      "explanation": "Aluminium sulphate is added as an accelerating agent to quick-setting cement to speed up setting time[cite: 2]."
+    },
+    {
+      "question_number": 223,
+      "question": "In low heat cement, the constituent kept to the minimum is",
+      "options": {
+        "a": "dicalcium silicate",
+        "b": "tricalcium silicate",
+        "c": "tricalcium aluminate",
+        "d": "tetracalcium aluminate"
+      },
+      "correct_answer": "c",
+      "explanation": "Tricalcium aluminate ($\text{C}_3\text{A}$) generates the maximum heat of hydration and is kept minimal in low-heat cement[cite: 2]."
+    },
+    {
+      "question_number": 224,
+      "question": "The raw materials having more than 10% proportion in the manufacture of cement",
+      "options": {
+        "a": "calcium oxide and silica",
+        "b": "calcium oxide and magnesium oxide",
+        "c": "magnesium oxide and ferrous oxide",
+        "d": "silica and ferrous oxide"
+      },
+      "correct_answer": "a",
+      "explanation": "Lime (calcium oxide) and silica form the primary bulk constituents exceeding 10% each in cement manufacturing[cite: 2]."
+    },
+    {
+      "question_number": 225,
+      "question": "Which constituent is the best cementing material?",
+      "options": {
+        "a": "tri-calcium silicate",
+        "b": "tri-calcium aluminate",
+        "c": "di-calcium silicate",
+        "d": "free lime"
+      },
+      "correct_answer": "a",
+      "explanation": "Tricalcium silicate ($\text{C}_3\text{S}$) is considered the best cementing compound, providing both early and ultimate strength[cite: 2]."
+    },
+    {
+      "question_number": 226,
+      "question": "The temperature range at which the consistency test is conducted",
+      "options": {
+        "a": "25°C to 29°C",
+        "b": "20°C to 25°C",
+        "c": "20°C",
+        "d": "30°C to 35°C"
+      },
+      "correct_answer": "a",
+      "explanation": "Standard laboratory testing temperature is maintained around $27 \pm 2^\circ\text{C}$ (i.e., 25°C to 29°C)[cite: 2]."
+    },
+    {
+      "question_number": 227,
+      "question": "The consistency test is performed to find",
+      "options": {
+        "a": "the correct water-cement ratio",
+        "b": "the fineness of cement",
+        "c": "the compressive strength",
+        "d": "tensile strength"
+      },
+      "correct_answer": "a",
+      "explanation": "Standard consistency determines the percentage of water required to prepare cement paste for subsequent setting and soundness tests[cite: 2]."
+    },
+    {
+      "question_number": 228,
+      "question": "For normal consistency, the penetration in Vicat apparatus should be between",
+      "options": {
+        "a": "20 to 30mm",
+        "b": "30 to 35mm",
+        "c": "35 to 38 mm",
+        "d": ">40 mm"
+      },
+      "correct_answer": "b",
+      "explanation": "The Vicat plunger should penetrate to a point 5 to 7 mm from the bottom of the mold, which corresponds to a penetration of 33 to 35 mm[cite: 2]."
+    },
+    {
+      "question_number": 229,
+      "question": "Le-Chatelier's apparatus is used to carry out",
+      "options": {
+        "a": "consistency test",
+        "b": "soundness test",
+        "c": "compressive strength",
+        "d": "tensile strength"
+      },
+      "correct_answer": "b",
+      "explanation": "Le-Chatelier apparatus measures the unsoundness caused by uncombined lime in cement[cite: 2]."
+    },
+    {
+      "question_number": 230,
+      "question": "In briquette test, the seven day tensile strength of good portland cement should not be less than",
+      "options": {
+        "a": "20 kg/cm2",
+        "b": "30 kg/cm2",
+        "c": "25 kg/cm2",
+        "d": "35 kg/cm2"
+      },
+      "correct_answer": "a",
+      "explanation": "Standard specifications require 7-day tensile strength of cement mortar briquettes to be at least $20\text{ kg/cm}^2$[cite: 2]."
+    },
+    {
+      "question_number": 231,
+      "question": "The seven day compressive strength of a good portland cement, as obtained from the compressive test on cement-sand mortar cubes, should not be less than",
+      "options": {
+        "a": "125 kg/cm2",
+        "b": "150 kg/cm2",
+        "c": "175 kg/cm2",
+        "d": "200 kg/cm2"
+      },
+      "correct_answer": "c",
+      "explanation": "The 7-day compressive strength for standard OPC mortar cubes should be at least $175\text{ kg/cm}^2$[cite: 2]."
+    },
+    {
+      "question_number": 232,
+      "question": "Excessive free lime and excessive magnesia present in the cement make the cement",
+      "options": {
+        "a": "unsound",
+        "b": "to have very low initial setting time",
+        "c": "to have very light compressive strength",
+        "d": "gain strength faster"
+      },
+      "correct_answer": "a",
+      "explanation": "Free lime and magnesia hydrate slowly and expand post-hardening, rendering the cement unsound[cite: 2]."
+    },
+    {
+      "question_number": 233,
+      "question": "The dry process of manufacturing cement has become obsolete, because, in comparison to wet process",
+      "options": {
+        "a": "it is slow and costly",
+        "b": "the quality of cement produced by it is inferior",
+        "c": "it is difficult to maintain the correct proportions of constituents",
+        "d": "all of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Historically, maintaining uniform chemical composition and intimate mixing was harder in dry processes before modern blending controls[cite: 2]."
+    },
+    {
+      "question_number": 234,
+      "question": "Rapid hardening cement attains early strength due to",
+      "options": {
+        "a": "larger proportion of lime grounded finer than in ordinary cement",
+        "b": "small proportion of lime grounded finer than in ordinary cement",
+        "c": "presence of excess percentage of gypsum",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "RHPC has higher lime content and is ground much finer, increasing surface area for rapid hydration[cite: 2]."
+    },
+    {
+      "question_number": 235,
+      "question": "Portland cement manufactured from pure white chalk and clay but free from iron oxide, is known as",
+      "options": {
+        "a": "low heat portland cement",
+        "b": "quick setting cement",
+        "c": "white cement",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "White cement is manufactured free of iron oxide to eliminate the characteristic grey color[cite: 2]."
+    },
+    {
+      "question_number": 236,
+      "question": "Which constituent of the cement, upon a addition of water, sets and hardness first",
+      "options": {
+        "a": "tri-calcium silicate",
+        "b": "tri-calcium aluminate",
+        "c": "di-calcium silicate",
+        "d": "free lime"
+      },
+      "correct_answer": "b",
+      "explanation": "Tricalcium aluminate ($\text{C}_3\text{A}$) reacts first upon water addition[cite: 2]."
+    },
+    {
+      "question_number": 237,
+      "question": "The quality of cement is good if it has more of",
+      "options": {
+        "a": "tri-calcium silicate",
+        "b": "tri-calcium aluminate",
+        "c": "di-calcium silicate",
+        "d": "free lime"
+      },
+      "correct_answer": "a",
+      "explanation": "Higher tricalcium silicate content ensures better overall strength development[cite: 2]."
+    },
+    {
+      "question_number": 238,
+      "question": "In the sieve analysis of fineness test, the residue on IS sieve NO. 9 after 15 min sieving should not be more than",
+      "options": {
+        "a": "5%",
+        "b": "7.5%",
+        "c": "10%",
+        "d": "15%"
+      },
+      "correct_answer": "c",
+      "explanation": "The weight of residue left on the 90-micron sieve should not exceed 10%[cite: 2]."
+    },
+    {
+      "question_number": 239,
+      "question": "Quick Setting cement is used",
+      "options": {
+        "a": "for the construction of structures under water",
+        "b": "to obtain very light strength",
+        "c": "where resistance to acidic water is required",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Quick setting cement is ideal for underwater or running water construction where washout must be prevented[cite: 2]."
+    },
+    {
+      "question_number": 240,
+      "question": "The initial and final setting times of quick setting cement are",
+      "options": {
+        "a": "15 minutes and 45 minutes",
+        "b": "20 minutes and one hour",
+        "c": "5 minutes and 30 minutes",
+        "d": "5 minutes and 45 minutes"
+      },
+      "correct_answer": "c",
+      "explanation": "Quick setting cement has an initial set of 5 minutes and a final set of 30 minutes[cite: 2]."
+    },
+    {
+      "question_number": 241,
+      "question": "The pozzolona portland cement gains the strength",
+      "options": {
+        "a": "in the same time as ordinary portland cement",
+        "b": "in less time than ordinary portland cement",
+        "c": "in more time than ordinary portland cement",
+        "d": "difficult to tell"
+      },
+      "correct_answer": "c",
+      "explanation": "PPC gains early strength more slowly than OPC due to the slower pozzolanic reaction[cite: 2]."
+    },
+    {
+      "question_number": 242,
+      "question": "Compared to the ordinary portland cement, the ultimate strength of the pozzolona portland cement is",
+      "options": {
+        "a": "same",
+        "b": "more",
+        "c": "less",
+        "d": "very much less"
+      },
+      "correct_answer": "b",
+      "explanation": "PPC achieves higher ultimate strength over long periods due to continuous pozzolanic conversion of free lime[cite: 2]."
+    },
+    {
+      "question_number": 243,
+      "question": "In low heat cement, the proportion of the following compound is kept at low value",
+      "options": {
+        "a": "tricalcium aluminate",
+        "b": "tricalcium silicate",
+        "c": "both (a) and (b) of above",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Both $\text{C}_3\text{A}$ and $\text{C}_3\text{S}$ are kept low in low-heat cement to limit heat evolution[cite: 2]."
+    },
+    {
+      "question_number": 244,
+      "question": "In the chemical composition of test for loss on ignition, the cement is treated at temperature of",
+      "options": {
+        "a": "100°C",
+        "b": "200°C",
+        "c": "500°C",
+        "d": "1000°C"
+      },
+      "correct_answer": "d",
+      "explanation": "Loss on ignition testing requires heating the sample to high temperatures around $900-1000^\circ\text{C}$[cite: 2]."
+    },
+    {
+      "question_number": 245,
+      "question": "Loss on ignition in cement should not exceed",
+      "options": {
+        "a": "1%",
+        "b": "4%",
+        "c": "8%",
+        "d": "12%"
+      },
+      "correct_answer": "b",
+      "explanation": "The maximum permissible limit for loss on ignition in OPC is 4%[cite: 2]."
+    },
+    {
+      "question_number": 246,
+      "question": "The insoluble residues in good cement should be less than",
+      "options": {
+        "a": "between 4 and 8%",
+        "b": "less than 1.5%",
+        "c": "between 8 and 10%",
+        "d": "less than 8%"
+      },
+      "correct_answer": "b",
+      "explanation": "Insoluble residue in quality cement must not exceed 1.5%[cite: 2]."
+    },
+    {
+      "question_number": 247,
+      "question": "During the test of portland cement for \"loss of ignition\" the loss in weight occurs due to",
+      "options": {
+        "a": "chemical reactions",
+        "b": "burning of ingredients",
+        "c": "evaporation of moisture and CO2",
+        "d": "melting of tricalcium aluminate"
+      },
+      "correct_answer": "c",
+      "explanation": "Weight loss is caused by the expulsion of moisture and carbon dioxide during high-temperature ignition[cite: 2]."
+    },
+    {
+      "question_number": 248,
+      "question": "The volume of one bag of cement weighing 50 kg is",
+      "options": {
+        "a": "0.05 m3",
+        "b": "0.0347 m3",
+        "c": "0.025 m3",
+        "d": "0.04 m3"
+      },
+      "correct_answer": "b",
+      "explanation": "Volume = Mass / Density = $50\text{ kg} / 1440\text{ kg/m}^3 \approx 0.0347\text{ m}^3$[cite: 2]."
+    },
+    {
+      "question_number": 249,
+      "question": "Slag cement contains",
+      "options": {
+        "a": "lime",
+        "b": "pozzolona",
+        "c": "sulphute",
+        "d": "silvicrete"
+      },
+      "correct_answer": "a",
+      "explanation": "Slag cement blends Portland cement clinker with granulated blast-furnace slag and lime[cite: 2]."
+    },
+    {
+      "question_number": 250,
+      "question": "P is the percentage of water required for normal consistency, water to be added for determination of initial setting time is,",
+      "options": {
+        "a": "0.70P",
+        "b": "0.75P",
+        "c": "0.80P",
+        "d": "0.85P"
+      },
+      "correct_answer": "d",
+      "explanation": "The quantity of mixing water for setting time tests is specified as $0.85P$[cite: 2]."
+    },
+    {
+      "question_number": 251,
+      "question": "A badly mixed cement concrete results in",
+      "options": {
+        "a": "segregation",
+        "b": "bleeding",
+        "c": "honey combing",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Inadequate mixing results in poor paste distribution, leading to honeycombing and voids in concrete[cite: 2]."
+    },
+    {
+      "question_number": 252,
+      "question": "Strength of cement, with storage",
+      "options": {
+        "a": "increases",
+        "b": "decreases",
+        "c": "same",
+        "d": "difficult to tell"
+      },
+      "correct_answer": "b",
+      "explanation": "Cement absorbs atmospheric moisture over time, undergoing partial pre-hydration and losing strength[cite: 2]."
+    },
+    {
+      "question_number": 253,
+      "question": "Storage of cement should be done on",
+      "options": {
+        "a": "brick soling",
+        "b": "the ground",
+        "c": "wet platform",
+        "d": "dry platform"
+      },
+      "correct_answer": "d",
+      "explanation": "Cement bags must be stored on a raised, dry timber or concrete platform to protect against dampness[cite: 2]."
+    },
+    {
+      "question_number": 254,
+      "question": "The cement mortar mix generally used for masonry work",
+      "options": {
+        "a": "1:3",
+        "b": "1:4",
+        "c": "1:5",
+        "d": "1:6"
+      },
+      "correct_answer": "b",
+      "explanation": "Mortar proportions of 1:4 to 1:6 are standard for general brick and stone masonry work[cite: 2]."
+    },
+    {
+      "question_number": 255,
+      "question": "The cement mortar mix generally used for internal plaster",
+      "options": {
+        "a": "1:3",
+        "b": "1:4",
+        "c": "1:5",
+        "d": "1:6"
+      },
+      "correct_answer": "b",
+      "explanation": "A 1:4 cement-sand mix is typically specified for internal wall plastering[cite: 2]."
+    },
+    {
+      "question_number": 256,
+      "question": "The cement mortar mix generally used for external plaster",
+      "options": {
+        "a": "1:3",
+        "b": "1:4",
+        "c": "1:5",
+        "d": "1:6"
+      },
+      "correct_answer": "a",
+      "explanation": "A richer mix such as 1:3 is used for external plaster to withstand weathering effects[cite: 2]."
+    },
+    {
+      "question_number": 257,
+      "question": "The cement mortar mix generally used for ceiling plaster",
+      "options": {
+        "a": "1:3",
+        "b": "1:4",
+        "c": "1:5",
+        "d": "1:6"
+      },
+      "correct_answer": "a",
+      "explanation": "A strong 1:3 mortar mix is used for ceiling plaster to ensure secure bonding overhead[cite: 2]."
+    },
+    {
+      "question_number": 258,
+      "question": "During Rana Cracy, types of mortar generally used for public buildings are",
+      "options": {
+        "a": "cement mortar",
+        "b": "mud mortar",
+        "c": "dry mortar",
+        "d": "lime and surkhi mortar"
+      },
+      "correct_answer": "d",
+      "explanation": "Lime and surkhi mortar was widely utilized in historic architecture and public buildings during the Rana period in Nepal[cite: 2]."
+    },
+    {
+      "question_number": 259,
+      "question": "The property of steel enabling it to be drawn into thin wires is called",
+      "options": {
+        "a": "toughness",
+        "b": "hardness",
+        "c": "ductility",
+        "d": "malleability"
+      },
+      "correct_answer": "c",
+      "explanation": "Ductility is the mechanical property that permits a material to be stretched into wires without fracturing[cite: 2]."
+    },
+    {
+      "question_number": 260,
+      "question": "The Property of metals because of which they can be transformed into different shapes by heating is called",
+      "options": {
+        "a": "toughness",
+        "b": "hardness",
+        "c": "ductility",
+        "d": "malleability"
+      },
+      "correct_answer": "d",
+      "explanation": "Malleability allows metals to be hammered or rolled into thin sheets or shapes[cite: 2]."
+    },
+    {
+      "question_number": 261,
+      "question": "The property due to which steel can withstand hammer blows is called",
+      "options": {
+        "a": "toughness",
+        "b": "hardness",
+        "c": "ductility",
+        "d": "malleability"
+      },
+      "correct_answer": "a",
+      "explanation": "Toughness is the ability of a material to absorb energy and withstand shock or impact loads like hammer blows[cite: 2]."
+    },
+    {
+      "question_number": 262,
+      "question": "The operation of removal of impurities or clay adhering to iron ores is known as",
+      "options": {
+        "a": "dressing",
+        "b": "calcinations",
+        "c": "roasting",
+        "d": "smelting"
+      },
+      "correct_answer": "a",
+      "explanation": "Dressing involves cleaning and washing iron ore to rid it of dirt and clay impurities prior to smelting[cite: 2]."
+    },
+    {
+      "question_number": 263,
+      "question": "Pig iron made from haematitite are free from sulphur, phosphurus and copper is known as",
+      "options": {
+        "a": "bessemer pig",
+        "b": "foundry pig",
+        "c": "forge pig",
+        "d": "melted pig"
+      },
+      "correct_answer": "a",
+      "explanation": "Bessemer pig iron is produced from high-purity haematite ore low in sulfur and phosphorus[cite: 2]."
+    },
+    {
+      "question_number": 264,
+      "question": "The pig iron obtained from the furnace that is properly provided with fuel at very high temperature is called",
+      "options": {
+        "a": "bessemer pig",
+        "b": "foundry pig",
+        "c": "forge pig",
+        "d": "melted pig"
+      },
+      "correct_answer": "b",
+      "explanation": "Foundry pig iron is smelted at high temperatures with adequate fuel, resulting in high silicon and carbon content[cite: 2]."
+    },
+    {
+      "question_number": 265,
+      "question": "The pig iron obtained from the furnace that is properly provided with insufficient fuel at very low temperature is called",
+      "options": {
+        "a": "bessemer pig",
+        "b": "foundry pig",
+        "c": "forge pig",
+        "d": "melted pig"
+      },
+      "correct_answer": "c",
+      "explanation": "Forge pig iron is produced under lower temperature conditions with insufficient fuel[cite: 2]."
+    },
+    {
+      "question_number": 266,
+      "question": "The process involved in the manufacture of wrought iron from pig iron is known as",
+      "options": {
+        "a": "refining",
+        "b": "puddling",
+        "c": "rolling",
+        "d": "all of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Puddling is the classical refining process used to convert pig iron into fibrous wrought iron[cite: 2]."
+    },
+    {
+      "question_number": 267,
+      "question": "For melting one tonne of cast iron the requirement of material is",
+      "options": {
+        "a": "700 m3 of air",
+        "b": "20 kg of lime stone",
+        "c": "100 kg of coke",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Cupola furnace operations require specific proportions of coke, limestone flux, and blast air per tonne of cast iron[cite: 2]."
+    },
+    {
+      "question_number": 268,
+      "question": "Pig iron contains carbon up to maximum",
+      "options": {
+        "a": "2%",
+        "b": "3%",
+        "c": "4%",
+        "d": "5%"
+      },
+      "correct_answer": "d",
+      "explanation": "Pig iron contains high carbon content, typically ranging between 3% to 4.5% (up to 5%)[cite: 2]."
+    },
+    {
+      "question_number": 269,
+      "question": "The property of steel is influenced by",
+      "options": {
+        "a": "iron",
+        "b": "manganese",
+        "c": "carbon",
+        "d": "sulphur"
+      },
+      "correct_answer": "c",
+      "explanation": "Carbon percentage is the primary compositional factor determining the strength and hardness of steel[cite: 2]."
+    },
+    {
+      "question_number": 270,
+      "question": "Purest form of iron is",
+      "options": {
+        "a": "mild steel",
+        "b": "cast iron",
+        "c": "high carbon steel",
+        "d": "wrought iron"
+      },
+      "correct_answer": "d",
+      "explanation": "Wrought iron is commercially the purest form of iron, containing over 99.5% iron[cite: 2]."
+    },
+    {
+      "question_number": 271,
+      "question": "As compared to mild steel, cast iron has",
+      "options": {
+        "a": "high compressive strength",
+        "b": "low tensile strength",
+        "c": "both (a) & (b) of above",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Cast iron is strong in compression but weak and brittle in tension compared to mild steel[cite: 2]."
+    },
+    {
+      "question_number": 272,
+      "question": "Wrought iron contains carbon up to",
+      "options": {
+        "a": "0.10%",
+        "b": "0.15%",
+        "c": "0.20%",
+        "d": "0.25%"
+      },
+      "correct_answer": "a",
+      "explanation": "Wrought iron contains minimal carbon, generally below 0.08% to 0.10%[cite: 2]."
+    },
+    {
+      "question_number": 273,
+      "question": "Mild steel contains carbon up to",
+      "options": {
+        "a": "0.10%",
+        "b": "0.20%",
+        "c": "0.25%",
+        "d": "0.30%"
+      },
+      "correct_answer": "c",
+      "explanation": "Mild steel typically contains carbon up to 0.25% (or 0.30%)[cite: 2]."
+    },
+    {
+      "question_number": 274,
+      "question": "The unit weight of steel in taken as",
+      "options": {
+        "a": "7.2 ton/m3",
+        "b": "7.4 ton/m3",
+        "c": "7.6 ton/m3",
+        "d": "7.8 ton/m3"
+      },
+      "correct_answer": "d",
+      "explanation": "The standard unit weight of structural steel is taken as $7850\text{ kg/m}^3$ ($7.8\text{ ton/m}^3$)[cite: 2]."
+    },
+    {
+      "question_number": 275,
+      "question": "Vanadium steel is generally used for",
+      "options": {
+        "a": "railway switches and crossing",
+        "b": "bearing balls",
+        "c": "magnets",
+        "d": "axles and springs"
+      },
+      "correct_answer": "d",
+      "explanation": "Vanadium alloy steel provides high fatigue resistance and is used for axles, shafts, and springs[cite: 2]."
+    },
+    {
+      "question_number": 276,
+      "question": "Cast iron is used for",
+      "options": {
+        "a": "structural works in beams",
+        "b": "small size water pipes",
+        "c": "columns and struts",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Cast iron is traditionally used for small-diameter water pipes, manhole covers, and sanitary fittings[cite: 2]."
+    },
+    {
+      "question_number": 277,
+      "question": "Mild steel is used for",
+      "options": {
+        "a": "structural works in beams",
+        "b": "small size water pipes",
+        "c": "columns and struts",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Mild steel is extensively used for structural beams, reinforcement bars, and general framing[cite: 2]."
+    },
+    {
+      "question_number": 278,
+      "question": "Wrought iron is used for",
+      "options": {
+        "a": "structural works in beams",
+        "b": "small size water pipes",
+        "c": "columns and struts",
+        "d": "none of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Wrought iron is used for chains, bolts, ornamental gates, and straps rather than major structural beams[cite: 2]."
+    },
+    {
+      "question_number": 279,
+      "question": "The types of steel used for precision leveling staff is",
+      "options": {
+        "a": "invar",
+        "b": "carbon steel",
+        "c": "titanium steel",
+        "d": "stainless steel"
+      },
+      "correct_answer": "a",
+      "explanation": "Invar (nickel-steel alloy) is used for precision surveying leveling staves due to its negligible thermal expansion coefficient[cite: 2]."
+    },
+    {
+      "question_number": 280,
+      "question": "The steel used for rails under heavy traffic and sharp curves is",
+      "options": {
+        "a": "nickel steel",
+        "b": "chrome steel",
+        "c": "manganese steel",
+        "d": "vanadium steel"
+      },
+      "correct_answer": "c",
+      "explanation": "Manganese steel work-hardens under impact, making it ideal for rails under heavy wear, switches, and sharp curves[cite: 2]."
+    },
+    {
+      "question_number": 281,
+      "question": "The steel used for manufacture of rails is",
+      "options": {
+        "a": "bessemer steel",
+        "b": "mild steel",
+        "c": "cast steel",
+        "d": "stainless steel"
+      },
+      "correct_answer": "b",
+      "explanation": "Medium carbon/mild steel or special rail steel grades are manufactured for railway tracks[cite: 2]."
+    },
+    {
+      "question_number": 282,
+      "question": "Softer variety of steel may be obtained by",
+      "options": {
+        "a": "cementation process",
+        "b": "crucible process",
+        "c": "bessemer process",
+        "d": "open hearth process"
+      },
+      "correct_answer": "c",
+      "explanation": "Processes like Bessemer or open-hearth allow controlled decarburization to produce softer steel varieties[cite: 2]."
+    },
+    {
+      "question_number": 283,
+      "question": "Brass is an alloy of",
+      "options": {
+        "a": "copper and zinc",
+        "b": "zinc and lead",
+        "c": "lead and silver",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Brass is an alloy composed primarily of copper and zinc[cite: 2]."
+    },
+    {
+      "question_number": 284,
+      "question": "Bronze is as alloy of",
+      "options": {
+        "a": "copper and tin",
+        "b": "tin and zinc",
+        "c": "zinc and lead",
+        "d": "lead and silver"
+      },
+      "correct_answer": "a",
+      "explanation": "Bronze is a metal alloy consisting primarily of copper, usually with tin as the main additive[cite: 2]."
+    },
+    {
+      "question_number": 285,
+      "question": "Invar is an alloy of",
+      "options": {
+        "a": "copper and nickel",
+        "b": "steel and lead",
+        "c": "steel and zinc",
+        "d": "nickel and steel"
+      },
+      "correct_answer": "d",
+      "explanation": "Invar is an iron-nickel alloy (about 36% nickel in steel/iron) known for its extremely low thermal expansion[cite: 2]."
+    },
+    {
+      "question_number": 286,
+      "question": "Solder is an alloy of",
+      "options": {
+        "a": "nickel and steel",
+        "b": "steel and lead",
+        "c": "lead and tin",
+        "d": "tin and zinc"
+      },
+      "correct_answer": "c",
+      "explanation": "Solder is a fusible metal alloy made of lead and tin used for joining metals[cite: 2]."
+    },
+    {
+      "question_number": 287,
+      "question": "German silver is an alloy of",
+      "options": {
+        "a": "zinc, lead and nickel",
+        "b": "silver, gold and lead",
+        "c": "copper, nickel and zinc",
+        "d": "all of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "German silver is a copper alloy containing nickel and zinc (containing no actual silver)[cite: 2]."
+    },
+    {
+      "question_number": 288,
+      "question": "Monel metal is an alloy of",
+      "options": {
+        "a": "nickel and copper",
+        "b": "copper and zinc",
+        "c": "zinc and tin",
+        "d": "tin and lead"
+      },
+      "correct_answer": "a",
+      "explanation": "Monel is a class of nickel alloys, primarily composed of nickel and copper[cite: 2]."
+    },
+    {
+      "question_number": 289,
+      "question": "Stainless steel resists corrosion due to",
+      "options": {
+        "a": "carbon",
+        "b": "chromium",
+        "c": "sulphur",
+        "d": "vanadium"
+      },
+      "correct_answer": "b",
+      "explanation": "Chromium forms a passive, self-healing chromium oxide film on the surface preventing corrosion[cite: 2]."
+    },
+    {
+      "question_number": 290,
+      "question": "For the manufacture of stainless steel, steel is mixed with",
+      "options": {
+        "a": "chromium",
+        "b": "nickel",
+        "c": "tungsten",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Chromium is alloyed with steel (typically $\ge 10.5\%$) to produce stainless steel[cite: 2]."
+    },
+    {
+      "question_number": 291,
+      "question": "Galvanizing means",
+      "options": {
+        "a": "depositing a fine film of zinc on iron/steel by dipping it in molten zinc",
+        "b": "depositing a fine film of tin on iron/steel by dipping it in molten tin",
+        "c": "depositing a fine film of nickel on iron/steel by dipping it in molten nickel",
+        "d": "all of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Galvanizing is the protective process of coating iron or steel with a thin layer of molten zinc[cite: 2]."
+    },
+    {
+      "question_number": 292,
+      "question": "A combination of metals with other substances is called",
+      "options": {
+        "a": "alloy",
+        "b": "pig iron",
+        "c": "wrought iron",
+        "d": "cast iron"
+      },
+      "correct_answer": "a",
+      "explanation": "An alloy is a metallic substance composed of two or more elements, at least one being a metal[cite: 2]."
+    },
+    {
+      "question_number": 293,
+      "question": "The main purpose of manufacture of alloys steel is to attain a certain properties like",
+      "options": {
+        "a": "strength",
+        "b": "hardness",
+        "c": "toughness",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Alloy steels are engineered to enhance strength, hardness, toughness, and wear resistance[cite: 2]."
+    },
+    {
+      "question_number": 294,
+      "question": "The artificial seasoning of timber may",
+      "options": {
+        "a": "reduce moisture",
+        "b": "make light and strong",
+        "c": "remove moisture",
+        "d": "make fire resistance"
+      },
+      "correct_answer": "c",
+      "explanation": "Artificial (kiln) seasoning rapidly and evenly removes moisture from timber under controlled conditions[cite: 2]."
+    },
+    {
+      "question_number": 295,
+      "question": "Which one of the following does not belong to endogenous trees?",
+      "options": {
+        "a": "palm",
+        "b": "bamboo",
+        "c": "teak",
+        "d": "cane"
+      },
+      "correct_answer": "c",
+      "explanation": "Teak is an exogenous tree (grows outward in annual rings), whereas palm, bamboo, and cane are endogenous[cite: 2]."
+    },
+    {
+      "question_number": 296,
+      "question": "Which one of the following does not belong to exogenous trees?",
+      "options": {
+        "a": "coconut",
+        "b": "teak",
+        "c": "sisham",
+        "d": "sal"
+      },
+      "correct_answer": "a",
+      "explanation": "Coconut is an endogenous tree, whereas teak, sisham, and sal are exogenous[cite: 2]."
+    },
+    {
+      "question_number": 297,
+      "question": "The solution of salts from the soil absorbed by the trees which becomes a viscous sap due to loss of moisture and action of carbon dioxide is known as",
+      "options": {
+        "a": "pith",
+        "b": "cambium",
+        "c": "bark",
+        "d": "sap"
+      },
+      "correct_answer": "d",
+      "explanation": "Sap is the fluid circulating through a plant carrying nutrients and mineral salts[cite: 2]."
+    },
+    {
+      "question_number": 298,
+      "question": "The age of tree can be judged from",
+      "options": {
+        "a": "the height",
+        "b": "the diameter",
+        "c": "annual rings",
+        "d": "piths"
+      },
+      "correct_answer": "c",
+      "explanation": "Counting the concentric annual rings visible in a cross-section reveals the age of an exogenous tree[cite: 2]."
+    },
+    {
+      "question_number": 299,
+      "question": "The no. of annual ring in a log of 30 then life of the timber is",
+      "options": {
+        "a": "20 year",
+        "b": "25 year",
+        "c": "30 year",
+        "d": "35 year"
+      },
+      "correct_answer": "c",
+      "explanation": "Each annual ring corresponds to one year of growth, so 30 rings indicate a tree age/life of 30 years[cite: 2]."
+    },
+    {
+      "question_number": 300,
+      "question": "The layer between the bark of the tree and the sap wood which is not yet converted to wood is called",
+      "options": {
+        "a": "heart wood",
+        "b": "cambium layer",
+        "c": "soft wood layer",
+        "d": "pith"
+      },
+      "correct_answer": "b",
+      "explanation": "The cambium layer is an active thin layer of cells responsible for growth located between the inner bark and sapwood[cite: 2]."
+    },
+    {
+      "question_number": 301,
+      "question": "Which of the following is not a hard wood?",
+      "options": {
+        "a": "deodar",
+        "b": "sal",
+        "c": "teak",
+        "d": "oak"
+      },
+      "correct_answer": "a",
+      "explanation": "Deodar is a softwood conifer, while sal, teak, and oak are hardwoods[cite: 2]."
+    },
+    {
+      "question_number": 302,
+      "question": "Which of the following is not a soft wood?",
+      "options": {
+        "a": "deodar",
+        "b": "walnut",
+        "c": "shisham",
+        "d": "kail"
+      },
+      "correct_answer": "b",
+      "explanation": "Walnut is a hardwood species, whereas deodar and kail are softwoods[cite: 2]."
+    },
+    {
+      "question_number": 303,
+      "question": "When the timber is attacked by fungus and reduced to powder, it is called",
+      "options": {
+        "a": "wet rot",
+        "b": "dry rot",
+        "c": "druxiness",
+        "d": "dottiness"
+      },
+      "correct_answer": "b",
+      "explanation": "Dry rot is caused by fungi that attack seasoned timber, converting it into a dry, powdery mass[cite: 2]."
+    },
+    {
+      "question_number": 304,
+      "question": "In dry rot, wooden material defect caused due to",
+      "options": {
+        "a": "ant",
+        "b": "fungus",
+        "c": "weather",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Fungal attack is the root cause of dry rot in timber[cite: 2]."
+    },
+    {
+      "question_number": 305,
+      "question": "Which of the following wood has the maximum resistance to white ants?",
+      "options": {
+        "a": "deodar",
+        "b": "sal",
+        "c": "walnut",
+        "d": "teak"
+      },
+      "correct_answer": "d",
+      "explanation": "Teak wood contains natural oils that provide exceptionally high resistance to termites and white ants[cite: 2]."
+    },
+    {
+      "question_number": 306,
+      "question": "Creosote oil is used to preserve the wood from",
+      "options": {
+        "a": "rot and white ant",
+        "b": "fire hazards",
+        "c": "cracking",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Creosote oil acts as an effective antiseptic preservative protecting timber against fungal decay and termites[cite: 2]."
+    },
+    {
+      "question_number": 307,
+      "question": "Timber can be made reasonably fire resistant",
+      "options": {
+        "a": "by soaking it in ammonium sulphate",
+        "b": "by applying tar paint",
+        "c": "by pumping creosote oil into timber under high pressure",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Soaking timber in solutions like ammonium sulphate or ammonium phosphate imparts fire retardant properties[cite: 2]."
+    },
+    {
+      "question_number": 308,
+      "question": "The main purpose of seasoning is",
+      "options": {
+        "a": "to make the timber fire resistant",
+        "b": "to remove the moisture from the timber at uniform rate",
+        "c": "to make the timber water proof",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Seasoning aims to extract sap and moisture uniformly to prevent subsequent warping and decay[cite: 2]."
+    },
+    {
+      "question_number": 309,
+      "question": "Which one is false?",
+      "options": {
+        "a": "seasoning is done to control moisture",
+        "b": "sal wood is used for ornamental purpose",
+        "c": "sap is suck in spring by roots of the tree",
+        "d": "all of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Sal is a heavy structural timber used for beams, railway sleepers, and heavy construction rather than fine ornamental work[cite: 2]."
+    },
+    {
+      "question_number": 310,
+      "question": "The seasoning of timber",
+      "options": {
+        "a": "makes the timber light, strong and stable",
+        "b": "prevents warping, cracking and shrinkage in timber",
+        "c": "makes timber resistant to decay by fungi, termites etc. and also resistant to electricity",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Proper seasoning improves strength, dimensional stability, durability, and resistance to fungal attack[cite: 2]."
+    },
+    {
+      "question_number": 311,
+      "question": "Which of the following statements is not correct?",
+      "options": {
+        "a": "kiln seasoned timber is stronger than natural seasoned timber",
+        "b": "moisture content in the timber can be reduced to any desired level in kiln seasoning",
+        "c": "kiln seasoning is quicker than natural seasoning",
+        "d": "kiln seasoning requires less stacking space but more expensive than the natural seasoning"
+      },
+      "correct_answer": "a",
+      "explanation": "Kiln seasoning does not inherently make timber stronger than properly managed natural seasoning; strength is a function of moisture reduction and fiber integrity[cite: 2]."
+    },
+    {
+      "question_number": 312,
+      "question": "In a well-seasoned timber, the moisture content will be in the range of",
+      "options": {
+        "a": "20-25%",
+        "b": "15-20%",
+        "c": "10-12%",
+        "d": "5-7%"
+      },
+      "correct_answer": "c",
+      "explanation": "Well-seasoned structural timber typically maintains an equilibrium moisture content between 10% to 12%[cite: 2]."
+    },
+    {
+      "question_number": 313,
+      "question": "Most economical methods of sawing wood is",
+      "options": {
+        "a": "radial sawing",
+        "b": "tangential sawing",
+        "c": "quarter sawing",
+        "d": "flat sawing"
+      },
+      "correct_answer": "b",
+      "explanation": "Tangential (or ordinary) sawing is the simplest and most economical method with minimal waste[cite: 2]."
+    },
+    {
+      "question_number": 314,
+      "question": "A thin sheet of wood sliced from a log of wood is called",
+      "options": {
+        "a": "plywood",
+        "b": "laminated board",
+        "c": "veneer",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Veneers are thin sheets of wood peeled or sliced from logs used to make plywood[cite: 2]."
+    },
+    {
+      "question_number": 315,
+      "question": "The number of veneers glued under pressure in a plywood must be",
+      "options": {
+        "a": "prime number",
+        "b": "composite number",
+        "c": "even number",
+        "d": "odd number"
+      },
+      "correct_answer": "d",
+      "explanation": "Plywood is always constructed with an odd number of veneer plies to ensure symmetry, balance, and warp resistance[cite: 2]."
+    },
+    {
+      "question_number": 316,
+      "question": "The curved swellings from the growth of layers or wounds left after branches are cut off in an irregular manners, are known as",
+      "options": {
+        "a": "knots",
+        "b": "rind galls",
+        "c": "burls",
+        "d": "none of the above"
+      },
+      "correct_answer": "b",
+      "explanation": "Rind galls are swelling scars formed over wounds left by improperly cut branches[cite: 2]."
+    },
+    {
+      "question_number": 317,
+      "question": "The defects in wood due to hardening is",
+      "options": {
+        "a": "knots",
+        "b": "rind galls",
+        "c": "burls",
+        "d": "none of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Defects related to abnormal hardening or local growth formations fall outside standard classifications like knots or shakes[cite: 2]."
+    },
+    {
+      "question_number": 318,
+      "question": "The defect caused by the shrinkage of timber is",
+      "options": {
+        "a": "crook",
+        "b": "cup and bow",
+        "c": "twist",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Crook, bow, cup, and twist are all warping defects caused by uneven shrinkage during drying[cite: 2]."
+    },
+    {
+      "question_number": 319,
+      "question": "Knots in timber are",
+      "options": {
+        "a": "defects caused by crushing fibers",
+        "b": "splits radiating from the centre",
+        "c": "speckled strains",
+        "d": "signs of branches cut off"
+      },
+      "correct_answer": "d",
+      "explanation": "Knots represent the bases of branches embedded in the tree trunk cut across during sawing[cite: 2]."
+    },
+    {
+      "question_number": 320,
+      "question": "Impregnating of timber is done to increase",
+      "options": {
+        "a": "fire resistance of timber",
+        "b": "seasoning of timber",
+        "c": "weight of timber",
+        "d": "none of the above"
+      },
+      "correct_answer": "a",
+      "explanation": "Impregnation treatments with chemicals enhance fire retardancy and biological durability[cite: 2]."
+    },
+    {
+      "question_number": 321,
+      "question": "Based on its dry weight, a freshly felled free may contain water",
+      "options": {
+        "a": "25%",
+        "b": "50%",
+        "c": "75%",
+        "d": "100%"
+      },
+      "correct_answer": "d",
+      "explanation": "Freshly felled trees contain significant moisture, often equal to or exceeding 100% of their dry weight[cite: 2]."
+    },
+    {
+      "question_number": 322,
+      "question": "The time require for the seasoning of timber in air is about water",
+      "options": {
+        "a": "1 to 2 months",
+        "b": "2 to 4 months",
+        "c": "4 to 6 months",
+        "d": "6 to 9 months"
+      },
+      "correct_answer": "c",
+      "explanation": "Natural air seasoning generally takes several months (typically 4 to 6 months or longer) depending on climate and timber thickness[cite: 2]."
+    },
+    {
+      "question_number": 323,
+      "question": "In the manufacture of ply woods the veneers are placed such that the grams of are",
+      "options": {
+        "a": "at 45° with the grains of the other",
+        "b": "at right angles with the grains of the other",
+        "c": "at 60° with the grains of the other",
+        "d": "parallel to the grains of the other"
+      },
+      "correct_answer": "b",
+      "explanation": "Adjacent veneer plies are laid with their grain directions running perpendicular (at right angles) to each other to balance strength[cite: 2]."
+    },
+    {
+      "question_number": 324,
+      "question": "Plywood is identified by",
+      "options": {
+        "a": "volume",
+        "b": "weight",
+        "c": "thickness",
+        "d": "area"
+      },
+      "correct_answer": "c",
+      "explanation": "Plywood boards are commercially designated and specified by their overall thickness[cite: 2]."
+    },
+    {
+      "question_number": 325,
+      "question": "Plywood is obtained by gluing wooden sheets at a specification of",
+      "options": {
+        "a": "100 to 150 N/cm2",
+        "b": "100° to 130°C",
+        "c": "both (a) and (b) of above",
+        "d": "none of the above"
+      },
+      "correct_answer": "c",
+      "explanation": "Plywood manufacturing involves bonding veneers under both specific high pressure (e.g., $100\text{ to }150\text{ N/cm}^2$) and elevated temperatures[cite: 2]."
+    },
+    {
+      "question_number": 326,
+      "question": "Plywood is generally available",
+      "options": {
+        "a": "1 mm thick",
+        "b": "2 mm thick",
+        "c": "2 to 3 mm",
+        "d": "3 to 4 mm thick"
+      },
+      "correct_answer": "d",
+      "explanation": "Standard individual veneers or thin plywood panels start from thicknesses around 3 to 4 mm upwards[cite: 2]."
+    },
+    {
+      "question_number": 327,
+      "question": "Which has great strength against the rut?",
+      "options": {
+        "a": "teak",
+        "b": "shisham",
+        "c": "sal",
+        "d": "deodar"
+      },
+      "correct_answer": "a",
+      "explanation": "Teak possesses superior natural durability and resistance against rot and decay[cite: 2]."
+    },
+    {
+      "question_number": 328,
+      "question": "The wood of which tree is used to make cricket bat",
+      "options": {
+        "a": "willow",
+        "b": "shisham",
+        "c": "sal",
+        "d": "deodar"
+      },
+      "correct_answer": "a",
+      "explanation": "Cricket bats are traditionally manufactured from cricket bat willow wood due to its unique shock-absorbing and lightweight properties[cite: 2]."
+    },
+    {
+      "question_number": 329,
+      "question": "The seasoning of timber is done for",
+      "options": {
+        "a": "bark drying",
+        "b": "pith drying",
+        "c": "hot drying",
+        "d": "humidity drying"
+      },
+      "correct_answer": "d",
+      "explanation": "Seasoning controls moisture and humidity levels to stabilize the timber[cite: 2]."
+    },
+    {
+      "question_number": 330,
+      "question": "The strength of timber is maximum along",
+      "options": {
+        "a": "parallel to the grain",
+        "b": "perpendicular to the grain",
+        "c": "45° to the grain",
+        "d": "same in all direction"
+      },
+      "correct_answer": "a",
+      "explanation": "Timber exhibits its maximum tensile and compressive strength parallel to the grain direction[cite: 2]."
+    },
+    {
+      "question_number": 331,
+      "question": "Seasoning of timber is done to",
+      "options": {
+        "a": "reduce the weight of the timber",
+        "b": "reduce the chances of shrinkage",
+        "c": "increase the strength and durability",
+        "d": "all of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Seasoning reduces weight, controls shrinkage, and enhances structural strength and durability[cite: 2]."
+    },
+    {
+      "question_number": 332,
+      "question": "The defects in the growth of timber are called",
+      "options": {
+        "a": "shakes",
+        "b": "checks",
+        "c": "both (a) and (b) of above",
+        "d": "none of the above"
+      },
+      "correct_answer": "d",
+      "explanation": "Shakes and checks are physical moisture-related splits, whereas growth defects include twisted fibers, knots, and eccentric growths[cite: 2]."
+    },
+    {
+      "question_number": 333,
+      "question": "The trunk of tree left after cutting all the branches is known as",
+      "options": {
+        "a": "plank",
+        "b": "log",
+        "c": "baulk",
+        "d": "batten"
+      },
+      "correct_answer": "b",
+      "explanation": "A log is the main trunk of a felled tree after its branches have been trimmed off[cite: 2]."
+    },
+    {
+      "question_number": 334,
+      "question": "A piece of sawn timber whose dimensions exceed 5 cm, in one direction and the other direction, is called a",
+      "options": {
+        "a": "cant",
+        "b": "deal",
+        "c": "bauk",
+        "d": "batten"
+      },
+      "correct_answer": "c",
+      "explanation": "A baulk is a piece of rough-sawn timber whose cross-sectional dimensions exceed 5 cm in both directions[cite: 2]."
+    },
+    {
+      "question_number": 335,
+      "question": "A piece of timber whose thickness and width are respectively 5 cm and 10 cms",
+      "options": {
+        "a": "cant",
+        "b": "deal",
+        "c": "bauk",
+        "d": "strip"
+      },
+      "correct_answer": "b",
+      "explanation": "A sawn timber piece with standard small dimensions like 5 cm thickness and 10 cm width falls under deals or scantlings[cite: 2]."
+    }
+  ]
+}

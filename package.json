@@ -1,0 +1,34 @@
+{
+  "name": "loksewa-prep-pro",
+  "version": "1.0.0",
+  "description": "Loksewa MCQ Preparation Portal",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest run --coverage",
+    "test:e2e": "playwright test",
+    "test:e2e:ui": "playwright test --ui",
+    "lint": "eslint . --ext .js,.html",
+    "format": "prettier --write .",
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["loksewa", "mcq", "preparation", "nepal"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^2.0.5",
+    "@vitest/coverage-v8": "^2.0.5",
+    "@vitest/ui": "^2.0.5",
+    "playwright": "^1.47.0",
+    "@playwright/test": "^1.47.0",
+    "eslint": "^9.10.0",
+    "prettier": "^3.3.3",
+    "jsdom": "^25.0.0",
+    "happy-dom": "^15.0.0",
+    "serve": "^14.2.3"
+  },
+  "dependencies": {}
+}

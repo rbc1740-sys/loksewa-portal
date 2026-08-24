@@ -1,0 +1,830 @@
+[
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "The existing Constitution of Nepal shall be cited as........",
+        "options":  {
+                        "a":  "Constitution of Nepal, 2072",
+                        "b":  "The Constitution of Nepal",
+                        "c":  "The Constitution of federal Nepal",
+                        "d":  "The Constitution of federal republic Nepal"
+                    },
+        "answer":  "b",
+        "explanation":  "Article 1 of the Constitution of Nepal explicitly specifies the short title of the constitution as \u0027The Constitution of Nepal\u0027."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In the constitutional history of Nepal, present constitution is ........... constitution",
+        "options":  {
+                        "a":  "Fifth",
+                        "b":  "sixth",
+                        "c":  "seventh",
+                        "d":  "eighth"
+                    },
+        "answer":  "c",
+        "explanation":  "Nepal\u0027s constitutional evolution includes past constitutions (1948, 1951, 1959, 1962, 1990, and the Interim Constitution 2007), making the 2072 BS Constitution the seventh constitution in Nepal\u0027s history."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many parts, articles and schedules are there in the present constitution of Nepal?",
+        "options":  {
+                        "a":  "25 parts, 308 articles and 5 schedules",
+                        "b":  "21 parts, 337 articles and 11 schedules",
+                        "c":  "35 parts, 308 articles and 9 schedules",
+                        "d":  "23 parts, 205 articles and 7 schedules"
+                    },
+        "answer":  "c",
+        "explanation":  "The Constitution of Nepal (2072 BS) is structured into 35 parts, 308 articles, and 9 schedules."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Constitution of Nepal is amended for the first time on",
+        "options":  {
+                        "a":  "2072, Ashwin 03",
+                        "b":  "2072, Magh 09",
+                        "c":  "2072, Falgun 16",
+                        "d":  "2073, Jestha 15"
+                    },
+        "answer":  "c",
+        "explanation":  "The first amendment to the Constitution of Nepal was officially promulgated on Falgun 16, 2072 BS to address inclusive representation and federal delineation concerns."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following isn\u0027t the feature of Constitution of Nepal?",
+        "options":  {
+                        "a":  "Republican",
+                        "b":  "feudal",
+                        "c":  "federal",
+                        "d":  "secular"
+                    },
+        "answer":  "b",
+        "explanation":  "The Constitution establishes a democratic, republican, federal, and secular system; \u0027feudalism\u0027 is entirely contradictory to its constitutional framework and democratic values."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "According to the present constitution of Nepal, Nepal is a;",
+        "options":  {
+                        "a":  "federal democratic People\u0027s Republic country",
+                        "b":  "federal democratic country",
+                        "c":  "federal democratic republican state",
+                        "d":  "democratic republic state"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 4 of the Constitution defines Nepal as an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented, federal democratic republican state."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which provision of the Constitution of Nepal cannot be enforced through Court?",
+        "options":  {
+                        "a":  "Fundamental rights and duties",
+                        "b":  "directives principles and state policy",
+                        "c":  "Provision regarding Citizenship",
+                        "d":  "federal financial procedure"
+                    },
+        "answer":  "b",
+        "explanation":  "Directive Principles and Policies of the State serve as guidelines for governance and policy formulation, and they are explicitly non-enforceable by any court of law."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following is not characteristic of constitution of Nepal?",
+        "options":  {
+                        "a":  "President",
+                        "b":  "Pradesh Legislature",
+                        "c":  "Election Commission",
+                        "d":  "Civil Society"
+                    },
+        "answer":  "d",
+        "explanation":  "Civil society is an independent public sphere and community sector, not a structural government organ or institutional characteristic mandated by the Constitution."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which one of the following features is/are support the federal character of Constitution of Nepal?",
+        "options":  {
+                        "a":  "Distribution of powers between Centre and States",
+                        "b":  "Single citizenship",
+                        "c":  "Supremacy of the Constitution",
+                        "d":  "All of above"
+                    },
+        "answer":  "d",
+        "explanation":  "Federal systems rely on the constitutional division of power between levels of government, constitutional supremacy, and unified or harmonized legal standards like single citizenship."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which odd one out is as mentioned in right to freedom in constitution of Nepal 2072?",
+        "options":  {
+                        "a":  "Freedom to move and reside in any part of Nepal",
+                        "b":  "Freedom to live with dignity",
+                        "c":  "Freedom to form political parties",
+                        "d":  "Freedom of opinion and expression"
+                    },
+        "answer":  "b",
+        "explanation":  "\u0027Freedom to live with dignity\u0027 is protected under the separate Right to Live with Dignity (Article 16), whereas options a, c, and d fall under the Right to Freedom (Article 17)."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which level of government has the residual power as per the constitution of Nepal?",
+        "options":  {
+                        "a":  "Federal",
+                        "b":  "Local",
+                        "c":  "Province",
+                        "d":  "All of the above"
+                    },
+        "answer":  "a",
+        "explanation":  "According to Article 58, any power not explicitly enumerated in the federal, provincial, concurrent, or local lists remains with the Federal government as a residual power."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following words is mentioned in the preamble of the constitution of Nepal?",
+        "options":  {
+                        "a":  "Sovereign",
+                        "b":  "Democratic",
+                        "c":  "Secular",
+                        "d":  "Federal"
+                    },
+        "answer":  "a",
+        "explanation":  "The Preamble of the Constitution of Nepal begins with the opening statement: \u0027We, the sovereign people of Nepal...\u0027"
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "According to Constitution of Nepal, Sovereignty of Nepal is vested on",
+        "options":  {
+                        "a":  "People of Nepal",
+                        "b":  "president",
+                        "c":  "Prime minister",
+                        "d":  "council of ministers"
+                    },
+        "answer":  "a",
+        "explanation":  "Article 3 explicitly declares that the sovereignty and state authority of Nepal are vested in the Nepali people."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "The final interpreter of Constitution is a",
+        "options":  {
+                        "a":  "President",
+                        "b":  "Council of ministers",
+                        "c":  "Federal parliament",
+                        "d":  "Supreme Court"
+                    },
+        "answer":  "d",
+        "explanation":  "The Supreme Court holds ultimate judicial authority and serves as the final constitutional interpreter and guardian of the Constitution."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many constitutional organs are there in Nepal?",
+        "options":  {
+                        "a":  "6",
+                        "b":  "7",
+                        "c":  "13",
+                        "d":  "14"
+                    },
+        "answer":  "c",
+        "explanation":  "Part 21 of the Constitution establishes 13 independent constitutional bodies (such as the CIAA, Auditor General, Public Service Commission, Election Commission, etc.)."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following is not the basic element of the national interest of Nepal?",
+        "options":  {
+                        "a":  "Independence",
+                        "b":  "nationality",
+                        "c":  "Geographical diversities",
+                        "d":  "economic wellbeing and prosperity"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 5 defines national interest to include independence, sovereignty, territorial integrity, nationality, and economic well-being; geographical diversity is a physical characteristic rather than a national interest element."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "The Constitution of Nepal mentioned national language is as",
+        "options":  {
+                        "a":  "Tamang language only",
+                        "b":  "Bhojpuri language only",
+                        "c":  "Newari language only",
+                        "d":  "all spoken language within Nepal"
+                    },
+        "answer":  "d",
+        "explanation":  "Article 6 states that all mother tongues spoken as the mother tongues in Nepal are the national languages of the nation."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "All languages spoken as the ...... in Nepal are the languages of the nation.",
+        "options":  {
+                        "a":  "mother tongues",
+                        "b":  "ancestor languages",
+                        "c":  "Nepali language",
+                        "d":  "all of above"
+                    },
+        "answer":  "a",
+        "explanation":  "The constitutional provision recognizes all mother tongues spoken across Nepal as languages of the nation."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "The term \u0027secular\u0027 has been used in the Present Constitution in",
+        "options":  {
+                        "a":  "Article, 03",
+                        "b":  "Article, 02",
+                        "c":  "Article, 02",
+                        "d":  "Article, 04"
+                    },
+        "answer":  "d",
+        "explanation":  "Article 4 (\u0027Definition of State\u0027) defines Nepal as a secular (\u0027dharmanirpeksha\u0027) state."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In which article of Constitution of Nepal has provisioned about National interest?",
+        "options":  {
+                        "a":  "4",
+                        "b":  "3",
+                        "c":  "6",
+                        "d":  "5"
+                    },
+        "answer":  "d",
+        "explanation":  "Article 5 of the Constitution outlines provisions regarding the protection and promotion of Nepal\u0027s national interest."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many types of Citizenship have been provisioned by the Constitution of Nepal?",
+        "options":  {
+                        "a":  "2",
+                        "b":  "4",
+                        "c":  "3",
+                        "d":  "5"
+                    },
+        "answer":  "b",
+        "explanation":  "The Constitution provisions 4 types of citizenship: descent (Banshaj), naturalized (Angikrit), honorary (Sammanak), and non-resident Nepali (NRN) citizenship."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "There is the provision of citizenship in the ...... of constitution of Nepal.",
+        "options":  {
+                        "a":  "Part I",
+                        "b":  "Part II",
+                        "c":  "Part III",
+                        "d":  "Part IV"
+                    },
+        "answer":  "b",
+        "explanation":  "Part II (Articles 10 through 15) of the Constitution contains all legal provisions governing citizenship."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "According to Constitution of Nepal, provision of citizenship with identity of .....",
+        "options":  {
+                        "a":  "Descent",
+                        "b":  "Gender",
+                        "c":  "both a \u0026 b",
+                        "d":  "Neither a nor b"
+                    },
+        "answer":  "c",
+        "explanation":  "Citizenship provisions account for lineage through descent as well as gender identity considerations (such as obtaining citizenship through either mother\u0027s or father\u0027s identity)."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In which constitution of Nepal, the fundamental rights of citizens were included?",
+        "options":  {
+                        "a":  "2007 BS",
+                        "b":  "2015 BS",
+                        "c":  "2004 BS",
+                        "d":  "2019 BS"
+                    },
+        "answer":  "c",
+        "explanation":  "The Government of Nepal Act, 2004 BS was the earliest constitutional instrument to introduce foundational rights provisions in Nepal\u0027s history."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In which constitution of Nepal, the fundamental duties of citizens were included?",
+        "options":  {
+                        "a":  "2007 BS",
+                        "b":  "2015 BS",
+                        "c":  "2019 BS",
+                        "d":  "2047 BS"
+                    },
+        "answer":  "c",
+        "explanation":  "The Constitution of Nepal of 2019 BS first introduced explicit clauses regarding the fundamental duties of citizens."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many fundamental rights are there under present Constitution of Nepal?",
+        "options":  {
+                        "a":  "31",
+                        "b":  "32",
+                        "c":  "33",
+                        "d":  "35"
+                    },
+        "answer":  "a",
+        "explanation":  "Part 3 of the Constitution (Articles 16 to 46) guarantees a total of 31 fundamental rights to citizens."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In the Present constitution of Nepal, the rights to freedom and rights to property are respectively mentioned in the articles and ...",
+        "options":  {
+                        "a":  "17 and 25",
+                        "b":  "18 and 24",
+                        "c":  "19 and 22",
+                        "d":  "19 and 23"
+                    },
+        "answer":  "a",
+        "explanation":  "Article 17 deals with the Right to Freedom, and Article 25 covers the Right to Property."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In which Article of the constitution of Nepal, the rights to communication is mentioned?",
+        "options":  {
+                        "a":  "13",
+                        "b":  "15",
+                        "c":  "19",
+                        "d":  "21"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 19 of the Constitution explicitly guarantees the Right to Communication, protecting freedom of the press and publication."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which articles of the present Constitution of Nepal is related with Abolition of Untouchability?",
+        "options":  {
+                        "a":  "25",
+                        "b":  "23",
+                        "c":  "24",
+                        "d":  "26"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 24 guarantees the Right against Untouchability and Caste-based Discrimination."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Right to open political parties\u0027 is ...",
+        "options":  {
+                        "a":  "right to information",
+                        "b":  "right to freedom",
+                        "c":  "Right to life",
+                        "d":  "right to equality"
+                    },
+        "answer":  "b",
+        "explanation":  "The freedom to form and operate political parties, associations, and unions is a constituent clause under the Right to Freedom (Article 17)."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Right against trafficking, slavery or servitude according to Constitution of Nepal is ...",
+        "options":  {
+                        "a":  "Right to equality",
+                        "b":  "right against untouchability",
+                        "c":  "Right against exploitation",
+                        "d":  "right to dalit"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 29 guarantees the Right against Exploitation, prohibiting human trafficking, slavery, forced labor, and servitude."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Who is not entitled for social security rights as per the constitution of Nepal?",
+        "options":  {
+                        "a":  "Helpless single women",
+                        "b":  "tribes on the verge of extinction",
+                        "c":  "Citizens with disability",
+                        "d":  "Minorities"
+                    },
+        "answer":  "d",
+        "explanation":  "Article 43 covers social security for indigent, incapacitated, and helpless citizens, single women, persons with disabilities, and endangered tribes, whereas general minorities have specific cultural/linguistic protections rather than indigent social security entitlements."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Rights to Information, is lies under the ... of the constitution of Nepal.",
+        "options":  {
+                        "a":  "A rights to receive secret matters",
+                        "b":  "rights to asylum",
+                        "c":  "Right to adoption",
+                        "d":  "fundamental rights"
+                    },
+        "answer":  "d",
+        "explanation":  "The Right to Information is enshrined as Article 27 under Part 3 (Fundamental Rights) of the Constitution."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In the context of fundamental right, present constitution of Nepal has guaranteed free education for the Nepalese ...",
+        "options":  {
+                        "a":  "upto primary level",
+                        "b":  "upto secondary level",
+                        "c":  "upto lower Secondary level",
+                        "d":  "upto university level"
+                    },
+        "answer":  "b",
+        "explanation":  "Article 31 specifies that every citizen has the right to access free education up to the secondary level from the State."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "\"No law shall be made providing for the death penalty to any one\", which article deals with this statement?",
+        "options":  {
+                        "a":  "Article, 35",
+                        "b":  "article, 42",
+                        "c":  "article, 16",
+                        "d":  "article, 22"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 16 (Right to live with dignity) explicitly establishes that no law shall be enacted providing for the death penalty."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which article provides a citizen of Nepal, shall not discriminate against anyone on the basis of religion, caste, Sex?",
+        "options":  {
+                        "a":  "Article, 15",
+                        "b":  "article, 17",
+                        "c":  "article, 18",
+                        "d":  "article, 27"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 18 guarantees the Right to Equality, ensuring equal protection of law and prohibiting discrimination based on origin, religion, race, caste, or sex."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following right is guaranteed as fundamental right for the first time by the Constitution of Nepal?",
+        "options":  {
+                        "a":  "Right to information",
+                        "b":  "right to privacy",
+                        "c":  "Right to Senior citizens",
+                        "d":  "right against exile"
+                    },
+        "answer":  "c",
+        "explanation":  "The Right of Senior Citizens (Article 41) was introduced as a standalone fundamental right for the first time in the 2072 Constitution."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following subject does not lie under political right?",
+        "options":  {
+                        "a":  "Voting rights",
+                        "b":  "Right to contest election",
+                        "c":  "Rights to get government job",
+                        "d":  "Rights to security of personal prestige"
+                    },
+        "answer":  "d",
+        "explanation":  "Security of personal prestige and dignity relates to individual human and personal rights rather than political rights such as voting or running for public office."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "\"No law shall be made providing for the death penalty of any one.\" According to the Constitution Nepal, this related to",
+        "options":  {
+                        "a":  "Right to live with dignity.",
+                        "b":  "Right to equality",
+                        "c":  "Right to freedom",
+                        "d":  "Right to social justice"
+                    },
+        "answer":  "a",
+        "explanation":  "The abolition of capital punishment is anchored directly within the Right to live with dignity under Article 16."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following is correct in regards in right to freedom provisioned in the constitution of Nepal?",
+        "options":  {
+                        "a":  "Freedom to assemble without arms",
+                        "b":  "Freedom to assemble peacefully",
+                        "c":  "Freedom to assemble peaceably and without arms",
+                        "d":  "Opportunity to freely assemble"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 17(2)(b) precisely guarantees the freedom to assemble peaceably and without arms."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "The right, which is first time guaranteed in the constitution of Nepal?",
+        "options":  {
+                        "a":  "Right of victim of crime.",
+                        "b":  "Right against torture",
+                        "c":  "Right relating to justice",
+                        "d":  "Rights to information"
+                    },
+        "answer":  "a",
+        "explanation":  "The Right of Victims of Crime (Article 21) is a new fundamental right introduced in the 2072 Constitution."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following right(s) is/are guaranteed as fundamental right for the first time by the constitution of Nepal, 2072?",
+        "options":  {
+                        "a":  "rights of the consumer",
+                        "b":  "right to housing",
+                        "c":  "rights of dalit",
+                        "d":  "all of above"
+                    },
+        "answer":  "d",
+        "explanation":  "Consumer rights, right to housing, and dalit rights were all newly or more comprehensively secured as explicit fundamental rights in the 2072 Constitution."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "According to the constitution of Nepal, which provision among the given below does not fall under fundamental rights?",
+        "options":  {
+                        "a":  "Rights of Child",
+                        "b":  "Rights of Youth.",
+                        "c":  "Rights of Women",
+                        "d":  "Rights of Senior citizens"
+                    },
+        "answer":  "b",
+        "explanation":  "While children, women, and senior citizens have separate fundamental right provisions, \u0027Rights of Youth\u0027 is not designated as an independent fundamental right article."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which is not fundamental right under Constitution of Nepal?",
+        "options":  {
+                        "a":  "Right to equality",
+                        "b":  "right to conversion of religion",
+                        "c":  "Right to information",
+                        "d":  "right to social justice"
+                    },
+        "answer":  "b",
+        "explanation":  "Proselytizing or inducing religious conversions is restricted by law; a \u0027right to conversion of religion\u0027 is not a fundamental right."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "\"Every woman shall have right relating to safe motherhood and reproductive health\", which article deals with this statement?",
+        "options":  {
+                        "a":  "Article, 35",
+                        "b":  "article, 42",
+                        "c":  "article, 38",
+                        "d":  "article, 16"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 38 covers the Rights of Women, which includes specific guarantees for safe motherhood and reproductive health."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Rights to Social Justice is related to with",
+        "options":  {
+                        "a":  "Inclusive principle",
+                        "b":  "democratic",
+                        "c":  "Directive Principle",
+                        "d":  "social principle"
+                    },
+        "answer":  "a",
+        "explanation":  "The Right to Social Justice (Article 42) is built upon the inclusive principle, ensuring proportional participation of marginalized groups in state structures."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "According to Article 47 of the Constitution of Nepal, within how many years, should the legal provisions be made for the implementation of fundamental rights",
+        "options":  {
+                        "a":  "1 year",
+                        "b":  "2 years",
+                        "c":  "3 years.",
+                        "d":  "4years"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 47 mandates that the State must enact necessary legal provisions within three years of the commencement of the Constitution to enforce fundamental rights."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which is/are the duties of Citizens according to the Constitution of Nepal",
+        "options":  {
+                        "a":  "To render compulsory service as and when the state so requires",
+                        "b":  "To protect and preserve public property",
+                        "c":  "To abide by the constitution and law",
+                        "d":  "all of above"
+                    },
+        "answer":  "d",
+        "explanation":  "Article 48 sets forth all these clauses as the constitutional duties of every citizen."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "The existing Constitution of Nepal has incorporated duties of Citizens in",
+        "options":  {
+                        "a":  "Article, 46",
+                        "b":  "Article, 47",
+                        "c":  "Article, 48.",
+                        "d":  "Article, 49"
+                    },
+        "answer":  "c",
+        "explanation":  "Citizen duties are explicitly incorporated under Article 48 of the Constitution."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Fundamental Rights in Nepal are guaranteed by it through",
+        "options":  {
+                        "a":  "The right of equality",
+                        "b":  "Right against Exploitation",
+                        "c":  "Right to Constitutional Remedies",
+                        "d":  "Educational and Cultural Rights"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 46 provides the Right to Constitutional Remedies, serving as the legal shield that guarantees the enforcement of all fundamental rights."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many duties of citizen\u0027s have been provisioned by the Constitution of Nepal?",
+        "options":  {
+                        "a":  "2",
+                        "b":  "4",
+                        "c":  "3",
+                        "d":  "5"
+                    },
+        "answer":  "b",
+        "explanation":  "Article 48 outlines 4 distinct duties for citizens of Nepal."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "According to Constitution of Nepal, every citizen shall have ...",
+        "options":  {
+                        "a":  "Freedom to opinion and expression",
+                        "b":  "Freedom of assemble peacefully without arms",
+                        "c":  "Freedom to move and reside any part of Nepal",
+                        "d":  "All of the above."
+                    },
+        "answer":  "d",
+        "explanation":  "All listed individual liberties are guaranteed under the clauses of Article 17 (Right to Freedom)."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "According to Constitution of Nepal, which is not the duty of the citizens?",
+        "options":  {
+                        "a":  "To abide by the Constitution and law",
+                        "b":  "To render compulsory service as and when the state so requires",
+                        "c":  "To protect the political rights of the people.",
+                        "d":  "To protect and preserve public property"
+                    },
+        "answer":  "c",
+        "explanation":  "Protecting the political rights of people is not among the formal constitutional citizen duties listed in Article 48."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In which constitution of Nepal, the directive principles were included?",
+        "options":  {
+                        "a":  "2007 BS",
+                        "b":  "2015 BS",
+                        "c":  "2019 BS",
+                        "d":  "2047 BS"
+                    },
+        "answer":  "a",
+        "explanation":  "The Interim Constitution of Nepal, 2007 BS, first introduced the inclusion of directive principles of state policy."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many directive principles have been provisioned by the present constitution of Nepal?",
+        "options":  {
+                        "a":  "4",
+                        "b":  "8",
+                        "c":  "13",
+                        "d":  "14"
+                    },
+        "answer":  "a",
+        "explanation":  "Article 50 outlines 4 core Directive Principles of the State (political, social/cultural, economic, and international relations)."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In which articles of the constitution of Nepal, has guaranteed about the \"Public Service\"?",
+        "options":  {
+                        "a":  "article, 41",
+                        "b":  "article, 51",
+                        "c":  "article, 56",
+                        "d":  "article, 61"
+                    },
+        "answer":  "b",
+        "explanation":  "Policies relating to basic needs, governance, and public service delivery are outlined under Article 51 of the Constitution."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Identify true and false in the following statements;\nI. Generally the directive principles and state policies are not enforceable by the court of law.\nII. The present constitution of Nepal has provisioned for Right to senior citizens.",
+        "options":  {
+                        "a":  "both I and II true",
+                        "b":  "both I \u0026 II false",
+                        "c":  "I true \u0026 II false",
+                        "d":  "I false \u0026 II true"
+                    },
+        "answer":  "a",
+        "explanation":  "Statement I is true because directive principles are non-enforceable guidelines; Statement II is true because Article 41 establishes the Right of Senior Citizens."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following are listed as a directive Principle of State Policy?",
+        "options":  {
+                        "a":  "Policies relating to national unity and national security",
+                        "b":  "Policies relating to political and governance system of State",
+                        "c":  "Policies relating to social and cultural transformation",
+                        "d":  "All of above"
+                    },
+        "answer":  "d",
+        "explanation":  "State policies under Article 51 cover national unity/security, political governance, and social/cultural transformation."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Match the following and choose the correct answer.",
+        "options":  {
+                        "a":  "a1, b2, c3, d4",
+                        "b":  "a1, b2, c4, d3",
+                        "c":  "a1, b4, c2, d3",
+                        "d":  "a1, b3, c2, d4"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 56 corresponds to Structure of state (a-1), Article 58 corresponds to Residual Power (b-4), Article 60 governs Distribution of sources of revenue (c-2), and Article 61 establishes the President (d-3), yielding the matching combination a1, b4, c2, d3."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How does the constitution of Nepal define the state power?",
+        "options":  {
+                        "a":  "The responsibility issuing general directives, controlling and regulating of the governance of Nepal is the state power",
+                        "b":  "The power relating to the executive, Legislature, Judiciary and residual power is the state power",
+                        "c":  "The power relating to the executive, Legislature, Judiciary of the state is the state power",
+                        "d":  "All of the above"
+                    },
+        "answer":  "b",
+        "explanation":  "State power in Nepal encompasses executive, legislative, judicial, and residual powers as constitutional competencies."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which article of Constitution of Nepal provides for the federal structure of Nepal?",
+        "options":  {
+                        "a":  "Article, 55",
+                        "b":  "Article, 56",
+                        "c":  "Article, 58",
+                        "d":  "Article, 53"
+                    },
+        "answer":  "b",
+        "explanation":  "Article 56 details the structure of the State, establishing Nepal\u0027s federal model comprising the Federation, Province, and Local levels."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many schedules of the constitution of Nepal have listed the power of state distributed to federation, province and local level?",
+        "options":  {
+                        "a":  "3",
+                        "b":  "4",
+                        "c":  "5",
+                        "d":  "6"
+                    },
+        "answer":  "c",
+        "explanation":  "Schedules 5, 6, 7, 8, and 9 outline the federal list, provincial list, concurrent lists, and local list, totaling 5 schedules."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In which Schedule the Constitution of Nepal has provisioned about National Flag of Nepal?",
+        "options":  {
+                        "a":  "Schedule, 4",
+                        "b":  "Schedule, 3",
+                        "c":  "Schedule, 2",
+                        "d":  "Schedule, 1"
+                    },
+        "answer":  "d",
+        "explanation":  "Schedule 1 contains the shape, geometric construction method, and description of the National Flag of Nepal."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "In constitution of Nepal, the list of local level power is provided in ...",
+        "options":  {
+                        "a":  "Schedule, 5",
+                        "b":  "Schedule, 6",
+                        "c":  "Schedule, 7",
+                        "d":  "Schedule, 8"
+                    },
+        "answer":  "d",
+        "explanation":  "Schedule 8 contains the list of exclusive legislative powers of local governments (municipalities and rural municipalities)."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Eighth Schedules of the constitution relating to ... contain ... items",
+        "options":  {
+                        "a":  "18 items",
+                        "b":  "28 items",
+                        "c":  "19 items",
+                        "d":  "22 items"
+                    },
+        "answer":  "d",
+        "explanation":  "Schedule 8 details the exclusive powers of local governments, consisting of 22 specific items."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "According to the Constitution of Nepal which amongst the following is the authority of a province?",
+        "options":  {
+                        "a":  "Trust Management",
+                        "b":  "central statistics",
+                        "c":  "Health policy",
+                        "d":  "intellectual property"
+                    },
+        "answer":  "a",
+        "explanation":  "Trust management (Guthi) falls under provincial jurisdiction (Schedule 6), whereas central statistics, health policies, and intellectual property are federal or concurrent matters."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "Which of the following pair(s) is/are correctly matched?\n1. Seventh schedule - concurrent powers of Federation, Province and local level\n2. Fifth schedule - Federal list\n3. Sixth Schedule - Province List\n4. Ninth Schedule - ...",
+        "options":  {
+                        "a":  "1 and 3 only",
+                        "b":  "2 and 4 only",
+                        "c":  "1, 2 and 3 only",
+                        "d":  "all of above"
+                    },
+        "answer":  "d",
+        "explanation":  "All listed schedules match their respective legislative competency categories accurately within the constitutional schedule framework."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many Policies of the State have been provisioned in the article 51 of the Constitution of Nepal promulgated in 2072 BS?",
+        "options":  {
+                        "a":  "11",
+                        "b":  "12",
+                        "c":  "13",
+                        "d":  "14"
+                    },
+        "answer":  "c",
+        "explanation":  "Article 51 of the Constitution enumerates 13 distinct policies under the Directive Principles and Policies of the State."
+    },
+    {
+        "topic":  "Constitution of Nepal(Part1-5)",
+        "question":  "How many members of the Constituent Assembly signed the Constitution of Nepal when it was promulgated?",
+        "options":  {
+                        "a":  "498",
+                        "b":  "507",
+                        "c":  "598",
+                        "d":  "601"
+                    },
+        "answer":  "b",
+        "explanation":  "Out of the 601 total members of the Constituent Assembly, 507 members signed the final document during its promulgation in 2072 BS."
+    }
+]
