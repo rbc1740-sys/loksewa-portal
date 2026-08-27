@@ -171,3 +171,56 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           force_orphan: true
+  mobile-tests:
+    name: Mobile Tests (tsc + vitest)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: loksewa-mobile
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: loksewa-mobile/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Typecheck
+        run: npx tsc --noEmit
+
+      - name: Unit tests
+        run: npx vitest run
+
+  firestore-rules:
+    name: Firestore Rules (emulator)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Java (Firestore emulator requires a JRE)
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install rules-test dependencies
+        run: npm ci
+        working-directory: rules-tests
+
+      - name: Run rules tests against the emulator
+        run: >
+          ./rules-tests/node_modules/.bin/firebase emulators:exec
+          --only firestore
+          --project demo-loksewa
+          --config firebase.json
+          "npm --prefix rules-tests run test"
