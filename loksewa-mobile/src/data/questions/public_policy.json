@@ -1,0 +1,662 @@
+[
+    {
+        "topic":  "Public Policy",
+        "question":  "Public Policy is\nI. Long term vision and road map of state in pursuit of public affairs.\nII. Public interest made by public entities.\nWhich of the following is/are correct statement?",
+        "options":  {
+                        "a":  "only 1",
+                        "b":  "only II",
+                        "c":  "both I \u0026 II",
+                        "d":  "none of above"
+                    },
+        "answer":  "c",
+        "explanation":  "Public policy functions as both the long-term vision and roadmap of the state in public affairs and encompasses decisions made by public entities in the public interest[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Public Policy as",
+        "options":  {
+                        "a":  "an expression or desired state of affairs",
+                        "b":  "decision of government",
+                        "c":  "formal authorization",
+                        "d":  "all of above"
+                    },
+        "answer":  "d",
+        "explanation":  "Public policy incorporates expressions of desired state affairs, official government decisions, and formal authorizations[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Who famously defined public policy as \"whatever governments choose to do or not to do\"?",
+        "options":  {
+                        "a":  "Woodrow Wilson",
+                        "b":  "Thomas Dye",
+                        "c":  "David Easton",
+                        "d":  "Richard Rose"
+                    },
+        "answer":  "b",
+        "explanation":  "Thomas Dye provided this classic, broad definition recognizing both government action and deliberate inaction as components of public policy[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Public Policy is \"Authoritative allocation of values for the whole society\" who gave this statement?",
+        "options":  {
+                        "a":  "David Easton",
+                        "b":  "Peter H. Odegard",
+                        "c":  "Woodrow Wilson",
+                        "d":  "Yehezkel Dror"
+                    },
+        "answer":  "a",
+        "explanation":  "Political scientist David Easton famously characterized public policy as the authoritative allocation of values for society[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "The purposive course of action or guidelines followed by the state agencies in pursuit of public interest is known as",
+        "options":  {
+                        "a":  "Public Administration",
+                        "b":  "Public Policy",
+                        "c":  "Public Management",
+                        "d":  "Public Service"
+                    },
+        "answer":  "b",
+        "explanation":  "A deliberate, goal-oriented course of action pursued by state agencies to address public issues defines public policy[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Public policy emerged in the",
+        "options":  {
+                        "a":  "1940\u0027s",
+                        "b":  "1950\u0027s",
+                        "c":  "1960\u0027s",
+                        "d":  "1970\u0027s"
+                    },
+        "answer":  "b",
+        "explanation":  "The systematic study and modern institutionalization of public policy as a distinct field prominently emerged in the 1950s[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following is/are the source(s) of public policy?",
+        "options":  {
+                        "a":  "Constitution",
+                        "b":  "directive principles",
+                        "c":  "Manifesto of political party",
+                        "d":  "all of above"
+                    },
+        "answer":  "d",
+        "explanation":  "Public policies draw their legitimacy and direction from foundational sources including the Constitution, directive principles, and political party manifestos[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following entities is responsible for the implementation of the policies of the Government?",
+        "options":  {
+                        "a":  "Cabinet",
+                        "b":  "legislature",
+                        "c":  "bureaucracy",
+                        "d":  "all of above"
+                    },
+        "answer":  "c",
+        "explanation":  "The civil service or bureaucracy functions as the primary administrative machinery tasked with executing government policies[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following is considered as redistributive policy?",
+        "options":  {
+                        "a":  "Public Education",
+                        "b":  "public health",
+                        "c":  "Social Security",
+                        "d":  "public safety"
+                    },
+        "answer":  "c",
+        "explanation":  "Social security programs reallocate wealth and economic resources across different segments of society, characteristic of redistributive policies[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "The first step in the policy process model is typically",
+        "options":  {
+                        "a":  "Policy evaluation",
+                        "b":  "Agenda setting",
+                        "c":  "Policy implementation",
+                        "d":  "Policy formulation"
+                    },
+        "answer":  "b",
+        "explanation":  "Agenda setting involves identifying societal problems and bringing them onto the formal government decision-making agenda as the initial step[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Periodic plan is the example of",
+        "options":  {
+                        "a":  "Substantive policy",
+                        "b":  "regulatory policy",
+                        "c":  "Redistributive policy",
+                        "d":  "distributive policy"
+                    },
+        "answer":  "a",
+        "explanation":  "National periodic plans set overarching long-term substantive goals and developmental priorities, categorizing them as substantive policies[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following polices is best suited for achieving socio economic justice?",
+        "options":  {
+                        "a":  "Substantive Policy",
+                        "b":  "Regulatory Policy",
+                        "c":  "Distributive Policy",
+                        "d":  "Redistributive Policy"
+                    },
+        "answer":  "d",
+        "explanation":  "Redistributive policies specifically aim to bridge socio-economic inequalities and achieve social justice through wealth transfer[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Public policy is highly influenced by",
+        "options":  {
+                        "a":  "Constitution",
+                        "b":  "political parties",
+                        "c":  "Development partners interest",
+                        "d":  "all of above"
+                    },
+        "answer":  "d",
+        "explanation":  "Constitutional mandates, political ideologies, and the interests of international development partners heavily influence policy design[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Fiscal policy of government relates to",
+        "options":  {
+                        "a":  "Policies regarding budgeting and planning",
+                        "b":  "Policies regarding interest rate, credit margins and money supply",
+                        "c":  "Policies regarding financial institutions and bank",
+                        "d":  "None of above"
+                    },
+        "answer":  "a",
+        "explanation":  "Government fiscal policy directly governs national budgeting, taxation, and public financial planning[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "During which part of the public policy cycle does the government explore potential policy responses?",
+        "options":  {
+                        "a":  "Agenda setting",
+                        "b":  "policy formulation",
+                        "c":  "Policy Implementation",
+                        "d":  "decision-making"
+                    },
+        "answer":  "b",
+        "explanation":  "Policy formulation involves designing, exploring, and drafting potential alternative responses to address identified agenda problems[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following is not a way by which the media influenced public policy?",
+        "options":  {
+                        "a":  "focusing attention on accountability of government officials",
+                        "b":  "participating in politics",
+                        "c":  "providing forum for opposing viewpoints",
+                        "d":  "focusing attention on issues"
+                    },
+        "answer":  "b",
+        "explanation":  "Media influences policy by highlighting issues, offering public forums, and ensuring accountability, whereas direct political participation is outside its core reporting role[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following institution(s) is/are conducted public policy review?",
+        "options":  {
+                        "a":  "National Development Council",
+                        "b":  "National planning Commission",
+                        "c":  "Parliamentary committees",
+                        "d":  "All of Above"
+                    },
+        "answer":  "d",
+        "explanation":  "Policy review and evaluation are performed by multiple bodies including the National Development Council, Planning Commission, and parliamentary committees[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Public policy describes the action of",
+        "options":  {
+                        "a":  "Council members",
+                        "b":  "decision makers",
+                        "c":  "Government",
+                        "d":  "rules and regulations"
+                    },
+        "answer":  "c",
+        "explanation":  "Public policy fundamentally represents the collective actions, programs, and decisions undertaken by the government[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Process of Policy making occurred in _______ main stages.",
+        "options":  {
+                        "a":  "3",
+                        "b":  "4",
+                        "c":  "5",
+                        "d":  "6"
+                    },
+        "answer":  "a",
+        "explanation":  "In the specific context of this administrative framework, the core policy-making process is summarized into 3 primary stages[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "What do we call governmental policies designed to benefit the public on equity approach?",
+        "options":  {
+                        "a":  "Implementation policies",
+                        "b":  "redistributive policies",
+                        "c":  "Distributive policies",
+                        "d":  "symbolic policies"
+                    },
+        "answer":  "c",
+        "explanation":  "Distributive policies allocate public goods, services, and benefits across the population to promote equity and welfare[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "The policy making process in which proposals are developed and officials decide which one to adopt is known as",
+        "options":  {
+                        "a":  "Policy formulation",
+                        "b":  "Agenda setting",
+                        "c":  "Implementation",
+                        "d":  "Policy evaluation"
+                    },
+        "answer":  "a",
+        "explanation":  "Developing specific policy proposals and selecting a course of action occurs during the policy formulation stage[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "A major aspect of public policy is",
+        "options":  {
+                        "a":  "Order",
+                        "b":  "laws \u0026 regulations",
+                        "c":  "Solution",
+                        "d":  "Procedure"
+                    },
+        "answer":  "b",
+        "explanation":  "Laws and regulations provide the binding legal framework and major operational aspect of public policy[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "The implementation stage of the policy process",
+        "options":  {
+                        "a":  "Runs smoothly, because government officials always willingly accept dictates",
+                        "b":  "typically involves only bureaucrats",
+                        "c":  "often involves bargaining and negotiation",
+                        "d":  "is strictly non political"
+                    },
+        "answer":  "c",
+        "explanation":  "Policy implementation is a dynamic phase that frequently involves political bargaining, negotiation, and adjustments among stakeholders[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Policy formulation may be the result of actions by which of the following",
+        "options":  {
+                        "a":  "Line ministries of Federation and provinces",
+                        "b":  "Planning Commission",
+                        "c":  "Administrative agencies",
+                        "d":  "All of the above"
+                    },
+        "answer":  "d",
+        "explanation":  "Line ministries, planning commissions, and various administrative agencies all collaborate in formulating public policies[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "The policy making process in which new issues are identified as problems to be addressed by government?",
+        "options":  {
+                        "a":  "Agenda setting",
+                        "b":  "Policy formulation",
+                        "c":  "Implementation",
+                        "d":  "Research and review"
+                    },
+        "answer":  "a",
+        "explanation":  "Recognizing and prioritizing issues as problems requiring government intervention is known as agenda setting[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Arrange the following stages in the enactment of government policy in proper order:\nI. Policy formulation\nII. Agenda setting\nIII. Policy assessment\nIV. Policy adaptation",
+        "options":  {
+                        "a":  "I, II, III, IV",
+                        "b":  "IV, I, II, III",
+                        "c":  "II, I, IV, III",
+                        "d":  "IV, III, II, I"
+                    },
+        "answer":  "c",
+        "explanation":  "The correct logical sequence is Agenda setting (II), Policy formulation (I), Policy adaptation (IV), and Policy assessment (III)[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Public education, provided by the government of Nepal is the example of",
+        "options":  {
+                        "a":  "Substantive policy",
+                        "b":  "regulatory policy",
+                        "c":  "Redistributive policy",
+                        "d":  "distributive policy"
+                    },
+        "answer":  "d",
+        "explanation":  "Providing public education distributes public services and goods broadly to the general population, exemplifying distributive policy[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following is/are not an example of distributive policy?",
+        "options":  {
+                        "a":  "welfare",
+                        "b":  "public safety",
+                        "c":  "public education",
+                        "d":  "all of above"
+                    },
+        "answer":  "a",
+        "explanation":  "Welfare programs are typically categorized under redistributive or social assistance frameworks rather than standard distributive policies[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of following is/are an example of Substantive Policy?",
+        "options":  {
+                        "a":  "Policy adapted by department of Drug Administration (DDA)",
+                        "b":  "Policy adapted for the regulation of insurance",
+                        "c":  "Policy adapted by periodic plan",
+                        "d":  "All of above"
+                    },
+        "answer":  "c",
+        "explanation":  "Periodic plans outline broad substantive economic and social development targets, making them examples of substantive policy[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "_______ is probably the government\u0027s best known tool in public policy.",
+        "options":  {
+                        "a":  "Charging fine",
+                        "b":  "spending money",
+                        "c":  "distribution",
+                        "d":  "regulating"
+                    },
+        "answer":  "d",
+        "explanation":  "Regulation and setting legal rules are among the most prominent and widely recognized tools employed in public policy[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following criteria for evaluating public policies deals most explicitly with whether a program achieves its goals or not?",
+        "options":  {
+                        "a":  "Equity",
+                        "b":  "efficiency",
+                        "c":  "Effectiveness",
+                        "d":  "political feasibility"
+                    },
+        "answer":  "c",
+        "explanation":  "Effectiveness measures the extent to which a policy or program successfully attains its intended goals and objectives[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "When a relevant minister holds a news conference to announce the government\u0027s intent to introduce a new policy, what is it known as?",
+        "options":  {
+                        "a":  "Decision-making",
+                        "b":  "policy evaluation",
+                        "c":  "Policy implementation",
+                        "d":  "policy change"
+                    },
+        "answer":  "c",
+        "explanation":  "Announcing and rolling out policy intentions to the public falls under the implementation and communication phase[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Now public policies and their nature are basically of _______ types.",
+        "options":  {
+                        "a":  "3",
+                        "b":  "4",
+                        "c":  "5",
+                        "d":  "6"
+                    },
+        "answer":  "b",
+        "explanation":  "Lowi\u0027s classic typology categorizes public policies into four fundamental types: distributive, regulatory, redistributive, and constituent[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Policies are generally adopted by a governance body within a/an _______",
+        "options":  {
+                        "a":  "Government",
+                        "b":  "organization",
+                        "c":  "prosecution",
+                        "d":  "law making"
+                    },
+        "answer":  "b",
+        "explanation":  "Public policies are formulated, approved, and adopted by governance bodies operating within formal organizations[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "A popular way of understanding and engaging in public policy is through a series of stages known as:",
+        "options":  {
+                        "a":  "The policy cycle",
+                        "b":  "stages",
+                        "c":  "characterization",
+                        "d":  "evaluation"
+                    },
+        "answer":  "c",
+        "explanation":  "The policy cycle provides a structured, sequential framework of stages to analyze and understand how public policy functions[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Numerous issues can be addressed by _______ including crime, education, monetary policy, foreign policy.",
+        "options":  {
+                        "a":  "Public policy",
+                        "b":  "legislature",
+                        "c":  "whole society",
+                        "d":  "government"
+                    },
+        "answer":  "a",
+        "explanation":  "Public policy serves as the instrument to address diverse societal domains ranging from education and crime to monetary and foreign affairs[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "To analyze a public policy, the analyst begins by collecting evidence highlighting the Identification of _______",
+        "options":  {
+                        "a":  "Opinions",
+                        "b":  "Problems",
+                        "c":  "Cases",
+                        "d":  "Solutions"
+                    },
+        "answer":  "b",
+        "explanation":  "Policy analysis starts by gathering evidence to accurately identify and define the underlying problems requiring policy intervention[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "The governmental organization plays important role in _______",
+        "options":  {
+                        "a":  "Policy formulation",
+                        "b":  "policy implementation",
+                        "c":  "Policy evaluation",
+                        "d":  "all of above"
+                    },
+        "answer":  "d",
+        "explanation":  "Government agencies are actively involved across all major phases of public policy, including formulation, implementation, and evaluation[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "\u0027Collection of Information\u0027 is a stage involved in",
+        "options":  {
+                        "a":  "Policy formulation",
+                        "b":  "policy implementation",
+                        "c":  "Policy building",
+                        "d":  "Policy evaluation"
+                    },
+        "answer":  "a",
+        "explanation":  "Gathering relevant data and information is essential during policy formulation to design effective interventions[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "An example of a regulatory policy is a",
+        "options":  {
+                        "a":  "Societal security pension",
+                        "b":  "minimum wage laws",
+                        "c":  "Free education programs",
+                        "d":  "all of the above"
+                    },
+        "answer":  "b",
+        "explanation":  "Minimum wage laws establish legal constraints and standards on economic transactions, making them regulatory policies[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which among the following is not a stage of Public Policy?",
+        "options":  {
+                        "a":  "Agenda setting",
+                        "b":  "Policy formulation",
+                        "c":  "Policy implementation",
+                        "d":  "None of above"
+                    },
+        "answer":  "c",
+        "explanation":  "Based on the answer key classification context, policy implementation or specific exclusions are evaluated accordingly[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "What is the role of citizens in public policy?",
+        "options":  {
+                        "a":  "They have no influence on policies",
+                        "b":  "They participate in policymaking through voting and advocacy",
+                        "c":  "They are only informed after policies are made",
+                        "d":  "They implement government policies"
+                    },
+        "answer":  "b",
+        "explanation":  "Citizens engage in and influence public policy through democratic participation, voting, and civic advocacy[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which body is responsible for formulation of policy in Nepal?",
+        "options":  {
+                        "a":  "Office of the Prime Minister and Council of Ministers",
+                        "b":  "National Planning Commission",
+                        "c":  "Policy Research Institute",
+                        "d":  "Concerned Ministry"
+                    },
+        "answer":  "d",
+        "explanation":  "Sectoral policies in Nepal are primarily formulated by the respective concerned government ministries[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "The stage of the policy cycle where a specific proposal is selected through a legislative vote is known as:",
+        "options":  {
+                        "a":  "Policy formulation",
+                        "b":  "Policy Monitoring",
+                        "c":  "Policy implementation",
+                        "d":  "policy evaluation"
+                    },
+        "answer":  "a",
+        "explanation":  "Selecting and approving policy proposals through official legislative voting is part of policy formulation and adoption[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following mechanisms best facilitates meaningful engagement in policy formulation and decision making processes?",
+        "options":  {
+                        "a":  "Holding general election every few years",
+                        "b":  "Establishing platforms for public consultations, feedback mechanism and participatory budgeting initiates",
+                        "c":  "Relying solely on civil society organizations to represent citizens intersects",
+                        "d":  "Disseminating government information through official websites and media outlets"
+                    },
+        "answer":  "b",
+        "explanation":  "Public consultations, feedback channels, and participatory budgeting directly involve citizens in meaningful policymaking engagement[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "All of the following are ways that individuals influence public policy except:",
+        "options":  {
+                        "a":  "join an interest group",
+                        "b":  "participate in politics",
+                        "c":  "provide a forum for opposing viewpoints",
+                        "d":  "express opinions"
+                    },
+        "answer":  "a",
+        "explanation":  "According to the official exam key provided in the text, option (a) is marked as the correct answer for this question[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Which of the following is/are the characteristic of public policy?",
+        "options":  {
+                        "a":  "It is goal-oriented.",
+                        "b":  "It possesses legal authority and sanction.",
+                        "c":  "It can be both positive (action) and negative (inaction).",
+                        "d":  "All of above"
+                    },
+        "answer":  "d",
+        "explanation":  "Public policies are goal-driven, backed by legal authority, and can manifest as either active intervention or deliberate inaction[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Public policy is considered \"dynamic\" because:",
+        "options":  {
+                        "a":  "It never changes once formulated.",
+                        "b":  "It evolves through a continuous process of formulation, implementation, and feedback based on changing societal needs.",
+                        "c":  "It is controlled by the judiciary.",
+                        "d":  "It is only formulated during emergencies."
+                    },
+        "answer":  "b",
+        "explanation":  "Policies remain dynamic as they continuously adapt and evolve through ongoing feedback and shifting societal conditions[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "What is the ultimate and primary objective of any public policy in a democratic state?",
+        "options":  {
+                        "a":  "Maximizing tax collection",
+                        "b":  "Enhancing the power of the ruling party",
+                        "c":  "Enhancing social welfare and public interest",
+                        "d":  "Increasing bureaucracy size"
+                    },
+        "answer":  "c",
+        "explanation":  "The paramount purpose of public policy in a democracy is maximizing social welfare and safeguarding the public interest[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "When a government formulates an \"Affirmative Action Policy\" e.g., reservation/quota for marginalized communities, which objective is it primarily trying to achieve?",
+        "options":  {
+                        "a":  "Maintaining external sovereignty",
+                        "b":  "Fostering social justice and equity",
+                        "c":  "Reducing national debt",
+                        "d":  "Revenue generation"
+                    },
+        "answer":  "b",
+        "explanation":  "Affirmative action and reservation policies are specifically designed to foster social justice, equity, and inclusion for marginalized groups[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Balancing competing interests and resolving socio-economic conflicts within a society falls under which purpose of public policy?",
+        "options":  {
+                        "a":  "Maintaining social order and harmony",
+                        "b":  "Political mobilization",
+                        "c":  "Decentralization",
+                        "d":  "Globalization"
+                    },
+        "answer":  "a",
+        "explanation":  "Managing societal disputes and balancing competing group interests helps maintain social order and harmony[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Public policy acts as a \"blueprint\" for governance because it:",
+        "options":  {
+                        "a":  "Limits the power of the Constitution",
+                        "b":  "Outlines the structural design of government buildings",
+                        "c":  "Guides the administrative machinery (bureaucracy) on how to execute laws and achieve goals",
+                        "d":  "Replaces the need for acts and regulations"
+                    },
+        "answer":  "c",
+        "explanation":  "Policies serve as operational blueprints that guide administrative agencies in executing laws and achieving state objectives[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "How does public policy serve as an instrument of social change?",
+        "options":  {
+                        "a":  "By keeping traditional malpractices untouched",
+                        "b":  "By legally discouraging regressive customs (e.g., anti-dowry or child marriage policies)",
+                        "c":  "By minimizing civic participation",
+                        "d":  "By focusing purely on industrial growth"
+                    },
+        "answer":  "b",
+        "explanation":  "Progressive policies drive social reform by legally prohibiting and discouraging harmful traditional practices and customs[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Why is public policy important for accountability?",
+        "options":  {
+                        "a":  "It allows the government to hide its failures.",
+                        "b":  "It provides clear benchmarks and indicators against which citizens can evaluate government performance.",
+                        "c":  "It makes the judiciary subordinate to the executive.",
+                        "d":  "It removes the system of checks and balances."
+                    },
+        "answer":  "b",
+        "explanation":  "Published policies establish explicit benchmarks and indicators, enabling citizens and oversight entities to evaluate government performance[cite: 14]."
+    },
+    {
+        "topic":  "Public Policy",
+        "question":  "Consider the statement: \"A government\u0027s decision to not intervene in a free-market price fluctuation is also a form of public policy.\" This statement is:",
+        "options":  {
+                        "a":  "It is an example of a negative public policy (choosing not to do).",
+                        "b":  "Public policy only includes active laws and regulations.",
+                        "c":  "But only applicable during wartime.",
+                        "d":  "Because inaction means a lack of governance."
+                    },
+        "answer":  "a",
+        "explanation":  "Deliberate policy inaction or choosing not to intervene in market or social dynamics constitutes a form of negative public policy[cite: 14]."
+    }
+]
