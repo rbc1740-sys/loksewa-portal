@@ -1,1 +1,12 @@
 node_modules
+
+# downloaded OAuth client secrets - never commit these
+client_secret_*.json
+*.keystore.txt
+
+# build/tooling noise
+*.log
+.expo/
+/android/
+.idea/
+

@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>Loksewa Prep Pro - Civil Engineering & General Knowledge MCQ Portal</title>
 
     <!-- PWA Manifest -->
@@ -604,6 +604,246 @@
       .app-footer {
         border-top: 1px solid rgba(148, 163, 184, 0.2);
       }
+
+      /* ============================================================
+         RESPONSIVE FOUNDATION FIXES
+         ============================================================ */
+
+      /* 1. Fluid viewport for notches & safe areas */
+      @supports (padding: max(0px)) {
+        .safe-area-inset {
+          padding-left: max(1rem, env(safe-area-inset-left));
+          padding-right: max(1rem, env(safe-area-inset-right));
+          padding-top: max(1rem, env(safe-area-inset-top));
+          padding-bottom: max(1rem, env(safe-area-inset-bottom));
+        }
+      }
+
+      /* 2. Fluid typography scale */
+      :root {
+        --fs-fluid-xs: clamp(0.7rem, 0.65rem + 0.25vw, 0.875rem);
+        --fs-fluid-sm: clamp(0.8rem, 0.75rem + 0.25vw, 1rem);
+        --fs-fluid-base: clamp(0.95rem, 0.875rem + 0.375vw, 1.125rem);
+        --fs-fluid-lg: clamp(1.125rem, 1rem + 0.625vw, 1.5rem);
+        --fs-fluid-xl: clamp(1.5rem, 1.25rem + 1.25vw, 2.25rem);
+        --fs-fluid-2xl: clamp(2rem, 1.5rem + 2.5vw, 3.5rem);
+        --fs-fluid-3xl: clamp(2.5rem, 1.75rem + 3.75vw, 4.5rem);
+      }
+
+      /* 3. Fluid spacing scale */
+      :root {
+        --space-fluid-1: clamp(0.25rem, 0.2rem + 0.25vw, 0.5rem);
+        --space-fluid-2: clamp(0.5rem, 0.4rem + 0.5vw, 0.75rem);
+        --space-fluid-3: clamp(0.75rem, 0.6rem + 0.75vw, 1.25rem);
+        --space-fluid-4: clamp(1rem, 0.8rem + 1vw, 1.5rem);
+        --space-fluid-5: clamp(1.25rem, 1rem + 1.25vw, 2rem);
+        --space-fluid-6: clamp(1.5rem, 1.2rem + 1.5vw, 2.5rem);
+        --space-fluid-8: clamp(2rem, 1.5rem + 2.5vw, 3.5rem);
+      }
+
+      /* 4. Prevent horizontal overflow globally */
+      html, body {
+        max-width: 100vw;
+        overflow-x: hidden;
+      }
+
+      /* 5. Touch target minimum 44x44px */
+      button, a, input, select, textarea, [role="button"], .nav-btn {
+        min-height: 44px;
+        min-width: 44px;
+        touch-action: manipulation;
+      }
+
+      /* 6. Fix secondary nav - responsive buttons */
+      .secondary-nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-fluid-2);
+        justify-content: center;
+        overflow-x: visible;
+      }
+
+      .secondary-nav .nav-btn {
+        flex: 1 1 auto;
+        min-width: 0;
+        white-space: normal;
+        padding: var(--space-fluid-2) var(--space-fluid-3);
+        font-size: var(--fs-fluid-xs);
+        line-height: 1.3;
+        text-align: center;
+      }
+
+      @media (min-width: 640px) {
+        .secondary-nav .nav-btn {
+          flex: 0 1 auto;
+          white-space: nowrap;
+          padding: var(--space-fluid-2) var(--space-fluid-4);
+          font-size: var(--fs-fluid-sm);
+        }
+      }
+
+      /* 7. Responsive tables */
+      .table-responsive {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        max-width: 100%;
+      }
+
+      .table-responsive table {
+        min-width: 600px;
+        white-space: nowrap;
+      }
+
+      .table-responsive th:first-child,
+      .table-responsive td:first-child {
+        position: sticky;
+        left: 0;
+        z-index: 1;
+        background: inherit;
+      }
+
+      /* 8. Mobile-first card grids */
+      .card-grid {
+        display: grid;
+        gap: var(--space-fluid-4);
+        grid-template-columns: 1fr;
+      }
+
+      @media (min-width: 480px) {
+        .card-grid { grid-template-columns: repeat(2, 1fr); }
+      }
+
+      @media (min-width: 768px) {
+        .card-grid { grid-template-columns: repeat(3, 1fr); }
+      }
+
+      @media (min-width: 1024px) {
+        .card-grid { grid-template-columns: repeat(4, 1fr); }
+      }
+
+      /* 9. Fluid container widths */
+      .container-fluid {
+        width: 100%;
+        max-width: 100%;
+        padding-left: var(--space-fluid-4);
+        padding-right: var(--space-fluid-4);
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      @media (min-width: 640px) {
+        .container-fluid { max-width: 640px; padding-left: var(--space-fluid-5); padding-right: var(--space-fluid-5); }
+      }
+
+      @media (min-width: 768px) {
+        .container-fluid { max-width: 768px; padding-left: var(--space-fluid-6); padding-right: var(--space-fluid-6); }
+      }
+
+      @media (min-width: 1024px) {
+        .container-fluid { max-width: 1024px; }
+      }
+
+      @media (min-width: 1280px) {
+        .container-fluid { max-width: 1280px; }
+      }
+
+      @media (min-width: 1536px) {
+        .container-fluid { max-width: 1400px; }
+      }
+
+      /* 10. Responsive hero sections */
+      .hero-split {
+        display: grid;
+        gap: var(--space-fluid-8);
+        grid-template-columns: 1fr;
+        align-items: center;
+      }
+
+      @media (min-width: 1024px) {
+        .hero-split { grid-template-columns: 1fr 1fr; }
+      }
+
+      /* 11. Modal/Drawer responsive behavior */
+      .drawer-panel {
+        width: 100%;
+        max-width: 420px;
+      }
+
+      @media (max-width: 480px) {
+        .drawer-panel { 
+          max-width: 100%; 
+          border-radius: 0;
+          height: 100%;
+        }
+      }
+
+      /* 12. Form inputs full width on mobile */
+      .form-input {
+        width: 100%;
+        min-height: 48px;
+        font-size: 16px;
+      }
+
+      @media (min-width: 640px) {
+        .form-input { min-height: 44px; }
+      }
+
+      /* 13. Reduced motion support */
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+
+      /* 14. Focus visible for keyboard navigation */
+      :focus-visible {
+        outline: 3px solid var(--accent-500);
+        outline-offset: 2px;
+      }
+
+      /* 15. Content visibility for performance */
+      .content-auto {
+        content-visibility: auto;
+        contain-intrinsic-size: 0 500px;
+      }
+
+      /* 16. Fix for stat chips on mobile */
+      @media (max-width: 640px) {
+        .stat-chip {
+          font-size: 10px;
+          padding: 0.3rem 0.6rem;
+        }
+      }
+
+      /* 17. Ensure images don't overflow */
+      img, video, canvas, svg {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      /* 18. Better tap highlight color */
+      * {
+        -webkit-tap-highlight-color: rgba(var(--accent-rgb), 0.2);
+      }
+
+      /* 19. Prevent text size adjustment on orientation change */
+      html {
+        -webkit-text-size-adjust: 100%;
+        text-size-adjust: 100%;
+      }
+
+      /* 20. Smooth scrolling with anchor offset for fixed header */
+      html {
+        scroll-padding-top: 80px;
+      }
+
+      @media (max-width: 640px) {
+        html { scroll-padding-top: 100px; }
+      }
     </style>
   </head>
 
@@ -615,7 +855,7 @@
       class="glass-nav shadow-sm border-b border-slate-200 dark:border-slate-800 sticky top-0 z-40 transition-colors"
     >
       <div
-        class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-2"
+        class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-2 safe-area-inset"
       >
         <!-- Brand Logo -->
         <div
@@ -729,7 +969,7 @@
 
       <!-- Secondary Sticky Navigation Bar -->
       <div
-        class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-slate-100 dark:border-slate-800/80 py-2 flex items-center gap-1 sm:gap-2 overflow-x-auto no-scrollbar"
+        class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 border-t border-slate-100 dark:border-slate-800/80 py-2 secondary-nav safe-area-inset"
       >
         <button
           onclick="openPracticeTab()"
@@ -778,7 +1018,7 @@
     </header>
 
     <!-- Main Body Content -->
-    <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 safe-area-inset">
       <!-- ================================================================= -->
       <!-- 1. OBJECTIVE QUESTION PRACTICE TAB (Unified: Practice + Syllabus + Mastery + Revision) -->
       <!-- ================================================================= -->
@@ -885,7 +1125,7 @@
                 id="search-input"
                 oninput="liveSearch(this.value)"
                 placeholder="Search question statement, options, or keyword..."
-                class="w-full pl-10 pr-4 py-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all"
+                class="w-full pl-10 pr-4 py-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all form-input"
               />
               <!-- Live Search Suggestions -->
               <div id="search-suggestions" class="absolute left-0 right-0 top-full mt-1 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl shadow-lg max-h-96 overflow-y-auto z-50 hidden"></div>
@@ -894,7 +1134,7 @@
               <select
                 id="topic-select"
                 onchange="renderMCQs({ scrollToContainer: true })"
-                class="w-full p-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all"
+                class="w-full p-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all form-input"
               >
                 <option value="All">All Topics</option>
               </select>
@@ -903,7 +1143,7 @@
               <select
                 id="status-select"
                 onchange="renderMCQs({ scrollToContainer: true })"
-                class="w-full p-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all"
+                class="w-full p-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all form-input"
               >
                 <option value="all">All</option>
                 <option value="unattempted">Not Attempted</option>
@@ -917,7 +1157,7 @@
               <select
                 id="mastery-select"
                 onchange="renderMCQs({ scrollToContainer: true })"
-                class="w-full p-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all"
+                class="w-full p-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all form-input"
               >
                 <option value="all">All Mastery</option>
                 <option value="not-started">Not Started</option>
@@ -931,7 +1171,7 @@
               <select
                 id="sort-select"
                 onchange="renderMCQs({ scrollToContainer: true })"
-                class="w-full p-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all"
+                class="w-full p-2.5 bg-slate-50 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all form-input"
               >
                 <option value="recommended">Recommended</option>
                 <option value="lowest-mastery">Lowest Mastery First</option>
@@ -1167,7 +1407,7 @@
               >
               <select
                 id="exam-topic-select"
-                class="w-full p-3 bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:ring-2 focus:ring-indigo-500"
+                class="w-full p-3 bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:ring-2 focus:ring-indigo-500 form-input"
               ></select>
             </div>
             <div>
@@ -1176,7 +1416,7 @@
               >
               <select
                 id="exam-limit-select"
-                class="w-full p-3 bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:ring-2 focus:ring-indigo-500"
+                class="w-full p-3 bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-700 rounded-xl text-sm focus:ring-2 focus:ring-indigo-500 form-input"
               >
                 <option value="10">10 Questions (8 Minutes)</option>
                 <option value="25">25 Questions (20 Minutes)</option>
@@ -1266,7 +1506,7 @@
                 >
                 <select
                   id="battle-question-count"
-                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500"
+                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500 form-input"
                 >
                   <option value="3">3 Questions (Quick)</option>
                   <option value="5" selected>5 Questions (Standard)</option>
@@ -1282,7 +1522,7 @@
                 >
                 <select
                   id="battle-timer"
-                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500"
+                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500 form-input"
                 >
                   <option value="15">15 sec (Blitz)</option>
                   <option value="30" selected>30 sec (Normal)</option>
@@ -1298,7 +1538,7 @@
                 >
                 <select
                   id="battle-topic-filter"
-                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500"
+                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500 form-input"
                 >
                   <option value="all">All Topics (Mixed)</option>
                   <option value="gk">General Knowledge Only</option>
@@ -1314,7 +1554,7 @@
                 >
                 <select
                   id="battle-difficulty"
-                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500"
+                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500 form-input"
                 >
                   <option value="mixed" selected>Mixed (Auto)</option>
                   <option value="easy">Easy Only</option>
@@ -1330,7 +1570,7 @@
                 >
                 <select
                   id="battle-mode"
-                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500"
+                  class="w-full p-2 text-sm bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-lg focus:ring-1 focus:ring-indigo-500 form-input"
                 >
                   <option value="classic" selected>Classic (Most Points Wins)</option>
                   <option value="sudden-death">Sudden Death (First Mistake Loses)</option>
@@ -1504,7 +1744,7 @@
         class="absolute inset-0 bg-slate-900/60 backdrop-blur-sm pointer-events-none"
       ></div>
       <div
-        class="absolute right-0 top-0 bottom-0 w-full max-w-lg bg-white dark:bg-slate-900 shadow-2xl pointer-events-auto flex flex-col border-l border-slate-200 dark:border-slate-800 transition-transform transform translate-x-full duration-300 ease-in-out"
+        class="absolute right-0 top-0 bottom-0 w-full max-w-lg bg-white dark:bg-slate-900 shadow-2xl pointer-events-auto flex flex-col border-l border-slate-200 dark:border-slate-800 transition-transform transform translate-x-full duration-300 ease-in-out drawer-panel"
         id="drawer-panel"
       >
         <!-- Drawer Header -->
@@ -1580,7 +1820,7 @@
                   id="conv-sqft"
                   oninput="convertFromSqFt(this.value)"
                   placeholder="e.g. 5476"
-                  class="w-full p-2.5 bg-slate-50 dark:bg-slate-800 border rounded-xl font-mono text-sm focus:ring-1 focus:ring-emerald-500"
+                  class="w-full p-2.5 bg-slate-50 dark:bg-slate-800 border rounded-xl font-mono text-sm focus:ring-1 focus:ring-emerald-500 form-input"
                 />
               </div>
 
@@ -1593,7 +1833,7 @@
                   id="conv-sqm"
                   oninput="convertFromSqM(this.value)"
                   placeholder="e.g. 508.7"
-                  class="w-full p-2.5 bg-slate-50 dark:bg-slate-800 border rounded-xl font-mono text-sm focus:ring-1 focus:ring-emerald-500"
+                  class="w-full p-2.5 bg-slate-50 dark:bg-slate-800 border rounded-xl font-mono text-sm focus:ring-1 focus:ring-emerald-500 form-input"
                 />
               </div>
 
@@ -1612,7 +1852,7 @@
                       id="conv-ropani"
                       oninput="convertFromRAPD()"
                       placeholder="0"
-                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono"
+                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono form-input"
                     />
                   </div>
                   <div>
@@ -1622,7 +1862,7 @@
                       id="conv-aana"
                       oninput="convertFromRAPD()"
                       placeholder="0"
-                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono"
+                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono form-input"
                     />
                   </div>
                   <div>
@@ -1632,7 +1872,7 @@
                       id="conv-paisa"
                       oninput="convertFromRAPD()"
                       placeholder="0"
-                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono"
+                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono form-input"
                     />
                   </div>
                   <div>
@@ -1642,7 +1882,7 @@
                       id="conv-daam"
                       oninput="convertFromRAPD()"
                       placeholder="0"
-                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono"
+                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono form-input"
                     />
                   </div>
                 </div>
@@ -1663,7 +1903,7 @@
                       id="conv-bigha"
                       oninput="convertFromBKD()"
                       placeholder="0"
-                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono"
+                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono form-input"
                     />
                   </div>
                   <div>
@@ -1673,7 +1913,7 @@
                       id="conv-kattha"
                       oninput="convertFromBKD()"
                       placeholder="0"
-                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono"
+                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono form-input"
                     />
                   </div>
                   <div>
@@ -1683,7 +1923,7 @@
                       id="conv-dhur"
                       oninput="convertFromBKD()"
                       placeholder="0"
-                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono"
+                      class="w-full p-1.5 bg-white dark:bg-slate-700 border rounded-lg text-center font-mono form-input"
                     />
                   </div>
                 </div>
@@ -1704,7 +1944,7 @@
 
           <!-- Tab 2: Concrete Mixes -->
           <div id="drawer-content-concrete" class="hidden space-y-4">
-            <div class="overflow-x-auto">
+            <div class="table-responsive">
               <table class="w-full text-left border-collapse">
                 <thead>
                   <tr class="bg-slate-100 dark:bg-slate-800 text-[11px] text-slate-500 uppercase">
@@ -4172,7 +4412,7 @@
               ? `
             <div class="p-4 bg-indigo-50/70 dark:bg-slate-800/80 rounded-xl border border-indigo-200 dark:border-indigo-900 space-y-2">
               <p class="text-xs font-bold text-indigo-900 dark:text-indigo-200">You are voting Option ${pendingVotePrompts[q.id].toUpperCase()} as the correct answer.</p>
-              <textarea id="vote-reason-${q.id}" maxlength="300" placeholder="Why is it correct? (optional - your explanation will be shown to everyone)" class="w-full p-2 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:ring-1 focus:ring-indigo-500"></textarea>
+              <textarea id="vote-reason-${q.id}" maxlength="300" placeholder="Why is it correct? (optional - your explanation will be shown to everyone)" class="w-full p-2 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:ring-1 focus:ring-indigo-500 form-input"></textarea>
               <div class="flex justify-end space-x-2">
                 <button onclick="cancelVotePrompt('${q.id}')" class="px-3 py-1.5 bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-200 text-xs rounded-lg font-medium">Cancel</button>
                 <button onclick="confirmVote('${q.id}')" class="px-4 py-1.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold rounded-lg shadow-sm">Confirm Vote</button>
@@ -4238,9 +4478,9 @@
               }
             </div>
             <div class="space-y-2 pt-2 border-t border-slate-100 dark:border-slate-800">
-              <input type="text" id="comment-name-${q.id}" value="${escapeHtml(defaultName)}" placeholder="Enter your name..." class="w-full sm:w-1/2 p-2 text-xs bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+              <input type="text" id="comment-name-${q.id}" value="${escapeHtml(defaultName)}" placeholder="Enter your name..." class="w-full sm:w-1/2 p-2 text-xs bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 form-input">
               <div class="flex gap-2 items-center">
-                <input type="text" id="comment-input-${q.id}" placeholder="Write your discussion or query..." class="flex-grow p-2 text-xs bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                <input type="text" id="comment-input-${q.id}" placeholder="Write your discussion or query..." class="flex-grow p-2 text-xs bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 form-input">
                 <button onclick="postComment('${q.id}')" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold rounded-lg shadow-sm">Post</button>
               </div>
             </div>
@@ -4273,7 +4513,7 @@
           <p class="text-slate-700 dark:text-slate-200 leading-relaxed" id="comment-text-${c.id}">${escapeHtml(c.text)}</p>
 
           <div id="comment-edit-box-${c.id}" class="hidden space-y-2 pt-1">
-            <textarea id="comment-edit-input-${c.id}" class="w-full p-2 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">${escapeHtml(c.text)}</textarea>
+            <textarea id="comment-edit-input-${c.id}" class="w-full p-2 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 form-input">${escapeHtml(c.text)}</textarea>
             <div class="flex space-x-2">
               <button onclick="saveEditComment('${qId}', '${c.id}')" class="px-2.5 py-1 bg-indigo-600 text-white rounded font-bold">Save</button>
               <button onclick="cancelEditComment('${c.id}')" class="px-2.5 py-1 bg-slate-200 dark:bg-slate-700 rounded">Cancel</button>
@@ -4305,7 +4545,7 @@
                     </div>
                     <p class="text-slate-700 dark:text-slate-200" id="reply-text-${r.id}">${escapeHtml(r.text)}</p>
                     <div id="reply-edit-box-${r.id}" class="hidden space-y-1 pt-1">
-                      <input type="text" id="reply-edit-input-${r.id}" value="${escapeHtml(r.text)}" class="w-full p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg">
+                      <input type="text" id="reply-edit-input-${r.id}" value="${escapeHtml(r.text)}" class="w-full p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg form-input">
                       <div class="flex space-x-2">
                         <button onclick="saveEditReply('${qId}', '${c.id}', '${r.id}')" class="px-2 py-0.5 bg-indigo-600 text-white rounded text-[10px]">Save</button>
                         <button onclick="cancelEditReply('${r.id}')" class="px-2 py-0.5 bg-slate-200 dark:bg-slate-700 rounded text-[10px]">Cancel</button>
@@ -4325,9 +4565,9 @@
             <button onclick="toggleHelpful('${qId}', '${c.id}')" title="Mark this comment as helpful" class="text-[11px] font-semibold transition-colors ${(c.helpfulBy || {})[getUserId()] ? 'text-emerald-600' : 'text-slate-500 hover:text-emerald-600'}">👍 Helpful (${c.helpful || 0})</button>
             <button onclick="toggleReplyBox('${c.id}')" class="text-[11px] text-indigo-600 dark:text-indigo-400 font-semibold hover:underline">Reply</button>
             <div id="reply-box-${c.id}" class="hidden w-full mt-2 space-y-2 pt-2 border-t border-slate-200 dark:border-slate-700">
-              <input type="text" id="reply-name-${c.id}" value="${escapeHtml(savedName && savedName !== 'Student' ? savedName : '')}" placeholder="Your name..." class="w-full sm:w-1/2 p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+              <input type="text" id="reply-name-${c.id}" value="${escapeHtml(savedName && savedName !== 'Student' ? savedName : '')}" placeholder="Your name..." class="w-full sm:w-1/2 p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 form-input">
               <div class="flex gap-2">
-                <input type="text" id="reply-input-${c.id}" placeholder="Write a reply..." class="flex-grow p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                <input type="text" id="reply-input-${c.id}" placeholder="Write a reply..." class="flex-grow p-1.5 text-xs bg-white dark:bg-slate-800 border rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 form-input">
                 <button onclick="postReply('${qId}', '${c.id}')" class="px-3 py-1 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs font-bold">Send</button>
               </div>
             </div>

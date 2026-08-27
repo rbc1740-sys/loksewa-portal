@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>Loksewa Prep Pro — Free Civil Engineering & GK MCQ Practice</title>
     <meta
       name="description"
@@ -172,6 +172,176 @@
       ::-webkit-scrollbar-track {
         background: transparent;
       }
+
+      /* ============================================================
+         RESPONSIVE FOUNDATION FIXES
+         ============================================================ */
+
+      /* 1. Fluid viewport for notches & safe areas */
+      @supports (padding: max(0px)) {
+        .safe-area-inset {
+          padding-left: max(1rem, env(safe-area-inset-left));
+          padding-right: max(1rem, env(safe-area-inset-right));
+          padding-top: max(1rem, env(safe-area-inset-top));
+          padding-bottom: max(1rem, env(safe-area-inset-bottom));
+        }
+      }
+
+      /* 2. Fluid typography scale */
+      :root {
+        --fs-fluid-xs: clamp(0.7rem, 0.65rem + 0.25vw, 0.875rem);
+        --fs-fluid-sm: clamp(0.8rem, 0.75rem + 0.25vw, 1rem);
+        --fs-fluid-base: clamp(0.95rem, 0.875rem + 0.375vw, 1.125rem);
+        --fs-fluid-lg: clamp(1.125rem, 1rem + 0.625vw, 1.5rem);
+        --fs-fluid-xl: clamp(1.5rem, 1.25rem + 1.25vw, 2.25rem);
+        --fs-fluid-2xl: clamp(2rem, 1.5rem + 2.5vw, 3.5rem);
+        --fs-fluid-3xl: clamp(2.5rem, 1.75rem + 3.75vw, 4.5rem);
+      }
+
+      /* 3. Fluid spacing scale */
+      :root {
+        --space-fluid-1: clamp(0.25rem, 0.2rem + 0.25vw, 0.5rem);
+        --space-fluid-2: clamp(0.5rem, 0.4rem + 0.5vw, 0.75rem);
+        --space-fluid-3: clamp(0.75rem, 0.6rem + 0.75vw, 1.25rem);
+        --space-fluid-4: clamp(1rem, 0.8rem + 1vw, 1.5rem);
+        --space-fluid-5: clamp(1.25rem, 1rem + 1.25vw, 2rem);
+        --space-fluid-6: clamp(1.5rem, 1.2rem + 1.5vw, 2.5rem);
+        --space-fluid-8: clamp(2rem, 1.5rem + 2.5vw, 3.5rem);
+      }
+
+      /* 4. Prevent horizontal overflow globally */
+      html, body {
+        max-width: 100vw;
+        overflow-x: hidden;
+      }
+
+      /* 5. Touch target minimum 44x44px */
+      button, a, input, select, textarea, [role="button"], .nav-btn {
+        min-height: 44px;
+        min-width: 44px;
+        touch-action: manipulation;
+      }
+
+      /* 6. Mobile-first card grids */
+      .card-grid {
+        display: grid;
+        gap: var(--space-fluid-4);
+        grid-template-columns: 1fr;
+      }
+
+      @media (min-width: 480px) {
+        .card-grid { grid-template-columns: repeat(2, 1fr); }
+      }
+
+      @media (min-width: 768px) {
+        .card-grid { grid-template-columns: repeat(3, 1fr); }
+      }
+
+      @media (min-width: 1024px) {
+        .card-grid { grid-template-columns: repeat(4, 1fr); }
+      }
+
+      /* 7. Fluid container widths */
+      .container-fluid {
+        width: 100%;
+        max-width: 100%;
+        padding-left: var(--space-fluid-4);
+        padding-right: var(--space-fluid-4);
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      @media (min-width: 640px) {
+        .container-fluid { max-width: 640px; padding-left: var(--space-fluid-5); padding-right: var(--space-fluid-5); }
+      }
+
+      @media (min-width: 768px) {
+        .container-fluid { max-width: 768px; padding-left: var(--space-fluid-6); padding-right: var(--space-fluid-6); }
+      }
+
+      @media (min-width: 1024px) {
+        .container-fluid { max-width: 1024px; }
+      }
+
+      @media (min-width: 1280px) {
+        .container-fluid { max-width: 1280px; }
+      }
+
+      @media (min-width: 1536px) {
+        .container-fluid { max-width: 1400px; }
+      }
+
+      /* 8. Responsive hero sections */
+      .hero-split {
+        display: grid;
+        gap: var(--space-fluid-8);
+        grid-template-columns: 1fr;
+        align-items: center;
+      }
+
+      @media (min-width: 1024px) {
+        .hero-split { grid-template-columns: 1fr 1fr; }
+      }
+
+      /* 9. Form inputs full width on mobile */
+      .form-input {
+        width: 100%;
+        min-height: 48px;
+        font-size: 16px;
+      }
+
+      @media (min-width: 640px) {
+        .form-input { min-height: 44px; }
+      }
+
+      /* 10. Reduced motion support */
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+
+      /* 11. Focus visible for keyboard navigation */
+      :focus-visible {
+        outline: 3px solid #6366f1;
+        outline-offset: 2px;
+      }
+
+      /* 12. Content visibility for performance */
+      .content-auto {
+        content-visibility: auto;
+        contain-intrinsic-size: 0 500px;
+      }
+
+      /* 13. Ensure images don't overflow */
+      img, video, canvas, svg {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      /* 14. Better tap highlight color */
+      * {
+        -webkit-tap-highlight-color: rgba(99, 102, 241, 0.2);
+      }
+
+      /* 15. Prevent text size adjustment on orientation change */
+      html {
+        -webkit-text-size-adjust: 100%;
+        text-size-adjust: 100%;
+      }
+
+      /* 16. Smooth scrolling with anchor offset for fixed header */
+      html {
+        scroll-padding-top: 80px;
+      }
+
+      @media (max-width: 640px) {
+        html { scroll-padding-top: 100px; }
+      }
     </style>
   </head>
   <body
@@ -289,7 +459,7 @@
     <main id="top">
       <section class="blueprint-grid border-b border-slate-200/80">
         <div
-          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24 grid lg:grid-cols-2 gap-14 lg:gap-10 items-center"
+          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24 grid lg:grid-cols-2 gap-14 lg:gap-10 items-center safe-area-inset"
         >
           <!-- Left: pitch -->
           <div class="space-y-7">
@@ -340,7 +510,7 @@
                   type="search"
                   name="q"
                   placeholder="Search a subject — Surveying, Hydraulics, GK..."
-                  class="w-full pl-11 pr-4 py-3.5 rounded-xl border border-slate-300 bg-white/80 text-sm text-slate-800 placeholder:text-slate-400 focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/15 transition-all"
+                  class="w-full pl-11 pr-4 py-3.5 rounded-xl border border-slate-300 bg-white/80 text-sm text-slate-800 placeholder:text-slate-400 focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/15 transition-all form-input"
                 />
               </div>
               <button
@@ -445,7 +615,7 @@
 
       <!-- ============ 3. WHAT WE OFFER ============ -->
       <section id="modes" class="py-16 sm:py-24">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
           <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
             <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700">HOW IT WORKS</span>
             <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-slate-900">
@@ -457,7 +627,7 @@
             </p>
           </div>
 
-          <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
+          <div class="card-grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
             <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
               <div class="w-11 h-11 rounded-xl bg-indigo-100 text-indigo-600 flex items-center justify-center group-hover:scale-110 transition-transform">
                 <i data-lucide="book-open" class="w-5 h-5"></i>
@@ -504,7 +674,7 @@
       <!-- ============ 4. PREP TRACKS ============ -->
       <section id="tracks" class="relative bg-slate-900 py-16 sm:py-24 overflow-hidden">
         <div class="absolute inset-0 blueprint-grid-dark" aria-hidden="true"></div>
-        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
           <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
             <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-400/40 bg-indigo-500/10 text-indigo-300">QUESTION BANK</span>
             <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-white">
@@ -516,7 +686,7 @@
             </p>
           </div>
 
-          <div class="grid md:grid-cols-3 gap-5">
+          <div class="card-grid md:grid-cols-3 gap-5">
             <div class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300">
               <div class="flex items-center justify-between">
                 <span class="sheet-tag text-indigo-300">TRACK-01</span>
@@ -536,7 +706,7 @@
             <div class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300">
               <div class="flex items-center justify-between">
                 <span class="sheet-tag text-indigo-300">TRACK-02</span>
-                <i data-lucide="ruler" class="w-5 h-5 text-indigo-400"></i>
+                <i data-lucide="ruler" class="w-5 h-5 text-indigo-400"></i>1
               </div>
               <h3 class="font-display text-lg font-black text-white">Surveying &amp; Hydraulics</h3>
               <p class="text-sm text-slate-400 leading-relaxed">
@@ -580,7 +750,7 @@
 
       <!-- ============ 5. TESTIMONIALS ============ -->
       <section id="reviews" class="py-16 sm:py-24">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
           <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
             <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700">FIELD NOTES</span>
             <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-slate-900">
@@ -591,7 +761,7 @@
             </p>
           </div>
 
-          <div class="grid md:grid-cols-3 gap-5">
+          <div class="card-grid md:grid-cols-3 gap-5">
             <div class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300">
               <i data-lucide="quote" class="w-7 h-7 text-indigo-200"></i>
               <p class="text-sm text-slate-600 leading-relaxed">
@@ -642,7 +812,7 @@
 
       <!-- ============ 6. CTA BAND ============ -->
       <section class="pb-16 sm:pb-24">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
           <div
             class="relative gradient-brand rounded-3xl overflow-hidden px-6 py-14 sm:py-16 text-center shadow-2xl shadow-indigo-600/30"
           >
@@ -670,8 +840,8 @@
 
     <!-- ============ 7. FOOTER ============ -->
     <footer class="border-t border-slate-200 bg-slate-50">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
-        <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 safe-area-inset">
+        <div class="card-grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
           <!-- Brand -->
           <div class="space-y-4">
             <div class="flex items-center gap-3">
@@ -718,7 +888,7 @@
               <input
                 type="email"
                 placeholder="you@example.com"
-                class="flex-1 min-w-0 px-3.5 py-2.5 rounded-xl border border-slate-300 bg-white text-sm focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/15 transition-all"
+                class="flex-1 min-w-0 px-3.5 py-2.5 rounded-xl border border-slate-300 bg-white text-sm focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/15 transition-all form-input"
               />
               <button
                 type="submit"
@@ -734,7 +904,7 @@
 
       <div class="border-t border-slate-200">
         <div
-          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-400"
+          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-400 safe-area-inset"
         >
           <p>© 2026 Loksewa Prep Pro. Free forever for Loksewa aspirants.</p>
           <div class="flex items-center gap-5 font-semibold">

@@ -51,5 +51,126 @@ service cloud.firestore {
                     && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['guest','guestUid','guestScore','hostScore','status']);
       allow delete: if false;
     }
+
+    // ---- User profiles (mobile app): strictly owner-scoped ----
+    // Document id == Firebase Auth uid. Created on first sign-in by the app.
+    match /users/{userId} {
+      function isOwner() {
+        return request.auth != null && request.auth.uid == userId;
+      }
+
+      allow get, list: if isOwner();
+
+      // createdAt/updatedAt are written with serverTimestamp() by the client,
+      // which rules see as `request.time` - this proves they weren't forged.
+      allow create: if isOwner()
+                    && request.resource.data.createdAt == request.time
+                    && request.resource.data.updatedAt == request.time;
+
+      // The creation timestamp is immutable after the fact.
+      allow update: if isOwner()
+                    && request.resource.data.createdAt == resource.data.createdAt;
+
+      // Owner may remove their own profile when deleting their account.
+      allow delete: if isOwner();
+    }
+
+    // ---- Mobile sync-pipeline collections (Phase 6) ----
+    // The offline outbox (src/services/sync.ts) upserts these collections with
+    // doc ids derived from the owner's uid, and every payload carries user_id.
+    // Ownership is enforced on BOTH the stored row and the post-merge doc:
+    // `request.resource.data` is the document as it will be after the
+    // merge:true write, so `.get('user_id', resource.data.user_id)` inherits
+    // the owner from the existing row for partial updates (e.g. bookmark tag
+    // edits whose local payload is only { id, tags_json }).
+
+    // Per-question tables: doc id MUST be `${uid}_${questionId}`.
+    match /user_progress/{docId} {
+      function ownedQuestionDoc() {
+        return request.auth != null
+          && request.resource.data.user_id == request.auth.uid
+          && docId == request.auth.uid + '_' + request.resource.data.question_id;
+      }
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if ownedQuestionDoc();
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    match /sr_state/{docId} {
+      function ownedQuestionDoc() {
+        return request.auth != null
+          && request.resource.data.user_id == request.auth.uid
+          && docId == request.auth.uid + '_' + request.resource.data.question_id;
+      }
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if ownedQuestionDoc();
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    match /bookmarks/{docId} {
+      function ownedQuestionDoc() {
+        return request.auth != null
+          && request.resource.data.get('user_id', resource.data.user_id) == request.auth.uid
+          && (request.resource.data.question_id == null
+              || docId == request.auth.uid + '_' + request.resource.data.question_id);
+      }
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if ownedQuestionDoc();
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    match /weak_points/{docId} {
+      function ownedQuestionDoc() {
+        return request.auth != null
+          && request.resource.data.get('user_id', resource.data.user_id) == request.auth.uid
+          && (request.resource.data.question_id == null
+              || docId == request.auth.uid + '_' + request.resource.data.question_id);
+      }
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if ownedQuestionDoc();
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    // User profile mirror (mobile) — doc id == uid, like /users above.
+    match /user_profile/{docId} {
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid
+        && docId == request.auth.uid;
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    // Exam sessions: insert on start, update on submit (both owner-scoped).
+    match /exam_sessions/{sessionDocId} {
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid;
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    // Exam history: immutable graded attempts (INSERT-only — the idempotent
+    // submit pipeline writes exactly one row per session). No update/delete.
+    match /exam_history/{attemptDocId} {
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid
+        && attemptDocId == request.resource.data.user_id + '_eh_' + request.resource.data.session_id;
+      allow update, delete: if false;
+    }
+
+    // Battle sessions (per-user battle stats) — owner-scoped.
+    match /battle_sessions/{battleDocId} {
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid;
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    // ---- Everything else: denied by default ----
+    // Firestore already denies unmatched paths; stated explicitly so future
+    // collections require a conscious decision rather than an accident.
+    match /{document=**} {
+      allow read, write: if false;
+    }
   }
 }
