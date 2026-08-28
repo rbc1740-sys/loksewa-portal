@@ -4,8 +4,27 @@
 import { View, Text, StyleSheet, Animated, Easing, TouchableOpacity } from 'react-native';
 import { CheckCircle, AlertCircle, Info, X } from 'lucide-react-native';
 import { useRef, useEffect, useState } from 'react';
+import { spacing, radius } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
+import type { ThemeColors } from '../../constants/theme';
 
 export type ToastType = 'success' | 'error' | 'info' | 'warning';
+
+function getToastColors(
+  t: ThemeColors,
+  type: ToastType
+): { bg: string; text: string; icon: string } {
+  switch (type) {
+    case 'success':
+      return { bg: t.successSoft, text: t.success, icon: t.success };
+    case 'error':
+      return { bg: t.errorSoft, text: t.error, icon: t.error };
+    case 'warning':
+      return { bg: t.warningSoft, text: t.warning, icon: t.warning };
+    default:
+      return { bg: t.infoSoft, text: t.info, icon: t.info };
+  }
+}
 
 interface ToastProps {
   visible: boolean;
@@ -23,13 +42,6 @@ const ICONS: Record<ToastType, React.ElementType> = {
   warning: AlertCircle,
 };
 
-const COLORS: Record<ToastType, { bg: string; text: string; icon: string }> = {
-  success: { bg: '#ecfdf5', text: '#059669', icon: '#10b981' },
-  error: { bg: '#fef2f2', text: '#dc2626', icon: '#ef4444' },
-  info: { bg: '#eff6ff', text: '#2563eb', icon: '#3b82f6' },
-  warning: { bg: '#fffbeb', text: '#d97706', icon: '#f59e0b' },
-};
-
 export function Toast({
   visible,
   message,
@@ -38,6 +50,7 @@ export function Toast({
   duration = 4000,
   position = 'top',
 }: ToastProps) {
+  const t = useTheme();
   const [show, setShow] = useState(false);
   const translateY = useRef(new Animated.Value(-100)).current;
   const opacity = useRef(new Animated.Value(0)).current;
@@ -93,7 +106,7 @@ export function Toast({
 
   if (!show) return null;
 
-  const colors = COLORS[type];
+  const colors = getToastColors(t, type);
   const IconComponent = ICONS[type];
 
   const animatedStyle = {
@@ -133,11 +146,11 @@ export function Toast({
 const styles = StyleSheet.create({
   container: {
     position: 'absolute',
-    left: 16,
-    right: 16,
-    borderRadius: 12,
-    paddingHorizontal: 16,
-    paddingVertical: 12,
+    left: spacing.md,
+    right: spacing.md,
+    borderRadius: radius.md,
+    paddingHorizontal: spacing.md,
+    paddingVertical: spacing.sm + 2,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.1,

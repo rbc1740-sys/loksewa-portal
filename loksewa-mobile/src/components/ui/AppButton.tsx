@@ -11,7 +11,8 @@ import {
   View,
   ViewStyle,
 } from 'react-native';
-import { radius, spacing, themes, typography } from '../../constants/theme';
+import { radius, spacing, typography } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 type Variant = 'primary' | 'secondary' | 'ghost' | 'danger';
 type Size = 'sm' | 'md';
@@ -37,7 +38,7 @@ export function AppButton({
   fullWidth = false,
   icon,
 }: AppButtonProps) {
-  const t = themes.light;
+  const t = useTheme();
   const blocked = disabled || loading;
 
   const bg =

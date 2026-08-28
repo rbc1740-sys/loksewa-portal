@@ -1,4 +1,4 @@
-name: CI Pipeline
+﻿name: CI Pipeline
 
 on:
   push:
@@ -101,7 +101,7 @@ jobs:
         run: npm ci
       
       - name: Install Playwright browsers
-        run: npx playwright install --with-deps chromium
+        run: npx playwright install --with-deps
       
       - name: Run E2E tests
         run: npm run test:e2e
@@ -202,11 +202,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Java (Firestore emulator requires a JRE)
+      - name: Setup Java (Firestore emulator requires a JRE, firebase-tools needs 21+)
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
-          java-version: '17'
+          java-version: '21'
 
       - name: Setup Node.js
         uses: actions/setup-node@v4

@@ -39,7 +39,8 @@
     <style>
       /* ---- Blueprint / technical-drawing motif ---- */
       .blueprint-grid {
-        background-image: linear-gradient(rgba(79, 70, 229, 0.15) 1px, transparent 1px),
+        background-image:
+          linear-gradient(rgba(79, 70, 229, 0.15) 1px, transparent 1px),
           linear-gradient(90deg, rgba(79, 70, 229, 0.15) 1px, transparent 1px),
           linear-gradient(rgba(79, 70, 229, 0.07) 1px, transparent 1px),
           linear-gradient(90deg, rgba(79, 70, 229, 0.07) 1px, transparent 1px);
@@ -51,7 +52,8 @@
       }
 
       .blueprint-grid-dark {
-        background-image: linear-gradient(rgba(165, 180, 252, 0.1) 1px, transparent 1px),
+        background-image:
+          linear-gradient(rgba(165, 180, 252, 0.1) 1px, transparent 1px),
           linear-gradient(90deg, rgba(165, 180, 252, 0.1) 1px, transparent 1px),
           linear-gradient(rgba(165, 180, 252, 0.05) 1px, transparent 1px),
           linear-gradient(90deg, rgba(165, 180, 252, 0.05) 1px, transparent 1px);
@@ -63,7 +65,8 @@
       }
 
       .blueprint-grid-light {
-        background-image: linear-gradient(rgba(255, 255, 255, 0.16) 1px, transparent 1px),
+        background-image:
+          linear-gradient(rgba(255, 255, 255, 0.16) 1px, transparent 1px),
           linear-gradient(90deg, rgba(255, 255, 255, 0.16) 1px, transparent 1px),
           linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px),
           linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
@@ -210,13 +213,20 @@
       }
 
       /* 4. Prevent horizontal overflow globally */
-      html, body {
+      html,
+      body {
         max-width: 100vw;
         overflow-x: hidden;
       }
 
       /* 5. Touch target minimum 44x44px */
-      button, a, input, select, textarea, [role="button"], .nav-btn {
+      button,
+      a,
+      input,
+      select,
+      textarea,
+      [role='button'],
+      .nav-btn {
         min-height: 44px;
         min-width: 44px;
         touch-action: manipulation;
@@ -230,15 +240,21 @@
       }
 
       @media (min-width: 480px) {
-        .card-grid { grid-template-columns: repeat(2, 1fr); }
+        .card-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
       }
 
       @media (min-width: 768px) {
-        .card-grid { grid-template-columns: repeat(3, 1fr); }
+        .card-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
       }
 
       @media (min-width: 1024px) {
-        .card-grid { grid-template-columns: repeat(4, 1fr); }
+        .card-grid {
+          grid-template-columns: repeat(4, 1fr);
+        }
       }
 
       /* 7. Fluid container widths */
@@ -252,23 +268,37 @@
       }
 
       @media (min-width: 640px) {
-        .container-fluid { max-width: 640px; padding-left: var(--space-fluid-5); padding-right: var(--space-fluid-5); }
+        .container-fluid {
+          max-width: 640px;
+          padding-left: var(--space-fluid-5);
+          padding-right: var(--space-fluid-5);
+        }
       }
 
       @media (min-width: 768px) {
-        .container-fluid { max-width: 768px; padding-left: var(--space-fluid-6); padding-right: var(--space-fluid-6); }
+        .container-fluid {
+          max-width: 768px;
+          padding-left: var(--space-fluid-6);
+          padding-right: var(--space-fluid-6);
+        }
       }
 
       @media (min-width: 1024px) {
-        .container-fluid { max-width: 1024px; }
+        .container-fluid {
+          max-width: 1024px;
+        }
       }
 
       @media (min-width: 1280px) {
-        .container-fluid { max-width: 1280px; }
+        .container-fluid {
+          max-width: 1280px;
+        }
       }
 
       @media (min-width: 1536px) {
-        .container-fluid { max-width: 1400px; }
+        .container-fluid {
+          max-width: 1400px;
+        }
       }
 
       /* 8. Responsive hero sections */
@@ -280,7 +310,9 @@
       }
 
       @media (min-width: 1024px) {
-        .hero-split { grid-template-columns: 1fr 1fr; }
+        .hero-split {
+          grid-template-columns: 1fr 1fr;
+        }
       }
 
       /* 9. Form inputs full width on mobile */
@@ -291,12 +323,16 @@
       }
 
       @media (min-width: 640px) {
-        .form-input { min-height: 44px; }
+        .form-input {
+          min-height: 44px;
+        }
       }
 
       /* 10. Reduced motion support */
       @media (prefers-reduced-motion: reduce) {
-        *, *::before, *::after {
+        *,
+        *::before,
+        *::after {
           animation-duration: 0.01ms !important;
           animation-iteration-count: 1 !important;
           transition-duration: 0.01ms !important;
@@ -317,7 +353,10 @@
       }
 
       /* 13. Ensure images don't overflow */
-      img, video, canvas, svg {
+      img,
+      video,
+      canvas,
+      svg {
         max-width: 100%;
         height: auto;
         display: block;
@@ -340,7 +379,9 @@
       }
 
       @media (max-width: 640px) {
-        html { scroll-padding-top: 100px; }
+        html {
+          scroll-padding-top: 100px;
+        }
       }
     </style>
   </head>
@@ -495,8 +536,8 @@
 
             <p class="text-slate-600 text-base sm:text-lg leading-relaxed max-w-xl">
               A free, no-paywall MCQ portal for Nepal's Civil Engineering and General Knowledge
-              Loksewa aspirants — past questions, timed mocks, spaced repetition and 1v1 duels,
-              all in one place.
+              Loksewa aspirants — past questions, timed mocks, spaced repetition and 1v1 duels, all
+              in one place.
             </p>
 
             <!-- Search -->
@@ -523,7 +564,9 @@
             </form>
 
             <!-- Stat callouts with dimension lines -->
-            <div class="flex flex-wrap items-start gap-x-8 gap-y-6 pt-3 sm:divide-x divide-slate-200">
+            <div
+              class="flex flex-wrap items-start gap-x-8 gap-y-6 pt-3 sm:divide-x divide-slate-200"
+            >
               <div class="dimension-line sm:pr-8">
                 <p class="font-display text-2xl font-black text-slate-900">1,000+</p>
                 <p class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mt-1">
@@ -563,23 +606,41 @@
               </div>
 
               <div class="space-y-2.5">
-                <div class="flex items-center gap-3 p-3 rounded-xl border-2 border-emerald-500 bg-emerald-50">
-                  <span class="w-6 h-6 rounded-full bg-emerald-500 text-white flex items-center justify-center shrink-0">
+                <div
+                  class="flex items-center gap-3 p-3 rounded-xl border-2 border-emerald-500 bg-emerald-50"
+                >
+                  <span
+                    class="w-6 h-6 rounded-full bg-emerald-500 text-white flex items-center justify-center shrink-0"
+                  >
                     <i data-lucide="check" class="w-3.5 h-3.5"></i>
                   </span>
-                  <span class="text-sm font-bold text-emerald-900">Compressive strength of concrete</span>
+                  <span class="text-sm font-bold text-emerald-900"
+                    >Compressive strength of concrete</span
+                  >
                 </div>
-                <div class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50/60">
-                  <span class="w-6 h-6 rounded-full border-2 border-slate-300 text-slate-400 text-xs font-bold flex items-center justify-center shrink-0">B</span>
+                <div
+                  class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50/60"
+                >
+                  <span
+                    class="w-6 h-6 rounded-full border-2 border-slate-300 text-slate-400 text-xs font-bold flex items-center justify-center shrink-0"
+                    >B</span
+                  >
                   <span class="text-sm text-slate-500">Modular ratio of steel</span>
                 </div>
-                <div class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50/60">
-                  <span class="w-6 h-6 rounded-full border-2 border-slate-300 text-slate-400 text-xs font-bold flex items-center justify-center shrink-0">C</span>
+                <div
+                  class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50/60"
+                >
+                  <span
+                    class="w-6 h-6 rounded-full border-2 border-slate-300 text-slate-400 text-xs font-bold flex items-center justify-center shrink-0"
+                    >C</span
+                  >
                   <span class="text-sm text-slate-500">Permissible stress in steel</span>
                 </div>
               </div>
 
-              <div class="pt-4 border-t border-dashed border-slate-300 flex items-center justify-between">
+              <div
+                class="pt-4 border-t border-dashed border-slate-300 flex items-center justify-between"
+              >
                 <span class="sheet-tag text-slate-500 flex items-center gap-1.5">
                   <i data-lucide="timer" class="w-3.5 h-3.5 text-amber-600"></i>
                   01:45 REMAINING
@@ -591,7 +652,9 @@
             </div>
 
             <!-- Floating stat chips -->
-            <div class="hidden sm:flex float-slow absolute -top-1 -right-3 lg:-right-6 items-center gap-2.5 bg-white rounded-xl border border-slate-200 shadow-lg shadow-slate-950/5 px-3.5 py-2.5">
+            <div
+              class="hidden sm:flex float-slow absolute -top-1 -right-3 lg:-right-6 items-center gap-2.5 bg-white rounded-xl border border-slate-200 shadow-lg shadow-slate-950/5 px-3.5 py-2.5"
+            >
               <div class="p-2 rounded-lg bg-amber-100 text-amber-700">
                 <i data-lucide="target" class="w-4 h-4"></i>
               </div>
@@ -600,7 +663,9 @@
                 <p class="text-[10px] text-slate-500 mt-1">Top scorers avg.</p>
               </div>
             </div>
-            <div class="hidden sm:flex float-slower absolute -bottom-2 -left-3 lg:-left-8 items-center gap-2.5 bg-white rounded-xl border border-slate-200 shadow-lg shadow-slate-950/5 px-3.5 py-2.5">
+            <div
+              class="hidden sm:flex float-slower absolute -bottom-2 -left-3 lg:-left-8 items-center gap-2.5 bg-white rounded-xl border border-slate-200 shadow-lg shadow-slate-950/5 px-3.5 py-2.5"
+            >
               <div class="p-2 rounded-lg bg-indigo-100 text-indigo-700">
                 <i data-lucide="flame" class="w-4 h-4"></i>
               </div>
@@ -617,7 +682,10 @@
       <section id="modes" class="py-16 sm:py-24">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
           <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
-            <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700">HOW IT WORKS</span>
+            <span
+              class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700"
+              >HOW IT WORKS</span
+            >
             <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-slate-900">
               Study modes built to spec.
             </h2>
@@ -628,8 +696,12 @@
           </div>
 
           <div class="card-grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
-            <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
-              <div class="w-11 h-11 rounded-xl bg-indigo-100 text-indigo-600 flex items-center justify-center group-hover:scale-110 transition-transform">
+            <div
+              class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300"
+            >
+              <div
+                class="w-11 h-11 rounded-xl bg-indigo-100 text-indigo-600 flex items-center justify-center group-hover:scale-110 transition-transform"
+              >
                 <i data-lucide="book-open" class="w-5 h-5"></i>
               </div>
               <h3 class="font-display font-black text-slate-900">Objective Practice</h3>
@@ -638,8 +710,12 @@
               </p>
             </div>
 
-            <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
-              <div class="w-11 h-11 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center group-hover:scale-110 transition-transform">
+            <div
+              class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300"
+            >
+              <div
+                class="w-11 h-11 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center group-hover:scale-110 transition-transform"
+              >
                 <i data-lucide="timer" class="w-5 h-5"></i>
               </div>
               <h3 class="font-display font-black text-slate-900">Timed Exams</h3>
@@ -648,8 +724,12 @@
               </p>
             </div>
 
-            <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
-              <div class="w-11 h-11 rounded-xl bg-rose-100 text-rose-600 flex items-center justify-center group-hover:scale-110 transition-transform">
+            <div
+              class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300"
+            >
+              <div
+                class="w-11 h-11 rounded-xl bg-rose-100 text-rose-600 flex items-center justify-center group-hover:scale-110 transition-transform"
+              >
                 <i data-lucide="swords" class="w-5 h-5"></i>
               </div>
               <h3 class="font-display font-black text-slate-900">1v1 Battle Arena</h3>
@@ -658,8 +738,12 @@
               </p>
             </div>
 
-            <div class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300">
-              <div class="w-11 h-11 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center group-hover:scale-110 transition-transform">
+            <div
+              class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300"
+            >
+              <div
+                class="w-11 h-11 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center group-hover:scale-110 transition-transform"
+              >
                 <i data-lucide="refresh-cw" class="w-5 h-5"></i>
               </div>
               <h3 class="font-display font-black text-slate-900">Spaced Review</h3>
@@ -676,50 +760,72 @@
         <div class="absolute inset-0 blueprint-grid-dark" aria-hidden="true"></div>
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
           <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
-            <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-400/40 bg-indigo-500/10 text-indigo-300">QUESTION BANK</span>
+            <span
+              class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-400/40 bg-indigo-500/10 text-indigo-300"
+              >QUESTION BANK</span
+            >
             <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-white">
               Pick a track, not a price tag.
             </h2>
             <p class="text-slate-400 leading-relaxed">
-              Every question in every track is free — no accounts, no paywalls, no locked
-              sections.
+              Every question in every track is free — no accounts, no paywalls, no locked sections.
             </p>
           </div>
 
           <div class="card-grid md:grid-cols-3 gap-5">
-            <div class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300">
+            <div
+              class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300"
+            >
               <div class="flex items-center justify-between">
                 <span class="sheet-tag text-indigo-300">TRACK-01</span>
                 <i data-lucide="building-2" class="w-5 h-5 text-indigo-400"></i>
               </div>
-              <h3 class="font-display text-lg font-black text-white">Structural &amp; RCC Design</h3>
+              <h3 class="font-display text-lg font-black text-white">
+                Structural &amp; RCC Design
+              </h3>
               <p class="text-sm text-slate-400 leading-relaxed">
                 Beams, columns, foundations, concrete technology and limit-state design questions
                 from past papers.
               </p>
-              <a href="app.html" class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group">
+              <a
+                href="app.html"
+                class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group"
+              >
                 Start track
-                <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+                <i
+                  data-lucide="arrow-right"
+                  class="w-4 h-4 group-hover:translate-x-1 transition-transform"
+                ></i>
               </a>
             </div>
 
-            <div class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300">
+            <div
+              class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300"
+            >
               <div class="flex items-center justify-between">
                 <span class="sheet-tag text-indigo-300">TRACK-02</span>
                 <i data-lucide="ruler" class="w-5 h-5 text-indigo-400"></i>1
               </div>
               <h3 class="font-display text-lg font-black text-white">Surveying &amp; Hydraulics</h3>
               <p class="text-sm text-slate-400 leading-relaxed">
-                Chain surveying to total stations, plus flow through pipes, channels and
-                hydraulic machines.
+                Chain surveying to total stations, plus flow through pipes, channels and hydraulic
+                machines.
               </p>
-              <a href="app.html" class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group">
+              <a
+                href="app.html"
+                class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group"
+              >
                 Start track
-                <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+                <i
+                  data-lucide="arrow-right"
+                  class="w-4 h-4 group-hover:translate-x-1 transition-transform"
+                ></i>
               </a>
             </div>
 
-            <div class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300">
+            <div
+              class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300"
+            >
               <div class="flex items-center justify-between">
                 <span class="sheet-tag text-indigo-300">TRACK-03</span>
                 <i data-lucide="globe" class="w-5 h-5 text-indigo-400"></i>
@@ -729,9 +835,15 @@
                 Nepal's constitution, geography, history, current affairs and public-service
                 awareness.
               </p>
-              <a href="app.html" class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group">
+              <a
+                href="app.html"
+                class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group"
+              >
                 Start track
-                <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+                <i
+                  data-lucide="arrow-right"
+                  class="w-4 h-4 group-hover:translate-x-1 transition-transform"
+                ></i>
               </a>
             </div>
           </div>
@@ -752,7 +864,10 @@
       <section id="reviews" class="py-16 sm:py-24">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
           <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
-            <span class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700">FIELD NOTES</span>
+            <span
+              class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700"
+              >FIELD NOTES</span
+            >
             <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-slate-900">
               Our students are our biggest fans.
             </h2>
@@ -762,14 +877,19 @@
           </div>
 
           <div class="card-grid md:grid-cols-3 gap-5">
-            <div class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300">
+            <div
+              class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300"
+            >
               <i data-lucide="quote" class="w-7 h-7 text-indigo-200"></i>
               <p class="text-sm text-slate-600 leading-relaxed">
                 "The timed exam mode felt exactly like the real paper. I walked into the exam hall
                 knowing exactly what to expect."
               </p>
               <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
-                <span class="w-10 h-10 rounded-full bg-indigo-600 text-white text-xs font-black flex items-center justify-center">SP</span>
+                <span
+                  class="w-10 h-10 rounded-full bg-indigo-600 text-white text-xs font-black flex items-center justify-center"
+                  >SP</span
+                >
                 <div>
                   <p class="text-sm font-bold text-slate-900">Sujata P.</p>
                   <p class="text-xs text-slate-500">Civil Engineering candidate</p>
@@ -777,14 +897,19 @@
               </div>
             </div>
 
-            <div class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300">
+            <div
+              class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300"
+            >
               <i data-lucide="quote" class="w-7 h-7 text-emerald-200"></i>
               <p class="text-sm text-slate-600 leading-relaxed">
-                "Spaced review fixed my weak areas in weeks. My mock scores jumped from 55% to
-                82% before the mains."
+                "Spaced review fixed my weak areas in weeks. My mock scores jumped from 55% to 82%
+                before the mains."
               </p>
               <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
-                <span class="w-10 h-10 rounded-full bg-emerald-600 text-white text-xs font-black flex items-center justify-center">BT</span>
+                <span
+                  class="w-10 h-10 rounded-full bg-emerald-600 text-white text-xs font-black flex items-center justify-center"
+                  >BT</span
+                >
                 <div>
                   <p class="text-sm font-bold text-slate-900">Bikash T.</p>
                   <p class="text-xs text-slate-500">Sub-Engineer aspirant</p>
@@ -792,14 +917,19 @@
               </div>
             </div>
 
-            <div class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300">
+            <div
+              class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300"
+            >
               <i data-lucide="quote" class="w-7 h-7 text-amber-200"></i>
               <p class="text-sm text-slate-600 leading-relaxed">
                 "Finally a free portal that doesn't hide the question bank behind a paywall.
                 Everything is just… open. Respect."
               </p>
               <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
-                <span class="w-10 h-10 rounded-full bg-amber-500 text-white text-xs font-black flex items-center justify-center">AK</span>
+                <span
+                  class="w-10 h-10 rounded-full bg-amber-500 text-white text-xs font-black flex items-center justify-center"
+                  >AK</span
+                >
                 <div>
                   <p class="text-sm font-bold text-slate-900">Anisha K.</p>
                   <p class="text-xs text-slate-500">GK section topper</p>
@@ -822,8 +952,8 @@
                 Ready to prepare with confidence?
               </h2>
               <p class="text-indigo-100 leading-relaxed">
-                Open the portal and start your first practice set in seconds — no sign-up, no
-                cost, no catch.
+                Open the portal and start your first practice set in seconds — no sign-up, no cost,
+                no catch.
               </p>
               <a
                 href="app.html"
@@ -851,8 +981,8 @@
               <span class="font-display font-black text-slate-900">Loksewa Prep Pro</span>
             </div>
             <p class="text-sm text-slate-500 leading-relaxed">
-              A free MCQ practice portal built for Nepal's Civil Engineering and General
-              Knowledge Loksewa aspirants. Study, drill, compete — and walk in with confidence.
+              A free MCQ practice portal built for Nepal's Civil Engineering and General Knowledge
+              Loksewa aspirants. Study, drill, compete — and walk in with confidence.
             </p>
           </div>
 
@@ -861,9 +991,15 @@
             <h3 class="sheet-tag text-slate-400 uppercase mb-4">Navigation</h3>
             <ul class="space-y-2.5 text-sm font-semibold text-slate-600">
               <li><a href="#top" class="hover:text-indigo-600 transition-colors">Home</a></li>
-              <li><a href="#modes" class="hover:text-indigo-600 transition-colors">Study Modes</a></li>
-              <li><a href="#tracks" class="hover:text-indigo-600 transition-colors">Question Bank</a></li>
-              <li><a href="#reviews" class="hover:text-indigo-600 transition-colors">Reviews</a></li>
+              <li>
+                <a href="#modes" class="hover:text-indigo-600 transition-colors">Study Modes</a>
+              </li>
+              <li>
+                <a href="#tracks" class="hover:text-indigo-600 transition-colors">Question Bank</a>
+              </li>
+              <li>
+                <a href="#reviews" class="hover:text-indigo-600 transition-colors">Reviews</a>
+              </li>
             </ul>
           </div>
 
@@ -871,10 +1007,20 @@
           <div>
             <h3 class="sheet-tag text-slate-400 uppercase mb-4">Resources</h3>
             <ul class="space-y-2.5 text-sm font-semibold text-slate-600">
-              <li><a href="app.html" class="hover:text-indigo-600 transition-colors">Practice App</a></li>
-              <li><a href="app.html" class="hover:text-indigo-600 transition-colors">Question Bank</a></li>
-              <li><a href="app.html" class="hover:text-indigo-600 transition-colors">Timed Exams</a></li>
-              <li><a href="app.html" class="hover:text-indigo-600 transition-colors">Progress Dashboard</a></li>
+              <li>
+                <a href="app.html" class="hover:text-indigo-600 transition-colors">Practice App</a>
+              </li>
+              <li>
+                <a href="app.html" class="hover:text-indigo-600 transition-colors">Question Bank</a>
+              </li>
+              <li>
+                <a href="app.html" class="hover:text-indigo-600 transition-colors">Timed Exams</a>
+              </li>
+              <li>
+                <a href="app.html" class="hover:text-indigo-600 transition-colors"
+                  >Progress Dashboard</a
+                >
+              </li>
             </ul>
           </div>
 
@@ -884,7 +1030,7 @@
             <p class="text-sm text-slate-500 mb-3">
               Get new question drops and exam-date reminders.
             </p>
-            <form onsubmit="return false" class="flex gap-2">
+            <form onsubmit="return false;" class="flex gap-2">
               <input
                 type="email"
                 placeholder="you@example.com"

@@ -5,7 +5,8 @@
  */
 import React, { useEffect, useRef } from 'react';
 import { Animated, Easing, StyleSheet, View } from 'react-native';
-import { radius, spacing, themes, typography } from '../../constants/theme';
+import { radius, spacing, typography } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 export function Skeleton({
   width,
@@ -16,6 +17,7 @@ export function Skeleton({
   height?: number;
   style?: object;
 }) {
+  const t = useTheme();
   const pulse = useRef(new Animated.Value(0.5)).current;
 
   useEffect(() => {
@@ -33,7 +35,7 @@ export function Skeleton({
     <Animated.View
       style={[
         styles.block,
-        { width: width ?? '100%', height, opacity: pulse },
+        { width: width ?? '100%', height, opacity: pulse, backgroundColor: t.skeleton },
         style,
       ]}
     />
@@ -42,9 +44,9 @@ export function Skeleton({
 
 /** Matches an AppCard-shaped content block. */
 export function SkeletonCard({ lines = 3 }: { lines?: number }) {
-  const t = themes.light;
+  const t = useTheme();
   return (
-    <View style={styles.card}>
+    <View style={[styles.card, { backgroundColor: t.surface, borderColor: t.border }]}>
       <Skeleton width="45%" height={typography.cardTitle.fontSize} />
       <View style={styles.gapSm} />
       {Array.from({ length: lines }).map((_, i) => (
@@ -59,18 +61,13 @@ export function SkeletonCard({ lines = 3 }: { lines?: number }) {
   );
 }
 
-const t = themes.light;
-
 const styles = StyleSheet.create({
   block: {
-    backgroundColor: t.skeleton,
     borderRadius: radius.sm,
   },
   card: {
-    backgroundColor: t.surface,
     borderRadius: radius.lg,
     borderWidth: StyleSheet.hairlineWidth,
-    borderColor: t.border,
     padding: spacing.md,
     marginBottom: spacing.sm,
   },

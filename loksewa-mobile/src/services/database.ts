@@ -1243,6 +1243,25 @@ export async function getAttemptStats(
   return { attempted, correct, wrong: Math.max(0, attempted - correct) };
 }
 
+/**
+ * Attempts made today (local calendar), for the Home daily-goal ring.
+ * Reads the same central progress table as getAttemptStats so no screen ever
+ * keeps its own separate tally (master-prompt rule 31).
+ */
+export async function getAttemptsToday(userId: string): Promise<{ attempted: number; correct: number }> {
+  const database = await getDatabase();
+  const startOfDay = new Date();
+  startOfDay.setHours(0, 0, 0, 0);
+  const row = await database.getFirstAsync<{ attempted: number; correct: number }>(
+    `SELECT COUNT(*) as attempted,
+            COALESCE(SUM(CASE WHEN is_correct = 1 THEN 1 ELSE 0 END), 0) as correct
+     FROM ${PROGRESS_TABLE}
+     WHERE user_id = ? AND last_attempted_at >= ?`,
+    userId, startOfDay.getTime()
+  );
+  return { attempted: row?.attempted ?? 0, correct: row?.correct ?? 0 };
+}
+
 // ==================== SR stage / bookmark / flag question lists ====================
 
 export type SRStageFilter = 'due' | 'learning' | 'review' | 'mastered';

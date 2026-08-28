@@ -4,7 +4,8 @@
  */
 import React from 'react';
 import { Pressable, PressableProps, StyleSheet, StyleProp, View, ViewStyle } from 'react-native';
-import { elevation, radius, spacing, themes } from '../../constants/theme';
+import { elevation, radius, spacing } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 interface AppCardProps extends Omit<PressableProps, 'style'> {
   children: React.ReactNode;
@@ -23,11 +24,12 @@ export function AppCard({
   onPress,
   ...rest
 }: AppCardProps) {
+  const t = useTheme();
   const base: ViewStyle = {
-    backgroundColor: themes.light.surface,
+    backgroundColor: t.surface,
     borderRadius: radius.lg,
     borderWidth: StyleSheet.hairlineWidth,
-    borderColor: themes.light.border,
+    borderColor: t.border,
     paddingHorizontal: padded ? spacing.md : 0,
     paddingVertical: padded ? spacing.md : 0,
     ...(elevated ? elevation.card : null),
@@ -38,7 +40,7 @@ export function AppCard({
       <Pressable
         style={({ pressed }) => [base, style, pressed && { opacity: 0.85 }]}
         onPress={onPress}
-        android_ripple={{ color: themes.light.surfaceMuted }}
+        android_ripple={{ color: t.surfaceMuted }}
         {...rest}
       >
         {children}

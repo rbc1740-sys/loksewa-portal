@@ -69,11 +69,11 @@ describe('Firebase Integration Tests (Mocked)', () => {
     it('should add comment to Firestore', async () => {
       const mockCommentRef = {};
       const mockBatch = { set: vi.fn(), commit: vi.fn().mockResolvedValue(undefined) };
-      
+
       mockWriteBatch.mockReturnValue(mockBatch);
       mockDoc.mockReturnValue(mockCommentRef);
       mockCollection.mockReturnValue({});
-      
+
       // Simulate the addComment function logic
       const commentData = {
         questionId: 'q1',
@@ -82,20 +82,23 @@ describe('Firebase Integration Tests (Mocked)', () => {
         userName: 'Test User',
         ts: Date.now(),
       };
-      
+
       const batch = mockWriteBatch(mockDb);
       const commentRef = mockDoc(mockCollection(mockDb, 'comments'));
       batch.set(commentRef, { ...commentData, createdAt: mockServerTimestamp() });
       await batch.commit();
-      
+
       expect(mockWriteBatch).toHaveBeenCalledWith(mockDb);
       expect(mockDoc).toHaveBeenCalled();
       expect(mockCollection).toHaveBeenCalledWith(mockDb, 'comments');
-      expect(batch.set).toHaveBeenCalledWith(commentRef, expect.objectContaining({
-        questionId: 'q1',
-        text: 'Test comment',
-        userId: 'user1',
-      }));
+      expect(batch.set).toHaveBeenCalledWith(
+        commentRef,
+        expect.objectContaining({
+          questionId: 'q1',
+          text: 'Test comment',
+          userId: 'user1',
+        })
+      );
       expect(batch.commit).toHaveBeenCalled();
     });
 
@@ -106,19 +109,19 @@ describe('Firebase Integration Tests (Mocked)', () => {
           { id: 'c2', data: () => ({ questionId: 'q1', text: 'Comment 2', userId: 'user2' }) },
         ],
       };
-      
+
       mockGetDocs.mockResolvedValue(mockSnapshot);
-      
+
       // Simulate fetch logic
       const commentsQuery = mockQuery(
         mockCollection(mockDb, 'comments'),
         mockWhere('questionId', '==', 'q1'),
         mockOrderBy('ts', 'desc')
       );
-      
+
       const snapshot = await mockGetDocs(commentsQuery);
       const comments = snapshot.docs.map(d => ({ id: d.id, ...d.data() }));
-      
+
       expect(mockQuery).toHaveBeenCalled();
       expect(mockWhere).toHaveBeenCalledWith('questionId', '==', 'q1');
       expect(mockOrderBy).toHaveBeenCalledWith('ts', 'desc');
@@ -129,14 +132,14 @@ describe('Firebase Integration Tests (Mocked)', () => {
     it('should listen to real-time comment updates', () => {
       const mockUnsubscribe = vi.fn();
       mockOnSnapshot.mockReturnValue(mockUnsubscribe);
-      
+
       const unsubscribe = mockOnSnapshot(
         mockQuery(mockCollection(mockDb, 'comments'), mockWhere('questionId', '==', 'q1')),
-        (snapshot) => {
+        snapshot => {
           // Handle updates
         }
       );
-      
+
       expect(mockOnSnapshot).toHaveBeenCalled();
       expect(typeof unsubscribe).toBe('function');
     });
@@ -145,23 +148,23 @@ describe('Firebase Integration Tests (Mocked)', () => {
   describe('Vote Operations', () => {
     it('should cast vote with transaction', async () => {
       const mockTransaction = {
-        get: vi.fn().mockResolvedValue({ 
-          exists: () => true, 
-          data: () => ({ counts: { a: 5 }, voters: { user1: 'a' } }) 
+        get: vi.fn().mockResolvedValue({
+          exists: () => true,
+          data: () => ({ counts: { a: 5 }, voters: { user1: 'a' } }),
         }),
         update: vi.fn(),
         set: vi.fn(),
       };
-      
+
       mockRunTransaction.mockImplementation(async (db, callback) => {
         await callback(mockTransaction);
       });
-      
+
       // Simulate vote logic
-      await mockRunTransaction(mockDb, async (transaction) => {
+      await mockRunTransaction(mockDb, async transaction => {
         const voteRef = mockDoc(mockDb, 'votes', 'q1');
         const voteDoc = await transaction.get(voteRef);
-        
+
         if (voteDoc.exists()) {
           transaction.update(voteRef, {
             'counts.a': 6,
@@ -174,7 +177,7 @@ describe('Firebase Integration Tests (Mocked)', () => {
           });
         }
       });
-      
+
       expect(mockRunTransaction).toHaveBeenCalled();
       expect(mockTransaction.get).toHaveBeenCalled();
       expect(mockTransaction.update).toHaveBeenCalled();
@@ -187,7 +190,7 @@ describe('Firebase Integration Tests (Mocked)', () => {
         if (attempts < 3) throw new Error('Transaction failed');
         await callback({ get: vi.fn(), update: vi.fn(), set: vi.fn() });
       });
-      
+
       // Simulate retry logic
       let success = false;
       for (let i = 0; i < 5; i++) {
@@ -199,7 +202,7 @@ describe('Firebase Integration Tests (Mocked)', () => {
           if (i === 4) throw e;
         }
       }
-      
+
       expect(success).toBe(true);
       expect(attempts).toBe(3);
     });
@@ -210,48 +213,48 @@ describe('Firebase Integration Tests (Mocked)', () => {
       const mockBatch = { update: vi.fn(), commit: vi.fn().mockResolvedValue(undefined) };
       mockWriteBatch.mockReturnValue(mockBatch);
       mockDoc.mockReturnValue({});
-      
+
       // Simulate flag toggle
       const flagRef = mockDoc(mockDb, 'flags', 'q1');
       const batch = mockWriteBatch(mockDb);
       batch.update(flagRef, {
         'flaggedBy.user1': 'irrelevant',
-        'irrelevant': 1,
+        irrelevant: 1,
       });
       await batch.commit();
-      
+
       expect(batch.update).toHaveBeenCalled();
       expect(batch.commit).toHaveBeenCalled();
     });
 
     it('should remove flag when toggling same flag', async () => {
       const mockTransaction = {
-        get: vi.fn().mockResolvedValue({ 
-          exists: () => true, 
-          data: () => ({ flaggedBy: { user1: 'irrelevant' }, irrelevant: 1 }) 
+        get: vi.fn().mockResolvedValue({
+          exists: () => true,
+          data: () => ({ flaggedBy: { user1: 'irrelevant' }, irrelevant: 1 }),
         }),
         update: vi.fn(),
       };
-      
+
       mockRunTransaction.mockImplementation(async (db, callback) => {
         await callback(mockTransaction);
       });
-      
-      await mockRunTransaction(mockDb, async (transaction) => {
+
+      await mockRunTransaction(mockDb, async transaction => {
         const flagRef = mockDoc(mockDb, 'flags', 'q1');
         const flagDoc = await transaction.get(flagRef);
-        
+
         if (flagDoc.exists()) {
           const data = flagDoc.data();
           if (data.flaggedBy['user1'] === 'irrelevant') {
             transaction.update(flagRef, {
               'flaggedBy.user1': 'deleteField',
-              'irrelevant': 0,
+              irrelevant: 0,
             });
           }
         }
       });
-      
+
       expect(mockTransaction.update).toHaveBeenCalled();
     });
   });
@@ -262,9 +265,9 @@ describe('Firebase Integration Tests (Mocked)', () => {
       mockWriteBatch.mockReturnValue(mockBatch);
       mockDoc.mockReturnValue({});
       mockCollection.mockReturnValue({});
-      
+
       const weakPoints = new Set(['q1', 'q2', 'q3']);
-      
+
       // Simulate sync
       const batch = mockWriteBatch(mockDb);
       weakPoints.forEach(id => {
@@ -272,7 +275,7 @@ describe('Firebase Integration Tests (Mocked)', () => {
         batch.set(weakRef, { questionId: id, userId: 'user1', timestamp: mockServerTimestamp() });
       });
       await batch.commit();
-      
+
       expect(batch.set).toHaveBeenCalledTimes(3);
     });
 
@@ -283,12 +286,14 @@ describe('Firebase Integration Tests (Mocked)', () => {
           { id: 'q2', data: () => ({ questionId: 'q2' }) },
         ],
       };
-      
+
       mockGetDocs.mockResolvedValue(mockSnapshot);
-      
-      const snapshot = await mockGetDocs(mockQuery(mockCollection(mockDb, 'weakPoints'), mockWhere('userId', '==', 'user1')));
+
+      const snapshot = await mockGetDocs(
+        mockQuery(mockCollection(mockDb, 'weakPoints'), mockWhere('userId', '==', 'user1'))
+      );
       const weakPoints = new Set(snapshot.docs.map(d => d.data().questionId));
-      
+
       expect(weakPoints).toEqual(new Set(['q1', 'q2']));
     });
   });
@@ -299,19 +304,19 @@ describe('Firebase Integration Tests (Mocked)', () => {
       mockWriteBatch.mockReturnValue(mockBatch);
       mockDoc.mockReturnValue({});
       mockCollection.mockReturnValue({});
-      
+
       const bookmarks = new Map([
         ['q1', { tags: ['important'], timestamp: Date.now(), note: 'Note 1' }],
         ['q2', { tags: ['difficult', 'review'], timestamp: Date.now(), note: '' }],
       ]);
-      
+
       const batch = mockWriteBatch(mockDb);
       bookmarks.forEach((data, id) => {
         const bookmarkRef = mockDoc(mockCollection(mockDb, 'bookmarks'), id);
         batch.set(bookmarkRef, { questionId: id, userId: 'user1', ...data });
       });
       await batch.commit();
-      
+
       expect(batch.set).toHaveBeenCalledTimes(2);
       expect(batch.set).toHaveBeenCalledWith(
         expect.anything(),
@@ -323,7 +328,7 @@ describe('Firebase Integration Tests (Mocked)', () => {
   describe('Error Handling', () => {
     it('should handle permission errors gracefully', async () => {
       mockGetDoc.mockRejectedValue(new Error('Permission denied'));
-      
+
       try {
         await mockGetDoc(mockDoc(mockDb, 'comments', 'q1'));
       } catch (error) {
@@ -333,10 +338,10 @@ describe('Firebase Integration Tests (Mocked)', () => {
 
     it('should handle network errors with offline fallback', async () => {
       mockGetDoc.mockRejectedValue(new Error('Network error'));
-      
+
       // Simulate offline fallback
       let offlineData = { counts: { a: 5 } };
-      
+
       try {
         await mockGetDoc(mockDoc(mockDb, 'votes', 'q1'));
       } catch (error) {

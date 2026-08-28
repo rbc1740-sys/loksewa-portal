@@ -1,7 +1,8 @@
 /** SectionHeader — consistent section titles with optional action (rule 45). */
 import React from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
-import { spacing, typography, themes } from '../../constants/theme';
+import { spacing, typography } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 interface SectionHeaderProps {
   title: string;
@@ -11,11 +12,12 @@ interface SectionHeaderProps {
 }
 
 export function SectionHeader({ title, subtitle, actionLabel, onActionPress }: SectionHeaderProps) {
+  const t = useTheme();
   return (
     <View style={styles.row}>
       <View style={styles.textCol}>
-        <Text style={styles.title}>{title}</Text>
-        {subtitle ? <Text style={styles.subtitle}>{subtitle}</Text> : null}
+        <Text style={[styles.title, { color: t.textPrimary }]}>{title}</Text>
+        {subtitle ? <Text style={[styles.subtitle, { color: t.textSecondary }]}>{subtitle}</Text> : null}
       </View>
       {actionLabel && onActionPress ? (
         <Pressable
@@ -25,14 +27,12 @@ export function SectionHeader({ title, subtitle, actionLabel, onActionPress }: S
           accessibilityRole="button"
           accessibilityLabel={actionLabel}
         >
-          <Text style={styles.action}>{actionLabel}</Text>
+          <Text style={[styles.action, { color: t.secondary }]}>{actionLabel}</Text>
         </Pressable>
       ) : null}
     </View>
   );
 }
-
-const t = themes.light;
 
 const styles = StyleSheet.create({
   row: {
@@ -46,16 +46,13 @@ const styles = StyleSheet.create({
   title: {
     ...typography.sectionTitle,
     fontWeight: '700',
-    color: t.textPrimary,
   },
   subtitle: {
     ...typography.caption,
-    color: t.textSecondary,
     marginTop: 2,
   },
   action: {
     ...typography.bodySmall,
-    color: t.secondary,
     fontWeight: '600',
   },
 });

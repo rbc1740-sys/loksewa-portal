@@ -24,11 +24,10 @@ import {
   throttle,
   SR_EASE_MIN,
   SR_EASE_DEFAULT,
-  SR_INTERVALS
+  SR_INTERVALS,
 } from '../../src/core-logic.js';
 
 describe('Core Logic Unit Tests', () => {
-  
   describe('normalizeForComparison', () => {
     it('should normalize text correctly', () => {
       expect(normalizeForComparison('Hello World')).toBe('hello world');
@@ -45,7 +44,7 @@ describe('Core Logic Unit Tests', () => {
       const q1 = { question: 'What is 2+2?', options: { a: '3', b: '4', c: '5', d: '6' } };
       const q2 = { question: 'What is 2+2?', options: { a: '4', b: '3', c: '5', d: '6' } };
       const q3 = { question: 'What is 3+3?', options: { a: '3', b: '4', c: '5', d: '6' } };
-      
+
       expect(getQuestionSignature(q1)).not.toBe(getQuestionSignature(q3));
       expect(getQuestionSignature(q1)).toBe(getQuestionSignature(q2)); // Same options, different order
     });
@@ -122,7 +121,7 @@ describe('Core Logic Unit Tests', () => {
     it('should update SR state correctly for correct answer', () => {
       const srData = {};
       const result = updateSRState(srData, 'q1', true);
-      
+
       expect(result.q1).toBeDefined();
       expect(result.q1.interval).toBe(1);
       expect(result.q1.attempts).toBe(1);
@@ -132,7 +131,7 @@ describe('Core Logic Unit Tests', () => {
     it('should reset SR state for incorrect answer', () => {
       const srData = { q1: { interval: 30, ease: 2.5, attempts: 5, due: Date.now() + 1000000 } };
       const result = updateSRState(srData, 'q1', false);
-      
+
       expect(result.q1.interval).toBe(0);
       expect(result.q1.attempts).toBe(0);
       expect(result.q1.due).toBeLessThanOrEqual(Date.now() + 1000); // Due immediately
@@ -141,7 +140,7 @@ describe('Core Logic Unit Tests', () => {
     it('should preserve other questions SR data', () => {
       const srData = { q1: { interval: 10, ease: 2.5, attempts: 2, due: Date.now() + 1000000 } };
       const result = updateSRState(srData, 'q2', true);
-      
+
       expect(result.q1).toEqual(srData.q1);
       expect(result.q2).toBeDefined();
     });
@@ -155,7 +154,7 @@ describe('Core Logic Unit Tests', () => {
         q2: { due: now + 1000 }, // Future
         q3: { due: now }, // Due now
       };
-      
+
       const due = getDueQuestions(srData);
       expect(due).toContain('q1');
       expect(due).toContain('q3');
@@ -164,7 +163,7 @@ describe('Core Logic Unit Tests', () => {
   });
 
   describe('matchesTopicSelection', () => {
-    const mockGetTopicCategory = (topic) => {
+    const mockGetTopicCategory = topic => {
       const gk = ['Geography of Nepal', 'History of Nepal'];
       return gk.includes(topic) ? 'general' : 'technical';
     };
@@ -250,12 +249,12 @@ describe('Core Logic Unit Tests', () => {
       { id: 'q3', topic: 'Structural Engineering' },
     ];
     const userAnswers = { q1: 'a', q2: 'b' };
-    const getTopicCategory = (t) => t === 'Structural Engineering' ? 'technical' : 'general';
+    const getTopicCategory = t => (t === 'Structural Engineering' ? 'technical' : 'general');
     const getDueQuestions = () => ['q1'];
 
     it('should calculate stats correctly', () => {
       const stats = getOverallStats(mcqs, userAnswers, getTopicCategory, getDueQuestions);
-      
+
       expect(stats.totalQuestions).toBe(3);
       expect(stats.totalAttempted).toBe(2);
       expect(stats.gkQuestions).toBe(2);
@@ -272,7 +271,7 @@ describe('Core Logic Unit Tests', () => {
         { id: 'q2', topic: 'History', lastAttempted: 2000 },
         { id: 'q3', topic: 'Structural', lastAttempted: 1500 },
       ];
-      
+
       expect(getLastStudiedTopic(mcqs)).toBe('History');
     });
 
@@ -281,7 +280,7 @@ describe('Core Logic Unit Tests', () => {
         { id: 'q1', topic: 'Geography' },
         { id: 'q2', topic: 'History' },
       ];
-      
+
       expect(getLastStudiedTopic(mcqs)).toBeNull();
     });
   });
@@ -293,7 +292,7 @@ describe('Core Logic Unit Tests', () => {
         { id: 'q2', lastAttempted: 2000 },
         { id: 'q3', lastAttempted: 1500 },
       ];
-      
+
       expect(getMostRecentAttemptTime(mcqs)).toBe(2000);
     });
 
@@ -347,7 +346,7 @@ describe('Core Logic Unit Tests', () => {
     it('should add tag to bookmark', () => {
       bookmarks.set('q1', { tags: [], timestamp: Date.now(), note: '' });
       const result = addTagToBookmark(bookmarks, userTags, 'q1', 'important');
-      
+
       expect(result.bookmarks.get('q1').tags).toContain('important');
       expect(result.userTags.has('important')).toBe(true);
     });
@@ -356,7 +355,7 @@ describe('Core Logic Unit Tests', () => {
       bookmarks.set('q1', { tags: ['important'], timestamp: Date.now(), note: '' });
       userTags.add('important');
       const result = addTagToBookmark(bookmarks, userTags, 'q1', 'important');
-      
+
       expect(result.bookmarks.get('q1').tags).toHaveLength(1);
     });
 
@@ -364,9 +363,9 @@ describe('Core Logic Unit Tests', () => {
       bookmarks.set('q1', { tags: ['important', 'difficult'], timestamp: Date.now(), note: '' });
       userTags.add('important');
       userTags.add('difficult');
-      
+
       const result = removeTagFromBookmark(bookmarks, userTags, 'q1', 'important');
-      
+
       expect(result.bookmarks.get('q1').tags).not.toContain('important');
       expect(result.bookmarks.get('q1').tags).toContain('difficult');
       expect(result.userTags.has('important')).toBe(false);
@@ -376,16 +375,16 @@ describe('Core Logic Unit Tests', () => {
     it('should remove tag from userTags when no longer used', () => {
       bookmarks.set('q1', { tags: ['unique-tag'], timestamp: Date.now(), note: '' });
       userTags.add('unique-tag');
-      
+
       const result = removeTagFromBookmark(bookmarks, userTags, 'q1', 'unique-tag');
-      
+
       expect(result.userTags.has('unique-tag')).toBe(false);
     });
 
     it('should update bookmark note', () => {
       bookmarks.set('q1', { tags: [], timestamp: Date.now(), note: '' });
       const result = updateBookmarkNote(bookmarks, 'q1', 'This is a note');
-      
+
       expect(result.get('q1').note).toBe('This is a note');
     });
 
@@ -397,7 +396,7 @@ describe('Core Logic Unit Tests', () => {
       ];
       bookmarks.set('q1', { tags: [], timestamp: Date.now(), note: '' });
       bookmarks.set('q3', { tags: [], timestamp: Date.now(), note: '' });
-      
+
       const result = getBookmarkedQuestions(mcqs, bookmarks);
       expect(result).toHaveLength(2);
       expect(result.map(q => q.id)).toEqual(['q1', 'q3']);
@@ -412,7 +411,7 @@ describe('Core Logic Unit Tests', () => {
       bookmarks.set('q1', { tags: ['important'], timestamp: Date.now(), note: '' });
       bookmarks.set('q2', { tags: ['important', 'difficult'], timestamp: Date.now(), note: '' });
       bookmarks.set('q3', { tags: ['difficult'], timestamp: Date.now(), note: '' });
-      
+
       const result = getQuestionsByTag(mcqs, bookmarks, 'important');
       expect(result).toHaveLength(2);
       expect(result.map(q => q.id)).toEqual(['q1', 'q2']);
@@ -437,15 +436,15 @@ describe('Core Logic Unit Tests', () => {
     it('should delay function execution', async () => {
       const fn = vi.fn();
       const debounced = debounce(fn, 100);
-      
+
       debounced();
       debounced();
       debounced();
-      
+
       expect(fn).not.toHaveBeenCalled();
-      
+
       await new Promise(resolve => setTimeout(resolve, 150));
-      
+
       expect(fn).toHaveBeenCalledTimes(1);
     });
   });
@@ -454,15 +453,15 @@ describe('Core Logic Unit Tests', () => {
     it('should limit function execution rate', async () => {
       const fn = vi.fn();
       const throttled = throttle(fn, 100);
-      
+
       throttled();
       throttled();
       throttled();
-      
+
       expect(fn).toHaveBeenCalledTimes(1);
-      
+
       await new Promise(resolve => setTimeout(resolve, 150));
-      
+
       throttled();
       expect(fn).toHaveBeenCalledTimes(2);
     });

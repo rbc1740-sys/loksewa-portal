@@ -215,6 +215,20 @@ export const elevation = {
     shadowOffset: { width: 0, height: 4 },
     elevation: 4,
   },
+  sheet: {
+    shadowColor: palette.navy950,
+    shadowOpacity: 0.18,
+    shadowRadius: 24,
+    shadowOffset: { width: 0, height: -6 },
+    elevation: 12,
+  },
+  modal: {
+    shadowColor: palette.navy950,
+    shadowOpacity: 0.2,
+    shadowRadius: 20,
+    shadowOffset: { width: 0, height: 8 },
+    elevation: 10,
+  },
 } as const;
 
 export const touchTarget = 48;

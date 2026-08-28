@@ -1,8 +1,15 @@
 /**
  * OptionCard Component - For displaying MCQ options in various modes
+ *
+ * Fully theme-driven (rule 28): every state reads its colors from the design
+ * tokens, so light/dark both render deliberately. State is communicated by
+ * icon AND color (rule 10), never color alone.
  */
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { Check, X } from 'lucide-react-native';
+import { radius, spacing, touchTarget, typography } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
+import type { ThemeColors } from '../../constants/theme';
 
 export type OptionState = 'idle' | 'selected' | 'correct' | 'wrong' | 'disabled';
 
@@ -17,6 +24,77 @@ interface OptionCardProps {
   style?: object;
 }
 
+interface OptionTheme {
+  bg: string;
+  border: string;
+  borderWidth: number;
+  text: string;
+  textWeight: '400' | '600';
+  letterBg: string;
+  letterText: string;
+  icon: 'none' | 'check' | 'cross';
+}
+
+function optionTheme(t: ThemeColors, state: OptionState): OptionTheme {
+  switch (state) {
+    case 'selected':
+      return {
+        bg: t.optionSelectedBg,
+        border: t.optionSelectedBorder,
+        borderWidth: 2,
+        text: t.secondary,
+        textWeight: '600',
+        letterBg: t.secondary,
+        letterText: t.textOnPrimary,
+        icon: 'none',
+      };
+    case 'correct':
+      return {
+        bg: t.optionCorrectBg,
+        border: t.optionCorrectBorder,
+        borderWidth: 2,
+        text: t.success,
+        textWeight: '600',
+        letterBg: t.success,
+        letterText: '#FFFFFF',
+        icon: 'check',
+      };
+    case 'wrong':
+      return {
+        bg: t.optionWrongBg,
+        border: t.optionWrongBorder,
+        borderWidth: 2,
+        text: t.error,
+        textWeight: '600',
+        letterBg: t.error,
+        letterText: '#FFFFFF',
+        icon: 'cross',
+      };
+    case 'disabled':
+      return {
+        bg: t.optionIdleBg,
+        border: t.optionIdleBorder,
+        borderWidth: 1,
+        text: t.textTertiary,
+        textWeight: '400',
+        letterBg: t.surfaceMuted,
+        letterText: t.textTertiary,
+        icon: 'none',
+      };
+    default:
+      return {
+        bg: t.optionIdleBg,
+        border: t.optionIdleBorder,
+        borderWidth: 1,
+        text: t.textPrimary,
+        textWeight: '400',
+        letterBg: t.surfaceMuted,
+        letterText: t.textSecondary,
+        icon: 'none',
+      };
+  }
+}
+
 export function OptionCard({
   key: optionKey,
   text,
@@ -27,73 +105,47 @@ export function OptionCard({
   letter,
   style,
 }: OptionCardProps) {
-  const getStyles = () => {
-    const base = [styles.option, style];
-    switch (state) {
-      case 'selected':
-        return [...base, styles.selected];
-      case 'correct':
-        return [...base, styles.correct];
-      case 'wrong':
-        return [...base, styles.wrong];
-      case 'disabled':
-        return [...base, styles.disabled];
-      default:
-        return base;
-    }
-  };
-
-  const getTextStyles = () => {
-    const base = [styles.text];
-    switch (state) {
-      case 'selected':
-        return [...base, styles.selectedText];
-      case 'correct':
-        return [...base, styles.correctText];
-      case 'wrong':
-        return [...base, styles.wrongText];
-      case 'disabled':
-        return [...base, styles.disabledText];
-      default:
-        return base;
-    }
-  };
-
-  const getLetterStyles = () => {
-    const base = [styles.letter];
-    switch (state) {
-      case 'selected':
-        return [...base, styles.selectedLetter];
-      case 'correct':
-        return [...base, styles.correctLetter];
-      case 'wrong':
-        return [...base, styles.wrongLetter];
-      default:
-        return base;
-    }
-  };
-
-  const renderIcon = () => {
-    if (state === 'correct') return <Check size={20} color="#10b981" />;
-    if (state === 'wrong') return <X size={20} color="#ef4444" />;
-    return null;
-  };
+  const t = useTheme();
+  const theme = optionTheme(t, state);
+  const isBlocked = disabled || state === 'correct' || state === 'wrong';
 
   return (
     <TouchableOpacity
       key={optionKey}
-      style={getStyles()}
+      style={[
+        styles.option,
+        {
+          backgroundColor: theme.bg,
+          borderColor: theme.border,
+          borderWidth: theme.borderWidth,
+          opacity: state === 'disabled' ? 0.6 : 1,
+        },
+        style,
+      ]}
       onPress={onPress}
-      disabled={disabled || state === 'correct' || state === 'wrong'}
+      disabled={isBlocked}
       activeOpacity={0.8}
+      accessibilityRole="radio"
+      accessibilityState={{ checked: state === 'selected', disabled: isBlocked }}
+      accessibilityLabel={`Option ${letter ? letter.toUpperCase() : ''}: ${text}`}
     >
       {showLetter && letter && (
-        <View style={getLetterStyles()}>
-          <Text style={styles.letterText}>{letter.toUpperCase()}</Text>
+        <View style={[styles.letter, { backgroundColor: theme.letterBg }]}>
+          <Text style={[styles.letterText, { color: theme.letterText }]}>
+            {letter.toUpperCase()}
+          </Text>
         </View>
       )}
-      <Text style={getTextStyles()}>{text}</Text>
-      {renderIcon()}
+      <Text
+        style={[
+          styles.text,
+          { color: theme.text, fontWeight: theme.textWeight },
+        ]}
+      >
+        {text}
+      </Text>
+      {theme.icon === 'check' && <Check size={20} color={t.success} />}
+      {theme.icon === 'cross' && <X size={20} color={t.error} />}
     </TouchableOpacity>
   );
 }
@@ -102,74 +154,26 @@ const styles = StyleSheet.create({
   option: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#f8fafc',
-    borderRadius: 12,
-    borderWidth: 1,
-    borderColor: '#e2e8f0',
-    paddingHorizontal: 16,
-    paddingVertical: 14,
-    gap: 12,
-    minHeight: 56,
-  },
-  selected: {
-    backgroundColor: '#eef2ff',
-    borderColor: '#6366f1',
-    borderWidth: 2,
-  },
-  correct: {
-    backgroundColor: '#ecfdf5',
-    borderColor: '#10b981',
-    borderWidth: 2,
-  },
-  wrong: {
-    backgroundColor: '#fef2f2',
-    borderColor: '#ef4444',
-    borderWidth: 2,
-  },
-  disabled: {
-    opacity: 0.6,
+    borderRadius: radius.md,
+    paddingHorizontal: spacing.md,
+    paddingVertical: spacing.sm + 2,
+    gap: spacing.sm,
+    minHeight: touchTarget,
   },
   letter: {
     width: 28,
     height: 28,
-    borderRadius: 8,
-    backgroundColor: '#e2e8f0',
+    borderRadius: radius.sm,
     justifyContent: 'center',
     alignItems: 'center',
     flexShrink: 0,
   },
-  selectedLetter: {
-    backgroundColor: '#6366f1',
-  },
-  correctLetter: {
-    backgroundColor: '#10b981',
-  },
-  wrongLetter: {
-    backgroundColor: '#ef4444',
-  },
   letterText: {
     fontSize: 13,
     fontWeight: '700',
-    color: '#64748b',
   },
   text: {
     flex: 1,
-    fontSize: 15,
-    color: '#0f172a',
-    lineHeight: 22,
-  },
-  selectedText: {
-    color: '#4f46e5',
-    fontWeight: '600',
-  },
-  correctText: {
-    color: '#059669',
-    fontWeight: '600',
-  },
-  wrongText: {
-    color: '#dc2626',
-  },
-  disabledText: {
-    color: '#94a3b8',
+    ...typography.body,
   },
 });

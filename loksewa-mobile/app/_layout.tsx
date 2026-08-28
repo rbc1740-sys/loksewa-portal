@@ -1,7 +1,10 @@
 import { Slot } from 'expo-router';
 import React, { useEffect, useRef, useState } from 'react';
 import { View, Text, ActivityIndicator, StyleSheet } from 'react-native';
+import { StatusBar } from 'expo-status-bar';
 import { useAuthStore } from '../src/stores/authStore';
+import { useSettingsStore } from '../src/stores/settingsStore';
+import { useTheme } from '../src/hooks/useTheme';
 import { ensureQuestionBankSeeded } from '../src/services/database';
 import { useCourseStore } from '../src/stores/courseStore';
 import { startSyncWorker, type SyncWorkerHandle } from '../src/services/syncWorker';
@@ -10,10 +13,18 @@ import { restoreFromCloud } from '../src/services/cloudRestore';
 export default function RootLayout() {
   const hydrate = useAuthStore((state) => state.hydrate);
   const initialized = useAuthStore((state) => state.initialized);
+  const hydrateSettings = useSettingsStore((state) => state.hydrate);
   const [seeded, setSeeded] = useState(false);
+  const t = useTheme();
 
   // Subscribe to Firebase auth state once; `hydrate` returns the unsubscribe.
   useEffect(() => hydrate(), [hydrate]);
+
+  // Load persisted user preferences (theme mode, daily goal) before screens
+  // render so the first frame already has the correct theme.
+  useEffect(() => {
+    hydrateSettings().catch((e) => console.warn('[Boot] Settings hydration skipped:', e));
+  }, [hydrateSettings]);
 
   // Copy the bundled question bank into SQLite on first launch (offline-first).
   useEffect(() => {
@@ -71,21 +82,28 @@ export default function RootLayout() {
   // question database is prepared.
   if (!initialized || !seeded) {
     return (
-      <View style={styles.splash}>
-        <ActivityIndicator size="large" color="#6366f1" />
-        <Text style={styles.splashText}>Loksewa Prep Pro</Text>
-        <Text style={styles.splashSub}>Preparing your study material…</Text>
+      <View style={[styles.splash, { backgroundColor: t.background }]}>
+        <StatusBar style={t.dark ? 'light' : 'dark'} />
+        <ActivityIndicator size="large" color={t.secondary} />
+        <Text style={[styles.splashText, { color: t.secondary }]}>Loksewa Prep Pro</Text>
+        <Text style={[styles.splashSub, { color: t.textTertiary }]}>
+          Preparing your study material…
+        </Text>
       </View>
     );
   }
 
-  return <Slot />;
+  return (
+    <>
+      <StatusBar style={t.dark ? 'light' : 'dark'} />
+      <Slot />
+    </>
+  );
 }
 
 const styles = StyleSheet.create({
   splash: {
     flex: 1,
-    backgroundColor: '#f8fafc',
     alignItems: 'center',
     justifyContent: 'center',
     gap: 12,
@@ -94,11 +112,9 @@ const styles = StyleSheet.create({
   splashText: {
     fontSize: 18,
     fontWeight: '700',
-    color: '#6366f1',
   },
   splashSub: {
     fontSize: 13,
-    color: '#94a3b8',
     textAlign: 'center',
   },
 });

@@ -1,7 +1,20 @@
 // ESLint Config for Loksewa Portal
 export default [
   {
-    ignores: ['node_modules/', 'dist/', 'build/', 'tests/', '*.config.js', 'playwright-report/', 'src/', 'firebase-config.js', 'index.html', 'app.html', 'sw.js', 'coverage/'],
+    ignores: [
+      'node_modules/',
+      'dist/',
+      'build/',
+      'tests/',
+      '*.config.js',
+      'playwright-report/',
+      'src/',
+      'firebase-config.js',
+      'index.html',
+      'app.html',
+      'sw.js',
+      'coverage/',
+    ],
   },
   {
     files: ['*.js', '*.mjs'],
@@ -19,19 +32,19 @@ export default [
       'no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],
       'no-undef': 'off',
       'no-console': ['warn', { allow: ['warn', 'error', 'info'] }],
-      
+
       // Best Practices
       'no-eval': 'error',
       'no-implied-eval': 'error',
       'no-new-func': 'error',
       'no-script-url': 'error',
-      
+
       // Style
-      'eqeqeq': ['error', 'always', { null: 'ignore' }],
-      'curly': ['error', 'all'],
+      eqeqeq: ['error', 'always', { null: 'ignore' }],
+      curly: ['error', 'all'],
       'brace-style': ['error', '1tbs', { allowSingleLine: true }],
-      'semi': ['error', 'always'],
-      'quotes': ['error', 'single', { avoidEscape: true }],
+      semi: ['error', 'always'],
+      quotes: ['error', 'single', { avoidEscape: true }],
       'comma-dangle': ['error', 'always-multiline'],
       'object-curly-spacing': ['error', 'always'],
       'array-bracket-spacing': ['error', 'never'],
@@ -39,13 +52,16 @@ export default [
       'key-spacing': ['error', { beforeColon: false, afterColon: true }],
       'keyword-spacing': ['error', { before: true, after: true }],
       'space-before-blocks': 'error',
-      'space-before-function-paren': ['error', { named: 'never', anonymous: 'always', asyncArrow: 'always' }],
-      
+      'space-before-function-paren': [
+        'error',
+        { named: 'never', anonymous: 'always', asyncArrow: 'always' },
+      ],
+
       // Complexity
       'max-nested-callbacks': ['warn', 4],
       'max-depth': ['warn', 4],
-      'complexity': ['warn', 20],
-      
+      complexity: ['warn', 20],
+
       // ES6+
       'prefer-const': 'error',
       'no-var': 'error',

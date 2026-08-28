@@ -3,10 +3,11 @@
  * Deterministic back behavior via router.back() (rule 60); theme tokens only.
  */
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { useRouter } from 'expo-router';
 import { ChevronLeft } from 'lucide-react-native';
-import { radius, spacing, themes, typography } from '../../constants/theme';
+import { radius, spacing, typography } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 interface ScreenHeaderProps {
   title: string;
@@ -16,21 +17,26 @@ interface ScreenHeaderProps {
 
 export function ScreenHeader({ title, subtitle, right }: ScreenHeaderProps) {
   const router = useRouter();
-  const t = themes.light;
+  const t = useTheme();
 
   return (
     <View style={[styles.wrap, { backgroundColor: t.surface, borderBottomColor: t.border }]}>
       <View style={styles.row}>
-        <View
-          style={[styles.backButton, { backgroundColor: t.surfaceMuted }]}
+        <Pressable
+          style={({ pressed }) => [
+            styles.backButton,
+            { backgroundColor: t.surfaceMuted },
+            pressed && { opacity: 0.6 },
+          ]}
           accessibilityRole="button"
           accessibilityLabel="Go back"
-          onTouchEnd={() => {
+          onPress={() => {
             if (router.canDismiss()) router.back();
           }}
+          hitSlop={8}
         >
           <ChevronLeft size={22} color={t.textPrimary} />
-        </View>
+        </Pressable>
         <View style={styles.titles}>
           <Text numberOfLines={1} style={[styles.title, { color: t.textPrimary }]}>
             {title}
@@ -46,8 +52,6 @@ export function ScreenHeader({ title, subtitle, right }: ScreenHeaderProps) {
     </View>
   );
 }
-
-const t = themes.light;
 
 const styles = StyleSheet.create({
   wrap: {

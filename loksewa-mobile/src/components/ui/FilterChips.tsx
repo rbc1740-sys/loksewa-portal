@@ -3,6 +3,8 @@
  */
 import { View, Text, TouchableOpacity, StyleSheet, ScrollView } from 'react-native';
 import { useMemo } from 'react';
+import { radius, spacing, typography } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 export interface FilterChip {
   key: string;
@@ -34,6 +36,7 @@ export function FilterChips({
   resetLabel = 'Reset',
   onReset,
 }: FilterChipsProps) {
+  const t = useTheme();
   const isSelected = useMemo(() => {
     if (allowMultiple) {
       return (key: string) => selectedKeys.includes(key);
@@ -59,17 +62,41 @@ export function FilterChips({
         key={index}
         style={[
           styles.chip,
-          selected && styles.chipActive,
+          { backgroundColor: t.surfaceMuted, borderColor: t.border },
+          selected && { backgroundColor: t.secondary, borderColor: t.secondary },
           chip.count !== undefined && styles.chipWithCount,
         ]}
         onPress={() => handlePress(chip)}
+        accessibilityRole="button"
+        accessibilityState={{ selected }}
+        accessibilityLabel={chip.label}
       >
         <View style={styles.chipContent}>
           {chip.icon && <Text style={styles.chipIcon}>{chip.icon}</Text>}
-          <Text style={[styles.chipText, selected && styles.chipTextActive]}>{chip.label}</Text>
+          <Text
+            style={[
+              styles.chipText,
+              { color: t.textSecondary },
+              selected && { color: t.textOnPrimary },
+            ]}
+          >
+            {chip.label}
+          </Text>
           {chip.count !== undefined && (
-            <View style={[styles.chipCount, selected && styles.chipCountActive]}>
-              <Text style={[styles.chipCountText, selected && styles.chipCountTextActive]}>
+            <View
+              style={[
+                styles.chipCount,
+                { backgroundColor: t.border },
+                selected && { backgroundColor: 'rgba(255,255,255,0.3)' },
+              ]}
+            >
+              <Text
+                style={[
+                  styles.chipCountText,
+                  { color: t.textSecondary },
+                  selected && { color: t.textOnPrimary },
+                ]}
+              >
                 {chip.count}
               </Text>
             </View>
@@ -88,8 +115,13 @@ export function FilterChips({
       >
         {chips.map(renderChip)}
         {showReset && (selectedKey || selectedKeys.length > 0) && (
-          <TouchableOpacity style={[styles.chip, styles.chipReset]} onPress={onReset}>
-            <Text style={styles.chipResetText}>✕ {resetLabel}</Text>
+          <TouchableOpacity
+            style={[styles.chip, styles.chipReset, { backgroundColor: t.errorSoft, borderColor: t.error }]}
+            onPress={onReset}
+            accessibilityRole="button"
+            accessibilityLabel={resetLabel}
+          >
+            <Text style={[styles.chipResetText, { color: t.error }]}>✕ {resetLabel}</Text>
           </TouchableOpacity>
         )}
       </ScrollView>
@@ -99,26 +131,20 @@ export function FilterChips({
 
 const styles = StyleSheet.create({
   container: {
-    paddingHorizontal: 20,
-    paddingVertical: 12,
-    gap: 8,
+    paddingHorizontal: spacing.screenX,
+    paddingVertical: spacing.sm,
+    gap: spacing.xs,
   },
   chip: {
-    paddingHorizontal: 16,
-    paddingVertical: 8,
-    borderRadius: 20,
-    backgroundColor: '#f1f5f9',
+    paddingHorizontal: spacing.md,
+    paddingVertical: spacing.xs + 2,
+    borderRadius: radius.pill,
     borderWidth: 1,
-    borderColor: '#e2e8f0',
     minHeight: 36,
     justifyContent: 'center',
   },
-  chipActive: {
-    backgroundColor: '#6366f1',
-    borderColor: '#6366f1',
-  },
   chipWithCount: {
-    paddingRight: 12,
+    paddingRight: spacing.sm,
   },
   chipContent: {
     flexDirection: 'row',
@@ -129,39 +155,25 @@ const styles = StyleSheet.create({
     fontSize: 14,
   },
   chipText: {
-    fontSize: 13,
+    ...typography.caption,
     fontWeight: '600',
-    color: '#64748b',
-  },
-  chipTextActive: {
-    color: '#fff',
   },
   chipCount: {
-    backgroundColor: '#e2e8f0',
-    borderRadius: 10,
+    borderRadius: radius.pill,
     paddingHorizontal: 6,
     paddingVertical: 2,
     minWidth: 20,
     alignItems: 'center',
   },
-  chipCountActive: {
-    backgroundColor: 'rgba(255,255,255,0.3)',
-  },
   chipCountText: {
     fontSize: 11,
     fontWeight: '700',
-    color: '#64748b',
-  },
-  chipCountTextActive: {
-    color: '#fff',
   },
   chipReset: {
-    backgroundColor: '#fef2f2',
-    borderColor: '#ef4444',
+    // colors applied inline from tokens
   },
   chipResetText: {
-    fontSize: 13,
+    ...typography.caption,
     fontWeight: '600',
-    color: '#ef4444',
   },
 });

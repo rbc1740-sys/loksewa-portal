@@ -1,7 +1,8 @@
 /** IconButton — circular touch target for header/row actions. */
 import React from 'react';
 import { Pressable, StyleSheet } from 'react-native';
-import { radius, themes } from '../../constants/theme';
+import { radius } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 interface IconButtonProps {
   children: React.ReactNode;
@@ -21,7 +22,7 @@ export function IconButton({
   accessibilityLabel,
   disabled = false,
 }: IconButtonProps) {
-  const t = themes.light;
+  const t = useTheme();
   return (
     <Pressable
       onPress={onPress}
@@ -29,6 +30,7 @@ export function IconButton({
       hitSlop={4}
       accessibilityRole="button"
       accessibilityLabel={accessibilityLabel}
+      accessibilityState={{ disabled }}
       style={({ pressed }) => [
         styles.base,
         { width: size, height: size },

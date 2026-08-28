@@ -1,7 +1,8 @@
 /** ProgressBar — animated determinate bar with no layout jump (rule 50). */
 import React, { useEffect, useRef } from 'react';
 import { Animated, Easing, StyleSheet, View } from 'react-native';
-import { radius as radii, themes } from '../../constants/theme';
+import { radius as radii } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 interface ProgressBarProps {
   /** 0..1 */
@@ -15,10 +16,13 @@ interface ProgressBarProps {
 export function ProgressBar({
   progress,
   height = 8,
-  color = themes.light.secondary,
-  trackColor = themes.light.surfaceMuted,
+  color,
+  trackColor,
   accessibilityLabel,
 }: ProgressBarProps) {
+  const t = useTheme();
+  const fillColor = color ?? t.secondary;
+  const track = trackColor ?? t.surfaceMuted;
   const anim = useRef(new Animated.Value(0)).current;
   const clamped = Math.max(0, Math.min(1, Number.isFinite(progress) ? progress : 0));
 
@@ -35,11 +39,11 @@ export function ProgressBar({
 
   return (
     <View
-      style={[styles.track, { height, backgroundColor: trackColor }]}
+      style={[styles.track, { height, backgroundColor: track }]}
       accessibilityRole="progressbar"
       accessibilityLabel={accessibilityLabel ?? `${Math.round(clamped * 100)}% complete`}
     >
-      <Animated.View style={[styles.fill, { width, backgroundColor: color }]} />
+      <Animated.View style={[styles.fill, { width, backgroundColor: fillColor }]} />
     </View>
   );
 }
@@ -48,7 +52,6 @@ const styles = StyleSheet.create({
   track: {
     borderRadius: radii.pill,
     overflow: 'hidden',
-    backgroundColor: themes.light.surfaceMuted,
   },
   fill: {
     height: '100%',

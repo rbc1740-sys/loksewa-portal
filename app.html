@@ -2661,6 +2661,26 @@
         return typeof db !== 'undefined' && db !== null;
       }
 
+      // Resolves once anonymous Firebase auth has completed (firebase-ready).
+      // Battle room writes require a real auth uid - without this wait a fast
+      // click would send a local-only id as hostUid/guestUid and be rejected
+      // by the security rules (hostUid == request.auth.uid).
+      function whenCloudReady(timeoutMs) {
+        var limit = timeoutMs || 15000;
+        if (typeof firebaseReady !== 'undefined' && firebaseReady && currentUserId) {
+          return Promise.resolve();
+        }
+        return new Promise(function (resolve) {
+          var timer = setTimeout(done, limit);
+          function done() {
+            clearTimeout(timer);
+            document.removeEventListener('firebase-ready', done);
+            resolve();
+          }
+          document.addEventListener('firebase-ready', done);
+        });
+      }
+
       function requireCloud(actionName) {
         if (!isCloudEnabled()) {
           alert(
@@ -6403,40 +6423,53 @@
         };
 
         if (isCloudEnabled()) {
-          // Safety timeout: never hang silently
-          const timeout = setTimeout(() => {
-            finishWithError('The battle server did not respond in time.');
-          }, 10000);
-
-          db.collection('battles')
-            .doc(code)
-            .set({
-              code: code,
-              host: localStorage.getItem('loksewa_username') || 'Player 1',
-              hostUid: getUserId(),
-              hostScore: 0,
-              guest: null,
-              guestUid: null,
-              guestScore: 0,
-              status: 'waiting',
-              settings: settings,
-              questions: battleQuestions.map(q => ({
-                id: q.id,
-                question: q.question,
-                options: q.options,
-              })),
-              created: Date.now(),
-            })
+          // Wait for anonymous auth first: hostUid must be the real auth uid
+          // or the security rules reject the room creation.
+          whenCloudReady()
+            .then(
+              () =>
+                new Promise((resolve, reject) => {
+                  // Safety timeout: never hang silently
+                  const timeout = setTimeout(() => {
+                    reject(new Error('The battle server did not respond in time.'));
+                  }, 10000);
+                  db.collection('battles')
+                    .doc(code)
+                    .set({
+                      code: code,
+                      host: localStorage.getItem('loksewa_username') || 'Player 1',
+                      hostUid: getUserId(),
+                      hostScore: 0,
+                      guest: null,
+                      guestUid: null,
+                      guestScore: 0,
+                      status: 'waiting',
+                      settings: settings,
+                      questions: battleQuestions.map(q => ({
+                        id: q.id,
+                        question: q.question,
+                        options: q.options,
+                      })),
+                      created: Date.now(),
+                    })
+                    .then(() => {
+                      clearTimeout(timeout);
+                      resolve();
+                    })
+                    .catch(err => {
+                      clearTimeout(timeout);
+                      reject(err);
+                    });
+                })
+            )
             .then(() => {
-              clearTimeout(timeout);
               resetCreateRoomButton();
               // WAITING_FOR_OPPONENT state with visible PIN panel
               showBattleWaitingRoom(code);
               listenToBattle(code, true);
             })
             .catch(err => {
-              clearTimeout(timeout);
-              finishWithError('Could not create duel room: ' + err.message);
+              finishWithError('Could not create duel room: ' + (err.message || err.code || err));
             });
           return;
         }
@@ -6518,25 +6551,26 @@
         if (!code) return alert('Please enter a room PIN.');
 
         if (isCloudEnabled()) {
-          const ref = db.collection('battles').doc(code);
-          ref
-            .get()
-            .then(doc => {
-              if (!doc.exists) return alert('Battle Room PIN not found.');
-              const data = doc.data();
-              if (data.guest && data.guestUid !== getUserId())
-                return alert('Room is already full!');
-              ref
-                .update({
+          // Wait for anonymous auth so guestUid is a real auth uid (rules
+          // require it for the update below to be accepted).
+          whenCloudReady()
+            .then(() => {
+              const ref = db.collection('battles').doc(code);
+              return ref.get().then(doc => {
+                if (!doc.exists) return alert('Battle Room PIN not found.');
+                const data = doc.data();
+                if (data.guest && data.guestUid !== getUserId())
+                  return alert('Room is already full!');
+                return ref.update({
                   guest: localStorage.getItem('loksewa_username') || 'Player 2',
                   guestUid: getUserId(),
                   status: 'active',
-                })
-                .then(() => {
+                }).then(() => {
                   listenToBattle(code, false);
                 });
+              });
             })
-            .catch(err => alert('Failed to join: ' + err.message));
+            .catch(err => alert('Failed to join: ' + (err.message || err.code || err)));
           return;
         }
 
@@ -6558,6 +6592,17 @@
                 code,
                 isHost
               );
+            }
+            // Result sync: once my own duel has finished, merge the
+            // opponent's published score from the room doc and re-render
+            // the result screen with it (endDuel re-render is safe: the
+            // XP reward is guarded by battleState.xpAwarded).
+            if (battleState.roomCode === code && !battleState.active) {
+              const oppScore = isHost ? battle.guestScore : battle.hostScore;
+              if (typeof oppScore === 'number' && oppScore !== battleState.oppScore) {
+                battleState.oppScore = oppScore;
+                endDuel(battleState.myScore, oppScore, battleState.opponentName, battleState.settings);
+              }
             }
           });
       }
@@ -6814,7 +6859,10 @@
           opponentName: opponentName,
           questionStartTime: Date.now(),
           isBot: isBot,
-          timerSeconds: battleSettings.timerPerQuestion
+          timerSeconds: battleSettings.timerPerQuestion,
+          roomCode: roomCode,
+          isHost: isHost,
+          xpAwarded: false
         };
 
         function renderDuelStep() {
@@ -6973,6 +7021,7 @@
 
       function endDuel(myScore, oppScore, oppName, settings = {}) {
         clearInterval(window.battleTimerInterval);
+        battleState.active = false;
         document.getElementById('battle-active').classList.add('hidden');
         const resBox = document.getElementById('battle-results');
         resBox.classList.remove('hidden');
@@ -6980,10 +7029,26 @@
         const won = myScore > oppScore;
         const tie = myScore === oppScore;
 
-        if (won) {
+        if (won && !battleState.xpAwarded) {
+          battleState.xpAwarded = true;
           playFanfare();
           triggerConfetti();
           addXP(150);
+        }
+
+        // Publish my final score to the room doc so the opponent's result
+        // screen can sync it live. Only keys permitted by the /battles
+        // update rule (score + status, scoped to my role) are written.
+        if (battleState.roomCode && isCloudEnabled()) {
+          const myUpdate = battleState.isHost
+            ? { hostScore: myScore, status: 'host_done' }
+            : { guestScore: myScore, status: 'guest_done' };
+          db.collection('battles')
+            .doc(battleState.roomCode)
+            .update(myUpdate)
+            .catch(err => {
+              console.warn('[Loksewa Portal] Battle score sync failed:', err.code || err.message);
+            });
         }
 
         const gameMode = settings.gameMode || 'classic';

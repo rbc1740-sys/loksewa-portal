@@ -4,6 +4,8 @@
 import { View, TextInput, TouchableOpacity, StyleSheet } from 'react-native';
 import { Search, X } from 'lucide-react-native';
 import { useEffect, useState, useCallback } from 'react';
+import { radius, spacing, typography } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 interface SearchBarProps {
   value: string;
@@ -26,6 +28,7 @@ export function SearchBar({
   showClearButton = true,
   leftIcon = true,
 }: SearchBarProps) {
+  const t = useTheme();
   const [internalValue, setInternalValue] = useState(value);
   const [debouncedValue, setDebouncedValue] = useState(value);
   const [showClear, setShowClear] = useState(false);
@@ -61,21 +64,28 @@ export function SearchBar({
   }, [internalValue, onSubmit]);
 
   return (
-    <View style={styles.container}>
-      {leftIcon && <Search size={20} color="#94a3b8" style={styles.icon} />}
+    <View style={[styles.container, { backgroundColor: t.surfaceMuted, borderColor: t.border }]}>
+      {leftIcon && <Search size={20} color={t.textTertiary} style={styles.icon} />}
       <TextInput
-        style={[styles.input, leftIcon && styles.inputWithIcon]}
+        style={[styles.input, leftIcon && styles.inputWithIcon, { color: t.textPrimary }]}
         placeholder={placeholder}
+        placeholderTextColor={t.textTertiary}
         value={internalValue}
         onChangeText={handleChangeText}
         onSubmitEditing={handleSubmit}
         autoFocus={autoFocus}
         autoCorrect={false}
-        placeholderTextColor="#94a3b8"
+        accessibilityRole="search"
       />
       {showClear && (
-        <TouchableOpacity style={styles.clearButton} onPress={handleClear} hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}>
-          <X size={20} color="#94a3b8" />
+        <TouchableOpacity
+          style={styles.clearButton}
+          onPress={handleClear}
+          hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
+          accessibilityRole="button"
+          accessibilityLabel="Clear search"
+        >
+          <X size={20} color={t.textTertiary} />
         </TouchableOpacity>
       )}
     </View>
@@ -86,19 +96,18 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#f1f5f9',
-    borderRadius: 12,
-    paddingHorizontal: 16,
-    height: 48,
-    gap: 8,
+    borderRadius: radius.md,
+    borderWidth: 1,
+    paddingHorizontal: spacing.md,
+    height: spacing.controlHeight,
+    gap: spacing.xs,
   },
   icon: {
-    marginLeft: 4,
+    marginLeft: 2,
   },
   input: {
     flex: 1,
-    fontSize: 16,
-    color: '#0f172a',
+    ...typography.body,
     paddingVertical: 0,
   },
   inputWithIcon: {

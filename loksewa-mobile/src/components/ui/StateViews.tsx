@@ -1,9 +1,12 @@
 /**
  * EmptyState & ErrorState & LoadingState Components - Standardized states
+ * Theme-driven (rule 28): light/dark both render with deliberate tokens.
  */
 import React, { ReactElement } from 'react';
-import { View, Text, TouchableOpacity, StyleSheet, ActivityIndicator } from 'react-native';
+import { View, Text, Pressable, StyleSheet, ActivityIndicator } from 'react-native';
 import { BookOpen, RefreshCw, AlertCircle, WifiOff, Database } from 'lucide-react-native';
+import { radius, spacing, typography } from '../../constants/theme';
+import { useTheme } from '../../hooks/useTheme';
 
 export interface EmptyStateProps {
   icon?: typeof BookOpen | ReactElement;
@@ -26,26 +29,47 @@ export function EmptyState({
   onSecondaryAction,
   style,
 }: EmptyStateProps) {
+  const t = useTheme();
   return (
     <View style={[styles.container, style]}>
-      <View style={styles.iconContainer}>
+      <View style={[styles.iconContainer, { backgroundColor: t.surfaceMuted }]}>
         {React.isValidElement(IconComponent)
           ? IconComponent
-          : <IconComponent size={48} color="#94a3b8" />}
+          : <IconComponent size={48} color={t.textTertiary} />}
       </View>
-      <Text style={styles.title}>{title}</Text>
-      {message && <Text style={styles.message}>{message}</Text>}
+      <Text style={[styles.title, { color: t.textPrimary }]}>{title}</Text>
+      {message && <Text style={[styles.message, { color: t.textTertiary }]}>{message}</Text>}
       {(actionLabel || secondaryActionLabel) && (
         <View style={styles.actions}>
           {actionLabel && onAction && (
-            <TouchableOpacity style={styles.primaryAction} onPress={onAction}>
-              <Text style={styles.primaryActionText}>{actionLabel}</Text>
-            </TouchableOpacity>
+            <Pressable
+              style={({ pressed }) => [
+                styles.primaryAction,
+                { backgroundColor: t.secondary },
+                pressed && { opacity: 0.85 },
+              ]}
+              onPress={onAction}
+              accessibilityRole="button"
+              accessibilityLabel={actionLabel}
+            >
+              <Text style={[styles.primaryActionText, { color: t.textOnPrimary }]}>{actionLabel}</Text>
+            </Pressable>
           )}
           {secondaryActionLabel && onSecondaryAction && (
-            <TouchableOpacity style={styles.secondaryAction} onPress={onSecondaryAction}>
-              <Text style={styles.secondaryActionText}>{secondaryActionLabel}</Text>
-            </TouchableOpacity>
+            <Pressable
+              style={({ pressed }) => [
+                styles.secondaryAction,
+                { borderColor: t.borderStrong, backgroundColor: t.surface },
+                pressed && { opacity: 0.85 },
+              ]}
+              onPress={onSecondaryAction}
+              accessibilityRole="button"
+              accessibilityLabel={secondaryActionLabel}
+            >
+              <Text style={[styles.secondaryActionText, { color: t.secondary }]}>
+                {secondaryActionLabel}
+              </Text>
+            </Pressable>
           )}
         </View>
       )}
@@ -68,6 +92,7 @@ export function ErrorState({
   variant = 'default',
   style,
 }: ErrorStateProps) {
+  const t = useTheme();
   const getIcon = () => {
     switch (variant) {
       case 'network':
@@ -83,16 +108,25 @@ export function ErrorState({
 
   return (
     <View style={[styles.container, style]}>
-      <View style={styles.iconContainer}>
-        <IconComponent size={48} color="#ef4444" />
+      <View style={[styles.iconContainer, { backgroundColor: t.surfaceMuted }]}>
+        <IconComponent size={48} color={t.error} />
       </View>
-      <Text style={styles.title}>Something went wrong</Text>
-      <Text style={styles.message}>{message}</Text>
+      <Text style={[styles.title, { color: t.textPrimary }]}>Something went wrong</Text>
+      <Text style={[styles.message, { color: t.textTertiary }]}>{message}</Text>
       {onRetry && (
-        <TouchableOpacity style={styles.retryButton} onPress={onRetry}>
-          <RefreshCw size={18} color="#fff" style={{ marginRight: 8 }} />
-          <Text style={styles.retryButtonText}>{retryLabel}</Text>
-        </TouchableOpacity>
+        <Pressable
+          style={({ pressed }) => [
+            styles.retryButton,
+            { backgroundColor: t.secondary },
+            pressed && { opacity: 0.85 },
+          ]}
+          onPress={onRetry}
+          accessibilityRole="button"
+          accessibilityLabel={retryLabel}
+        >
+          <RefreshCw size={18} color={t.textOnPrimary} style={{ marginRight: 8 }} />
+          <Text style={[styles.retryButtonText, { color: t.textOnPrimary }]}>{retryLabel}</Text>
+        </Pressable>
       )}
     </View>
   );
@@ -111,10 +145,11 @@ export function LoadingState({
   count = 3,
   style,
 }: LoadingStateProps) {
+  const t = useTheme();
   if (variant === 'spinner') {
     return (
       <View style={[styles.container, style]}>
-        <ActivityIndicator size="large" color="#6366f1" />
+        <ActivityIndicator size="large" color={t.secondary} />
       </View>
     );
   }
@@ -123,9 +158,9 @@ export function LoadingState({
     return (
       <View style={[styles.container, style, { flexDirection: 'row', flexWrap: 'wrap', gap: 16, justifyContent: 'center' }]}>
         {Array.from({ length: count }, (_, i) => (
-          <View key={i} style={styles.skeletonCard}>
-            <View style={styles.skeletonLine} />
-            <View style={[styles.skeletonLine, { width: '60%' }]} />
+          <View key={i} style={[styles.skeletonCard, { backgroundColor: t.surface, borderColor: t.border }]}>
+            <View style={[styles.skeletonLine, { backgroundColor: t.skeleton }]} />
+            <View style={[styles.skeletonLine, { width: '60%', backgroundColor: t.skeleton }]} />
           </View>
         ))}
       </View>
@@ -137,10 +172,10 @@ export function LoadingState({
     <View style={[styles.container, style, { gap: 12 }]}>
       {Array.from({ length: count }, (_, i) => (
         <View key={i} style={styles.skeletonRow}>
-          <View style={styles.skeletonAvatar} />
+          <View style={[styles.skeletonAvatar, { backgroundColor: t.skeleton }]} />
           <View style={styles.skeletonContent}>
-            <View style={styles.skeletonLine} />
-            <View style={[styles.skeletonLine, { width: '40%' }]} />
+            <View style={[styles.skeletonLine, { backgroundColor: t.skeleton }]} />
+            <View style={[styles.skeletonLine, { width: '40%', backgroundColor: t.skeleton }]} />
           </View>
         </View>
       ))}
@@ -152,92 +187,79 @@ const styles = StyleSheet.create({
   container: {
     alignItems: 'center',
     paddingVertical: 60,
-    paddingHorizontal: 24,
-    gap: 16,
+    paddingHorizontal: spacing.screenX,
+    gap: spacing.md,
   },
   iconContainer: {
     width: 80,
     height: 80,
-    borderRadius: 40,
-    backgroundColor: '#f1f5f9',
+    borderRadius: radius.pill,
     justifyContent: 'center',
     alignItems: 'center',
   },
   title: {
-    fontSize: 18,
+    ...typography.sectionTitle,
     fontWeight: '700',
-    color: '#0f172a',
     textAlign: 'center',
   },
   message: {
-    fontSize: 14,
-    color: '#94a3b8',
+    ...typography.bodySmall,
     textAlign: 'center',
     maxWidth: 280,
   },
   actions: {
     flexDirection: 'row',
-    gap: 12,
-    marginTop: 8,
+    gap: spacing.sm,
+    marginTop: spacing.xs,
   },
   primaryAction: {
-    backgroundColor: '#6366f1',
-    borderRadius: 12,
-    paddingHorizontal: 24,
-    paddingVertical: 12,
+    borderRadius: radius.md,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.sm + 2,
   },
   primaryActionText: {
-    fontSize: 15,
+    ...typography.body,
     fontWeight: '700',
-    color: '#fff',
   },
   secondaryAction: {
-    borderRadius: 12,
-    paddingHorizontal: 24,
-    paddingVertical: 12,
+    borderRadius: radius.md,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.sm + 2,
     borderWidth: 1,
-    borderColor: '#e2e8f0',
-    backgroundColor: '#fff',
   },
   secondaryActionText: {
-    fontSize: 15,
+    ...typography.body,
     fontWeight: '600',
-    color: '#6366f1',
   },
   retryButton: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#6366f1',
-    borderRadius: 12,
-    paddingHorizontal: 24,
-    paddingVertical: 12,
-    marginTop: 8,
+    borderRadius: radius.md,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.sm + 2,
+    marginTop: spacing.xs,
   },
   retryButtonText: {
-    fontSize: 15,
+    ...typography.body,
     fontWeight: '700',
-    color: '#fff',
   },
   skeletonCard: {
     width: 160,
-    backgroundColor: '#fff',
-    borderRadius: 12,
-    padding: 16,
-    gap: 8,
+    borderRadius: radius.md,
+    padding: spacing.md,
+    gap: spacing.xs,
     borderWidth: 1,
-    borderColor: '#f1f5f9',
   },
   skeletonRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 12,
-    paddingHorizontal: 16,
+    gap: spacing.sm,
+    paddingHorizontal: spacing.md,
   },
   skeletonAvatar: {
     width: 48,
     height: 48,
-    borderRadius: 24,
-    backgroundColor: '#f1f5f9',
+    borderRadius: radius.pill,
   },
   skeletonContent: {
     flex: 1,
@@ -245,7 +267,6 @@ const styles = StyleSheet.create({
   },
   skeletonLine: {
     height: 14,
-    borderRadius: 6,
-    backgroundColor: '#f1f5f9',
+    borderRadius: radius.sm,
   },
 });

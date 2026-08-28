@@ -46,12 +46,32 @@ service cloud.firestore {
       allow read: if request.auth != null;
       allow create: if request.auth != null
                     && request.resource.data.hostUid == request.auth.uid;
-      allow update: if request.auth != null
-                    && (resource.data.hostUid == request.auth.uid || resource.data.guestUid == request.auth.uid)
-                    && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['guest','guestUid','guestScore','hostScore','status']);
-      allow delete: if false;
+      // Role-scoped updates: the host may publish only their own score and
+      // the room status; the guest may claim the open seat and then publish
+      // only the guest score/status. Neither side can forge the other.
+      allow update: if request.auth != null && (
+        // Host: publish own score + end-of-match status
+        (resource.data.hostUid == request.auth.uid
+          && request.resource.data.diff(resource.data).affectedKeys()
+               .hasOnly(['hostScore', 'status']))
+        ||
+        // Established guest: publish own score + advise status
+        (resource.data.guestUid == request.auth.uid
+          && request.resource.data.diff(resource.data).affectedKeys()
+               .hasOnly(['guest', 'guestUid', 'guestScore', 'status']))
+        ||
+        // Seat claim: only while the seat is open (guestUid null), the claimant
+        // must set their own uid and may touch only the seat/status fields.
+        (resource.data.guestUid == null
+          && request.resource.data.guestUid == request.auth.uid
+          && request.resource.data.diff(resource.data).affectedKeys()
+               .hasOnly(['guest', 'guestUid', 'status']))
+      );
+      // The host manages their own room: cancel while waiting, or clean up
+      // after the match.
+      allow delete: if request.auth != null
+                    && resource.data.hostUid == request.auth.uid;
     }
-
     // ---- User profiles (mobile app): strictly owner-scoped ----
     // Document id == Firebase Auth uid. Created on first sign-in by the app.
     match /users/{userId} {
@@ -108,30 +128,41 @@ service cloud.firestore {
     }
 
     match /bookmarks/{docId} {
-      function ownedQuestionDoc() {
+      function ownedId() {
         return request.auth != null
-          && request.resource.data.get('user_id', resource.data.user_id) == request.auth.uid
           && (request.resource.data.question_id == null
               || docId == request.auth.uid + '_' + request.resource.data.question_id);
       }
       allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
-      allow create, update: if ownedQuestionDoc();
+      // create: no existing doc, so the owner must come from the payload
+      allow create: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid
+        && ownedId();
+      // update: the outbox tag-edit payload is { id, tags_json } only, so the
+      // owner is inherited from the stored row via the get-with-default
+      allow update: if request.auth != null
+        && request.resource.data.get('user_id', resource.data.user_id) == request.auth.uid
+        && ownedId();
       allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
     }
 
     match /weak_points/{docId} {
-      function ownedQuestionDoc() {
+      function ownedId() {
         return request.auth != null
-          && request.resource.data.get('user_id', resource.data.user_id) == request.auth.uid
           && (request.resource.data.question_id == null
               || docId == request.auth.uid + '_' + request.resource.data.question_id);
       }
       allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
-      allow create, update: if ownedQuestionDoc();
+      allow create: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid
+        && ownedId();
+      allow update: if request.auth != null
+        && request.resource.data.get('user_id', resource.data.user_id) == request.auth.uid
+        && ownedId();
       allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
     }
 
-    // User profile mirror (mobile) — doc id == uid, like /users above.
+    // User profile mirror (mobile) â€” doc id == uid, like /users above.
     match /user_profile/{docId} {
       allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
       allow create, update: if request.auth != null
@@ -148,7 +179,7 @@ service cloud.firestore {
       allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
     }
 
-    // Exam history: immutable graded attempts (INSERT-only — the idempotent
+    // Exam history: immutable graded attempts (INSERT-only â€” the idempotent
     // submit pipeline writes exactly one row per session). No update/delete.
     match /exam_history/{attemptDocId} {
       allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
@@ -158,7 +189,7 @@ service cloud.firestore {
       allow update, delete: if false;
     }
 
-    // Battle sessions (per-user battle stats) — owner-scoped.
+    // Battle sessions (per-user battle stats) â€” owner-scoped.
     match /battle_sessions/{battleDocId} {
       allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
       allow create, update: if request.auth != null

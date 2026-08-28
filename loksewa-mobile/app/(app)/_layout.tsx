@@ -2,13 +2,12 @@
  * Main App Layout - Tab Navigator
  */
 import { Tabs, Redirect } from 'expo-router';
-import { Home, BookOpen, Timer, Zap, Brain, Settings } from 'lucide-react-native';
-import { useColorScheme } from 'react-native';
+import { Home, BookOpen, Timer, Brain, Settings } from 'lucide-react-native';
 import { useAuthStore } from '../../src/stores/authStore';
+import { useTheme } from '../../src/hooks/useTheme';
 
 export default function AppLayout() {
-  const colorScheme = useColorScheme();
-  const isDark = colorScheme === 'dark';
+  const t = useTheme();
   const user = useAuthStore((state) => state.user);
 
   // Not signed in — bounce back to the auth flow.
@@ -20,15 +19,15 @@ export default function AppLayout() {
     <Tabs
       screenOptions={{
         headerShown: false,
-        tabBarActiveTintColor: '#6366f1',
-        tabBarInactiveTintColor: '#94a3b8',
+        tabBarActiveTintColor: t.secondary,
+        tabBarInactiveTintColor: t.textTertiary,
         tabBarStyle: {
-          backgroundColor: isDark ? '#1e293b' : '#fff',
+          backgroundColor: t.surface,
           borderTopWidth: 0,
           elevation: 0,
           shadowColor: '#000',
           shadowOffset: { width: 0, height: -4 },
-          shadowOpacity: 0.1,
+          shadowOpacity: t.dark ? 0.3 : 0.1,
           shadowRadius: 12,
           paddingTop: 8,
           paddingBottom: 8,
@@ -43,7 +42,7 @@ export default function AppLayout() {
         options={{
           title: 'Home',
           tabBarIcon: ({ focused, color }) => (
-            <Home size={24} color={color} strokeWidth={focused ? 3 : 2} fill={focused ? '#6366f1' : 'none'} />
+            <Home size={24} color={color} strokeWidth={focused ? 3 : 2} fill={focused ? t.secondary : 'none'} />
           ),
         }}
       />
@@ -59,21 +58,14 @@ export default function AppLayout() {
       <Tabs.Screen
         name="exam"
         options={{
-          title: 'Exam',
+          title: 'Exams',
           tabBarIcon: ({ focused, color }) => (
             <Timer size={24} color={color} strokeWidth={focused ? 3 : 2} />
           ),
         }}
       />
-      <Tabs.Screen
-        name="battle"
-        options={{
-          title: 'Battle',
-          tabBarIcon: ({ focused, color }) => (
-            <Zap size={24} color={color} strokeWidth={focused ? 3 : 2} fill={focused ? '#f59e0b' : 'none'} />
-          ),
-        }}
-      />
+      {/* Battle is reachable from Home/Exams quick actions, not primary nav */}
+      <Tabs.Screen name="battle" options={{ href: null }} />
       <Tabs.Screen
         name="spaced"
         options={{
