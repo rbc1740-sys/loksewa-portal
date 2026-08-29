@@ -8,6 +8,7 @@ import { useTheme } from '../src/hooks/useTheme';
 import { ensureQuestionBankSeeded } from '../src/services/database';
 import { useCourseStore } from '../src/stores/courseStore';
 import { startSyncWorker, type SyncWorkerHandle } from '../src/services/syncWorker';
+import { ErrorState } from '../src/components/ui';
 import { restoreFromCloud } from '../src/services/cloudRestore';
 
 export default function RootLayout() {
@@ -15,6 +16,8 @@ export default function RootLayout() {
   const initialized = useAuthStore((state) => state.initialized);
   const hydrateSettings = useSettingsStore((state) => state.hydrate);
   const [seeded, setSeeded] = useState(false);
+  const [seedError, setSeedError] = useState<string | null>(null);
+  const [seedAttempt, setSeedAttempt] = useState(0);
   const t = useTheme();
 
   // Subscribe to Firebase auth state once; `hydrate` returns the unsubscribe.
@@ -27,24 +30,33 @@ export default function RootLayout() {
   }, [hydrateSettings]);
 
   // Copy the bundled question bank into SQLite on first launch (offline-first).
+  // A failure must NOT silently continue into an empty app - surface it with
+  // a retry button so on-device problems are diagnosable.
   useEffect(() => {
     let cancelled = false;
     ensureQuestionBankSeeded()
-      .catch((error) => console.error('[Boot] Failed to seed question bank:', error))
+      .then(() => {
+        if (cancelled) return;
+        setSeedError(null);
+        // Seed the course catalog + hierarchy only AFTER the question bank is
+        // in SQLite, so question-to-hierarchy linking cannot race an empty
+        // questions table on first launch.
+        useCourseStore.getState().hydrate().catch((e) =>
+          console.warn('[Boot] Course store hydration skipped:', e)
+        );
+      })
+      .catch((error) => {
+        console.error('[Boot] Failed to seed question bank:', error);
+        if (!cancelled) setSeedError(error instanceof Error ? error.message : String(error));
+      })
       .finally(() => {
         if (!cancelled) setSeeded(true);
       });
 
-    // Seed the course catalog + hierarchy and restore the active course.
-    // Failures are non-fatal (screens re-seed defensively on first query).
-    useCourseStore.getState().hydrate().catch((e) =>
-      console.warn('[Boot] Course store hydration skipped:', e)
-    );
-
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [seedAttempt]);
 
   // Outbox sync worker (Phase 5): drain sync_queue on app focus + every 5 min
   // once boot completes. Failures are retained in the outbox with bounded
@@ -78,6 +90,19 @@ export default function RootLayout() {
       .catch((error) => console.warn('[Boot] Cloud restore skipped:', error));
   }, [initialized, seeded, user]);
 
+  // Question-bank seeding failed - show a retryable error instead of an
+  // unusable app with zero questions (the previous silent-continue behavior).
+  if (seedError) {
+    return (
+      <View style={[styles.splash, { backgroundColor: t.background }]}>
+        <StatusBar style={t.dark ? 'light' : 'dark'} />
+        <ErrorState
+          message={`Couldn't load the question bank: ${seedError}`}
+          onRetry={() => setSeedAttempt((a) => a + 1)}
+        />
+      </View>
+    );
+  }
   // Don't flash the wrong route while the session is restored and the local
   // question database is prepared.
   if (!initialized || !seeded) {
