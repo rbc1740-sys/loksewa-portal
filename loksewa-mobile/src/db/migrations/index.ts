@@ -382,7 +382,21 @@ CREATE INDEX idx_notif_user ON notifications(user_id);
 CREATE INDEX idx_notif_read ON notifications(user_id, read_at);
 CREATE INDEX idx_notif_created ON notifications(created_at);
 `,
+
+  '009_questions_hierarchy_columns': `
+-- Hierarchy placement columns on questions, written by bulkInsertQuestions.
+-- 001_init never included them and no earlier migration added them, which
+-- made question seeding fail on every device with: no such column: course_id.
+ALTER TABLE questions ADD COLUMN course_id TEXT;
+ALTER TABLE questions ADD COLUMN subject_id TEXT;
+ALTER TABLE questions ADD COLUMN chapter_id TEXT;
+ALTER TABLE questions ADD COLUMN topic_id TEXT;
+CREATE INDEX IF NOT EXISTS idx_questions_course ON questions(course_id);
+CREATE INDEX IF NOT EXISTS idx_questions_subject ON questions(subject_id);
+CREATE INDEX IF NOT EXISTS idx_questions_chapter ON questions(chapter_id);
+CREATE INDEX IF NOT EXISTS idx_questions_topic ON questions(topic_id);
+`,
 };
 
 export type MigrationName = keyof typeof MIGRATIONS;
-export const MIGRATION_ORDER: MigrationName[] = ['001_init', '002_add_db_version', '003_add_question_difficulty', '004_courses_subjects_chapters', '005_reports_daily_achievements', '006_custom_exams', '007_study_materials_videos', '008_notifications'];
+export const MIGRATION_ORDER: MigrationName[] = ['001_init', '002_add_db_version', '003_add_question_difficulty', '004_courses_subjects_chapters', '005_reports_daily_achievements', '006_custom_exams', '007_study_materials_videos', '008_notifications', '009_questions_hierarchy_columns']
