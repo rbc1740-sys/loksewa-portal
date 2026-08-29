@@ -33,13 +33,11 @@ const zenGone = await page.evaluate(() => ({
     !!document.querySelector('button:has-text("Zen")') ||
     document.body.innerText.includes('Zen Mode'),
 }));
-console.log(
-  '1. ZEN REMOVED FROM DOM:',
-  JSON.stringify(zenGone),
+const zenVerdict =
   JSON.stringify(zenGone) === '{"btn":false,"container":false,"flash":false,"zenModeText":false}'
     ? 'PASS'
-    : 'CHECK',
-);
+    : 'CHECK';
+console.log('1. ZEN REMOVED FROM DOM:', JSON.stringify(zenGone), zenVerdict);
 
 // 2. Click Practice -> questions render in list view
 await page.locator('#syllabus-categories button:has-text("Practice")').first().click();
