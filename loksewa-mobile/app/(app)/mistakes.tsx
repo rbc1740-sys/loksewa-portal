@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Mistakes — every question whose latest attempt was wrong (rule 18).
  * Groups come from summarizeMistakes (pure) over getWrongQuestions rows;
  * counts therefore always reflect real attempts and self-heal when the user
@@ -12,7 +12,8 @@ import { AlertTriangle, ChevronRight, RefreshCcw } from 'lucide-react-native';
 import { getWrongQuestions } from '../../src/services/database';
 import { useAuthStore } from '../../src/stores/authStore';
 import { summarizeMistakes, MistakeSummary } from '../../src/utils/mistakes';
-import { themes, spacing, radius, typography } from '../../src/constants/theme';
+import { spacing, radius, typography, type AppTheme } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
 import {
   AppCard,
   AppButton,
@@ -24,6 +25,8 @@ import {
 } from '../../src/components/ui';
 
 export default function MistakesScreen() {
+  const t = useTheme();
+  const styles = makeStyles(t);
   const router = useRouter();
   const user = useAuthStore(s => s.user);
 
@@ -67,7 +70,7 @@ export default function MistakesScreen() {
       <SafeAreaView style={styles.safe}>
         <ScreenHeader title="Mistakes" />
         <EmptyState
-          icon={<AlertTriangle size={40} color={themes.light.textTertiary} />}
+          icon={<AlertTriangle size={40} color={t.textTertiary} />}
           title="Sign in required"
           message="Sign in to build your mistake pool."
           style={{ flex: 1, justifyContent: 'center' }}
@@ -99,12 +102,12 @@ export default function MistakesScreen() {
             style={styles.groupCard}
           >
             <View style={styles.groupRow}>
-              <AlertTriangle size={18} color={themes.light.warning} />
+              <AlertTriangle size={18} color={t.warning} />
               <Text numberOfLines={1} style={styles.groupName}>{g.display}</Text>
               <View style={styles.countBadge}>
                 <Text style={styles.countText}>{g.count}</Text>
               </View>
-              <ChevronRight size={18} color={themes.light.textTertiary} />
+              <ChevronRight size={18} color={t.textTertiary} />
             </View>
           </AppCard>
         ))}
@@ -124,7 +127,7 @@ export default function MistakesScreen() {
           <ErrorState message={error} onRetry={() => setReloadToken(n => n + 1)} />
         ) : wrong!.length === 0 ? (
           <EmptyState
-            icon={<RefreshCcw size={40} color={themes.light.success} />}
+            icon={<RefreshCcw size={40} color={t.success} />}
             title="No mistakes right now"
             message="Every question you attempted recently was correct. Keep going!"
           />
@@ -135,7 +138,7 @@ export default function MistakesScreen() {
                 label="Total"
                 value={String(summary.total)}
                 tone="error"
-                icon={<AlertTriangle size={16} color={themes.light.error} />}
+                icon={<AlertTriangle size={16} color={t.error} />}
               />
               <StatCard
                 label="Subjects"
@@ -148,7 +151,7 @@ export default function MistakesScreen() {
               />
             </View>
 
-            <View style={[styles.practiceAll, { backgroundColor: themes.light.primaryLight }]}>
+            <View style={[styles.practiceAll, { backgroundColor: t.primaryLight }]}>
               <AppButton label={`Practice all ${summary.total}`} onPress={openAll} fullWidth />
             </View>
 
@@ -161,9 +164,8 @@ export default function MistakesScreen() {
   );
 }
 
-const t = themes.light;
 
-const styles = StyleSheet.create({
+const makeStyles = (t: AppTheme) => StyleSheet.create({
   safe: {
     flex: 1,
     backgroundColor: t.background,

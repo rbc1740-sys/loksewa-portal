@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Result — post-exam summary (rule 25). Reads the stored attempt from
  * exam_history (written by the idempotent grading pipeline) and renders the
  * engine-computed numbers. No score is ever derived here.
@@ -21,7 +21,8 @@ import { AttemptDetails, parseDetails } from '../../src/utils/examDetails';
 import { useCustomExamStore } from '../../src/stores/customExamStore';
 import { useAuthStore } from '../../src/stores/authStore';
 import { getTopicPath } from '../../src/constants/courses';
-import { themes, spacing, radius, typography } from '../../src/constants/theme';
+import { spacing, radius, typography, type AppTheme } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
 import {
   AppButton,
   ErrorState,
@@ -36,16 +37,18 @@ import { useTypedPush } from '../../src/utils/navigation';
 /** Attempt details + tolerant parser now live in src/utils/examDetails.ts (tested); see examDetails.test.ts. */
 
 /** Shared accuracy color: weak = error, strong = success, else secondary. */
-function accColor(accuracy: number, attempted: number): string {
-  if (!attempted) return themes.light.textTertiary;
-  if (accuracy < 60) return themes.light.error;
-  if (accuracy >= 80) return themes.light.success;
-  return themes.light.secondary;
+function accColor(t: AppTheme, accuracy: number, attempted: number): string {
+  if (!attempted) return t.textTertiary;
+  if (accuracy < 60) return t.error;
+  if (accuracy >= 80) return t.success;
+  return t.secondary;
 }
 
 function Metric({ icon, label, value, color }: { icon: React.ReactNode; label: string; value: string; color: string }) {
+  const t = useTheme();
+  const styles = makeStyles(t);
   return (
-    <View style={[styles.metric, { backgroundColor: themes.light.surfaceAlt }]}>
+    <View style={[styles.metric, { backgroundColor: t.surfaceAlt }]}>
       {icon}
       <Text style={[styles.metricValue, { color }]}>{value}</Text>
       <Text style={styles.metricLabel}>{label}</Text>
@@ -54,6 +57,8 @@ function Metric({ icon, label, value, color }: { icon: React.ReactNode; label: s
 }
 
 export default function ResultScreen() {
+  const t = useTheme();
+  const styles = makeStyles(t);
   const push = useTypedPush();
   const user = useAuthStore(s => s.user);
   const { attemptId, auto } = useLocalSearchParams<{ attemptId?: string; auto?: string }>();
@@ -200,24 +205,24 @@ export default function ResultScreen() {
             </Text>
           </View>
         )}
-        <View style={[styles.hero, { backgroundColor: pass === false ? themes.light.error : themes.light.primary }]}>
-          <Trophy size={26} color={themes.light.textOnPrimary} />
+        <View style={[styles.hero, { backgroundColor: pass === false ? t.error : t.primary }]}>
+          <Trophy size={26} color={t.textOnPrimary} />
           <Text style={styles.heroScore}>{rec.percentage}%</Text>
           <Text style={styles.heroLabel}>{pass === null ? 'Score' : pass ? 'Passed' : 'Not passed'}</Text>
         </View>
 
         <View style={styles.grid}>
-          <Metric icon={<CheckCircle2 size={18} color={themes.light.success} />} label="Correct" value={String(rec.correct)} color={themes.light.success} />
-          <Metric icon={<XCircle size={18} color={themes.light.error} />} label="Wrong" value={String(rec.wrong)} color={themes.light.error} />
-          <Metric icon={<MinusCircle size={18} color={themes.light.textTertiary} />} label="Skipped" value={String(rec.skipped)} color={themes.light.textTertiary} />
-          <Metric icon={<TrendingUp size={18} color={themes.light.secondary} />} label="Accuracy" value={accuracy + '%'} color={themes.light.secondary} />
-          <Metric icon={<Clock size={18} color={themes.light.warning} />} label="Time" value={formatDuration(rec.time_spent_ms)} color={themes.light.warning} />
-          <Metric icon={<Trophy size={18} color={themes.light.primaryDark} />} label="Total Q" value={String(rec.total)} color={themes.light.primaryDark} />
+          <Metric icon={<CheckCircle2 size={18} color={t.success} />} label="Correct" value={String(rec.correct)} color={t.success} />
+          <Metric icon={<XCircle size={18} color={t.error} />} label="Wrong" value={String(rec.wrong)} color={t.error} />
+          <Metric icon={<MinusCircle size={18} color={t.textTertiary} />} label="Skipped" value={String(rec.skipped)} color={t.textTertiary} />
+          <Metric icon={<TrendingUp size={18} color={t.secondary} />} label="Accuracy" value={accuracy + '%'} color={t.secondary} />
+          <Metric icon={<Clock size={18} color={t.warning} />} label="Time" value={formatDuration(rec.time_spent_ms)} color={t.warning} />
+          <Metric icon={<Trophy size={18} color={t.primaryDark} />} label="Total Q" value={String(rec.total)} color={t.primaryDark} />
         </View>
 
         {pass === false && typeof rec.pass_mark === 'number' && (
-          <View style={[styles.hint, { backgroundColor: themes.light.warningSoft }]}>
-            <Text style={[styles.hintText, { color: themes.light.warning }]}>
+          <View style={[styles.hint, { backgroundColor: t.warningSoft }]}>
+            <Text style={[styles.hintText, { color: t.warning }]}>
               Pass mark is {rec.pass_mark}%. Keep practising to move past it.
             </Text>
           </View>
@@ -235,14 +240,14 @@ export default function ResultScreen() {
                 >
                   <View style={styles.subjectHead}>
                     <Text style={styles.subjectName} numberOfLines={1}>{s.name}</Text>
-                    <Text style={[styles.subjectAcc, { color: accColor(s.accuracy, s.attempted) }]}>
+                    <Text style={[styles.subjectAcc, { color: accColor(t, s.accuracy, s.attempted) }]}>
                       {s.attempted ? `${s.accuracy}%` : '-'}
                     </Text>
                   </View>
                   <ProgressBar
                     progress={s.attempted ? s.accuracy / 100 : 0}
                     height={6}
-                    color={accColor(s.accuracy, s.attempted)}
+                    color={accColor(t, s.accuracy, s.attempted)}
                     accessibilityLabel={`${s.name} accuracy`}
                   />
                   <Text style={styles.subjectMeta}>
@@ -320,9 +325,8 @@ export default function ResultScreen() {
   );
 }
 
-const t = themes.light;
 
-const styles = StyleSheet.create({
+const makeStyles = (t: AppTheme) => StyleSheet.create({
   safe: { flex: 1, backgroundColor: t.background },
   scroll: { padding: spacing.screenX },
   hero: { borderRadius: radius.lg, alignItems: 'center', paddingVertical: spacing.xl, gap: spacing.xs, marginBottom: spacing.md },

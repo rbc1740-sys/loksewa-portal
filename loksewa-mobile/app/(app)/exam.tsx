@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Exam — the exam hub (rules 3, 27, 28, 23). Lists past papers and the user's
  * custom exams, offers resume of an in-progress session, and starts papers
  * through the one shared exam pipeline (startExam → quiz → submitExamSession).
@@ -17,7 +17,8 @@ import { startExam, startCustomExamSession } from '../../src/services/examServic
 import { useAuthStore } from '../../src/stores/authStore';
 import { useCourseStore } from '../../src/stores/courseStore';
 import { useCustomExamStore } from '../../src/stores/customExamStore';
-import { themes, spacing, radius, typography } from '../../src/constants/theme';
+import { spacing, radius, typography, type AppTheme } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
 import {
   AppButton,
   EmptyState,
@@ -47,6 +48,8 @@ const PAPERS: PaperDef[] = [
 ];
 
 export default function ExamScreen() {
+  const t = useTheme();
+  const styles = makeStyles(t);
   const push = useTypedPush();
   const user = useAuthStore(s => s.user);
   const uid = user?.uid ?? 'device-user';
@@ -176,7 +179,7 @@ export default function ExamScreen() {
             accessibilityLabel="View exam history"
             style={styles.historyIcon}
           >
-            <FileText size={20} color={themes.light.textSecondary} />
+            <FileText size={20} color={t.textSecondary} />
           </Pressable>
         }
       />
@@ -187,9 +190,9 @@ export default function ExamScreen() {
         ListHeaderComponent={
           <View>
             {resumableId ? (
-              <View style={[styles.resumeCard, { backgroundColor: themes.light.primaryLight }]}>
+              <View style={[styles.resumeCard, { backgroundColor: t.primaryLight }]}>
                 <View style={styles.resumeRow}>
-                  <Clock size={18} color={themes.light.primaryDark} />
+                  <Clock size={18} color={t.primaryDark} />
                   <Text style={styles.resumeText}>You have an in-progress exam.</Text>
                 </View>
                 <AppButton label="Continue exam" size="sm" onPress={() => push('/quiz', { sessionId: resumableId })} />
@@ -206,8 +209,8 @@ export default function ExamScreen() {
         renderItem={({ item }) => (
           <View style={styles.paperCard}>
             <View style={styles.paperRow}>
-              <View style={[styles.paperIcon, { backgroundColor: themes.light.infoSoft }]}>
-                <FileText size={18} color={themes.light.secondary} />
+              <View style={[styles.paperIcon, { backgroundColor: t.infoSoft }]}>
+                <FileText size={18} color={t.secondary} />
               </View>
               <View style={styles.paperMain}>
                 <Text style={styles.paperTitle}>{item.title}</Text>
@@ -228,7 +231,7 @@ export default function ExamScreen() {
                   onPress={() => push('/custom-exam-create')}
                   style={styles.addBtn}
                 >
-                  <Plus size={18} color={themes.light.textOnPrimary} />
+                  <Plus size={18} color={t.textOnPrimary} />
                 </Pressable>
               </View>
               {customLoading ? (
@@ -244,8 +247,8 @@ export default function ExamScreen() {
                 custom.map(exam => (
                   <View key={exam.id} style={styles.paperCard}>
                     <View style={styles.paperRow}>
-                      <View style={[styles.paperIcon, { backgroundColor: themes.light.surfaceMuted }]}>
-                        <Trophy size={18} color={themes.light.warning} />
+                      <View style={[styles.paperIcon, { backgroundColor: t.surfaceMuted }]}>
+                        <Trophy size={18} color={t.warning} />
                       </View>
                       <View style={styles.paperMain}>
                         <Text style={styles.paperTitle}>{exam.title}</Text>
@@ -259,7 +262,7 @@ export default function ExamScreen() {
                       <View style={styles.rowActions}>
                         <AppButton label={starting === exam.id ? '…' : 'Start'} size="sm" disabled={!!starting} onPress={() => launchCustom(exam.id)} />
                         <Pressable accessibilityRole="button" accessibilityLabel="Delete custom exam" onPress={() => deleteCustom(exam.id)} hitSlop={8} style={styles.trashBtn}>
-                          <Trash2 size={16} color={themes.light.error} />
+                          <Trash2 size={16} color={t.error} />
                         </Pressable>
                       </View>
                     </View>
@@ -273,9 +276,8 @@ export default function ExamScreen() {
   );
 }
 
-const t = themes.light;
 
-const styles = StyleSheet.create({
+const makeStyles = (t: AppTheme) => StyleSheet.create({
   safe: { flex: 1, backgroundColor: t.background },
   pad: { padding: spacing.screenX },
   list: { padding: spacing.screenX, gap: spacing.sm, paddingBottom: spacing.xxl },
@@ -297,6 +299,6 @@ const styles = StyleSheet.create({
   historyIcon: {
     padding: spacing.xs,
     borderRadius: radius.md,
-    backgroundColor: themes.light.surfaceMuted,
+    backgroundColor: t.surfaceMuted,
   },
 });

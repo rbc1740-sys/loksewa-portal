@@ -1,28 +1,32 @@
 /**
- * Chapters — Subject → Chapters browser. All stats come from
- * getChaptersWithProgress (real user_progress joined via question_hierarchy).
- * Both entry points reuse the existing stable practice engine:
- *   • chapter → practice.tsx?topic=<chapter topic name>
- *   • whole subject → practice.tsx?subject=<subjectId>
+ * Chapters — Subject → Chapters browser (master-prompt rules 7/26).
+ * Statistics come from getChaptersWithProgress (real user_progress joined via
+ * question_hierarchy) — never hard-coded numbers.
+ *
+ * Progressive disclosure: chapter rows open the dedicated Topic detail screen
+ * (topic.tsx) where the user configures and starts practice — the chapter row
+ * itself never embeds controls. Uses Pressable (not onTouchEnd) so the cards
+ * are accessible and never double-fire during scroll.
  */
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
-import { FlatList, StyleSheet, Text, View } from 'react-native';
+import { FlatList, Pressable, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { useLocalSearchParams, useRouter } from 'expo-router';
-import { CheckCircle2, CircleDashed, ListChecks } from 'lucide-react-native';
+import { useLocalSearchParams } from 'expo-router';
+import { CheckCircle2, CircleDashed, ListChecks, PlayCircle } from 'lucide-react-native';
 import {
   getChaptersWithProgress,
   ChapterStats,
 } from '../../src/services/database';
 import { useAuthStore } from '../../src/stores/authStore';
-import { themes, spacing, radius, typography } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
+import { useTypedPush } from '../../src/utils/navigation';
+import { spacing, radius, typography } from '../../src/constants/theme';
 import {
   AppButton,
   EmptyState,
   ErrorState,
   IconButton,
   LoadingState,
-  ProgressBar,
   ScreenHeader,
 } from '../../src/components/ui';
 
@@ -31,7 +35,8 @@ interface ChapterRow extends ChapterStats {
 }
 
 export default function ChaptersScreen() {
-  const router = useRouter();
+  const pushRoute = useTypedPush();
+  const t = useTheme();
   const user = useAuthStore(s => s.user);
   const { subjectId, title } = useLocalSearchParams<{
     subjectId?: string;
@@ -69,15 +74,21 @@ export default function ChaptersScreen() {
 
   const openWholeSubject = useCallback(() => {
     if (!subjectId) return;
-    router.push({ pathname: '/practice', params: { subjectId: String(subjectId) } });
-  }, [router, subjectId]);
+    pushRoute('/practice', { subjectId: String(subjectId) });
+  }, [pushRoute, subjectId]);
 
   const openChapter = useCallback(
     (chapter: ChapterRow) => {
-      // Catalog chapters own exactly one bundled topic each — reuse it.
-      router.push({ pathname: '/practice', params: { topic: chapter.name } });
+      // Progressive disclosure (rule 26): rows open the topic detail screen,
+      // practice configuration happens there.
+      pushRoute('/topic', {
+        subjectId: String(subjectId ?? ''),
+        chapterId: chapter.id,
+        title: chapter.name,
+        subjectTitle: title ?? '',
+      });
     },
-    [router]
+    [pushRoute, subjectId, title]
   );
 
   const totalQuestions = useMemo(
@@ -87,47 +98,67 @@ export default function ChaptersScreen() {
 
   const renderItem = useCallback(
     ({ item }: { item: ChapterRow }) => {
-      const done = item.status === 'completed';
-      const started = item.status !== 'not-started';
+      const Icon =
+        item.status === 'completed'
+          ? CheckCircle2
+          : item.status === 'in-progress'
+            ? PlayCircle
+            : CircleDashed;
+      const iconColor =
+        item.status === 'completed'
+          ? t.success
+          : item.status === 'in-progress'
+            ? t.secondary
+            : t.textTertiary;
+
       return (
-        <View
-          style={[styles.chapterCard, started && styles.chapterCardStarted]}
+        <Pressable
           accessibilityRole="button"
-          accessibilityLabel={`Practice ${item.name}: ${item.attemptedCount} of ${item.questionCount} attempted`}
-          onTouchEnd={() => openChapter(item)}
+          accessibilityLabel={`Open ${item.name}`}
+          accessibilityHint="View topic progress and start practice"
+          onPress={() => openChapter(item)}
+          style={({ pressed }) => [
+            styles.chapterCard,
+            { backgroundColor: t.surface, borderColor: t.border },
+            item.status !== 'not-started' && {
+              borderLeftWidth: 3,
+              borderLeftColor: t.secondary,
+            },
+            pressed && { opacity: 0.85 },
+          ]}
         >
           <View style={styles.rowMain}>
             <View style={styles.statusIcon}>
-              {done ? (
-                <CheckCircle2 size={20} color={themes.light.success} />
-              ) : started ? (
-                <ListChecks size={20} color={themes.light.secondary} />
-              ) : (
-                <CircleDashed size={20} color={themes.light.textTertiary} />
-              )}
+              <Icon size={22} color={iconColor} />
             </View>
             <View style={styles.rowText}>
-              <Text numberOfLines={1} style={styles.chapterName}>{item.name}</Text>
-              <Text style={styles.chapterMeta}>
-                {item.attemptedCount} / {item.questionCount} attempted · {item.accuracyPercent}% accuracy
+              <Text numberOfLines={2} style={[styles.chapterName, { color: t.textPrimary }]}>
+                {item.name}
+              </Text>
+              <Text style={[styles.chapterMeta, { color: t.textSecondary }]}>
+                {item.questionCount} questions
+                {item.attemptedCount > 0
+                  ? ` · ${item.attemptedCount} attempted · ${Math.round(
+                      (item.correctCount / item.attemptedCount) * 100
+                    )}% accuracy`
+                  : ''}
               </Text>
             </View>
-            <Text style={[styles.pct, done && styles.pctDone]}>{item.completionPercent}%</Text>
+            {item.attemptedCount > 0 ? (
+              <Text style={[styles.pct, { color: t.textPrimary }]}>
+                {Math.round(item.completionPercent)}%
+              </Text>
+            ) : null}
           </View>
-          <ProgressBar
-            progress={item.completionPercent / 100}
-            height={5}
-            color={done ? themes.light.success : themes.light.secondary}
-          />
-        </View>
+        </Pressable>
       );
     },
-    [openChapter]
+    [openChapter, t]
   );
 
   if (!user || !subjectId) {
     return (
-      <SafeAreaView style={styles.safe}>
+      <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]}>
         <ScreenHeader title="Chapters" />
         <EmptyState
           title="Subject not found"
@@ -139,16 +170,16 @@ export default function ChaptersScreen() {
   }
 
   return (
-    <SafeAreaView style={styles.safe} edges={['top', 'left', 'right']}>
+    <SafeAreaView
+      style={[styles.safe, { backgroundColor: t.background }]}
+      edges={['top', 'left', 'right']}
+    >
       <ScreenHeader
         title={title ?? 'Chapters'}
         subtitle={`${totalQuestions} questions`}
         right={
-          <IconButton
-            accessibilityLabel="Practice entire subject"
-            onPress={openWholeSubject}
-          >
-            <ListChecks size={20} color={themes.light.secondary} />
+          <IconButton accessibilityLabel="Practice entire subject" onPress={openWholeSubject}>
+            <ListChecks size={20} color={t.secondary} />
           </IconButton>
         }
       />
@@ -167,7 +198,7 @@ export default function ChaptersScreen() {
             <ErrorState message={error} onRetry={() => setReloadToken(n => n + 1)} />
           ) : (
             <EmptyState
-              icon={<ListChecks size={40} color={themes.light.textTertiary} />}
+              icon={<ListChecks size={40} color={t.textTertiary} />}
               title="No questions yet"
               message="This subject has no questions in the current question bank."
             />
@@ -175,7 +206,7 @@ export default function ChaptersScreen() {
         }
       />
       {!error && chapters && chapters.length > 0 && (
-        <View style={styles.footerBar}>
+        <View style={[styles.footerBar, { borderTopColor: t.border, backgroundColor: t.surface }]}>
           <AppButton label="Practice all chapters" onPress={openWholeSubject} fullWidth />
         </View>
       )}
@@ -183,69 +214,44 @@ export default function ChaptersScreen() {
   );
 }
 
-const t = themes.light;
-
 const styles = StyleSheet.create({
-  safe: {
-    flex: 1,
-    backgroundColor: t.background,
-  },
+  safe: { flex: 1 },
   list: {
     padding: spacing.screenX,
     paddingBottom: spacing.xxl,
     gap: spacing.xs,
   },
   chapterCard: {
-    backgroundColor: t.surface,
     borderRadius: radius.md,
     borderWidth: StyleSheet.hairlineWidth,
-    borderColor: t.border,
     padding: spacing.md,
     gap: spacing.sm,
-  },
-  chapterCardStarted: {
-    borderLeftWidth: 3,
-    borderLeftColor: t.secondary,
   },
   rowMain: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: spacing.sm,
   },
-  statusIcon: {
-    width: 32,
-    alignItems: 'center',
-  },
-  rowText: {
-    flex: 1,
-    minWidth: 0,
-  },
+  statusIcon: { width: 32, alignItems: 'center' },
+  rowText: { flex: 1, minWidth: 0 },
   chapterName: {
     ...typography.body,
     fontWeight: '600',
-    color: t.textPrimary,
   },
   chapterMeta: {
     ...typography.caption,
-    color: t.textSecondary,
     marginTop: 2,
   },
   pct: {
     ...typography.cardTitle,
     fontWeight: '700',
-    color: t.secondary,
     fontVariant: ['tabular-nums'],
     minWidth: 46,
     textAlign: 'right',
-  },
-  pctDone: {
-    color: t.success,
   },
   footerBar: {
     paddingHorizontal: spacing.screenX,
     paddingVertical: spacing.sm,
     borderTopWidth: StyleSheet.hairlineWidth,
-    borderTopColor: t.border,
-    backgroundColor: t.surface,
   },
 });

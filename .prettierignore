@@ -27,3 +27,5 @@ check?.cjs
 check*
 
 app.html
+
+.agent.md

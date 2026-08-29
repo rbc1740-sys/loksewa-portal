@@ -1,33 +1,37 @@
 /**
- * Profile Screen - User account & settings
- *
- * Shows the user's real persisted statistics (from SQLite) plus account
- * actions. No placeholder controls — every row either works or isn't shown.
+ * Profile — account center with grouped settings (rule 27/28).
+ * Real persisted stats (SQLite), a theme-mode control driven by the central
+ * settings store, navigation to feature screens, and sign-out.
  */
-import { View, Text, StyleSheet, TouchableOpacity, ToastAndroid, Platform, Alert, ScrollView } from 'react-native';
+import React, { useEffect, useState } from 'react';
+import { Alert, Platform, ScrollView, StyleSheet, Text, ToastAndroid, TouchableOpacity, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
-import { useEffect, useState } from 'react';
-import { LogOut, User, Trophy, Flame, Target, TrendingUp, BarChart2 } from 'lucide-react-native';
+import { BarChart2, Bookmark, Flame, HelpCircle, LogOut, Moon, Shield, Sun, Target, Trophy, User, Monitor } from 'lucide-react-native';
 import { useAuthStore } from '../../src/stores/authStore';
-import {
-  getUserProfile, getAttemptStats, getAchievements,
-  type Achievement,
-} from '../../src/services/database';
+import { useSettingsStore } from '../../src/stores/settingsStore';
+import { getUserProfile, getAttemptStats } from '../../src/services/database';
+import { useTheme } from '../../src/hooks/useTheme';
+import { spacing, radius, typography } from '../../src/constants/theme';
+import { AppCard, AppButton } from '../../src/components/ui';
+import type { ThemeMode } from '../../src/constants/theme';
 
-interface ProfileStats {
-  xp: number;
-  streakDays: number;
-  rankTier: string;
-  rankSub: string;
-  attempted: number;
-  correct: number;
-}
+const THEME_OPTIONS: { key: ThemeMode; label: string; icon: React.ComponentType<{ size?: number; color?: string }> }[] = [
+  { key: 'system', label: 'System', icon: Monitor },
+  { key: 'light', label: 'Light', icon: Sun },
+  { key: 'dark', label: 'Dark', icon: Moon },
+];
 
 export default function ProfileScreen() {
+  const t = useTheme();
   const router = useRouter();
   const { user, signOut } = useAuthStore();
-  const [stats, setStats] = useState<ProfileStats | null>(null);
-  const [achievements, setAchievements] = useState<Achievement[]>([]);
+  const themeMode = useSettingsStore((s) => s.themeMode);
+  const setThemeMode = useSettingsStore((s) => s.setThemeMode);
+  const dailyGoal = useSettingsStore((s) => s.dailyGoal);
+  const setDailyGoal = useSettingsStore((s) => s.setDailyGoal);
+
+  const [stats, setStats] = useState<{ xp: number; streak: number; rank: string; attempted: number; correct: number } | null>(null);
   const [signingOut, setSigningOut] = useState(false);
 
   useEffect(() => {
@@ -35,29 +39,30 @@ export default function ProfileScreen() {
     if (!user) return;
     (async () => {
       try {
-        const [profile, attempts, badges] = await Promise.all([
+        const [profile, attempts] = await Promise.all([
           getUserProfile(user.uid),
           getAttemptStats(user.uid),
-          getAchievements(user.uid),
         ]);
         if (cancelled) return;
         setStats({
           xp: profile?.xp ?? 0,
-          streakDays: profile?.streak_days ?? 0,
-          rankTier: profile?.rank_tier ?? 'Unranked',
-          rankSub: profile?.rank_sub ?? '',
+          streak: profile?.streak_days ?? 0,
+          rank: profile ? (profile.rank_sub ? `${profile.rank_tier} ${profile.rank_sub}` : profile.rank_tier) : 'Unranked',
           attempted: attempts.attempted ?? 0,
           correct: attempts.correct ?? 0,
         });
-        setAchievements(badges);
-      } catch (error) {
-        console.error('Failed to load profile stats:', error);
+      } catch (e) {
+        console.error('[Profile] load failed:', e);
       }
     })();
     return () => { cancelled = true; };
   }, [user]);
 
-  const handleSignOut = async () => {
+  if (!user) return null;
+
+  const accuracy = stats && stats.attempted > 0 ? Math.round((stats.correct / stats.attempted) * 100) : null;
+
+  const handleSignOut = () => {
     Alert.alert('Sign Out', 'Are you sure you want to sign out?', [
       { text: 'Cancel', style: 'cancel' },
       {
@@ -67,202 +72,167 @@ export default function ProfileScreen() {
           setSigningOut(true);
           try {
             await signOut();
-            router.replace('/(auth)/auth-choice');
-          } catch (error) {
+            router.replace('/(auth)/auth-choice' as never);
+          } catch (e) {
             setSigningOut(false);
-            if (Platform.OS === 'android') {
-              ToastAndroid.show('Sign out failed. Please try again.', ToastAndroid.SHORT);
-            } else {
-              Alert.alert('Sign out failed', 'Please try again.');
-            }
+            if (Platform.OS === 'android') ToastAndroid.show('Sign out failed', ToastAndroid.SHORT);
+            else Alert.alert('Sign out failed', 'Please try again.');
           }
         },
       },
     ]);
   };
 
-  const accuracy = stats && stats.attempted > 0
-    ? Math.round((stats.correct / stats.attempted) * 100)
-    : null;
-  const rankLabel = stats
-    ? (stats.rankSub ? `${stats.rankTier} ${stats.rankSub}` : stats.rankTier)
-    : '—';
-
-  const statRows = [
-    { icon: Trophy, color: '#f59e0b', label: 'Current Rank', value: rankLabel },
-    { icon: Flame, color: '#ef4444', label: 'Day Streak', value: `${stats?.streakDays ?? 0}` },
-    { icon: Target, color: '#6366f1', label: 'Total XP', value: `${stats?.xp ?? 0}` },
-    { icon: BarChart2, color: '#3b82f6', label: 'Questions Attempted', value: `${stats?.attempted ?? 0}` },
-    { icon: TrendingUp, color: '#10b981', label: 'Accuracy', value: accuracy === null ? '—' : `${accuracy}%` },
-  ];
-
+  const navRow = (icon: React.ReactNode, label: string, onPress: () => void, danger = false) => (
+    <TouchableOpacity style={styles.row} onPress={onPress} accessible accessibilityRole="button">
+      {icon}
+      <Text style={[styles.rowLabel, { color: danger ? t.error : t.textPrimary }]}>{label}</Text>
+      <Text style={styles.chevron}>{'>'}</Text>
+    </TouchableOpacity>
+  );
   return (
-    <ScrollView style={styles.container} contentContainerStyle={styles.content}>
-      <View style={styles.header}>
-        <View style={styles.avatar}>
-          <User size={28} color="#fff" />
-        </View>
-        <Text style={styles.name}>{user?.displayName || 'Student'}</Text>
-        <Text style={styles.email}>{user?.email || 'Signed in'}</Text>
-      </View>
-
-      <View style={[styles.section, styles.statsSection]}>
-        <Text style={styles.sectionTitle}>Your Statistics</Text>
-        {statRows.map(({ icon: Icon, color, label, value }) => (
-          <View key={label} style={styles.statRow}>
-            <Icon size={20} color={color} />
-            <Text style={styles.statLabel}>{label}</Text>
-            <Text style={[styles.statValue, { color }]}>{value}</Text>
+    <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]}>
+      <ScrollView contentContainerStyle={styles.content}>
+        {/* Profile header */}
+        <View style={styles.header}>
+          <View style={[styles.avatar, { backgroundColor: t.primaryLight }]}>
+            <User size={32} color={t.primaryDark} />
           </View>
-        ))}
-      </View>
-
-      {/* Achievements / Badges */}
-      {achievements.length > 0 && (
-        <View style={styles.section}>
-          <Text style={styles.sectionTitle}>Achievements</Text>
-          <View style={styles.badgesGrid}>
-            {achievements.map((badge, index) => (
-              <View key={index} style={styles.badgeCard}>
-                <Text style={styles.badgeIcon}>{badge.icon || '🏅'}</Text>
-                <Text style={styles.badgeName}>{badge.name}</Text>
-                <Text style={styles.badgeDesc}>{badge.description}</Text>
-              </View>
-            ))}
+          <View style={styles.headerText}>
+            <Text style={[styles.name, { color: t.textPrimary }]} numberOfLines={1}>
+              {user.displayName || 'Learner'}
+            </Text>
+            <Text style={[styles.rank, { color: t.textSecondary }]} numberOfLines={1}>
+              {stats?.rank ?? 'Unranked'}
+            </Text>
           </View>
         </View>
-      )}
 
-      <View style={styles.section}>
-        <TouchableOpacity style={styles.row} onPress={handleSignOut} disabled={signingOut}>
-          <LogOut size={20} color="#ef4444" />
-          <Text style={styles.dangerText}>{signingOut ? 'Signing out…' : 'Sign Out'}</Text>
-        </TouchableOpacity>
-      </View>
+        {/* Quick stats */}
+        <View style={styles.statsRow}>
+          <View style={[styles.stat, { backgroundColor: t.surfaceAlt }]}>
+            <Trophy size={18} color={t.warning} />
+            <Text style={[styles.statValue, { color: t.textPrimary }]}>{stats?.xp ?? 0}</Text>
+            <Text style={[styles.statLabel, { color: t.textSecondary }]}>XP</Text>
+          </View>
+          <View style={[styles.stat, { backgroundColor: t.surfaceAlt }]}>
+            <Flame size={18} color={t.error} />
+            <Text style={[styles.statValue, { color: t.textPrimary }]}>{stats?.streak ?? 0}</Text>
+            <Text style={[styles.statLabel, { color: t.textSecondary }]}>Streak</Text>
+          </View>
+          <View style={[styles.stat, { backgroundColor: t.surfaceAlt }]}>
+            <Target size={18} color={t.success} />
+            <Text style={[styles.statValue, { color: t.textPrimary }]}>{accuracy ?? '—'}{accuracy != null ? '%' : ''}</Text>
+            <Text style={[styles.statLabel, { color: t.textSecondary }]}>Accuracy</Text>
+          </View>
+        </View>
 
-      <Text style={styles.versionText}>Loksewa Prep Pro • v1.0.0</Text>
-    </ScrollView>
+        {/* Learning section */}
+        <Text style={[styles.groupLabel, { color: t.textSecondary }]}>Learning</Text>
+        <AppCard padded={false} elevated style={styles.group}>
+          {navRow(<BarChart2 size={20} color={t.secondary} />, 'Analytics', () => router.push('/analytics' as never))}
+          {navRow(<Bookmark size={20} color={t.info} />, 'Bookmarks', () => router.push('/bookmarks' as never))}
+        </AppCard>
+
+        {/* Preferences section */}
+        <Text style={[styles.groupLabel, { color: t.textSecondary }]}>Preferences</Text>
+        <AppCard padded style={styles.group}>
+          <View style={styles.settingRow}>
+            <View style={styles.settingLeft}>
+              <Text style={[styles.settingLabel, { color: t.textPrimary }]}>Theme</Text>
+              <Text style={[styles.settingHint, { color: t.textSecondary }]}>Appearance mode</Text>
+            </View>
+            <View style={styles.themeToggle}>
+              {THEME_OPTIONS.map((opt) => {
+                const Icon = opt.icon;
+                const active = themeMode === opt.key;
+                return (
+                  <TouchableOpacity
+                    key={opt.key}
+                    onPress={() => setThemeMode(opt.key)}
+                    style={[styles.themeBtn, active && { backgroundColor: t.secondary }]}
+                    accessibilityRole="button"
+                    accessibilityLabel={`${opt.label} theme`}
+                    accessibilityState={{ selected: active }}
+                  >
+                    <Icon size={16} color={active ? t.textOnPrimary : t.textSecondary} />
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+          <View style={[styles.divider, { backgroundColor: t.border }]} />
+          <View style={styles.settingRow}>
+            <View style={styles.settingLeft}>
+              <Text style={[styles.settingLabel, { color: t.textPrimary }]}>Daily goal</Text>
+              <Text style={[styles.settingHint, { color: t.textSecondary }]}>{dailyGoal} questions / day</Text>
+            </View>
+            <View style={styles.goalToggle}>
+              {[10, 20, 50].map((g) => {
+                const active = dailyGoal === g;
+                return (
+                  <TouchableOpacity
+                    key={g}
+                    onPress={() => setDailyGoal(g)}
+                    style={[styles.goalBtn, active && { backgroundColor: t.secondary }]}
+                    accessibilityRole="button"
+                    accessibilityLabel={`${g} questions daily goal`}
+                    accessibilityState={{ selected: active }}
+                  >
+                    <Text style={[styles.goalText, { color: active ? t.textOnPrimary : t.textSecondary }]}>{g}</Text>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </View>
+        </AppCard>
+
+        {/* About section */}
+        <Text style={[styles.groupLabel, { color: t.textSecondary }]}>About</Text>
+        <AppCard padded={false} elevated style={styles.group}>
+          {navRow(<Shield size={20} color={t.textSecondary} />, 'Privacy & Terms', () => {})}
+          {navRow(<HelpCircle size={20} color={t.textSecondary} />, 'Help & Support', () => {})}
+        </AppCard>
+
+        {/* Sign out */}
+        <AppButton
+          label="Sign Out"
+          variant="danger"
+          fullWidth
+          loading={signingOut}
+          onPress={handleSignOut}
+          icon={<LogOut size={18} color={t.error} />}
+        />
+      </ScrollView>
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#f8fafc',
-    paddingHorizontal: 24,
-    paddingTop: 48,
-  },
-  header: {
-    alignItems: 'center',
-    marginBottom: 32,
-  },
-  avatar: {
-    width: 88,
-    height: 88,
-    borderRadius: 44,
-    backgroundColor: '#6366f1',
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginBottom: 16,
-  },
-  name: {
-    fontSize: 22,
-    fontWeight: '800',
-    color: '#0f172a',
-  },
-  email: {
-    fontSize: 14,
-    color: '#64748b',
-    marginTop: 4,
-  },
-  section: {
-    backgroundColor: '#fff',
-    borderRadius: 16,
-    overflow: 'hidden',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 8,
-    elevation: 2,
-  },
-  row: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 12,
-    paddingHorizontal: 16,
-    paddingVertical: 16,
-  },
-  dangerText: {
-    fontSize: 16,
-    fontWeight: '600',
-    color: '#ef4444',
-  },
-  content: {
-    paddingBottom: 40,
-  },
-  sectionTitle: {
-    fontSize: 15,
-    fontWeight: '700',
-    color: '#0f172a',
-    marginBottom: 8,
-  },
-  statsSection: {
-    padding: 16,
-    marginBottom: 16,
-  },
-  statRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 12,
-    paddingVertical: 12,
-    borderBottomWidth: 1,
-    borderBottomColor: '#f1f5f9',
-  },
-  statLabel: {
-    flex: 1,
-    fontSize: 15,
-    color: '#334155',
-  },
-  statValue: {
-    fontSize: 15,
-    fontWeight: '700',
-    fontVariant: ['tabular-nums'],
-  },
-  versionText: {
-    textAlign: 'center',
-    fontSize: 12,
-    color: '#94a3b8',
-    marginTop: 24,
-  },
-  badgesGrid: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 12,
-    padding: 16,
-  },
-  badgeCard: {
-    width: 100,
-    backgroundColor: '#f8fafc',
-    borderRadius: 12,
-    padding: 12,
-    alignItems: 'center',
-    borderWidth: 1,
-    borderColor: '#f1f5f9',
-  },
-  badgeIcon: {
-    fontSize: 28,
-    marginBottom: 8,
-  },
-  badgeName: {
-    fontSize: 12,
-    fontWeight: '700',
-    color: '#0f172a',
-    textAlign: 'center',
-    marginBottom: 4,
-  },
-  badgeDesc: {
-    fontSize: 10,
-    color: '#94a3b8',
-    textAlign: 'center',
-  },
+  safe: { flex: 1 },
+  content: { padding: spacing.screenX, paddingBottom: spacing.xxl, gap: spacing.sm },
+  header: { flexDirection: 'row', alignItems: 'center', gap: spacing.md, marginBottom: spacing.sm },
+  avatar: { width: 56, height: 56, borderRadius: radius.pill, alignItems: 'center', justifyContent: 'center' },
+  headerText: { flex: 1 },
+  name: { ...typography.sectionTitle, fontWeight: '700' },
+  rank: { ...typography.bodySmall, marginTop: 2 },
+  statsRow: { flexDirection: 'row', gap: spacing.sm },
+  stat: { flex: 1, alignItems: 'center', paddingVertical: spacing.sm, borderRadius: radius.md },
+  statValue: { ...typography.cardTitle, fontWeight: '800', marginTop: 2 },
+  statLabel: { ...typography.micro, marginTop: 1 },
+  groupLabel: { ...typography.bodySmall, fontWeight: '700', marginTop: spacing.sm, marginBottom: spacing.xxs },
+  group: { overflow: 'hidden' },
+  row: { flexDirection: 'row', alignItems: 'center', gap: spacing.md, paddingHorizontal: spacing.md, paddingVertical: spacing.sm + 2, minHeight: 48 },
+  rowLabel: { ...typography.body, flex: 1 },
+  chevron: { fontSize: 16, color: '#94a3b8' as string },
+  settingRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingVertical: spacing.xs },
+  settingLeft: { flex: 1 },
+  settingLabel: { ...typography.body, fontWeight: '600' },
+  settingHint: { ...typography.caption, marginTop: 2 },
+  themeToggle: { flexDirection: 'row', gap: spacing.xxs },
+  themeBtn: { width: 36, height: 36, borderRadius: radius.sm, alignItems: 'center', justifyContent: 'center' },
+  divider: { height: StyleSheet.hairlineWidth, marginVertical: spacing.xs },
+  goalToggle: { flexDirection: 'row', gap: spacing.xxs },
+  goalBtn: { paddingHorizontal: spacing.sm, height: 36, borderRadius: radius.sm, alignItems: 'center', justifyContent: 'center' },
+  goalText: { ...typography.bodySmall, fontWeight: '700' },
 });

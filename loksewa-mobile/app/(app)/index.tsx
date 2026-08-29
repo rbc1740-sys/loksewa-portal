@@ -1,679 +1,745 @@
 /**
- * Home Screen - Dashboard with stats, quick actions, and progress
+ * Home — personalized learning dashboard (Phase 2 rebuild).
+ *
+ * Architecture (master-prompt rule 6):
+ *   HEADER          → identity, streak, course switcher
+ *   ACTIVE LEARNING → Continue Learning (resumable exam OR last topic)
+ *   DAILY           → daily goal + Question of the Day
+ *   DISCOVERY       → subjects with live progress, weak areas
+ *   QUICK ACTIONS   → bookmarks / mistakes / smart review / history
+ *
+ * Every number is read from the central data layer (rule 31) — nothing is
+ * estimated or cached on the UI side. Focus-driven reload keeps stats fresh
+ * after practice without global state churn (rule 24).
  */
-import { View, Text, TouchableOpacity, StyleSheet, ScrollView, Image } from 'react-native';
-import { useRouter } from 'expo-router';
-import { useEffect, useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import {
-  BookOpen, Timer, Zap, Brain, Target, Flame, Trophy, TrendingUp,
-  Award, Calendar, Clock, ArrowRight, Plus, BarChart2, ListChecks, Bookmark
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+  RefreshControl,
+  Pressable,
+} from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { useLocalSearchParams, useRouter, useFocusEffect } from 'expo-router';
+import {
+  Flame,
+  ChevronRight,
+  ChevronDown,
+  Play,
+  BookOpen,
+  Bookmark,
+  AlertTriangle,
+  Brain,
+  History,
+  Layers,
+  CheckCircle2,
+  Timer,
 } from 'lucide-react-native';
 import { useAuthStore } from '../../src/stores/authStore';
-import { useTypedPush } from '../../src/utils/navigation';
-import { getUserProfile, getQuestionCountByTopic, getSRStats, getAttemptStats, getQuestionOfTheDay, getWeakPoints } from '../../src/services/database';
+import { useCourseStore } from '../../src/stores/courseStore';
+import { useSettingsStore } from '../../src/stores/settingsStore';
+import {
+  getSubjectsWithProgress,
+  getAttemptsToday,
+  getLastStudiedTopic,
+  getLatestActiveExamSession,
+  getQuestionOfTheDay,
+  getSRStats,
+  getWeakPoints,
+  getUserProfile,
+  type SubjectStats,
+  type LastStudiedTopic,
+  type ExamSession,
+  type DailyQuestion,
+} from '../../src/services/database';
+import {
+  AppCard,
+  SectionHeader,
+  ProgressBar,
+  SubjectCard,
+  BottomSheet,
+  SkeletonCard,
+  ErrorState,
+} from '../../src/components/ui';
+import { radius, spacing, typography } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
+
+interface HomeData {
+  subjects: SubjectStats[];
+  today: { attempted: number; correct: number };
+  lastTopic: LastStudiedTopic | null;
+  activeExam: ExamSession | null;
+  qotd: DailyQuestion | null;
+  dueCount: number;
+  weakCount: number;
+  streak: number;
+}
 
 export default function HomeScreen() {
   const router = useRouter();
-  const pushRoute = useTypedPush();
-  const { user } = useAuthStore();
-  const [profile, setProfile] = useState<{
-    xp: number;
-    streak_days: number;
-    rank_tier: string;
-    rank_sub: string;
-    daily_goal_minutes: number;
-    exam_target_date?: number;
-  } | null>(null);
-  const [topicCounts, setTopicCounts] = useState<Record<string, number>>({});
-  const [srStats, setSrStats] = useState({ due: 0, learning: 0, review: 0, mastered: 0 });
-  const [attemptStats, setAttemptStats] = useState({ attempted: 0, correct: 0, wrong: 0 });
-  const [qotd, setQotd] = useState<{ question: any; dateString: string } | null>(null);
-  const [weakPoints, setWeakPoints] = useState<string[]>([]);
+  const params = useLocalSearchParams<{ courseSwitched?: string }>();
+  const t = useTheme();
+  const user = useAuthStore((s) => s.user);
+  const activeCourseId = useCourseStore((s) => s.activeCourseId);
+  const courses = useCourseStore((s) => s.courses);
+  const setCourse = useCourseStore((s) => s.setCourse);
+  const dailyGoal = useSettingsStore((s) => s.dailyGoal);
+
+  const [data, setData] = useState<HomeData | null>(null);
   const [loading, setLoading] = useState(true);
-  const [loadError, setLoadError] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [refreshing, setRefreshing] = useState(false);
+  const [courseSheetOpen, setCourseSheetOpen] = useState(false);
 
-  useEffect(() => {
-    loadData();
-  }, [user]);
+  const userId = user?.uid ?? 'device-user';
+  const activeCourse = courses.find((c) => c.id === activeCourseId) ?? courses[0];
 
-  const loadData = async () => {
-    if (!user) return;
-    setLoading(true);
-    setLoadError(false);
+  const load = useCallback(async () => {
+    setError(null);
     try {
-      const [profileData, counts, sr, attempts, daily, weak] = await Promise.all([
-        getUserProfile(user.uid),
-        getQuestionCountByTopic(),
-        getSRStats(user.uid),
-        getAttemptStats(user.uid),
-        getQuestionOfTheDay(),
-        getWeakPoints(user.uid),
-      ]);
-      setProfile(profileData);
-      setTopicCounts(counts);
-      setSrStats(sr ?? { due: 0, learning: 0, review: 0, mastered: 0 });
-      setAttemptStats(attempts ?? { attempted: 0, correct: 0, wrong: 0 });
-      if (daily) setQotd({ question: daily.question, dateString: daily.dateString });
-      setWeakPoints(weak.map(w => w.question_id));
-    } catch (error) {
-      console.error('Failed to load home data:', error);
-      setLoadError(true);
+      const [subjects, today, lastTopic, activeExam, qotd, srStats, weakPoints, profile] =
+        await Promise.all([
+          getSubjectsWithProgress(userId, activeCourseId ?? undefined),
+          getAttemptsToday(userId),
+          getLastStudiedTopic(userId),
+          getLatestActiveExamSession(userId),
+          getQuestionOfTheDay(),
+          getSRStats(userId),
+          getWeakPoints(userId),
+          getUserProfile(userId),
+        ]);
+      setData({
+        subjects,
+        today,
+        lastTopic,
+        activeExam,
+        qotd,
+        dueCount: srStats.due,
+        weakCount: weakPoints.length,
+        streak: profile?.streak_days ?? 0,
+      });
+    } catch (e) {
+      console.warn('[Home] load failed:', e);
+      setError('Could not load your dashboard. Your data is safe — try again.');
     } finally {
       setLoading(false);
+      setRefreshing(false);
     }
-  };
-  
-  const totalQuestions = Object.values(topicCounts).reduce((a, b) => a + b, 0);
-  // Never render undefined — fall back to meaningful placeholders while the
-  // profile row is missing or partially initialized (rule 7/40).
-  const rankTier = profile?.rank_tier ?? 'Unranked';
-  const rankSub = profile?.rank_sub ?? '';
-  const rankName = rankSub ? `${rankTier} ${rankSub}` : rankTier;
-  const accuracy = attemptStats.attempted > 0
-    ? Math.round((attemptStats.correct / attemptStats.attempted) * 100)
-    : null;
+  }, [userId, activeCourseId]);
 
-  const greeting = (() => {
-    const h = new Date().getHours();
-    if (h < 12) return 'Good morning,';
-    if (h < 17) return 'Good afternoon,';
-    return 'Good evening,';
-  })();
-  
-  const quickActions: {
-    icon: typeof BookOpen;
-    label: string;
-    desc: string;
-    color: string;
-    screen: '/practice' | '/exam' | '/battle' | '/spaced' | '/subjects' | '/mistakes' | '/bookmarks';
-  }[] = [
-    { icon: BookOpen, label: 'Practice', desc: 'Objective MCQs', color: '#6366f1', screen: '/practice' },
-    { icon: Timer, label: 'Timed Exam', desc: 'Full mock tests', color: '#3b82f6', screen: '/exam' },
-    { icon: Zap, label: 'Battle', desc: '1v1 real-time', color: '#f59e0b', screen: '/battle' },
-    { icon: Brain, label: 'Spaced Review', desc: `${srStats.due} due now`, color: '#10b981', screen: '/spaced' },
-    { icon: ListChecks, label: 'Subjects', desc: 'Browse chapters', color: '#8b5cf6', screen: '/subjects' },
-    { icon: Target, label: 'Mistakes', desc: `${attemptStats.wrong} to fix`, color: '#ef4444', screen: '/mistakes' },
-    { icon: Bookmark, label: 'Bookmarks', desc: 'Saved questions', color: '#0ea5e9', screen: '/bookmarks' },
-  ];
-  
-  const statCards = [
-    { icon: Trophy, value: rankName, label: 'Current Rank', color: '#f59e0b' },
-    { icon: Flame, value: `${profile?.streak_days ?? 0}`, label: 'Day Streak', color: '#ef4444' },
-    { icon: Target, value: `${profile?.xp ?? 0} XP`, label: 'Total XP', color: '#6366f1' },
-    { icon: BookOpen, value: totalQuestions.toLocaleString(), label: 'Bank Questions', color: '#8b5cf6' },
-    { icon: BarChart2, value: attemptStats.attempted.toLocaleString(), label: 'Attempted', color: '#3b82f6' },
-    { icon: TrendingUp, value: accuracy === null ? '—' : `${accuracy}%`, label: 'Accuracy', color: '#10b981' },
-  ];
+  // Reload on every focus so returning from practice/exam reflects fresh
+  // progress without keeping listeners alive (screen-scoped, rule 24).
+  useFocusEffect(
+    useCallback(() => {
+      load();
+    }, [load])
+  );
 
-  if (loading) {
+  const onRefresh = useCallback(() => {
+    setRefreshing(true);
+    load();
+  }, [load]);
+
+  const firstName = (user?.displayName ?? 'there').split(' ')[0];
+  const hour = new Date().getHours();
+  const greeting = hour < 12 ? 'Good morning' : hour < 17 ? 'Good afternoon' : 'Good evening';
+
+  const goalProgress = data ? Math.min(1, data.today.attempted / Math.max(1, dailyGoal)) : 0;
+
+  if (loading && !data) {
     return (
-      <View style={styles.loadingContainer}>
-        <Text style={styles.loadingText}>Loading dashboard...</Text>
-      </View>
+      <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]} edges={['top']}>
+        <View style={styles.loadWrap}>
+          <SkeletonCard lines={2} />
+          <SkeletonCard lines={3} />
+          <SkeletonCard lines={2} />
+        </View>
+      </SafeAreaView>
     );
   }
 
-  if (loadError) {
+  if (error && !data) {
     return (
-      <View style={styles.loadingContainer}>
-        <Text style={[styles.loadingText, { marginBottom: 16 }]}>Could not load your dashboard.</Text>
-        <TouchableOpacity style={styles.retryBtn} onPress={loadData}>
-          <Text style={styles.retryBtnText}>Retry</Text>
-        </TouchableOpacity>
-      </View>
+      <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]} edges={['top']}>
+        <ErrorState message={error} onRetry={load} variant="server" />
+      </SafeAreaView>
     );
   }
-  
+
+  const examAnswered = data?.activeExam
+    ? Object.keys(JSON.parse(data.activeExam.answers_json || '{}')).length
+    : 0;
+
   return (
-    <ScrollView style={styles.container} contentContainerStyle={styles.content} showsVerticalScrollIndicator={false}>
-      {/* Header */}
-      <View style={styles.header}>
-        <View style={styles.userInfo}>
-          <Text style={styles.greeting}>{greeting}</Text>
-          <Text style={styles.userName}>{user?.displayName || 'Student'}</Text>
+    <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]} edges={['top']}>
+      <ScrollView
+        showsVerticalScrollIndicator={false}
+        contentContainerStyle={styles.content}
+        refreshControl={
+          <RefreshControl refreshing={refreshing} onRefresh={onRefresh} tintColor={t.secondary} />
+        }
+      >
+        {/* ------------------------------ HEADER ------------------------------ */}
+        <View style={styles.header}>
+          <View style={styles.headerMain}>
+            <Text style={[styles.greeting, { color: t.textSecondary }]}>{greeting},</Text>
+            <Text numberOfLines={1} style={[styles.name, { color: t.textPrimary }]}>
+              {firstName}
+            </Text>
+          </View>
+          <View style={[styles.streakChip, { backgroundColor: t.warningSoft }]}>
+            <Flame size={16} color={t.warning} />
+            <Text style={[styles.streakText, { color: t.warning }]}>{data?.streak ?? 0}</Text>
+          </View>
         </View>
-        <View style={styles.avatar}>
-          <Text style={styles.avatarText}>{user?.displayName?.charAt(0).toUpperCase() || 'S'}</Text>
-        </View>
-      </View>
-      
-      {/* Stats Grid */}
-      <View style={styles.statsGrid}>
-        {statCards.map((stat, index) => (
-          <TouchableOpacity key={index} style={styles.statCard} onPress={() => router.push('/profile')}>
-            <View style={[{ backgroundColor: `${stat.color}15` }, styles.statIcon]}>
-              <stat.icon size={22} color={stat.color} />
-            </View>
-            <Text style={styles.statValue}>{stat.value}</Text>
-            <Text style={styles.statLabel}>{stat.label}</Text>
-          </TouchableOpacity>
-        ))}
-      </View>
-      
-      {/* Quick Actions */}
-      <View style={styles.section}>
-        <View style={styles.sectionHeader}>
-          <Text style={styles.sectionTitle}>Quick Actions</Text>
-        </View>
-        <View style={styles.actionsGrid}>
-          {quickActions.map((action, index) => (
-            <TouchableOpacity
-              key={index}
-              style={styles.actionCard}
-              onPress={() => pushRoute(action.screen)}
-            >
-              <View style={[{ backgroundColor: `${action.color}15` }, styles.actionIcon]}>
-                <action.icon size={24} color={action.color} />
-              </View>
-              <Text style={styles.actionLabel}>{action.label}</Text>
-              <Text style={styles.actionDesc}>{action.desc}</Text>
-            </TouchableOpacity>
-          ))}
-        </View>
-      </View>
 
-      {/* Question of the Day */}
-      {qotd && (
-        <View style={styles.section}>
-          <View style={styles.sectionHeader}>
-            <Text style={styles.sectionTitle}>Question of the Day</Text>
-          </View>
-          <View style={styles.qotdCard}>
-            <View style={styles.qotdHeader}>
-              <View style={styles.qotdIcon}>
-                <Calendar size={20} color="#6366f1" />
-              </View>
-              <View>
-                <Text style={styles.qotdDate}>Today, {new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' })}</Text>
-              </View>
-            </View>
-            <Text style={styles.qotdQuestion}>{qotd.question.question}</Text>
-            <TouchableOpacity
-              style={styles.qotdButton}
-              onPress={() => pushRoute('/practice')}
-            >
-              <Text style={styles.qotdButtonText}>Answer Now</Text>
-              <ArrowRight size={16} color="#fff" />
-            </TouchableOpacity>
-          </View>
-        </View>
-      )}
-      
-      {/* Spaced Repetition Status */}
-      <View style={styles.section}>
-        <View style={styles.sectionHeader}>
-          <Text style={styles.sectionTitle}>Spaced Review Status</Text>
-        </View>
-        <View style={styles.srCards}>
-          <View style={[styles.srCard, { borderLeftColor: '#ef4444' }]}>
-            <Text style={styles.srCount}>{srStats.due}</Text>
-            <Text style={styles.srLabel}>Due Now</Text>
-            <Text style={styles.srSubtext}>Needs immediate review</Text>
-          </View>
-          <View style={[styles.srCard, { borderLeftColor: '#f59e0b' }]}>
-            <Text style={styles.srCount}>{srStats.learning}</Text>
-            <Text style={styles.srLabel}>Learning</Text>
-            <Text style={styles.srSubtext}>New questions</Text>
-          </View>
-          <View style={[styles.srCard, { borderLeftColor: '#3b82f6' }]}>
-            <Text style={styles.srCount}>{srStats.review}</Text>
-            <Text style={styles.srLabel}>Reviewing</Text>
-            <Text style={styles.srSubtext}>Strengthening memory</Text>
-          </View>
-          <View style={[styles.srCard, { borderLeftColor: '#10b981' }]}>
-            <Text style={styles.srCount}>{srStats.mastered}</Text>
-            <Text style={styles.srLabel}>Mastered</Text>
-            <Text style={styles.srSubtext}>Long-term retention</Text>
-          </View>
-        </View>
-        {srStats.due > 0 && (
-          <TouchableOpacity style={styles.startReviewButton} onPress={() => router.push('/spaced')}>
-            <Text style={styles.startReviewButtonText}>Start Smart Review ({srStats.due} questions)</Text>
-          </TouchableOpacity>
-        )}
-      </View>
+        {/* Course selector — progressive disclosure via bottom sheet (rule 26). */}
+        <Pressable
+          onPress={() => setCourseSheetOpen(true)}
+          accessibilityRole="button"
+          accessibilityLabel={`Active course: ${activeCourse?.name ?? 'Select course'}. Tap to change.`}
+          style={({ pressed }) => [
+            styles.courseChip,
+            { backgroundColor: t.surface, borderColor: t.border },
+            pressed && { opacity: 0.8 },
+          ]}
+        >
+          <Layers size={16} color={t.secondary} />
+          <Text numberOfLines={1} style={[styles.courseChipText, { color: t.textPrimary }]}>
+            {activeCourse?.name ?? 'Select course'}
+          </Text>
+          <ChevronDown size={16} color={t.textTertiary} />
+        </Pressable>
 
-      {/* Weak Areas & Recommendations */}
-      {weakPoints.length > 0 && (
-        <View style={styles.section}>
-          <View style={styles.sectionHeader}>
-            <Text style={styles.sectionTitle}>Focus Areas</Text>
-            <TouchableOpacity style={styles.viewAllButton} onPress={() => router.push('/practice?filter=weak')}>
-              <Text style={styles.viewAllText}>View All</Text>
-              <ArrowRight size={16} color="#6366f1" />
-            </TouchableOpacity>
-          </View>
-          <View style={styles.topicList}>
-            <View style={styles.recommendCard}>
-              <View style={styles.recommendIcon}>
-                <Target size={20} color="#ef4444" />
+        {/* -------------------------- ACTIVE LEARNING -------------------------- */}
+        {data?.activeExam ? (
+          <AppCard style={styles.section}>
+            <View style={styles.continueRow}>
+              <View style={[styles.continueIcon, { backgroundColor: t.primaryLight }]}>
+                <Timer size={22} color={t.secondary} />
               </View>
-              <View style={styles.recommendContent}>
-                <Text style={styles.recommendTitle}>Weak areas detected</Text>
-                <Text style={styles.recommendDesc}>
-                  You have {weakPoints.length} flagged question{weakPoints.length > 1 ? 's' : ''}. Practice them to improve.
+              <View style={styles.continueBody}>
+                <Text style={[styles.continueKicker, { color: t.secondary }]}>
+                  EXAM IN PROGRESS
+                </Text>
+                <Text numberOfLines={1} style={[styles.continueTitle, { color: t.textPrimary }]}>
+                  {data.activeExam.topic ?? 'Practice exam'}
+                </Text>
+                <Text style={[styles.continueMeta, { color: t.textSecondary }]}>
+                  {examAnswered}/{data.activeExam.question_count} answered · resume anytime
                 </Text>
               </View>
-              <TouchableOpacity
-                style={styles.recommendAction}
-                onPress={() => router.push('/practice?filter=weak')}
+              <Pressable
+                onPress={() =>
+                  router.push({
+                    pathname: '/(app)/quiz',
+                    params: {
+                      sessionId: data.activeExam!.id,
+                      title: data.activeExam!.topic ?? 'Exam',
+                    },
+                  })
+                }
+                accessibilityRole="button"
+                accessibilityLabel="Resume exam"
+                style={[styles.continueCta, { backgroundColor: t.primary }]}
               >
-                <Text style={styles.recommendActionText}>Practice Now</Text>
-              </TouchableOpacity>
+                <Play size={16} color={t.textOnPrimary} />
+              </Pressable>
             </View>
-          </View>
-        </View>
-      )}
-      
-      {/* Topic Progress */}
-      <View style={styles.section}>
-        <View style={styles.sectionHeader}>
-          <Text style={styles.sectionTitle}>Topic Progress</Text>
-          <TouchableOpacity style={styles.viewAllButton} onPress={() => router.push('/practice')}>
-            <Text style={styles.viewAllText}>View All</Text>
-            <ArrowRight size={16} color="#6366f1" />
-          </TouchableOpacity>
-        </View>
-        <View style={styles.topicList}>
-          {Object.entries(topicCounts).slice(0, 6).map(([topic, count]) => (
-            <View key={topic} style={styles.topicRow}>
-              <Text style={styles.topicName}>{topic}</Text>
-              <Text style={styles.topicCount}>{count} questions</Text>
+          </AppCard>
+        ) : data?.lastTopic ? (
+          <AppCard style={styles.section}>
+            <View style={styles.continueRow}>
+              <View style={[styles.continueIcon, { backgroundColor: t.primaryLight }]}>
+                <BookOpen size={22} color={t.secondary} />
+              </View>
+              <View style={styles.continueBody}>
+                <Text style={[styles.continueKicker, { color: t.secondary }]}>
+                  CONTINUE LEARNING
+                </Text>
+                <Text numberOfLines={1} style={[styles.continueTitle, { color: t.textPrimary }]}>
+                  {data.lastTopic.topicName}
+                </Text>
+                <Text style={[styles.continueMeta, { color: t.textSecondary }]}>
+                  {data.lastTopic.subjectName} · {data.lastTopic.attemptedCount}/
+                  {data.lastTopic.questionCount} attempted
+                </Text>
+                <View style={styles.continueProgress}>
+                  <ProgressBar
+                    progress={
+                      data.lastTopic.questionCount
+                        ? data.lastTopic.attemptedCount / data.lastTopic.questionCount
+                        : 0
+                    }
+                    height={5}
+                  />
+                </View>
+              </View>
+              <Pressable
+                onPress={() =>
+                  router.push({
+                    pathname: '/(app)/practice',
+                    params: { topic: data.lastTopic!.topicName },
+                  })
+                }
+                accessibilityRole="button"
+                accessibilityLabel="Continue studying this topic"
+                style={[styles.continueCta, { backgroundColor: t.primary }]}
+              >
+                <Play size={16} color={t.textOnPrimary} />
+              </Pressable>
             </View>
-          ))}
-        </View>
-      </View>
-      
-      {/* Exam Countdown */}
-      {profile?.exam_target_date && (
-        <View style={styles.section}>
-          <View style={styles.sectionHeader}>
-            <Text style={styles.sectionTitle}>Exam Countdown</Text>
-          </View>
-          <View style={styles.countdownCard}>
-            <View style={styles.countdownInfo}>
-              <Calendar size={20} color="#6366f1" />
-              <Text style={styles.countdownDate}>
-                {new Date(profile.exam_target_date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+          </AppCard>
+        ) : (
+          <AppCard style={styles.section}>
+            <Text style={[styles.emptyTitle, { color: t.textPrimary }]}>
+              Start your first topic 🎯
+            </Text>
+            <Text style={[styles.emptyBody, { color: t.textSecondary }]}>
+              Pick a subject below and practice a few questions — your progress will show up here.
+            </Text>
+          </AppCard>
+        )}
+
+        {/* -------------------------- DAILY ENGAGEMENT -------------------------- */}
+        <View style={styles.dailyRow}>
+          <AppCard style={[styles.goalCard, styles.section]}>
+            <Text style={[styles.goalValue, { color: t.secondary }]}>
+              {data?.today.attempted ?? 0}
+              <Text style={{ color: t.textTertiary }}>/{dailyGoal}</Text>
+            </Text>
+            <Text style={[styles.goalLabel, { color: t.textSecondary }]}>
+              questions today
+            </Text>
+            <View style={styles.goalProgress}>
+              <ProgressBar progress={goalProgress} height={5} />
+            </View>
+            {data && data.today.attempted >= dailyGoal ? (
+              <View style={styles.goalDone}>
+                <CheckCircle2 size={13} color={t.success} />
+                <Text style={[styles.goalDoneText, { color: t.success }]}>Goal reached</Text>
+              </View>
+            ) : null}
+          </AppCard>
+
+          {data?.qotd ? (
+            <AppCard
+              onPress={() =>
+                router.push({
+                  pathname: '/(app)/practice',
+                  params: {
+                    reviewIds: data.qotd!.question.id,
+                    reviewTitle: 'Question of the Day',
+                  },
+                })
+              }
+              style={[styles.qotdCard, styles.section]}
+            >
+              <Text style={[styles.qotdKicker, { color: t.secondary }]}>QUESTION OF THE DAY</Text>
+              <Text numberOfLines={3} style={[styles.qotdText, { color: t.textPrimary }]}>
+                {data.qotd.question.question}
               </Text>
-            </View>
-            <View style={styles.countdownTimer}>
-              <Text style={styles.countdownDays}>{getDaysUntilExam(profile.exam_target_date)}</Text>
-              <Text style={styles.countdownLabel}>Days Left</Text>
-            </View>
-          </View>
+              <View style={styles.qotdCta}>
+                <Text style={[styles.qotdCtaText, { color: t.secondary }]}>Answer now</Text>
+                <ChevronRight size={14} color={t.secondary} />
+              </View>
+            </AppCard>
+          ) : (
+            <AppCard style={[styles.qotdCard, styles.section]}>
+              <Text style={[styles.qotdKicker, { color: t.secondary }]}>QUESTION OF THE DAY</Text>
+              <Text style={[styles.emptyBody, { color: t.textSecondary }]}>
+                No questions available yet.
+              </Text>
+            </AppCard>
+          )}
         </View>
-      )}
-    </ScrollView>
+
+        {/* ------------------------------ DISCOVERY ------------------------------ */}
+        <SectionHeader
+          title="Subjects"
+          subtitle={activeCourse ? `${activeCourse.name} syllabus` : undefined}
+          actionLabel="See all"
+          onActionPress={() => router.push('/(app)/subjects')}
+        />
+        <ScrollView
+          horizontal
+          showsHorizontalScrollIndicator={false}
+          contentContainerStyle={styles.subjectRow}
+        >
+          {(data?.subjects ?? []).map((s) => (
+            <SubjectCard
+              key={s.id}
+              name={s.name}
+              questionCount={s.questionCount}
+              attempted={s.attemptedCount}
+              accuracy={s.accuracyPercent / 100}
+              completion={s.completionPercent / 100}
+              onPress={() =>
+                router.push({
+                  pathname: '/(app)/chapters',
+                  params: { subjectId: s.id, title: s.name },
+                })
+              }
+            />
+          ))}
+          {data && data.subjects.length === 0 ? (
+            <AppCard style={styles.subjectEmptyCard}>
+              <Text style={[styles.emptyBody, { color: t.textSecondary }]}>
+                No subjects yet for this course.
+              </Text>
+            </AppCard>
+          ) : null}
+        </ScrollView>
+
+        {/* Weak areas — only surfaces when there is something to act on. */}
+        {data && data.weakCount > 0 ? (
+          <AppCard
+            onPress={() => router.push('/(app)/mistakes')}
+            style={styles.section}
+          >
+            <View style={styles.weakRow}>
+              <View style={[styles.continueIcon, { backgroundColor: t.errorSoft }]}>
+                <AlertTriangle size={20} color={t.error} />
+              </View>
+              <View style={styles.weakBody}>
+                <Text style={[styles.weakTitle, { color: t.textPrimary }]}>Weak areas</Text>
+                <Text style={[styles.continueMeta, { color: t.textSecondary }]}>
+                  {data.weakCount} question{data.weakCount === 1 ? '' : 's'} need your attention
+                </Text>
+              </View>
+              <ChevronRight size={20} color={t.textTertiary} />
+            </View>
+          </AppCard>
+        ) : null}
+
+        {/* ---------------------------- QUICK ACTIONS ---------------------------- */}
+        <SectionHeader title="Quick actions" />
+        <View style={styles.actionsGrid}>
+          <QuickAction
+            icon={<Bookmark size={20} color={t.secondary} />}
+            label="Bookmarks"
+            bg={t.primaryLight}
+            onPress={() => router.push('/(app)/bookmarks')}
+          />
+          <QuickAction
+            icon={<AlertTriangle size={20} color={t.error} />}
+            label="Mistakes"
+            bg={t.errorSoft}
+            onPress={() => router.push('/(app)/mistakes')}
+          />
+          <QuickAction
+            icon={<Brain size={20} color={t.success} />}
+            label={data && data.dueCount > 0 ? `Review · ${data.dueCount} due` : 'Smart Review'}
+            bg={t.successSoft}
+            onPress={() => router.push('/(app)/spaced')}
+          />
+          <QuickAction
+            icon={<History size={20} color={t.warning} />}
+            label="History"
+            bg={t.warningSoft}
+            onPress={() => router.push('/(app)/history')}
+          />
+        </View>
+      </ScrollView>
+
+      {/* Course switcher */}
+      <BottomSheet
+        visible={courseSheetOpen}
+        onClose={() => setCourseSheetOpen(false)}
+        title="Choose course"
+        subtitle="Your progress is tracked per course"
+      >
+        {courses.map((c) => {
+          const active = c.id === activeCourse?.id;
+          return (
+            <Pressable
+              key={c.id}
+              onPress={async () => {
+                setCourseSheetOpen(false);
+                if (!active) {
+                  await setCourse(c.id);
+                  router.setParams({ courseSwitched: String(Date.now()) });
+                }
+              }}
+              accessibilityRole="button"
+              accessibilityState={{ selected: active }}
+              style={({ pressed }) => [
+                styles.courseRow,
+                { backgroundColor: active ? t.primaryLight : 'transparent' },
+                pressed && { opacity: 0.8 },
+              ]}
+            >
+              <View style={styles.courseRowText}>
+                <Text style={[styles.courseRowName, { color: t.textPrimary }]}>{c.name}</Text>
+                {c.description ? (
+                  <Text numberOfLines={1} style={[styles.courseRowMeta, { color: t.textSecondary }]}>
+                    {c.description}
+                  </Text>
+                ) : null}
+              </View>
+              {active ? <CheckCircle2 size={18} color={t.secondary} /> : null}
+            </Pressable>
+          );
+        })}
+      </BottomSheet>
+    </SafeAreaView>
   );
 }
 
-function getDaysUntilExam(targetDate: number): number {
-  const now = Date.now();
-  const diff = targetDate - now;
-  return Math.max(0, Math.ceil(diff / (1000 * 60 * 60 * 24)));
+/* ------------------------------ QuickAction ------------------------------ */
+
+function QuickAction({
+  icon,
+  label,
+  bg,
+  onPress,
+}: {
+  icon: React.ReactNode;
+  label: string;
+  bg: string;
+  onPress: () => void;
+}) {
+  const t = useTheme();
+  return (
+    <Pressable
+      onPress={onPress}
+      accessibilityRole="button"
+      accessibilityLabel={label}
+      style={({ pressed }) => [
+        styles.actionTile,
+        { backgroundColor: t.surface, borderColor: t.border },
+        pressed && { opacity: 0.8 },
+      ]}
+    >
+      <View style={[styles.actionIcon, { backgroundColor: bg }]}>{icon}</View>
+      <Text numberOfLines={2} style={[styles.actionLabel, { color: t.textPrimary }]}>
+        {label}
+      </Text>
+    </Pressable>
+  );
 }
 
+/* --------------------------------- Styles --------------------------------- */
+
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#f8fafc',
-  },
+  safe: { flex: 1 },
   content: {
-    paddingHorizontal: 20,
-    paddingVertical: 16,
-    paddingBottom: 100,
+    paddingHorizontal: spacing.screenX,
+    paddingBottom: spacing.xxl,
   },
-  loadingContainer: {
+  loadWrap: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#f8fafc',
+    padding: spacing.screenX,
+    gap: spacing.sm,
   },
-  retryBtn: {
-    backgroundColor: '#6366f1',
-    borderRadius: 12,
-    paddingVertical: 12,
-    paddingHorizontal: 32,
-  },
-  retryBtnText: {
-    fontSize: 15,
-    fontWeight: '700',
-    color: '#fff',
-  },
-  loadingText: {
-    fontSize: 16,
-    color: '#64748b',
-  },
+
+  // Header
   header: {
     flexDirection: 'row',
+    alignItems: 'center',
     justifyContent: 'space-between',
-    alignItems: 'center',
-    marginBottom: 24,
+    paddingTop: spacing.sm,
   },
-  userInfo: {
-    flex: 1,
-  },
-  greeting: {
-    fontSize: 16,
-    color: '#64748b',
-    marginBottom: 2,
-  },
-  userName: {
-    fontSize: 24,
+  headerMain: { flexShrink: 1 },
+  greeting: { ...typography.bodySmall },
+  name: {
+    ...typography.pageTitle,
     fontWeight: '800',
-    color: '#0f172a',
   },
-  avatar: {
-    width: 48,
-    height: 48,
-    borderRadius: 14,
-    backgroundColor: '#6366f1',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  avatarText: {
-    fontSize: 20,
-    fontWeight: '700',
-    color: '#fff',
-  },
-  statsGrid: {
+  streakChip: {
     flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 12,
-    marginBottom: 24,
-  },
-  statCard: {
-    flex: 1,
-    minWidth: '45%',
-    backgroundColor: '#fff',
-    borderRadius: 16,
-    padding: 16,
     alignItems: 'center',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 8,
-    elevation: 2,
+    gap: spacing.xxs,
+    paddingHorizontal: spacing.sm,
+    paddingVertical: spacing.xxs + 2,
+    borderRadius: radius.pill,
   },
-  statIcon: {
+  streakText: {
+    ...typography.bodySmall,
+    fontWeight: '800',
+  },
+
+  // Course chip
+  courseChip: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.xs,
+    alignSelf: 'flex-start',
+    paddingHorizontal: spacing.sm,
+    paddingVertical: spacing.xxs + 2,
+    borderRadius: radius.pill,
+    borderWidth: 1,
+    marginTop: spacing.sm,
+  },
+  courseChipText: {
+    ...typography.bodySmall,
+    fontWeight: '600',
+    maxWidth: 220,
+  },
+
+  // Sections
+  section: { marginTop: spacing.md },
+
+  // Continue learning
+  continueRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.sm,
+  },
+  continueIcon: {
     width: 44,
     height: 44,
-    borderRadius: 12,
+    borderRadius: radius.md,
+    alignItems: 'center',
     justifyContent: 'center',
-    alignItems: 'center',
-    marginBottom: 10,
   },
-  statValue: {
-    fontSize: 18,
+  continueBody: { flex: 1, minWidth: 0 },
+  continueKicker: {
+    ...typography.micro,
     fontWeight: '800',
-    color: '#0f172a',
-    marginBottom: 2,
-    textAlign: 'center',
+    letterSpacing: 0.5,
   },
-  statLabel: {
-    fontSize: 12,
-    color: '#94a3b8',
-    textAlign: 'center',
-  },
-  section: {
-    marginBottom: 28,
-  },
-  sectionHeader: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    marginBottom: 16,
-  },
-  sectionTitle: {
-    fontSize: 18,
+  continueTitle: {
+    ...typography.cardTitle,
     fontWeight: '700',
-    color: '#0f172a',
+    marginTop: 2,
   },
-  viewAllButton: {
+  continueMeta: {
+    ...typography.caption,
+    marginTop: 2,
+  },
+  continueProgress: { marginTop: spacing.xs },
+  continueCta: {
+    width: 44,
+    height: 44,
+    borderRadius: radius.pill,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+
+  // Empty continue state
+  emptyTitle: {
+    ...typography.cardTitle,
+    fontWeight: '700',
+  },
+  emptyBody: { ...typography.bodySmall, marginTop: spacing.xxs },
+
+  // Daily row
+  dailyRow: {
+    flexDirection: 'row',
+    gap: spacing.sm,
+    marginTop: spacing.md,
+  },
+  goalCard: { flex: 1, marginTop: 0 },
+  goalValue: {
+    ...typography.pageTitle,
+    fontWeight: '800',
+  },
+  goalLabel: {
+    ...typography.caption,
+    marginTop: 2,
+  },
+  goalProgress: { marginTop: spacing.sm },
+  goalDone: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 4,
+    marginTop: spacing.xs,
   },
-  viewAllText: {
-    fontSize: 14,
+  goalDoneText: {
+    ...typography.micro,
+    fontWeight: '700',
+  },
+  qotdCard: { flex: 1.4, marginTop: 0 },
+  qotdKicker: {
+    ...typography.micro,
+    fontWeight: '800',
+    letterSpacing: 0.5,
+  },
+  qotdText: {
+    ...typography.bodySmall,
     fontWeight: '600',
-    color: '#6366f1',
+    marginTop: spacing.xs,
   },
+  qotdCta: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 2,
+    marginTop: spacing.xs,
+  },
+  qotdCtaText: {
+    ...typography.caption,
+    fontWeight: '700',
+  },
+
+  // Subjects row
+  subjectRow: {
+    gap: spacing.sm,
+    paddingRight: spacing.screenX,
+    paddingTop: spacing.xs,
+  },
+  subjectEmptyCard: { width: 240 },
+
+  // Weak areas
+  weakRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.sm,
+  },
+  weakBody: { flex: 1, minWidth: 0 },
+  weakTitle: {
+    ...typography.cardTitle,
+    fontWeight: '700',
+  },
+
+  // Quick actions
   actionsGrid: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 12,
+    gap: spacing.sm,
   },
-  actionCard: {
-    flex: 1,
-    minWidth: '45%',
-    backgroundColor: '#fff',
-    borderRadius: 16,
-    padding: 20,
+  actionTile: {
+    width: '23.5%',
+    flexGrow: 1,
+    minWidth: 78,
+    borderRadius: radius.md,
+    borderWidth: StyleSheet.hairlineWidth,
+    paddingVertical: spacing.sm,
+    paddingHorizontal: spacing.xs,
     alignItems: 'center',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 8,
-    elevation: 2,
+    gap: spacing.xxs,
   },
   actionIcon: {
-    width: 52,
-    height: 52,
-    borderRadius: 14,
-    justifyContent: 'center',
+    width: 38,
+    height: 38,
+    borderRadius: radius.sm,
     alignItems: 'center',
-    marginBottom: 12,
+    justifyContent: 'center',
   },
   actionLabel: {
-    fontSize: 16,
-    fontWeight: '700',
-    color: '#0f172a',
-    marginBottom: 4,
+    ...typography.micro,
+    fontWeight: '600',
     textAlign: 'center',
   },
-  actionDesc: {
-    fontSize: 12,
-    color: '#94a3b8',
-    textAlign: 'center',
-  },
-  srCards: {
+
+  // Course switcher rows
+  courseRow: {
     flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 12,
-    marginBottom: 12,
-  },
-  srCard: {
-    flex: 1,
-    minWidth: '45%',
-    backgroundColor: '#fff',
-    borderRadius: 14,
-    padding: 16,
-    borderLeftWidth: 4,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 8,
-    elevation: 2,
-  },
-  srCount: {
-    fontSize: 28,
-    fontWeight: '800',
-    color: '#0f172a',
-    marginBottom: 2,
-  },
-  srLabel: {
-    fontSize: 14,
-    fontWeight: '600',
-    color: '#0f172a',
-    marginBottom: 2,
-  },
-  srSubtext: {
-    fontSize: 11,
-    color: '#94a3b8',
-  },
-  startReviewButton: {
-    backgroundColor: '#10b981',
-    borderRadius: 12,
-    paddingVertical: 14,
     alignItems: 'center',
+    gap: spacing.sm,
+    paddingVertical: spacing.sm + 2,
+    paddingHorizontal: spacing.sm,
+    borderRadius: radius.md,
   },
-  startReviewButtonText: {
-    fontSize: 15,
+  courseRowText: { flex: 1, minWidth: 0 },
+  courseRowName: {
+    ...typography.body,
     fontWeight: '700',
-    color: '#fff',
   },
-  qotdCard: {
-    backgroundColor: '#fff',
-    borderRadius: 16,
-    padding: 20,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 8,
-    elevation: 2,
-  },
-  qotdHeader: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 12,
-    marginBottom: 16,
-  },
-  qotdIcon: {
-    width: 36,
-    height: 36,
-    borderRadius: 10,
-    backgroundColor: '#eef2ff',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  qotdDate: {
-    fontSize: 13,
-    fontWeight: '500',
-    color: '#64748b',
-  },
-  qotdQuestion: {
-    fontSize: 16,
-    fontWeight: '500',
-    color: '#0f172a',
-    lineHeight: 24,
-    marginBottom: 16,
-  },
-  qotdButton: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-    gap: 8,
-    backgroundColor: '#6366f1',
-    borderRadius: 12,
-    paddingVertical: 14,
-  },
-  qotdButtonText: {
-    fontSize: 15,
-    fontWeight: '700',
-    color: '#fff',
-  },
-  topicList: {
-    backgroundColor: '#fff',
-    borderRadius: 14,
-    overflow: 'hidden',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 8,
-    elevation: 2,
-  },
-  recommendCard: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 12,
-    padding: 16,
-    backgroundColor: '#fff5f5',
-    borderRadius: 12,
-    borderWidth: 1,
-    borderColor: '#fecaca',
-  },
-  recommendIcon: {
-    width: 40,
-    height: 40,
-    borderRadius: 10,
-    backgroundColor: '#fef2f2',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  recommendContent: {
-    flex: 1,
-  },
-  recommendTitle: {
-    fontSize: 15,
-    fontWeight: '700',
-    color: '#ef4444',
-    marginBottom: 4,
-  },
-  recommendDesc: {
-    fontSize: 13,
-    color: '#dc2626',
-  },
-  recommendAction: {
-    backgroundColor: '#ef4444',
-    borderRadius: 8,
-    paddingHorizontal: 16,
-    paddingVertical: 8,
-  },
-  recommendActionText: {
-    fontSize: 13,
-    fontWeight: '700',
-    color: '#fff',
-  },
-  topicRow: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    paddingHorizontal: 16,
-    paddingVertical: 14,
-    borderBottomWidth: 1,
-    borderBottomColor: '#f1f5f9',
-  },
-  topicName: {
-    fontSize: 15,
-    fontWeight: '500',
-    color: '#0f172a',
-  },
-  topicCount: {
-    fontSize: 13,
-    color: '#94a3b8',
-  },
-  countdownCard: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    backgroundColor: '#6366f1',
-    borderRadius: 16,
-    padding: 20,
-  },
-  countdownInfo: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 10,
-  },
-  countdownDate: {
-    fontSize: 15,
-    fontWeight: '600',
-    color: '#fff',
-  },
-  countdownTimer: {
-    alignItems: 'flex-end',
-  },
-  countdownDays: {
-    fontSize: 36,
-    fontWeight: '800',
-    color: '#fff',
-    lineHeight: 40,
-  },
-  countdownLabel: {
-    fontSize: 13,
-    color: '#c7d2fe',
-    textAlign: 'right',
+  courseRowMeta: {
+    ...typography.caption,
+    marginTop: 2,
   },
 });

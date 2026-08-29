@@ -1,4 +1,4 @@
-/**
+﻿/**
  * CustomExamCreate — build a custom exam (rule 27): choose subjects, question
  * count, duration and marking, then persist via the custom-exam store. Saving
  * is idempotent (same config produces the same stored exam, not a duplicate).
@@ -10,7 +10,8 @@ import { useTypedPush } from '../../src/utils/navigation';
 import { useAuthStore } from '../../src/stores/authStore';
 import { useCustomExamStore } from '../../src/stores/customExamStore';
 import { COURSES } from '../../src/constants/courses';
-import { themes, spacing, radius, typography, touchTarget } from '../../src/constants/theme';
+import { spacing, radius, typography, type AppTheme } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
 import { AppButton, ScreenHeader } from '../../src/components/ui';
 
 /** Subject options always mirror the seeded catalog — never a hardcoded copy. */
@@ -24,6 +25,8 @@ const CHAPTER_SUBJECT = new Map<string, string>(
 );
 
 export default function CustomExamCreateScreen() {
+  const t = useTheme();
+  const styles = makeStyles(t);
   const push = useTypedPush();
   const user = useAuthStore(s => s.user);
 
@@ -82,7 +85,6 @@ export default function CustomExamCreateScreen() {
     .filter(s => subjectIds.includes(s.id))
     .flatMap(s => s.chapters.map(ch => ({ id: ch.id, name: ch.name })));
 
-  const t = themes.light;
 
   return (
     <SafeAreaView style={styles.safe}>
@@ -234,22 +236,22 @@ export default function CustomExamCreateScreen() {
   );
 }
 
-const styles = StyleSheet.create({
+const makeStyles = (t: AppTheme) => StyleSheet.create({
   safe: { flex: 1, backgroundColor: '#f8fafc' },
   scroll: { flex: 1 },
   content: { padding: spacing.screenX, gap: spacing.lg, paddingBottom: spacing.xxl },
   field: { gap: spacing.xs },
-  label: { ...typography.bodySmall, fontWeight: '700', color: themes.light.textSecondary },
-  hint: { ...typography.micro, color: themes.light.textTertiary },
+  label: { ...typography.bodySmall, fontWeight: '700', color: t.textSecondary },
+  hint: { ...typography.micro, color: t.textTertiary },
   input: {
     height: 48,
-    backgroundColor: themes.light.surface,
+    backgroundColor: t.surface,
     borderRadius: radius.md,
     borderWidth: StyleSheet.hairlineWidth,
-    borderColor: themes.light.border,
+    borderColor: t.border,
     paddingHorizontal: spacing.md,
     fontSize: 16,
-    color: themes.light.textPrimary,
+    color: t.textPrimary,
   },
   twoCols: { flexDirection: 'row', gap: spacing.md },
   chipRow: { flexDirection: 'row', gap: spacing.sm, flexWrap: 'wrap' },
@@ -257,15 +259,15 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.md,
     paddingVertical: spacing.xs,
     borderRadius: radius.md,
-    backgroundColor: themes.light.surface,
+    backgroundColor: t.surface,
     borderWidth: StyleSheet.hairlineWidth,
-    borderColor: themes.light.border,
+    borderColor: t.border,
   },
-  chipActive: { backgroundColor: themes.light.primary, borderColor: themes.light.primary },
-  chipText: { fontSize: 14, fontWeight: '600', color: themes.light.textSecondary },
-  chipTextActive: { color: themes.light.textOnPrimary },
+  chipActive: { backgroundColor: t.primary, borderColor: t.primary },
+  chipText: { fontSize: 14, fontWeight: '600', color: t.textSecondary },
+  chipTextActive: { color: t.textOnPrimary },
   errorBox: {
-    backgroundColor: themes.light.errorSoft,
+    backgroundColor: t.errorSoft,
     borderRadius: radius.md,
     padding: spacing.md,
     marginBottom: spacing.sm,

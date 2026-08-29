@@ -1262,6 +1262,76 @@ export async function getAttemptsToday(userId: string): Promise<{ attempted: num
   return { attempted: row?.attempted ?? 0, correct: row?.correct ?? 0 };
 }
 
+export interface LastStudiedTopic {
+  topicId: string;
+  topicName: string;
+  chapterId: string;
+  chapterName: string;
+  subjectId: string;
+  subjectName: string;
+  questionCount: number;
+  attemptedCount: number;
+  lastAttemptedAt: number;
+}
+
+/**
+ * Most recently attempted topic, for the Home "Continue Learning" card.
+ * Reads only the central progress + hierarchy tables (rule 31) — no
+ * screen-local bookkeeping. Returns null when the user has no attempts yet.
+ */
+export async function getLastStudiedTopic(userId: string): Promise<LastStudiedTopic | null> {
+  const database = await getDatabase();
+  const row = await database.getFirstAsync<{
+    topic_id: string;
+    topic_name: string | null;
+    chapter_id: string | null;
+    chapter_name: string | null;
+    subject_id: string | null;
+    subject_name: string | null;
+    question_count: number;
+    attempted_count: number;
+    last_attempted_at: number;
+  }>(
+    `WITH last_q AS (
+       SELECT question_id, MAX(last_attempted_at) AS last_attempted_at
+         FROM user_progress WHERE user_id = ? GROUP BY question_id
+     ), latest AS (
+       SELECT question_id, last_attempted_at FROM last_q
+        ORDER BY last_attempted_at DESC LIMIT 1
+     )
+     SELECT qh.topic_id,
+            tp.name AS topic_name,
+            qh.chapter_id, ch.name AS chapter_name,
+            qh.subject_id, s.name AS subject_name,
+            (SELECT COUNT(*) FROM question_hierarchy qh2
+              WHERE qh2.topic_id = qh.topic_id) AS question_count,
+            (SELECT COUNT(*) FROM user_progress up2
+              JOIN question_hierarchy qh3 ON qh3.question_id = up2.question_id
+              WHERE up2.user_id = ? AND qh3.topic_id = qh.topic_id) AS attempted_count,
+            latest.last_attempted_at
+       FROM latest
+       JOIN question_hierarchy qh ON qh.question_id = latest.question_id
+       LEFT JOIN topics_table tp ON tp.id = qh.topic_id
+       LEFT JOIN chapters ch ON ch.id = qh.chapter_id
+       LEFT JOIN subjects s ON s.id = qh.subject_id`,
+    userId, userId
+  );
+
+  if (!row?.topic_id) return null;
+  return {
+    topicId: row.topic_id,
+    topicName: row.topic_name ?? 'Practice',
+    chapterId: row.chapter_id ?? '',
+    chapterName: row.chapter_name ?? '',
+    subjectId: row.subject_id ?? '',
+    subjectName: row.subject_name ?? '',
+    questionCount: row.question_count ?? 0,
+    attemptedCount: row.attempted_count ?? 0,
+    lastAttemptedAt: row.last_attempted_at,
+  };
+}
+
+// ==================== SR stage / bookmark / flag question lists ====================
 // ==================== SR stage / bookmark / flag question lists ====================
 
 export type SRStageFilter = 'due' | 'learning' | 'review' | 'mastered';

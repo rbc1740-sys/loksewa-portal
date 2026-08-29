@@ -12,19 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-      
+
       - name: Install dependencies
         run: npm ci
-      
+
       - name: Run ESLint
         run: npm run lint
-      
+
       - name: Check formatting
         run: npx prettier --check .
 
@@ -33,26 +33,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-      
+
       - name: Install dependencies
         run: npm ci
-      
+
       - name: Run unit tests
         run: npm run test -- --reporter=junit --outputFile=junit.xml
-      
+
       - name: Upload coverage
         uses: codecov/codecov-action@v4
         if: always()
         with:
           files: ./coverage/lcov.info
           flags: unittests
-      
+
       - name: Upload test results
         uses: actions/upload-artifact@v4
         if: always()
@@ -65,19 +65,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-      
+
       - name: Install dependencies
         run: npm ci
-      
+
       - name: Run integration tests
         run: npm run test -- tests/integration --reporter=junit --outputFile=junit-integration.xml
-      
+
       - name: Upload test results
         uses: actions/upload-artifact@v4
         if: always()
@@ -90,22 +90,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-      
+
       - name: Install dependencies
         run: npm ci
-      
+
       - name: Install Playwright browsers
         run: npx playwright install --with-deps
-      
+
       - name: Run E2E tests
         run: npm run test:e2e
-      
+
       - name: Upload E2E test results
         uses: actions/upload-artifact@v4
         if: always()
@@ -121,21 +121,21 @@ jobs:
     needs: [lint, unit-tests, integration-tests]
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-      
+
       - name: Install dependencies
         run: npm ci
-      
+
       - name: Verify build
         run: |
           # Just verify the HTML is valid
           npx html-validate index.html || true
-      
+
       - name: Check for console errors
         run: |
           # This would be done in E2E tests
@@ -148,7 +148,7 @@ jobs:
     if: github.event_name == 'pull_request'
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Deploy to GitHub Pages (preview)
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -164,7 +164,7 @@ jobs:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

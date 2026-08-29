@@ -94,6 +94,12 @@ export default function AppLayout() {
       <Tabs.Screen name="result" options={{ href: null }} />
       <Tabs.Screen name="history" options={{ href: null }} />
       <Tabs.Screen name="custom-exam-create" options={{ href: null }} />
+      <Tabs.Screen name="exam-info" options={{ href: null }} />
+      <Tabs.Screen name="search" options={{ href: null }} />
+      <Tabs.Screen name="analytics" options={{ href: null }} />
+      <Tabs.Screen name="question-runner" options={{ href: null }} />
+      <Tabs.Screen name="practice-result" options={{ href: null }} />
+      <Tabs.Screen name="topic" options={{ href: null }} />
     </Tabs>
   );
 }

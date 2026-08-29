@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Quiz — timed exam runner (rules 23–24, 61).
  *
  * A single player for every exam type (past papers, custom, model). It loads
@@ -29,7 +29,8 @@ import {
   type ActiveSession,
 } from '../../src/services/examService';
 import { deadlineState, formatDuration } from '../../src/services/examEngine';
-import { themes, spacing, radius, typography } from '../../src/constants/theme';
+import { spacing, radius, typography, type AppTheme } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
 import { AppButton, ErrorState, LoadingState, ScreenHeader } from '../../src/components/ui';
 import { QuestionCard } from '../../src/components/QuestionCard';
 import { useTypedPush, useTypedBack } from '../../src/utils/navigation';
@@ -37,6 +38,8 @@ import { useAuthStore } from '../../src/stores/authStore';
 import { useCustomExamStore } from '../../src/stores/customExamStore';
 
 export default function QuizScreen() {
+  const t = useTheme();
+  const styles = makeStyles(t);
   const push = useTypedPush();
   const user = useAuthStore(s => s.user);
   const { sessionId, title, type } = useLocalSearchParams<{
@@ -269,8 +272,8 @@ const current = active?.paper[index];
           accessibilityRole="button"
           accessibilityLabel="Open question palette and timer"
         >
-          <Grid3x3 size={16} color={lowTime ? themes.light.error : themes.light.secondary} />
-          <Text style={[styles.timerText, lowTime && { color: themes.light.error }]}>
+          <Grid3x3 size={16} color={lowTime ? t.error : t.secondary} />
+          <Text style={[styles.timerText, lowTime && { color: t.error }]}>
             {formatDuration(remainingMs)}
           </Text>
         </TouchableOpacity>
@@ -290,8 +293,8 @@ const current = active?.paper[index];
           onPress={() => handleFlag(current.id)}
           accessibilityRole="button"
         >
-          <Flag size={16} color={marked.has(current.id) ? themes.light.warning : themes.light.textTertiary} />
-          <Text style={[styles.flagText, marked.has(current.id) && { color: themes.light.warning }]}>
+          <Flag size={16} color={marked.has(current.id) ? t.warning : t.textTertiary} />
+          <Text style={[styles.flagText, marked.has(current.id) && { color: t.warning }]}>
             {marked.has(current.id) ? 'Marked for review' : 'Mark for review'}
           </Text>
         </TouchableOpacity>
@@ -359,9 +362,8 @@ const current = active?.paper[index];
   );
 }
 
-const t = themes.light;
 
-const styles = StyleSheet.create({
+const makeStyles = (t: AppTheme) => StyleSheet.create({
   safe: { flex: 1, backgroundColor: t.background },
   bodyPad: { padding: spacing.screenX },
   examBar: {

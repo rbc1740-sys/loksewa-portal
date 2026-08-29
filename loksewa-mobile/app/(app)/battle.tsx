@@ -29,13 +29,14 @@ import {
 import { getQuestionsByIds, type Question } from '../../src/services/database';
 import { useAuthStore } from '../../src/stores/authStore';
 import { ScreenHeader, ErrorState } from '../../src/components/ui';
-import { spacing, radius, typography, themes } from '../../src/constants/theme';
+import { spacing, radius, typography, type AppTheme } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
 
 type Phase = 'menu' | 'lobby' | 'play' | 'result';
 
-const t = themes.light;
-
 export default function BattleScreen() {
+  const t = useTheme();
+  const styles = makeStyles(t);
   const user = useAuthStore(s => s.user);
   const name = user?.displayName ?? 'Player';
 
@@ -265,7 +266,7 @@ export default function BattleScreen() {
     </SafeAreaView>
   );
 }
-const styles = StyleSheet.create({
+const makeStyles = (t: AppTheme) => StyleSheet.create({
   safe: { flex: 1, backgroundColor: t.background },
   center: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: spacing.screenX },
   menu: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: spacing.screenX, gap: spacing.md },

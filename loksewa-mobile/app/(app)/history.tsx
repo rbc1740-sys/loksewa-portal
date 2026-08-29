@@ -1,4 +1,4 @@
-/**
+﻿/**
  * History — hub for past exam attempts (rule 25).
  *
  * Lists exam_history rows (newest first), shows a pass/fail + score summary,
@@ -14,7 +14,8 @@ import { getExamHistory, type ExamHistoryRecord } from '../../src/services/datab
 import { formatDuration } from '../../src/services/examEngine';
 import { parseDetails } from '../../src/utils/examDetails';
 import { useAuthStore } from '../../src/stores/authStore';
-import { themes, spacing, radius, typography } from '../../src/constants/theme';
+import { spacing, radius, typography, type AppTheme } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
 import { EmptyState, ErrorState, LoadingState, ScreenHeader } from '../../src/components/ui';
 import { useTypedPush } from '../../src/utils/navigation';
 
@@ -31,7 +32,9 @@ function attemptTitle(rec: ExamHistoryRecord): string {
 }
 
 function AttemptRow({ rec, onPress }: { rec: ExamHistoryRecord; onPress: () => void }) {
-  const t = themes.light;
+  const t = useTheme();
+  const styles = makeStyles(t);
+
   const pct = rec.percentage ?? 0;
   const passMark = rec.pass_mark ?? 40;
   const passed = pct >= passMark;
@@ -75,6 +78,8 @@ function AttemptRow({ rec, onPress }: { rec: ExamHistoryRecord; onPress: () => v
 }
 
 export default function HistoryScreen() {
+  const t = useTheme();
+  const styles = makeStyles(t);
   const push = useTypedPush();
   const user = useAuthStore(s => s.user);
   const uid = user?.uid ?? 'device-user';
@@ -137,8 +142,8 @@ export default function HistoryScreen() {
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: themes.light.background },
+const makeStyles = (t: AppTheme) => StyleSheet.create({
+  safe: { flex: 1, backgroundColor: t.background },
   row: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -146,7 +151,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.screenX,
     paddingVertical: spacing.md,
     borderBottomWidth: StyleSheet.hairlineWidth,
-    borderBottomColor: themes.light.border,
+    borderBottomColor: t.border,
   },
   rowIcon: {
     width: 38,

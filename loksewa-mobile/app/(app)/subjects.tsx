@@ -15,7 +15,8 @@ import {
 import { useAuthStore } from '../../src/stores/authStore';
 import { useCourseStore } from '../../src/stores/courseStore';
 import { useTypedPush } from '../../src/utils/navigation';
-import { themes, spacing, radius, typography } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
+import { spacing, radius, typography } from '../../src/constants/theme';
 import {
   AppCard,
   EmptyState,
@@ -33,6 +34,7 @@ const SUBJECT_ICONS: Record<string, React.ComponentType<{ size?: number; color?:
 export default function SubjectsScreen() {
   const router = useRouter();
   const pushRoute = useTypedPush();
+  const t = useTheme();
   const user = useAuthStore(s => s.user);
   const activeCourseId = useCourseStore(s => s.activeCourseId);
 
@@ -73,31 +75,31 @@ export default function SubjectsScreen() {
               <IconComp size={22} color={item.color} />
             </View>
             <View style={styles.cardMain}>
-              <Text numberOfLines={1} style={styles.subjectName}>{item.name}</Text>
-              <Text style={styles.subjectMeta}>
+              <Text numberOfLines={1} style={[styles.subjectName, { color: t.textPrimary }]}>{item.name}</Text>
+              <Text style={[styles.subjectMeta, { color: t.textSecondary }]}>
                 {item.chapterCount} chapters · {item.questionCount} questions
               </Text>
               <View style={styles.barWrap}>
                 <ProgressBar progress={item.completionPercent / 100} height={6} color={item.color} />
               </View>
               <View style={styles.statRow}>
-                <Text style={styles.statPct}>{item.completionPercent}% complete</Text>
-                <Text style={styles.statAcc}>{item.accuracyPercent}% accuracy</Text>
+                <Text style={[styles.statPct, { color: t.secondary }]}>{item.completionPercent}% complete</Text>
+                <Text style={[styles.statAcc, { color: t.success }]}>{item.accuracyPercent}% accuracy</Text>
               </View>
             </View>
           </View>
         </AppCard>
       );
     },
-    [router]
+    [router, t]
   );
 
   if (!user) {
     return (
-      <SafeAreaView style={styles.safe}>
+      <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]}>
         <ScreenHeader title="Subjects" />
         <EmptyState
-          icon={<BookOpen size={40} color={themes.light.textTertiary} />}
+          icon={<BookOpen size={40} color={t.textTertiary} />}
           title="Sign in required"
           message="Sign in to track subject progress."
           style={{ flex: 1, justifyContent: 'center' }}
@@ -107,7 +109,7 @@ export default function SubjectsScreen() {
   }
 
   return (
-    <SafeAreaView style={styles.safe} edges={['top', 'left', 'right']}>
+    <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]} edges={['top', 'left', 'right']}>
       <ScreenHeader
         title="Subjects"
         subtitle="Your progress by course subject"
@@ -127,7 +129,7 @@ export default function SubjectsScreen() {
             <ErrorState message={error} onRetry={() => setReloadToken(n => n + 1)} />
           ) : (
             <EmptyState
-              icon={<BookOpen size={40} color={themes.light.textTertiary} />}
+              icon={<BookOpen size={40} color={t.textTertiary} />}
               title="No subjects yet"
               message="The question bank for this course hasn't finished loading. Pull down to retry or restart the app once."
             />
@@ -138,12 +140,9 @@ export default function SubjectsScreen() {
   );
 }
 
-const t = themes.light;
-
 const styles = StyleSheet.create({
   safe: {
     flex: 1,
-    backgroundColor: t.background,
   },
   list: {
     padding: spacing.screenX,
@@ -167,11 +166,9 @@ const styles = StyleSheet.create({
   subjectName: {
     ...typography.cardTitle,
     fontWeight: '700',
-    color: t.textPrimary,
   },
   subjectMeta: {
     ...typography.caption,
-    color: t.textSecondary,
     marginTop: 2,
   },
   barWrap: {
@@ -185,11 +182,10 @@ const styles = StyleSheet.create({
   statPct: {
     ...typography.caption,
     fontWeight: '600',
-    color: t.secondary,
   },
   statAcc: {
     ...typography.caption,
-    color: t.success,
     fontWeight: '600',
   },
 });
+

@@ -1,386 +1,213 @@
 /**
- * Practice Screen - Objective MCQ practice with list view
+ * Practice — Course → Subject → Chapter → Topic practice entry (rules 5, 12, 26).
  *
- * Session rules: the question array is frozen per filter/search selection;
- * answering, bookmarking, flagging or re-rendering NEVER recreates or
- * reshuffles it. Selecting an answer updates only that card — no auto-scroll,
- * no auto-advance, no layout jump. Answers flow through answerService.
+ * Replaced the old feature-dump screen (search + 27 topic chips + 4 special
+ * chips + one infinite list). This is now a clean subject browser with real
+ * progress, which routes every answer straight into the central QuestionRunner.
+ *
+ * Deep-links are honored so existing navigation keeps working:
+ *   ?topic=<name>       → start a topic session  (Home "Continue Learning")
+ *   ?reviewIds=<ids>    → start an ids session    (Mistakes, Bookmarks, QOTD)
+ *   ?subjectId=<id>     → start a subject session (chapters "whole subject")
+ * All three launch the ONE question engine — never a bespoke list.
  */
-import { View, Text, TouchableOpacity, StyleSheet, FlatList } from 'react-native';
-import { useRouter, useLocalSearchParams } from 'expo-router';
-import { useEffect, useState, useCallback, useRef } from 'react';
+import React, { useCallback, useEffect, useRef } from 'react';
+import { useState } from 'react';
+import { FlatList, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { useLocalSearchParams, useRouter } from 'expo-router';
+import { Calculator, BookOpen } from 'lucide-react-native';
 import {
-  getAllTopics, getQuestionsByTopic, getAllQuestions, searchQuestions,
-  getQuestionsByStage, getBookmarkedQuestions, getFlaggedQuestions,
-  getBookmarkQuestionIds, getFlaggedQuestionIds,
-  getQuestionsBySubject, getWrongQuestions, getQuestionsByIds,
-  toggleBookmark as dbToggleBookmark, toggleWeakPoint as dbToggleWeakPoint,
-  Question,
+  getSubjectsWithProgress,
+  SubjectStats,
 } from '../../src/services/database';
-import { recordAnswer } from '../../src/services/answerService';
-import { QuestionCard } from '../../src/components/QuestionCard';
+import { useSessionStore } from '../../src/engine/questionSession';
 import { useAuthStore } from '../../src/stores/authStore';
-import { SearchBar, FilterChips, EmptyState, useToast } from '../../src/components/ui';
+import { useCourseStore } from '../../src/stores/courseStore';
+import { useTheme } from '../../src/hooks/useTheme';
+import { spacing, radius, typography } from '../../src/constants/theme';
+import {
+  AppCard, EmptyState, ErrorState, LoadingState, ProgressBar,
+} from '../../src/components/ui';
 
-type FilterMode = 'all' | 'due' | 'weak' | 'bookmarked' | 'mistakes';
-const PAGE_SIZE = 20;
+const SUBJECT_ICONS: Record<string, React.ComponentType<{ size?: number; color?: string }>> = {
+  Calculator,
+  BookOpen,
+};
 
 export default function PracticeScreen() {
   const router = useRouter();
-  const { user } = useAuthStore();
-  const { showToast } = useToast();
-  const {
-    topic: initialTopic,
-    subjectId: subjectParam,
-    subjectTitle: subjectTitleParam,
-    reviewIds: reviewIdsParam,
-    reviewTitle: reviewTitleParam,
-  } = useLocalSearchParams<{
+  const t = useTheme();
+  const user = useAuthStore((s) => s.user);
+  const activeCourseId = useCourseStore((s) => s.activeCourseId);
+
+  const { topic, reviewIds, reviewTitle, subjectId } = useLocalSearchParams<{
     topic?: string;
-    subjectId?: string;
-    subjectTitle?: string;
-    /** Comma-separated question ids from Mistakes drill-down (rule 18). */
     reviewIds?: string;
     reviewTitle?: string;
+    subjectId?: string;
   }>();
+  const launchHandled = useRef(false);
 
-  const [topics, setTopics] = useState<string[]>([]);
-  const [selectedTopic, setSelectedTopic] = useState<string>('all');
-  const [searchQuery, setSearchQuery] = useState('');
-  const [debouncedSearch, setDebouncedSearch] = useState('');
-  const [questions, setQuestions] = useState<Question[]>([]);
-  const [loading, setLoading] = useState(false);
-  const [refreshing, setRefreshing] = useState(false);
+  const [subjects, setSubjects] = useState<SubjectStats[]>([]);
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [page, setPage] = useState(0);
-  const [hasMore, setHasMore] = useState(true);
-  const [filterMode, setFilterMode] = useState<FilterMode>('all');
+  const [reloadToken, setReloadToken] = useState(0);
 
-  // Derived session scope. When deep-linked into a subject or a review set we
-  // keep the picker at 'all' so leaves/clear operate on the CURRENT session
-  // instead of silently switching the user back to the whole bank (rule 21).
-  // The derived value is cached in state so the FlatList identity stays stable.
-  const reviewIdsRef = useRef<string[]>([]);
-  if (reviewIdsParam) {
-    const next = reviewIdsParam.split(',').map(s => s.trim()).filter(Boolean);
-    if (
-      next.length !== reviewIdsRef.current.length ||
-      next.some((id, i) => id !== reviewIdsRef.current[i])
-    ) {
-      reviewIdsRef.current = next;
+  // ---- Deep-link entry: hand a session to the central QuestionRunner -------
+  useEffect(() => {
+    if (launchHandled.current || !user?.uid) return;
+    const title = reviewTitle ?? 'Practice';
+    let source:
+      | { kind: 'topic'; topic: string; title: string }
+      | { kind: 'subject'; subjectId: string; title: string }
+      | { kind: 'ids'; ids: string[]; title: string }
+      | null = null;
+
+    if (topic) source = { kind: 'topic', topic, title };
+    else if (subjectId) source = { kind: 'subject', subjectId, title };
+    else if (reviewIds) {
+      const ids = reviewIds.split(',').map((s) => s.trim()).filter(Boolean);
+      source = { kind: 'ids', ids, title };
     }
-  }
-  const hasReviewSet = reviewIdsRef.current.length > 0;
-  const [subjectScope] = useState<string | undefined>(subjectParam);
+    if (!source) return;
 
-  // Answer / bookmark / flag state lives HERE (not inside cards) so list
-  // recycling can never lose it.
-  const [answers, setAnswers] = useState<Record<string, string>>({});
-  const [bookmarkIds, setBookmarkIds] = useState<Set<string>>(new Set());
-  const [flagIds, setFlagIds] = useState<Set<string>>(new Set());
+    launchHandled.current = true;
+    const mode = source.kind === 'ids' ? 'review' : 'practice';
+    // Do not block on the async start; the runner renders its own loading.
+    useSessionStore.getState().start(source as never, mode, user.uid);
+    router.replace('/question-runner' as never);
+  }, [topic, subjectId, reviewIds, reviewTitle, user, router]);
 
-  // Guards against out-of-order async loads overwriting newer results.
-  const loadTokenRef = useRef(0);
-  const loadingRef = useRef(false);
-
-  useEffect(() => {
-    let cancelled = false;
-    getAllTopics()
-      .then(list => { if (!cancelled) setTopics(list); })
-      .catch(err => console.error('Failed to load topics:', err));
-    if (initialTopic) setSelectedTopic(initialTopic);
-    return () => { cancelled = true; };
-  }, [initialTopic]);
-
-  // Load the user's persisted bookmarks & flags once
-  useEffect(() => {
-    if (!user) return;
-    Promise.all([getBookmarkQuestionIds(user.uid), getFlaggedQuestionIds(user.uid)])
-      .then(([bm, fl]) => {
-        setBookmarkIds(new Set(bm));
-        setFlagIds(new Set(fl));
-      })
-      .catch(err => console.error('Failed to load bookmark/flag state:', err));
-  }, [user]);
-
-  // Debounce search input (no stale results; DB LIKE is case-insensitive)
-  useEffect(() => {
-    const t = setTimeout(() => setDebouncedSearch(searchQuery.trim()), 300);
-    return () => clearTimeout(t);
-  }, [searchQuery]);
-
-  // Reload whenever the session definition changes
-  useEffect(() => {
-    loadQuestions(true);
-  }, [debouncedSearch, selectedTopic, filterMode, subjectScope, hasReviewSet]);
-
-  const loadQuestions = async (reset = false) => {
-    if (!user || loadingRef.current) return;
-
-    const token = ++loadTokenRef.current;
-    const currentPage = reset ? 0 : page;
-    loadingRef.current = true;
-
-    if (reset) {
-      setPage(0);
-      setHasMore(true);
-    }
+  // ---- Subject browser data ------------------------------------------------
+  const load = useCallback(async () => {
+    if (!user?.uid) return;
     setLoading(true);
     setError(null);
-
     try {
-      let newQuestions: Question[] = [];
-      const offset = currentPage * PAGE_SIZE;
-      // Only whole-bank / per-topic modes page; explicit sets do not.
-      let canPage = false;
-
-      if (hasReviewSet) {
-        // Explicit session (e.g. mistakes drill-down) — fixed question list.
-        newQuestions = await getQuestionsByIds(reviewIdsRef.current);
-      } else if (filterMode === 'mistakes' && user) {
-        newQuestions = await getWrongQuestions(user.uid, PAGE_SIZE);
-      } else if (debouncedSearch) {
-        newQuestions = await searchQuestions(debouncedSearch, PAGE_SIZE);
-      } else if (subjectScope) {
-        // Whole-subject practice from the course hierarchy.
-        newQuestions = await getQuestionsBySubject(subjectScope, PAGE_SIZE, offset);
-        canPage = true;
-      } else if (filterMode === 'due') {
-        newQuestions = await getQuestionsByStage(user.uid, 'due', PAGE_SIZE);
-      } else if (filterMode === 'weak') {
-        newQuestions = await getFlaggedQuestions(user.uid, PAGE_SIZE);
-      } else if (filterMode === 'bookmarked') {
-        newQuestions = await getBookmarkedQuestions(user.uid, PAGE_SIZE);
-      } else if (selectedTopic === 'all') {
-        newQuestions = await getAllQuestions(PAGE_SIZE, offset);
-        canPage = true;
-      } else {
-        newQuestions = await getQuestionsByTopic(selectedTopic, PAGE_SIZE, offset);
-        canPage = true;
-      }
-
-      if (token !== loadTokenRef.current) return; // a newer load superseded us
-
-      setQuestions(prev => (reset ? newQuestions : [...prev, ...newQuestions]));
-      setHasMore(canPage && newQuestions.length === PAGE_SIZE);
-      if (!reset) setPage(currentPage + 1);
-    } catch (err) {
-      console.error('Failed to load questions:', err);
-      if (token === loadTokenRef.current) setError('Could not load questions. Please try again.');
+      const store = useCourseStore.getState();
+      await (store.hydrated ? Promise.resolve() : store.hydrate());
+      const list = await getSubjectsWithProgress(user.uid, activeCourseId ?? undefined);
+      setSubjects(list);
+    } catch (e) {
+      console.error('[Practice] Failed to load subjects:', e);
     } finally {
-      if (token === loadTokenRef.current) {
-        setLoading(false);
-        setRefreshing(false);
-      }
-      loadingRef.current = false;
+      setLoading(false);
     }
-  };
+  }, [user?.uid, activeCourseId]);
 
-  /** Records the answer via the central service; UI updates instantly. */
-  const handleAnswer = useCallback(async (questionId: string, selectedAnswer: string, timeSpent: number) => {
-    if (!user) return;
-    const question = questions.find(q => q.id === questionId);
-    if (!question) return;
+  useEffect(() => {
+    load();
+  }, [load, reloadToken]);
 
-    // Optimistic local update - card feedback appears immediately.
-    setAnswers(prev => ({ ...prev, [questionId]: selectedAnswer }));
+  const openSubject = useCallback(
+    (id: string, name: string) => {
+      router.push(
+        `/chapters?subjectId=${id}&title=${encodeURIComponent(name)}` as never
+      );
+    },
+    [router]
+  );
 
-    try {
-      await recordAnswer(user.uid, question, selectedAnswer, timeSpent);
-    } catch (err) {
-      console.error('Failed to record answer:', err);
-      // Roll back so the UI never shows a state that was not saved.
-      setAnswers(prev => {
-        const next = { ...prev };
-        delete next[questionId];
-        return next;
-      });
-    }
-  }, [user, questions]);
+  const renderItem = useCallback(
+    ({ item }: { item: SubjectStats }) => {
+      const IconComp = SUBJECT_ICONS[item.icon] ?? Calculator;
+      return (
+        <AppCard onPress={() => openSubject(item.id, item.name)}>
+          <View style={styles.cardRow}>
+            <View style={[styles.iconBox, { backgroundColor: `${item.color}1A` }]}>
+              <IconComp size={22} color={item.color} />
+            </View>
+            <View style={styles.cardMain}>
+              <Text numberOfLines={1} style={[styles.subjectName, { color: t.textPrimary }]}>
+                {item.name}
+              </Text>
+              <Text style={[styles.subjectMeta, { color: t.textSecondary }]}>
+                {item.chapterCount} chapters · {item.questionCount} questions
+              </Text>
+              <View style={styles.barWrap}>
+                <ProgressBar
+                  progress={item.completionPercent / 100}
+                  height={6}
+                  color={item.color}
+                />
+              </View>
+              <View style={styles.statRow}>
+                <Text style={[styles.statPct, { color: t.secondary }]}>
+                  {item.completionPercent}% complete
+                </Text>
+                <Text style={[styles.statAcc, { color: t.success }]}>
+                  {item.accuracyPercent}% accuracy
+                </Text>
+              </View>
+            </View>
+          </View>
+        </AppCard>
+      );
+    },
+    [t, openSubject]
+  );
 
-  const handleBookmark = useCallback(async (questionId: string) => {
-    if (!user) return;
-    const wasSaved = bookmarkIds.has(questionId);
-    setBookmarkIds(prev => {
-      const next = new Set(prev);
-      if (wasSaved) next.delete(questionId); else next.add(questionId);
-      return next;
-    });
-    try {
-      await dbToggleBookmark(user.uid, questionId);
-    } catch (err) {
-      console.error('Failed to toggle bookmark:', err);
-      setBookmarkIds(prev => {
-        const next = new Set(prev);
-        if (wasSaved) next.add(questionId); else next.delete(questionId);
-        return next;
-      });
-    }
-  }, [user, bookmarkIds]);
-
-  const handleFlag = useCallback(async (questionId: string) => {
-    if (!user) return;
-    const wasFlagged = flagIds.has(questionId);
-    setFlagIds(prev => {
-      const next = new Set(prev);
-      if (wasFlagged) next.delete(questionId); else next.add(questionId);
-      return next;
-    });
-    try {
-      await dbToggleWeakPoint(user.uid, questionId);
-    } catch (err) {
-      console.error('Failed to toggle flag:', err);
-      setFlagIds(prev => {
-        const next = new Set(prev);
-        if (wasFlagged) next.add(questionId); else next.delete(questionId);
-        return next;
-      });
-    }
-  }, [user, flagIds]);
-
-  const clearSearch = () => setSearchQuery('');
-
-  const filtersActive = !!debouncedSearch || selectedTopic !== 'all' || filterMode !== 'all';
-
-  const resetFilters = () => {
-    setSearchQuery('');
-    setSelectedTopic('all');
-    setFilterMode('all');
-  };
-
-  const renderItem = useCallback(({ item }: { item: Question }) => (
-    <QuestionCard
-      question={{
-        id: item.id,
-        topic: item.topic,
-        question: item.question,
-        options: JSON.parse(item.options_json),
-        answer: item.answer,
-        explanation: item.explanation,
-      }}
-      userAnswer={answers[item.id] ?? null}
-      onAnswer={handleAnswer}
-      onBookmark={handleBookmark}
-      onFlag={handleFlag}
-      isBookmarked={bookmarkIds.has(item.id)}
-      isFlagged={flagIds.has(item.id)}
-      mode="practice"
-    />
-  ), [answers, handleAnswer, handleBookmark, handleFlag, bookmarkIds, flagIds]);
-
-const emptyMessage = debouncedSearch
-    ? `No questions found for "${debouncedSearch}"`
-    : filterMode === 'bookmarked' ? 'No bookmarked questions yet'
-    : filterMode === 'weak' ? 'No flagged questions yet'
-    : filterMode === 'mistakes' ? 'No mistakes to review — keep it up!'
-    : hasReviewSet ? 'These questions are no longer available'
-    : subjectScope ? 'No questions in this subject yet'
-    : filterMode === 'due' ? 'Nothing due for review right now'
-    : 'No questions available for this filter';
+  if (!user) {
+    return (
+      <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]}>
+        <EmptyState
+          icon={<BookOpen size={40} color={t.textTertiary} />}
+          title="Sign in required"
+          message="Sign in to practice and track progress."
+          style={{ flex: 1, justifyContent: 'center' }}
+        />
+      </SafeAreaView>
+    );
+  }
 
   return (
-    <View style={styles.container}>
-      {/* Search Bar */}
-      <SearchBar
-        value={searchQuery}
-        onChangeText={setSearchQuery}
-        placeholder="Search questions..."
-        debounceMs={300}
-        showClearButton={true}
-      />
-
-      {/* Filter Chips */}
-      <FilterChips
-        chips={[
-          { key: 'all', label: 'All Topics' },
-          ...topics.map(t => ({ key: t, label: t })),
-          { key: 'due', label: '📅 Due' },
-          { key: 'weak', label: '📚 Weak Areas' },
-          { key: 'bookmarked', label: '🔖 Bookmarked' },
-          { key: 'mistakes', label: '❌ Mistakes' },
-        ]}
-        selectedKey={debouncedSearch ? null : selectedTopic === 'all' ? 'all' : selectedTopic}
-        onSelect={(key) => {
-          if (key === 'all') {
-            setSelectedTopic('all');
-            setFilterMode('all');
-            setSearchQuery('');
-          } else if (key === 'due') {
-            setFilterMode('due');
-            setSelectedTopic('all');
-            setSearchQuery('');
-          } else if (key === 'weak') {
-            setFilterMode('weak');
-            setSelectedTopic('all');
-            setSearchQuery('');
-          } else if (key === 'bookmarked') {
-            setFilterMode('bookmarked');
-            setSelectedTopic('all');
-            setSearchQuery('');
-          } else if (key === 'mistakes') {
-            setFilterMode('mistakes');
-            setSelectedTopic('all');
-            setSearchQuery('');
-          } else {
-            setSelectedTopic(key);
-            setFilterMode('all');
-            setSearchQuery('');
-          }
-        }}
-        showReset={filtersActive}
-        onReset={resetFilters}
-      />
-
-      {/* Question List */}
+    <SafeAreaView style={[styles.safe, { backgroundColor: t.background }]} edges={['top', 'left', 'right']}>
+      <View style={styles.header}>
+        <Text style={[styles.title, { color: t.textPrimary }]}>Practice</Text>
+        <Text style={[styles.subtitle, { color: t.textSecondary }]}>
+          Choose a subject to start practicing
+        </Text>
+      </View>
       <FlatList
-        data={questions}
+        data={subjects}
+        keyExtractor={(s) => s.id}
         renderItem={renderItem}
-        keyExtractor={item => item.id}
-        extraData={{ answers, bookmarkIds, flagIds }}
-        onEndReached={() => { if (hasMore && !loading) loadQuestions(); }}
-        onEndReachedThreshold={0.5}
-        onRefresh={() => { setRefreshing(true); loadQuestions(true); }}
-        refreshing={refreshing}
-        contentContainerStyle={styles.listContent}
+        contentContainerStyle={styles.list}
+        initialNumToRender={6}
+        maxToRenderPerBatch={6}
+        windowSize={7}
         ListEmptyComponent={
-          !loading ? (
+          loading ? (
+            <LoadingState variant="cards" count={2} />
+          ) : error ? (
+            <ErrorState message={error} onRetry={() => setReloadToken((n) => n + 1)} />
+          ) : (
             <EmptyState
-              title={error ? 'Failed to load' : 'No questions found'}
-              message={error ?? emptyMessage}
-              actionLabel={error ? 'Retry' : filtersActive ? 'Clear Filters' : undefined}
-              onAction={error ? () => loadQuestions(true) : filtersActive ? resetFilters : undefined}
+              icon={<BookOpen size={40} color={t.textTertiary} />}
+              title="No subjects yet"
+              message="The question bank for this course hasn't finished loading. Pull down to retry or restart the app once."
             />
-          ) : null
+          )
         }
       />
-
-      {loading && questions.length === 0 && (
-        <View style={styles.loadingContainer}>
-          <Text style={styles.loadingText}>Loading questions...</Text>
-        </View>
-      )}
-    </View>
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#f8fafc',
-  },
-  listContent: {
-    paddingHorizontal: 20,
-    paddingVertical: 16,
-    paddingBottom: 100,
-  },
-  loadingContainer: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    paddingVertical: 60,
-  },
-  loadingText: {
-    fontSize: 16,
-    color: '#64748b',
-  },
+  safe: { flex: 1 },
+  header: { paddingHorizontal: spacing.screenX, paddingTop: spacing.md, paddingBottom: spacing.sm },
+  title: { ...typography.pageTitle, fontWeight: '800' },
+  subtitle: { ...typography.bodySmall, marginTop: 2 },
+  list: { padding: spacing.screenX, paddingTop: spacing.xs, gap: spacing.sm, paddingBottom: spacing.xxl },
+  cardRow: { flexDirection: 'row', gap: spacing.md },
+  iconBox: { width: 46, height: 46, borderRadius: radius.md, alignItems: 'center', justifyContent: 'center' },
+  cardMain: { flex: 1, minWidth: 0 },
+  subjectName: { ...typography.cardTitle, fontWeight: '700' },
+  subjectMeta: { ...typography.caption, marginTop: 2 },
+  barWrap: { marginTop: spacing.sm },
+  statRow: { flexDirection: 'row', justifyContent: 'space-between', marginTop: spacing.xs },
+  statPct: { ...typography.caption, fontWeight: '600' },
+  statAcc: { ...typography.caption, fontWeight: '600' },
 });

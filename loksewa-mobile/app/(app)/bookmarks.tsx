@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Bookmarks — global persistent bookmark manager (rule 17).
  * Search + subject filtering over real bookmark rows; tapping a row opens the
  * question in the practice engine; removal is optimistic with rollback.
@@ -15,7 +15,8 @@ import {
 } from '../../src/services/database';
 import { useAuthStore } from '../../src/stores/authStore';
 import { getTopicPath } from '../../src/constants/courses';
-import { themes, spacing, radius, typography } from '../../src/constants/theme';
+import { spacing, radius, typography, type AppTheme } from '../../src/constants/theme';
+import { useTheme } from '../../src/hooks/useTheme';
 import {
   EmptyState,
   ErrorState,
@@ -25,6 +26,8 @@ import {
 } from '../../src/components/ui';
 
 export default function BookmarksScreen() {
+  const t = useTheme();
+  const styles = makeStyles(t);
   const router = useRouter();
   const user = useAuthStore(s => s.user);
 
@@ -116,7 +119,7 @@ export default function BookmarksScreen() {
           size={38}
           onPress={() => removeBookmark(item.id)}
         >
-          <Trash2 size={18} color={themes.light.error} />
+          <Trash2 size={18} color={t.error} />
         </IconButton>
       </View>
     ),
@@ -128,7 +131,7 @@ export default function BookmarksScreen() {
       <SafeAreaView style={styles.safe}>
         <ScreenHeader title="Bookmarks" />
         <EmptyState
-          icon={<BookmarkIcon size={40} color={themes.light.textTertiary} />}
+          icon={<BookmarkIcon size={40} color={t.textTertiary} />}
           title="Sign in required"
           message="Sign in to keep bookmarks across devices."
           style={{ flex: 1, justifyContent: 'center' }}
@@ -145,14 +148,14 @@ export default function BookmarksScreen() {
       />
 
       <View style={styles.searchRow}>
-        <View style={[styles.searchBox, { backgroundColor: themes.light.surfaceMuted }]}>
-          <Search size={18} color={themes.light.textTertiary} />
+        <View style={[styles.searchBox, { backgroundColor: t.surfaceMuted }]}>
+          <Search size={18} color={t.textTertiary} />
           <TextInput
             value={query}
             onChangeText={setQuery}
             placeholder="Search bookmarks"
-            placeholderTextColor={themes.light.textTertiary}
-            style={[styles.searchInput, { color: themes.light.textPrimary }]}
+            placeholderTextColor={t.textTertiary}
+            style={[styles.searchInput, { color: t.textPrimary }]}
             autoCorrect={false}
             autoCapitalize="none"
             accessibilityLabel="Search bookmarks"
@@ -175,7 +178,7 @@ export default function BookmarksScreen() {
                   style={[
                     styles.filterChip,
                     active && styles.filterChipActive,
-                    { backgroundColor: active ? themes.light.secondary : themes.light.surface },
+                    { backgroundColor: active ? t.secondary : t.surface },
                   ]}
                   accessibilityRole="button"
                 >
@@ -202,7 +205,7 @@ export default function BookmarksScreen() {
             <ErrorState message={error} onRetry={() => setReloadToken(n => n + 1)} />
           ) : (
             <EmptyState
-              icon={<BookmarkIcon size={40} color={themes.light.textTertiary} />}
+              icon={<BookmarkIcon size={40} color={t.textTertiary} />}
               title={query || subjectFilter ? 'No matching bookmarks' : 'No bookmarks yet'}
               message={
                 query || subjectFilter
@@ -217,9 +220,8 @@ export default function BookmarksScreen() {
   );
 }
 
-const t = themes.light;
 
-const styles = StyleSheet.create({
+const makeStyles = (t: AppTheme) => StyleSheet.create({
   safe: {
     flex: 1,
     backgroundColor: t.background,
