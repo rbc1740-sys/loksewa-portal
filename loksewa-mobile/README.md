@@ -38,12 +38,14 @@ npx eas-cli build -p android --profile development
    (it currently differs from the one in `app.config.ts → extra.firebaseConfig`).
 2. **Enable auth providers** in Firebase console → Authentication:
    Email/Password and Anonymous work out of the box; Google/Apple need setup.
-3. **OAuth client IDs** — `src/services/auth.ts` still contains placeholder IDs:
-   ```
-   GOOGLE_CLIENT_ID     = '611217654714-your-oauth-client-id.apps.googleusercontent.com'
-   GOOGLE_IOS_CLIENT_ID = '611217654714-your-ios-client-id.apps.googleusercontent.com'
-   ```
-   Replace both with real IDs from Google Cloud console → Credentials.
+3. **Google sign-in on Android** — the web (client_type 3) and iOS (client_type 2)
+   client IDs are already set in `src/services/auth.ts` from `google-services.json`.
+   The Android client (client_type 1) needs the SHA-1 of the EAS signing keystore,
+   which only exists after the first EAS build. After building: run `npx eas credentials`
+   (Android → view keystore) → copy SHA-1 → create an Android OAuth client in
+   Google Cloud console (package `com.loksewa.preppro`) → paste its ID into
+   `GOOGLE_ANDROID_CLIENT_ID` in `src/services/auth.ts`. Until then Google
+   sign-in on Android raises a clear not-configured error; email/anonymous work.
 4. **Firestore rules** — review `../firestore.rules` before any public release.
 
 ## Updating the question bank
