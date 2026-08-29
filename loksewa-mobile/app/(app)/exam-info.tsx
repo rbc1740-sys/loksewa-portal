@@ -6,7 +6,7 @@
  * Supports the mock papers (from the Exam hub) and custom exams.
  */
 import React, { useCallback, useState } from 'react';
-import { ScrollView, StyleSheet, Text, View } from 'react-native';
+import { ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useLocalSearchParams } from 'expo-router';
 import { AlertTriangle, CheckCircle2, Clock, FileText, ListChecks } from 'lucide-react-native';
@@ -53,6 +53,10 @@ export default function ExamInfoScreen() {
 
   const [starting, setStarting] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  // Marking config for mock papers (custom exams carry their own config).
+  // Raw text so decimal values like "0.25" can be typed.
+  const [marksPerQ, setMarksPerQ] = useState('1');
+  const [negativeMarks, setNegativeMarks] = useState('0');
 
   const isCustom = kind === 'custom' || !!customId;
   const qCount = parseInt(count ?? '0', 10) || 0;
@@ -87,7 +91,13 @@ export default function ExamInfoScreen() {
           durationMinutes: mins,
           topicLabel: source === 'subject' && subjectId ? `subject:${subjectId}` : 'all',
         });
-        push('/quiz', { sessionId, title: title ?? 'Exam', type: type ?? 'model' });
+        push('/quiz', {
+          sessionId,
+          title: title ?? 'Exam',
+          type: type ?? 'model',
+          marksPerQ,
+          negative: negativeMarks,
+        });
       }
     } catch (e) {
       console.error('[ExamInfo] start failed:', e);
@@ -95,7 +105,7 @@ export default function ExamInfoScreen() {
     } finally {
       setStarting(false);
     }
-  }, [user, isCustom, customId, source, subjectId, qCount, mins, title, type, push]);
+  }, [user, isCustom, customId, source, subjectId, qCount, mins, title, type, marksPerQ, negativeMarks, push]);
 
   if (!user) {
     return (
@@ -146,6 +156,31 @@ export default function ExamInfoScreen() {
           </Text>
         </View>
 
+        {!isCustom ? (
+          <View style={styles.markingRow}>
+            <View style={styles.markingField}>
+              <Text style={styles.markingLabel}>Marks / Q</Text>
+              <TextInput
+                style={styles.markingInput}
+                value={marksPerQ}
+                onChangeText={setMarksPerQ}
+                keyboardType="decimal-pad"
+                maxLength={4}
+              />
+            </View>
+            <View style={styles.markingField}>
+              <Text style={styles.markingLabel}>Negative marks</Text>
+              <TextInput
+                style={styles.markingInput}
+                value={negativeMarks}
+                onChangeText={setNegativeMarks}
+                keyboardType="decimal-pad"
+                maxLength={5}
+              />
+            </View>
+          </View>
+        ) : null}
+
         <AppButton
           label={starting ? 'Starting…' : 'Start Exam'}
           onPress={start}
@@ -182,4 +217,17 @@ const styles = StyleSheet.create({
   timeNoteText: { flex: 1, ...typography.bodySmall },
   hint: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs, marginTop: spacing.md, justifyContent: 'center' },
   hintText: { ...typography.caption },
+  markingRow: { flexDirection: 'row', gap: spacing.md, marginBottom: spacing.lg },
+  markingField: { flex: 1, gap: spacing.xs },
+  markingLabel: { ...typography.bodySmall, fontWeight: '700', color: '#475569' },
+  markingInput: {
+    height: 48,
+    backgroundColor: '#ffffff',
+    borderRadius: radius.md,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: '#e2e8f0',
+    paddingHorizontal: spacing.md,
+    fontSize: 16,
+    color: '#0f172a',
+  },
 });

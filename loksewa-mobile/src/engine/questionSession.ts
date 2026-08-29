@@ -215,10 +215,12 @@ async function resolveQuestions(source: SessionSource, userId: string): Promise<
   let qs: Question[];
   switch (source.kind) {
     case 'topic':
-      qs = await getQuestionsByTopic(source.topic ?? '');
+      // Generous cap: a topic can hold hundreds of questions and the session
+      // must see all of them (the old default limit was 50).
+      qs = await getQuestionsByTopic(source.topic ?? '', 1000);
       break;
     case 'subject':
-      qs = await getQuestionsBySubject(source.subjectId ?? '');
+      qs = await getQuestionsBySubject(source.subjectId ?? '', 1000);
       break;
     case 'ids':
       qs = await getQuestionsByIds(source.ids ?? []);
@@ -236,7 +238,7 @@ async function resolveQuestions(source: SessionSource, userId: string): Promise<
       qs = await getQuestionsByStage(userId, (source.stage ?? 'due') as never);
       break;
     default:
-      qs = await getAllQuestions();
+      qs = await getAllQuestions(1000, 0);
   }
   // Shuffle ONCE at session creation so each run feels fresh; frozen after.
   const shuffled = qs.slice();

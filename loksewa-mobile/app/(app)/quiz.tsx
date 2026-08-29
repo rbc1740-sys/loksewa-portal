@@ -42,10 +42,13 @@ export default function QuizScreen() {
   const styles = makeStyles(t);
   const push = useTypedPush();
   const user = useAuthStore(s => s.user);
-  const { sessionId, title, type } = useLocalSearchParams<{
+  const { sessionId, title, type, marksPerQ, negative } = useLocalSearchParams<{
     sessionId: string;
     title?: string;
     type?: string;
+    /** Optional marking config passed from the exam-info screen (mock papers). */
+    marksPerQ?: string;
+    negative?: string;
   }>();
   const sid = sessionId;
   // History label for non-custom papers ('model' | 'subject'); validated, never
@@ -66,9 +69,10 @@ export default function QuizScreen() {
   const [submitting, setSubmitting] = useState(false);
   const submittingRef = useRef(false);
 
-  // Marking config. Present for custom sessions, defaulted otherwise.
-  const [marksPer, setMarksPer] = useState(1);
-  const [negativeMarks, setNegativeMarks] = useState(0);
+  // Marking config. Custom sessions re-hydrate these from the stored exam;
+  // mock papers get values passed from the exam-info screen (defaults otherwise).
+  const [marksPer, setMarksPer] = useState(() => (marksPerQ ? Number(marksPerQ) || 1 : 1));
+  const [negativeMarks, setNegativeMarks] = useState(() => (negative ? Number(negative) || 0 : 0));
   const [passPercent, setPassPercent] = useState(40);
   const customIdRef = useRef<string | null>(null);
 
@@ -287,6 +291,7 @@ const current = active?.paper[index];
           isFlagged={marked.has(current.id)}
           mode="exam"
           showResult={false}
+          onAnswer={(qid, choice) => handleAnswer(qid, choice)}
         />
         <TouchableOpacity
           style={styles.flagRow}

@@ -145,7 +145,7 @@ export function QuestionRunner() {
       </ScrollView>
             <View style={[styles.footer, { backgroundColor: t.surface, borderTopColor: t.border, paddingBottom: insets.bottom + spacing.sm }]}>
         <AppButton label="Previous" variant="secondary" onPress={prev} disabled={index === 0} fullWidth />
-        <AppButton label={index < total - 1 ? 'Continue' : 'Finish'} onPress={handleNext} disabled={!hasAnswered} fullWidth />
+        <AppButton label={index < total - 1 ? 'Next' : 'Finish'} onPress={handleNext} fullWidth />
       </View>
     </View>
   );

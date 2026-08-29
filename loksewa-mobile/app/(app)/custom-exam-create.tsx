@@ -37,7 +37,9 @@ export default function CustomExamCreateScreen() {
   const [count, setCount] = useState(20);
   const [minutes, setMinutes] = useState(30);
   const [marks, setMarks] = useState(1);
-  const [negative, setNegative] = useState(0);
+  /** Kept as raw text so a decimal like "0.25" can be typed without numeric
+   *  coercion eating the decimal point mid-edit. */
+  const [negative, setNegative] = useState('0');
   const [pass, setPass] = useState(40);
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -68,7 +70,7 @@ export default function CustomExamCreateScreen() {
         questionCount: Math.max(1, Math.min(200, Math.round(count || 20))),
         durationSeconds: Math.round(minutes) * 60,
         marksPerQuestion: Math.max(1, Math.round(marks || 1)),
-        negativeMarks: Math.max(0, Number(negative) || 0),
+        negativeMarks: Math.max(0, parseFloat(negative) || 0),
         passPercent: Math.min(100, Math.max(1, Math.round(pass || 40))),
       });
       push('/exam');
@@ -202,11 +204,11 @@ export default function CustomExamCreateScreen() {
             <Text style={styles.label}>Negative Marks</Text>
             <TextInput
               style={styles.input}
-              value={String(negative)}
-              onChangeText={t => setNegative(Number(t) || 0)}
-              placeholder="0"
-              keyboardType="numeric"
-              maxLength={2}
+              value={negative}
+              onChangeText={setNegative}
+              placeholder="0.25"
+              keyboardType="decimal-pad"
+              maxLength={5}
             />
           </View>
         </View>
