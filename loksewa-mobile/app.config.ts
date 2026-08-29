@@ -103,6 +103,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     withFirebaseMessagingManifestFix as unknown as NonNullable<ExpoConfig['plugins']>[number],
     'expo-router',
     'expo-secure-store',
+    'expo-sqlite',
     [
       'expo-notifications',
       {
