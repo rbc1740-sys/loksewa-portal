@@ -1,0 +1,112 @@
+{
+  "files": [
+    {
+      "path": "questions/civil_service_act_and_regulation.json",
+      "sha256": "84728c6c559a9b2f1475aaaa11f00ebccbfb73a3d78f0c41d9f3fe722b23ef3b"
+    },
+    {
+      "path": "questions/concrete_technology.json",
+      "sha256": "0b194304c143934323fdfb4ccb87e0be4a48665487851dd89931cb9a40764a09"
+    },
+    {
+      "path": "questions/constitution_of_nepal.json",
+      "sha256": "6a9b3fd11f8f03415962b206efdcbe0518bef500d18190326cbed22884c73c03"
+    },
+    {
+      "path": "questions/construction_management.json",
+      "sha256": "ef8f95a6a83f661436ff9b82700b106a6778c106e2b0763df6007c54ae3b3365"
+    },
+    {
+      "path": "questions/construction_materials.json",
+      "sha256": "9076a3f57c1fbb49c222ff8400a480d5d326e1e5932adb017577d91dbaec6813"
+    },
+    {
+      "path": "questions/current_affairs.json",
+      "sha256": "5815cc7ee671d9fa8271ff8923565490f0520af7a86d5df8b889032e8d1e7c00"
+    },
+    {
+      "path": "questions/current_periodical_plan_of_nepal.json",
+      "sha256": "7868a59c15dcf55714ea86590eba4576ff66783f0fc337dcc75949dcbebc8a86"
+    },
+    {
+      "path": "questions/economic_aspects_of_nepal.json",
+      "sha256": "7dc0e5fc04df33414cd956fcf02af32d926b6155eaccdc2cca21cb5127dd9e92"
+    },
+    {
+      "path": "questions/engineering_drawing.json",
+      "sha256": "54dac3a8a9670fb29e217680287806626fac4afe15204a3ce00b255ce0086e49"
+    },
+    {
+      "path": "questions/engineering_economics.json",
+      "sha256": "683d78447259603d818a6e457fbb6692f8f57b174860c71d170fc3b7bcbb04de"
+    },
+    {
+      "path": "questions/engineering_professional_practice.json",
+      "sha256": "450a0e3d79e21f84bb7c665507bcc031bbcfe06c5ea5e2e62bc25a82fed86b62"
+    },
+    {
+      "path": "questions/estimation.json",
+      "sha256": "d9876a61bf89166a4d60c62515b8afd3bdf073ee59aae05c3f331d35406916dd"
+    },
+    {
+      "path": "questions/functional_scope_of_public_services.json",
+      "sha256": "54f6f1b144f982d508b2daacdc002a215863632aca6dd74a02c22bc0dadfe6e8"
+    },
+    {
+      "path": "questions/fundamentals_of_management.json",
+      "sha256": "625e272ef7e2075652ec2408c97ca0663cf4c997a724abfa416be8520bcfbd92"
+    },
+    {
+      "path": "questions/geographical_diversity_climatic_condition_and_cultures.json",
+      "sha256": "3c065c5277c61f6e4fb33340c1b8f62555c6c1f22db443c79312e02bbb512a84"
+    },
+    {
+      "path": "questions/geography_of_nepal.json",
+      "sha256": "b2ccfcb552e4ce9ce033bb59356b770db166b792c06b9c17eeddbcdbedb7e802"
+    },
+    {
+      "path": "questions/geotechnical.json",
+      "sha256": "dd4eb8790bc40a3cfd5d1e125210e8361757e07461212181cd047da97d75d543"
+    },
+    {
+      "path": "questions/governance_system_and_government.json",
+      "sha256": "b734883c25ac9be4d90ad9a733e364fe4c2aa23a0f073fd4bd87ba43df16803d"
+    },
+    {
+      "path": "questions/government_budgeting_and_accounting.json",
+      "sha256": "847a26778933d9a0e781a5ece6e4e68a9c2923bcb5a2cca8c715f3b0cc222d88"
+    },
+    {
+      "path": "questions/major_natural_resources.json",
+      "sha256": "eeaaed7bad03c009c2a85d242a291048882ebe62a1376506c90478256c16da11"
+    },
+    {
+      "path": "questions/modern_history_of_nepal.json",
+      "sha256": "93946950fc50581f7d48d6e61f76ef99110d5a5621e16db755c478fbe6a295a1"
+    },
+    {
+      "path": "questions/public_policy.json",
+      "sha256": "69f80703be73535c28bf130dab07b4767fdbf46c009ee27b4f799ffc5f423943"
+    },
+    {
+      "path": "questions/public_service_charter.json",
+      "sha256": "10e0cbe277d474eb0bf1f2b099630599e2d7fcf44baa5c65c57009be41a11d19"
+    },
+    {
+      "path": "questions/structural_engineering.json",
+      "sha256": "bbe57e72fb0d57c8cc7351716b7c74e386f0beb10ab58aed98c5f30368a91046"
+    },
+    {
+      "path": "questions/surveying.json",
+      "sha256": "d99797f2d73f8c0718f6683bed9f7ea08a457906811b86a7543b0b7045d70687"
+    },
+    {
+      "path": "questions/sustainable_development_science_and_technology.json",
+      "sha256": "66461674b7c6c9b024a6e89c32871153e051cd8521b90baa1964b6fabb34fe5a"
+    },
+    {
+      "path": "questions/uno_saarc_and_bimstec.json",
+      "sha256": "b74a18903e7f3cf88eddbc39f92113c44505aae96f77a36979a55d99f86a1f62"
+    }
+  ]
+}

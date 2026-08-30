@@ -187,19 +187,31 @@ export interface SyncQueueItem {
 }
 
 // Question operations
+// Shared INSERT statement — keep this exact string in sync with
+// src/db/migrations/schema-parity.test.ts (it statically greps for it).
+const QUESTIONS_INSERT_COLUMNS = `id, topic, question, options_json, answer, explanation, source_file, course_id, subject_id, chapter_id, topic_id, difficulty, marks, negative_marks`;
+
+async function insertQuestionRow(
+  database: SQLite.SQLiteDatabase,
+  q: Question,
+  h: { course_id?: string; subject_id?: string; chapter_id?: string; topic_id?: string; difficulty?: string; marks?: number; negative_marks?: number } = {}
+): Promise<void> {
+  await database.runAsync(
+    `INSERT OR REPLACE INTO questions (${QUESTIONS_INSERT_COLUMNS})
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+    q.id, q.topic, q.question, q.options_json, q.answer, q.explanation || null, q.source_file || null,
+    h.course_id || null, h.subject_id || null, h.chapter_id || null, h.topic_id || null,
+    h.difficulty || null, h.marks || null, h.negative_marks || null
+  );
+}
+
 export async function bulkInsertQuestions(questions: Question[], hierarchyOverrides?: Record<string, { course_id?: string; subject_id?: string; chapter_id?: string; topic_id?: string; difficulty?: string; marks?: number; negative_marks?: number }>): Promise<void> {
   const database = await getDatabase();
 
   await database.withTransactionAsync(async () => {
     for (const q of questions) {
       const h = hierarchyOverrides?.[q.id] || {};
-      await database.runAsync(
-        `INSERT OR REPLACE INTO questions (id, topic, question, options_json, answer, explanation, source_file, course_id, subject_id, chapter_id, topic_id, difficulty, marks, negative_marks)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-        q.id, q.topic, q.question, q.options_json, q.answer, q.explanation || null, q.source_file || null,
-        h.course_id || null, h.subject_id || null, h.chapter_id || null, h.topic_id || null,
-        h.difficulty || null, h.marks || null, h.negative_marks || null
-      );
+      await insertQuestionRow(database, q, h);
     }
   });
 }
@@ -903,6 +915,69 @@ export async function getExamHistory(
 
 
 
+
+// ==================== App metadata (key/value) ====================
+// Device-wide (not user-scoped) metadata. Used to persist the installed
+// question-bank version hash so remote updates can be detected across launches.
+const APP_META_TABLE = 'app_meta';
+
+export async function getAppMeta(key: string): Promise<string | null> {
+  const database = await getDatabase();
+  const row = await database.getFirstAsync<{ value: string }>(
+    `SELECT value FROM ${APP_META_TABLE} WHERE key = ?`,
+    key
+  );
+  return row?.value ?? null;
+}
+
+export async function setAppMeta(key: string, value: string): Promise<void> {
+  const database = await getDatabase();
+  await database.runAsync(
+    `INSERT OR REPLACE INTO ${APP_META_TABLE} (key, value, updated_at)
+     VALUES (?, ?, ?)`,
+    key, value, Date.now()
+  );
+}
+
+// ==================== Question bank re-seed ====================
+// Replaces the questions table with a freshly-parsed bank (e.g. after a remote
+// update was detected). User-owned tables (user_progress, sr_state, bookmarks,
+// weak_points, exam history) reference question_id but are NOT deleted or
+// rewritten, so a bank update never destroys a user's study history.
+//
+// IMPORTANT: those child tables declare `FOREIGN KEY (question_id) REFERENCES
+// questions(id)` and the connection runs with `PRAGMA foreign_keys = ON`, so a
+// plain DELETE would violate the constraint on any device that has progress.
+// We therefore disable FK enforcement for the duration of the atomic swap and
+// re-enable it right after (PRAGMA foreign_keys cannot change inside a
+// transaction, so it wraps the transaction).
+export async function replaceQuestionBank(questions: Question[]): Promise<number> {
+  const database = await getDatabase();
+
+  await database.execAsync('PRAGMA foreign_keys = OFF;');
+  try {
+    await database.withTransactionAsync(async () => {
+      await database.runAsync('DELETE FROM question_hierarchy;');
+      await database.runAsync('DELETE FROM questions;');
+      // NOTE: insert rows directly here instead of calling bulkInsertQuestions,
+      // which opens its own transaction (nested transactions are invalid).
+      for (const q of questions) {
+        await insertQuestionRow(database, q);
+      }
+    });
+  } finally {
+    await database.execAsync('PRAGMA foreign_keys = ON;');
+  }
+
+  // Hierarchy link + count refresh must run AFTER the transaction above so it
+  // sees the new rows. linkQuestionsToHierarchy / refreshHierarchyCounts are
+  // private in this module, but they are idempotent and safe to call here.
+  await linkQuestionsToHierarchy();
+  await refreshHierarchyCounts();
+
+  console.log(`[DB] Replaced question bank with ${questions.length} questions`);
+  return questions.length;
+}
 
 // ==================== Question bank seeding ====================
 // The full question bank ships inside the app bundle (see

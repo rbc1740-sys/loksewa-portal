@@ -10,3 +10,5 @@ client_secret_*.json
 /android/
 .idea/
 
+
+playwright-report/

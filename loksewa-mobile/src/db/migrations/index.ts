@@ -396,7 +396,18 @@ CREATE INDEX IF NOT EXISTS idx_questions_subject ON questions(subject_id);
 CREATE INDEX IF NOT EXISTS idx_questions_chapter ON questions(chapter_id);
 CREATE INDEX IF NOT EXISTS idx_questions_topic ON questions(topic_id);
 `,
+
+  '010_app_meta': `
+-- Key/value store for app-level metadata (question bank version tracking).
+-- NOT user-scoped: the question bank is a device-wide resource, so its
+-- installed-version hash must not live on user_profile (which is per-user).
+CREATE TABLE IF NOT EXISTS app_meta (
+  key TEXT PRIMARY KEY,
+  value TEXT NOT NULL,
+  updated_at INTEGER DEFAULT (strftime('%s','now') * 1000)
+);
+`,
 };
 
 export type MigrationName = keyof typeof MIGRATIONS;
-export const MIGRATION_ORDER: MigrationName[] = ['001_init', '002_add_db_version', '003_add_question_difficulty', '004_courses_subjects_chapters', '005_reports_daily_achievements', '006_custom_exams', '007_study_materials_videos', '008_notifications', '009_questions_hierarchy_columns']
+export const MIGRATION_ORDER: MigrationName[] = ['001_init', '002_add_db_version', '003_add_question_difficulty', '004_courses_subjects_chapters', '005_reports_daily_achievements', '006_custom_exams', '007_study_materials_videos', '008_notifications', '009_questions_hierarchy_columns', '010_app_meta']

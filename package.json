@@ -12,6 +12,7 @@
     "test:e2e:ui": "playwright test --ui",
     "lint": "eslint . --ext .js,.html",
     "format": "prettier --write .",
+    "bank:manifest": "node scripts/generate-question-bank-manifest.js",
     "dev": "npx serve .",
     "start": "npx serve ."
   },

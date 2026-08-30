@@ -43,6 +43,13 @@ function insertColumnsFromDatabaseService(): string[] {
     new URL('../../services/database.ts', import.meta.url),
     'utf8'
   );
+  // Column list now lives in the QUESTIONS_INSERT_COLUMNS constant (shared by
+  // both bulkInsertQuestions and replaceQuestionBank).
+  const constant = databaseTs.match(/QUESTIONS_INSERT_COLUMNS = `([^`]+)`/);
+  if (constant) {
+    return constant[1].split(',').map((c) => c.trim());
+  }
+  // Backwards-compatible fallback for the inline literal form.
   const insert = databaseTs.match(/INSERT OR REPLACE INTO questions \(([^)]*)\)/);
   if (!insert) throw new Error('questions INSERT statement not found in database.ts');
   return insert[1].split(',').map((c) => c.trim());

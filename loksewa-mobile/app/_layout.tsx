@@ -6,6 +6,7 @@ import { useAuthStore } from '../src/stores/authStore';
 import { useSettingsStore } from '../src/stores/settingsStore';
 import { useTheme } from '../src/hooks/useTheme';
 import { ensureQuestionBankSeeded } from '../src/services/database';
+import { syncQuestionBank } from '../src/services/questionBankSync';
 import { useCourseStore } from '../src/stores/courseStore';
 import { startSyncWorker, type SyncWorkerHandle } from '../src/services/syncWorker';
 import { ErrorState } from '../src/components/ui';
@@ -41,9 +42,22 @@ export default function RootLayout() {
         // Seed the course catalog + hierarchy only AFTER the question bank is
         // in SQLite, so question-to-hierarchy linking cannot race an empty
         // questions table on first launch.
-        useCourseStore.getState().hydrate().catch((e) =>
-          console.warn('[Boot] Course store hydration skipped:', e)
-        );
+        useCourseStore.getState().hydrate()
+          .then(() => {
+            // Option C: after the local bank + course catalog are ready, check
+            // the remote manifest once. Fail-open (never blocks the app) and
+            // non-waiting — the bundled bank already works offline.
+            syncQuestionBank()
+              .then((result) => {
+                if (result.applied) {
+                  console.log(
+                    `[Boot] Question bank synced: ${result.reason} (${result.count} questions)`
+                  );
+                }
+              })
+              .catch((e) => console.warn('[Boot] Question bank sync skipped:', e));
+          })
+          .catch((e) => console.warn('[Boot] Course store hydration skipped:', e));
       })
       .catch((error) => {
         console.error('[Boot] Failed to seed question bank:', error);
