@@ -33,9 +33,9 @@ function sha256File(filePath) {
 }
 
 const files = readdirSync(QUESTIONS_DIR)
-  .filter((f) => f.endsWith('.json'))
+  .filter(f => f.endsWith('.json'))
   .sort()
-  .map((f) => {
+  .map(f => {
     const path = `questions/${f}`;
     return { path, sha256: sha256File(join(QUESTIONS_DIR, f)) };
   });
