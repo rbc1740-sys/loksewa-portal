@@ -6,6 +6,11 @@ on:
   pull_request:
     branches: [main, develop]
 
+# peaceiris/actions-gh-pages (deploy-production) pushes to the gh-pages branch,
+# so the default GITHUB_TOKEN needs contents:write.
+permissions:
+  contents: write
+
 jobs:
   lint:
     name: Lint & Format
