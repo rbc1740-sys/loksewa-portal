@@ -1,0 +1,702 @@
+[
+  {
+    "question": "स्वर्गद्वारी कुन जिल्लामा पर्दछ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "दाङ",
+      "b": "प्युठान",
+      "c": "सल्यान",
+      "d": "बाग्लुङ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2410",
+    "chapter": ""
+  },
+  {
+    "question": "वर्षा नाप्ने काममा प्रयोग हुने यन्त्रको नाम के हो ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "ल्याक्टोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "रेनगज"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2411",
+    "chapter": ""
+  },
+  {
+    "question": "मानव शरीरको सबैभन्दा सानो ग्रन्थि कुन हो ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "पिट्यूटरी ग्रन्थि",
+      "b": "थाइराइड ग्रन्थि",
+      "c": "पिनियल ग्रन्थि",
+      "d": "एड्रिनल ग्रन्थि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2412",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा लेखिएका कुनै विषय कार्यान्वयन भए वा नभएको सम्बन्धमा कुनै अदालतमा प्रश्र उठाउन सकिने छैन ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "भाग २",
+      "b": "भाग ३",
+      "c": "भाग ४",
+      "d": "भाग ५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2413",
+    "chapter": ""
+  },
+  {
+    "question": "EEC कुन संस्थासँग सम्बन्धित रहेको छ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "युरोपियन युनियन",
+      "b": "सार्क",
+      "c": "बिमस्टेक",
+      "d": "संयुक्त राष्ट्रसङ्घ"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2414",
+    "chapter": ""
+  },
+  {
+    "question": "दिवेही कुन राष्ट्रको राष्ट्रभाषा हो ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "भुटान",
+      "b": "बङ्गलादेश",
+      "c": "पाकिस्तान",
+      "d": "माल्दिप्स"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2415",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको प्रशासनिक इतिहासमा पहिलोपटक महिला मुख्य सचिव बन्न सफल व्यक्तित्व को हुन् ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "सुमना श्रेष्ठ",
+      "b": "लीलादेवी गड्ताैला",
+      "c": "इन्दिरा राणा मगर",
+      "d": "अनुराधा कोइराला"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2416",
+    "chapter": ""
+  },
+  {
+    "question": "कार्यालयको महत्व तलका मध्ये कुन होइन ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "जनसम्पर्क केन्द्र",
+      "b": "सेवा केन्द्र",
+      "c": "समन्वय केन्द्र",
+      "d": "मिलन केन्द्र"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2417",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती सेवामा कुनै पद रिक्त भएमा कति दिनभित्र लोकसेवा आयोगलाई सूचना दिनुपर्छ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "१५ दिनभित्र",
+      "b": "१ महिनाभित्र",
+      "c": "३ महिनाभित्र",
+      "d": "६ महिनाभित्र"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2418",
+    "chapter": ""
+  },
+  {
+    "question": "सरकारी बजेट तर्जु‌मा गर्ने गराउने दायित्व कसको हुन्छ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "प्रधानमन्त्री तथा मन्त्रिपरिषद कायलिय",
+      "b": "अर्थ मन्त्रालय",
+      "c": "राष्ट्रिय योजना आयोग",
+      "d": "अर्थ समिति"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2419",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक सेवाअन्तर्गत पूर्वाधार विकास सेवासँग सम्बन्धित सेवा कुन होइन ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "यातायात",
+      "b": "पुल",
+      "c": "हवाइसेवा",
+      "d": "गुणस्तर सेवा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2420",
+    "chapter": ""
+  },
+  {
+    "question": "Two factor theory का प्रतिपादक को हुन् ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Alderfer",
+      "b": "McClelland",
+      "c": "Hertzberg",
+      "d": "Maslow"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2421",
+    "chapter": ""
+  },
+  {
+    "question": "Human relation movement का पिता भनेर कसलाई चिनिन्छ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "F.W Taylor",
+      "b": "Henry Fayol",
+      "c": "Peter Drucker",
+      "d": "Elton Mayo"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2422",
+    "chapter": ""
+  },
+  {
+    "question": "तलका भनाई बारे बिचार गर्नुहोस् ।",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो ।",
+      "b": "सार्वजनिक सेवा प्रवाह जनताको अधिकार हो ।",
+      "c": "माथिका दुवै ठिक छन्",
+      "d": "माथिका दुवै गलत छन्"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2423",
+    "chapter": ""
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगका सदस्यहरूको कति वर्षको पदावधि हुन्छ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "चार वर्ष",
+      "b": "पाँच वर्ष",
+      "c": "छ वर्ष",
+      "d": "सात वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2424",
+    "chapter": ""
+  },
+  {
+    "question": "देशको प्रशासन सञ्चालन गर्न निजामती सेवाको गठन, सञ्चालन र सेवा शर्तहरू तथा निजामती कर्मचारीको व्यवस्थापन र सञ्चालनका सम्बन्धमा कुन मन्त्रालयले केन्द्रीय निकायको रूपमा काम गर्दछ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "कानुन, न्याय तथा संसदीय मामिला मन्त्रालय",
+      "b": "अर्थ मन्त्रालय",
+      "c": "भौतिक पूर्वाधार तथा यातायात मन्त्रालय",
+      "d": "सङ्‍घीय मामिला तथा सामान्य प्रशासन मन्त्रालय"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2425",
+    "chapter": ""
+  },
+  {
+    "question": "२०७२ सालको संविधानले थप कतिवटा नयाँ प्रकृतिका संवैधानिक आयोगहरूको प्रावधान गरेको छ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "७",
+      "b": "८",
+      "c": "९",
+      "d": "१०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2426",
+    "chapter": ""
+  },
+  {
+    "question": "In Theodolite survey, Right face and Left Face reading are taken to:",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "get the correct reading",
+      "b": "eliminate error of trunnion axis not exactly horizontal",
+      "c": "eliminate error in vertical axis",
+      "d": "eliminate error in the line of collimation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2427",
+    "chapter": ""
+  },
+  {
+    "question": "When the bubble of the level tube of a level remains central,",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Line of sight is horizontal",
+      "b": "Axis of the telescope is horizontal",
+      "c": "Line of collimation is horizontal",
+      "d": "Geometrical axis of the telescope is horizontal"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2428",
+    "chapter": ""
+  },
+  {
+    "question": "If 1 cm in map represents 1 m in ground, the scale of map is ______ .",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "1:1",
+      "b": "1:100",
+      "c": "1:10,000",
+      "d": "1:10,00,000"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2429",
+    "chapter": ""
+  },
+  {
+    "question": "Maximum percentage of _____ is available in cement:",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Silica",
+      "b": "Lime",
+      "c": "Alumina",
+      "d": "Iron oxide"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2430",
+    "chapter": ""
+  },
+  {
+    "question": "The solvent used in cutback bitumen is:",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Kerosene",
+      "b": "Diesel",
+      "c": "Petrol",
+      "d": "Oil"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2431",
+    "chapter": ""
+  },
+  {
+    "question": "The rock generally used for roofing is:",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Granite",
+      "b": "Basalt",
+      "c": "Slate",
+      "d": "Pumice"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2432",
+    "chapter": ""
+  },
+  {
+    "question": "If the canal water flow over the drainage it's called",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Aqueduct",
+      "b": "Super passage",
+      "c": "Syphon aqueduct",
+      "d": "Syphon"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2433",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following irrigation systems has more application efficiency ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Border method",
+      "b": "Sprinkler method",
+      "c": "Drip method",
+      "d": "Basin method"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2434",
+    "chapter": ""
+  },
+  {
+    "question": "The process of calculating amount of material, labour and equipment for a unit of work together with overhead and profit for the contractor is called -",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Estimating",
+      "b": "Rate analysis",
+      "c": "Abstract if cost",
+      "d": "Bill of quantity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2435",
+    "chapter": ""
+  },
+  {
+    "question": "A detailed description of the design and materials used to construct something is called _____ .",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Cost Estimates",
+      "b": "Bill of Quantities",
+      "c": "Specification",
+      "d": "Bid Document"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2436",
+    "chapter": ""
+  },
+  {
+    "question": "Camber in pavements is provided by ________.",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Straight line method",
+      "b": "Parabola method",
+      "c": "Straight at the edges and parabolic at the crown",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2437",
+    "chapter": ""
+  },
+  {
+    "question": "The upper layer of ground above which pavement rest is called",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Soling",
+      "b": "Ground",
+      "c": "Sub grade",
+      "d": "All of above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2438",
+    "chapter": ""
+  },
+  {
+    "question": "A dummy activity",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Is artificially introduced",
+      "b": "Is represented by a dotted line",
+      "c": "Does not consume time",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2439",
+    "chapter": ""
+  },
+  {
+    "question": "An unexpected cost incurred in excess of a budgeted amount is called _____ .",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Inflation",
+      "b": "Cost escalation",
+      "c": "Cost overrun",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2440",
+    "chapter": ""
+  },
+  {
+    "question": "Volume 1 of annex 14 published by ICAO covers technical specifications and requirements associated with",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "design of aerodrome facilities",
+      "b": "aerodrome certification",
+      "c": "aerodrome operation services and safety",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2441",
+    "chapter": ""
+  },
+  {
+    "question": "What is the runway dimension of Pokhara International Airport(PIA) ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "2000mx40m",
+      "b": "2000mx45m",
+      "c": "2500mx40m",
+      "d": "2500mx45m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2442",
+    "chapter": ""
+  },
+  {
+    "question": "In a tensile test on mild steel specimen, the breaking stress as compared to ultimate tensile stress is",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "More",
+      "b": "Less",
+      "c": "Same",
+      "d": "May have any value"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2443",
+    "chapter": ""
+  },
+  {
+    "question": "Stress may be defined as force per unit",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Area",
+      "b": "Length",
+      "c": "Volume",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2444",
+    "chapter": ""
+  },
+  {
+    "question": "If one end fixed and other free of strut length (L), then the effective length of strut is",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "0.5 L",
+      "b": "L",
+      "c": "2 L",
+      "d": "3 L"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2445",
+    "chapter": ""
+  },
+  {
+    "question": "Current meter is used to determine",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Discharge",
+      "b": "Velocity",
+      "c": "Pressure",
+      "d": "None of above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2446",
+    "chapter": ""
+  },
+  {
+    "question": "Poise is the unit of",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Viscosity",
+      "b": "Density",
+      "c": "Velocity",
+      "d": "Rugosity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2447",
+    "chapter": ""
+  },
+  {
+    "question": "A pitot tube is used to measure",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Difference in pressure",
+      "b": "Velocity of flow",
+      "c": "Pressure",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2448",
+    "chapter": ""
+  },
+  {
+    "question": "The dampness in a building is due to",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Ground moisture",
+      "b": "Rain water",
+      "c": "Defective construction",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2449",
+    "chapter": ""
+  },
+  {
+    "question": "The black cotton soil",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Undergoes volumetric changes when wet",
+      "b": "Swells excessively when wet",
+      "c": "Shrinks excessively when dry",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2450",
+    "chapter": ""
+  },
+  {
+    "question": "Strut is a ______ member.",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Horizontal",
+      "b": "Vertical",
+      "c": "Inclined",
+      "d": "Compression"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2451",
+    "chapter": ""
+  },
+  {
+    "question": "In singly reinforced beams, steel reinforcement is provided in",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Tensile zone",
+      "b": "Compressive zone",
+      "c": "Neutral zone",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2452",
+    "chapter": ""
+  },
+  {
+    "question": "The suitable system of sanitation for area having rainfall for only one season is",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Combined system",
+      "b": "Partially combined system",
+      "c": "Separate system",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2453",
+    "chapter": ""
+  },
+  {
+    "question": "The disinfection of water involves",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Removing dissolved chemicals from the water",
+      "b": "Killing of diseases bacteria",
+      "c": "Removing turbidity and colour",
+      "d": "Increasing BOD of water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2454",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of volume of voids to the total volume of the given soil mass is known as",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Porosity",
+      "b": "Void ratio",
+      "c": "Specific gravity",
+      "d": "Water content"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2455",
+    "chapter": ""
+  },
+  {
+    "question": "The bearing capacity of a soil",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "Increases with increase in the area of footing",
+      "b": "Reduces with decrease in the area of footing",
+      "c": "Increases with decrease in the area of footing",
+      "d": "Is not related with the size of footing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2456",
+    "chapter": ""
+  },
+  {
+    "question": "वि.सं. २०७८ सालको जनगणना अनुसार शौचालय पुगेको जनसंख्या कति प्रतिशत रहेको छ ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "४.५ प्रतिशत",
+      "b": "५१ प्रतिशत",
+      "c": "९५.५ प्रतिशत",
+      "d": "५७ प्रतिशत"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2457",
+    "chapter": ""
+  },
+  {
+    "question": "गाइजात्राको प्रचलन कसले सुरुवात गरेका थिए ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "जगज्योति मल्ल",
+      "b": "जगतप्रकाश मल्ल",
+      "c": "यक्ष मल्ल",
+      "d": "जयस्थिति मल्ल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2458",
+    "chapter": ""
+  },
+  {
+    "question": "रेडियो नेपालको स्थापना कहिले भएको हो ?",
+    "topic": "संघ (Sub-engineer-XV",
+    "options": {
+      "a": "वि.सं. २००७ चैत्र २",
+      "b": "वि.सं. २००७ चैत्र १२",
+      "c": "वि.सं. २००७ चैत्र २०",
+      "d": "वि.सं. २००७ चैत्र २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2459",
+    "chapter": ""
+  }
+]

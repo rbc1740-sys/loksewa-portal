@@ -1,0 +1,702 @@
+[
+  {
+    "question": "सार्वजनिक पद धारणा गरेको व्यक्तिले त्यस्तो पद धारणा गरेको मितिले कति दिनभित्रमा सम्पत्ति विवरण बुझाउनुपर्नेछ ?",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "३०",
+      "b": "३५",
+      "c": "४५",
+      "d": "६०"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3700",
+    "chapter": ""
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार नगरपालिकामा कम्तीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "५",
+      "b": "७",
+      "c": "९",
+      "d": "२१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3701",
+    "chapter": ""
+  },
+  {
+    "question": "राष्ट्रिय झण्डामा भुइँ र किनाराको रंग कस्तो प्रयोग हुने व्यवस्था छ ?",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "रातो र नीलो",
+      "b": "रातो र गाढा नीलो",
+      "c": "सिम्रिक र गाढा नीलो",
+      "d": "सिम्रिक र नीलो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3702",
+    "chapter": ""
+  },
+  {
+    "question": "The size of the plane table is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "600x750mm",
+      "b": "450x750mm",
+      "c": "450 x 800mm",
+      "d": "3.35 x 500mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3703",
+    "chapter": ""
+  },
+  {
+    "question": "A line joining the optical centre of the object glass and the centre of the eye-piece, is known as",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "fundamental line",
+      "b": "axis of telescope",
+      "c": "axis of level tube",
+      "d": "line of collimation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3704",
+    "chapter": ""
+  },
+  {
+    "question": "The angle of intersection of a contour and a ridge line, is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "30°",
+      "b": "45°",
+      "c": "60°",
+      "d": "90°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3705",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following cannot be done with the help of theodolite in surveying?",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "Laying off horizontal angles",
+      "b": "Locating points on lines",
+      "c": "Prolonging survey lines",
+      "d": "Measuring horizontal distances"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3706",
+    "chapter": ""
+  },
+  {
+    "question": "Mechanical method is also known as________",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "Graphical method",
+      "b": "Axis method",
+      "c": "Trial and error method",
+      "d": "Tracing paper method"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3707",
+    "chapter": ""
+  },
+  {
+    "question": "The portion of a brick cut to form angles other than right angles in plan, is known as",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "queen closer",
+      "b": "king closer",
+      "c": "closer",
+      "d": "squint brick"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3708",
+    "chapter": ""
+  },
+  {
+    "question": "The initial setting time of lime-pozzolana, is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "30 minutes",
+      "b": "60 minutes",
+      "c": "90 minutes",
+      "d": "120 minutes."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3709",
+    "chapter": ""
+  },
+  {
+    "question": "Smith test is performed on stones to determine",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "gravity",
+      "b": "hardness",
+      "c": "water absorption",
+      "d": "soluble and clayey water"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3710",
+    "chapter": ""
+  },
+  {
+    "question": "The vehicle used in the case of enamel paints is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "varnish",
+      "b": "linseed oil",
+      "c": "water",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3711",
+    "chapter": ""
+  },
+  {
+    "question": "PVC stands for",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "plastic very compact",
+      "b": "polyethene vinyl carbon",
+      "c": "pigment volume concentration",
+      "d": "polyethene vinyl chloride"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3712",
+    "chapter": ""
+  },
+  {
+    "question": "The rate of change of shear force is called",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "bending moment",
+      "b": "slope",
+      "c": "deflection",
+      "d": "intensity of load"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3713",
+    "chapter": ""
+  },
+  {
+    "question": "The bending moment diagram for a cantilever beam subjected to the moment at the end of the beam would be",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "rectangle",
+      "b": "triangle",
+      "c": "parabola",
+      "d": "cubic parabola"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3714",
+    "chapter": ""
+  },
+  {
+    "question": "When a rectangular beam is loaded longitudinally, shear develops on",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "bottom fibre",
+      "b": "top fibre",
+      "c": "middle fibre",
+      "d": "every-horizontal plane."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3715",
+    "chapter": ""
+  },
+  {
+    "question": "The discharge over a rectangular notch is:",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "inversely proportional to H3/2",
+      "b": "directly proportional to H3/2",
+      "c": "inversely proportional to H5/2",
+      "d": "directly proportional to H5/2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3716",
+    "chapter": ""
+  },
+  {
+    "question": "The numerical value of vorticity is ______ of the rotation.",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "twice",
+      "b": "thrice",
+      "c": "same",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3717",
+    "chapter": ""
+  },
+  {
+    "question": "A piezometer opening in pipes measures",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "velocity head",
+      "b": "static pressure",
+      "c": "total pressure",
+      "d": "negative static pressure"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3718",
+    "chapter": ""
+  },
+  {
+    "question": "The most suitable method for increasing the bearing capacity of black cotton soil is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "watering the surface of the soil",
+      "b": "compacting the soil",
+      "c": "replacement of black cotton soil with sand",
+      "d": "increasing the depth"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3719",
+    "chapter": ""
+  },
+  {
+    "question": "The specific gravity of soil is determined by",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "Pycnometer",
+      "b": "Hydrometer analysis",
+      "c": "Sieve analysis",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3720",
+    "chapter": ""
+  },
+  {
+    "question": "The coefficient of earth pressure for loose sand having an angle of internal friction of 30° is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "0.5",
+      "b": "1/3",
+      "c": "3",
+      "d": "1"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3721",
+    "chapter": ""
+  },
+  {
+    "question": "Design of R.C.C. cantilever beams, is based on the resultant force at",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "fixed end",
+      "b": "free end",
+      "c": "mid span",
+      "d": "mid span and fixed support"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3722",
+    "chapter": ""
+  },
+  {
+    "question": "When an inclined or horizontal member is carrying mainly axial loads, it is termed as",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "strut",
+      "b": "column",
+      "c": "tie",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3723",
+    "chapter": ""
+  },
+  {
+    "question": "For bars in tension a standard hook has an anchorage value equivalent to a straight length",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "8φ",
+      "b": "12φ",
+      "c": "16 φ",
+      "d": "20φ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3724",
+    "chapter": ""
+  },
+  {
+    "question": "If the w/c ratio of concrete is 0.6 then the water required for mixing concrete is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "8 kg",
+      "b": "10 kg",
+      "c": "12 kg",
+      "d": "30 kg"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3725",
+    "chapter": ""
+  },
+  {
+    "question": "The fineness of cement is measured in terms of?",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "surface area in square cm per gram of centent",
+      "b": "percentage weight retained on IS sieve number",
+      "c": "neither (a) nor (b)",
+      "d": "surface area in square meter"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3726",
+    "chapter": ""
+  },
+  {
+    "question": "The height of the slump cone is kept",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "10 cm",
+      "b": "20 cm",
+      "c": "30 cm",
+      "d": "40 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3727",
+    "chapter": ""
+  },
+  {
+    "question": "Depth of foundation is determined by",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "Types of structure",
+      "b": "B.C. of soil",
+      "c": "Surrounding structure",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3728",
+    "chapter": ""
+  },
+  {
+    "question": "Which one of the following is not surface water?",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "from river diversion",
+      "b": "from reservoir storage",
+      "c": "from natural lakes",
+      "d": "from natural spring"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3729",
+    "chapter": ""
+  },
+  {
+    "question": "PVC pipes can withstand pressure up to",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "20m head of water",
+      "b": "50m head of water",
+      "c": "100m head of water",
+      "d": "150m head of water"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3730",
+    "chapter": ""
+  },
+  {
+    "question": "The vertical wells provided along the banks of a river to draw ground water in dry season are called",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "open wells",
+      "b": "tube wells",
+      "c": "artesian wells",
+      "d": "infiltration wells"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3731",
+    "chapter": ""
+  },
+  {
+    "question": "The last trap provided in a house drainage system is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "q-trap",
+      "b": "floor trap",
+      "c": "nahni trap",
+      "d": "interception trap"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3732",
+    "chapter": ""
+  },
+  {
+    "question": "A silt regulator located at the head of a channel is called",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "silt ejector",
+      "b": "silt excluder",
+      "c": "silt sweeper",
+      "d": "silt washer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3733",
+    "chapter": ""
+  },
+  {
+    "question": "A canal, designed to irrigate throughout the year is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "permanent canal",
+      "b": "perennial canal",
+      "c": "continuous canal",
+      "d": "green canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3734",
+    "chapter": ""
+  },
+  {
+    "question": "Lands or climate that lack sufficient water for agriculture without artificial irrigation, are called",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "dry zone",
+      "b": "arid zone",
+      "c": "semi arid zone",
+      "d": "hybrid arid zone"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3735",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of total volume of water delivered to a crop to the area on which it has been spread, is called",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "duty",
+      "b": "delta",
+      "c": "critical depth",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3736",
+    "chapter": ""
+  },
+  {
+    "question": "The pressure intensity at sub-grade should be ______ bearing capacity.",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "less than",
+      "b": "more than",
+      "c": "equal",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3737",
+    "chapter": ""
+  },
+  {
+    "question": "For highway geometric design purposes, the speed used is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "98th percentile",
+      "b": "90th percentile",
+      "c": "75th percentile",
+      "d": "50th percentile"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3738",
+    "chapter": ""
+  },
+  {
+    "question": "For iron-wheeled traffic, the best suitable pavement is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "flexible pavement",
+      "b": "rigid pavement",
+      "c": "earthen roads",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3739",
+    "chapter": ""
+  },
+  {
+    "question": "The defects like potholes, corrugation, and rutting can be rectified by ___________",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "trenching",
+      "b": "grading",
+      "c": "dragging",
+      "d": "chemical treatment"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3740",
+    "chapter": ""
+  },
+  {
+    "question": "The salvation value of property is generally taken as ____ % of cost of property.",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "5-8",
+      "b": "8-10",
+      "c": "10-12",
+      "d": "15-20"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3741",
+    "chapter": ""
+  },
+  {
+    "question": "To get the dry or unmixed volume of mortar, the increase in volume is",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "30 %",
+      "b": "50-55 %",
+      "c": "40 %",
+      "d": "10 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3742",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum width of a septic tank is taken",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "70 cm",
+      "b": "75 cm",
+      "c": "80 cm",
+      "d": "90 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3743",
+    "chapter": ""
+  },
+  {
+    "question": "The rate analysis norms prepared by Ministry of Physical Infrastructure and Transport, the Government of Nepal includes",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "Labour and material",
+      "b": "Labour, material, and machine",
+      "c": "Labour, material, and supervision charges",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3744",
+    "chapter": ""
+  },
+  {
+    "question": "The estimated cost of works must be quoted in the tender notice for works worth up to ______________",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "60 lakh",
+      "b": "1 crore",
+      "c": "2 crore",
+      "d": "3 crore"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3745",
+    "chapter": ""
+  },
+  {
+    "question": "SLACK time refers to an",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "activity",
+      "b": "event",
+      "c": "both",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3746",
+    "chapter": ""
+  },
+  {
+    "question": "Direct cost of a project is due to",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "establishment charges as salaries to administrative staff",
+      "b": "loss gain of revenue",
+      "c": "penalty imposed",
+      "d": "cost of materials and wages of labor"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3747",
+    "chapter": ""
+  },
+  {
+    "question": "The application of __________ diagram is used to find the orientation of the runway to get the desired wind coverage.",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "Wind Butterfly",
+      "b": "Wind Cycle",
+      "c": "Wind Star",
+      "d": "Wind Rose"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3748",
+    "chapter": ""
+  },
+  {
+    "question": "What is the full form of IFR?",
+    "topic": "कोशी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "Instrumental Flight Registration",
+      "b": "International Flight Rules",
+      "c": "Instrumental Flight Record",
+      "d": "Instrumental Flight Rules"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3749",
+    "chapter": ""
+  }
+]

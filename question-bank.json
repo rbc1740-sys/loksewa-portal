@@ -1,28 +1,36 @@
 {
   "files": [
     {
+      "path": "questions/airport_engineering.json",
+      "sha256": "6ac6d7bf2949bcb14811fe4919f3b053c2783129986b62a362e5f23cee34f5fe"
+    },
+    {
+      "path": "questions/building_construction_technology.json",
+      "sha256": "7a65ae8a03c6e3ef486480d4fc1e6b3a504c2aae8abdce618b4c98f61745a51a"
+    },
+    {
       "path": "questions/civil_service_act_and_regulation.json",
-      "sha256": "84728c6c559a9b2f1475aaaa11f00ebccbfb73a3d78f0c41d9f3fe722b23ef3b"
+      "sha256": "96fa3900b36171779987bf04ac928820464c1b6338c1ac1cb3dc24ec5601a569"
     },
     {
       "path": "questions/concrete_technology.json",
-      "sha256": "0b194304c143934323fdfb4ccb87e0be4a48665487851dd89931cb9a40764a09"
+      "sha256": "e1cbbe2596be0be9dc141f5a318277d292c6978e75836f801b4d010d9f967fcd"
     },
     {
       "path": "questions/constitution_of_nepal.json",
-      "sha256": "6a9b3fd11f8f03415962b206efdcbe0518bef500d18190326cbed22884c73c03"
+      "sha256": "9271e537708db65c8aee41475d0d6e507d9d6b6f2c8511bdfba767470274608d"
     },
     {
       "path": "questions/construction_management.json",
-      "sha256": "ef8f95a6a83f661436ff9b82700b106a6778c106e2b0763df6007c54ae3b3365"
+      "sha256": "2a926c076f7731f20fdf6c1887dc445635869ac11f1cdd7db34ce57b9de2d26a"
     },
     {
       "path": "questions/construction_materials.json",
-      "sha256": "9076a3f57c1fbb49c222ff8400a480d5d326e1e5932adb017577d91dbaec6813"
+      "sha256": "29f91a55dfddd5606073768f79c594d22772750314869a5bc5ea89a3c07dabd6"
     },
     {
       "path": "questions/current_affairs.json",
-      "sha256": "5815cc7ee671d9fa8271ff8923565490f0520af7a86d5df8b889032e8d1e7c00"
+      "sha256": "7ddff079d6ff986161f79a8aadd9981892ef6ec91ba9d5d8e04136878cad8f6e"
     },
     {
       "path": "questions/current_periodical_plan_of_nepal.json",
@@ -30,31 +38,39 @@
     },
     {
       "path": "questions/economic_aspects_of_nepal.json",
-      "sha256": "7dc0e5fc04df33414cd956fcf02af32d926b6155eaccdc2cca21cb5127dd9e92"
+      "sha256": "9ae31665d143b6453e38ba4cdea62a9dce5acdc2d068643523be9dea62e87d01"
     },
     {
       "path": "questions/engineering_drawing.json",
-      "sha256": "54dac3a8a9670fb29e217680287806626fac4afe15204a3ce00b255ce0086e49"
+      "sha256": "05222b19a098e0ed905f2ce287a2db553a3c2b67fc63f06b087c6c15e564b45e"
     },
     {
       "path": "questions/engineering_economics.json",
-      "sha256": "683d78447259603d818a6e457fbb6692f8f57b174860c71d170fc3b7bcbb04de"
+      "sha256": "132caeb6617a34ce82e00b89053e5233856ee8319c651049d9b76ea86377eb13"
     },
     {
       "path": "questions/engineering_professional_practice.json",
-      "sha256": "450a0e3d79e21f84bb7c665507bcc031bbcfe06c5ea5e2e62bc25a82fed86b62"
+      "sha256": "451987d9883eba522c95919eaab9d6e20bb15cc85333f16717f1d479e5c4ae51"
     },
     {
       "path": "questions/estimation.json",
-      "sha256": "d9876a61bf89166a4d60c62515b8afd3bdf073ee59aae05c3f331d35406916dd"
+      "sha256": "fbaabc7558120eb04077903661d322beb7cc8ea35952d5a9c771fae8691e6045"
+    },
+    {
+      "path": "questions/federal_affairs_and_general_administration.json",
+      "sha256": "0cb30cb9fafa72208c1e1d448f1b05d899e662565490a93326b342633e00f17f"
     },
     {
       "path": "questions/functional_scope_of_public_services.json",
-      "sha256": "54f6f1b144f982d508b2daacdc002a215863632aca6dd74a02c22bc0dadfe6e8"
+      "sha256": "083fc8012731a22e2c34545ce66853129350fbcacf1687c5aa7f21ec44ff7adb"
     },
     {
       "path": "questions/fundamentals_of_management.json",
-      "sha256": "625e272ef7e2075652ec2408c97ca0663cf4c997a724abfa416be8520bcfbd92"
+      "sha256": "9fb21bb0878ad34a00a23be7960d34c2d8ca0db95ebb524ab4e7eb4536985fb8"
+    },
+    {
+      "path": "questions/general_information_and_legislation.json",
+      "sha256": "513bdd897a8ba90bc8bac09e04ec87c9794f20e9b9873b9ba048fafb8b932825"
     },
     {
       "path": "questions/geographical_diversity_climatic_condition_and_cultures.json",
@@ -62,51 +78,91 @@
     },
     {
       "path": "questions/geography_of_nepal.json",
-      "sha256": "b2ccfcb552e4ce9ce033bb59356b770db166b792c06b9c17eeddbcdbedb7e802"
+      "sha256": "9c0c2ff803dacc83777841676d3d5dd6d34d5319adf0caac1232a4f64ece8488"
     },
     {
       "path": "questions/geotechnical.json",
-      "sha256": "dd4eb8790bc40a3cfd5d1e125210e8361757e07461212181cd047da97d75d543"
+      "sha256": "ced5d4f45ca4475e030dc68d9e8ec781c9e346286b6446dccedd7ab71042246b"
     },
     {
       "path": "questions/governance_system_and_government.json",
-      "sha256": "b734883c25ac9be4d90ad9a733e364fe4c2aa23a0f073fd4bd87ba43df16803d"
+      "sha256": "90b99b5776cbc7d8375d6962c3e38a2f2a0c1cb446e4825d7e8b28be09dd87b3"
     },
     {
       "path": "questions/government_budgeting_and_accounting.json",
-      "sha256": "847a26778933d9a0e781a5ece6e4e68a9c2923bcb5a2cca8c715f3b0cc222d88"
+      "sha256": "aa4b11e1146b288cd68d2f83adac6d95e360e1636783dde07cf3a34b2730960a"
+    },
+    {
+      "path": "questions/highway_engineering.json",
+      "sha256": "c121e71d3fa4b41ae1ec848f586e6e3ee5dcebc6268e20b8ae3680c9455c1e47"
+    },
+    {
+      "path": "questions/human_rights_good_governance.json",
+      "sha256": "a1f38cd67193d60a830055bef41e6ad868872f3f37a3d461d717afa64cf2dcb9"
+    },
+    {
+      "path": "questions/human_values_and_civic_duties.json",
+      "sha256": "fdb28ab37fdc51d2e05175e03dafe40a9a6df24d1fc6f4a4594a9f3ccc394902"
+    },
+    {
+      "path": "questions/hydraulics.json",
+      "sha256": "ca0cbd582148177179f9c68ea6375eccb1de67ac7b479ebe1e756ee99e6d2e39"
+    },
+    {
+      "path": "questions/iq_reasoning.json",
+      "sha256": "f45fa53c61d4be8bb346084297d318df4958230d53405c869e8d3f53383e1fba"
+    },
+    {
+      "path": "questions/irrigation_engineering.json",
+      "sha256": "fb622108800cbf4fc9e5487ecb735220feee5eb474d38c7b3f99d356ac26f493"
     },
     {
       "path": "questions/major_natural_resources.json",
       "sha256": "eeaaed7bad03c009c2a85d242a291048882ebe62a1376506c90478256c16da11"
     },
     {
+      "path": "questions/mechanics_of_materials_and_structures.json",
+      "sha256": "8464fa173faa3aaa57e9f8f15ddd9ad1b08f22b84dc9d2a5deafdbd334bdc572"
+    },
+    {
       "path": "questions/modern_history_of_nepal.json",
-      "sha256": "93946950fc50581f7d48d6e61f76ef99110d5a5621e16db755c478fbe6a295a1"
+      "sha256": "26b21009feae87b12b1726719f240c3f8edeb34d9d01efb3347544fbeeb76642"
+    },
+    {
+      "path": "questions/office_management.json",
+      "sha256": "7b685e079f757531b2456b040db2c8fefb58b91d408249bfc96a7ac9779d38a6"
+    },
+    {
+      "path": "questions/public_health_nutrition.json",
+      "sha256": "3e8c23dba01d76d6528187da98dfea9790fc03b107b8f6950faed6f9393541b4"
     },
     {
       "path": "questions/public_policy.json",
-      "sha256": "69f80703be73535c28bf130dab07b4767fdbf46c009ee27b4f799ffc5f423943"
+      "sha256": "793b9b674ab7b5db5c1ad0760903d603f6505133afade8b25188c86add3024e8"
     },
     {
       "path": "questions/public_service_charter.json",
-      "sha256": "10e0cbe277d474eb0bf1f2b099630599e2d7fcf44baa5c65c57009be41a11d19"
+      "sha256": "ebe9a3b62c5fdbeceeafdda5abc4585f7a94f586114dc35e0c9e2bbcd63d7209"
     },
     {
       "path": "questions/structural_engineering.json",
-      "sha256": "bbe57e72fb0d57c8cc7351716b7c74e386f0beb10ab58aed98c5f30368a91046"
+      "sha256": "f58f45abae46a3b9353318a3db5cee43fc24cb6f205968aa314ac89c1db2ff07"
     },
     {
       "path": "questions/surveying.json",
-      "sha256": "d99797f2d73f8c0718f6683bed9f7ea08a457906811b86a7543b0b7045d70687"
+      "sha256": "fa9685122db9a180456b7cfd9940ef285004a3b69d22a57e1114944388480c72"
     },
     {
       "path": "questions/sustainable_development_science_and_technology.json",
-      "sha256": "66461674b7c6c9b024a6e89c32871153e051cd8521b90baa1964b6fabb34fe5a"
+      "sha256": "58b9038a8767ca5de18c03b0eccf497ae84a00487cf919f667e66037de1944d5"
     },
     {
       "path": "questions/uno_saarc_and_bimstec.json",
-      "sha256": "b74a18903e7f3cf88eddbc39f92113c44505aae96f77a36979a55d99f86a1f62"
+      "sha256": "3b44adca1ffafcd9b0d37166bcd41d4f98f38f29a1a8dce9da17e1acd236838b"
+    },
+    {
+      "path": "questions/water_supply_and_sanitation_engineering.json",
+      "sha256": "b86870650d9391552fa4e59da155a5664de6464c891f1aaca6d40f3042672154"
     }
   ]
 }

@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The collimation method is used in",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "profile levelling",
+      "b": "differential levelling",
+      "c": "check levelling",
+      "d": "both (a) and (b)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3800",
+    "chapter": ""
+  },
+  {
+    "question": "The sensitivity of the bubble tube can be increased by",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "decreasing the radius of curvature of the tube",
+      "b": "decreasing the length of the bubble",
+      "c": "increasing the diameter of the tube",
+      "d": "increasing the viscosity of the fluid"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3801",
+    "chapter": ""
+  },
+  {
+    "question": "Which trap has curved legs?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "P-Trap",
+      "b": "Q-Trap",
+      "c": "gully trap",
+      "d": "S-Trap"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3802",
+    "chapter": ""
+  },
+  {
+    "question": "The water bearing strata i.e. layers of sand, gravel, etc. is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "an aquifer",
+      "b": "an aquiclude",
+      "c": "an aquifuge",
+      "d": "zone of saturation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3803",
+    "chapter": ""
+  },
+  {
+    "question": "The total depth of water required by a crop during the entire period of the crop is known as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "crop ratio",
+      "b": "crop intensity",
+      "c": "delta",
+      "d": "duty"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3804",
+    "chapter": ""
+  },
+  {
+    "question": "The discharge coefficient of an ogee spillway",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "depends upon the depth of approach and upstream slope",
+      "b": "depends upon downstream apron and submergence",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3805",
+    "chapter": ""
+  },
+  {
+    "question": "For completion of a project, the critical path of the network represents",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "minimum time",
+      "b": "maximum time",
+      "c": "maximum cost",
+      "d": "minimum cost"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3806",
+    "chapter": ""
+  },
+  {
+    "question": "The dual-role event is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "head as well as tail event",
+      "b": "sum of head and tail event",
+      "c": "any event other than the head and tail event",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3807",
+    "chapter": ""
+  },
+  {
+    "question": "The apron is used for loading/unloading passenger while the taxiway is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "to carry traffic",
+      "b": "fueling of aircraft",
+      "c": "maintenance of aircraft",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3808",
+    "chapter": ""
+  },
+  {
+    "question": "A T-beam behaves like a rectangular beam of width equal to its flange if its neural axis",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "remains within the flange",
+      "b": "remains within the web",
+      "c": "coincide with the geometrical center of the beam",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3809",
+    "chapter": ""
+  },
+  {
+    "question": "As per NBC:105, minimum number of bars in R.C.C. rectangular columns must be",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3810",
+    "chapter": ""
+  },
+  {
+    "question": "Damp proofing course is done",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "along the walls of the building",
+      "b": "along the floors of the building",
+      "c": "along the walls and floor of the building",
+      "d": "along the walls, beams, and floor of the building"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3811",
+    "chapter": ""
+  },
+  {
+    "question": "The most useless aggregate is one whose surface texture is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "smooth",
+      "b": "glossy",
+      "c": "granular",
+      "d": "porous"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3812",
+    "chapter": ""
+  },
+  {
+    "question": "Sub-base course is provided not to improve",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "bearing capacity of the sub-grade",
+      "b": "capillary rise of the soil",
+      "c": "drainage action of the soil",
+      "d": "durability of the sub-grade"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3813",
+    "chapter": ""
+  },
+  {
+    "question": "In highway engineering, which of the following terms is irrelevant?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "tail race",
+      "b": "kerb",
+      "c": "camber",
+      "d": "asphalt"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3814",
+    "chapter": ""
+  },
+  {
+    "question": "The work charged establishment in the Nepalese context is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "2 %",
+      "b": "3 %",
+      "c": "4 %",
+      "d": "5 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3815",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of 75 mm thick PCC is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3816",
+    "chapter": ""
+  },
+  {
+    "question": "The structure which derives its stability due to self-weight is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "sheet pile wall",
+      "b": "bulk head",
+      "c": "cantilever retaining wall",
+      "d": "masonry retaining wall"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3817",
+    "chapter": ""
+  },
+  {
+    "question": "Cohesive soils are",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "good for embankment as they have high shear strength",
+      "b": "poor for backfills because of large lateral pressure",
+      "c": "good for backfills because of poor shear strength",
+      "d": "low lateral pressure"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3818",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum percentage of silt content for making good tiles, is about",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "40",
+      "d": "50"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3819",
+    "chapter": ""
+  },
+  {
+    "question": "The liquid part of the paint is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "pigment",
+      "b": "vehicle",
+      "c": "solvent",
+      "d": "drier"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3820",
+    "chapter": ""
+  },
+  {
+    "question": "A three-hinged arch is said to be :",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "statically determinate structure",
+      "b": "statically indeterminate structure",
+      "c": "a bent beam",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3821",
+    "chapter": ""
+  },
+  {
+    "question": "Centrifugal force is given by",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "V^2/R",
+      "b": "MV^2/R",
+      "c": "m x a",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3822",
+    "chapter": ""
+  },
+  {
+    "question": "An oil of specific gravity 0.7 and pressure 0.14 kgf/cm² will have the height of oil as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "70 cm of oil",
+      "b": "2 m of oil",
+      "c": "20cm of oil",
+      "d": "80cm of oil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3823",
+    "chapter": ""
+  },
+  {
+    "question": "The attraction among different particles of same material is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "adhesion",
+      "b": "cohesion",
+      "c": "corrosion",
+      "d": "fusion"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3824",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा कति प्रजातिको चरा पाइन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "७२३",
+      "b": "२२९",
+      "c": "८७६",
+      "d": "८९६"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3825",
+    "chapter": ""
+  },
+  {
+    "question": "नेपाल छुवाछुत मुक्त कहिले घोषणा भएको थियो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "वि. सं २०६८ जेठ २१",
+      "b": "वि. सं २०७० जेठ ११",
+      "c": "वि. सं २०७४ जेठ ८",
+      "d": "वि. सं २०६३ जेठ २१"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3826",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको कान्छो ‌औद्योगिक क्षेत्र कुन औद्योगिक क्षेत्रलाई भनिन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "पाटन औद्योगिक क्षेत्र",
+      "b": "धरान औद्योगिक क्षेत्र",
+      "c": "राजविराज औद्योगिक क्षेत्र",
+      "d": "धनकुटा औद्योगिक क्षेत्र"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3827",
+    "chapter": ""
+  },
+  {
+    "question": "पुरन्धारा झरना कुन जिल्लामा पर्दछ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "गुल्मी",
+      "b": "दाङ",
+      "c": "चितवन",
+      "d": "पाल्पा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3828",
+    "chapter": ""
+  },
+  {
+    "question": "बिमस्टेकबाट संयुक्त राष्ट्रसङ्घको सदस्यता प्राप्त गर्ने पहिलो राष्ट्र कुन हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "बंगलादेश",
+      "b": "भारत",
+      "c": "नेपाल",
+      "d": "म्यानमार"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3829",
+    "chapter": ""
+  },
+  {
+    "question": "PET कुन रोगसँग सम्बन्धित छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "क्षयरोग",
+      "b": "झाडापखाला",
+      "c": "कन्यान्सर",
+      "d": "HIV/AIDS"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3830",
+    "chapter": ""
+  },
+  {
+    "question": "गुरुङ जातिको मुखियालाई के भनिन्छ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "चिवा",
+      "b": "मुल्मी",
+      "c": "वडघर",
+      "d": "काजी"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3831",
+    "chapter": ""
+  },
+  {
+    "question": "विश्वमा नपाइने कति प्रकारका पुतलीहरू नेपालमा पाइन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "८",
+      "b": "९",
+      "c": "१०",
+      "d": "११"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3832",
+    "chapter": ""
+  },
+  {
+    "question": "कार्यालय वर्गीकरण गर्दा सरकारी कार्यालय र निजी कार्यालय कुन प्रकारको वर्गीकरण अन्तरगत पर्दछन ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "शासकीय संरचनाको आधारमा",
+      "b": "साङ्गठनिक संरचनाको आधारमा",
+      "c": "स्वामित्वको आधारमा",
+      "d": "उपस्थितिको आधारमा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3833",
+    "chapter": ""
+  },
+  {
+    "question": "सुशासन नियमावली, २०६५ अनुसार जरुरी लेखिएको चिठ्ठीको कार्य फछ्रयौट कति अवधि भित्र गर्नु पर्दछ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "१ दिन भित्र",
+      "b": "२ दिन भित्र",
+      "c": "५ दिन भित्र",
+      "d": "७ दिन भित्र"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3834",
+    "chapter": ""
+  },
+  {
+    "question": "सत्य, परोपकार,अहिंसा, क्षमा, भलाई जस्ता मूल्यमान्यता कस्तो मूल्यमान्यता हुन ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "राष्ट्रिय मूल्य मान्यता",
+      "b": "नैतिक मूल्य मान्यता",
+      "c": "पारिवारिक मूल्य मान्यता",
+      "d": "आध्यात्मिक मूल्य मान्यता"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3835",
+    "chapter": ""
+  },
+  {
+    "question": "सुशासन नियमावली अनुसार जिल्लास्तरीय क्षतिपूर्तिको निर्धारण समितिमा कति जना सदस्य हुन्छन् ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "३",
+      "b": "५",
+      "c": "७",
+      "d": "९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3836",
+    "chapter": ""
+  },
+  {
+    "question": "विपद, द्वन्द, संकट, जोखिम, प्रकोप, व्यवस्थापन, राहत उदार जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "परम्परागत सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3837",
+    "chapter": ""
+  },
+  {
+    "question": "टिप्पणी लेख्दा ध्यान दिनु पर्ने कुरा तलका मध्ये कुन होइन ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "विषयवस्तुको व्योहोरा",
+      "b": "प्रचलित कानून",
+      "c": "हाकिमको आदेश",
+      "d": "आफ्नो राय"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3838",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा स्याहास्रेस्ता प्रणालीको सूरुवात कहिलेबाट भएको हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "वि.सं १९३१",
+      "b": "वि.सं १९३२",
+      "c": "वि.सं १९३३",
+      "d": "वि.सं १९३४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3839",
+    "chapter": ""
+  },
+  {
+    "question": "If 123=987, 234=876, then 567=?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "345",
+      "b": "543",
+      "c": "653",
+      "d": "524"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3840",
+    "chapter": ""
+  },
+  {
+    "question": "There are some person. They handshakes each other. 190 handshakes are there altogether. How many person are there.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "18",
+      "b": "19",
+      "c": "20",
+      "d": "21"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3841",
+    "chapter": ""
+  },
+  {
+    "question": "ABBCCCDDDD……को 50th अक्षर के हुन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "O",
+      "b": "J",
+      "c": "K",
+      "d": "E"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3842",
+    "chapter": ""
+  },
+  {
+    "question": "1,2,6,21,88,....?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "144",
+      "b": "266",
+      "c": "445",
+      "d": "554"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3843",
+    "chapter": ""
+  },
+  {
+    "question": "उटा विद्यार्थीले परिक्षामा जतिवटा प्रश्नको सही उत्तर दिन्छ, त्यसको दुईगुणा प्रश्नको उत्तर गलत दिन्छ उसले जम्मा हल गरेको प्रश्नको संख्या 48 छन् भने कति वटा प्रश्नको सही उत्तर दियो होला ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "12",
+      "b": "16",
+      "c": "18",
+      "d": "24"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3844",
+    "chapter": ""
+  },
+  {
+    "question": "यदि निश्चित कोड भाषामा ENTRY लाई 12345 र STEADY लाइ 931785 ले कोड गरिन्छ भने ARREST को लागि मिल्ने कोड कुन हुन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "744589",
+      "b": "744193",
+      "c": "166479",
+      "d": "745194"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3845",
+    "chapter": ""
+  },
+  {
+    "question": "K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "East",
+      "b": "West",
+      "c": "North-East",
+      "d": "South"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3846",
+    "chapter": ""
+  },
+  {
+    "question": "रु १० लाई रु १५ बनाउदा कति प्रतिशत नाफा हुन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "१५",
+      "b": "२७",
+      "c": "५०",
+      "d": "८६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3847",
+    "chapter": ""
+  },
+  {
+    "question": "तलको समूहमा नमिल्ने कुन हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "थार",
+      "b": "दूत",
+      "c": "गोबी",
+      "d": "साहारा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3848",
+    "chapter": ""
+  },
+  {
+    "question": "Choose the odd one which is different from the following alternatives.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-III)",
+    "options": {
+      "a": "Pear",
+      "b": "Apple",
+      "c": "Litchi",
+      "d": "Orange"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3849",
+    "chapter": ""
+  }
+]

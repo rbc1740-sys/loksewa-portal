@@ -1,0 +1,3571 @@
+[
+  {
+    "question": "The mass per unit volume of a liquid at a standard temperature and pressure is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Specific weight",
+      "b": "Mass density",
+      "c": "Specific gravity",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "726",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The weight per unit volume of a liquid at a standard temperature and pressure is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Specific weight",
+      "b": "Mass density",
+      "c": "Specific gravity",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "727",
+    "chapter": "General-I"
+  },
+  {
+    "question": "A substance which deforms continuously under the action of shear stress is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Fluid",
+      "b": "Liquid",
+      "c": "Solid",
+      "d": "Gas"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "728",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Practical fluids possess",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Viscosity",
+      "b": "Surface tension",
+      "c": "Compressibility",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "729",
+    "chapter": "General-I"
+  },
+  {
+    "question": "An ideal fluid",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Is frictionless and incompressible",
+      "b": "Obeys Newton's law of viscosity",
+      "c": "Is similar to gas",
+      "d": "Is very viscous"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "730",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Liquids or fluids.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Have no shape",
+      "b": "Cannot be compressed",
+      "c": "Both (a) and (b) of the above",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "731",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The ratio of specific weight of a liquid to the specific weight of pure water at a standard temperature is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Density of liquid",
+      "b": "Specific gravity of liquid",
+      "c": "Compressibility of liquid",
+      "d": "Surface tension of liquid"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "732",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Molecules of fluids get attracted due to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "capillary action",
+      "b": "surface tension",
+      "c": "adhesion",
+      "d": "cohesion"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "733",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Variation in volume of liquid with variation in pressure is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Plasticity",
+      "b": "Viscosity",
+      "c": "Compressibility",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "734",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Mass density of liquid (ρ) is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "ρ= Mass/Volume",
+      "b": "ρ= Metric slug/m²",
+      "c": "ρ= kg·sec^3/m^4",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "735",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The specific gravity of water is taken as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0.001",
+      "b": "0.01",
+      "c": "0.1",
+      "d": "1"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "736",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Poise is the unit of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Mass density",
+      "b": "Kinematic viscosity",
+      "c": "Viscosity",
+      "d": "Pressure gradient"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "737",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Stoke is the unit of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Surface tension",
+      "b": "Viscosity",
+      "c": "Kinematic viscosity",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "738",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Hooke's law for solids is analogous to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Newton's law of viscosity",
+      "b": "Pascal's law",
+      "c": "Boundary layer theory",
+      "d": "Continuity equation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "739",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The viscosity of liquids varies with temperature",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Directly proportional",
+      "b": "Inversely proportional",
+      "c": "Constant",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "740",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The viscosity of gases varies with temperature",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Directly proportional",
+      "b": "Inversely proportional",
+      "c": "Constant",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "741",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Surface tension is the force",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Per unit length",
+      "b": "Per unit area",
+      "c": "Per unit volume",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "742",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The multiplying factor for converting one poise into MKS unit of dynamic viscosity is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "1",
+      "b": "0.1",
+      "c": "0.001",
+      "d": "0.0001"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "743",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Specific weight of sea water is more than that of pure water because of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Dissolved air",
+      "b": "Dissolved salts",
+      "c": "Suspended matter",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "744",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The specific weight of water 1000 kg/m³",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "At normal pressure of 760 mm",
+      "b": "At 4°C temperature",
+      "c": "At mean sea level",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "745",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The specific gravity of an oil whose specific weight is 7.85 kN/m^3, is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0.8",
+      "b": "1",
+      "c": "1.2",
+      "d": "1.6"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "746",
+    "chapter": "General-I"
+  },
+  {
+    "question": "If the volume of a liquid weighing 3000 kg is 4 cubic meters, then 0.75 is its",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Specific weight",
+      "b": "Specific mass",
+      "c": "Specific gravity",
+      "d": "None of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "747",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Water belongs to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Newtonian fluids",
+      "b": "Non-Newtonian fluids",
+      "c": "Compressible fluids",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "748",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The phenomenon of rising of a liquid surface in a tube of small diameter relative to the adjacent normal level of the liquid is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Capillary rise",
+      "b": "Capillary fall",
+      "c": "Rising",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "749",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Capillary rise is proportional to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Surface tension",
+      "b": "Unit weight of water",
+      "c": "Diameter of pipe",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "750",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Capillarity of water is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Directly proportional to surface tension",
+      "b": "Inversely proportional to angle of contact",
+      "c": "Inversely proportional to diameter of pipe",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "751",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The capillary rise or fall of the given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "h = σ cosθ /4ρgd",
+      "b": "h = 4σcosθ/ρgd",
+      "c": "h = 8σcosθ/ρgd",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "752",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The property of a liquid which offers resistance to the movement of one layer of liquid over another adjacent layer of liquid, is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Surface tension",
+      "b": "Compressibility",
+      "c": "Capillarity",
+      "d": "Viscosity"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "753",
+    "chapter": "General-I"
+  },
+  {
+    "question": "A rise or fall of liquid in a glass tube of very small diameter when dipped is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Directly proportional to the force per unit length of periphery",
+      "b": "Directly proportional to the sine of the angle of contact",
+      "c": "Directly proportional to the specific weight of the liquid",
+      "d": "Inversely proportional to the diameter of the glass tube"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "754",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Pascal's law states that pressure at a point is equal in all directions",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "In a liquid at rest",
+      "b": "In a fluid at rest",
+      "c": "In a laminar flow",
+      "d": "In a turbulent flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "755",
+    "chapter": "General-I"
+  },
+  {
+    "question": "A vessel having a depth of 30 cm is filled with water up to a depth of 10 cm from the top level. Find the pressure exerted at a depth of 5 cm and 15 cm from the top of the vessel respectively",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0, 50 kg/m²",
+      "b": "0,150 kg/m²",
+      "c": "0, 100 kg/m²",
+      "d": "50 kg/m², 50 kg/m²"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "756",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the pressure is applied on the surface of a liquid, the liquid transmits the pressure equally in all directions is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Pascal",
+      "b": "Newton",
+      "c": "Archimedes",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "757",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Continuity equation deals with the law of conservation of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "mass",
+      "b": "momentum",
+      "c": "energy",
+      "d": "force"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "758",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Mercury does not wet with the glass. This is due to the property of the liquid known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "cohesion",
+      "b": "adhesion",
+      "c": "viscosity",
+      "d": "surface tension"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "759",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The continuity equation",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "expresses the relationship between work and energy",
+      "b": "relates the momentum per unit volume between two points on a streamline",
+      "c": "relates the mass rate of flow along a streamline",
+      "d": "requires that Newton's second law of motion be satisfied at every point in the fluid."
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "760",
+    "chapter": "General-II"
+  },
+  {
+    "question": "An ideal flow of a liquid obeys",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Continuity equation",
+      "b": "Newton's law of viscosity",
+      "c": "Newton's second law of motion",
+      "d": "Dynamic viscosity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "761",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Equation of continuity of fluids is applicable only if",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "flow is steady",
+      "b": "flow is incompressible",
+      "c": "flow is one-dimensional",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "762",
+    "chapter": "General-II"
+  },
+  {
+    "question": "To measure atmospheric pressure, we use",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "barometers",
+      "b": "piezometer",
+      "c": "manometers",
+      "d": "differential manometers"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "763",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The pressure less than atmospheric pressure is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "suction pressure",
+      "b": "vacuum pressure",
+      "c": "negative pressure",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "764",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Gauge pressure is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "absolute-atmosphere",
+      "b": "absolute + atmosphere",
+      "c": "atmospheric ± absolute",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "765",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Barometers are used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure in water channels, pipes etc.",
+      "b": "difference in pressure at two point",
+      "c": "atmospheric pressure",
+      "d": "very low pressure"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "766",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Manometers are used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure in water channels, pipes etc.",
+      "b": "difference in pressure at two point",
+      "c": "atmospheric pressure",
+      "d": "very low pressure"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "767",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Differential manometers are used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure in water channels",
+      "b": "difference in pressure at two points",
+      "c": "atmospheric pressure",
+      "d": "very low pressure"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "768",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Piezometers are used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure in water channels, pipes etc.",
+      "b": "difference in pressure at two points",
+      "c": "atmospheric pressure",
+      "d": "very low pressure"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "769",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The pressure in pipe flow is normally",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "less than atmospheric pressure",
+      "b": "difference in pressure at two points",
+      "c": "more than atmospheric pressure",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "770",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The atmospheric pressure varies with",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "altitude",
+      "b": "temperature",
+      "c": "weather conditions",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "771",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The types of instruments used to measure low pressure with accuracy is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "piezometer",
+      "b": "barometer",
+      "c": "micromanometer",
+      "d": "mechanical gauge"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "772",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the velocity in a fluid flow does not change with respect to length in the direction of flow, it is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "steady flow",
+      "b": "uniform flow",
+      "c": "incompressible flow",
+      "d": "rotational flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "773",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the velocity, pressure, density, etc. change at a point with respect to time, the flow is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "uniform",
+      "b": "compressible",
+      "c": "unsteady",
+      "d": "incompressible"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "774",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the velocity, pressure, density etc. do not change at a point with respect to time, the flow is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "uniform",
+      "b": "incompressible",
+      "c": "non-uniform",
+      "d": "steady"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "775",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the velocity in a fluid flow changes with respect to the length of the direction of flow, it is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "unsteady flow",
+      "b": "compressible flow",
+      "c": "rotational flow",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "776",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the density of a fluid is constant from point to point in a flow region, it is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "steady flow",
+      "b": "incompressible flow",
+      "c": "uniform flow",
+      "d": "rotational flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "777",
+    "chapter": "General-II"
+  },
+  {
+    "question": "A piezometer opening in pipes measures",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "velocity head",
+      "b": "static pressure",
+      "c": "total pressure",
+      "d": "negative static pressure"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "778",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the velocity of fluid particles varies from point to point in magnitude and direction, as well as from instant to instant, the flow is said to be",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "laminar",
+      "b": "turbulent flow",
+      "c": "uniform flow",
+      "d": "non-uniform flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "779",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The flow in which the path of individual particles of liquid cross each other is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "uniform flow",
+      "b": "turbulent flow",
+      "c": "streamline flow",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "780",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Hydraulic ram is a device",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "for lifting water without an electric motor",
+      "b": "for accelerating water flow",
+      "c": "for lifting heavy loads",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "781",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The imaginary line drawn such that the tangents at its all points indicate the direction of the velocity of the fluid particle at each point, is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "path line",
+      "b": "streamline",
+      "c": "potential line",
+      "d": "streak line"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "782",
+    "chapter": "General-II"
+  },
+  {
+    "question": "In fluids, steady flow occurs when",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "condition of flow changes steadily with time",
+      "b": "condition of flow does not change with time",
+      "c": "condition of flow remains the same at the adjacent point",
+      "d": "velocity vector remains constant at a point"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "783",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Uniform flow is said to occur when",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "size and shape of the cross-section in a particular length remain constant",
+      "b": "size and shape of the cross-section change along a length",
+      "c": "frictional loss in the particular length of the channel will the more than the drop elevation",
+      "d": "frictional loss in the particular length of the channel will be less than the drop in elevation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "784",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Falling drops of water become spheres due to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "adhesion",
+      "b": "cohesion",
+      "c": "surface tension",
+      "d": "viscosity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "785",
+    "chapter": "General-II"
+  },
+  {
+    "question": "A flow is said to be laminar when",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "the fluid particles move in a zig-zag way",
+      "b": "the Reynolds number is high",
+      "c": "the fluid particles move in layers parallel to the boundary",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "786",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Losses are more in",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "laminar flow",
+      "b": "critical flow",
+      "c": "turbulent flow",
+      "d": "transition flow"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "787",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Which of the following is an example of laminar flow?",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "underground flow",
+      "b": "flow past tiny bodies",
+      "c": "both of (a) and (b)",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "788",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "In a flowing liquid, a particles may possess",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "potential energy",
+      "b": "kinetic energy",
+      "c": "pressure energy",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "789",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The main assumption of Bernoulli's equation is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "the velocity of energy of liquid particles, across any cross-section of a pipe is uniform",
+      "b": "no external force except the gravity acts on the liquid",
+      "c": "there is no loss of energy in the liquid while flowing",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "790",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The most familiar form of Bernoulli's equation, is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "P1/W + V12/2g = P2/W + V22/2g",
+      "b": "d/ + g.dz + vdv = 0",
+      "c": "P/W + Z + V2/2g =constant",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "791",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Bernoulli's equation assumes that",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "fluid is non-viscous",
+      "b": "flow is along the streamline",
+      "c": "fluid is steady",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "792",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Bernoulli's theorem deals with the law of conservation of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "mass",
+      "b": "momentum",
+      "c": "energy",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "793",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The energy possessed by a fluid by virtue of its existing pressure is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "elevation energy",
+      "b": "kinetic energy",
+      "c": "potential energy",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "794",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The total head of a particle in motion is the sum of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "potential head and kinetic head",
+      "b": "kinetic head and pressure head",
+      "c": "potential head and pressure head",
+      "d": "potential head, kinetic head and pressure head"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "795",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The term v2/2g is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "kinetic energy",
+      "b": "pressure energy",
+      "c": "kinetic energy per unit weight",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "796",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The term z is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "potential energy",
+      "b": "pressure energy",
+      "c": "potential energy per unit weight",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "797",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The term P/ ρg is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "kinetic energy",
+      "b": "pressure energy per unit weight",
+      "c": "energy per unit weight",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "798",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The line joining the points to which the liquid rises in vertical piezometer tubes fitted at different cross-sections of a conduit, is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "hydraulic gradient",
+      "b": "pressure grade line",
+      "c": "hydraulic grade line",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "799",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Hydraulic gradient line (H.G.L.) represents the sum of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure and kinetic head",
+      "b": "kinetic head and datum head",
+      "c": "pressure head, kinetic head and datum head",
+      "d": "pressure head and datum head"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "800",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Total energy line (T.E.L) represents the sum of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure head and kinetic head",
+      "b": "kinetic head and datum head",
+      "c": "pressure head and datum head",
+      "d": "pressure head, kinetic head and datum head"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "801",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The difference between the total energy gradient line and the total energy line is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "kinetic head",
+      "b": "pressure head",
+      "c": "datum head",
+      "d": "loss of head"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "802",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Hydraulic gradient line and total energy line are",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "same",
+      "b": "different",
+      "c": "differ by pressure head",
+      "d": "differ by static head"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "803",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Hydraulic gradient line for an open flow channel is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "below water level",
+      "b": "same as the water level",
+      "c": "above water level",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "804",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Hydraulic gradient line (except siphon)",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "remains above the centre line of the conduit",
+      "b": "remains below the centre line of the conduit",
+      "c": "remains parallel to the centre line of the conduit",
+      "d": "may be above or below the centre line of the conduit"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "805",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The difference between the total energy line and the hydraulic gradient line is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "kinetic head",
+      "b": "pressure head",
+      "c": "datum head",
+      "d": "loss of head"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "806",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Pressure head is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "p/w",
+      "b": "z",
+      "c": "v/2g",
+      "d": "all"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "807",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "The head of water representing in case of the HGL line is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "static head",
+      "b": "residual head",
+      "c": "pressure head",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "808",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Pick up the correct statement from the following",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "total energy gradient is the graphical representation of the total head at any section of a pipeline",
+      "b": "vertical distance between the total energy line and the hydraulic grade line is equal to the velocity head",
+      "c": "vertical distance between the total energy line and total energy gradient represents loss of head",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "809",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "Specific energy of a flowing fluid per unit weight is equal to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "v^2/2g + h",
+      "b": "h^2/2g +v",
+      "c": "v^2/2h + g",
+      "d": "v^2/3g + h"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "810",
+    "chapter": "Hydro-kinematics and Hydro-dyanamics"
+  },
+  {
+    "question": "A structure used to dam up a stream or river over which the water flows is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "orifice",
+      "b": "notch",
+      "c": "weir",
+      "d": "dam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "811",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The sheet of water flowing over a notch or a weir is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "sill or crest",
+      "b": "nappe or vein",
+      "c": "orifice",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "812",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The upper surface of the notch over which water flows, is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "vein",
+      "b": "nappe",
+      "c": "sill",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "813",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The width of a weir with end contraction, is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "equal to the width of the channel",
+      "b": "less than the width of the channel",
+      "c": "half the width of the channel",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "814",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "Crest of the weir is lower than d/s water level",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "submerged weir",
+      "b": "cipolletti weir",
+      "c": "triangular weir",
+      "d": "sharp-crested weir"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "815",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "Cipolleti weir is a trapezoidal weir having side slope of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "H:V::1:2",
+      "b": "H:V::2:1",
+      "c": "H:V:1:4",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "816",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The notch angle for maximum discharge over a triangular notch, is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "30°",
+      "b": "60°",
+      "c": "90°",
+      "d": "120°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "817",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "A triangular notch is preferred to a rectangular notch because",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "only one reading is required",
+      "b": "its formula is simple to remember",
+      "c": "it gives more accurate results for low discharge (Q≤100m^3/sec)",
+      "d": "it measures a wide range of flows accurately"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "818",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The discharge through a cipolleti weir is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "2/3 Cd√2gH^3/2",
+      "b": "3/2 CdL√2gH^3/2",
+      "d": "3/2 Cd√2gH^3/2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "819",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The discharge through a v-notch weir varies as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "H",
+      "b": "1/√H",
+      "c": "H^(3/2)",
+      "d": "H^(5/2)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "820",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "A stepped notch is a combination of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "rectangular notches of different sizes",
+      "b": "triangular notches of different sizes",
+      "c": "rectangular and triangular notches",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "821",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "Discharge (Q) over a rectangular weir of length (L) and height (H), is given by the equation",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Q=2/3 Cd √(2g) LH^(3/2)",
+      "b": "Q=2/3 Cd LH √(2gH)",
+      "c": "Q=2/3 Cd L√(2g HL^2)",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "822",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The notch formula is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Q=2/3 CdL √(2g) H^(3/2)",
+      "b": "Q=2/3 CdB √(2g) H^(3/2)",
+      "c": "Q=2/4 CdL √(2g) H^(3/2)",
+      "d": "Q=2/4 CdB √(2g) H^(3/2)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "823",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "If S is the height of the crest above the base of the channel and H is the head of water over the weir whose length is L and discharge is Q m³/sec, the velocity of approach va is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "√2gh",
+      "b": "Q/ L(H-L)",
+      "c": "Q/ L(H+s)",
+      "d": "L(H+S)/ Q"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "824",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "With a clinging nappe of a weir, the excess discharge, is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "6% to 7%",
+      "b": "8% to 10%",
+      "c": "10% to 15%",
+      "d": "25% to 30%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "825",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The discharge through a triangular notch is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "8/15 Cd√2gH^(5/2) tanθ/2",
+      "b": "8/15 Cd√2gH^(3/2) tanθ/2",
+      "c": "8/15 Cd√2gH^(1/2) tanθ/2",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "826",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The ratio of the percentage error in the discharge and percentage error in the measurement of the head, over a rectangular notch, is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "1/2",
+      "b": "2/3",
+      "c": "3/2",
+      "d": "3/4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "827",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The ratio of the percentage error in the discharge and percentage error in the measurement of the head over a triangular notch, is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "2/3",
+      "b": "3/2",
+      "c": "2/5",
+      "d": "5/2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "828",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "If ‘H’ is the height of the liquid above sill, the effect of end contraction on each side, according to Francis's formula is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0.1H",
+      "b": "0.2H",
+      "c": "0.3H",
+      "d": "0.4H"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "829",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The discharge passing through the crest having a length of 1.25m, the height of the flowing water 0.25m & Cd= 0.035 is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0.0116cm³/sec",
+      "b": "0.116 cm³/sec",
+      "c": "0.0160 cm3 /sec",
+      "d": "0.00116 cm3/sec"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "830",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "Cipolleti weir is a",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "rectangular weir whose length is kept 3 times the of the water above still",
+      "b": "triangular weir, whose notch angle is 90°",
+      "c": "trapezoidal weir, whose sides slope 1 horizontal to 4 verticals",
+      "d": "a combination of rectangular and triangular weirs"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "831",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The thickness of a sharp-crested weir is kept less than",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "one-third of the height of water on the sill",
+      "b": "one-half of the height of water on the sill",
+      "c": "two-third of the height of water on the sill",
+      "d": "two-third of the height of water on the sill"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "832",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "A weir is said to be a narrow-crested weir if the width of the crest of the weir is ______ Half the height of water above the weir crest.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "equal to",
+      "b": "less than",
+      "c": "more than",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "833",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "A weir is said to be broad crested weir if the width of the crest of the weir is ___________ half the height of water above the weir crest.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "equal to",
+      "b": "less than",
+      "c": "more than",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "834",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "In a broad crested weir , the discharge is maximum if the head of the water on the downstream side of weir is _____ the head of the water on the upstream side of weir.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "equal to",
+      "b": "one-third",
+      "c": "two-third",
+      "d": "three-fourth"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "835",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "Venturimeter is used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "rate of flow",
+      "b": "velocity",
+      "c": "depth of flow",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "836",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "In a venturimeter, the divergent cone is kept",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "shorter than convergent cone",
+      "b": "equal to convergent cone",
+      "c": "longer than convergent cone",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "837",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The inlet length of a venturimeter",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "is equal to the outlet length",
+      "b": "is more than the outlet length",
+      "c": "is less than the outlet length",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "838",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "In an inclined position, a venturimeter records",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "less reading",
+      "b": "same reading",
+      "c": "more reading",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "839",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The rate of flow through a venturimeter varies as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "H^(1/2)",
+      "b": "H^(3/2)",
+      "c": "H^2",
+      "d": "H^(5/2)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "840",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "Mouthpieces are used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "velocity",
+      "b": "pressure",
+      "c": "head",
+      "d": "rate of flow"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "841",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "An orifice is called a large orifice if the water head is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "two times the diameter of the pipe",
+      "b": "three times the diameter of the pipe",
+      "c": "four times the diameter of pipe",
+      "d": "five times the diameter of pipe"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "842",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The orifice used for low discharge",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "rectangular",
+      "b": "circular",
+      "c": "square",
+      "d": "triangular"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "843",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The minimum head loss will occur in",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "orifice meter",
+      "b": "venturimeter",
+      "c": "nozzle meter",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "844",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "The section of the Jet leaving an orifice, having minimum c/s area is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "orifice meter",
+      "b": "venturimeter",
+      "c": "mouthpiece",
+      "d": "vena-contracta"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "845",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "At vena contracta, jet has the minimum area of c/s and so the velocity of liquid at this section will be.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "minimum",
+      "b": "maximum",
+      "c": "average",
+      "d": "critical"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "846",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "Discharge over an ogee weir remains the same as that of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "sharp-crested weir",
+      "b": "triangular weir",
+      "c": "cipolleti weir",
+      "d": "drowned weir"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "847",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "In an inclined pipe, the pressure difference at its two ends is due to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "sudden head drop at the inlet",
+      "b": "frictional loss head",
+      "c": "elevation head",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "848",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "A rotameter is used for measuring",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "density of fluids",
+      "b": "value of fluids in pipe",
+      "c": "discharge of fluids",
+      "d": "pressure in fluids"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "849",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "A weir, generally used as a spillway of a dam is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "narrow crested weir",
+      "b": "broad-crested weir",
+      "c": "ogee weir",
+      "d": "submerged weir"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "850",
+    "chapter": "Measurement of discharge"
+  },
+  {
+    "question": "When the pipes are connected in series, the total rate of flow",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "is equal to the sum of the rate of flow in each pipe",
+      "b": "is equal to the reciprocal of the sum of the rate of flow in each pipe",
+      "c": "is the same as flowing through each pipe",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "851",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "In pipe lines, a surge tank is provided",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "to relieve the pressure due to water hammer",
+      "b": "to provide additional water head",
+      "c": "to overflow the pipe line when suddenly closed",
+      "d": "to remove the frictional loss in pipe"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "852",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "For a long pipe, the head loss",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "at the entrance is ignored",
+      "b": "at the outlet is ignored",
+      "c": "at the entrance and outlet both are ignored",
+      "d": "due to friction is ignored"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "853",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "If there are n pipes of the same diameter, d laid in parallel in place of a single pipe of diameter D, then",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "d= D/n^(2/5)",
+      "b": "d= D/n^(1/5)",
+      "c": "d= D/n^(3/5)",
+      "d": "d= D/n^(4/5)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "854",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Hydraulic radius is equal to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "area divided by the square of the wetted perimeter",
+      "b": "wetted area divided by wetted perimeter",
+      "c": "wetted perimeter divided by area",
+      "d": "square root of the area"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "855",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "The wetted perimeter of a channel is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "4.75Q^2",
+      "b": "4.75Q",
+      "c": "4.75√Q",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "856",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Manning's formula is used for",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "flow in open channels",
+      "b": "head loss due to friction in open channels",
+      "c": "head loss due to friction in pipes flowing full",
+      "d": "flow pipes"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "857",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "A siphon is used",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "to connect water reservoirs at different levels intervened by a hill",
+      "b": "to supply water to a town from a higher level to a lower level",
+      "c": "to fill up a tank with water at a higher level from a lower level",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "858",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "A siphon is an",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "L-shaped pipe",
+      "b": "U-shaped pipe",
+      "c": "inverted U-shaped pipe",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "859",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "To avoid an interruption in the flow of a siphon, the air vessel is provided",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "at the inlet",
+      "b": "at the outlet",
+      "c": "at the summit",
+      "d": "at the point between the inlet and the outlet"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "860",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Head loss due to friction in a pipe is given by (Darcy Weisbach)",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "hf = 4flv² /2gd",
+      "b": "hf = flv² /2gd",
+      "c": "hf = 0.5v² /2g",
+      "d": "hf = (v1 - v2 )² /2g"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "861",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Head loss increases with",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "increase in velocity",
+      "b": "decrease in velocity",
+      "c": "decrease in length of pipe",
+      "d": "increase in diameter of pipe"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "862",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "The magnitude of the water hammer depends upon",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "length of the pipeline",
+      "b": "elastic properties of liquid",
+      "c": "elastic properties of pipe material",
+      "d": "diameter of the pipeline"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "863",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Hydraulic ram is a pump which works on",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "the principle of water hammer",
+      "b": "for accelerating water flow",
+      "c": "the principle of reciprocation action",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "864",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "The velocity distribution of viscous fluid through a circular/pipe is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "hyperbolic",
+      "b": "circular",
+      "c": "parabolic",
+      "d": "elliptical"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "865",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "When the pipes are connected in parallel, the total loss of head",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "is equal to the sum of the loss of head in each pipe",
+      "b": "is the same as in each pipe",
+      "c": "is equal to the reciprocal of the sum of the loss of head in each pipe",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "866",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Maximum efficiency of power transmission through pipe is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "50%",
+      "b": "60%",
+      "c": "66%",
+      "d": "76%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "867",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Flow in pipes is turbulent if the Reynolds number is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "less than 2100",
+      "b": "more than 3000",
+      "c": "between 2100 and 3000",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "868",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Open channel flow is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "one in which the liquid is flowing in a conduit has a free surface",
+      "b": "one in which the liquid is in a closed conduit running full",
+      "c": "a covered channel running full",
+      "d": "one in which the liquid is flowing in a conduit under pressure"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "869",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "If the Froude number in open channel flow is less than 1.0, the flow is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "critical flow",
+      "b": "super-critical flow",
+      "c": "sub-critical flow",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "870",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "If the Froude number in open channel flow is equal to 1.0, the flow is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "critical flow",
+      "b": "streaming flow",
+      "c": "shooting flow",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "871",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "If the Froude number in open channel flow is more than 1.0, the flow is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "critical flow",
+      "b": "streaming flow",
+      "c": "shooting flow",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "872",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Chazy's formula is used to determine",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "head loss due to friction in the pipe",
+      "b": "velocity of flow in pipe",
+      "c": "velocity of flow in channels",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "873",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Chazy's formula is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "v= C√mi",
+      "b": "v= m√ci",
+      "c": "v= C√mci",
+      "d": "v=i√mc"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "874",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "From a nozzle exposed to the atmosphere, the liquid jet traverses",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "a straight line",
+      "b": "circular path",
+      "c": "parabolic path",
+      "d": "elliptical path"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "875",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Floating method is used for the measurement of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "discharge",
+      "b": "head",
+      "c": "pressure",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "876",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "The float method is used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "gradient in open channel",
+      "b": "velocity in open channel",
+      "c": "discharge open in an open channel",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "877",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "A pitot tube is used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure",
+      "b": "difference in pressure",
+      "c": "velocity of flow",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "878",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "If a pitot tube is placed with its nose facing downstream, the liquid",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "does not rise in the tube",
+      "b": "rises in the tube to a height √v^2/2g",
+      "c": "falls in the tube to a depth √v^2/2g",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "879",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "If the pitot tube is placed with its nose facing sideway, the liquid",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "rises in the tube",
+      "b": "falls into the tube",
+      "c": "neither rise nor fall in the tube",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "880",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Actual velocity through orifice is ________ than the theoretical velocity.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal",
+      "d": "not defined"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "881",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Most economical section of a circular channel for maximum discharge",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "depth of water=a.95 diameter of circular section",
+      "b": "hydraulic mean depth=a.286 diameter of circular section.",
+      "c": "wetted perimeter =c.6 diameters of circular section",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "882",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Most economical section of a circular channel for maximum velocity, is if",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "depth of water =a.810 diameter",
+      "b": "hydraulic mean depth= 0.304 diameter of circular section",
+      "c": "wetted perimeter=c.245 diameters of circular section",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "883",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "Condition for maximum velocity & discharge is given by (closed flow)",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0.81D & 0.95D",
+      "b": "0.82D & 0.94D",
+      "c": "0.83D & 0.93D",
+      "d": "0.84D & 0.92D"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "884",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "The most efficient channel section is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "semi-circular",
+      "b": "rectangular",
+      "c": "triangular",
+      "d": "half hexagon in the form of a trapezoid"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "885",
+    "chapter": "flow-I"
+  },
+  {
+    "question": "The error 1% in measuring H will produce... error in discharge over a rectangular north.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "1%",
+      "b": "1.5%",
+      "c": "2%",
+      "d": "2.5%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "886",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The rise of water table, which takes place due to the transformation of the unstable shooting flow (super-critical) to the stable streaming is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "hydraulic jump",
+      "b": "standing wave",
+      "c": "both (a) and (b) of above",
+      "d": "water cushion"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "887",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The discharge through a trapezoidal channel is maximum when",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "m=d",
+      "b": "m=2d",
+      "c": "m=3d",
+      "d": "m=d/2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "888",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The discharge through a rectangular channel is maximum when",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "m= d/2",
+      "b": "d=b/2",
+      "c": "m=2d",
+      "d": "both a and b above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "889",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The discharge through a trapezoidal channel is maximum when",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "half of the width = sloping side",
+      "b": "top width=1/2 sloping side",
+      "c": "top width =1.5 sloping side",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "890",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "For the same specific force, the two depths at which the same discharge occur are called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "alternate depths",
+      "b": "conjugate depths",
+      "c": "critical depths",
+      "d": "normal depths"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "891",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The depth of flow at which specific energy is minimum is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "normal depth",
+      "b": "critical depth",
+      "c": "alternate depth",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "892",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Critical depth (h_c) is given by,Where q-rate of flow per unit width of channel",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "(q² / g)^(1/3)",
+      "b": "(q² / g)^(1/4)",
+      "c": "(q² / g)^(1/2)",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "893",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Super-critical flow occurs in",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "normal slope",
+      "b": "mild slope",
+      "c": "steep slope",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "894",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "For any channel section, the specific energy increases with",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "decrease in depth of super-critical flow",
+      "b": "increase in depth of sub-critical flow",
+      "c": "increase in depth of super-critical flow",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "895",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The phenomenon occurring in an open channel when a rapidly flowing stream abruptly changes to a slowly flowing stream causing a distinct rise of the liquid surface is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "water hammer",
+      "b": "hydraulic jump",
+      "c": "critical discharge",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "896",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Flow in pipes is laminar if Reynold number is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "less than 2100",
+      "b": "more than 3000",
+      "c": "between 2100 and 3000",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "897",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "For a circular channel, the wetted perimeter is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "2Rθ",
+      "b": "3Rθ",
+      "c": "4Rθ",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "898",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Water hammer is a phenomenon which occurs",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "when pressure increases sudden closure of a valve",
+      "b": "when pressure decreases sudden opening of a valve",
+      "c": "due to elastic material of the pipe",
+      "d": "due to the incompressible nature of the fluid"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "899",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The two depths at which the specific energy is the same is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "alternate depths",
+      "b": "conjugate depths",
+      "c": "critical depths",
+      "d": "normal depth"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "900",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "When the fluid is at rest, the shear stress is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "maximum",
+      "b": "zero",
+      "c": "unpredictable",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "901",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Euler's equation for the motion of liquids assumes that",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "fluid is viscous",
+      "b": "fluid is homogeneous and incompressible",
+      "c": "velocity of flow is non-uniform over the section",
+      "d": "flow is unsteady along the stream line"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "902",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "In an open channel flow",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "velocity distribution is symmetrical about the pipe axis",
+      "b": "maximum velocity occurs at a little distance below the water surface",
+      "c": "flow cross-section is fixed",
+      "d": "the flow takes place at the expense of hydraulic pressure"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "903",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "In an open channel flow",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "hydraulic gradient line is lower than the liquid surface",
+      "b": "hydraulic gradient line coincides with the liquid surface",
+      "c": "hydraulic gradient line is higher than the liquid surface",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "904",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "For uniform flow in the channel",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "total energy line, hydraulic gradient line, and the bottom of the channel are parallel",
+      "b": "total energy line and water surface are horizontal while the bottom of the channel is inclined",
+      "c": "total energy line, water surface, and the bottom of the channel are parallel",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "905",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The maximum velocity in open channel occurs",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "at the bottom of the channel",
+      "b": "½ depth of the channel",
+      "c": "slightly below the free surface",
+      "d": "at the free surface"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "906",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The ratio of the mean velocity to the surface velocity in open channels is equal to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0.55",
+      "b": "0.75",
+      "c": "0.88",
+      "d": "1.15"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "907",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "In an open channel, the analysis of a surge is done by using",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "continuity equation",
+      "b": "momentum equation",
+      "c": "energy equation",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "908",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "In case of vortex flow, the level of water at the center is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "higher than circumference",
+      "b": "lower than circumference",
+      "c": "same as circumference",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "909",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The water immediately d/s of conduit or weir is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "headwater",
+      "b": "tailwater",
+      "c": "main water",
+      "d": "surplus water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "910",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The upward water pressure at the base of the structure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "up",
+      "b": "down",
+      "c": "uplift",
+      "d": "downlift"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "911",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "As per our convenience, which one is correct with respect to dimensionless number?",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "WIS-MIE-RIV-FIG-EIP",
+      "b": "WIE-MIS-RIV-FIG-IEP",
+      "c": "MIE-WIS-RIG-FIV-PIE",
+      "d": "WIG-MIS-RIE-FIV-IPE"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "912",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Reynolds number is the ratio of initial force and",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "viscosity",
+      "b": "elasticity",
+      "c": "gravitational force",
+      "d": "surface tension"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "913",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "For the flow of liquid from an open-ended tube (nozzle) leading to the formation of a spray of liquid drops, the number generally is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Euler number",
+      "b": "Froude number",
+      "c": "Weber number",
+      "d": "Reynolds number"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "914",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The ratio of the inertia and gravitational force acting in any flow, ignoring other forces, is called",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Euler number",
+      "b": "Froude number",
+      "c": "Reynolds number",
+      "d": "Weber number"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "915",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Mach number is the ratio of inertia force to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "viscosity",
+      "b": "Froude number",
+      "c": "gravitational force",
+      "d": "elasticity"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "916",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Weber number is the ratio of inertia force to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "surface tension",
+      "b": "gravitational force",
+      "c": "elasticity",
+      "d": "viscosity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "917",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "If the forces are due to inertia and gravity, and frictional resistance plays only a minor role, the design of channels is made by comparing",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Reynolds number",
+      "b": "Froude number",
+      "c": "Weber number",
+      "d": "Mach number"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "918",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "Euler's number is the ratio of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "inertia force to pressure force",
+      "b": "pressure force to elastic force",
+      "c": "elastic force to viscous force",
+      "d": "viscous force to inertia force"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "919",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "For the laminar flow through a circular pipe",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "the maximum velocity=1.5 times the average velocity",
+      "b": "the maximum velocity=2.0 times the average velocity",
+      "c": "the maximum velocity=2.5 times the average velocity",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "920",
+    "chapter": "flow-II"
+  },
+  {
+    "question": "The difference in pressure head, measured by a mercury oil differential manometer for a 20 cm difference of mercury level will be (specific gravity of oil=a.8)",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "2.72m of oil",
+      "b": "2.52m of oil",
+      "c": "3.20m of oil",
+      "d": "0.2 m of oil"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2644",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In an open tube, the free surface of mercury remains",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "horizontal",
+      "b": "curved upwards",
+      "c": "curved downwards",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2645",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In the case of levelling by level pipe, the level is indicated by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "upper face",
+      "b": "middle face",
+      "c": "lower face",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2646",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The pressure difference between inside and outside of a droplet of water is given by,Where σ is surface tension and d is the diameter of the droplet.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "2 σ/d",
+      "b": "4 σ/d",
+      "c": "6 σ/d",
+      "d": "8 σ/d"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2647",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Total pressure on the top of a closed cylindrical vessel completely directly proportional to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "radius",
+      "b": "(radius)²",
+      "c": "(radius)³",
+      "d": "(radius)^4"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2648",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The attraction among different particles of same material is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "adhesion",
+      "b": "cohesion",
+      "c": "corrosion",
+      "d": "fusion"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2649",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "1 m head is equivalent to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0.1kg/cm²",
+      "b": "0.2kg/cm²",
+      "c": "0.3kg/cm²",
+      "d": "0.4kg/cm²"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2650",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A steady uniform flow is through a",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "long pipe at a decreasing rate",
+      "b": "long pipe at a constant rate",
+      "c": "long pipe at an increasing rate",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2651",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The difference of pressure head (h) measured by mercury oil differential manometer is given as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "h= x(1-s0 /sg)",
+      "b": "h= x(sg – s0)",
+      "c": "h= x(s0 - sg)",
+      "d": "h= x(s0 /sg-1)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2652",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The difference of pressure head (h) measured by a differential manometer containing lighter liquid is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "h= x(1-s2 /s0)",
+      "b": "h= x(s2/s0-1)",
+      "c": "h= x(s0 – s2)",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2653",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "An oil of specific gravity 0.7 and pressure 0.14 kgf/cm² will have the height of oil as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "70 cm of oil",
+      "b": "2 m of oil",
+      "c": "20cm of oil",
+      "d": "80cm of oil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2654",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the specific gravity of oil is 0.7 then find the density of oil",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "1000 kg/cm2",
+      "b": "900 kg/cm²",
+      "c": "800 kg/cm²",
+      "d": "700 kg/cm²"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2655",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Specific weight of liquid",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "remains constant at every place",
+      "b": "does not remain constant at every place",
+      "c": "varies from place to place",
+      "d": "does not vary on any other planet except earth"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2656",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Find the capillary rise/fall in a glass tube when immersed in mercury with following given data: surface tension, σ = 0.52gmf/cm, angle of contact,θ=b30°, S.G. of mercury = 13.6, the diameter of pipe =2.5mm",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "0.393cm fall",
+      "b": "0.393 cm rise",
+      "c": "neither fall nor rise",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2657",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Hydraulic gradient is equal to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Difference in water surface/ Total length of channel",
+      "b": "Total loss due to friction/ Total length of channel",
+      "c": "Water perimeter/ Total length of channel",
+      "d": "Area of cross-section/ Total length of channel"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2658",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The velocity of approach (Va) is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Va=Discharge over notch/ Area of notch",
+      "b": "Va=Discharge over notch/ Area of channel",
+      "c": "Va = Discharge over notch/ (Head over notch xwidth of channel)",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2659",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If cv, cc and cd are the hydraulic coefficients of an orifice, then",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Cd=Cc. Cv",
+      "b": "Cr=b+ Cv²/Cd",
+      "c": "Cv= Cv+Cd",
+      "d": "Cv= Cv/Cd"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2660",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Pressure within a soap bubble is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "equal to vapour pressure",
+      "b": "less than external pressure",
+      "c": "more than external pressure",
+      "d": "equal to external pressure"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2661",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In case of a broad-crested weir the depth of water h at the end of still is given by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "h=H/2",
+      "b": "h=H/3",
+      "c": "h=H/4",
+      "d": "h=H"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2662",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The discharge over a rectangular notch is:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "inversely proportional to H^(3/2)",
+      "b": "directly proportional to H^(3/2)",
+      "c": "inversely proportional to H^(5/2)",
+      "d": "directly proportional to H^(5/2)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2663",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If fluid or flow parameters at any given instant remain same at every point space, it is called:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "steady flow",
+      "b": "laminar flow",
+      "c": "uniform flow",
+      "d": "rotational flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2664",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "When the water level on the downstream side of a weir is above the top surface of a weir the weir is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "submerged weir",
+      "b": "narrow-crested weir",
+      "c": "broad-crested weir",
+      "d": "ogee weir"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2665",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The basic head loss in a long pipe is:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "fittings",
+      "b": "sudden increase in diameter",
+      "c": "sudden decrease in diameter",
+      "d": "friction"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2666",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which of the following has the highest coefficient of discharge:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "sharp edged orifice",
+      "b": "venturimeter",
+      "c": "cipolleti weir",
+      "d": "borda's mouth piece running full"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2667",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The total energy of a liquid in motion is equal to :",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure energy+ kinetic energy+ potential energy",
+      "b": "pressure energy -(kinetic energy + potential energy)",
+      "c": "potential energy -(pressure energy+ kinetic energy)",
+      "d": "kinetic energy-(pressure energy potential energy)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2668",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If fluid or flow parameters at any given instant remain same at every point in space, it is called:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "steady flow",
+      "b": "laminar flow",
+      "c": "uniform flow",
+      "d": "rotational flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2669",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "To measure very low pressure, we use",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "barometers",
+      "b": "piezometers",
+      "c": "monometers",
+      "d": "differential monometers"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2670",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The upper surface of the weir over which water flows is known as:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "vein",
+      "b": "nappe",
+      "c": "sill",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2671",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "What affects the quantity of mass of a fluid?",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "acceleration due to gravity",
+      "b": "distance from the center of the earth",
+      "c": "elevation of the body",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2672",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The magnitude of capillary rise is more in:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "silts",
+      "b": "sands",
+      "c": "clays",
+      "d": "gravels"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2673",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The total pressure force on a plane area is equal to the area multiplied by the intensity of pressure at its centroid, if",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "area is horizontal",
+      "b": "area is vertical",
+      "c": "area is inclined",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2674",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Viscosity of a liquid",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "Drops with temperature",
+      "b": "rises with temperature",
+      "c": "does not vary with temperature",
+      "d": "remains constant up to a certain temperature"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2675",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which of the following statements is valid?",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "a fluid with low viscosity resists motion because its molecular structure gives it a lot of internal friction",
+      "b": "viscosity describes the internal friction of a moving fluid",
+      "c": "two fluids with the same dynamic viscosities have same kinematic viscosities irrespective of their densities",
+      "d": "intensity of liquid pressure at the bottom of a tank is w.g.h/3"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2676",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Bernoulli's equation is applied to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "venturimeter",
+      "b": "orifice meter",
+      "c": "pitot tube",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2677",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The rate of flow through V-notch varies as:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "H",
+      "b": "H^(1/2)",
+      "c": "H^(3/2)",
+      "d": "H^(5/2)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2678",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If the volume of a liquid weighing 2400kg is 3 cubic meters, then 0.8 is its",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "specific weight",
+      "b": "specific mass",
+      "c": "specific gravity.",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2679",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The hydrostatic force exerted by 2 m deep water on the gate downstream is equal to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "40 KN",
+      "b": "10 KN",
+      "c": "20 KN",
+      "d": "30 KN"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2680",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The discharge through a V notch weir is directly proportional to:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "bed slope of the channel upstream",
+      "b": "depth of flow",
+      "c": "top width of the notch",
+      "d": "angle of notch and depth of the flow"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2681",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Frictional loss of head includes the loss of energy due to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "viscosity",
+      "b": "turbulence",
+      "c": "both (a) and (b)",
+      "d": "none of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2682",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A fluid particle may possess the displacement of",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "translation",
+      "b": "rotation",
+      "c": "distortion",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2683",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Velocity of flow may be determined using:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "division of discharge to area of flow",
+      "b": "product of area and discharge divided by 100",
+      "c": "product of wetted perimeter and hydraulic radius",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2684",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The upper surface of weir over which water flows is known as",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "crest",
+      "b": "notch",
+      "c": "top level",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2685",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "One horse power is equal to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "1kw",
+      "b": "0.746 kw",
+      "c": "0.836kw",
+      "d": "0.756kw"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2686",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If the total head of nozzle of a pipe is 37.5m and discharge cumec then the power generated is",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "400 HP",
+      "b": "450 HP",
+      "c": "500 HP",
+      "d": "550 HP"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2687",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Surface float is used to measure",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure",
+      "b": "difference in pressure",
+      "c": "velocity of flow",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2688",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Hydrostatic pressure on a dam depends upon its",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "length",
+      "b": "depth",
+      "c": "shape",
+      "d": "both (b) and (c) of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2689",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Rotation is defined as the movement of a fluid element in such a way that both of its axes rotate in ________.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "the same direction",
+      "b": "different direction",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2690",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Intensifier is used to increase",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure",
+      "b": "temperature",
+      "c": "energy",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2691",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "________ is defined as the maximum increase in water level in the path of flow of water",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "afflux",
+      "b": "rising of wall",
+      "c": "flood",
+      "d": "rainfall"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2692",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The profile of rising water on the upstream side of the dam is called _______.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "back water curve",
+      "b": "forward water curve",
+      "c": "normal water curve",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2693",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Back water curve is caused if there is a",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "a friction head loss is more than the bed slope",
+      "b": "obstruction due to weir in the channel",
+      "c": "an increase in width of the channel",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2694",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The numerical value of vorticity is ______ of the rotation.",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "twice",
+      "b": "thrice",
+      "c": "same",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2695",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Cavitations in flow fluid occurs when",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "the total energy suddenly increases",
+      "b": "the total energy suddenly decreases",
+      "c": "the total energy is constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2696",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Cavitations is caused by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "low pressure",
+      "b": "high pressure",
+      "c": "low velocity",
+      "d": "high-velocity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2697",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Cavitations is collapsed by",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "low pressure",
+      "b": "high pressure",
+      "c": "low velocity",
+      "d": "high-velocity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2698",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Water cushion is used to",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "store the water",
+      "b": "destroy the energy",
+      "c": "produce energy",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2699",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which of the following quantities are dimensionless?",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "surface tension",
+      "b": "specific weight",
+      "c": "angular velocity",
+      "d": "mach number"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2700",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The power transmitted through pipe is given by (where hf = Head loss)",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "WxQxH / 75",
+      "b": "WxQxhf/75",
+      "c": "WxQx(H-hf)/4500",
+      "d": "WxQx(H-hf)/75"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2701",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Orifice meter is used to measure:",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "pressure at the point",
+      "b": "discharge",
+      "c": "average speed",
+      "d": "velocity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2702",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The metacentric height of a body equals the distance between",
+    "topic": "Hydraulics",
+    "options": {
+      "a": "the centre of gravity and centre of buoyancy",
+      "b": "the metacentre and centre of gravity",
+      "c": "the centre of buoyancy and metacentre",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2703",
+    "chapter": "SECTION-II"
+  }
+]

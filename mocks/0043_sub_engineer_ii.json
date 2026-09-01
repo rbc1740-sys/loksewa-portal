@@ -1,0 +1,702 @@
+[
+  {
+    "question": "If the fluid particles move in a zig-zag way, the flow is called",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "unsteady",
+      "b": "non-uniform",
+      "c": "turbulent",
+      "d": "incompressible"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1410",
+    "chapter": ""
+  },
+  {
+    "question": "The inlet length of a venturimeter",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "is equal to the outlet length",
+      "b": "is more than the outlet length",
+      "c": "is less than the outlet length",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1411",
+    "chapter": ""
+  },
+  {
+    "question": "The width of a weir with end contraction, is",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "equal to the width of the channel",
+      "b": "less than the width of the channel",
+      "c": "half the width of the channel",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1412",
+    "chapter": ""
+  },
+  {
+    "question": "The angle of internal friction for cohesive soils is equal to",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "0°",
+      "b": "30°",
+      "c": "45°",
+      "d": "15°"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1413",
+    "chapter": ""
+  },
+  {
+    "question": "In the modified proctor test the drop height of the rammer is",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "30cm",
+      "b": "45cm",
+      "c": "60cm",
+      "d": "75cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1414",
+    "chapter": ""
+  },
+  {
+    "question": "In a slab, the transverse reinforcement is provided at _______ to the span of a slab.",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "45°",
+      "b": "60°",
+      "c": "75°",
+      "d": "90°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1415",
+    "chapter": ""
+  },
+  {
+    "question": "The diameter of bars normally used in column",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "10-25 m",
+      "b": "12-25 m",
+      "c": "14-25 m",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1416",
+    "chapter": ""
+  },
+  {
+    "question": "Hook’s law holds good up to",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "yield point",
+      "b": "elastic limit",
+      "c": "plastic limit",
+      "d": "breaking point"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1417",
+    "chapter": ""
+  },
+  {
+    "question": "The curvature of the earth's surface is taken into account only if the extent of the survey is more than",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "60 sq. km",
+      "b": "160 sq. km",
+      "c": "260 sq. km",
+      "d": "500 sq. km"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1418",
+    "chapter": ""
+  },
+  {
+    "question": "The portion of the road surface, which is used by vehicular traffic is known as",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "carriageway",
+      "b": "shoulder",
+      "c": "expressway",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1419",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum allowable limit by which a measurement may vary from the true value is known as",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "permissible error",
+      "b": "residual error",
+      "c": "expected error",
+      "d": "systematic error"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1420",
+    "chapter": ""
+  },
+  {
+    "question": "Good quality building stones should not contain soluble salts more than",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "0%",
+      "b": "1%",
+      "c": "2%",
+      "d": "10%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1421",
+    "chapter": ""
+  },
+  {
+    "question": "The pigment used in paints for corrosive resistance is",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "red lead",
+      "b": "white lead",
+      "c": "gypsum",
+      "d": "ferrous oxide"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1422",
+    "chapter": ""
+  },
+  {
+    "question": "The most durable varnish is",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "water varnish",
+      "b": "oil varnish",
+      "c": "turpentine varnish",
+      "d": "spirit varnish"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1423",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum size of the aggregate used in a damp proof course is about",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "6 mm",
+      "b": "10 mm",
+      "c": "15 mm",
+      "d": "20 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1424",
+    "chapter": ""
+  },
+  {
+    "question": "Foundations in black cotton soils",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "are taken to a depth up to which the crack does not extend",
+      "b": "loads are limited to 5t/m2",
+      "c": "trenches are dug on either side of the foundations and filled with sand to prevent immediate contact with the soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1425",
+    "chapter": ""
+  },
+  {
+    "question": "The total cost versus time of an activity represents a",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "a straight line",
+      "b": "a parabola",
+      "c": "U-shaped curve",
+      "d": "inverted U shaped curve"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1426",
+    "chapter": ""
+  },
+  {
+    "question": "The measurement of steel grills is taken items of",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "area",
+      "b": "volume",
+      "c": "weight",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1427",
+    "chapter": ""
+  },
+  {
+    "question": "The capacity of a flushing cistern is normally",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "12 to 15 litres",
+      "b": "20 to 25 litres",
+      "c": "30 to 40 litres",
+      "d": "1 to 5 litres"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1428",
+    "chapter": ""
+  },
+  {
+    "question": "The depreciation of the value of building costs is generally not considered for the initial:",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "first year of the building",
+      "b": "two years of the building",
+      "c": "five years of the building",
+      "d": "twenty years of the building"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1429",
+    "chapter": ""
+  },
+  {
+    "question": "For calculating the minimum value of the ruling radius of horizontal curves in plains, the design speed is taken as",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "12 kmph",
+      "b": "16 kmph",
+      "c": "20 kmph",
+      "d": "24 kmph"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1430",
+    "chapter": ""
+  },
+  {
+    "question": "The life of cement concrete road is taken as",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "5-10 years",
+      "b": "10-15 years",
+      "c": "15-20 years",
+      "d": "25-30 years"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1431",
+    "chapter": ""
+  },
+  {
+    "question": "Meandering of a river generally occurs, in",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "rocky stage",
+      "b": "delta stage",
+      "c": "boulder stage",
+      "d": "trough stage"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1432",
+    "chapter": ""
+  },
+  {
+    "question": "The most suitable location for a canal head work, is",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "boulders stage of the river",
+      "b": "delta stage of the river",
+      "c": "rock stage of the river",
+      "d": "trough stage of the river"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1433",
+    "chapter": ""
+  },
+  {
+    "question": "Groundwater from artesian wells",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "contain no suspended materials",
+      "b": "contain dissolved salts",
+      "c": "require less treatment",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1434",
+    "chapter": ""
+  },
+  {
+    "question": "Asbestos pipes are joined by means by",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "flanged joint",
+      "b": "flexible joint",
+      "c": "simplex joint",
+      "d": "dresser coupling joint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1435",
+    "chapter": ""
+  },
+  {
+    "question": "Civil Aviation Authority of Nepal (CAAN) was established in",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "1947",
+      "b": "1960",
+      "c": "1998",
+      "d": "2000"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1436",
+    "chapter": ""
+  },
+  {
+    "question": "The runway length is increased per 300 m rise above M.S.L",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "4%",
+      "b": "5%",
+      "c": "6%",
+      "d": "7%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1437",
+    "chapter": ""
+  },
+  {
+    "question": "The product El is called",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "flexural rigidity",
+      "b": "torsional rigidity",
+      "c": "second moment of area",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1438",
+    "chapter": ""
+  },
+  {
+    "question": "The property of a material by which it can be drawn to a smaller section, due to tension, is called",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "plasticity",
+      "b": "ductility",
+      "c": "elasticity",
+      "d": "malleability"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1439",
+    "chapter": ""
+  },
+  {
+    "question": "महाकाली नदी भारतमा पुगेपछि के नामले चिनिन्छ ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "घागरा",
+      "b": "महानन्द",
+      "c": "कन्काई",
+      "d": "शारदा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1440",
+    "chapter": ""
+  },
+  {
+    "question": "बालकको सालनाल काट्ने चलन कसले चलाए ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "जयप्रकाश मल्ल",
+      "b": "पृथ्वीनारायण शाह",
+      "c": "अंशूवर्मा",
+      "d": "प्रचण्डदेव"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1441",
+    "chapter": ""
+  },
+  {
+    "question": "आर्थिक सर्वेक्षण, २०७९/८० अनुसार नेपालमा ब्यापारको योगदान कति प्रतिशत छ ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "११.३९%",
+      "b": "१३.३९%",
+      "c": "१५.३९%",
+      "d": "१८.३९%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1442",
+    "chapter": ""
+  },
+  {
+    "question": "अन्तराष्ट्रिय जैविक विविधता दिवस कहिले मनाइन्छ ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "जुन २१",
+      "b": "जुन २२",
+      "c": "मे २१",
+      "d": "मे २२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1443",
+    "chapter": ""
+  },
+  {
+    "question": "क्रेडिट र डेबिट कार्डको सन्दर्भमा VISA को पूरा रुप के हो ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "Virtual International Service Agency",
+      "b": "Verification of International Spending Authority",
+      "c": "Visa International Service Association",
+      "d": "Virtual International Spending Authorization"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1444",
+    "chapter": ""
+  },
+  {
+    "question": "स्वाइन फ्लू को कारण _____ हो ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "H5N1",
+      "b": "H1N1",
+      "c": "Herpes Zoster",
+      "d": "Mumps virus"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1445",
+    "chapter": ""
+  },
+  {
+    "question": "संविधानको पालना र संरक्षण गर्नु संविधानबमोजिम कसको प्रमुख कर्तव्य भनी तोकिएको छ ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "राष्ट्रपति",
+      "c": "उप-राष्ट्रपति",
+      "d": "नागरिक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1446",
+    "chapter": ""
+  },
+  {
+    "question": "संयुक्त राष्ट्रसंघको पहिलो विशिष्टीकृत संस्था कुन हो ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "WHO",
+      "b": "UNICEF",
+      "c": "UNDP",
+      "d": "ILO"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1447",
+    "chapter": ""
+  },
+  {
+    "question": "आसियानका त्रिमूर्ति भनेर कुन कुन देशलाई चिनिन्छ् ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "थाइल्याण्ड, मलेसिया र इन्डोनेसिया",
+      "b": "थाइल्याण्ड, मलेसिया र भियतनाम",
+      "c": "मलेसिया, इन्डोनेसिया र लाओस",
+      "d": "इन्डोनेसिया, सिङ्गापुर र मलेसिया"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1448",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा उत्पादित हाइड्रोजनबाट पहिलो पटक सवारीसाधन सञ्चालन कहिले गरियो ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "वि.सं २०८० चैत १२",
+      "b": "वि.सं २०८० चैत १५",
+      "c": "वि.सं २०८० चैत १८",
+      "d": "वि.सं २०८० चैत २१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1449",
+    "chapter": ""
+  },
+  {
+    "question": "सरकारी कार्यालयमा महीनाको समाप्ति पछि तयार गरिने अभिलेखलाई के भनिन्छ ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "गोश्वारा भौचर",
+      "b": "भुक्तानी आदेश",
+      "c": "खर्चको फाँटबारी",
+      "d": "आर्थिक विवरण"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1450",
+    "chapter": ""
+  },
+  {
+    "question": "सचिवको पदावधि कति वर्षको हुन्छ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "२",
+      "b": "४",
+      "c": "३",
+      "d": "५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1451",
+    "chapter": ""
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ को कुल बजेट को कति प्रतिशत बजेट पुँजीगत तर्फ छ ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "१७.५%",
+      "b": "१६.२५%",
+      "c": "१७.२५%",
+      "d": "१६.५ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1452",
+    "chapter": ""
+  },
+  {
+    "question": "कुन कथन गलत छ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो।",
+      "b": "सार्वजनिक सेवा प्रवाह नागरिकको अधिकार हो।",
+      "c": "सार्वजनिक सेवा प्रवाह सुशासनको आधार हो।",
+      "d": "सार्वजनिक सेवा प्रवाहमा निजी क्षेत्रको संलग्नता रहदैन।"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1453",
+    "chapter": ""
+  },
+  {
+    "question": "सुशासन नियमावली अनुसार जिल्लास्तरीय क्षतिपूर्तिको निर्धारण समितिमा कति जना सदस्य हुन्छन्",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "३",
+      "b": "५",
+      "c": "७",
+      "d": "९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1454",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following are associated with bureaucracy ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "Maxwell",
+      "b": "Henry Fayol",
+      "c": "Max Weber",
+      "d": "FW Taylor"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1455",
+    "chapter": ""
+  },
+  {
+    "question": "ERG theory was propounded by",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "Alderfer",
+      "b": "Vroom",
+      "c": "Herzberg",
+      "d": "Heisenberg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1456",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा स्थानीय विकास विभागको स्थापना कहिले भएको थियो ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "वि.सं. २०२५",
+      "b": "वि.सं. २०२६",
+      "c": "वि.सं. २०२७",
+      "d": "वि.सं. २०२८"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1457",
+    "chapter": ""
+  },
+  {
+    "question": "मानव अधिकारका सिद्धान्तहरु तलका मध्ये कुन होइन ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "स्वतन्त्रता र समानता",
+      "b": "सामाजिक न्याय",
+      "c": "अहरणियता र एकरुपता",
+      "d": "दया, माया र कृपाबाट प्राप्त हुने अधिकार"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1458",
+    "chapter": ""
+  },
+  {
+    "question": "काठमाडौं-निजगढ द्रुत मार्गको लम्बाइ कति रहेको छ ?",
+    "topic": "संघ (sub engineer) - II",
+    "options": {
+      "a": "७२.५ कि.मि.",
+      "b": "७३.५ कि.मि.",
+      "c": "७४.५ कि.मि.",
+      "d": "७५.५ कि.मि."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1459",
+    "chapter": ""
+  }
+]

@@ -1,0 +1,701 @@
+[
+  {
+    "question": "The magnitude of capillary rise is more in",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "silts",
+      "b": "sands",
+      "c": "clays",
+      "d": "gravels"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "307",
+    "chapter": ""
+  },
+  {
+    "question": "Bernoulli's equation is applied to",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "venturimeter",
+      "b": "orifice meter",
+      "c": "pitot tube",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "308",
+    "chapter": ""
+  },
+  {
+    "question": "The rate of flow through V-notch varies as",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "H",
+      "b": "H1/2",
+      "c": "H3/2",
+      "d": "H5/2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "309",
+    "chapter": ""
+  },
+  {
+    "question": "The upper surface of weir over which water flows is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "crest",
+      "b": "notch",
+      "c": "top level",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "310",
+    "chapter": ""
+  },
+  {
+    "question": "The specific gravity of sandy soils/ gravel is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "<1.5",
+      "b": "<2.0",
+      "c": ">2.0",
+      "d": ">2.5"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "311",
+    "chapter": ""
+  },
+  {
+    "question": "Which sequence is correct regarding different coefficient of friction in increasing order",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "Kp-Ka-Ko",
+      "b": "Ka-Ko-Kp",
+      "c": "Ko-Kp-Ka",
+      "d": "Kp-Ko-Ka"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "312",
+    "chapter": ""
+  },
+  {
+    "question": "For the same soil, increase in compaction effort",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "does not affect OMC",
+      "b": "increases OMC",
+      "c": "decreases OMC",
+      "d": "decreases dry density"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "313",
+    "chapter": ""
+  },
+  {
+    "question": "Particle size range is measured by",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "effective size",
+      "b": "uniformity coefficient",
+      "c": "coefficient of curvature",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "314",
+    "chapter": ""
+  },
+  {
+    "question": "The neutral axis of a T-beam exists",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "within the flange",
+      "b": "at the bottom edge of the slab",
+      "c": "below the slab",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "315",
+    "chapter": ""
+  },
+  {
+    "question": "Modulus of elasticity for concrete improves by",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "age",
+      "b": "higher w/c ratio",
+      "c": "shorter curing period",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "316",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum reinforcement in a column to consider the practical problem",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "4%",
+      "b": "5%",
+      "c": "6%",
+      "d": "8%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "317",
+    "chapter": ""
+  },
+  {
+    "question": "Identify the correct relationship that exists among the modulus of elasticity (E), modulus of rigidity (N) and bulk modulus (k) is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "E= (3K+N)/9KN",
+      "b": "E= 3KN/(3K+N)",
+      "c": "E= 9KN/(3K+N)",
+      "d": "E= K/N"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "318",
+    "chapter": ""
+  },
+  {
+    "question": "The deflection due to couple M at the free end of a cantilever length L is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "ML/EI",
+      "b": "ML²/2EI",
+      "c": "2ML/EI",
+      "d": "M²L/2EI"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "319",
+    "chapter": ""
+  },
+  {
+    "question": "The working edge of the alidade is called",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "fiducial edge",
+      "b": "knife edge",
+      "c": "broad edge",
+      "d": "plane table edge"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "320",
+    "chapter": ""
+  },
+  {
+    "question": "The surface perpendicular to the direction of gravity is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "horizontal surface",
+      "b": "level surface",
+      "c": "horizon",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "321",
+    "chapter": ""
+  },
+  {
+    "question": "The two-point problem as compared to the three-point problem is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "more laborious",
+      "b": "more accurate",
+      "c": "quicker",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "322",
+    "chapter": ""
+  },
+  {
+    "question": "The permissible limits of error in tacheometry survey is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "1:1000",
+      "b": "1:4000",
+      "c": "1:500",
+      "d": "1:250"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "323",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following grades of bitumen is harder?",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "30/40",
+      "b": "60/70",
+      "c": "80/100",
+      "d": "all are equal"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "324",
+    "chapter": ""
+  },
+  {
+    "question": "Water absorption of cement should not be more than",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "15%",
+      "d": "20%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "325",
+    "chapter": ""
+  },
+  {
+    "question": "The best primer used for structural steelwork is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "zinc oxide",
+      "b": "red lead",
+      "c": "white lead",
+      "d": "iron oxide"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "326",
+    "chapter": ""
+  },
+  {
+    "question": "Low porosity brick has",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "low-strength",
+      "b": "high-strength",
+      "c": "more absorption capacity",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "327",
+    "chapter": ""
+  },
+  {
+    "question": "The investigation method suitable for shallow depths is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "borings",
+      "b": "open excavation",
+      "c": "geophysical",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "328",
+    "chapter": ""
+  },
+  {
+    "question": "The weight and fall used in standard penetrometer test to drive the cone are",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "50 kg and 50 cm",
+      "b": "60 kg and 60 cm",
+      "c": "70 kg and 70 cm",
+      "d": "65 kg and 75 cm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "329",
+    "chapter": ""
+  },
+  {
+    "question": "The inner section of the cavity wall is generally known as",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "buttress",
+      "b": "leaf wall",
+      "c": "pilaster",
+      "d": "pillar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "330",
+    "chapter": ""
+  },
+  {
+    "question": "The functional organization system of working was introduced by",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "Henry Gantt",
+      "b": "F.W Taylor",
+      "c": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "331",
+    "chapter": ""
+  },
+  {
+    "question": "A golden rule for the procurement of construction work, suggests",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "100% at site",
+      "b": "67% at the site and 33% under procurement",
+      "c": "50% at the site and 50% under procurement",
+      "d": "33% at the site and 67% under procurement"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "332",
+    "chapter": ""
+  },
+  {
+    "question": "The pre-qualification criteria is approved by __________.",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "Project manager",
+      "b": "Superintending engineer",
+      "c": "Senior divisional engineer",
+      "d": "Department head"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "333",
+    "chapter": ""
+  },
+  {
+    "question": "The standard width of the CGI sheet is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "32”",
+      "b": "40”",
+      "c": "50”",
+      "d": "60”"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "334",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of welding and soldering of plates",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "quintal"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "335",
+    "chapter": ""
+  },
+  {
+    "question": "The weight of a 10 mm diameter mild steel rod per meter length is equal to",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "0.22 kg",
+      "b": "0.32 kg",
+      "c": "0.42 kg",
+      "d": "0.62 kg"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "336",
+    "chapter": ""
+  },
+  {
+    "question": "A water-bound macadam road is an example of",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "rigid pavement",
+      "b": "semi-rigid pavement",
+      "c": "flexible pavement",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "337",
+    "chapter": ""
+  },
+  {
+    "question": "The raised portion of the road between the longitudinal rut is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "rut",
+      "b": "pot height",
+      "c": "camber",
+      "d": "reel"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "338",
+    "chapter": ""
+  },
+  {
+    "question": "A ____________ is used to level the ground and spread the loose material.",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "Excavator",
+      "b": "Scraper",
+      "c": "Grader",
+      "d": "Tractor"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "339",
+    "chapter": ""
+  },
+  {
+    "question": "The ideal shape of a transition curve, is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "clothoid",
+      "b": "lemniscate",
+      "c": "cubic parabola",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "340",
+    "chapter": ""
+  },
+  {
+    "question": "The ________________ rollers are considered most suitable for compacting clayey soil or soil containing a mixture of sand and clay.",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "Smooth wheeled",
+      "b": "Sheep’s foot",
+      "c": "Deadweight",
+      "d": "Pneumatic"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "341",
+    "chapter": ""
+  },
+  {
+    "question": "The process by which unculturable soil made culturable is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "reclamation",
+      "b": "leaching",
+      "c": "efflorescence",
+      "d": "salinity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "342",
+    "chapter": ""
+  },
+  {
+    "question": "Guide banks for training a river at the site of a bridge or weir, are called",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "safe bunds",
+      "b": "guide bunds",
+      "c": "side bunds",
+      "d": "bell bunds"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "343",
+    "chapter": ""
+  },
+  {
+    "question": "The consumptive use of water in a crop",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "is measured in terms of the depth of water on the irrigated area",
+      "b": "is measured by the volume of water per unit area",
+      "c": "is partly supplied by precipitation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "344",
+    "chapter": ""
+  },
+  {
+    "question": "The uplift pressure acting on a dam is controlled by",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "pressure grouting in the foundation",
+      "b": "constructing drainage channels between the dam and its foundation",
+      "c": "constructing cutoff under the upstream face",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "345",
+    "chapter": ""
+  },
+  {
+    "question": "The types of irrigation is during low quantity of water",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "sprinkler irrigation",
+      "b": "drip irrigation",
+      "c": "free flooding",
+      "d": "furrow method"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "346",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum depth of infiltration gallery is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "2 m",
+      "b": "3 m",
+      "c": "4 m",
+      "d": "5m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "347",
+    "chapter": ""
+  },
+  {
+    "question": "PVC pipes can withstand pressure up to",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "20m head of water",
+      "b": "50m head of water",
+      "c": "100m head of water",
+      "d": "150m head of water"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "348",
+    "chapter": ""
+  },
+  {
+    "question": "The most suitable sewer in a separate sewage system is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "circular section",
+      "b": "rectangular section",
+      "c": "egg-shaped section",
+      "d": "modified egg-shaped section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "349",
+    "chapter": ""
+  },
+  {
+    "question": "The working conditions in Imhoff tanks is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "aerobic only",
+      "b": "anaerobic only",
+      "c": "aerobic in the lower and anaerobic in the upper compartment",
+      "d": "anaerobic in the lower and aerobic upper compartment"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "350",
+    "chapter": ""
+  },
+  {
+    "question": "Widely used pipe for rural water supply in Nepal is",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "HDP pipes",
+      "b": "G.I. pipes",
+      "c": "PVC pipes",
+      "d": "C.I. pipes"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "351",
+    "chapter": ""
+  },
+  {
+    "question": "निजामति सेवा ऐन २०४९ मा कति समुहका निजामति सेवाको गठन सम्बन्धी व्यवस्था गरिएको छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "८",
+      "b": "९",
+      "c": "१०",
+      "d": "११"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "352",
+    "chapter": ""
+  },
+  {
+    "question": "लुथर गुलिकको व्यवस्थापनका कार्यहरु POSDCORB मा B भन्नाले के कुझिन्छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "Budgeting",
+      "b": "Briefing",
+      "c": "Broadcasting",
+      "d": "Buffering"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "353",
+    "chapter": ""
+  },
+  {
+    "question": "In Excel which symbol must all formula begin with?",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "@",
+      "b": "(",
+      "c": "+",
+      "d": "="
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "354",
+    "chapter": ""
+  },
+  {
+    "question": "सुशासन नियमावली २०६५ को नियम ३५ अनुसार तुरुन्त लेखिएको चिठ्ठिको जवाफ कति दिन भित्र पठाइसक्नु पर्नेछ?",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "२ दिन भित्र",
+      "b": "५ दिन भित्र",
+      "c": "७ दिन भित्र",
+      "d": "१५ दिन भित्र"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "355",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा सबै कार्यालयमा नागरिक वडापत्रको पूर्ण कार्यन्वयन कहिले भयो?",
+    "topic": "Lumbini Pradesh(sub engineer) - III",
+    "options": {
+      "a": "वि.सं. २०५६",
+      "b": "वि.सं. २०६१",
+      "c": "वि.सं. २०७०",
+      "d": "वि.सं. २०७३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "356",
+    "chapter": ""
+  }
+]

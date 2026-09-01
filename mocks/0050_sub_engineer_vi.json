@@ -1,0 +1,702 @@
+[
+  {
+    "question": "नेपालको कुल क्षेत्रफलको भित्री तराईले कति प्रतिशत जमिन ओगटेको छ ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "८.५%",
+      "b": "७.५%",
+      "c": "९.५%",
+      "d": "५.५%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1760",
+    "chapter": ""
+  },
+  {
+    "question": "लिचछविकालमा प्रहरी प्रमुखलाई के नामले चिनिन्थ्यो?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "सर्वदण्डनायक",
+      "b": "महा सर्वदण्डनायक",
+      "c": "दण्डनायक",
+      "d": "महा- यमात्य"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1761",
+    "chapter": ""
+  },
+  {
+    "question": "Anti -Retroviral therapy (ART) कुन रोगसँग सम्बन्धित छ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "HIV एड्स",
+      "b": "कुष्ठरोग",
+      "c": "क्यानसर",
+      "d": "कालाजार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1762",
+    "chapter": ""
+  },
+  {
+    "question": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रालय अन्तर्गत कतिओटा शाखाहरू रहेको छन्?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "६",
+      "b": "१५",
+      "c": "२१",
+      "d": "३१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1763",
+    "chapter": ""
+  },
+  {
+    "question": "प्याकेज डिल अन्तर्गत नेपालसँगै संयुक्त राष्ट्र संघमा सदस्यता पाउने सार्क मुलुक कुन हो?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "भारत",
+      "b": "श्रीलंका",
+      "c": "बंग्लादेश",
+      "d": "भुटान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1764",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालले कूटनैतिक सम्बन्ध कायम गरेको अन्तिम आसियान मुलुक कुन हो?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "मलेसिया",
+      "b": "लाओस",
+      "c": "ब्रुनाई",
+      "d": "कम्बोडिया"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1765",
+    "chapter": ""
+  },
+  {
+    "question": "पाँचौ इसा अवार्ड २०२३ प्राप्त गर्ने व्यक्ति काे हुन?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "डा. सन्दुक रुइत",
+      "b": "गौरीशंकर लाल दास",
+      "c": "निलमनी ढुङ्गाना",
+      "d": "रामचन्द्र अधिकारी"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1766",
+    "chapter": ""
+  },
+  {
+    "question": "कार्यालय प्रबन्धककाे जिम्मेवारी कुन हुन्छ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "मौज्दातलाई व्यवस्थापन गर्नु",
+      "b": "कार्यलय गतिविधि र सञ्चालन समन्वय गर्ने",
+      "c": "आगन्तुककाे स्वागत गर्नु",
+      "d": "कार्यलय वित्तीय विवरणको अभिलेख राख्नु"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1767",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती सेवा ऐन, २०४९ काे कति परिच्छेदमा निजामती कर्मचारीले पालना गर्नुपर्ने आचरण सम्बन्धी ब्यबस्था गरिएको छ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "परिच्छेद ५",
+      "b": "परिच्छेद ७",
+      "c": "परिच्छेद ९",
+      "d": "परिच्छेद ११"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1768",
+    "chapter": ""
+  },
+  {
+    "question": "अख्तियार दुरपयोग अनुसन्धान आयोगमा प्रमुख र सदस्यको नियुक्ति कसले गर्दछ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "राष्ट्रपति",
+      "c": "मन्त्रालय सचिव",
+      "d": "संवैधानिक परिषद"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1769",
+    "chapter": ""
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगको स्थापना कहिले भयो?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "सन् २००५",
+      "b": "सन् २००८",
+      "c": "सन् २०११",
+      "d": "सन् २०१३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1770",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा बजेटको सुरूवात कहिले देखि भएको हो?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "वि.सं २००५ चैत्र ५",
+      "b": "वि.सं २००७ माघ ८",
+      "c": "वि.सं २००८ माघ २१",
+      "d": "वि.सं २०११ माघ २१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1771",
+    "chapter": ""
+  },
+  {
+    "question": "जोन मेजरले नागरिक वडापत्रमा दिएको सिद्धान्तहरु मध्ये कुन पर्दैन्?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Value",
+      "b": "Accountability",
+      "c": "Transforming",
+      "d": "Quality"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1772",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक व्यवस्थापनका पिता काे हुन ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "FW Taylor",
+      "b": "Henry Fayol",
+      "c": "Widrow Wilson",
+      "d": "Max Weber"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1773",
+    "chapter": ""
+  },
+  {
+    "question": "सामन्यतया अध्यामितक मूल्य मान्यतामा देहायको कुन कुरा पर्दैन्?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "परोपकार",
+      "b": "प्रतिस्पर्धा",
+      "c": "क्षमा",
+      "d": "साहस"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1774",
+    "chapter": ""
+  },
+  {
+    "question": "निर्देशनकाे सिद्धान्त कुन होइन?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "प्रभावकारी सञ्चार",
+      "b": "प्रत्यक्ष सुपरिवेक्षण",
+      "c": "अनुगमन",
+      "d": "मितव्ययिता"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1775",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधानको धारा ४८ मा उल्लेखित नागरिकको कर्तव्य अन्तर्गत तलका मध्ये कुन पर्दैन्?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "संविधानको पालना गर्नु",
+      "b": "राज्यले चाहेको बखत अनिवार्य सेवा गर्नु",
+      "c": "सामाजिक र सांस्कृतिक रुपान्तरण गर्नु",
+      "d": "सार्वजनिक सम्पत्तिको सुरक्षा र संरक्षण गर्नु"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1776",
+    "chapter": ""
+  },
+  {
+    "question": "A poor fix of the table is",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "when the station is within the great triangle",
+      "b": "when the station is near the great circle",
+      "c": "the angle subtended is small",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1777",
+    "chapter": ""
+  },
+  {
+    "question": "The levelling head of a transit theodolite consists of",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "parallel plates",
+      "b": "a tribarch plate",
+      "c": "levelling screws",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1778",
+    "chapter": ""
+  },
+  {
+    "question": "The bearing of the traverse line is calculated by",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "included angle method",
+      "b": "deflection angle method",
+      "c": "both (a) and (b) of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1779",
+    "chapter": ""
+  },
+  {
+    "question": "Strength of cement with storage",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "same",
+      "d": "difficult to tell"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1780",
+    "chapter": ""
+  },
+  {
+    "question": "The fineness of cement is tested by:",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Air permeability method",
+      "b": "Le-chatelier method",
+      "c": "Vicat's apparatus",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1781",
+    "chapter": ""
+  },
+  {
+    "question": "The paint which gives illumination during the night is called",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "fluorescent paint",
+      "b": "cellulose paint",
+      "c": "enamel paint",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1782",
+    "chapter": ""
+  },
+  {
+    "question": "The value of Poisson's ratio always remains",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "greater than one",
+      "b": "less than one",
+      "c": "equal to one",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1783",
+    "chapter": ""
+  },
+  {
+    "question": "A beam extending beyond the supports is called",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "simply supported beam",
+      "b": "fixed beam",
+      "c": "overhanging beam",
+      "d": "cantilever beam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1784",
+    "chapter": ""
+  },
+  {
+    "question": "A strut is a",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "flexible member",
+      "b": "torsion member",
+      "c": "compression member",
+      "d": "tension member"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1785",
+    "chapter": ""
+  },
+  {
+    "question": "The specific gravity of water is taken as",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "0.001",
+      "b": "0.01",
+      "c": "0.1",
+      "d": "1"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1786",
+    "chapter": ""
+  },
+  {
+    "question": "The viscosity of liquids varies with temperature",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "directly proportional",
+      "b": "inversely proportional",
+      "c": "constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1787",
+    "chapter": ""
+  },
+  {
+    "question": "In flow, the liquid particles may possess",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "potential energy",
+      "b": "kinetic energy",
+      "c": "pressure energy",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1788",
+    "chapter": ""
+  },
+  {
+    "question": "Soil containing organic matters -",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "are of spongy nature",
+      "b": "swells with decrease in moisture",
+      "c": "shrink with increase of moisture",
+      "d": "all of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1789",
+    "chapter": ""
+  },
+  {
+    "question": "The shear strength in plastic untrained clay is due to:",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Inter- granular friction",
+      "b": "Internal friction",
+      "c": "Cohesion",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1790",
+    "chapter": ""
+  },
+  {
+    "question": "The secondary compression failure in RCC beam is caused in:",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Over reinforced beam",
+      "b": "Under reinforced beam",
+      "c": "Balanced beam",
+      "d": "All types of beam"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1791",
+    "chapter": ""
+  },
+  {
+    "question": "The area of the concrete in compression plus the area of reinforcement transferred on the basis of modular ratio is called:",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Transferred section",
+      "b": "Equivalent section",
+      "c": "Cracked section",
+      "d": "None of above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1792",
+    "chapter": ""
+  },
+  {
+    "question": "Which type of scaffolding are provided with ledgers and braces one close to the wall and the other at a distance of 1.5m from the first:",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Single scaffolding",
+      "b": "Double scaffolding",
+      "c": "Suspended scaffolding",
+      "d": "Trestle scaffolding"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1793",
+    "chapter": ""
+  },
+  {
+    "question": "The aggregates of _____ Shape have maximum voids :",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Irregular",
+      "b": "Angular",
+      "c": "Rounded",
+      "d": "Flaky"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1794",
+    "chapter": ""
+  },
+  {
+    "question": "Most important source of water for public water supply is:",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Lakes",
+      "b": "Ponds",
+      "c": "Streams",
+      "d": "Rivers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1795",
+    "chapter": ""
+  },
+  {
+    "question": "In combined sewers the minimum velocity of flow should not be less than:",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "0.6 m/sec",
+      "b": "0.75 m/sec",
+      "c": "1 m/sec",
+      "d": "6 m/sec"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1796",
+    "chapter": ""
+  },
+  {
+    "question": "A river training work is generally required when river is :",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Meandering",
+      "b": "Aggrading",
+      "c": "Degrading",
+      "d": "All of above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1797",
+    "chapter": ""
+  },
+  {
+    "question": "In a concrete canal , the approximate permissible velocity is :",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "0.5 m/min",
+      "b": "1 m/min",
+      "c": "2 m/min",
+      "d": "None of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1798",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum design gradient for vertical profile of road is:",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Ruling gradient",
+      "b": "Limiting gradient",
+      "c": "Exceptional gradient",
+      "d": "Minimum gradient"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1799",
+    "chapter": ""
+  },
+  {
+    "question": "The drains constructed on up slope of hill sides, are known as-",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Cross drains",
+      "b": "Under drains",
+      "c": "Catch water drains",
+      "d": "Side drains"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1800",
+    "chapter": ""
+  },
+  {
+    "question": "The technique of finding the fair price of an existing building is known as-",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Estimating",
+      "b": "Valuation",
+      "c": "Pricing",
+      "d": "Costing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1801",
+    "chapter": ""
+  },
+  {
+    "question": "The measurements of steel grills is taken in terms of -",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Volume",
+      "b": "Weight",
+      "c": "Area",
+      "d": "None of above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1802",
+    "chapter": ""
+  },
+  {
+    "question": "PERT stands for",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "Program Estimation and Reporting Technique",
+      "b": "Process Estimation of Review Technique",
+      "c": "Program Evaluation and Review Technique",
+      "d": "Project Evaluation and Review Technique"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1803",
+    "chapter": ""
+  },
+  {
+    "question": "Bid security in a contract is required",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "during bidding process",
+      "b": "after bidding process",
+      "c": "during contract signing",
+      "d": "after contract signing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1804",
+    "chapter": ""
+  },
+  {
+    "question": "The marking of the taxiway is yellow while the apron is",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "yellow",
+      "b": "white",
+      "c": "red",
+      "d": "blue"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1805",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum width of the clearway is",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "50 m",
+      "b": "100 m",
+      "c": "150 m",
+      "d": "250 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1806",
+    "chapter": ""
+  },
+  {
+    "question": "दिगो विकास लक्ष्य ( SDG) काे कतीओैँ लक्ष्य उर्जा क्षेत्रसँग सम्बन्धित रहेकाे छ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "SDG 5",
+      "b": "SDG 7",
+      "c": "SDG 9",
+      "d": "SDG 11"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1807",
+    "chapter": ""
+  },
+  {
+    "question": "सूर्य र चन्द्रमाको व्यास नाप्ने तरिका सर्वप्रथम पत्ता लगाउने वैज्ञानिक काे हुन् ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "ग्यालिलियो ग्यालिली",
+      "b": "अल्बर्ट आइन्स्टाइन",
+      "c": "आर्किमीडीज",
+      "d": "थोमस एल्वा एडिसन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1808",
+    "chapter": ""
+  },
+  {
+    "question": "१६ओैँ योजनाका अन्त्य सम्म गरिबी रेखामुनि रहेकाे जनसङ्ख्या (निरपेक्ष गरिबी) कति प्रतिशत राख्न लक्ष्य राखेको छ ?",
+    "topic": "संघ (sub engineer) - VI",
+    "options": {
+      "a": "9.5%",
+      "b": "10.3%",
+      "c": "12%",
+      "d": "7.3%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1809",
+    "chapter": ""
+  }
+]

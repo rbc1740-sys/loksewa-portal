@@ -1,6 +1,6 @@
-const CACHE_NAME = 'loksewa-prep-v2';
-const STATIC_CACHE = 'loksewa-static-v2';
-const DYNAMIC_CACHE = 'loksewa-dynamic-v2';
+const CACHE_NAME = 'loksewa-prep-v3';
+const STATIC_CACHE = 'loksewa-static-v3';
+const DYNAMIC_CACHE = 'loksewa-dynamic-v3';
 
 const STATIC_ASSETS = [
   '/',
@@ -51,6 +51,21 @@ const QUESTION_ASSETS = [
   'questions/surveying.json',
   'questions/sustainable_development_science_and_technology.json',
   'questions/uno_saarc_and_bimstec.json',
+  'questions/airport_engineering.json',
+  'questions/building_construction_technology.json',
+  'questions/federal_affairs_and_general_administration.json',
+  'questions/general_information_and_legislation.json',
+  'questions/highway_engineering.json',
+  'questions/human_rights_good_governance.json',
+  'questions/human_values_and_civic_duties.json',
+  'questions/hydraulics.json',
+  'questions/iq_reasoning.json',
+  'questions/irrigation_engineering.json',
+  'questions/mechanics_of_materials_and_structures.json',
+  'questions/office_management.json',
+  'questions/public_health_nutrition.json',
+  'questions/water_supply_and_sanitation_engineering.json',
+  'mock-tests.json',
 ];
 
 async function installSW() {

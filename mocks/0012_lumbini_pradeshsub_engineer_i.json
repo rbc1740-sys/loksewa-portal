@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The attraction among different particles of same material is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "adhesion",
+      "b": "cohesion",
+      "c": "corrosion",
+      "d": "fusion"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "208",
+    "chapter": ""
+  },
+  {
+    "question": "The two depth at which the specific energy is the same is called",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "alternate depths",
+      "b": "conjugate depths",
+      "c": "critical depths",
+      "d": "normal depth"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "209",
+    "chapter": ""
+  },
+  {
+    "question": "If the velocity of fluid particles varies from point to point in magnitude and direction, as well as from instant to instant, the flow is said to be",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "laminar",
+      "b": "turbulent flow",
+      "c": "uniform flow",
+      "d": "non-uniform flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "210",
+    "chapter": ""
+  },
+  {
+    "question": "1 m head is equivalent to",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "0.1kg/cm²",
+      "b": "0.2kg/cm²",
+      "c": "0.3kg/cm²",
+      "d": "0.4kg/cm²"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "211",
+    "chapter": ""
+  },
+  {
+    "question": "The most effective method for compacting sand is by using",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "pneumatic rollers",
+      "b": "sheep foot rollers",
+      "c": "steel tyred rollers",
+      "d": "vibration"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "212",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum size of grains of silts is about",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "0.002 mm",
+      "b": "0.0002 mm",
+      "c": "0.02 mm",
+      "d": "0.2 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "213",
+    "chapter": ""
+  },
+  {
+    "question": "The permissible settlement in case of isolated foundation on clayey soils is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "25 mm",
+      "b": "45 mm",
+      "c": "65 mm",
+      "d": "85 mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "214",
+    "chapter": ""
+  },
+  {
+    "question": "The degree of saturation of soil is generally",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "100%",
+      "b": "below zero",
+      "c": "between 0% and 100%",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "215",
+    "chapter": ""
+  },
+  {
+    "question": "The reinforcement is bent at an inclination of ______ angle at the ends of the beam.",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "45°",
+      "b": "60°",
+      "c": "135°",
+      "d": "90°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "216",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum number of main bars in the circular column is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "12"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "217",
+    "chapter": ""
+  },
+  {
+    "question": "The ultimate tensile strength of structural mild steel is about",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "160 N/mm²",
+      "c": "520 N/mm²",
+      "b": "260 N/mm²",
+      "d": "420 N/mm²"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "218",
+    "chapter": ""
+  },
+  {
+    "question": "If a rod is simultaneously pulled at both of its ends, it will be a case of",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "axial loading",
+      "b": "vertical loading",
+      "c": "horizontal loading",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "219",
+    "chapter": ""
+  },
+  {
+    "question": "The method of increasing fatigue resistance by overstressing the metal by successively increasing the loading is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "compounding",
+      "b": "coaxing",
+      "c": "relaxing",
+      "d": "enduring"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "220",
+    "chapter": ""
+  },
+  {
+    "question": "Geodetic surveying is different from plane surveying because of",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "a vast area is covered",
+      "b": "the curvature of the earth is considered",
+      "c": "undulations of the topography",
+      "d": "the significant difference in elevations"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "221",
+    "chapter": ""
+  },
+  {
+    "question": "The representation of general topography of a very flat terrain is possible only",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "by drawing possible only",
+      "b": "by drawing contours at large interval",
+      "c": "by giving spot levels at large interval",
+      "d": "by giving spot levels to salient features of close interval"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "222",
+    "chapter": ""
+  },
+  {
+    "question": "The tangent to the liquid surface in a level tube, is parallel to the axis of the level tube at",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "every point of the bubble",
+      "b": "either end of the bubble",
+      "c": "the midpoint of the bubble",
+      "d": "nowhere"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "223",
+    "chapter": ""
+  },
+  {
+    "question": "Theodolite traverse is plotted more accurately by",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "consecutive ordinate of each section",
+      "b": "independent coordinates of each section",
+      "c": "inclined angle & scaling off each traverse leg",
+      "d": "the tangent method of plotting"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "224",
+    "chapter": ""
+  },
+  {
+    "question": "The radiators of vehicles are painted with",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "asbestos paint",
+      "b": "plastic paint",
+      "c": "oil paint",
+      "d": "bronze paint"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "225",
+    "chapter": ""
+  },
+  {
+    "question": "During compressive strength load is applied at the rate of",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "10 N/mm²/Min",
+      "b": "12 N/mm²/Min",
+      "c": "14 N/mm²/Min",
+      "d": "16 N/mm²/Min"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "226",
+    "chapter": ""
+  },
+  {
+    "question": "The softest rock is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "marble",
+      "b": "talc",
+      "c": "diamond",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "227",
+    "chapter": ""
+  },
+  {
+    "question": "The temperature at which bricks are burnt varies from (low melting clay)",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "400° to 700°C",
+      "b": "700° to 1000°C",
+      "c": "1000 to 1200 C",
+      "d": "1200° to 1500° C"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "228",
+    "chapter": ""
+  },
+  {
+    "question": "Concrete is generally reinforced by bars made of",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "cast iron",
+      "b": "mild steel",
+      "c": "medium steel",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "229",
+    "chapter": ""
+  },
+  {
+    "question": "King closers are related to",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "King post truss",
+      "b": "Queen post truss",
+      "c": "Brick masonry",
+      "d": "Doors and windows"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "230",
+    "chapter": ""
+  },
+  {
+    "question": "When D.P.C is to be laid over large areas. The material preferred is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "cement concrete",
+      "b": "mastic asphalt",
+      "c": "bitumen felt",
+      "d": "strips of lead"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "231",
+    "chapter": ""
+  },
+  {
+    "question": "An EPC contract means",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "end of planning and construction",
+      "b": "evaluation, planning and construction",
+      "c": "engineering, planning and construction",
+      "d": "engineering, procurement and construction"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "232",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the documents is prepared and submitted by the contractor?",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "Bid document",
+      "b": "Quality control plan",
+      "c": "Quality assurance plan",
+      "d": "Specification"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "233",
+    "chapter": ""
+  },
+  {
+    "question": "The price adjustment clause is essential for a contract having a duration greater than _______ months.",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "6",
+      "b": "12",
+      "c": "15",
+      "d": "20"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "234",
+    "chapter": ""
+  },
+  {
+    "question": "The contingency during preparation of estimate of any project in Nepalese context is limited to",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "4 %",
+      "b": "5 %",
+      "c": "10 %",
+      "d": "15 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "235",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum size of the pipe connected to septic tank is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "50 mm",
+      "b": "100 mm",
+      "c": "150 mm",
+      "d": "200 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "236",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of 50 mm thick DPC is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "237",
+    "chapter": ""
+  },
+  {
+    "question": "In gravel roads the binding material used is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "cement",
+      "b": "lime",
+      "c": "clay",
+      "d": "surkhi"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "238",
+    "chapter": ""
+  },
+  {
+    "question": "The thickness of the road surfacing depends upon the",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "type of traffic",
+      "b": "intensity of traffic",
+      "c": "type of material",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "239",
+    "chapter": ""
+  },
+  {
+    "question": "The ideal form of the curve for the summit curve",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "spiral",
+      "b": "parabola",
+      "c": "circle",
+      "d": "lemniscates"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "240",
+    "chapter": ""
+  },
+  {
+    "question": "The normal height of the driver's eye (NRS 2070) above the road surface is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "120 cm above road level",
+      "b": "150 cm above road level",
+      "c": "180 cm above road level",
+      "d": "200 cm above road level"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "241",
+    "chapter": ""
+  },
+  {
+    "question": "The thickness of pavement may be reduced considerably be",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "compaction of soil",
+      "b": "stabilization of soil",
+      "c": "draining of soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "242",
+    "chapter": ""
+  },
+  {
+    "question": "Sandy soils with good drainage become impermeable after prolonged use, if it is irrigated with a water containing ______ sodium.",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "25 %",
+      "b": "50 %",
+      "c": "75 %",
+      "d": "85 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "243",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum discharge through a circular channel takes place when the depth of flow equal to",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "0.95 times the diameter",
+      "b": "0.8 times the diameter",
+      "c": "0.6 times the diameter",
+      "d": "0.5 times the diameter"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "244",
+    "chapter": ""
+  },
+  {
+    "question": "The upstream face of an earthen dam, is",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "a flow line",
+      "b": "a phreatic line",
+      "c": "a cubic parabola",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "245",
+    "chapter": ""
+  },
+  {
+    "question": "In a barrage, the crest level is kept",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "low with large gates",
+      "b": "high with large gates",
+      "c": "high with no gates",
+      "d": "low with no gates"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "246",
+    "chapter": ""
+  },
+  {
+    "question": "Irrigation distributor canals are generally aligned along",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "contour line",
+      "b": "valley line",
+      "c": "ridge line",
+      "d": "straight line"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "247",
+    "chapter": ""
+  },
+  {
+    "question": "The most important sources of water for public water supply, is from",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "lakes",
+      "b": "ponds",
+      "c": "streams",
+      "d": "rivers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "248",
+    "chapter": ""
+  },
+  {
+    "question": "Steel pipes are",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "generally laid underground and no expansion joint is required",
+      "b": "connected by riveted or welded joints",
+      "c": "suitable for withstanding high internal pressure.",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "249",
+    "chapter": ""
+  },
+  {
+    "question": "Ovoid sewers are best suited for",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "separate system",
+      "b": "combined system with less fluctuations",
+      "c": "combined system with very wide fluctuations",
+      "d": "outfall sewer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "250",
+    "chapter": ""
+  },
+  {
+    "question": "The time in a septic tank is usually",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "1-2 hours",
+      "b": "5-6 hours",
+      "c": "18-24 hours",
+      "d": "22-24 hours"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "251",
+    "chapter": ""
+  },
+  {
+    "question": "The process of removing extra common salt from the water through distillation, solar, etc is:",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "Desalination",
+      "b": "Fluoridation",
+      "c": "Satiation",
+      "d": "Supra saltodation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "252",
+    "chapter": ""
+  },
+  {
+    "question": "निजामति ऐन ताथ नियमावली अनुसार बढुवाको लागि कार्यसम्पादन मूल्याङकन वापत कति अंक राखिएको छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "४०",
+      "b": "३०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "253",
+    "chapter": ""
+  },
+  {
+    "question": "System theory का प्रतिपादक को हुन?",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "Henry Fayol",
+      "b": "Talcot Parson",
+      "c": "Elton mayo",
+      "d": "Max weber"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "254",
+    "chapter": ""
+  },
+  {
+    "question": "What is the shortcut key for “Find and Replace” dialog box?",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "ctrl + F",
+      "b": "ctrl + H",
+      "c": "ctrl + R",
+      "d": "ctrl + shift + F"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "255",
+    "chapter": ""
+  },
+  {
+    "question": "माथिल्लो, निकाय वा कार्यालयबाट आफ्नो मातहतको कार्यलय वा कर्मचारीलाई सुचना दिने वा जानकारी दिने वा मार्गदर्शन पठाउने पेत्रलाई के भनिन्छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "तोकआदेश",
+      "b": "परिपत्र",
+      "c": "टिप्पणी",
+      "d": "चलानी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "256",
+    "chapter": ""
+  },
+  {
+    "question": "यी मध्ये पिछडिएको क्षेत्र अन्तर्गत कुन जिल्ला पर्दैन ?",
+    "topic": "Lumbini Pradesh(sub engineer) - I",
+    "options": {
+      "a": "कालिकोट",
+      "b": "डोटी",
+      "c": "मुगु",
+      "d": "जाजरकोट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "257",
+    "chapter": ""
+  }
+]

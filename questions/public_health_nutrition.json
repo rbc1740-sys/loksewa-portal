@@ -1,0 +1,2312 @@
+[
+  {
+    "question": "सर्वप्रथम जनस्वास्थ्यको अवधारणा कुन देशबाट सुरु भएको हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जर्मनी",
+      "b": "फ्रान्स",
+      "c": "बेलायत",
+      "d": "दक्षिण अफ्रिका"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7112",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "जनस्वास्थ्य सम्बन्धी कानून बनाउने पहिलो देश कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "इटाली",
+      "b": "जापान",
+      "c": "बेलायत",
+      "d": "फ्रान्स"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7113",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "जनस्वास्थ्य कार्यक्रमको सुरुवात कुन रोगको महामारीका कारण भएको मानिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "हैजा",
+      "b": "पोलियो",
+      "c": "कुष्ठरोग",
+      "d": "क्षय रोग"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7114",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "जनस्वास्थ्यको प्राथमिक लक्ष्य के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "व्यक्तिगत बिरामीहरूको उपचार गर्नु",
+      "b": "जनसंख्यास्तरमा रोगको रोकथाम र स्वास्थ्यको प्रवर्द्धन गर्नु",
+      "c": "नयाँ औषधिहरूको क्लिनिकल परीक्षण सञ्चालन गर्नु",
+      "d": "शल्यक्रियाको प्रविधिहरू विकास गर्नु"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7115",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "जनस्वास्थ्य सुनिश्चित गर्ने प्रमुख उपायहरू के के हुन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सुरक्षित पानीको आपूर्ति",
+      "b": "पर्याप्त पोषण",
+      "c": "सरसफाई र स्वच्छता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7116",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालमा पहिलोपटक पोलियो खोप कहिले खुवाइयो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "वि.सं २०५३",
+      "b": "वि.सं २०५४",
+      "c": "वि.सं २०५५",
+      "d": "वि.सं २०५६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7117",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम एड्स कहिले भेटिएको थियो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९८८",
+      "b": "सन् १९८९",
+      "c": "सन् १९९०",
+      "d": "सन् १९९१"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7118",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपाल सरकारले २० वर्षीय स्वास्थ्य नीति कहिले ल्याएको थियो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "वि.सं २०५४",
+      "b": "वि.सं २०६४",
+      "c": "वि.सं २०५३",
+      "d": "वि.सं २०६३"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7119",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपाल आँखा बैंकको स्थापना कहिले भएको हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९८०",
+      "b": "सन् १९८४",
+      "c": "सन् १९९०",
+      "d": "सन् १९९४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7120",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालमा क्षयरोगको उपचारका लागि डट्स कार्यक्रम कहिलेदेखि सुरु भएको थियो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९८५",
+      "b": "सन् १९९०",
+      "c": "सन् १९९३",
+      "d": "सन् १९९६"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7121",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालमा स्वास्थ्य बिमा कार्यक्रम कहिलेबाट सुरु भएको थियो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "वि.सं २०७२",
+      "b": "वि.सं २०७३",
+      "c": "वि.सं २०७४",
+      "d": "वि.सं २०७५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7122",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "UNICEF को स्थापना कहिले भएको हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९३६",
+      "b": "सन् १९३७",
+      "c": "सन् १९४६",
+      "d": "d सन् १९४७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7123",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय मुटु दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जुन १४",
+      "b": "सेप्टेम्बर २९",
+      "c": "अक्टोबर १६",
+      "d": "डिसेम्बर ३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7124",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व क्षयरोग दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मार्च २४",
+      "b": "मार्च २२",
+      "c": "मे २४",
+      "d": "मे २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7125",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व स्वास्थ्य दिवस कहिले मनाइन्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "अप्रिल ७",
+      "b": "अप्रिल ८",
+      "c": "मे ७",
+      "d": "मे ८"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7126",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "Evolution शब्दको सबैभन्दा पहिले प्रयोग गर्ने व्यक्ति को हुन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "J.B Delemark",
+      "b": "Herbert Spencer",
+      "c": "Empedocle and Buffon",
+      "d": "Charles Darwin"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7127",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "Trend of evolution को बारेमा सबैभन्दा पहिले वर्णन गर्ने व्यक्ति को हुन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "J.B Delemark",
+      "b": "Herbert Spencer",
+      "c": "Empedocle and Buffon",
+      "d": "Charles Darwin"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7129",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "Father of evolution theory भनेर कसलाई चिनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Herbert Spencer",
+      "b": "J.B Delemark",
+      "c": "Empedocle and Buffon",
+      "d": "Charles Darwin"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7130",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "मानिसको सामान्यतया यौवन अवस्था कति वर्षदेखि सुरु हुन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "१० वर्ष",
+      "b": "११ वर्ष",
+      "c": "१२ वर्ष",
+      "d": "१३ वर्ष"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7131",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "Evolution लाई descent with modification भनेर परिभाषित गर्ने व्यक्ति को हुन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "J.B Delemark",
+      "b": "Herbert Spencer",
+      "c": "Empedocle and Buffon",
+      "d": "Charles Darwin"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7132",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "रातो रक्तकोषको औसत आयु कति समय हुन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "१०० दिन",
+      "b": "१२० दिन",
+      "c": "१४० दिन",
+      "d": "१५० दिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7133",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "लामखुट्टेबाट लाग्ने जीका भाइरस पहिलोपटक विश्वमा कहाँ पत्ता लागेको थियो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "बेलायत",
+      "b": "युगान्डा",
+      "c": "चीन",
+      "d": "अमेरिका"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7134",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व हात धुने दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "अक्टोबर २४",
+      "b": "अक्टोबर १५",
+      "c": "नोभेम्बर ३१",
+      "d": "नोभेम्बर १२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7135",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व अर्बुद रोग (क्यान्सर) दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मार्च २२",
+      "b": "फ्रेबअरी ४",
+      "c": "अप्रिल ७",
+      "d": "मार्च २४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7136",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व स्वास्थ्य दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मार्च २२",
+      "b": "फ्रेबअरी ४",
+      "c": "अप्रिल ७",
+      "d": "मार्च २४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7137",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "सामान्यतया मानिसले एक मिनेटमा कति पटक श्वासप्रश्वास लिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "१२ देखि १४ पटक",
+      "b": "१४ देखि १८ पटक",
+      "c": "१८ देखि २० पटक",
+      "d": "२० देखि २५ पटक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7138",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "सामान्य रूपमा गर्भ रहेको कति हप्तापछि बच्चा जन्मिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "३९ हप्ता",
+      "b": "४० हप्ता",
+      "c": "४१ हप्ता",
+      "d": "४२ हप्ता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7140",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "उत्परिवर्तनका पिता (Father of Mutation) भनेर कसलाई चिनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "चार्ल्स डार्विन",
+      "b": "लेमार्क",
+      "c": "ह्यूगो डे व्रीस",
+      "d": "ग्रेगर मेन्डेल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7141",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व रक्तदान दिवस कहिले पर्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जून १४",
+      "b": "अप्रिल १५",
+      "c": "सेप्टेम्बर २",
+      "d": "जुलाई ६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7142",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "ग्रेगर जोन मेण्डलले सर्वप्रथम क्रम विकासको बारेमा के को अध्ययन गरेका थिए ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "आँपको रुख",
+      "b": "गहुँको बोट",
+      "c": "केराउको बोट",
+      "d": "गुलाब"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7143",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व एड्स दिवस कहिले पर्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "डिसेम्बर १",
+      "b": "अक्टोबर १५",
+      "c": "सेप्टेम्बर २९",
+      "d": "जून १८"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7144",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "वंशाणु विज्ञानका पिता भनेर कस्लाई चिनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "चार्ल्स डार्विन",
+      "b": "लेमार्क",
+      "c": "ह्यूगो डे व्रीस",
+      "d": "ग्रेगर मेन्डेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7145",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "दुखाई मापन गर्ने यन्त्र कुन हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "ब्रेथलाइजर",
+      "b": "हाइड्रोमिटर",
+      "c": "हेलिस्कोप",
+      "d": "एल्गोमिटर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7146",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालको वर्तमान संविधानको कुन धारामा 'स्वास्थ्य सम्बन्धी हक' भन्ने मौलिक हक समेटिएको छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "धारा ३३",
+      "b": "धारा ३४",
+      "c": "धारा ३५",
+      "d": "धारा ३६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7147",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "पानीको घनत्व सबैभन्दा बढी हुने अवस्था कति हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "४°c",
+      "b": "७५°c",
+      "c": "२५°c",
+      "d": "१००°c"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7148",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "Modern genetics का पिता भनेर कसलाई चिनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "डार्बिन",
+      "b": "टी.एच मोर्गन",
+      "c": "मेन्डल",
+      "d": "एल्टन मेयो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7149",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "DPT को पूरा रुप के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Direct Primary Therapy",
+      "b": "Dual-Purpose Treatment",
+      "c": "Diphtheria Pertussis Tetanus",
+      "d": "Direct Post Treatment"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7150",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "PCR को पूरा रुप के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Protein Chain Reaction",
+      "b": "Polymerase Chain Reaction",
+      "c": "Polypeptide Chain Reaction",
+      "d": "Prokaryotic Chain Reaction"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7151",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "What does RDT stand for in medical diagnostics?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Rapid Diagnostic Test",
+      "b": "Reactive Diagnostic Test",
+      "c": "Random Diagnostic Test",
+      "d": "Relative Diagnostic Test"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7152",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "DNA को पूरा रुप के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Deoxyribonucleic Acid",
+      "b": "Deoxyribose nucleic Acid",
+      "c": "Deoxyribonucleic Agent",
+      "d": "Deoxy Ribo Nitric Acid"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7153",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "RNA को पूरा रुप के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Ribosomal Nucleic Acid",
+      "b": "Ribonucleic Acid",
+      "c": "Ribose Nucleic Acid",
+      "d": "Ribo Nitric Acid"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7154",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "खाल्डे चर्पी पानीको स्रोतबाट कति टाढा हुनुपर्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "३० फिट",
+      "b": "४० फिट",
+      "c": "५० फिट",
+      "d": "६० फिट"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7155",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "मानिसको शरीरमा कति प्रकारका मांसपेशी हुन्छन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "२",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7156",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "बेरीबेरी रोग कुन भिटामिनको कमीले गर्दा लाग्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "भिटामिन A1",
+      "b": "भिटामिन A2",
+      "c": "भिटामिन B1",
+      "d": "भिटामिन B2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7157",
+    "chapter": "रोग"
+  },
+  {
+    "question": "भिटामिन B3 को कमीले मानिसको शरीरमा के देखा पर्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "बेरीबेरी रोग",
+      "b": "मुखमा घाउ",
+      "c": "जिब्रोमा घाउ",
+      "d": "पेलेग्रा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7158",
+    "chapter": "रोग"
+  },
+  {
+    "question": "मानव शरीरमा केको मात्रा कम भए निलोपन ( Cyanosis) देखिन्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Carbon Dioxide",
+      "b": "Nitrogen",
+      "c": "Oxygen",
+      "d": "Iron"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7159",
+    "chapter": "रोग"
+  },
+  {
+    "question": "आउँ कति प्रकारका हुन्छन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "एक",
+      "b": "दुई",
+      "c": "तीन",
+      "d": "चार"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7160",
+    "chapter": "रोग"
+  },
+  {
+    "question": "Polimyelist रोगको सङ्क्रमणकाल कति दिन हुन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "५ देखि ७ दिन",
+      "b": "७ देखि १७ दिन",
+      "c": "१७ देखि २१ दिन",
+      "d": "२१ देखि २५ दिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7161",
+    "chapter": "रोग"
+  },
+  {
+    "question": "बच्चालाई बि.सि.जी खोप कहिले दिइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जन्मिने बित्तिकै",
+      "b": "जन्मिएदेखि एक वर्ष भित्रको उमेरमा",
+      "c": "जन्मिएदेखि दुई वर्ष भित्रको उमेरमा",
+      "d": "जन्मिएदेखि तीन वर्ष भित्रको उमेरमा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7162",
+    "chapter": "रोग"
+  },
+  {
+    "question": "भ्यागुते रोग विरुद्ध डि.पि.टी खोप दिइन्छ भने लहरे खोकी विरुद्ध दिइने खोप कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "बि.सि.जी",
+      "b": "डि.पि.टी",
+      "c": "टी.टी",
+      "d": "कुनै पनी होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7163",
+    "chapter": "रोग"
+  },
+  {
+    "question": "तलका मध्ये कुन चाँही सरुवा रोग होइन ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "दादुरा",
+      "b": "हैजा",
+      "c": "मधुमेह",
+      "d": "हेपटाइटिस-बी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7164",
+    "chapter": "रोग"
+  },
+  {
+    "question": "Photo Therapy के सँग सम्बन्धित छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "क्षयरोग",
+      "b": "मधुमेह",
+      "c": "क्यान्सर",
+      "d": "जन्डिस"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7165",
+    "chapter": "रोग"
+  },
+  {
+    "question": "AZT के को उपचारमा प्रयोग गरिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Malaria",
+      "b": "Aids",
+      "c": "Anemia",
+      "d": "Scurvy"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7166",
+    "chapter": "रोग"
+  },
+  {
+    "question": "विश्वमा कोभिड १९ बाट बढी संक्रमित हुने देश कुन हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "America",
+      "b": "England",
+      "c": "India",
+      "d": "China"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7167",
+    "chapter": "रोग"
+  },
+  {
+    "question": "Neisseria gonorrhoeae ब्याक्टेरियाबाट कुन यौन संचारित संक्रमण हुन्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सिफिलिस",
+      "b": "क्लामाइडिया",
+      "c": "गोनोरिया",
+      "d": "हरपीज"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7168",
+    "chapter": "रोग"
+  },
+  {
+    "question": "एम.एम.आर (MMR) भ्याक्सिन कुन कुन सरुवा रोगबाट बचावट गर्नका लागि दिइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "दादुरा",
+      "b": "हाँडे",
+      "c": "रुबेला",
+      "d": "सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7169",
+    "chapter": "रोग"
+  },
+  {
+    "question": "भिटामिन E को कमीले लाग्ने रोग कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "बेरी बेरी",
+      "b": "स्कोरभी",
+      "c": "रिकेट्रस",
+      "d": "बाझोपन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7170",
+    "chapter": "रोग"
+  },
+  {
+    "question": "भिटामिन A को कमीले लाग्ने रोग कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "बेरी बेरी",
+      "b": "स्कोरभी",
+      "c": "रिकेट्रस",
+      "d": "रतन्दो"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7171",
+    "chapter": "रोग"
+  },
+  {
+    "question": "कुन रोग विषाणु समूहमा पर्दैन ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "पोलियोमाइलाइटिस",
+      "b": "विफर",
+      "c": "हाँडे",
+      "d": "औलो"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7172",
+    "chapter": "रोग"
+  },
+  {
+    "question": "कुन रोग विषाणु समूहमा पर्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "आउ",
+      "b": "लुतो",
+      "c": "हाँडे",
+      "d": "औलो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7173",
+    "chapter": "रोग"
+  },
+  {
+    "question": "रगतको क्यान्सरलाई के भनिन्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "ल्युकेमिया",
+      "b": "लिम्फोमा",
+      "c": "माइलोमा",
+      "d": "हेमान्जियोमा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7174",
+    "chapter": "रोग"
+  },
+  {
+    "question": "हेपाटाइटिसले मुख्यतया कुन अंगलाई असर गर्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मुटु",
+      "b": "कलेजो",
+      "c": "मृगौला",
+      "d": "फोक्सो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7175",
+    "chapter": "रोग"
+  },
+  {
+    "question": "क्षयरोगको कारक तत्व के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Plasmodium",
+      "b": "Mycobacterium tuberculosis",
+      "c": "Streptococcus",
+      "d": "Escherichia coli"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7176",
+    "chapter": "रोग"
+  },
+  {
+    "question": "तलका मध्ये कुन अटोइम्यून रोगले जोर्नीहरूलाई असर गर्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "दम",
+      "b": "गठिया",
+      "c": "मधुमेह",
+      "d": "ओस्टियोपोरोसिस"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7177",
+    "chapter": "रोग"
+  },
+  {
+    "question": "जिका भाइरस सर्ने प्राथमिक माध्यम के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "लामखुट्टेको टोकाइ",
+      "b": "दूषित पानी",
+      "c": "वायुजनित थोपा",
+      "d": "संक्रमित व्यक्तिसँग प्रत्यक्ष सम्पर्क"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7178",
+    "chapter": "रोग"
+  },
+  {
+    "question": "चमेरोको टोकाइबाट कुन रोग लाग्न सक्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जिका भाइरस",
+      "b": "एरिथमिया",
+      "c": "मम्प्स",
+      "d": "रेबिज"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7179",
+    "chapter": "रोग"
+  },
+  {
+    "question": "तीव्र, अनियमित हृदयघातले कुन विकारलाई बुझाउँछ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Hypertension",
+      "b": "Arrhythmia",
+      "c": "Diabetes",
+      "d": "Osteoarthritis"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7180",
+    "chapter": "रोग"
+  },
+  {
+    "question": "अस्पतालमा डाक्टरसँग लाग्ने डरलाई के भनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Latrophobia",
+      "b": "gynophobia",
+      "c": "Doctophobia",
+      "d": "Thalassophobia"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7181",
+    "chapter": "रोग"
+  },
+  {
+    "question": "जिका भाइरस कुन लामखुट्टेको टोकाइबाट सर्ने गर्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "एडेस",
+      "b": "मार्स",
+      "c": "एसियिन टाइगर",
+      "d": "कुलिसिने"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7182",
+    "chapter": "रोग"
+  },
+  {
+    "question": "रेबिज कुन भाइरसका कारणले लाग्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Rhabdovirus",
+      "b": "Lyssavirus",
+      "c": "Orthomyxovirus",
+      "d": "Coronaviridae"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7183",
+    "chapter": "रोग"
+  },
+  {
+    "question": "भ्यागुते रोग कुन जिवाणुको संक्रमणले लाग्दछ् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Corynebacterium Diphtheriae",
+      "b": "Escherichia coli (E. coli)",
+      "c": "Staphylococcus aureus",
+      "d": "Bacillus subtilis"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7184",
+    "chapter": "रोग"
+  },
+  {
+    "question": "म्यादे ज्वरो कुन जिवाणुबाट लाग्ने गर्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Human Immunodeficiency Virus",
+      "b": "Influenza Virus",
+      "c": "Herpes Simplex Virus",
+      "d": "Salmone typhi"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7185",
+    "chapter": "रोग"
+  },
+  {
+    "question": "दादुरा रोग कहिले पत्ता लागेको हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९३०",
+      "b": "सन् १९५४",
+      "c": "सन् १९८८",
+      "d": "सन् २००१"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7186",
+    "chapter": "रोग"
+  },
+  {
+    "question": "बच्चालाई दादुरा विरुद्दको खोप कुन समयमा दिइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जन्मिने बित्तिकै",
+      "b": "जन्मिएको नाै महिनादेखि एक वर्ष भित्रको उमेरमा",
+      "c": "जन्मिएको छ महिनादेखि एक वर्ष भित्रको उमेरमा",
+      "d": "जन्मिएदेखि छ महिना भित्रको उमेरमा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7187",
+    "chapter": "रोग"
+  },
+  {
+    "question": "BCG को पूरा रुप के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Bacterial Containment Germ",
+      "b": "Bacillus Calmette Guerin",
+      "c": "Basic Care for Growth",
+      "d": "Biological Cellular Growth"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7188",
+    "chapter": "रोग"
+  },
+  {
+    "question": "AIDS को पूरा रुप के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Acquired Immune Deficiency Syndrome",
+      "b": "Autoimmune Inflammatory Disorder Syndrome",
+      "c": "Antiretroviral Immune Deficiency Syndrome",
+      "d": "Advanced Immunization Deficiency Syndrome"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7189",
+    "chapter": "रोग"
+  },
+  {
+    "question": "क्षयरोग विरुद्ध दिइने खोपलाई के भनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "डि.पी.टी",
+      "b": "बि.सि.जी",
+      "c": "टी.टी",
+      "d": "पोलियो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7190",
+    "chapter": "रोग"
+  },
+  {
+    "question": "PET कुन रोगसँग सम्बन्धित छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "क्षयरोग",
+      "b": "झाडापखाला",
+      "c": "कन्यान्सर",
+      "d": "HIV/AIDS"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7191",
+    "chapter": "रोग"
+  },
+  {
+    "question": "ORT कुन रोगसँग सम्बन्धित छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "क्षयरोग",
+      "b": "झाडापखाला",
+      "c": "कन्यान्सर",
+      "d": "एच.आई.भी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7192",
+    "chapter": "रोग"
+  },
+  {
+    "question": "DOTS कुन रोगसँग सम्बन्धित छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "क्षयरोग",
+      "b": "झाडापखाला",
+      "c": "कन्यान्सर",
+      "d": "एच.आई.भी"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7193",
+    "chapter": "रोग"
+  },
+  {
+    "question": "ART कुन रोगसँग सम्बन्धित छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "क्षयरोग",
+      "b": "झाडापखाला",
+      "c": "कन्यान्सर",
+      "d": "एच.आई.भी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7194",
+    "chapter": "रोग"
+  },
+  {
+    "question": "हात्तीपाइले रोग कुन किटाणुको कारणले लाग्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "राइनो भाइरस",
+      "b": "रेट्रो भाइरस",
+      "c": "क्युलेक्स लामखुट्टे",
+      "d": "भेरिओला भाइरस"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7195",
+    "chapter": "रोग"
+  },
+  {
+    "question": "HIV/AIDS रोग कुन विषाणुको कारणले लाग्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "राइनो भाइरस",
+      "b": "रेट्रो भाइरस",
+      "c": "जिका भाइरस",
+      "d": "भेरिओला भाइरस"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7196",
+    "chapter": "रोग"
+  },
+  {
+    "question": "हैजा रोग कुन विषाणुको कारणले लाग्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "राइनो भाइरस",
+      "b": "रेट्रो भाइरस",
+      "c": "भिब्रियो कलेरा",
+      "d": "जिका भाइरस"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7197",
+    "chapter": "रोग"
+  },
+  {
+    "question": "स्वाइन फ्लू को कारण _____ हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "H5N1",
+      "b": "H1N1",
+      "c": "Herpes Zoster",
+      "d": "Mumps virus"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7198",
+    "chapter": "रोग"
+  },
+  {
+    "question": "कुन रोगलाई आँखाको साइलेन्ट किलर भनेर चिनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मोतीविन्दु",
+      "b": "जलविन्दु",
+      "c": "न्यून दृष्टि",
+      "d": "माथिका सबै"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7199",
+    "chapter": "रोग"
+  },
+  {
+    "question": "SHAPU को पूरा रूप के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Short Hyperacute Pelvic Ulcer",
+      "b": "Seasonal Hyperacute Panuveitis",
+      "c": "Self Help Accounts Production Unit",
+      "d": "Severe Hyperacute Panuveitis"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7200",
+    "chapter": "रोग"
+  },
+  {
+    "question": "नेपालमा SHAPU रोग कहिले देखिएको हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "वि.सं २०१०",
+      "b": "वि.सं २०२२",
+      "c": "वि.सं २०२५",
+      "d": "वि.सं २०३२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7201",
+    "chapter": "रोग"
+  },
+  {
+    "question": "सामान्य मानिसको दैनिक ऊर्जा आवश्यकताको मुख्य स्रोत के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "प्रोटिन",
+      "b": "कार्बोहाइड्रेट",
+      "c": "फ्याट",
+      "d": "भिटामिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7202",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "शरीरको टिश्यु बनाउन र मर्मत गर्न आवश्यक पर्ने प्रमुख पोषक तत्त्व कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "कार्बोहाइड्रेट",
+      "b": "फ्याट",
+      "c": "प्रोटिन",
+      "d": "भिटामिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7203",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "ओमेगा-३ फ्याटी एसिडको प्रमुख स्रोत के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "नट्स",
+      "b": "माछा",
+      "c": "सिट्रस फलफूल",
+      "d": "अवोकाडो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7204",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "भिटामिन K को रासायनिक नाम के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Retinol",
+      "b": "Tocopherol",
+      "c": "Phylloquinone",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7205",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "भिटामिन E को रासायनिक नाम के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Retinol",
+      "b": "Tocopherol",
+      "c": "Phylloquinone",
+      "d": "कुनै पनी होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7206",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "आइरनको कमीले लाग्ने रोग कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "गलगाँड (Goitre)",
+      "b": "रतन्धो (Night Blindness)",
+      "c": "रिकेट्स (Rickets)",
+      "d": "रक्तअल्पता (Anaemia)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7207",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "तलका मध्ये अण्डामा कुन भिटामिन पाइँदैन ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "भिटामिन A",
+      "b": "भिटामिन B",
+      "c": "भिटामिन C",
+      "d": "भिटामिन D"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7208",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "पानीमा घुल्ने भिटामिनहरू के के हुन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "A and D",
+      "b": "E and K",
+      "c": "B and C",
+      "d": "A and K"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7210",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "Scurvy रोग कुन भिटामिनको कमीले लाग्ने गर्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "भिटामिन A",
+      "b": "भिटामिन B",
+      "c": "भिटामिन C",
+      "d": "भिटामिन D"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7211",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "Rickets कुन भिटामिनको कमीले लाग्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "भिटामिन A",
+      "b": "भिटामिन B",
+      "c": "भिटामिन C",
+      "d": "भिटामिन D"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7212",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "भिटामिन A को रासायनिक नाम के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Tocopherol",
+      "b": "Thiamine",
+      "c": "Riboflavin",
+      "d": "Retinol"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7213",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "१ ग्राम कार्बोहाइड्रेटले कति क्यालोरी शक्ति दिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "४ क्यालोरी",
+      "b": "८ क्यालोरी",
+      "c": "१२ क्यालोरी",
+      "d": "१६ क्यालोरी"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7214",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "तलका मध्ये कुन भिटामिन बोसो-घुलनशील(fat soluble) छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "भिटामिन C",
+      "b": "भिटामिन B12",
+      "c": "भिटामिन D",
+      "d": "भिटामिन B6"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7215",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "मानिसको शरीरमा भएको कुन रक्त समूहलाई Universal Receiver भनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "A+",
+      "b": "B+",
+      "c": "AB+",
+      "d": "O-"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7216",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "मानिसको शरीरमा भएको कुन रक्त समूहलाई Universal Donor भनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "A+",
+      "b": "B+",
+      "c": "AB+",
+      "d": "O-"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7217",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "रगत जम्नका लागि कुन भिटामिन आवश्यक छ? (बागमती-२०७९)",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "भिटामिन A",
+      "b": "भिटामिन C",
+      "c": "भिटामिन D",
+      "d": "भिटामिन K"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7218",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "प्रोटिन पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "Gerald Mulder",
+      "b": "Charles Darwin",
+      "c": "Louis Pasteur",
+      "d": "Casimir Funk"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7219",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "प्रोटिनको कमी वा कारणले लाग्ने रोगलाई के भनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सुकेनाश",
+      "b": "फुकेनाश",
+      "c": "पोलियो",
+      "d": "रतन्धो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7220",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "महमा सबैभन्दा बढी पाइने तत्व कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "ग्लुकोज",
+      "b": "फ्रुक्टोज",
+      "c": "सुक्रोज",
+      "d": "माल्टोज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7222",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "बोसोमा घुल्ने भिटामिनहरू कुन कुन हुन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "भिटामिन A",
+      "b": "भिटामिन D",
+      "c": "भिटामिन E र K",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7223",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "प्रोटिनका महत्वपूर्ण स्रोत तलका मध्ये कुन होइन ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "दूध",
+      "b": "अण्डा",
+      "c": "मासु",
+      "d": "आलु"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7224",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "भिटामिन B1 को रासायनिक नाम के हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "थाइमिन",
+      "b": "नाइसिन",
+      "c": "रेटिनोल",
+      "d": "पाइरोडोक्सिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7225",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "सर्वप्रथम जनस्वास्थ्यको अवधारणा कुन देशबाट सुरु भएको हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जर्मनी",
+      "b": "फ्रान्स",
+      "c": "बेलायत",
+      "d": "दक्षिण अफ्रिका"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7112",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "जनस्वास्थ्य सम्बन्धी कानून बनाउने पहिलो देश कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "इटाली",
+      "b": "जापान",
+      "c": "बेलायत",
+      "d": "फ्रान्स"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7113",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "जनस्वास्थ्य कार्यक्रमको सुरुवात कुन रोगको महामारीका कारण भएको मानिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "हैजा",
+      "b": "पोलियो",
+      "c": "कुष्ठरोग",
+      "d": "क्षय रोग"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7114",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "जनस्वास्थ्यको प्राथमिक लक्ष्य के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "व्यक्तिगत बिरामीहरूको उपचार गर्नु",
+      "b": "जनसंख्यास्तरमा रोगको रोकथाम र स्वास्थ्यको प्रवर्द्धन गर्नु",
+      "c": "नयाँ औषधिहरूको क्लिनिकल परीक्षण सञ्चालन गर्नु",
+      "d": "शल्यक्रियाको प्रविधिहरू विकास गर्नु"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7115",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "जनस्वास्थ्य सुनिश्चित गर्ने प्रमुख उपायहरू के के हुन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सुरक्षित पानीको आपूर्ति",
+      "b": "पर्याप्त पोषण",
+      "c": "सरसफाई र स्वच्छता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7116",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालमा पहिलोपटक पोलियो खोप कहिले खुवाइयो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "वि.सं २०५३",
+      "b": "वि.सं २०५४",
+      "c": "वि.सं २०५५",
+      "d": "वि.सं २०५६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7117",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम एड्स कहिले भेटिएको थियो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९८८",
+      "b": "सन् १९८९",
+      "c": "सन् १९९०",
+      "d": "सन् १९९१"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7118",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपाल सरकारले २० वर्षीय स्वास्थ्य नीति कहिले ल्याएको थियो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "वि.सं २०५४",
+      "b": "वि.सं २०६४",
+      "c": "वि.सं २०५३",
+      "d": "वि.सं २०६३"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7119",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपाल आँखा बैंकको स्थापना कहिले भएको हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९८०",
+      "b": "सन् १९८४",
+      "c": "सन् १९९०",
+      "d": "सन् १९९४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7120",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालमा क्षयरोगको उपचारका लागि डट्स कार्यक्रम कहिलेदेखि सुरु भएको थियो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९८५",
+      "b": "सन् १९९०",
+      "c": "सन् १९९३",
+      "d": "सन् १९९६"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7121",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालमा स्वास्थ्य बिमा कार्यक्रम कहिलेबाट सुरु भएको थियो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "वि.सं २०७२",
+      "b": "वि.सं २०७३",
+      "c": "वि.सं २०७४",
+      "d": "वि.सं २०७५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7122",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय मुटु दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जुन १४",
+      "b": "सेप्टेम्बर २९",
+      "c": "अक्टोबर १६",
+      "d": "डिसेम्बर ३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7124",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व क्षयरोग दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मार्च २४",
+      "b": "मार्च २२",
+      "c": "मे २४",
+      "d": "मे २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7125",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व स्वास्थ्य दिवस कहिले मनाइन्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "अप्रिल ७",
+      "b": "अप्रिल ८",
+      "c": "मे ७",
+      "d": "मे ८"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7126",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "मानिसको सामान्यतया यौवन अवस्था कति वर्षदेखि सुरु हुन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "१० वर्ष",
+      "b": "११ वर्ष",
+      "c": "१२ वर्ष",
+      "d": "१३ वर्ष"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7131",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "रातो रक्तकोषको औसत आयु कति समय हुन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "१०० दिन",
+      "b": "१२० दिन",
+      "c": "१४० दिन",
+      "d": "१५० दिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7133",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "लामखुट्टेबाट लाग्ने जीका भाइरस पहिलोपटक विश्वमा कहाँ पत्ता लागेको थियो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "बेलायत",
+      "b": "युगान्डा",
+      "c": "चीन",
+      "d": "अमेरिका"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7134",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व हात धुने दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "अक्टोबर २४",
+      "b": "अक्टोबर १५",
+      "c": "नोभेम्बर ३१",
+      "d": "नोभेम्बर १२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7135",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व अर्बुद रोग (क्यान्सर) दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मार्च २२",
+      "b": "फ्रेबअरी ४",
+      "c": "अप्रिल ७",
+      "d": "मार्च २४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7136",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व स्वास्थ्य दिवस कहिले मनाइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मार्च २२",
+      "b": "फ्रेबअरी ४",
+      "c": "अप्रिल ७",
+      "d": "मार्च २४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7137",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "सामान्यतया मानिसले एक मिनेटमा कति पटक श्वासप्रश्वास लिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "१२ देखि १४ पटक",
+      "b": "१४ देखि १८ पटक",
+      "c": "१८ देखि २० पटक",
+      "d": "२० देखि २५ पटक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7138",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "सामान्य रूपमा गर्भ रहेको कति हप्तापछि बच्चा जन्मिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "३९ हप्ता",
+      "b": "४० हप्ता",
+      "c": "४१ हप्ता",
+      "d": "४२ हप्ता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7140",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व रक्तदान दिवस कहिले पर्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जून १४",
+      "b": "अप्रिल १५",
+      "c": "सेप्टेम्बर २",
+      "d": "जुलाई ६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7142",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "ग्रेगर जोन मेण्डलले सर्वप्रथम क्रम विकासको बारेमा के को अध्ययन गरेका थिए ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "आँपको रुख",
+      "b": "गहुँको बोट",
+      "c": "केराउको बोट",
+      "d": "गुलाब"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7143",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "विश्व एड्स दिवस कहिले पर्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "डिसेम्बर १",
+      "b": "अक्टोबर १५",
+      "c": "सेप्टेम्बर २९",
+      "d": "जून १८"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7144",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "वंशाणु विज्ञानका पिता भनेर कस्लाई चिनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "चार्ल्स डार्विन",
+      "b": "लेमार्क",
+      "c": "ह्यूगो डे व्रीस",
+      "d": "ग्रेगर मेन्डेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7145",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "दुखाई मापन गर्ने यन्त्र कुन हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "ब्रेथलाइजर",
+      "b": "हाइड्रोमिटर",
+      "c": "हेलिस्कोप",
+      "d": "एल्गोमिटर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7146",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "नेपालको वर्तमान संविधानको कुन धारामा 'स्वास्थ्य सम्बन्धी हक' भन्ने मौलिक हक समेटिएको छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "धारा ३३",
+      "b": "धारा ३४",
+      "c": "धारा ३५",
+      "d": "धारा ३६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7147",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "खाल्डे चर्पी पानीको स्रोतबाट कति टाढा हुनुपर्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "३० फिट",
+      "b": "४० फिट",
+      "c": "५० फिट",
+      "d": "६० फिट"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7155",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "मानिसको शरीरमा कति प्रकारका मांसपेशी हुन्छन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "२",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7156",
+    "chapter": " जनस्वास्थ्य"
+  },
+  {
+    "question": "आउँ कति प्रकारका हुन्छन् ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "एक",
+      "b": "दुई",
+      "c": "तीन",
+      "d": "चार"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7160",
+    "chapter": "रोग"
+  },
+  {
+    "question": "बच्चालाई बि.सि.जी खोप कहिले दिइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जन्मिने बित्तिकै",
+      "b": "जन्मिएदेखि एक वर्ष भित्रको उमेरमा",
+      "c": "जन्मिएदेखि दुई वर्ष भित्रको उमेरमा",
+      "d": "जन्मिएदेखि तीन वर्ष भित्रको उमेरमा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7162",
+    "chapter": "रोग"
+  },
+  {
+    "question": "भ्यागुते रोग विरुद्ध डि.पि.टी खोप दिइन्छ भने लहरे खोकी विरुद्ध दिइने खोप कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "बि.सि.जी",
+      "b": "डि.पि.टी",
+      "c": "टी.टी",
+      "d": "कुनै पनी होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7163",
+    "chapter": "रोग"
+  },
+  {
+    "question": "तलका मध्ये कुन चाँही सरुवा रोग होइन ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "दादुरा",
+      "b": "हैजा",
+      "c": "मधुमेह",
+      "d": "हेपटाइटिस-बी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7164",
+    "chapter": "रोग"
+  },
+  {
+    "question": "कुन रोग विषाणु समूहमा पर्दैन ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "पोलियोमाइलाइटिस",
+      "b": "विफर",
+      "c": "हाँडे",
+      "d": "औलो"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7172",
+    "chapter": "रोग"
+  },
+  {
+    "question": "कुन रोग विषाणु समूहमा पर्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "आउ",
+      "b": "लुतो",
+      "c": "हाँडे",
+      "d": "औलो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7173",
+    "chapter": "रोग"
+  },
+  {
+    "question": "रगतको क्यान्सरलाई के भनिन्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "ल्युकेमिया",
+      "b": "लिम्फोमा",
+      "c": "माइलोमा",
+      "d": "हेमान्जियोमा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7174",
+    "chapter": "रोग"
+  },
+  {
+    "question": "हेपाटाइटिसले मुख्यतया कुन अंगलाई असर गर्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मुटु",
+      "b": "कलेजो",
+      "c": "मृगौला",
+      "d": "फोक्सो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7175",
+    "chapter": "रोग"
+  },
+  {
+    "question": "तलका मध्ये कुन अटोइम्यून रोगले जोर्नीहरूलाई असर गर्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "दम",
+      "b": "गठिया",
+      "c": "मधुमेह",
+      "d": "ओस्टियोपोरोसिस"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7177",
+    "chapter": "रोग"
+  },
+  {
+    "question": "जिका भाइरस सर्ने प्राथमिक माध्यम के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "लामखुट्टेको टोकाइ",
+      "b": "दूषित पानी",
+      "c": "वायुजनित थोपा",
+      "d": "संक्रमित व्यक्तिसँग प्रत्यक्ष सम्पर्क"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7178",
+    "chapter": "रोग"
+  },
+  {
+    "question": "चमेरोको टोकाइबाट कुन रोग लाग्न सक्छ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जिका भाइरस",
+      "b": "एरिथमिया",
+      "c": "मम्प्स",
+      "d": "रेबिज"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7179",
+    "chapter": "रोग"
+  },
+  {
+    "question": "जिका भाइरस कुन लामखुट्टेको टोकाइबाट सर्ने गर्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "एडेस",
+      "b": "मार्स",
+      "c": "एसियिन टाइगर",
+      "d": "कुलिसिने"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7182",
+    "chapter": "रोग"
+  },
+  {
+    "question": "दादुरा रोग कहिले पत्ता लागेको हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सन् १९३०",
+      "b": "सन् १९५४",
+      "c": "सन् १९८८",
+      "d": "सन् २००१"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7186",
+    "chapter": "रोग"
+  },
+  {
+    "question": "बच्चालाई दादुरा विरुद्दको खोप कुन समयमा दिइन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "जन्मिने बित्तिकै",
+      "b": "जन्मिएको नाै महिनादेखि एक वर्ष भित्रको उमेरमा",
+      "c": "जन्मिएको छ महिनादेखि एक वर्ष भित्रको उमेरमा",
+      "d": "जन्मिएदेखि छ महिना भित्रको उमेरमा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7187",
+    "chapter": "रोग"
+  },
+  {
+    "question": "क्षयरोग विरुद्ध दिइने खोपलाई के भनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "डि.पी.टी",
+      "b": "बि.सि.जी",
+      "c": "टी.टी",
+      "d": "पोलियो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7190",
+    "chapter": "रोग"
+  },
+  {
+    "question": "हात्तीपाइले रोग कुन किटाणुको कारणले लाग्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "राइनो भाइरस",
+      "b": "रेट्रो भाइरस",
+      "c": "क्युलेक्स लामखुट्टे",
+      "d": "भेरिओला भाइरस"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7195",
+    "chapter": "रोग"
+  },
+  {
+    "question": "हैजा रोग कुन विषाणुको कारणले लाग्दछ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "राइनो भाइरस",
+      "b": "रेट्रो भाइरस",
+      "c": "भिब्रियो कलेरा",
+      "d": "जिका भाइरस"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7197",
+    "chapter": "रोग"
+  },
+  {
+    "question": "कुन रोगलाई आँखाको साइलेन्ट किलर भनेर चिनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "मोतीविन्दु",
+      "b": "जलविन्दु",
+      "c": "न्यून दृष्टि",
+      "d": "माथिका सबै"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7199",
+    "chapter": "रोग"
+  },
+  {
+    "question": "सामान्य मानिसको दैनिक ऊर्जा आवश्यकताको मुख्य स्रोत के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "प्रोटिन",
+      "b": "कार्बोहाइड्रेट",
+      "c": "फ्याट",
+      "d": "भिटामिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7202",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "शरीरको टिश्यु बनाउन र मर्मत गर्न आवश्यक पर्ने प्रमुख पोषक तत्त्व कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "कार्बोहाइड्रेट",
+      "b": "फ्याट",
+      "c": "प्रोटिन",
+      "d": "भिटामिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7203",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "ओमेगा-३ फ्याटी एसिडको प्रमुख स्रोत के हो?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "नट्स",
+      "b": "माछा",
+      "c": "सिट्रस फलफूल",
+      "d": "अवोकाडो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7204",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "१ ग्राम कार्बोहाइड्रेटले कति क्यालोरी शक्ति दिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "४ क्यालोरी",
+      "b": "८ क्यालोरी",
+      "c": "१२ क्यालोरी",
+      "d": "१६ क्यालोरी"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7214",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "प्रोटिनको कमी वा कारणले लाग्ने रोगलाई के भनिन्छ ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "सुकेनाश",
+      "b": "फुकेनाश",
+      "c": "पोलियो",
+      "d": "रतन्धो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7220",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "महमा सबैभन्दा बढी पाइने तत्व कुन हो ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "ग्लुकोज",
+      "b": "फ्रुक्टोज",
+      "c": "सुक्रोज",
+      "d": "माल्टोज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7222",
+    "chapter": "खाद्य र पोषण"
+  },
+  {
+    "question": "प्रोटिनका महत्वपूर्ण स्रोत तलका मध्ये कुन होइन ?",
+    "topic": "Public Health, Disease & Nutrition",
+    "options": {
+      "a": "दूध",
+      "b": "अण्डा",
+      "c": "मासु",
+      "d": "आलु"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7224",
+    "chapter": "खाद्य र पोषण"
+  }
+]

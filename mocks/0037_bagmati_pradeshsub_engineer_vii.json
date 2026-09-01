@@ -1,0 +1,702 @@
+[
+  {
+    "question": "मुखियापट्टी मुसहरनियाको समुन्द्र सतहबाट उचाई कति छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "५९ मि",
+      "b": "६० मि",
+      "c": "६१ मि",
+      "d": "६२ मि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1110",
+    "chapter": ""
+  },
+  {
+    "question": "रुकुम जिल्लाको पूर्वी भाग प्रदेश नं कतिमा पर्दछ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "प्रदेश नं ५",
+      "b": "प्रदेश नं २",
+      "c": "प्रदेश नं ७",
+      "d": "प्रदेश नं ४"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1111",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको पहिलो जनगणना कसले सुरू गरेका थिए ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "चन्द्र शमशेर",
+      "b": "भीम शमशेर",
+      "c": "जुद्ध शमशेर",
+      "d": "पद्म शमशेर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1112",
+    "chapter": ""
+  },
+  {
+    "question": "स्टेनलेस स्टिलको आविष्कारक को हुन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "पियरे वार्थियर",
+      "b": "स्नेल",
+      "c": "जेम्स क्लार्क म्यक्स्वेल",
+      "d": "सर फ्रान्सिस ग्यलटन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1113",
+    "chapter": ""
+  },
+  {
+    "question": "७ औं कृषि गणना अनुसार नेपालमा कृषक परिवार संख्या कति छन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "३९ लाख ३० हजार ७८९",
+      "b": "४० लाख ३० हजार ७८९",
+      "c": "४१ लाख ३० हजार ७८९",
+      "d": "४२ लाख ३० हजार ७८९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1114",
+    "chapter": ""
+  },
+  {
+    "question": "संयुक्त राष्ट्रसंघमा सबैभन्दा बढी भिटो प्रयोग गर्ने देश कुन हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "चीन",
+      "b": "अमेरिका",
+      "c": "रसिया",
+      "d": "बेलायत"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1115",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा कति प्रजातिका चराहरू छन्?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "१८१",
+      "b": "१८५",
+      "c": "६३५",
+      "d": "८७०"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1116",
+    "chapter": ""
+  },
+  {
+    "question": "SAFTA के सँग सम्बन्धित छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "SAARC",
+      "b": "BIMSTEC",
+      "c": "UN",
+      "d": "ASEAN"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1117",
+    "chapter": ""
+  },
+  {
+    "question": "सरकारी बजेटको उद्देश्य कुन हो?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "सरकारमाथि नियन्त्रण",
+      "b": "आवधिक योजनाको कार्यान्वयन",
+      "c": "पूँजी निर्माण",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1118",
+    "chapter": ""
+  },
+  {
+    "question": "नागरिक वडापत्रको अवधारणा कसले ल्याएका हुन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "रवर्ट वालपेइ",
+      "b": "डायना",
+      "c": "जोन मेज़र",
+      "d": "एडक स्मिथ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1119",
+    "chapter": ""
+  },
+  {
+    "question": "निजामाति सेवा ऐन २०४९ चौथो पटक संशोधन कहिले भयो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "२०७२/०९/१३",
+      "b": "२०७२/१०/१३",
+      "c": "२०७२/०३/२९",
+      "d": "२०७२/१२/१३"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1120",
+    "chapter": ""
+  },
+  {
+    "question": "यी मध्य कुन निजामती सेवा अन्तर्गत पर्दैन ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "नेपाल कृषि सेवा",
+      "b": "नेपाल न्याय सेवा",
+      "c": "नेपाल वन सेवा",
+      "d": "सबै पर्छन्"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1121",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह सम्बन्धी Next step को सिद्धान्त कसले प्रतिपादूत गरे?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "माग्गरेट थ्याचर, बेलायत",
+      "b": "रोनाल्ड रेगन, अमेरिका",
+      "c": "जोन मेजर, बेलायत",
+      "d": "हुचि मिन्ना, भियतनाम"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1122",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक प्रशासनका मानविय मुल्य र मान्यताले देहायको कुन भुमिका खेल्दछ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "सेवाग्राहीसंग असल व्यवहा",
+      "b": "भष्ट्रचारको निवारण",
+      "c": "मितव्ययिता र पारदर्शिता प्रवद्धन",
+      "d": "माथिको सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1123",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is not related to Human Resource Management?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Employee recruitment policy",
+      "b": "Training and development policy",
+      "c": "Strategic manpower planning",
+      "d": "Strategic inclusion"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1124",
+    "chapter": ""
+  },
+  {
+    "question": "नेतृत्वका लागि देहायका कुन चाहिँ तत्व आवश्यक हुन्छन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "अनुयायीहरु",
+      "b": "परिस्थिति",
+      "c": "नेता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1125",
+    "chapter": ""
+  },
+  {
+    "question": "तलका शब्दहरूमध्येबाट शुद्ध शब्द छान्नुहोस?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "संस्कृती र सहकारी",
+      "b": "संस्कृति र सहकारि",
+      "c": "संस्कृति र सहकारी",
+      "d": "संस्कृति र शहकारी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1126",
+    "chapter": ""
+  },
+  {
+    "question": "तलका शब्दहरूमध्येबाट शुद्ध शब्द छान्नुहोस?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "निरोगीताको प्रमाणपत्रको नमूना",
+      "b": "निरोगीताको प्रमाणपत्रको नमुना",
+      "c": "निरोगिताको प्रमाणपत्रको नमूना",
+      "d": "निरोगिताको प्रमानपत्रको नमूना"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1127",
+    "chapter": ""
+  },
+  {
+    "question": "He wanted to improve his piano playing _______ he wanted to win the competition.",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "so",
+      "b": "but",
+      "c": "because",
+      "d": "therefore"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1128",
+    "chapter": ""
+  },
+  {
+    "question": "Be careful when you walk ____________ the street.",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "through",
+      "b": "above",
+      "c": "across",
+      "d": "up"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1129",
+    "chapter": ""
+  },
+  {
+    "question": "Choose the odd one which is different from the following alternatives.",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Sparrow",
+      "b": "Swan",
+      "c": "Koel",
+      "d": "Parrot"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1130",
+    "chapter": ""
+  },
+  {
+    "question": "A man spends 35% of his income on food, 25% on children's education and 80% of the remaining on house rent. What percent of his income he is left with?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "6 %",
+      "b": "8 %",
+      "c": "10 %",
+      "d": "12 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1131",
+    "chapter": ""
+  },
+  {
+    "question": "Directions : For the Assertion (A) and Reason (R) below, choose the correct alternative Assertion (A) : We prefer to wear white clothes in winter. Reason (R) : White clothes are good reflectors of heat.",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Both A and R are true and R is the correct explanation of A",
+      "b": "Both A and R are true but R is NOT the correct explanation of A",
+      "c": "A is true but R is false",
+      "d": "A is false but R is true"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1132",
+    "chapter": ""
+  },
+  {
+    "question": "If in a certain language, 943 is coded as BED and 12448 is coded as SWEET, how is 492311 coded in that language?",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "EDSWBS",
+      "b": "TSWBDD",
+      "c": "DSWTEE",
+      "d": "EBWDSS"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1133",
+    "chapter": ""
+  },
+  {
+    "question": "What comes next in the series? 8, 6, 9, 23, 87, __",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "129",
+      "b": "329",
+      "c": "429",
+      "d": "529"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1134",
+    "chapter": ""
+  },
+  {
+    "question": "The magnification of a telescope lens depends upon",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "focal length of the eye-piece",
+      "b": "focal length of objective lens",
+      "c": "ratio of (b) and (a) above",
+      "d": "inverse of the ratio of (b) and (a) above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1135",
+    "chapter": ""
+  },
+  {
+    "question": "An angle between the inclined line of sight and the horizontal is called",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "direct angle",
+      "b": "vertical angle",
+      "c": "horizontal angle",
+      "d": "deflection angle"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1136",
+    "chapter": ""
+  },
+  {
+    "question": "The stones obtained by blasting are used as",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "ballast in railways",
+      "b": "aggregates for concrete",
+      "c": "roadmetal",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1137",
+    "chapter": ""
+  },
+  {
+    "question": "The bricks after burning in kilns require about _____ days to cool down for unloading.",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "4",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1138",
+    "chapter": ""
+  },
+  {
+    "question": "The types of hanger used for parking of large size aircraft is called",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "mouth hanger",
+      "b": "nose hanger",
+      "c": "eye hanger",
+      "d": "ear hanger"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1139",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum length of a bar that must be embedded in concrete beyond any section to develop a bond is",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "development length",
+      "b": "lap length",
+      "c": "splice length",
+      "d": "curved length"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1140",
+    "chapter": ""
+  },
+  {
+    "question": "A reinforced concrete beam will crack if tensile stress set up in the concrete below the neutral axis is:",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "less than the permissible stress",
+      "b": "more than the permissible stress",
+      "c": "equal to the permissible stress",
+      "d": "any one of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1141",
+    "chapter": ""
+  },
+  {
+    "question": "The strength of a soil is generally identified by",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "direct tensile stress",
+      "b": "net stress",
+      "c": "ultimate shear stress",
+      "d": "direct ultimate compressive stress"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1142",
+    "chapter": ""
+  },
+  {
+    "question": "The bearing capacity of soil is determined by",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "plate load test",
+      "b": "standard cone test",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1143",
+    "chapter": ""
+  },
+  {
+    "question": "The pressure in pipe flow is normally",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "less than atmospheric pressure",
+      "b": "difference in pressure at two points",
+      "c": "more than atmospheric pressure",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1144",
+    "chapter": ""
+  },
+  {
+    "question": "Hydraulic ram is a pump which works on",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "the principle of water hammer",
+      "b": "for accelerating water flow",
+      "c": "the principle of reciprocation action",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1145",
+    "chapter": ""
+  },
+  {
+    "question": "The compression test is commonly used for testing",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "ductile materials",
+      "b": "rubber",
+      "c": "brittle materials",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1146",
+    "chapter": ""
+  },
+  {
+    "question": "A beam of uniform strength will have at every cross-section the same",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "deflection",
+      "b": "stiffness",
+      "c": "bending moment",
+      "d": "bending stress"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1147",
+    "chapter": ""
+  },
+  {
+    "question": "The supply of paint, varnish and enamel is measured in",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "m3",
+      "b": "litre",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1148",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum width of a septic tank is taken",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "70 cm",
+      "b": "75 cm",
+      "c": "80 cm",
+      "d": "90 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1149",
+    "chapter": ""
+  },
+  {
+    "question": "The independent float affects only",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Proceeding activities",
+      "b": "succeeding activities",
+      "c": "the particular activity",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1150",
+    "chapter": ""
+  },
+  {
+    "question": "Negative float can occur when it is",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "sub-critical activity",
+      "b": "critical activity",
+      "c": "super-critical activity",
+      "d": "normal activity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1151",
+    "chapter": ""
+  },
+  {
+    "question": "The breaking up of cohesion in a mass of concrete is called",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "workability",
+      "b": "bleeding",
+      "c": "segregation",
+      "d": "creep"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1152",
+    "chapter": ""
+  },
+  {
+    "question": "The flash set of ordinary Portland cement paste is",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "premature hardening",
+      "b": "surface hardening only",
+      "c": "without the development of heat of hydration",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1153",
+    "chapter": ""
+  },
+  {
+    "question": "A shallow well is one tapping an aquifer",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "nearest to ground level",
+      "b": "below an impervious layer",
+      "c": "sandwiched in between two impervious layer",
+      "d": "runs through a number of strata"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1154",
+    "chapter": ""
+  },
+  {
+    "question": "Salvaging is",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "extraction of essence from waste",
+      "b": "dumping of solid waste",
+      "c": "sanitary landfilling of solid waste",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1155",
+    "chapter": ""
+  },
+  {
+    "question": "Siddhartha highway connects",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Sunauli-Pokhara",
+      "b": "Kathmandu-Pokhara",
+      "c": "Birgunj-Pokhara",
+      "d": "Dharan-Dhankuta"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1156",
+    "chapter": ""
+  },
+  {
+    "question": "The raising of the outer edge of the road above the inner edge is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "super-elevation",
+      "b": "cant",
+      "c": "banking",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1157",
+    "chapter": ""
+  },
+  {
+    "question": "Weirs are normally used to calculate",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Volume",
+      "b": "Head loss",
+      "c": "Discharge",
+      "d": "Velocity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1158",
+    "chapter": ""
+  },
+  {
+    "question": "The most efficient section of a channel is",
+    "topic": "Bagmati Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "triangular",
+      "b": "rectangular",
+      "c": "square",
+      "d": "trapezoidal"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1159",
+    "chapter": ""
+  }
+]

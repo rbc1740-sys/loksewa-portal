@@ -1,518 +1,1022 @@
 [
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "From which decade is the concept of the public service considered to have emerged?",
-        "options":  {
-                        "a":  "1970s",
-                        "b":  "1980s",
-                        "c":  "New Public Administration",
-                        "d":  "1990s"
-                    },
-        "answer":  "c",
-        "explanation":  "The evolutionary framework of public service administration paradigms aligns closely with the foundational phases of New Public Administration[cite: 12]."
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "From which decade is the concept of the public service considered to have emerged?",
+    "options": {
+      "a": "1970s",
+      "b": "1980s",
+      "c": "New Public Administration",
+      "d": "1990s"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is the principle called that emerged in the 80s advocating reform public service delivery?",
-        "options":  {
-                        "a":  "New Public Service",
-                        "b":  "New Public Management",
-                        "c":  "New Public Governance",
-                        "d":  "Traditional Public Administration"
-                    },
-        "answer":  "b",
-        "explanation":  "New Public Management (NPM) principles emerged prominently during the 1980s to marketize, decentralize, and reform traditional public service delivery[cite: 12]."
+    "answer": "c",
+    "explanation": "The evolutionary framework of public service administration paradigms aligns closely with the foundational phases of New Public Administration[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is the principle called that emerged in the 80s advocating reform public service delivery?",
+    "options": {
+      "a": "New Public Service",
+      "b": "New Public Management",
+      "c": "New Public Governance",
+      "d": "Traditional Public Administration"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which public management concept developed the idea that \"citizens are not customers but also service providers\"?",
-        "options":  {
-                        "a":  "New Public Management (NPM)",
-                        "b":  "New Public Service (NPS)",
-                        "c":  "New Public Governance (NPG)",
-                        "d":  "New Public Passion (NPP)"
-                    },
-        "answer":  "c",
-        "explanation":  "New Public Governance (NPG) emphasizes a pluralistic state model where citizens act not merely as passive customers, but as active co-producers and service providers[cite: 12]."
+    "answer": "b",
+    "explanation": "New Public Management (NPM) principles emerged prominently during the 1980s to marketize, decentralize, and reform traditional public service delivery[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which public management concept developed the idea that \"citizens are not customers but also service providers\"?",
+    "options": {
+      "a": "New Public Management (NPM)",
+      "b": "New Public Service (NPS)",
+      "c": "New Public Governance (NPG)",
+      "d": "New Public Passion (NPP)"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "The New Public Management System is introduced by:",
-        "options":  {
-                        "a":  "Margaret Thatcher",
-                        "b":  "Christopher Hood",
-                        "c":  "Ronald Reagan",
-                        "d":  "Woodrow Wilson"
-                    },
-        "answer":  "b",
-        "explanation":  "Christopher Hood is widely recognized as the prominent academic who formulated and coined the term New Public Management (NPM)[cite: 12]."
+    "answer": "c",
+    "explanation": "New Public Governance (NPG) emphasizes a pluralistic state model where citizens act not merely as passive customers, but as active co-producers and service providers[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "The New Public Management System is introduced by:",
+    "options": {
+      "a": "Margaret Thatcher",
+      "b": "Christopher Hood",
+      "c": "Ronald Reagan",
+      "d": "Woodrow Wilson"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "\"Service should be around the people, not the people around the service.\" This statement relates to which concept of service delivery management framework?",
-        "options":  {
-                        "a":  "New Public Service",
-                        "b":  "New Public Management",
-                        "c":  "Public Administration",
-                        "d":  "New Public Governance"
-                    },
-        "answer":  "a",
-        "explanation":  "A citizen-centric focus that prioritizes community needs over bureaucratic convenience is a core tenet of the New Public Service framework[cite: 12]."
+    "answer": "b",
+    "explanation": "Christopher Hood is widely recognized as the prominent academic who formulated and coined the term New Public Management (NPM)[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "\"Service should be around the people, not the people around the service.\" This statement relates to which concept of service delivery management framework?",
+    "options": {
+      "a": "New Public Service",
+      "b": "New Public Management",
+      "c": "Public Administration",
+      "d": "New Public Governance"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Who are the primary theorists associated with the formulation of the New Public Service?",
-        "options":  {
-                        "a":  "David Osborne and Ted Gaebler",
-                        "b":  "Denhard and Denhard",
-                        "c":  "Woodrow Wilson and Max Weber",
-                        "d":  "Herbert Simon and Dwight Waldo"
-                    },
-        "answer":  "b",
-        "explanation":  "Janet V. Denhardt and Robert B. Denhardt are the primary scholars and theorists who formulated the New Public Service (NPS) theory[cite: 12]."
+    "answer": "a",
+    "explanation": "A citizen-centric focus that prioritizes community needs over bureaucratic convenience is a core tenet of the New Public Service framework[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Who are the primary theorists associated with the formulation of the New Public Service?",
+    "options": {
+      "a": "David Osborne and Ted Gaebler",
+      "b": "Denhard and Denhard",
+      "c": "Woodrow Wilson and Max Weber",
+      "d": "Herbert Simon and Dwight Waldo"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is the central slogan/core tenet of the New Public Service approach?",
-        "options":  {
-                        "a":  "\"Steer, don\u0027t row\"",
-                        "b":  "\"Row, don\u0027t steer\"",
-                        "c":  "\"Serve, rather than steer\"",
-                        "d":  "\"Empower, don\u0027t serve\""
-                    },
-        "answer":  "c",
-        "explanation":  "The core philosophy of NPS is \"Serve, rather than steer,\" emphasizing democratic dialogue, community engagement, and public service over entrepreneurial control[cite: 12]."
+    "answer": "b",
+    "explanation": "Janet V. Denhardt and Robert B. Denhardt are the primary scholars and theorists who formulated the New Public Service (NPS) theory[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is the central slogan/core tenet of the New Public Service approach?",
+    "options": {
+      "a": "\"Steer, don't row\"",
+      "b": "\"Row, don't steer\"",
+      "c": "\"Serve, rather than steer\"",
+      "d": "\"Empower, don't serve\""
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "The term New Public Governance came into use at...",
-        "options":  {
-                        "a":  "Early 1990s",
-                        "b":  "Late 1990s",
-                        "c":  "Early 2000s",
-                        "d":  "Late 2000s / Modern era"
-                    },
-        "answer":  "d",
-        "explanation":  "The paradigm of New Public Governance gained prominence in contemporary administrative discourse reflecting network-based governance structures[cite: 12]."
+    "answer": "c",
+    "explanation": "The core philosophy of NPS is \"Serve, rather than steer,\" emphasizing democratic dialogue, community engagement, and public service over entrepreneurial control[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "The term New Public Governance came into use at:",
+    "options": {
+      "a": "Early 1990s",
+      "b": "Late 1990s",
+      "c": "Early 2000s",
+      "d": "Late 2000s / Modern era"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is public service delivery?",
-        "options":  {
-                        "a":  "Responsibility of the state",
-                        "b":  "Right of the people",
-                        "c":  "Core function of government",
-                        "d":  "All of the above"
-                    },
-        "answer":  "d",
-        "explanation":  "Public service delivery represents both the fundamental constitutional responsibility of the state and an enforceable right of the citizens[cite: 12]."
+    "answer": "d",
+    "explanation": "The paradigm of New Public Governance gained prominence in contemporary administrative discourse reflecting network-based governance structures[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is public service delivery?",
+    "options": {
+      "a": "Responsibility of the state",
+      "b": "Right of the people",
+      "c": "Core function of government",
+      "d": "All of the above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is the primary objective of public service delivery?",
-        "options":  {
-                        "a":  "Serving private sector interests",
-                        "b":  "Increasing political influence",
-                        "c":  "Enhancing citizen welfare",
-                        "d":  "None of the above"
-                    },
-        "answer":  "c",
-        "explanation":  "The fundamental goal of public service delivery is to enhance citizen welfare, social justice, and public good[cite: 12]."
+    "answer": "d",
+    "explanation": "Public service delivery represents both the fundamental constitutional responsibility of the state and an enforceable right of the citizens[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is the primary objective of public service delivery?",
+    "options": {
+      "a": "Serving private sector interests",
+      "b": "Increasing political influence",
+      "c": "Enhancing citizen welfare",
+      "d": "None of the above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What are the bases of public service delivery in Nepal?",
-        "options":  {
-                        "a":  "Constitution of Nepal",
-                        "b":  "Civil Service Act, 2049",
-                        "c":  "Service Delivery Campaign Directive, 2065",
-                        "d":  "All of the above"
-                    },
-        "answer":  "d",
-        "explanation":  "Public service delivery in Nepal is grounded across multiple legal and policy instruments including the Constitution, Civil Service Act, and administrative directives[cite: 12]."
+    "answer": "c",
+    "explanation": "The fundamental goal of public service delivery is to enhance citizen welfare, social justice, and public good[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What are the bases of public service delivery in Nepal?",
+    "options": {
+      "a": "Constitution of Nepal",
+      "b": "Civil Service Act, 2049",
+      "c": "Service Delivery Campaign Directive, 2065",
+      "d": "All of the above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is essential for effective service delivery?",
-        "options":  {
-                        "a":  "Fixed contact points",
-                        "b":  "Customer satisfaction",
-                        "c":  "Defined cost and time",
-                        "d":  "All of the above"
-                    },
-        "answer":  "d",
-        "explanation":  "Effective service delivery relies on clear contact points, measured customer satisfaction, and predictable parameters of cost and processing time[cite: 12]."
+    "answer": "d",
+    "explanation": "Public service delivery in Nepal is grounded across multiple legal and policy instruments including the Constitution, Civil Service Act, and administrative directives[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is essential for effective service delivery?",
+    "options": {
+      "a": "Fixed contact points",
+      "b": "Customer satisfaction",
+      "c": "Defined cost and time",
+      "d": "All of the above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following is NOT a medium of public service delivery?",
-        "options":  {
-                        "a":  "Complaint box",
-                        "b":  "Online platform",
-                        "c":  "Service counter",
-                        "d":  "All of the above are valid mediums"
-                    },
-        "answer":  "d",
-        "explanation":  "Complaint boxes, digital online portals, and physical service counters are all standard operational mediums utilized in public service delivery[cite: 12]."
+    "answer": "d",
+    "explanation": "Effective service delivery relies on clear contact points, measured customer satisfaction, and predictable parameters of cost and processing time[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following is NOT a medium of public service delivery?",
+    "options": {
+      "a": "Complaint box",
+      "b": "Online platform",
+      "c": "Service counter",
+      "d": "All of the above are valid mediums"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following is/are involved in public service delivery?",
-        "options":  {
-                        "a":  "Government",
-                        "b":  "Private sector",
-                        "c":  "NGOs",
-                        "d":  "All of the above"
-                    },
-        "answer":  "d",
-        "explanation":  "Modern governance models involve a pluralistic approach where government agencies, private sectors, and non-governmental organizations participate in service delivery[cite: 12]."
+    "answer": "d",
+    "explanation": "Complaint boxes, digital online portals, and physical service counters are all standard operational mediums utilized in public service delivery[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following is/are involved in public service delivery?",
+    "options": {
+      "a": "Government",
+      "b": "Private sector",
+      "c": "NGOs",
+      "d": "All of the above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which country implemented the \"National Smiling Movement\" for better service delivery?",
-        "options":  {
-                        "a":  "USA",
-                        "b":  "UK",
-                        "c":  "Malaysia",
-                        "d":  "Singapore"
-                    },
-        "answer":  "c",
-        "explanation":  "Malaysia introduced the \"National Smiling Movement\" as part of administrative cultural reforms to promote courteous and responsive public service[cite: 12]."
+    "answer": "d",
+    "explanation": "Modern governance models involve a pluralistic approach where government agencies, private sectors, and non-governmental organizations participate in service delivery[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which country implemented the \"National Smiling Movement\" for better service delivery?",
+    "options": {
+      "a": "USA",
+      "b": "UK",
+      "c": "Malaysia",
+      "d": "Singapore"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Who developed Next Steps Agency for the efficient \u0026 citizen-centric public service delivery in UK?",
-        "options":  {
-                        "a":  "David Cameron",
-                        "b":  "John Major",
-                        "c":  "Margaret Thatcher",
-                        "d":  "Tony Blair"
-                    },
-        "answer":  "c",
-        "explanation":  "The Next Steps Executive Agencies initiative in the UK civil service was launched during the premiership of Margaret Thatcher[cite: 12]."
+    "answer": "c",
+    "explanation": "Malaysia introduced the \"National Smiling Movement\" as part of administrative cultural reforms to promote courteous and responsive public service[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Who developed Next Steps Agency for the efficient & citizen-centric public service delivery in UK?",
+    "options": {
+      "a": "David Cameron",
+      "b": "John Major",
+      "c": "Margaret Thatcher",
+      "d": "Tony Blair"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Principles of \"Service First\" was launched by Tony Blair\u0027s in 1998. How many principles were there?",
-        "options":  {
-                        "a":  "Six",
-                        "b":  "Ten",
-                        "c":  "Nine",
-                        "d":  "Fourteen"
-                    },
-        "answer":  "c",
-        "explanation":  "The \"Service First\" initiative introduced in the UK in 1998 was anchored upon nine core principles of quality public service delivery[cite: 12]."
+    "answer": "c",
+    "explanation": "The Next Steps Executive Agencies initiative in the UK civil service was launched during the premiership of Margaret Thatcher[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Principles of \"Service First\" was launched by Tony Blair's in 1998. How many principles were there?",
+    "options": {
+      "a": "Six",
+      "b": "Ten",
+      "c": "Nine",
+      "d": "Fourteen"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following falls under the categories of mandatory public service?",
-        "options":  {
-                        "a":  "Maintaining peace \u0026 order",
-                        "b":  "Promote public welfare",
-                        "c":  "Service related to benefit of weak \u0026 marginalized communities",
-                        "d":  "Implementing laws \u0026 regulation"
-                    },
-        "answer":  "a",
-        "explanation":  "Maintaining peace, order, and national security represents the primary sovereign mandatory function of the state[cite: 12]."
+    "answer": "c",
+    "explanation": "The \"Service First\" initiative introduced in the UK in 1998 was anchored upon nine core principles of quality public service delivery[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following falls under the categories of mandatory public service?",
+    "options": {
+      "a": "Maintaining peace & order",
+      "b": "Promote public welfare",
+      "c": "Service related to benefit of weak & marginalized communities",
+      "d": "Implementing laws & regulation"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Government delivers public service to play the role of...",
-        "options":  {
-                        "a":  "Regulation",
-                        "b":  "Provision",
-                        "c":  "Facilitation",
-                        "d":  "All of the above"
-                    },
-        "answer":  "d",
-        "explanation":  "In public service management, the government fulfills multiple roles encompassing regulatory control, direct provision, and overall economic facilitation[cite: 12]."
+    "answer": "a",
+    "explanation": "Maintaining peace, order, and national security represents the primary sovereign mandatory function of the state[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Government delivers public service to play the role of:",
+    "options": {
+      "a": "Regulation",
+      "b": "Provision",
+      "c": "Facilitation",
+      "d": "All of the above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What factor(s) is/are to be considered in public service delivery?",
-        "options":  {
-                        "a":  "Identification of service needs",
-                        "b":  "Standards of service delivery",
-                        "c":  "Prioritization of services",
-                        "d":  "All of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Comprehensive service delivery requires identifying public needs, establishing clear standards, and prioritizing services efficiently[cite: 12]."
+    "answer": "d",
+    "explanation": "In public service management, the government fulfills multiple roles encompassing regulatory control, direct provision, and overall economic facilitation[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What factor(s) is/are to be considered in public service delivery?",
+    "options": {
+      "a": "Identification of service needs",
+      "b": "Standards of service delivery",
+      "c": "Prioritization of services",
+      "d": "All of above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following is/are the characteristics of public service?",
-        "options":  {
-                        "a":  "Non-profit oriented",
-                        "b":  "Service provided as per law",
-                        "c":  "Equal access to all",
-                        "d":  "All of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Public services are characterized by non-profit orientations, statutory legal backing, and universal accessibility for all citizens[cite: 12]."
+    "answer": "d",
+    "explanation": "Comprehensive service delivery requires identifying public needs, establishing clear standards, and prioritizing services efficiently[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following is/are the characteristics of public service?",
+    "options": {
+      "a": "Non-profit oriented",
+      "b": "Service provided as per law",
+      "c": "Equal access to all",
+      "d": "All of above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is/are measure(s) to promote transparency in public service in Nepal?",
-        "options":  {
-                        "a":  "By maintaining social justice and social security",
-                        "b":  "Discouraging irregularities and corruption",
-                        "c":  "By utilizing Right to Information",
-                        "d":  "All of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Promoting transparency involves enforcing the Right to Information (RTI), curbing corruption, and ensuring equitable social security and justice[cite: 12]."
+    "answer": "d",
+    "explanation": "Public services are characterized by non-profit orientations, statutory legal backing, and universal accessibility for all citizens[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is/are measure(s) to promote transparency in public service in Nepal?",
+    "options": {
+      "a": "By maintaining social justice and social security",
+      "b": "Discouraging irregularities and corruption",
+      "c": "By utilizing Right to Information",
+      "d": "All of above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following is not a valid principle for public service delivery?",
-        "options":  {
-                        "a":  "Responsiveness",
-                        "b":  "Continuity",
-                        "c":  "Accessibility",
-                        "d":  "Limited choice"
-                    },
-        "answer":  "d",
-        "explanation":  "Limited choice is an administrative drawback rather than a principle; valid public service delivery principles emphasize citizen choice, accessibility, and continuity[cite: 12]."
+    "answer": "d",
+    "explanation": "Promoting transparency involves enforcing the Right to Information (RTI), curbing corruption, and ensuring equitable social security and justice[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following is not a valid principle for public service delivery?",
+    "options": {
+      "a": "Responsiveness",
+      "b": "Continuity",
+      "c": "Accessibility",
+      "d": "Limited choice"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "In which articles of the constitution of Nepal, has guaranteed about the \"Public Service\"?",
-        "options":  {
-                        "a":  "Article 41",
-                        "b":  "Article 51",
-                        "c":  "Article 56",
-                        "d":  "Article 61"
-                    },
-        "answer":  "b",
-        "explanation":  "Article 51 of the Constitution of Nepal outlines the policies of the State concerning governance, public service delivery, and socio-economic transformation[cite: 12]."
+    "answer": "d",
+    "explanation": "Limited choice is an administrative drawback rather than a principle; valid public service delivery principles emphasize citizen choice, accessibility, and continuity[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "In which articles of the constitution of Nepal, has guaranteed about the \"Public Service\"?",
+    "options": {
+      "a": "Article 41",
+      "b": "Article 51",
+      "c": "Article 56",
+      "d": "Article 61"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Every government office should have a spokesperson is provisioned in?",
-        "options":  {
-                        "a":  "Good Governance Act-2064",
-                        "b":  "Right to Information Act-2064",
-                        "c":  "Local Government Operation Act-2074",
-                        "d":  "Civil Service Act-2049"
-                    },
-        "answer":  "a",
-        "explanation":  "The Good Governance (Management and Operation) Act, 2064 mandates that every government office must designate an official spokesperson to ensure transparency[cite: 12]."
+    "answer": "b",
+    "explanation": "Article 51 of the Constitution of Nepal outlines the policies of the State concerning governance, public service delivery, and socio-economic transformation[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Every government office should have a spokesperson is provisioned in?",
+    "options": {
+      "a": "Good Governance Act-2064",
+      "b": "Right to Information Act-2064",
+      "c": "Local Government Operation Act-2074",
+      "d": "Civil Service Act-2049"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "From which Prime Minister\u0027s tenure the Hello Sarkar portal was launched in Nepal?",
-        "options":  {
-                        "a":  "K.P. Sharma Oli",
-                        "b":  "Sushil Koirala",
-                        "c":  "Puspa Kamal Dahal",
-                        "d":  "Dr. Baburam Bhattarai"
-                    },
-        "answer":  "d",
-        "explanation":  "The Hello Sarkar public grievance redressal desk and portal was launched during the tenure of Prime Minister Dr. Baburam Bhattarai[cite: 12]."
+    "answer": "a",
+    "explanation": "The Good Governance (Management and Operation) Act, 2064 mandates that every government office must designate an official spokesperson to ensure transparency[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "From which Prime Minister's tenure the Hello Sarkar portal was launched in Nepal?",
+    "options": {
+      "a": "K.P. Sharma Oli",
+      "b": "Sushil Koirala",
+      "c": "Puspa Kamal Dahal",
+      "d": "Dr. Baburam Bhattarai"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "When was Hello Sarkar extended to 24-hour service inaugurated in Nepal?",
-        "options":  {
-                        "a":  "2080, Bhadra 17",
-                        "b":  "2080, Bhadra 30",
-                        "c":  "2080, Ashwin 04",
-                        "d":  "2080, Paush 01"
-                    },
-        "answer":  "a",
-        "explanation":  "Hello Sarkar was formally expanded into a round-the-clock (24-hour) operational service starting on Bhadra 17, 2080 BS[cite: 12]."
+    "answer": "d",
+    "explanation": "The Hello Sarkar public grievance redressal desk and portal was launched during the tenure of Prime Minister Dr. Baburam Bhattarai[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "When was Hello Sarkar extended to 24-hour service inaugurated in Nepal?",
+    "options": {
+      "a": "2080, Bhadra 17",
+      "b": "2080, Bhadra 30",
+      "c": "2080, Ashwin 04",
+      "d": "2080, Paush 01"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "The United Nations Public Service Day is celebrated on ________ of every year.",
-        "options":  {
-                        "a":  "December 24",
-                        "b":  "June 23",
-                        "c":  "December 27",
-                        "d":  "June 17"
-                    },
-        "answer":  "b",
-        "explanation":  "June 23 is officially designated by the United Nations as Public Service Day to honor the value of public service in development[cite: 12]."
+    "answer": "a",
+    "explanation": "Hello Sarkar was formally expanded into a round-the-clock (24-hour) operational service starting on Bhadra 17, 2080 BS[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "The United Nations Public Service Day is celebrated on ________ of every year.",
+    "options": {
+      "a": "December 24",
+      "b": "June 23",
+      "c": "December 27",
+      "d": "June 17"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following service falls under the free health service provided by the government of Nepal through its administrative mechanism?",
-        "options":  {
-                        "a":  "Mandatory Service",
-                        "b":  "Welfare service",
-                        "c":  "Emergency Service",
-                        "d":  "Regulatory service"
-                    },
-        "answer":  "b",
-        "explanation":  "Targeted free health care provided by the state falls under welfare services aimed at social protection for vulnerable populations[cite: 12]."
+    "answer": "b",
+    "explanation": "June 23 is officially designated by the United Nations as Public Service Day to honor the value of public service in development[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following service falls under the free health service provided by the government of Nepal through its administrative mechanism?",
+    "options": {
+      "a": "Mandatory Service",
+      "b": "Welfare service",
+      "c": "Emergency Service",
+      "d": "Regulatory service"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "In which date, the concept mobile public service evolved in Nepal?",
-        "options":  {
-                        "a":  "2064 B.S.",
-                        "b":  "2056 B.S.",
-                        "c":  "2060 B.S.",
-                        "d":  "2074 B.S."
-                    },
-        "answer":  "a",
-        "explanation":  "The mobile public service delivery concept (bringing administrative services directly to remote doorsteps) evolved and expanded around 2064 BS[cite: 12]."
+    "answer": "b",
+    "explanation": "Targeted free health care provided by the state falls under welfare services aimed at social protection for vulnerable populations[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "In which date, the concept mobile public service evolved in Nepal?",
+    "options": {
+      "a": "2064 B.S.",
+      "b": "2056 B.S.",
+      "c": "2060 B.S.",
+      "d": "2074 B.S."
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "When was Government of Nepal launched Hello Sarkar program for the General Public?",
-        "options":  {
-                        "a":  "2068, Kartik 17",
-                        "b":  "2069, Baishakh 01",
-                        "c":  "2068, Push 10",
-                        "d":  "2068, Push 03"
-                    },
-        "answer":  "a",
-        "explanation":  "The Hello Sarkar program was officially launched for public grievance handling on Kartik 17, 2068 BS[cite: 12]."
+    "answer": "a",
+    "explanation": "The mobile public service delivery concept (bringing administrative services directly to remote doorsteps) evolved and expanded around 2064 BS[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "When was Government of Nepal launched Hello Sarkar program for the General Public?",
+    "options": {
+      "a": "2068, Kartik 17",
+      "b": "2069, Baishakh 01",
+      "c": "2068, Push 10",
+      "d": "2068, Push 03"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following helpline number is launched by Hello Sarkar for the general public?",
-        "options":  {
-                        "a":  "103",
-                        "b":  "1111",
-                        "c":  "113",
-                        "d":  "1100"
-                    },
-        "answer":  "b",
-        "explanation":  "The dedicated toll-free shortcode telephone helpline established for Hello Sarkar is 1111[cite: 12]."
+    "answer": "a",
+    "explanation": "The Hello Sarkar program was officially launched for public grievance handling on Kartik 17, 2068 BS[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following helpline number is launched by Hello Sarkar for the general public?",
+    "options": {
+      "a": "103",
+      "b": "1111",
+      "c": "113",
+      "d": "1100"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is/are the legal instruments of public service delivery in Nepal?",
-        "options":  {
-                        "a":  "Civil Service Act-2049",
-                        "b":  "Good Governance Act-2064",
-                        "c":  "Directive principles of state policy",
-                        "d":  "All of Above"
-                    },
-        "answer":  "d",
-        "explanation":  "Nepal\u0027s public service delivery is backed by multiple legal frameworks including the Civil Service Act, Good Governance Act, and constitutional state policies[cite: 12]."
+    "answer": "b",
+    "explanation": "The dedicated toll-free shortcode telephone helpline established for Hello Sarkar is 1111[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is/are the legal instruments of public service delivery in Nepal?",
+    "options": {
+      "a": "Civil Service Act-2049",
+      "b": "Good Governance Act-2064",
+      "c": "Directive principles of state policy",
+      "d": "All of Above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following is/are the principle(s) of public service delivery?",
-        "options":  {
-                        "a":  "Sovereignty",
-                        "b":  "Subsidiary",
-                        "c":  "Non-discrimination",
-                        "d":  "All of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Foundational principles of public service delivery encompass state sovereignty, subsidiarity, and absolute non-discrimination[cite: 12]."
+    "answer": "d",
+    "explanation": "Nepal's public service delivery is backed by multiple legal frameworks including the Civil Service Act, Good Governance Act, and constitutional state policies[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following is/are the principle(s) of public service delivery?",
+    "options": {
+      "a": "Sovereignty",
+      "b": "Subsidiary",
+      "c": "Non-discrimination",
+      "d": "All of above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following is not a characteristic of Public Service Delivery?",
-        "options":  {
-                        "a":  "Confidentiality",
-                        "b":  "Equal access to all",
-                        "c":  "Impartiality",
-                        "d":  "Service provided as per law"
-                    },
-        "answer":  "a",
-        "explanation":  "Public service delivery relies on transparency, impartiality, legal backing, and universal access, whereas unnecessary confidentiality hinders effective delivery[cite: 12]."
+    "answer": "d",
+    "explanation": "Foundational principles of public service delivery encompass state sovereignty, subsidiarity, and absolute non-discrimination[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following is not a characteristic of Public Service Delivery?",
+    "options": {
+      "a": "Confidentiality",
+      "b": "Equal access to all",
+      "c": "Impartiality",
+      "d": "Service provided as per law"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What do we call public service designed for a particular group which is relatively vulnerable?",
-        "options":  {
-                        "a":  "Business service",
-                        "b":  "Promotional service",
-                        "c":  "Counseling service",
-                        "d":  "Welfare service"
-                    },
-        "answer":  "d",
-        "explanation":  "Public services designed specifically to uplift and support relatively vulnerable or marginalized groups are classified as welfare services[cite: 12]."
+    "answer": "a",
+    "explanation": "Public service delivery relies on transparency, impartiality, legal backing, and universal access, whereas unnecessary confidentiality hinders effective delivery[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What do we call public service designed for a particular group which is relatively vulnerable?",
+    "options": {
+      "a": "Business service",
+      "b": "Promotional service",
+      "c": "Counseling service",
+      "d": "Welfare service"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following entities is responsible for implementation of public service delivery in Nepal?",
-        "options":  {
-                        "a":  "Bureaucracy",
-                        "b":  "Legislature",
-                        "c":  "Cabinet",
-                        "d":  "All of above"
-                    },
-        "answer":  "a",
-        "explanation":  "The permanent civil service bureaucracy acts as the core operational machinery responsible for the direct execution and implementation of public services[cite: 12]."
+    "answer": "d",
+    "explanation": "Public services designed specifically to uplift and support relatively vulnerable or marginalized groups are classified as welfare services[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following entities is responsible for implementation of public service delivery in Nepal?",
+    "options": {
+      "a": "Bureaucracy",
+      "b": "Legislature",
+      "c": "Cabinet",
+      "d": "All of above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Public Education, provided by the Government of Nepal is an example of...",
-        "options":  {
-                        "a":  "Emergency service",
-                        "b":  "Welfare service",
-                        "c":  "Promotional service",
-                        "d":  "Mandatory service"
-                    },
-        "answer":  "c",
-        "explanation":  "State-provided public education functions as a developmental and promotional service aimed at human capital enhancement[cite: 12]."
+    "answer": "a",
+    "explanation": "The permanent civil service bureaucracy acts as the core operational machinery responsible for the direct execution and implementation of public services[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Public Education, provided by the Government of Nepal is an example of:",
+    "options": {
+      "a": "Emergency service",
+      "b": "Welfare service",
+      "c": "Promotional service",
+      "d": "Mandatory service"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is/are the role of people in public service delivery?",
-        "options":  {
-                        "a":  "To discourage irregularities and corruption in public service",
-                        "b":  "To give feedback of service delivery",
-                        "c":  "To be attentive to the obligation and duties of people",
-                        "d":  "All of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Citizens engage actively by providing constructive feedback, fulfilling civic duties, and acting as watchdogs against administrative corruption[cite: 12]."
+    "answer": "c",
+    "explanation": "State-provided public education functions as a developmental and promotional service aimed at human capital enhancement[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is/are the role of people in public service delivery?",
+    "options": {
+      "a": "To discourage irregularities and corruption in public service",
+      "b": "To give feedback of service delivery",
+      "c": "To be attentive to the obligation and duties of people",
+      "d": "All of above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is/are factor(s) to be considered in public service delivery in Nepal?",
-        "options":  {
-                        "a":  "Public Participation",
-                        "b":  "Standard of responsibility",
-                        "c":  "Service Mapping",
-                        "d":  "All of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Crucial factors in Nepal\u0027s service delivery framework include active public participation, service mapping, and clearly defined standards of responsibility[cite: 12]."
+    "answer": "d",
+    "explanation": "Citizens engage actively by providing constructive feedback, fulfilling civic duties, and acting as watchdogs against administrative corruption[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is/are factor(s) to be considered in public service delivery in Nepal?",
+    "options": {
+      "a": "Public Participation",
+      "b": "Standard of responsibility",
+      "c": "Service Mapping",
+      "d": "All of above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which of the following element(s) ensure access to information and transparency?",
-        "options":  {
-                        "a":  "Citizen\u0027s Charters",
-                        "b":  "Public hearing",
-                        "c":  "Hello Sarkar Programme",
-                        "d":  "All of Above"
-                    },
-        "answer":  "d",
-        "explanation":  "Citizen\u0027s Charters, public hearings (sarwajanik sunuwai), and Hello Sarkar platforms collectively promote transparency and information access[cite: 12]."
+    "answer": "d",
+    "explanation": "Crucial factors in Nepal's service delivery framework include active public participation, service mapping, and clearly defined standards of responsibility[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which of the following element(s) ensure access to information and transparency?",
+    "options": {
+      "a": "Citizen's Charters",
+      "b": "Public hearing",
+      "c": "Hello Sarkar Programme",
+      "d": "All of Above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "What is the role of civil society organizations in promoting good governance in Nepal?",
-        "options":  {
-                        "a":  "To provide basic service",
-                        "b":  "To participate in election",
-                        "c":  "To advocate for the rights of marginalized group",
-                        "d":  "None of the above"
-                    },
-        "answer":  "c",
-        "explanation":  "Civil society organizations function as independent watchdogs and powerful advocates for the rights, inclusion, and representation of marginalized groups[cite: 12]."
+    "answer": "d",
+    "explanation": "Citizen's Charters, public hearings (sarwajanik sunuwai), and Hello Sarkar platforms collectively promote transparency and information access[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "What is the role of civil society organizations in promoting good governance in Nepal?",
+    "options": {
+      "a": "To provide basic service",
+      "b": "To participate in election",
+      "c": "To advocate for the rights of marginalized group",
+      "d": "None of the above"
     },
-    {
-        "topic":  "Functional Scope of Public Services",
-        "question":  "Which article of constitution of Nepal ensures equal access to public services?",
-        "options":  {
-                        "a":  "51",
-                        "b":  "52",
-                        "c":  "53",
-                        "d":  "54"
-                    },
-        "answer":  "a",
-        "explanation":  "Article 51 enshrines state policies aimed at ensuring equitable distribution of opportunities, public services, and balanced regional development[cite: 12]."
-    }
+    "answer": "c",
+    "explanation": "Civil society organizations function as independent watchdogs and powerful advocates for the rights, inclusion, and representation of marginalized groups[cite: 12]."
+  },
+  {
+    "topic": "Functional Scope of Public Services",
+    "question": "Which article of constitution of Nepal ensures equal access to public services?",
+    "options": {
+      "a": "51",
+      "b": "52",
+      "c": "53",
+      "d": "54"
+    },
+    "answer": "a",
+    "explanation": "Article 51 enshrines state policies aimed at ensuring equitable distribution of opportunities, public services, and balanced regional development[cite: 12]."
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह के हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "राज्यको दायित्व",
+      "b": "जनताको अधिकार",
+      "c": "वैधानिकताको पुष्टि",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5002",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहका माध्यम तलका मध्ये कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक संस्थानहरू",
+      "b": "गैर सरकारी संयन्त्र",
+      "c": "निजी क्षेत्र",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5003",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह गर्दा त्यसको अन्तिम उत्तरदायित्व कसको हुन्छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सम्बन्धित निकाय",
+      "b": "सरकार",
+      "c": "सम्बन्धित निकाय र उपभोक्ता",
+      "d": "उपभोक्ता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5004",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिनेमा, संगीत, पार्क, नाचघर आदि जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "मनोरञ्जन सम्बन्धी सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5005",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विपद, द्वन्द, संकट, जोखिम, प्रकोप, व्यवस्थापन, राहत उदार जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "परम्परागत सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5006",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह मापन गर्ने आधार कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सरसफाइ तथा खानेपानी",
+      "b": "गरिबीको ‍अवस्था",
+      "c": "रोजगारीको अवस्था",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5007",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाह गर्ने कार्य योजना तयार गर्ने",
+      "b": "सेवाग्राहीको माग, आवश्यकता तथा प्राथमिकताको पहिचान गर्ने",
+      "c": "सेवामा सबैको समान पहुँच कायम राख्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5008",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा घुम्ती सेवाको सुरुवात कहिले देखि भएको हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "वि.सं. २०५९",
+      "b": "वि.सं. २०६०",
+      "c": "वि.सं. २०६१",
+      "d": "वि.सं. २०६२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5009",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहको विशेषतामा तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाहमा निरन्तरता",
+      "b": "सेवा प्रवाहमा एकरुपता",
+      "c": "सेवा प्रवाहमा विविधता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5010",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलकम मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "असन्तुष्ट सेवाप्रति गुनासो गर्ने",
+      "b": "नियम, कानुन र प्रक्रियाको पालना गर्ने",
+      "c": "राज्यलाई समयमै कर तिर्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5011",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका भनाई बारे बिचार गर्नुहोस् ।",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो",
+      "b": "सार्वजनिक सेवा प्रवाह जनताको अधिकार हो",
+      "c": "माथिका दुवै ठिक छन्",
+      "d": "माथिका दुवै गलत छन्"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5012",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5013",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह के हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "राज्यको दायित्व",
+      "b": "जनताको अधिकार",
+      "c": "वैधानिकताको पुष्टि",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5002",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहका माध्यम तलका मध्ये कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक संस्थानहरू",
+      "b": "गैर सरकारी संयन्त्र",
+      "c": "निजी क्षेत्र",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5003",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह गर्दा त्यसको अन्तिम उत्तरदायित्व कसको हुन्छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सम्बन्धित निकाय",
+      "b": "सरकार",
+      "c": "सम्बन्धित निकाय र उपभोक्ता",
+      "d": "उपभोक्ता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5004",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिनेमा, संगीत, पार्क, नाचघर आदि जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "मनोरञ्जन सम्बन्धी सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5005",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विपद, द्वन्द, संकट, जोखिम, प्रकोप, व्यवस्थापन, राहत उदार जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "परम्परागत सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5006",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह मापन गर्ने आधार कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सरसफाइ तथा खानेपानी",
+      "b": "गरिबीको ‍अवस्था",
+      "c": "रोजगारीको अवस्था",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5007",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाह गर्ने कार्य योजना तयार गर्ने",
+      "b": "सेवाग्राहीको माग, आवश्यकता तथा प्राथमिकताको पहिचान गर्ने",
+      "c": "सेवामा सबैको समान पहुँच कायम राख्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5008",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा घुम्ती सेवाको सुरुवात कहिले देखि भएको हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "वि.सं. २०५९",
+      "b": "वि.सं. २०६०",
+      "c": "वि.सं. २०६१",
+      "d": "वि.सं. २०६२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5009",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहको विशेषतामा तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाहमा निरन्तरता",
+      "b": "सेवा प्रवाहमा एकरुपता",
+      "c": "सेवा प्रवाहमा विविधता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5010",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलकम मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "असन्तुष्ट सेवाप्रति गुनासो गर्ने",
+      "b": "नियम, कानुन र प्रक्रियाको पालना गर्ने",
+      "c": "राज्यलाई समयमै कर तिर्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5011",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका भनाई बारे बिचार गर्नुहोस् ।",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो",
+      "b": "सार्वजनिक सेवा प्रवाह जनताको अधिकार हो",
+      "c": "माथिका दुवै ठिक छन्",
+      "d": "माथिका दुवै गलत छन्"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5012",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5013",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह के हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "राज्यको दायित्व",
+      "b": "जनताको अधिकार",
+      "c": "वैधानिकताको पुष्टि",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5002",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहका माध्यम तलका मध्ये कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक संस्थानहरू",
+      "b": "गैर सरकारी संयन्त्र",
+      "c": "निजी क्षेत्र",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5003",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह गर्दा त्यसको अन्तिम उत्तरदायित्व कसको हुन्छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सम्बन्धित निकाय",
+      "b": "सरकार",
+      "c": "सम्बन्धित निकाय र उपभोक्ता",
+      "d": "उपभोक्ता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5004",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिनेमा, संगीत, पार्क, नाचघर आदि जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "मनोरञ्जन सम्बन्धी सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5005",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विपद, द्वन्द, संकट, जोखिम, प्रकोप, व्यवस्थापन, राहत उदार जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "परम्परागत सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5006",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह मापन गर्ने आधार कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सरसफाइ तथा खानेपानी",
+      "b": "गरिबीको ‍अवस्था",
+      "c": "रोजगारीको अवस्था",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5007",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाह गर्ने कार्य योजना तयार गर्ने",
+      "b": "सेवाग्राहीको माग, आवश्यकता तथा प्राथमिकताको पहिचान गर्ने",
+      "c": "सेवामा सबैको समान पहुँच कायम राख्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5008",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा घुम्ती सेवाको सुरुवात कहिले देखि भएको हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "वि.सं. २०५९",
+      "b": "वि.सं. २०६०",
+      "c": "वि.सं. २०६१",
+      "d": "वि.सं. २०६२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5009",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहको विशेषतामा तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाहमा निरन्तरता",
+      "b": "सेवा प्रवाहमा एकरुपता",
+      "c": "सेवा प्रवाहमा विविधता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5010",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलकम मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "असन्तुष्ट सेवाप्रति गुनासो गर्ने",
+      "b": "नियम, कानुन र प्रक्रियाको पालना गर्ने",
+      "c": "राज्यलाई समयमै कर तिर्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5011",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका भनाई बारे बिचार गर्नुहोस् ।",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो",
+      "b": "सार्वजनिक सेवा प्रवाह जनताको अधिकार हो",
+      "c": "माथिका दुवै ठिक छन्",
+      "d": "माथिका दुवै गलत छन्"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5012",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5013",
+    "chapter": "SECTION-I"
+  }
 ]

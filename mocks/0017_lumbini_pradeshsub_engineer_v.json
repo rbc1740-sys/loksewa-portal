@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Find the maximum SF induced in the S.S beam if the beam is subjected to a point load of 4 KN at the centre of the beam and the span of the beam is 4 m",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "1 KN",
+      "b": "2 KN",
+      "c": "4 KN",
+      "d": "8 KN-m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "407",
+    "chapter": ""
+  },
+  {
+    "question": "The moment of inertia of triangular section b x h about the C.G. is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "bh³/12",
+      "b": "bh³/18",
+      "c": "bh³/36",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "408",
+    "chapter": ""
+  },
+  {
+    "question": "In reciprocal levelling, the error which is not completely eliminated is due to",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "earth's curvature",
+      "b": "non-adjustment of the line of collimation",
+      "c": "refraction",
+      "d": "non-adjustment of the bubble tube"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "409",
+    "chapter": ""
+  },
+  {
+    "question": "The size of a theodolite is specified by",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "the diameter of lower plate",
+      "b": "the diameter of upper plate",
+      "c": "the length of telescope",
+      "d": "diameter of vertical circle"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "410",
+    "chapter": ""
+  },
+  {
+    "question": "The brightness of the image ______ the magnifying power.",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "is directly proportional to",
+      "b": "is inversely proportional to",
+      "c": "varies directly as the square of",
+      "d": "varies inversely as the square of"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "411",
+    "chapter": ""
+  },
+  {
+    "question": "The sensitivity of a level tube is expressed by",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "length of level tube",
+      "b": "radius of level tube",
+      "c": "length of bubble of level tube",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "412",
+    "chapter": ""
+  },
+  {
+    "question": "The most widely used kiln in Nepal is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "hoffman's kiln",
+      "b": "bull's trench kiln",
+      "c": "clamp kiln",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "413",
+    "chapter": ""
+  },
+  {
+    "question": "Refractory bricks are specially manufactured",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "to withstand the high crushing pressure",
+      "b": "to withstand high temperature",
+      "c": "to have high insulation against sound",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "414",
+    "chapter": ""
+  },
+  {
+    "question": "The fineness of cement is tested by",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "air permeability method",
+      "b": "le-chatlier method",
+      "c": "vicat's apparatus",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "415",
+    "chapter": ""
+  },
+  {
+    "question": "Pug mill is used for",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "clay preparation",
+      "b": "clay moulding",
+      "c": "brick drying",
+      "d": "brick burning"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "416",
+    "chapter": ""
+  },
+  {
+    "question": "Critical depth (hc) is given by",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "(q²/g)^1/3",
+      "b": "(q²/g)^1/4",
+      "c": "(q²/g)^1/3",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "417",
+    "chapter": ""
+  },
+  {
+    "question": "In an open channel flow",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "hydraulic gradient line is lower than the liquid surface",
+      "b": "hydraulic gradient line coincides with the liquid surface",
+      "c": "hydraulic gradient line is higher than the liquid surface",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "418",
+    "chapter": ""
+  },
+  {
+    "question": "Cavitations is caused by",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "low pressure",
+      "b": "high pressure",
+      "c": "low velocity",
+      "d": "high-velocity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "419",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following quantities are dimensionless?",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "surface tension",
+      "b": "specific weight",
+      "c": "angular velocity",
+      "d": "mach number"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "420",
+    "chapter": ""
+  },
+  {
+    "question": "‘Talus' is the soil transported by",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "wind",
+      "b": "water",
+      "c": "glacier",
+      "d": "gravitational force"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "421",
+    "chapter": ""
+  },
+  {
+    "question": "Rock flour is the name of",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "clays",
+      "b": "organic clays",
+      "c": "organic silts",
+      "d": "inorganic silts"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "422",
+    "chapter": ""
+  },
+  {
+    "question": "The coefficient of curvature is defined as",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "D60/D10",
+      "b": "D10/D60",
+      "c": "D302/D10*D60",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "423",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum size of grains of silts is about",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "0.06 mm",
+      "b": "0.2 mm",
+      "c": "0.5 mm",
+      "d": "1.0 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "424",
+    "chapter": ""
+  },
+  {
+    "question": "In a T beam overall depth of rib (in case of heavy load) is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "1/20 of the span",
+      "b": "1/15 of the span",
+      "c": "1/12 of the span",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "425",
+    "chapter": ""
+  },
+  {
+    "question": "Shear stress is not taken by",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "horizontal steel",
+      "b": "vertical steel",
+      "c": "inclined steel",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "426",
+    "chapter": ""
+  },
+  {
+    "question": "Shear stress diagram of a homogeneous beam is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "rectangular",
+      "b": "triangular",
+      "c": "parabolic",
+      "d": "elliptical"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "427",
+    "chapter": ""
+  },
+  {
+    "question": "Bringing the floor to a true level surface by means of screads is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "topping",
+      "b": "bedding",
+      "c": "screading",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "428",
+    "chapter": ""
+  },
+  {
+    "question": "The alignment of a cross joint along the plumb line is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "bed rock",
+      "b": "perpend",
+      "c": "lintel",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "429",
+    "chapter": ""
+  },
+  {
+    "question": "The vertical member provided at the top and bottom ends of a flight supporting the handrail is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "newel post",
+      "b": "baluster",
+      "c": "soffit",
+      "d": "railing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "430",
+    "chapter": ""
+  },
+  {
+    "question": "Military organization is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "line organization",
+      "b": "line and staff organization",
+      "c": "functional organization",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "431",
+    "chapter": ""
+  },
+  {
+    "question": "The penalty provision in any contract agreement is _______",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "0.01% per day",
+      "b": "0.03% per day",
+      "c": "0.05% per day",
+      "d": "0.1% per day"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "432",
+    "chapter": ""
+  },
+  {
+    "question": "Residential buildings are treated as",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "light construction",
+      "b": "heavy construction",
+      "c": "industrial construction",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "433",
+    "chapter": ""
+  },
+  {
+    "question": "The concealed faces of the frames of doors and windows are painted with",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "varnishes",
+      "b": "two coats of primer",
+      "c": "two coats of same enamel paint which is applied for rest of frame",
+      "d": "two coat of coal tar"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "434",
+    "chapter": ""
+  },
+  {
+    "question": "The steel formwork can be used up to about _______ times.",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "50",
+      "b": "40",
+      "c": "60",
+      "d": "30"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "435",
+    "chapter": ""
+  },
+  {
+    "question": "The thickness of the CGI sheet is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "0.13-4 mm",
+      "b": "0.8-0.9 mm",
+      "c": "4-8 mm",
+      "d": "6-10 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "436",
+    "chapter": ""
+  },
+  {
+    "question": "The desirable property of road stone is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "hardness to resist rubbing",
+      "b": "toughness to resist fracture under impact",
+      "c": "good binding",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "437",
+    "chapter": ""
+  },
+  {
+    "question": "The WBM mostly gets damaged in ___________.",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "summer",
+      "b": "winter",
+      "c": "rainy season",
+      "d": "spring"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "438",
+    "chapter": ""
+  },
+  {
+    "question": "The length of Arniko Highway connecting Kathmandu to Kodari is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "83 km",
+      "b": "93 km",
+      "c": "113 km",
+      "d": "123 km"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "439",
+    "chapter": ""
+  },
+  {
+    "question": "Water absorption of the aggregates used for road marking should not exceed",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "0.3%",
+      "b": "0.6%",
+      "c": "1%",
+      "d": "1.5%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "440",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum number of abutments in a bridge should be",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "441",
+    "chapter": ""
+  },
+  {
+    "question": "Silt carrying capacity of water in a canal depends on",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "silt charge",
+      "b": "discharge",
+      "c": "surface slope",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "442",
+    "chapter": ""
+  },
+  {
+    "question": "In a reservoir, which type of storage is normally used?",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "useful storage",
+      "b": "surcharge storage",
+      "c": "bank storage",
+      "d": "dead storage"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "443",
+    "chapter": ""
+  },
+  {
+    "question": "The top of the capillary zone",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "lies below the water table at every point",
+      "b": "lies above the water table at every point",
+      "c": "coincides with the water table at every point",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "444",
+    "chapter": ""
+  },
+  {
+    "question": "When the canal runs below the drain, the cross-drainage work provided is called",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "aqueduct",
+      "b": "supper passage",
+      "c": "level crossing",
+      "d": "siphon"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "445",
+    "chapter": ""
+  },
+  {
+    "question": "The name of the structure which destroys the energy is called",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "stilling basin",
+      "b": "reservoir",
+      "c": "head regulator",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "446",
+    "chapter": ""
+  },
+  {
+    "question": "The aquifer having the least water-bearing capacity is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "confined",
+      "b": "unconfined",
+      "c": "perched",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "447",
+    "chapter": ""
+  },
+  {
+    "question": "The types of joints used in HDPE pipe is",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "butt welding",
+      "b": "solvent welding",
+      "c": "thread joint",
+      "d": "dresser coupling joint"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "448",
+    "chapter": ""
+  },
+  {
+    "question": "A circular section of sewer has the advantage of",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "least parameter for a given area",
+      "b": "offers the least opportunities for deposits",
+      "c": "highest velocities when full or half-full",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "449",
+    "chapter": ""
+  },
+  {
+    "question": "As the diameter of the sewer increases, the self-cleaning velocity",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains",
+      "d": "depends on other factors"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "450",
+    "chapter": ""
+  },
+  {
+    "question": "Per capita water demand is measured as:",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "1/1000 person/year",
+      "b": "1 person/day",
+      "c": "1 person/month",
+      "d": "person/month/l"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "451",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती कर्मचारी कति वर्षको उमेरसम्म पदमा बहाल रहन सक्नेछन?",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "५० वर्ष",
+      "b": "४५ वर्ष",
+      "c": "६० वर्ष",
+      "d": "५८ वर्ष"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "452",
+    "chapter": ""
+  },
+  {
+    "question": "The famous Hawthorne experiment was conducted by?",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "Abraham maslow",
+      "b": "Elton mayo",
+      "c": "Luther Gulick",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "453",
+    "chapter": ""
+  },
+  {
+    "question": "The intersection of a column and a row in MS Excel worksheet is known as _______.",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "Row",
+      "b": "Cell",
+      "c": "Column",
+      "d": "Tab"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "454",
+    "chapter": ""
+  },
+  {
+    "question": "कार्यलयमा प्राप्त चिठ्ठिपत्रहरुको सुरुको अभिलेख राख्ने कार्यलाई _______ भनिन्छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "अभिलेख",
+      "b": "दर्ता",
+      "c": "चलानी",
+      "d": "पत्र संख्या"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "455",
+    "chapter": ""
+  },
+  {
+    "question": "२५ प्रतिशत भन्दा माथिको भेरिएसन आदेश कसले जारी गर्न सक्नेछ ?",
+    "topic": "Lumbini Pradesh(sub engineer) - V",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "मन्त्रिपरिषद्",
+      "c": "मुख्य सचिव",
+      "d": "विभागीय प्रमुख"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "456",
+    "chapter": ""
+  }
+]

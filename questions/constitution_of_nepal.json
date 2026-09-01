@@ -1,830 +1,4526 @@
 [
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "The existing Constitution of Nepal shall be cited as........",
-        "options":  {
-                        "a":  "Constitution of Nepal, 2072",
-                        "b":  "The Constitution of Nepal",
-                        "c":  "The Constitution of federal Nepal",
-                        "d":  "The Constitution of federal republic Nepal"
-                    },
-        "answer":  "b",
-        "explanation":  "Article 1 of the Constitution of Nepal explicitly specifies the short title of the constitution as \u0027The Constitution of Nepal\u0027."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In the constitutional history of Nepal, present constitution is ........... constitution",
-        "options":  {
-                        "a":  "Fifth",
-                        "b":  "sixth",
-                        "c":  "seventh",
-                        "d":  "eighth"
-                    },
-        "answer":  "c",
-        "explanation":  "Nepal\u0027s constitutional evolution includes past constitutions (1948, 1951, 1959, 1962, 1990, and the Interim Constitution 2007), making the 2072 BS Constitution the seventh constitution in Nepal\u0027s history."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many parts, articles and schedules are there in the present constitution of Nepal?",
-        "options":  {
-                        "a":  "25 parts, 308 articles and 5 schedules",
-                        "b":  "21 parts, 337 articles and 11 schedules",
-                        "c":  "35 parts, 308 articles and 9 schedules",
-                        "d":  "23 parts, 205 articles and 7 schedules"
-                    },
-        "answer":  "c",
-        "explanation":  "The Constitution of Nepal (2072 BS) is structured into 35 parts, 308 articles, and 9 schedules."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Constitution of Nepal is amended for the first time on",
-        "options":  {
-                        "a":  "2072, Ashwin 03",
-                        "b":  "2072, Magh 09",
-                        "c":  "2072, Falgun 16",
-                        "d":  "2073, Jestha 15"
-                    },
-        "answer":  "c",
-        "explanation":  "The first amendment to the Constitution of Nepal was officially promulgated on Falgun 16, 2072 BS to address inclusive representation and federal delineation concerns."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following isn\u0027t the feature of Constitution of Nepal?",
-        "options":  {
-                        "a":  "Republican",
-                        "b":  "feudal",
-                        "c":  "federal",
-                        "d":  "secular"
-                    },
-        "answer":  "b",
-        "explanation":  "The Constitution establishes a democratic, republican, federal, and secular system; \u0027feudalism\u0027 is entirely contradictory to its constitutional framework and democratic values."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "According to the present constitution of Nepal, Nepal is a;",
-        "options":  {
-                        "a":  "federal democratic People\u0027s Republic country",
-                        "b":  "federal democratic country",
-                        "c":  "federal democratic republican state",
-                        "d":  "democratic republic state"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 4 of the Constitution defines Nepal as an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented, federal democratic republican state."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which provision of the Constitution of Nepal cannot be enforced through Court?",
-        "options":  {
-                        "a":  "Fundamental rights and duties",
-                        "b":  "directives principles and state policy",
-                        "c":  "Provision regarding Citizenship",
-                        "d":  "federal financial procedure"
-                    },
-        "answer":  "b",
-        "explanation":  "Directive Principles and Policies of the State serve as guidelines for governance and policy formulation, and they are explicitly non-enforceable by any court of law."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following is not characteristic of constitution of Nepal?",
-        "options":  {
-                        "a":  "President",
-                        "b":  "Pradesh Legislature",
-                        "c":  "Election Commission",
-                        "d":  "Civil Society"
-                    },
-        "answer":  "d",
-        "explanation":  "Civil society is an independent public sphere and community sector, not a structural government organ or institutional characteristic mandated by the Constitution."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which one of the following features is/are support the federal character of Constitution of Nepal?",
-        "options":  {
-                        "a":  "Distribution of powers between Centre and States",
-                        "b":  "Single citizenship",
-                        "c":  "Supremacy of the Constitution",
-                        "d":  "All of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Federal systems rely on the constitutional division of power between levels of government, constitutional supremacy, and unified or harmonized legal standards like single citizenship."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which odd one out is as mentioned in right to freedom in constitution of Nepal 2072?",
-        "options":  {
-                        "a":  "Freedom to move and reside in any part of Nepal",
-                        "b":  "Freedom to live with dignity",
-                        "c":  "Freedom to form political parties",
-                        "d":  "Freedom of opinion and expression"
-                    },
-        "answer":  "b",
-        "explanation":  "\u0027Freedom to live with dignity\u0027 is protected under the separate Right to Live with Dignity (Article 16), whereas options a, c, and d fall under the Right to Freedom (Article 17)."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which level of government has the residual power as per the constitution of Nepal?",
-        "options":  {
-                        "a":  "Federal",
-                        "b":  "Local",
-                        "c":  "Province",
-                        "d":  "All of the above"
-                    },
-        "answer":  "a",
-        "explanation":  "According to Article 58, any power not explicitly enumerated in the federal, provincial, concurrent, or local lists remains with the Federal government as a residual power."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following words is mentioned in the preamble of the constitution of Nepal?",
-        "options":  {
-                        "a":  "Sovereign",
-                        "b":  "Democratic",
-                        "c":  "Secular",
-                        "d":  "Federal"
-                    },
-        "answer":  "a",
-        "explanation":  "The Preamble of the Constitution of Nepal begins with the opening statement: \u0027We, the sovereign people of Nepal...\u0027"
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "According to Constitution of Nepal, Sovereignty of Nepal is vested on",
-        "options":  {
-                        "a":  "People of Nepal",
-                        "b":  "president",
-                        "c":  "Prime minister",
-                        "d":  "council of ministers"
-                    },
-        "answer":  "a",
-        "explanation":  "Article 3 explicitly declares that the sovereignty and state authority of Nepal are vested in the Nepali people."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "The final interpreter of Constitution is a",
-        "options":  {
-                        "a":  "President",
-                        "b":  "Council of ministers",
-                        "c":  "Federal parliament",
-                        "d":  "Supreme Court"
-                    },
-        "answer":  "d",
-        "explanation":  "The Supreme Court holds ultimate judicial authority and serves as the final constitutional interpreter and guardian of the Constitution."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many constitutional organs are there in Nepal?",
-        "options":  {
-                        "a":  "6",
-                        "b":  "7",
-                        "c":  "13",
-                        "d":  "14"
-                    },
-        "answer":  "c",
-        "explanation":  "Part 21 of the Constitution establishes 13 independent constitutional bodies (such as the CIAA, Auditor General, Public Service Commission, Election Commission, etc.)."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following is not the basic element of the national interest of Nepal?",
-        "options":  {
-                        "a":  "Independence",
-                        "b":  "nationality",
-                        "c":  "Geographical diversities",
-                        "d":  "economic wellbeing and prosperity"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 5 defines national interest to include independence, sovereignty, territorial integrity, nationality, and economic well-being; geographical diversity is a physical characteristic rather than a national interest element."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "The Constitution of Nepal mentioned national language is as",
-        "options":  {
-                        "a":  "Tamang language only",
-                        "b":  "Bhojpuri language only",
-                        "c":  "Newari language only",
-                        "d":  "all spoken language within Nepal"
-                    },
-        "answer":  "d",
-        "explanation":  "Article 6 states that all mother tongues spoken as the mother tongues in Nepal are the national languages of the nation."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "All languages spoken as the ...... in Nepal are the languages of the nation.",
-        "options":  {
-                        "a":  "mother tongues",
-                        "b":  "ancestor languages",
-                        "c":  "Nepali language",
-                        "d":  "all of above"
-                    },
-        "answer":  "a",
-        "explanation":  "The constitutional provision recognizes all mother tongues spoken across Nepal as languages of the nation."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "The term \u0027secular\u0027 has been used in the Present Constitution in",
-        "options":  {
-                        "a":  "Article, 03",
-                        "b":  "Article, 02",
-                        "c":  "Article, 02",
-                        "d":  "Article, 04"
-                    },
-        "answer":  "d",
-        "explanation":  "Article 4 (\u0027Definition of State\u0027) defines Nepal as a secular (\u0027dharmanirpeksha\u0027) state."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In which article of Constitution of Nepal has provisioned about National interest?",
-        "options":  {
-                        "a":  "4",
-                        "b":  "3",
-                        "c":  "6",
-                        "d":  "5"
-                    },
-        "answer":  "d",
-        "explanation":  "Article 5 of the Constitution outlines provisions regarding the protection and promotion of Nepal\u0027s national interest."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many types of Citizenship have been provisioned by the Constitution of Nepal?",
-        "options":  {
-                        "a":  "2",
-                        "b":  "4",
-                        "c":  "3",
-                        "d":  "5"
-                    },
-        "answer":  "b",
-        "explanation":  "The Constitution provisions 4 types of citizenship: descent (Banshaj), naturalized (Angikrit), honorary (Sammanak), and non-resident Nepali (NRN) citizenship."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "There is the provision of citizenship in the ...... of constitution of Nepal.",
-        "options":  {
-                        "a":  "Part I",
-                        "b":  "Part II",
-                        "c":  "Part III",
-                        "d":  "Part IV"
-                    },
-        "answer":  "b",
-        "explanation":  "Part II (Articles 10 through 15) of the Constitution contains all legal provisions governing citizenship."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "According to Constitution of Nepal, provision of citizenship with identity of .....",
-        "options":  {
-                        "a":  "Descent",
-                        "b":  "Gender",
-                        "c":  "both a \u0026 b",
-                        "d":  "Neither a nor b"
-                    },
-        "answer":  "c",
-        "explanation":  "Citizenship provisions account for lineage through descent as well as gender identity considerations (such as obtaining citizenship through either mother\u0027s or father\u0027s identity)."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In which constitution of Nepal, the fundamental rights of citizens were included?",
-        "options":  {
-                        "a":  "2007 BS",
-                        "b":  "2015 BS",
-                        "c":  "2004 BS",
-                        "d":  "2019 BS"
-                    },
-        "answer":  "c",
-        "explanation":  "The Government of Nepal Act, 2004 BS was the earliest constitutional instrument to introduce foundational rights provisions in Nepal\u0027s history."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In which constitution of Nepal, the fundamental duties of citizens were included?",
-        "options":  {
-                        "a":  "2007 BS",
-                        "b":  "2015 BS",
-                        "c":  "2019 BS",
-                        "d":  "2047 BS"
-                    },
-        "answer":  "c",
-        "explanation":  "The Constitution of Nepal of 2019 BS first introduced explicit clauses regarding the fundamental duties of citizens."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many fundamental rights are there under present Constitution of Nepal?",
-        "options":  {
-                        "a":  "31",
-                        "b":  "32",
-                        "c":  "33",
-                        "d":  "35"
-                    },
-        "answer":  "a",
-        "explanation":  "Part 3 of the Constitution (Articles 16 to 46) guarantees a total of 31 fundamental rights to citizens."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In the Present constitution of Nepal, the rights to freedom and rights to property are respectively mentioned in the articles and ...",
-        "options":  {
-                        "a":  "17 and 25",
-                        "b":  "18 and 24",
-                        "c":  "19 and 22",
-                        "d":  "19 and 23"
-                    },
-        "answer":  "a",
-        "explanation":  "Article 17 deals with the Right to Freedom, and Article 25 covers the Right to Property."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In which Article of the constitution of Nepal, the rights to communication is mentioned?",
-        "options":  {
-                        "a":  "13",
-                        "b":  "15",
-                        "c":  "19",
-                        "d":  "21"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 19 of the Constitution explicitly guarantees the Right to Communication, protecting freedom of the press and publication."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which articles of the present Constitution of Nepal is related with Abolition of Untouchability?",
-        "options":  {
-                        "a":  "25",
-                        "b":  "23",
-                        "c":  "24",
-                        "d":  "26"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 24 guarantees the Right against Untouchability and Caste-based Discrimination."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Right to open political parties\u0027 is ...",
-        "options":  {
-                        "a":  "right to information",
-                        "b":  "right to freedom",
-                        "c":  "Right to life",
-                        "d":  "right to equality"
-                    },
-        "answer":  "b",
-        "explanation":  "The freedom to form and operate political parties, associations, and unions is a constituent clause under the Right to Freedom (Article 17)."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Right against trafficking, slavery or servitude according to Constitution of Nepal is ...",
-        "options":  {
-                        "a":  "Right to equality",
-                        "b":  "right against untouchability",
-                        "c":  "Right against exploitation",
-                        "d":  "right to dalit"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 29 guarantees the Right against Exploitation, prohibiting human trafficking, slavery, forced labor, and servitude."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Who is not entitled for social security rights as per the constitution of Nepal?",
-        "options":  {
-                        "a":  "Helpless single women",
-                        "b":  "tribes on the verge of extinction",
-                        "c":  "Citizens with disability",
-                        "d":  "Minorities"
-                    },
-        "answer":  "d",
-        "explanation":  "Article 43 covers social security for indigent, incapacitated, and helpless citizens, single women, persons with disabilities, and endangered tribes, whereas general minorities have specific cultural/linguistic protections rather than indigent social security entitlements."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Rights to Information, is lies under the ... of the constitution of Nepal.",
-        "options":  {
-                        "a":  "A rights to receive secret matters",
-                        "b":  "rights to asylum",
-                        "c":  "Right to adoption",
-                        "d":  "fundamental rights"
-                    },
-        "answer":  "d",
-        "explanation":  "The Right to Information is enshrined as Article 27 under Part 3 (Fundamental Rights) of the Constitution."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In the context of fundamental right, present constitution of Nepal has guaranteed free education for the Nepalese ...",
-        "options":  {
-                        "a":  "upto primary level",
-                        "b":  "upto secondary level",
-                        "c":  "upto lower Secondary level",
-                        "d":  "upto university level"
-                    },
-        "answer":  "b",
-        "explanation":  "Article 31 specifies that every citizen has the right to access free education up to the secondary level from the State."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "\"No law shall be made providing for the death penalty to any one\", which article deals with this statement?",
-        "options":  {
-                        "a":  "Article, 35",
-                        "b":  "article, 42",
-                        "c":  "article, 16",
-                        "d":  "article, 22"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 16 (Right to live with dignity) explicitly establishes that no law shall be enacted providing for the death penalty."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which article provides a citizen of Nepal, shall not discriminate against anyone on the basis of religion, caste, Sex?",
-        "options":  {
-                        "a":  "Article, 15",
-                        "b":  "article, 17",
-                        "c":  "article, 18",
-                        "d":  "article, 27"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 18 guarantees the Right to Equality, ensuring equal protection of law and prohibiting discrimination based on origin, religion, race, caste, or sex."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following right is guaranteed as fundamental right for the first time by the Constitution of Nepal?",
-        "options":  {
-                        "a":  "Right to information",
-                        "b":  "right to privacy",
-                        "c":  "Right to Senior citizens",
-                        "d":  "right against exile"
-                    },
-        "answer":  "c",
-        "explanation":  "The Right of Senior Citizens (Article 41) was introduced as a standalone fundamental right for the first time in the 2072 Constitution."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following subject does not lie under political right?",
-        "options":  {
-                        "a":  "Voting rights",
-                        "b":  "Right to contest election",
-                        "c":  "Rights to get government job",
-                        "d":  "Rights to security of personal prestige"
-                    },
-        "answer":  "d",
-        "explanation":  "Security of personal prestige and dignity relates to individual human and personal rights rather than political rights such as voting or running for public office."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "\"No law shall be made providing for the death penalty of any one.\" According to the Constitution Nepal, this related to",
-        "options":  {
-                        "a":  "Right to live with dignity.",
-                        "b":  "Right to equality",
-                        "c":  "Right to freedom",
-                        "d":  "Right to social justice"
-                    },
-        "answer":  "a",
-        "explanation":  "The abolition of capital punishment is anchored directly within the Right to live with dignity under Article 16."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following is correct in regards in right to freedom provisioned in the constitution of Nepal?",
-        "options":  {
-                        "a":  "Freedom to assemble without arms",
-                        "b":  "Freedom to assemble peacefully",
-                        "c":  "Freedom to assemble peaceably and without arms",
-                        "d":  "Opportunity to freely assemble"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 17(2)(b) precisely guarantees the freedom to assemble peaceably and without arms."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "The right, which is first time guaranteed in the constitution of Nepal?",
-        "options":  {
-                        "a":  "Right of victim of crime.",
-                        "b":  "Right against torture",
-                        "c":  "Right relating to justice",
-                        "d":  "Rights to information"
-                    },
-        "answer":  "a",
-        "explanation":  "The Right of Victims of Crime (Article 21) is a new fundamental right introduced in the 2072 Constitution."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following right(s) is/are guaranteed as fundamental right for the first time by the constitution of Nepal, 2072?",
-        "options":  {
-                        "a":  "rights of the consumer",
-                        "b":  "right to housing",
-                        "c":  "rights of dalit",
-                        "d":  "all of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Consumer rights, right to housing, and dalit rights were all newly or more comprehensively secured as explicit fundamental rights in the 2072 Constitution."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "According to the constitution of Nepal, which provision among the given below does not fall under fundamental rights?",
-        "options":  {
-                        "a":  "Rights of Child",
-                        "b":  "Rights of Youth.",
-                        "c":  "Rights of Women",
-                        "d":  "Rights of Senior citizens"
-                    },
-        "answer":  "b",
-        "explanation":  "While children, women, and senior citizens have separate fundamental right provisions, \u0027Rights of Youth\u0027 is not designated as an independent fundamental right article."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which is not fundamental right under Constitution of Nepal?",
-        "options":  {
-                        "a":  "Right to equality",
-                        "b":  "right to conversion of religion",
-                        "c":  "Right to information",
-                        "d":  "right to social justice"
-                    },
-        "answer":  "b",
-        "explanation":  "Proselytizing or inducing religious conversions is restricted by law; a \u0027right to conversion of religion\u0027 is not a fundamental right."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "\"Every woman shall have right relating to safe motherhood and reproductive health\", which article deals with this statement?",
-        "options":  {
-                        "a":  "Article, 35",
-                        "b":  "article, 42",
-                        "c":  "article, 38",
-                        "d":  "article, 16"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 38 covers the Rights of Women, which includes specific guarantees for safe motherhood and reproductive health."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Rights to Social Justice is related to with",
-        "options":  {
-                        "a":  "Inclusive principle",
-                        "b":  "democratic",
-                        "c":  "Directive Principle",
-                        "d":  "social principle"
-                    },
-        "answer":  "a",
-        "explanation":  "The Right to Social Justice (Article 42) is built upon the inclusive principle, ensuring proportional participation of marginalized groups in state structures."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "According to Article 47 of the Constitution of Nepal, within how many years, should the legal provisions be made for the implementation of fundamental rights",
-        "options":  {
-                        "a":  "1 year",
-                        "b":  "2 years",
-                        "c":  "3 years.",
-                        "d":  "4years"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 47 mandates that the State must enact necessary legal provisions within three years of the commencement of the Constitution to enforce fundamental rights."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which is/are the duties of Citizens according to the Constitution of Nepal",
-        "options":  {
-                        "a":  "To render compulsory service as and when the state so requires",
-                        "b":  "To protect and preserve public property",
-                        "c":  "To abide by the constitution and law",
-                        "d":  "all of above"
-                    },
-        "answer":  "d",
-        "explanation":  "Article 48 sets forth all these clauses as the constitutional duties of every citizen."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "The existing Constitution of Nepal has incorporated duties of Citizens in",
-        "options":  {
-                        "a":  "Article, 46",
-                        "b":  "Article, 47",
-                        "c":  "Article, 48.",
-                        "d":  "Article, 49"
-                    },
-        "answer":  "c",
-        "explanation":  "Citizen duties are explicitly incorporated under Article 48 of the Constitution."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Fundamental Rights in Nepal are guaranteed by it through",
-        "options":  {
-                        "a":  "The right of equality",
-                        "b":  "Right against Exploitation",
-                        "c":  "Right to Constitutional Remedies",
-                        "d":  "Educational and Cultural Rights"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 46 provides the Right to Constitutional Remedies, serving as the legal shield that guarantees the enforcement of all fundamental rights."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many duties of citizen\u0027s have been provisioned by the Constitution of Nepal?",
-        "options":  {
-                        "a":  "2",
-                        "b":  "4",
-                        "c":  "3",
-                        "d":  "5"
-                    },
-        "answer":  "b",
-        "explanation":  "Article 48 outlines 4 distinct duties for citizens of Nepal."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "According to Constitution of Nepal, every citizen shall have ...",
-        "options":  {
-                        "a":  "Freedom to opinion and expression",
-                        "b":  "Freedom of assemble peacefully without arms",
-                        "c":  "Freedom to move and reside any part of Nepal",
-                        "d":  "All of the above."
-                    },
-        "answer":  "d",
-        "explanation":  "All listed individual liberties are guaranteed under the clauses of Article 17 (Right to Freedom)."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "According to Constitution of Nepal, which is not the duty of the citizens?",
-        "options":  {
-                        "a":  "To abide by the Constitution and law",
-                        "b":  "To render compulsory service as and when the state so requires",
-                        "c":  "To protect the political rights of the people.",
-                        "d":  "To protect and preserve public property"
-                    },
-        "answer":  "c",
-        "explanation":  "Protecting the political rights of people is not among the formal constitutional citizen duties listed in Article 48."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In which constitution of Nepal, the directive principles were included?",
-        "options":  {
-                        "a":  "2007 BS",
-                        "b":  "2015 BS",
-                        "c":  "2019 BS",
-                        "d":  "2047 BS"
-                    },
-        "answer":  "a",
-        "explanation":  "The Interim Constitution of Nepal, 2007 BS, first introduced the inclusion of directive principles of state policy."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many directive principles have been provisioned by the present constitution of Nepal?",
-        "options":  {
-                        "a":  "4",
-                        "b":  "8",
-                        "c":  "13",
-                        "d":  "14"
-                    },
-        "answer":  "a",
-        "explanation":  "Article 50 outlines 4 core Directive Principles of the State (political, social/cultural, economic, and international relations)."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In which articles of the constitution of Nepal, has guaranteed about the \"Public Service\"?",
-        "options":  {
-                        "a":  "article, 41",
-                        "b":  "article, 51",
-                        "c":  "article, 56",
-                        "d":  "article, 61"
-                    },
-        "answer":  "b",
-        "explanation":  "Policies relating to basic needs, governance, and public service delivery are outlined under Article 51 of the Constitution."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Identify true and false in the following statements;\nI. Generally the directive principles and state policies are not enforceable by the court of law.\nII. The present constitution of Nepal has provisioned for Right to senior citizens.",
-        "options":  {
-                        "a":  "both I and II true",
-                        "b":  "both I \u0026 II false",
-                        "c":  "I true \u0026 II false",
-                        "d":  "I false \u0026 II true"
-                    },
-        "answer":  "a",
-        "explanation":  "Statement I is true because directive principles are non-enforceable guidelines; Statement II is true because Article 41 establishes the Right of Senior Citizens."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following are listed as a directive Principle of State Policy?",
-        "options":  {
-                        "a":  "Policies relating to national unity and national security",
-                        "b":  "Policies relating to political and governance system of State",
-                        "c":  "Policies relating to social and cultural transformation",
-                        "d":  "All of above"
-                    },
-        "answer":  "d",
-        "explanation":  "State policies under Article 51 cover national unity/security, political governance, and social/cultural transformation."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Match the following and choose the correct answer.",
-        "options":  {
-                        "a":  "a1, b2, c3, d4",
-                        "b":  "a1, b2, c4, d3",
-                        "c":  "a1, b4, c2, d3",
-                        "d":  "a1, b3, c2, d4"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 56 corresponds to Structure of state (a-1), Article 58 corresponds to Residual Power (b-4), Article 60 governs Distribution of sources of revenue (c-2), and Article 61 establishes the President (d-3), yielding the matching combination a1, b4, c2, d3."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How does the constitution of Nepal define the state power?",
-        "options":  {
-                        "a":  "The responsibility issuing general directives, controlling and regulating of the governance of Nepal is the state power",
-                        "b":  "The power relating to the executive, Legislature, Judiciary and residual power is the state power",
-                        "c":  "The power relating to the executive, Legislature, Judiciary of the state is the state power",
-                        "d":  "All of the above"
-                    },
-        "answer":  "b",
-        "explanation":  "State power in Nepal encompasses executive, legislative, judicial, and residual powers as constitutional competencies."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which article of Constitution of Nepal provides for the federal structure of Nepal?",
-        "options":  {
-                        "a":  "Article, 55",
-                        "b":  "Article, 56",
-                        "c":  "Article, 58",
-                        "d":  "Article, 53"
-                    },
-        "answer":  "b",
-        "explanation":  "Article 56 details the structure of the State, establishing Nepal\u0027s federal model comprising the Federation, Province, and Local levels."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many schedules of the constitution of Nepal have listed the power of state distributed to federation, province and local level?",
-        "options":  {
-                        "a":  "3",
-                        "b":  "4",
-                        "c":  "5",
-                        "d":  "6"
-                    },
-        "answer":  "c",
-        "explanation":  "Schedules 5, 6, 7, 8, and 9 outline the federal list, provincial list, concurrent lists, and local list, totaling 5 schedules."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In which Schedule the Constitution of Nepal has provisioned about National Flag of Nepal?",
-        "options":  {
-                        "a":  "Schedule, 4",
-                        "b":  "Schedule, 3",
-                        "c":  "Schedule, 2",
-                        "d":  "Schedule, 1"
-                    },
-        "answer":  "d",
-        "explanation":  "Schedule 1 contains the shape, geometric construction method, and description of the National Flag of Nepal."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "In constitution of Nepal, the list of local level power is provided in ...",
-        "options":  {
-                        "a":  "Schedule, 5",
-                        "b":  "Schedule, 6",
-                        "c":  "Schedule, 7",
-                        "d":  "Schedule, 8"
-                    },
-        "answer":  "d",
-        "explanation":  "Schedule 8 contains the list of exclusive legislative powers of local governments (municipalities and rural municipalities)."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Eighth Schedules of the constitution relating to ... contain ... items",
-        "options":  {
-                        "a":  "18 items",
-                        "b":  "28 items",
-                        "c":  "19 items",
-                        "d":  "22 items"
-                    },
-        "answer":  "d",
-        "explanation":  "Schedule 8 details the exclusive powers of local governments, consisting of 22 specific items."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "According to the Constitution of Nepal which amongst the following is the authority of a province?",
-        "options":  {
-                        "a":  "Trust Management",
-                        "b":  "central statistics",
-                        "c":  "Health policy",
-                        "d":  "intellectual property"
-                    },
-        "answer":  "a",
-        "explanation":  "Trust management (Guthi) falls under provincial jurisdiction (Schedule 6), whereas central statistics, health policies, and intellectual property are federal or concurrent matters."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "Which of the following pair(s) is/are correctly matched?\n1. Seventh schedule - concurrent powers of Federation, Province and local level\n2. Fifth schedule - Federal list\n3. Sixth Schedule - Province List\n4. Ninth Schedule - ...",
-        "options":  {
-                        "a":  "1 and 3 only",
-                        "b":  "2 and 4 only",
-                        "c":  "1, 2 and 3 only",
-                        "d":  "all of above"
-                    },
-        "answer":  "d",
-        "explanation":  "All listed schedules match their respective legislative competency categories accurately within the constitutional schedule framework."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many Policies of the State have been provisioned in the article 51 of the Constitution of Nepal promulgated in 2072 BS?",
-        "options":  {
-                        "a":  "11",
-                        "b":  "12",
-                        "c":  "13",
-                        "d":  "14"
-                    },
-        "answer":  "c",
-        "explanation":  "Article 51 of the Constitution enumerates 13 distinct policies under the Directive Principles and Policies of the State."
-    },
-    {
-        "topic":  "Constitution of Nepal(Part1-5)",
-        "question":  "How many members of the Constituent Assembly signed the Constitution of Nepal when it was promulgated?",
-        "options":  {
-                        "a":  "498",
-                        "b":  "507",
-                        "c":  "598",
-                        "d":  "601"
-                    },
-        "answer":  "b",
-        "explanation":  "Out of the 601 total members of the Constituent Assembly, 507 members signed the final document during its promulgation in 2072 BS."
-    }
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "The existing Constitution of Nepal shall be cited as:",
+    "options": {
+      "a": "Constitution of Nepal, 2072",
+      "b": "The Constitution of Nepal",
+      "c": "The Constitution of federal Nepal",
+      "d": "The Constitution of federal republic Nepal"
+    },
+    "answer": "b",
+    "explanation": "Article 1 of the Constitution of Nepal explicitly specifies the short title of the constitution as 'The Constitution of Nepal'."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In the constitutional history of Nepal, present constitution is ........... constitution",
+    "options": {
+      "a": "Fifth",
+      "b": "sixth",
+      "c": "seventh",
+      "d": "eighth"
+    },
+    "answer": "c",
+    "explanation": "Nepal's constitutional evolution includes past constitutions (1948, 1951, 1959, 1962, 1990, and the Interim Constitution 2007), making the 2072 BS Constitution the seventh constitution in Nepal's history."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many parts, articles and schedules are there in the present constitution of Nepal?",
+    "options": {
+      "a": "25 parts, 308 articles and 5 schedules",
+      "b": "21 parts, 337 articles and 11 schedules",
+      "c": "35 parts, 308 articles and 9 schedules",
+      "d": "23 parts, 205 articles and 7 schedules"
+    },
+    "answer": "c",
+    "explanation": "The Constitution of Nepal (2072 BS) is structured into 35 parts, 308 articles, and 9 schedules."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Constitution of Nepal is amended for the first time on",
+    "options": {
+      "a": "2072, Ashwin 03",
+      "b": "2072, Magh 09",
+      "c": "2072, Falgun 16",
+      "d": "2073, Jestha 15"
+    },
+    "answer": "c",
+    "explanation": "The first amendment to the Constitution of Nepal was officially promulgated on Falgun 16, 2072 BS to address inclusive representation and federal delineation concerns."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following isn't the feature of Constitution of Nepal?",
+    "options": {
+      "a": "Republican",
+      "b": "feudal",
+      "c": "federal",
+      "d": "secular"
+    },
+    "answer": "b",
+    "explanation": "The Constitution establishes a democratic, republican, federal, and secular system; 'feudalism' is entirely contradictory to its constitutional framework and democratic values."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "According to the present constitution of Nepal, Nepal is a;",
+    "options": {
+      "a": "federal democratic People's Republic country",
+      "b": "federal democratic country",
+      "c": "federal democratic republican state",
+      "d": "democratic republic state"
+    },
+    "answer": "c",
+    "explanation": "Article 4 of the Constitution defines Nepal as an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented, federal democratic republican state."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which provision of the Constitution of Nepal cannot be enforced through Court?",
+    "options": {
+      "a": "Fundamental rights and duties",
+      "b": "directives principles and state policy",
+      "c": "Provision regarding Citizenship",
+      "d": "federal financial procedure"
+    },
+    "answer": "b",
+    "explanation": "Directive Principles and Policies of the State serve as guidelines for governance and policy formulation, and they are explicitly non-enforceable by any court of law."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following is not characteristic of constitution of Nepal?",
+    "options": {
+      "a": "President",
+      "b": "Pradesh Legislature",
+      "c": "Election Commission",
+      "d": "Civil Society"
+    },
+    "answer": "d",
+    "explanation": "Civil society is an independent public sphere and community sector, not a structural government organ or institutional characteristic mandated by the Constitution."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which one of the following features is/are support the federal character of Constitution of Nepal?",
+    "options": {
+      "a": "Distribution of powers between Centre and States",
+      "b": "Single citizenship",
+      "c": "Supremacy of the Constitution",
+      "d": "All of above"
+    },
+    "answer": "d",
+    "explanation": "Federal systems rely on the constitutional division of power between levels of government, constitutional supremacy, and unified or harmonized legal standards like single citizenship."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which odd one out is as mentioned in right to freedom in constitution of Nepal 2072?",
+    "options": {
+      "a": "Freedom to move and reside in any part of Nepal",
+      "b": "Freedom to live with dignity",
+      "c": "Freedom to form political parties",
+      "d": "Freedom of opinion and expression"
+    },
+    "answer": "b",
+    "explanation": "'Freedom to live with dignity' is protected under the separate Right to Live with Dignity (Article 16), whereas options a, c, and d fall under the Right to Freedom (Article 17)."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which level of government has the residual power as per the constitution of Nepal?",
+    "options": {
+      "a": "Federal",
+      "b": "Local",
+      "c": "Province",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "According to Article 58, any power not explicitly enumerated in the federal, provincial, concurrent, or local lists remains with the Federal government as a residual power."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following words is mentioned in the preamble of the constitution of Nepal?",
+    "options": {
+      "a": "Sovereign",
+      "b": "Democratic",
+      "c": "Secular",
+      "d": "Federal"
+    },
+    "answer": "a",
+    "explanation": "The Preamble of the Constitution of Nepal begins with the opening statement: 'We, the sovereign people of Nepal...'"
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "According to Constitution of Nepal, Sovereignty of Nepal is vested on",
+    "options": {
+      "a": "People of Nepal",
+      "b": "president",
+      "c": "Prime minister",
+      "d": "council of ministers"
+    },
+    "answer": "a",
+    "explanation": "Article 3 explicitly declares that the sovereignty and state authority of Nepal are vested in the Nepali people."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "The final interpreter of Constitution is a",
+    "options": {
+      "a": "President",
+      "b": "Council of ministers",
+      "c": "Federal parliament",
+      "d": "Supreme Court"
+    },
+    "answer": "d",
+    "explanation": "The Supreme Court holds ultimate judicial authority and serves as the final constitutional interpreter and guardian of the Constitution."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many constitutional organs are there in Nepal?",
+    "options": {
+      "a": "6",
+      "b": "7",
+      "c": "13",
+      "d": "14"
+    },
+    "answer": "c",
+    "explanation": "Part 21 of the Constitution establishes 13 independent constitutional bodies (such as the CIAA, Auditor General, Public Service Commission, Election Commission, etc.)."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following is not the basic element of the national interest of Nepal?",
+    "options": {
+      "a": "Independence",
+      "b": "nationality",
+      "c": "Geographical diversities",
+      "d": "economic wellbeing and prosperity"
+    },
+    "answer": "c",
+    "explanation": "Article 5 defines national interest to include independence, sovereignty, territorial integrity, nationality, and economic well-being; geographical diversity is a physical characteristic rather than a national interest element."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "The Constitution of Nepal mentioned national language is as",
+    "options": {
+      "a": "Tamang language only",
+      "b": "Bhojpuri language only",
+      "c": "Newari language only",
+      "d": "all spoken language within Nepal"
+    },
+    "answer": "d",
+    "explanation": "Article 6 states that all mother tongues spoken as the mother tongues in Nepal are the national languages of the nation."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "All languages spoken as the ...... in Nepal are the languages of the nation.",
+    "options": {
+      "a": "mother tongues",
+      "b": "ancestor languages",
+      "c": "Nepali language",
+      "d": "all of above"
+    },
+    "answer": "a",
+    "explanation": "The constitutional provision recognizes all mother tongues spoken across Nepal as languages of the nation."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "The term 'secular' has been used in the Present Constitution in",
+    "options": {
+      "a": "Article, 03",
+      "b": "Article, 02",
+      "c": "Article, 02",
+      "d": "Article, 04"
+    },
+    "answer": "d",
+    "explanation": "Article 4 ('Definition of State') defines Nepal as a secular ('dharmanirpeksha') state."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In which article of Constitution of Nepal has provisioned about National interest?",
+    "options": {
+      "a": "4",
+      "b": "3",
+      "c": "6",
+      "d": "5"
+    },
+    "answer": "d",
+    "explanation": "Article 5 of the Constitution outlines provisions regarding the protection and promotion of Nepal's national interest."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many types of Citizenship have been provisioned by the Constitution of Nepal?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "3",
+      "d": "5"
+    },
+    "answer": "b",
+    "explanation": "The Constitution provisions 4 types of citizenship: descent (Banshaj), naturalized (Angikrit), honorary (Sammanak), and non-resident Nepali (NRN) citizenship."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "There is the provision of citizenship in the ...... of constitution of Nepal.",
+    "options": {
+      "a": "Part I",
+      "b": "Part II",
+      "c": "Part III",
+      "d": "Part IV"
+    },
+    "answer": "b",
+    "explanation": "Part II (Articles 10 through 15) of the Constitution contains all legal provisions governing citizenship."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "According to Constitution of Nepal, provision of citizenship with identity of :",
+    "options": {
+      "a": "Descent",
+      "b": "Gender",
+      "c": "both a & b",
+      "d": "Neither a nor b"
+    },
+    "answer": "c",
+    "explanation": "Citizenship provisions account for lineage through descent as well as gender identity considerations (such as obtaining citizenship through either mother's or father's identity)."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In which constitution of Nepal, the fundamental rights of citizens were included?",
+    "options": {
+      "a": "2007 BS",
+      "b": "2015 BS",
+      "c": "2004 BS",
+      "d": "2019 BS"
+    },
+    "answer": "c",
+    "explanation": "The Government of Nepal Act, 2004 BS was the earliest constitutional instrument to introduce foundational rights provisions in Nepal's history."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In which constitution of Nepal, the fundamental duties of citizens were included?",
+    "options": {
+      "a": "2007 BS",
+      "b": "2015 BS",
+      "c": "2019 BS",
+      "d": "2047 BS"
+    },
+    "answer": "c",
+    "explanation": "The Constitution of Nepal of 2019 BS first introduced explicit clauses regarding the fundamental duties of citizens."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many fundamental rights are there under present Constitution of Nepal?",
+    "options": {
+      "a": "31",
+      "b": "32",
+      "c": "33",
+      "d": "35"
+    },
+    "answer": "a",
+    "explanation": "Part 3 of the Constitution (Articles 16 to 46) guarantees a total of 31 fundamental rights to citizens."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In the Present constitution of Nepal, the rights to freedom and rights to property are respectively mentioned in the articles and :",
+    "options": {
+      "a": "17 and 25",
+      "b": "18 and 24",
+      "c": "19 and 22",
+      "d": "19 and 23"
+    },
+    "answer": "a",
+    "explanation": "Article 17 deals with the Right to Freedom, and Article 25 covers the Right to Property."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In which Article of the constitution of Nepal, the rights to communication is mentioned?",
+    "options": {
+      "a": "13",
+      "b": "15",
+      "c": "19",
+      "d": "21"
+    },
+    "answer": "c",
+    "explanation": "Article 19 of the Constitution explicitly guarantees the Right to Communication, protecting freedom of the press and publication."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which articles of the present Constitution of Nepal is related with Abolition of Untouchability?",
+    "options": {
+      "a": "25",
+      "b": "23",
+      "c": "24",
+      "d": "26"
+    },
+    "answer": "c",
+    "explanation": "Article 24 guarantees the Right against Untouchability and Caste-based Discrimination."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Right to open political parties' is :",
+    "options": {
+      "a": "right to information",
+      "b": "right to freedom",
+      "c": "Right to life",
+      "d": "right to equality"
+    },
+    "answer": "b",
+    "explanation": "The freedom to form and operate political parties, associations, and unions is a constituent clause under the Right to Freedom (Article 17)."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Right against trafficking, slavery or servitude according to Constitution of Nepal is :",
+    "options": {
+      "a": "Right to equality",
+      "b": "right against untouchability",
+      "c": "Right against exploitation",
+      "d": "right to dalit"
+    },
+    "answer": "c",
+    "explanation": "Article 29 guarantees the Right against Exploitation, prohibiting human trafficking, slavery, forced labor, and servitude."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Who is not entitled for social security rights as per the constitution of Nepal?",
+    "options": {
+      "a": "Helpless single women",
+      "b": "tribes on the verge of extinction",
+      "c": "Citizens with disability",
+      "d": "Minorities"
+    },
+    "answer": "d",
+    "explanation": "Article 43 covers social security for indigent, incapacitated, and helpless citizens, single women, persons with disabilities, and endangered tribes, whereas general minorities have specific cultural/linguistic protections rather than indigent social security entitlements."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Rights to Information, is lies under the ... of the constitution of Nepal.",
+    "options": {
+      "a": "A rights to receive secret matters",
+      "b": "rights to asylum",
+      "c": "Right to adoption",
+      "d": "fundamental rights"
+    },
+    "answer": "d",
+    "explanation": "The Right to Information is enshrined as Article 27 under Part 3 (Fundamental Rights) of the Constitution."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In the context of fundamental right, present constitution of Nepal has guaranteed free education for the Nepalese :",
+    "options": {
+      "a": "upto primary level",
+      "b": "upto secondary level",
+      "c": "upto lower Secondary level",
+      "d": "upto university level"
+    },
+    "answer": "b",
+    "explanation": "Article 31 specifies that every citizen has the right to access free education up to the secondary level from the State."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "\"No law shall be made providing for the death penalty to any one\", which article deals with this statement?",
+    "options": {
+      "a": "Article, 35",
+      "b": "article, 42",
+      "c": "article, 16",
+      "d": "article, 22"
+    },
+    "answer": "c",
+    "explanation": "Article 16 (Right to live with dignity) explicitly establishes that no law shall be enacted providing for the death penalty."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which article provides a citizen of Nepal, shall not discriminate against anyone on the basis of religion, caste, Sex?",
+    "options": {
+      "a": "Article, 15",
+      "b": "article, 17",
+      "c": "article, 18",
+      "d": "article, 27"
+    },
+    "answer": "c",
+    "explanation": "Article 18 guarantees the Right to Equality, ensuring equal protection of law and prohibiting discrimination based on origin, religion, race, caste, or sex."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following right is guaranteed as fundamental right for the first time by the Constitution of Nepal?",
+    "options": {
+      "a": "Right to information",
+      "b": "right to privacy",
+      "c": "Right to Senior citizens",
+      "d": "right against exile"
+    },
+    "answer": "c",
+    "explanation": "The Right of Senior Citizens (Article 41) was introduced as a standalone fundamental right for the first time in the 2072 Constitution."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following subject does not lie under political right?",
+    "options": {
+      "a": "Voting rights",
+      "b": "Right to contest election",
+      "c": "Rights to get government job",
+      "d": "Rights to security of personal prestige"
+    },
+    "answer": "d",
+    "explanation": "Security of personal prestige and dignity relates to individual human and personal rights rather than political rights such as voting or running for public office."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "\"No law shall be made providing for the death penalty of any one.\" According to the Constitution Nepal, this related to",
+    "options": {
+      "a": "Right to live with dignity.",
+      "b": "Right to equality",
+      "c": "Right to freedom",
+      "d": "Right to social justice"
+    },
+    "answer": "a",
+    "explanation": "The abolition of capital punishment is anchored directly within the Right to live with dignity under Article 16."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following is correct in regards in right to freedom provisioned in the constitution of Nepal?",
+    "options": {
+      "a": "Freedom to assemble without arms",
+      "b": "Freedom to assemble peacefully",
+      "c": "Freedom to assemble peaceably and without arms",
+      "d": "Opportunity to freely assemble"
+    },
+    "answer": "c",
+    "explanation": "Article 17(2)(b) precisely guarantees the freedom to assemble peaceably and without arms."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "The right, which is first time guaranteed in the constitution of Nepal?",
+    "options": {
+      "a": "Right of victim of crime.",
+      "b": "Right against torture",
+      "c": "Right relating to justice",
+      "d": "Rights to information"
+    },
+    "answer": "a",
+    "explanation": "The Right of Victims of Crime (Article 21) is a new fundamental right introduced in the 2072 Constitution."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following right(s) is/are guaranteed as fundamental right for the first time by the constitution of Nepal, 2072?",
+    "options": {
+      "a": "rights of the consumer",
+      "b": "right to housing",
+      "c": "rights of dalit",
+      "d": "all of above"
+    },
+    "answer": "d",
+    "explanation": "Consumer rights, right to housing, and dalit rights were all newly or more comprehensively secured as explicit fundamental rights in the 2072 Constitution."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "According to the constitution of Nepal, which provision among the given below does not fall under fundamental rights?",
+    "options": {
+      "a": "Rights of Child",
+      "b": "Rights of Youth.",
+      "c": "Rights of Women",
+      "d": "Rights of Senior citizens"
+    },
+    "answer": "b",
+    "explanation": "While children, women, and senior citizens have separate fundamental right provisions, 'Rights of Youth' is not designated as an independent fundamental right article."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which is not fundamental right under Constitution of Nepal?",
+    "options": {
+      "a": "Right to equality",
+      "b": "right to conversion of religion",
+      "c": "Right to information",
+      "d": "right to social justice"
+    },
+    "answer": "b",
+    "explanation": "Proselytizing or inducing religious conversions is restricted by law; a 'right to conversion of religion' is not a fundamental right."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "\"Every woman shall have right relating to safe motherhood and reproductive health\", which article deals with this statement?",
+    "options": {
+      "a": "Article, 35",
+      "b": "article, 42",
+      "c": "article, 38",
+      "d": "article, 16"
+    },
+    "answer": "c",
+    "explanation": "Article 38 covers the Rights of Women, which includes specific guarantees for safe motherhood and reproductive health."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Rights to Social Justice is related to with",
+    "options": {
+      "a": "Inclusive principle",
+      "b": "democratic",
+      "c": "Directive Principle",
+      "d": "social principle"
+    },
+    "answer": "a",
+    "explanation": "The Right to Social Justice (Article 42) is built upon the inclusive principle, ensuring proportional participation of marginalized groups in state structures."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "According to Article 47 of the Constitution of Nepal, within how many years, should the legal provisions be made for the implementation of fundamental rights",
+    "options": {
+      "a": "1 year",
+      "b": "2 years",
+      "c": "3 years.",
+      "d": "4years"
+    },
+    "answer": "c",
+    "explanation": "Article 47 mandates that the State must enact necessary legal provisions within three years of the commencement of the Constitution to enforce fundamental rights."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which is/are the duties of Citizens according to the Constitution of Nepal",
+    "options": {
+      "a": "To render compulsory service as and when the state so requires",
+      "b": "To protect and preserve public property",
+      "c": "To abide by the constitution and law",
+      "d": "all of above"
+    },
+    "answer": "d",
+    "explanation": "Article 48 sets forth all these clauses as the constitutional duties of every citizen."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "The existing Constitution of Nepal has incorporated duties of Citizens in",
+    "options": {
+      "a": "Article, 46",
+      "b": "Article, 47",
+      "c": "Article, 48.",
+      "d": "Article, 49"
+    },
+    "answer": "c",
+    "explanation": "Citizen duties are explicitly incorporated under Article 48 of the Constitution."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Fundamental Rights in Nepal are guaranteed by it through",
+    "options": {
+      "a": "The right of equality",
+      "b": "Right against Exploitation",
+      "c": "Right to Constitutional Remedies",
+      "d": "Educational and Cultural Rights"
+    },
+    "answer": "c",
+    "explanation": "Article 46 provides the Right to Constitutional Remedies, serving as the legal shield that guarantees the enforcement of all fundamental rights."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many duties of citizen's have been provisioned by the Constitution of Nepal?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "3",
+      "d": "5"
+    },
+    "answer": "b",
+    "explanation": "Article 48 outlines 4 distinct duties for citizens of Nepal."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "According to Constitution of Nepal, every citizen shall have :",
+    "options": {
+      "a": "Freedom to opinion and expression",
+      "b": "Freedom of assemble peacefully without arms",
+      "c": "Freedom to move and reside any part of Nepal",
+      "d": "All of the above."
+    },
+    "answer": "d",
+    "explanation": "All listed individual liberties are guaranteed under the clauses of Article 17 (Right to Freedom)."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "According to Constitution of Nepal, which is not the duty of the citizens?",
+    "options": {
+      "a": "To abide by the Constitution and law",
+      "b": "To render compulsory service as and when the state so requires",
+      "c": "To protect the political rights of the people.",
+      "d": "To protect and preserve public property"
+    },
+    "answer": "c",
+    "explanation": "Protecting the political rights of people is not among the formal constitutional citizen duties listed in Article 48."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In which constitution of Nepal, the directive principles were included?",
+    "options": {
+      "a": "2007 BS",
+      "b": "2015 BS",
+      "c": "2019 BS",
+      "d": "2047 BS"
+    },
+    "answer": "a",
+    "explanation": "The Interim Constitution of Nepal, 2007 BS, first introduced the inclusion of directive principles of state policy."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many directive principles have been provisioned by the present constitution of Nepal?",
+    "options": {
+      "a": "4",
+      "b": "8",
+      "c": "13",
+      "d": "14"
+    },
+    "answer": "a",
+    "explanation": "Article 50 outlines 4 core Directive Principles of the State (political, social/cultural, economic, and international relations)."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In which articles of the constitution of Nepal, has guaranteed about the \"Public Service\"?",
+    "options": {
+      "a": "article, 41",
+      "b": "article, 51",
+      "c": "article, 56",
+      "d": "article, 61"
+    },
+    "answer": "b",
+    "explanation": "Policies relating to basic needs, governance, and public service delivery are outlined under Article 51 of the Constitution."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Identify true and false in the following statements;\nI. Generally the directive principles and state policies are not enforceable by the court of law.\nII. The present constitution of Nepal has provisioned for Right to senior citizens.",
+    "options": {
+      "a": "both I and II true",
+      "b": "both I & II false",
+      "c": "I true & II false",
+      "d": "I false & II true"
+    },
+    "answer": "a",
+    "explanation": "Statement I is true because directive principles are non-enforceable guidelines; Statement II is true because Article 41 establishes the Right of Senior Citizens."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following are listed as a directive Principle of State Policy?",
+    "options": {
+      "a": "Policies relating to national unity and national security",
+      "b": "Policies relating to political and governance system of State",
+      "c": "Policies relating to social and cultural transformation",
+      "d": "All of above"
+    },
+    "answer": "d",
+    "explanation": "State policies under Article 51 cover national unity/security, political governance, and social/cultural transformation."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Match the following and choose the correct answer.\nGroup A: a. Article 56, b. Article 58, c. Article 60, d. Article 61 | Group B: 1. Structure of state, 2. Distribution of sources of revenue, 3. President, 4. Residual Power",
+    "options": {
+      "a": "a1, b2, c3, d4",
+      "b": "a1, b2, c4, d3",
+      "c": "a1, b4, c2, d3",
+      "d": "a1, b3, c2, d4"
+    },
+    "answer": "c",
+    "explanation": "Article 56 corresponds to Structure of state (a-1), Article 58 corresponds to Residual Power (b-4), Article 60 governs Distribution of sources of revenue (c-2), and Article 61 establishes the President (d-3), yielding the matching combination a1, b4, c2, d3."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How does the constitution of Nepal define the state power?",
+    "options": {
+      "a": "The responsibility issuing general directives, controlling and regulating of the governance of Nepal is the state power",
+      "b": "The power relating to the executive, Legislature, Judiciary and residual power is the state power",
+      "c": "The power relating to the executive, Legislature, Judiciary of the state is the state power",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "explanation": "State power in Nepal encompasses executive, legislative, judicial, and residual powers as constitutional competencies."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which article of Constitution of Nepal provides for the federal structure of Nepal?",
+    "options": {
+      "a": "Article, 55",
+      "b": "Article, 56",
+      "c": "Article, 58",
+      "d": "Article, 53"
+    },
+    "answer": "b",
+    "explanation": "Article 56 details the structure of the State, establishing Nepal's federal model comprising the Federation, Province, and Local levels."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many schedules of the constitution of Nepal have listed the power of state distributed to federation, province and local level?",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "c",
+    "explanation": "Schedules 5, 6, 7, 8, and 9 outline the federal list, provincial list, concurrent lists, and local list, totaling 5 schedules."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In which Schedule the Constitution of Nepal has provisioned about National Flag of Nepal?",
+    "options": {
+      "a": "Schedule, 4",
+      "b": "Schedule, 3",
+      "c": "Schedule, 2",
+      "d": "Schedule, 1"
+    },
+    "answer": "d",
+    "explanation": "Schedule 1 contains the shape, geometric construction method, and description of the National Flag of Nepal."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "In constitution of Nepal, the list of local level power is provided in :",
+    "options": {
+      "a": "Schedule, 5",
+      "b": "Schedule, 6",
+      "c": "Schedule, 7",
+      "d": "Schedule, 8"
+    },
+    "answer": "d",
+    "explanation": "Schedule 8 contains the list of exclusive legislative powers of local governments (municipalities and rural municipalities)."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Eighth Schedules of the constitution relating to ... contain ... items",
+    "options": {
+      "a": "18 items",
+      "b": "28 items",
+      "c": "19 items",
+      "d": "22 items"
+    },
+    "answer": "d",
+    "explanation": "Schedule 8 details the exclusive powers of local governments, consisting of 22 specific items."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "According to the Constitution of Nepal which amongst the following is the authority of a province?",
+    "options": {
+      "a": "Trust Management",
+      "b": "central statistics",
+      "c": "Health policy",
+      "d": "intellectual property"
+    },
+    "answer": "a",
+    "explanation": "Trust management (Guthi) falls under provincial jurisdiction (Schedule 6), whereas central statistics, health policies, and intellectual property are federal or concurrent matters."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "Which of the following pair(s) is/are correctly matched?\n1. Seventh schedule - concurrent powers of Federation and Province \n2. Fifth schedule - Federal list\n3. Sixth Schedule - Province List\n4. Ninth Schedule - concurrent powers of Federation, Province and Local Level",
+    "options": {
+      "a": "1 and 3 only",
+      "b": "2 and 4 only",
+      "c": "1, 2 and 3 only",
+      "d": "all of above"
+    },
+    "answer": "d",
+    "explanation": "All listed schedules match their respective legislative competency categories accurately within the constitutional schedule framework."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many Policies of the State have been provisioned in the article 51 of the Constitution of Nepal promulgated in 2072 BS?",
+    "options": {
+      "a": "11",
+      "b": "12",
+      "c": "13",
+      "d": "14"
+    },
+    "answer": "c",
+    "explanation": "Article 51 of the Constitution enumerates 13 distinct policies under the Directive Principles and Policies of the State."
+  },
+  {
+    "topic": "Constitution of Nepal(Part1-5)",
+    "question": "How many members of the Constituent Assembly signed the Constitution of Nepal when it was promulgated?",
+    "options": {
+      "a": "498",
+      "b": "507",
+      "c": "598",
+      "d": "601"
+    },
+    "answer": "b",
+    "explanation": "Out of the 601 total members of the Constituent Assembly, 507 members signed the final document during its promulgation in 2072 BS."
+  },
+  {
+    "question": "नेपालको संविधान कहिले जारी भयो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "वि.सं २०७२ भाद्र ३०",
+      "b": "वि.सं २०७२ असोज १",
+      "c": "वि.सं. २०७२ असोज ३",
+      "d": "वि.सं. २०७२ असोज ४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5415",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अहिलेसम्मको कति औँ संविधान हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "पाँचौँ",
+      "b": "छैटाै",
+      "c": "साताैँ",
+      "d": "आठाैँ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5416",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान पहिलो संशोधन कहिले भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "वि.सं. २०७१ फाल्गुन १६",
+      "b": "वि.सं. २०७२ फाल्गुन १६",
+      "c": "वि.सं. २०७२ माघ १६",
+      "d": "वि.सं. २०७३ फाल्गुन १६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5417",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार नेपालको सार्वभौमसत्ता र राजकीयसत्ता कसमा निहित रहेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "नेपाल सरकार",
+      "b": "नेपाली जनता",
+      "c": "राष्ट्रपति",
+      "d": "प्रधानमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5418",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको झण्डामा सूर्यमा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5419",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति प्रकारका नागरिकताको व्यवस्था गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5420",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले कति वटा मौलिक हकहरूको व्यवस्था गरेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१",
+      "b": "१३",
+      "c": "१०",
+      "d": "३०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5421",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संवैधानिक उपचारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ४७",
+      "c": "धारा ४५",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5422",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संघ, प्रदेश र स्थानीय तहको अधिकारको साझा सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5423",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "शोषण विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २९",
+      "b": "धारा ३०",
+      "c": "धारा १९",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5424",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला मधेश प्रदेशमा पर्दैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "सप्तरी",
+      "b": "उदयपुर",
+      "c": "सिराहा",
+      "d": "पर्सा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5426",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "वर्तमान संविधानको दोस्रो संशोधन कुन अनुसूचीमा गरियो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूची-२",
+      "b": "अनुसूची-३",
+      "c": "अनुसूची-४",
+      "d": "अनुसूची-५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5427",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संविधानमा तोकिएबमोजिम नेपालको राष्ट्रपतिको पदावधि कति छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४ वर्ष",
+      "b": "५ वर्ष",
+      "c": "६ वर्ष",
+      "d": "७ वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5428",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रोजगारीको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१",
+      "b": "३२",
+      "c": "३३",
+      "d": "३५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5429",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानको पहिलो संशोधनबाट तलका मध्ये संशोधन नभएको धारा कुन हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४२",
+      "b": "८४",
+      "c": "२८६",
+      "d": "२५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5430",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "देश निकाला विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४४",
+      "b": "धारा ४१",
+      "c": "धारा ४६",
+      "d": "धारा ४५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5431",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "उपभोक्ताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३५",
+      "b": "धारा ४४",
+      "c": "धारा ३६",
+      "d": "धारा ४५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5432",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संविधानको पालना र संरक्षण गर्नु संविधानबमोजिम कसको प्रमुख कर्तव्य भनी तोकिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "राष्ट्रपति",
+      "c": "उप-राष्ट्रपति",
+      "d": "नागरिक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5433",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार राज्यका निर्देशक सिद्धान्तहरू कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४",
+      "b": "१३",
+      "c": "३१",
+      "d": "१०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5434",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा उल्लेख भएअनुसार कुन तहसम्म निःशुल्क शिक्षा पाउने व्यवस्था रहेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्राथमिक",
+      "b": "आधारभूत",
+      "c": "माध्यमिक",
+      "d": "विद्यालय तह"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5435",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "प्रदेशको अधिकारको सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "२२",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5436",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "भाषा तथा संस्कृतिको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5437",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "लुम्बिनी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5438",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले कति वटा राज्यका नीतिहरु अवलम्बन गरेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१ वटा",
+      "b": "४ वटा",
+      "c": "२१ वटा",
+      "d": "१३ वटा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5439",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सम्पत्ति तथा पारिवारिक मामलामा दम्पतीको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5440",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा लैङ्गिक भेदभाव विना सबै सन्तानको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5441",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको निशान छाप सम्बन्धी ब्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5442",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "बालबालिकाको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5443",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "गण्डकी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5444",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति भाग, धारा र अनुसूची छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३५ भाग, ३०९ धारा, ९ अनुसूची",
+      "b": "३५ भाग, ३०८ धारा, ९ अनुसूची",
+      "c": "३५ भाग, ३०८ धारा, ८ अनुसूची",
+      "d": "३५ भाग, ३०९ धारा, ९ अनुसूची"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5445",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "स्वच्छ वातावरणको मौलिक हक कुन धारमा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३०",
+      "b": "धारा १५",
+      "c": "थारा २५",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5446",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "दलितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३९",
+      "b": "धारा २५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5447",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रत्येक व्यक्तिलाई आफू विरुद्ध गरिएको कारबाहीको जानकारी पाउने हक कुन मौलिक हक हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "समानताको हक",
+      "b": "स्वतन्त्रताको हक",
+      "c": "यातना विरुद्धको हक",
+      "d": "न्याय सम्बन्धि हक"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5449",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "समानताको हक कसलाई प्राप्त हुन्छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रत्येक व्यक्तिलाई",
+      "b": "उपराष्ट्रपतिलाई",
+      "c": "प्रधानमन्त्रीलाई",
+      "d": "सबै नागरिकलाई"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5450",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा सबै सन्तानको समान हक हुने व्यवस्था कुन मौलिक हक अन्तर्गत पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "स्वतन्त्रताको हक",
+      "b": "सम्पत्तिको हक",
+      "c": "समानताको हक",
+      "d": "महिलाको हक"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5451",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्तमान संविधान अनुसार स्थानीय तह अन्तर्गत पर्ने निकायहरु के के हुन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "गाउँपालिका सभा",
+      "b": "नगरपालिका सभा",
+      "c": "जिल्ला सभा",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5452",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपाललाई समावेशी राज्य भनिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा २",
+      "c": "धारा ३",
+      "d": "धारा ४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5453",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको पालना गर्नु कसको कर्तव्य हुनेछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रत्येक व्यक्तिको",
+      "b": "नेपाली जनताको",
+      "c": "नेपाली नागरिकको",
+      "d": "निजामती कर्मचारीको"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5454",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको मस्यौदा समितिमा कति जना सदस्य थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "७६ जना",
+      "b": "७५ जना",
+      "c": "७४ जना",
+      "d": "७३ जना"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5455",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान मस्यौदा समितिको अध्यक्ष को थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "केपी शर्मा ओली",
+      "b": "पुष्पकमल दाहाल",
+      "c": "कृष्ण प्रसाद सिटौला",
+      "d": "शेर बहादुर देउवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5456",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान तर्जुमा गर्दा रहेको विवाद समाधान समितिको अध्यक्ष को थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "डा. बाबुराम भट्टराई",
+      "b": "पुष्पकमल दाहाल",
+      "c": "केपी शर्मा ओली",
+      "d": "शेर बहादुर देउवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5457",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको विधेयक संविधान सभाबाट कहिले पारित भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ भाद्र २८ गते",
+      "b": "२०७२ असोज १ गते",
+      "c": "२०७२ भाद्र २९ गते",
+      "d": "२०७२ भाद्र ३० गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5458",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "संविधान सभाका अध्यक्ष सुवासचन्द्र नेम्वाङबाट नेपालको संविधान कहिले प्रमाणित भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ असोज १ गते",
+      "b": "२०७२ असोज ३ गते",
+      "c": "२०७२ भाद्र १ गते",
+      "d": "२०७२ भाद्र २ गते"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5459",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान राष्ट्रपति रामवरण यादवबाट कहिले हस्ताक्षर भई जारी भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ असोज २",
+      "b": "२०७२ असोज ३",
+      "c": "२०७२ असोज ४",
+      "d": "२०७२ असोज ५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5460",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा संविधान सभाबाट जारी भएको एक मात्र संविधानको नाम के हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "नेपालको संविधान",
+      "b": "नेपालको संविधान, २०७२",
+      "c": "नेपाल राज्यको संविधान",
+      "d": "नेपाल राज्यको संविधान, २०७२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5461",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय झण्डामा भुइँ र किनाराको रंग कस्तो प्रयोग हुने व्यवस्था छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "रातो र नीलो",
+      "b": "रातो र गाढा नीलो",
+      "c": "सिम्रिक र गाढा नीलो",
+      "d": "सिम्रिक र नीलो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5462",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सामाजिक न्याय सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४२",
+      "b": "धारा ३५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5463",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान बमोजिम स्थानीय तह अन्तर्गत कुन कुन निकाय पर्दछन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "सङ्घ, प्रदेश र स्थानीय",
+      "b": "गाउँपालिका, नगरपालिका र जिल्ला सभा",
+      "c": "गाउँपालिका, नगरपालिका र प्रदेश सभा",
+      "d": "प्रदेश, नगरपालिका र जिल्ला सभा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5464",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "खाद्य सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३६",
+      "b": "धारा २२",
+      "c": "धारा ३४",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5465",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपालमा बोलिने सबै मातृभाषाहरू राष्ट्रभाषा हुन् भनी लेखिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ६",
+      "b": "धारा ७",
+      "c": "धारा ८",
+      "d": "धारा ९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5466",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय गान सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि १"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5467",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "गैर आवासीय नेपालीलाई नागरिकता प्रदान गर्न सकिने व्यवस्था कति धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ११",
+      "b": "धारा १२",
+      "c": "धारा १४",
+      "d": "धारा १५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5468",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नागरिकताको प्राप्ति, पुनः प्राप्ति र समाप्तिको व्यवस्था संविधानको कति धारामा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १४",
+      "b": "धारा ७",
+      "c": "धारा ११",
+      "d": "धारा १३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5469",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“ विपद् व्यवस्थापन ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5470",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“ स्वास्थ्य ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5471",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राज्यका निर्देशक सिद्धान्तहरू कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ५०",
+      "c": "धारा ५१",
+      "d": "धारा ५४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5472",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "यातना विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २२",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5473",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निवारक नजरबन्द विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २३",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5474",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको झण्डामा चन्द्रमामा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5475",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा नागरिकता सम्बन्धी व्यवस्था गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "भाग १",
+      "b": "भाग २",
+      "c": "भाग ३",
+      "d": "भाग ४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5476",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय झण्डा सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि ५",
+      "c": "अनुसूचि २",
+      "d": "अनुसूचि १"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5477",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ भनेर कुन धारामा भनिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5478",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघको अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5479",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघ र प्रदेशको साझा अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ७",
+      "b": "अनुसूचि ८",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5480",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अपराध पीडितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २१",
+      "b": "धारा ३३",
+      "c": "धारा २५",
+      "d": "धारा १२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5481",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघको अधिकारको सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5482",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सामाजिक सुरक्षाको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४१",
+      "b": "धारा ४२",
+      "c": "धारा ४५",
+      "d": "धारा ४३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5483",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "युद्द र प्रतिरक्षा सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5484",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नाप–तौल सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5485",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सहकारी सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5486",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अवशिष्ट अधिकार संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "५६",
+      "b": "५७",
+      "c": "५८",
+      "d": "५९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5487",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "स्वतन्त्रताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १८",
+      "c": "धारा १७",
+      "d": "धारा १९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5488",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "गोपनीयताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २५",
+      "b": "धारा २७",
+      "c": "धारा २८",
+      "d": "धारा २९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5489",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सञ्चारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १७",
+      "c": "धारा १८",
+      "d": "धारा १९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5490",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "आवासको मौलिक हक कुन धारामा उल्लेख छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३३",
+      "b": "धारा ३५",
+      "c": "धारा ३७",
+      "d": "धारा २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5491",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राज्यका नीतिहरु कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ५२",
+      "c": "धारा ५१",
+      "d": "धारा २६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5492",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सबै भन्दा धेरै जिल्ला भएको प्रदेशमा कति जिल्ला छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "११",
+      "b": "१२",
+      "c": "१४",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5493",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तलका मध्ये सबैभन्दा कम जिल्ला भएको प्रदेश कुन हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "गण्डकी प्रदेश",
+      "b": "मधेश प्रदेश",
+      "c": "कोशी प्रदेश",
+      "d": "बागमती प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5494",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बाजुरा जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5495",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "मुगु जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5496",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सल्यान जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5497",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "शिक्षा सम्बन्धी मौलिक हक कुन धारा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १७",
+      "b": "धारा ३१",
+      "c": "धारा ३२",
+      "d": "धारा १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5498",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बागमती प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5499",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानमा राष्ट्रिय हित सम्बन्धी कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5500",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा लेखिएका कुनै विषय कार्यान्वयन भए वा नभएको सम्बन्धमा कुनै अदालतमा प्रश्र उठाउन सकिने छैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "भाग २",
+      "b": "भाग ३",
+      "c": "भाग ४",
+      "d": "भाग ५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5501",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राज्यका निर्देशक सिद्धान्त, नीति र दायित्व कार्यान्वयनका सम्बन्धमा गरेका काम र प्राप्त उपलब्धि सहितको वार्षिक प्रतिवेदन नेपाल सरकारले कसको समक्ष पेस गर्नु पर्नेछ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "राष्ट्रपति",
+      "b": "संघीय संसद्",
+      "c": "सभामुख",
+      "d": "प्रधानमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5502",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला कर्णाली प्रदेशमा पर्दैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "जुम्ला",
+      "b": "मुगु",
+      "c": "दैलेख",
+      "d": "डोटी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5503",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "“ नागरिकता, राहदानी, भिसा, अध्यागमन ” सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ",
+      "b": "प्रदेश",
+      "c": "स्थानीय",
+      "d": "संघ र प्रदेशको साझा अधिकार सूचि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5504",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधान कहिले जारी भयो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "वि.सं २०७२ भाद्र ३०",
+      "b": "वि.सं २०७२ असोज १",
+      "c": "वि.सं. २०७२ असोज ३",
+      "d": "वि.सं. २०७२ असोज ४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5415",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अहिलेसम्मको कति औँ संविधान हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "पाँचौँ",
+      "b": "छैटाै",
+      "c": "साताैँ",
+      "d": "आठाैँ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5416",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान पहिलो संशोधन कहिले भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "वि.सं. २०७१ फाल्गुन १६",
+      "b": "वि.सं. २०७२ फाल्गुन १६",
+      "c": "वि.सं. २०७२ माघ १६",
+      "d": "वि.सं. २०७३ फाल्गुन १६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5417",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार नेपालको सार्वभौमसत्ता र राजकीयसत्ता कसमा निहित रहेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "नेपाल सरकार",
+      "b": "नेपाली जनता",
+      "c": "राष्ट्रपति",
+      "d": "प्रधानमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5418",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको झण्डामा सूर्यमा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5419",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति प्रकारका नागरिकताको व्यवस्था गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5420",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले कति वटा मौलिक हकहरूको व्यवस्था गरेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१",
+      "b": "१३",
+      "c": "१०",
+      "d": "३०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5421",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संवैधानिक उपचारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ४७",
+      "c": "धारा ४५",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5422",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संघ, प्रदेश र स्थानीय तहको अधिकारको साझा सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5423",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "शोषण विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २९",
+      "b": "धारा ३०",
+      "c": "धारा १९",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5424",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला मधेश प्रदेशमा पर्दैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "सप्तरी",
+      "b": "उदयपुर",
+      "c": "सिराहा",
+      "d": "पर्सा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5426",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "वर्तमान संविधानको दोस्रो संशोधन कुन अनुसूचीमा गरियो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूची-२",
+      "b": "अनुसूची-३",
+      "c": "अनुसूची-४",
+      "d": "अनुसूची-५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5427",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संविधानमा तोकिएबमोजिम नेपालको राष्ट्रपतिको पदावधि कति छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४ वर्ष",
+      "b": "५ वर्ष",
+      "c": "६ वर्ष",
+      "d": "७ वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5428",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रोजगारीको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१",
+      "b": "३२",
+      "c": "३३",
+      "d": "३५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5429",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानको पहिलो संशोधनबाट तलका मध्ये संशोधन नभएको धारा कुन हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४२",
+      "b": "८४",
+      "c": "२८६",
+      "d": "२५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5430",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "देश निकाला विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४४",
+      "b": "धारा ४१",
+      "c": "धारा ४६",
+      "d": "धारा ४५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5431",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "उपभोक्ताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३५",
+      "b": "धारा ४४",
+      "c": "धारा ३६",
+      "d": "धारा ४५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5432",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संविधानको पालना र संरक्षण गर्नु संविधानबमोजिम कसको प्रमुख कर्तव्य भनी तोकिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "राष्ट्रपति",
+      "c": "उप-राष्ट्रपति",
+      "d": "नागरिक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5433",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार राज्यका निर्देशक सिद्धान्तहरू कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४",
+      "b": "१३",
+      "c": "३१",
+      "d": "१०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5434",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा उल्लेख भएअनुसार कुन तहसम्म निःशुल्क शिक्षा पाउने व्यवस्था रहेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्राथमिक",
+      "b": "आधारभूत",
+      "c": "माध्यमिक",
+      "d": "विद्यालय तह"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5435",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "प्रदेशको अधिकारको सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "२२",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5436",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "भाषा तथा संस्कृतिको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5437",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "लुम्बिनी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5438",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले कति वटा राज्यका नीतिहरु अवलम्बन गरेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१ वटा",
+      "b": "४ वटा",
+      "c": "२१ वटा",
+      "d": "१३ वटा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5439",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सम्पत्ति तथा पारिवारिक मामलामा दम्पतीको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5440",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा लैङ्गिक भेदभाव विना सबै सन्तानको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5441",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको निशान छाप सम्बन्धी ब्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5442",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "बालबालिकाको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5443",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "गण्डकी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5444",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति भाग, धारा र अनुसूची छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३५ भाग, ३०९ धारा, ९ अनुसूची",
+      "b": "३५ भाग, ३०८ धारा, ९ अनुसूची",
+      "c": "३५ भाग, ३०८ धारा, ८ अनुसूची",
+      "d": "३५ भाग, ३०९ धारा, ९ अनुसूची"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5445",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "स्वच्छ वातावरणको मौलिक हक कुन धारमा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३०",
+      "b": "धारा १५",
+      "c": "थारा २५",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5446",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "दलितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३९",
+      "b": "धारा २५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5447",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रत्येक व्यक्तिलाई आफू विरुद्ध गरिएको कारबाहीको जानकारी पाउने हक कुन मौलिक हक हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "समानताको हक",
+      "b": "स्वतन्त्रताको हक",
+      "c": "यातना विरुद्धको हक",
+      "d": "न्याय सम्बन्धि हक"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5449",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "समानताको हक कसलाई प्राप्त हुन्छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रत्येक व्यक्तिलाई",
+      "b": "उपराष्ट्रपतिलाई",
+      "c": "प्रधानमन्त्रीलाई",
+      "d": "सबै नागरिकलाई"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5450",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा सबै सन्तानको समान हक हुने व्यवस्था कुन मौलिक हक अन्तर्गत पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "स्वतन्त्रताको हक",
+      "b": "सम्पत्तिको हक",
+      "c": "समानताको हक",
+      "d": "महिलाको हक"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5451",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्तमान संविधान अनुसार स्थानीय तह अन्तर्गत पर्ने निकायहरु के के हुन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "गाउँपालिका सभा",
+      "b": "नगरपालिका सभा",
+      "c": "जिल्ला सभा",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5452",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपाललाई समावेशी राज्य भनिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा २",
+      "c": "धारा ३",
+      "d": "धारा ४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5453",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको पालना गर्नु कसको कर्तव्य हुनेछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रत्येक व्यक्तिको",
+      "b": "नेपाली जनताको",
+      "c": "नेपाली नागरिकको",
+      "d": "निजामती कर्मचारीको"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5454",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको मस्यौदा समितिमा कति जना सदस्य थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "७६ जना",
+      "b": "७५ जना",
+      "c": "७४ जना",
+      "d": "७३ जना"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5455",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान मस्यौदा समितिको अध्यक्ष को थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "केपी शर्मा ओली",
+      "b": "पुष्पकमल दाहाल",
+      "c": "कृष्ण प्रसाद सिटौला",
+      "d": "शेर बहादुर देउवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5456",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान तर्जुमा गर्दा रहेको विवाद समाधान समितिको अध्यक्ष को थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "डा. बाबुराम भट्टराई",
+      "b": "पुष्पकमल दाहाल",
+      "c": "केपी शर्मा ओली",
+      "d": "शेर बहादुर देउवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5457",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको विधेयक संविधान सभाबाट कहिले पारित भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ भाद्र २८ गते",
+      "b": "२०७२ असोज १ गते",
+      "c": "२०७२ भाद्र २९ गते",
+      "d": "२०७२ भाद्र ३० गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5458",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "संविधान सभाका अध्यक्ष सुवासचन्द्र नेम्वाङबाट नेपालको संविधान कहिले प्रमाणित भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ असोज १ गते",
+      "b": "२०७२ असोज ३ गते",
+      "c": "२०७२ भाद्र १ गते",
+      "d": "२०७२ भाद्र २ गते"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5459",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान राष्ट्रपति रामवरण यादवबाट कहिले हस्ताक्षर भई जारी भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ असोज २",
+      "b": "२०७२ असोज ३",
+      "c": "२०७२ असोज ४",
+      "d": "२०७२ असोज ५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5460",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा संविधान सभाबाट जारी भएको एक मात्र संविधानको नाम के हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "नेपालको संविधान",
+      "b": "नेपालको संविधान, २०७२",
+      "c": "नेपाल राज्यको संविधान",
+      "d": "नेपाल राज्यको संविधान, २०७२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5461",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय झण्डामा भुइँ र किनाराको रंग कस्तो प्रयोग हुने व्यवस्था छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "रातो र नीलो",
+      "b": "रातो र गाढा नीलो",
+      "c": "सिम्रिक र गाढा नीलो",
+      "d": "सिम्रिक र नीलो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5462",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सामाजिक न्याय सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४२",
+      "b": "धारा ३५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5463",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान बमोजिम स्थानीय तह अन्तर्गत कुन कुन निकाय पर्दछन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "सङ्घ, प्रदेश र स्थानीय",
+      "b": "गाउँपालिका, नगरपालिका र जिल्ला सभा",
+      "c": "गाउँपालिका, नगरपालिका र प्रदेश सभा",
+      "d": "प्रदेश, नगरपालिका र जिल्ला सभा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5464",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "खाद्य सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३६",
+      "b": "धारा २२",
+      "c": "धारा ३४",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5465",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपालमा बोलिने सबै मातृभाषाहरू राष्ट्रभाषा हुन् भनी लेखिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ६",
+      "b": "धारा ७",
+      "c": "धारा ८",
+      "d": "धारा ९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5466",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय गान सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि १"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5467",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "गैर आवासीय नेपालीलाई नागरिकता प्रदान गर्न सकिने व्यवस्था कति धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ११",
+      "b": "धारा १२",
+      "c": "धारा १४",
+      "d": "धारा १५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5468",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नागरिकताको प्राप्ति, पुनः प्राप्ति र समाप्तिको व्यवस्था संविधानको कति धारामा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १४",
+      "b": "धारा ७",
+      "c": "धारा ११",
+      "d": "धारा १३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5469",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“ विपद् व्यवस्थापन ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5470",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“ स्वास्थ्य ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5471",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राज्यका निर्देशक सिद्धान्तहरू कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ५०",
+      "c": "धारा ५१",
+      "d": "धारा ५४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5472",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "यातना विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २२",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5473",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निवारक नजरबन्द विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २३",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5474",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको झण्डामा चन्द्रमामा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5475",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा नागरिकता सम्बन्धी व्यवस्था गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "भाग १",
+      "b": "भाग २",
+      "c": "भाग ३",
+      "d": "भाग ४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5476",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय झण्डा सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि ५",
+      "c": "अनुसूचि २",
+      "d": "अनुसूचि १"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5477",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ भनेर कुन धारामा भनिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5478",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघको अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5479",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघ र प्रदेशको साझा अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ७",
+      "b": "अनुसूचि ८",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5480",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अपराध पीडितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २१",
+      "b": "धारा ३३",
+      "c": "धारा २५",
+      "d": "धारा १२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5481",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघको अधिकारको सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5482",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सामाजिक सुरक्षाको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४१",
+      "b": "धारा ४२",
+      "c": "धारा ४५",
+      "d": "धारा ४३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5483",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "युद्द र प्रतिरक्षा सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5484",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नाप–तौल सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5485",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सहकारी सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5486",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अवशिष्ट अधिकार संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "५६",
+      "b": "५७",
+      "c": "५८",
+      "d": "५९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5487",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "स्वतन्त्रताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १८",
+      "c": "धारा १७",
+      "d": "धारा १९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5488",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "गोपनीयताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २५",
+      "b": "धारा २७",
+      "c": "धारा २८",
+      "d": "धारा २९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5489",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सञ्चारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १७",
+      "c": "धारा १८",
+      "d": "धारा १९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5490",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "आवासको मौलिक हक कुन धारामा उल्लेख छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३३",
+      "b": "धारा ३५",
+      "c": "धारा ३७",
+      "d": "धारा २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5491",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राज्यका नीतिहरु कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ५२",
+      "c": "धारा ५१",
+      "d": "धारा २६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5492",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सबै भन्दा धेरै जिल्ला भएको प्रदेशमा कति जिल्ला छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "११",
+      "b": "१२",
+      "c": "१४",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5493",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तलका मध्ये सबैभन्दा कम जिल्ला भएको प्रदेश कुन हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "गण्डकी प्रदेश",
+      "b": "मधेश प्रदेश",
+      "c": "कोशी प्रदेश",
+      "d": "बागमती प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5494",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बाजुरा जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5495",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "मुगु जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5496",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सल्यान जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5497",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "शिक्षा सम्बन्धी मौलिक हक कुन धारा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १७",
+      "b": "धारा ३१",
+      "c": "धारा ३२",
+      "d": "धारा १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5498",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बागमती प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5499",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानमा राष्ट्रिय हित सम्बन्धी कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5500",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा लेखिएका कुनै विषय कार्यान्वयन भए वा नभएको सम्बन्धमा कुनै अदालतमा प्रश्र उठाउन सकिने छैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "भाग २",
+      "b": "भाग ३",
+      "c": "भाग ४",
+      "d": "भाग ५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5501",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राज्यका निर्देशक सिद्धान्त, नीति र दायित्व कार्यान्वयनका सम्बन्धमा गरेका काम र प्राप्त उपलब्धि सहितको वार्षिक प्रतिवेदन नेपाल सरकारले कसको समक्ष पेस गर्नु पर्नेछ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "राष्ट्रपति",
+      "b": "संघीय संसद्",
+      "c": "सभामुख",
+      "d": "प्रधानमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5502",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला कर्णाली प्रदेशमा पर्दैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "जुम्ला",
+      "b": "मुगु",
+      "c": "दैलेख",
+      "d": "डोटी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5503",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "“ नागरिकता, राहदानी, भिसा, अध्यागमन ” सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ",
+      "b": "प्रदेश",
+      "c": "स्थानीय",
+      "d": "संघ र प्रदेशको साझा अधिकार सूचि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5504",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधान कहिले जारी भयो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "वि.सं २०७२ भाद्र ३०",
+      "b": "वि.सं २०७२ असोज १",
+      "c": "वि.सं. २०७२ असोज ३",
+      "d": "वि.सं. २०७२ असोज ४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5415",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अहिलेसम्मको कति औँ संविधान हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "पाँचौँ",
+      "b": "छैटाै",
+      "c": "साताैँ",
+      "d": "आठाैँ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5416",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान पहिलो संशोधन कहिले भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "वि.सं. २०७१ फाल्गुन १६",
+      "b": "वि.सं. २०७२ फाल्गुन १६",
+      "c": "वि.सं. २०७२ माघ १६",
+      "d": "वि.सं. २०७३ फाल्गुन १६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5417",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार नेपालको सार्वभौमसत्ता र राजकीयसत्ता कसमा निहित रहेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "नेपाल सरकार",
+      "b": "नेपाली जनता",
+      "c": "राष्ट्रपति",
+      "d": "प्रधानमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5418",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको झण्डामा सूर्यमा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5419",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति प्रकारका नागरिकताको व्यवस्था गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5420",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले कति वटा मौलिक हकहरूको व्यवस्था गरेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१",
+      "b": "१३",
+      "c": "१०",
+      "d": "३०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5421",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संवैधानिक उपचारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ४७",
+      "c": "धारा ४५",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5422",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संघ, प्रदेश र स्थानीय तहको अधिकारको साझा सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5423",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "शोषण विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २९",
+      "b": "धारा ३०",
+      "c": "धारा १९",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5424",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला मधेश प्रदेशमा पर्दैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "सप्तरी",
+      "b": "उदयपुर",
+      "c": "सिराहा",
+      "d": "पर्सा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5426",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "वर्तमान संविधानको दोस्रो संशोधन कुन अनुसूचीमा गरियो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूची-२",
+      "b": "अनुसूची-३",
+      "c": "अनुसूची-४",
+      "d": "अनुसूची-५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5427",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संविधानमा तोकिएबमोजिम नेपालको राष्ट्रपतिको पदावधि कति छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४ वर्ष",
+      "b": "५ वर्ष",
+      "c": "६ वर्ष",
+      "d": "७ वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5428",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रोजगारीको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१",
+      "b": "३२",
+      "c": "३३",
+      "d": "३५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5429",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानको पहिलो संशोधनबाट तलका मध्ये संशोधन नभएको धारा कुन हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४२",
+      "b": "८४",
+      "c": "२८६",
+      "d": "२५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5430",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "देश निकाला विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४४",
+      "b": "धारा ४१",
+      "c": "धारा ४६",
+      "d": "धारा ४५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5431",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "उपभोक्ताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३५",
+      "b": "धारा ४४",
+      "c": "धारा ३६",
+      "d": "धारा ४५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5432",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संविधानको पालना र संरक्षण गर्नु संविधानबमोजिम कसको प्रमुख कर्तव्य भनी तोकिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "राष्ट्रपति",
+      "c": "उप-राष्ट्रपति",
+      "d": "नागरिक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5433",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार राज्यका निर्देशक सिद्धान्तहरू कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "४",
+      "b": "१३",
+      "c": "३१",
+      "d": "१०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5434",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा उल्लेख भएअनुसार कुन तहसम्म निःशुल्क शिक्षा पाउने व्यवस्था रहेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्राथमिक",
+      "b": "आधारभूत",
+      "c": "माध्यमिक",
+      "d": "विद्यालय तह"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5435",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "प्रदेशको अधिकारको सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "२२",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5436",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "भाषा तथा संस्कृतिको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5437",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "लुम्बिनी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5438",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले कति वटा राज्यका नीतिहरु अवलम्बन गरेको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३१ वटा",
+      "b": "४ वटा",
+      "c": "२१ वटा",
+      "d": "१३ वटा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5439",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सम्पत्ति तथा पारिवारिक मामलामा दम्पतीको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5440",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा लैङ्गिक भेदभाव विना सबै सन्तानको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5441",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको निशान छाप सम्बन्धी ब्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5442",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "बालबालिकाको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5443",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "गण्डकी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5444",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति भाग, धारा र अनुसूची छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "३५ भाग, ३०९ धारा, ९ अनुसूची",
+      "b": "३५ भाग, ३०८ धारा, ९ अनुसूची",
+      "c": "३५ भाग, ३०८ धारा, ८ अनुसूची",
+      "d": "३५ भाग, ३०९ धारा, ९ अनुसूची"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5445",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "स्वच्छ वातावरणको मौलिक हक कुन धारमा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३०",
+      "b": "धारा १५",
+      "c": "थारा २५",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5446",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "दलितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३९",
+      "b": "धारा २५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5447",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रत्येक व्यक्तिलाई आफू विरुद्ध गरिएको कारबाहीको जानकारी पाउने हक कुन मौलिक हक हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "समानताको हक",
+      "b": "स्वतन्त्रताको हक",
+      "c": "यातना विरुद्धको हक",
+      "d": "न्याय सम्बन्धि हक"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5449",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "समानताको हक कसलाई प्राप्त हुन्छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रत्येक व्यक्तिलाई",
+      "b": "उपराष्ट्रपतिलाई",
+      "c": "प्रधानमन्त्रीलाई",
+      "d": "सबै नागरिकलाई"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5450",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा सबै सन्तानको समान हक हुने व्यवस्था कुन मौलिक हक अन्तर्गत पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "स्वतन्त्रताको हक",
+      "b": "सम्पत्तिको हक",
+      "c": "समानताको हक",
+      "d": "महिलाको हक"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5451",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्तमान संविधान अनुसार स्थानीय तह अन्तर्गत पर्ने निकायहरु के के हुन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "गाउँपालिका सभा",
+      "b": "नगरपालिका सभा",
+      "c": "जिल्ला सभा",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5452",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपाललाई समावेशी राज्य भनिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा २",
+      "c": "धारा ३",
+      "d": "धारा ४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5453",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको पालना गर्नु कसको कर्तव्य हुनेछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "प्रत्येक व्यक्तिको",
+      "b": "नेपाली जनताको",
+      "c": "नेपाली नागरिकको",
+      "d": "निजामती कर्मचारीको"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5454",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको मस्यौदा समितिमा कति जना सदस्य थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "७६ जना",
+      "b": "७५ जना",
+      "c": "७४ जना",
+      "d": "७३ जना"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5455",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान मस्यौदा समितिको अध्यक्ष को थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "केपी शर्मा ओली",
+      "b": "पुष्पकमल दाहाल",
+      "c": "कृष्ण प्रसाद सिटौला",
+      "d": "शेर बहादुर देउवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5456",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान तर्जुमा गर्दा रहेको विवाद समाधान समितिको अध्यक्ष को थिए ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "डा. बाबुराम भट्टराई",
+      "b": "पुष्पकमल दाहाल",
+      "c": "केपी शर्मा ओली",
+      "d": "शेर बहादुर देउवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5457",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको विधेयक संविधान सभाबाट कहिले पारित भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ भाद्र २८ गते",
+      "b": "२०७२ असोज १ गते",
+      "c": "२०७२ भाद्र २९ गते",
+      "d": "२०७२ भाद्र ३० गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5458",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "संविधान सभाका अध्यक्ष सुवासचन्द्र नेम्वाङबाट नेपालको संविधान कहिले प्रमाणित भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ असोज १ गते",
+      "b": "२०७२ असोज ३ गते",
+      "c": "२०७२ भाद्र १ गते",
+      "d": "२०७२ भाद्र २ गते"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5459",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान राष्ट्रपति रामवरण यादवबाट कहिले हस्ताक्षर भई जारी भएको हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२०७२ असोज २",
+      "b": "२०७२ असोज ३",
+      "c": "२०७२ असोज ४",
+      "d": "२०७२ असोज ५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5460",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा संविधान सभाबाट जारी भएको एक मात्र संविधानको नाम के हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "नेपालको संविधान",
+      "b": "नेपालको संविधान, २०७२",
+      "c": "नेपाल राज्यको संविधान",
+      "d": "नेपाल राज्यको संविधान, २०७२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5461",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय झण्डामा भुइँ र किनाराको रंग कस्तो प्रयोग हुने व्यवस्था छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "रातो र नीलो",
+      "b": "रातो र गाढा नीलो",
+      "c": "सिम्रिक र गाढा नीलो",
+      "d": "सिम्रिक र नीलो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5462",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सामाजिक न्याय सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४२",
+      "b": "धारा ३५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5463",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधान बमोजिम स्थानीय तह अन्तर्गत कुन कुन निकाय पर्दछन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "सङ्घ, प्रदेश र स्थानीय",
+      "b": "गाउँपालिका, नगरपालिका र जिल्ला सभा",
+      "c": "गाउँपालिका, नगरपालिका र प्रदेश सभा",
+      "d": "प्रदेश, नगरपालिका र जिल्ला सभा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5464",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "खाद्य सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३६",
+      "b": "धारा २२",
+      "c": "धारा ३४",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5465",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपालमा बोलिने सबै मातृभाषाहरू राष्ट्रभाषा हुन् भनी लेखिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ६",
+      "b": "धारा ७",
+      "c": "धारा ८",
+      "d": "धारा ९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5466",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय गान सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि १"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5467",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "गैर आवासीय नेपालीलाई नागरिकता प्रदान गर्न सकिने व्यवस्था कति धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ११",
+      "b": "धारा १२",
+      "c": "धारा १४",
+      "d": "धारा १५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5468",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नागरिकताको प्राप्ति, पुनः प्राप्ति र समाप्तिको व्यवस्था संविधानको कति धारामा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १४",
+      "b": "धारा ७",
+      "c": "धारा ११",
+      "d": "धारा १३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5469",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“ विपद् व्यवस्थापन ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5470",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“ स्वास्थ्य ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5471",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राज्यका निर्देशक सिद्धान्तहरू कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ५०",
+      "c": "धारा ५१",
+      "d": "धारा ५४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5472",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "यातना विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २२",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5473",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निवारक नजरबन्द विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २३",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5474",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको झण्डामा चन्द्रमामा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5475",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा नागरिकता सम्बन्धी व्यवस्था गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "भाग १",
+      "b": "भाग २",
+      "c": "भाग ३",
+      "d": "भाग ४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5476",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय झण्डा सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि ५",
+      "c": "अनुसूचि २",
+      "d": "अनुसूचि १"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5477",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ भनेर कुन धारामा भनिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5478",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघको अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5479",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघ र प्रदेशको साझा अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "अनुसूचि ७",
+      "b": "अनुसूचि ८",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5480",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अपराध पीडितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २१",
+      "b": "धारा ३३",
+      "c": "धारा २५",
+      "d": "धारा १२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5481",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "संघको अधिकारको सूची कति वटा छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5482",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सामाजिक सुरक्षाको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४१",
+      "b": "धारा ४२",
+      "c": "धारा ४५",
+      "d": "धारा ४३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5483",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "युद्द र प्रतिरक्षा सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5484",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नाप–तौल सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5485",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सहकारी सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5486",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अवशिष्ट अधिकार संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "५६",
+      "b": "५७",
+      "c": "५८",
+      "d": "५९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5487",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "स्वतन्त्रताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १८",
+      "c": "धारा १७",
+      "d": "धारा १९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5488",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "गोपनीयताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा २५",
+      "b": "धारा २७",
+      "c": "धारा २८",
+      "d": "धारा २९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5489",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सञ्चारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १७",
+      "c": "धारा १८",
+      "d": "धारा १९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5490",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "आवासको मौलिक हक कुन धारामा उल्लेख छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ३३",
+      "b": "धारा ३५",
+      "c": "धारा ३७",
+      "d": "धारा २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5491",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राज्यका नीतिहरु कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ५२",
+      "c": "धारा ५१",
+      "d": "धारा २६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5492",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सबै भन्दा धेरै जिल्ला भएको प्रदेशमा कति जिल्ला छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "११",
+      "b": "१२",
+      "c": "१४",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5493",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तलका मध्ये सबैभन्दा कम जिल्ला भएको प्रदेश कुन हो ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "गण्डकी प्रदेश",
+      "b": "मधेश प्रदेश",
+      "c": "कोशी प्रदेश",
+      "d": "बागमती प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5494",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बाजुरा जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5495",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "मुगु जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5496",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सल्यान जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5497",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "शिक्षा सम्बन्धी मौलिक हक कुन धारा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा १७",
+      "b": "धारा ३१",
+      "c": "धारा ३२",
+      "d": "धारा १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5498",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बागमती प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5499",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानमा राष्ट्रिय हित सम्बन्धी कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5500",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा लेखिएका कुनै विषय कार्यान्वयन भए वा नभएको सम्बन्धमा कुनै अदालतमा प्रश्र उठाउन सकिने छैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "भाग २",
+      "b": "भाग ३",
+      "c": "भाग ४",
+      "d": "भाग ५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5501",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राज्यका निर्देशक सिद्धान्त, नीति र दायित्व कार्यान्वयनका सम्बन्धमा गरेका काम र प्राप्त उपलब्धि सहितको वार्षिक प्रतिवेदन नेपाल सरकारले कसको समक्ष पेस गर्नु पर्नेछ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "राष्ट्रपति",
+      "b": "संघीय संसद्",
+      "c": "सभामुख",
+      "d": "प्रधानमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5502",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला कर्णाली प्रदेशमा पर्दैन ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "जुम्ला",
+      "b": "मुगु",
+      "c": "दैलेख",
+      "d": "डोटी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5503",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "“ नागरिकता, राहदानी, भिसा, अध्यागमन ” सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "Constitution of Nepal(Part1-5)",
+    "options": {
+      "a": "संघ",
+      "b": "प्रदेश",
+      "c": "स्थानीय",
+      "d": "संघ र प्रदेशको साझा अधिकार सूचि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5504",
+    "chapter": "SECTION-III"
+  }
 ]

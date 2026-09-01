@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Direct method of contouring is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "a quick method",
+      "b": "adopted for large surveys only",
+      "c": "most accurate method",
+      "d": "suitable for hilly terrains"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3060",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following has the lowest crushing strength?",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Diorite",
+      "b": "Basalt",
+      "c": "Slate",
+      "d": "Laterite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3061",
+    "chapter": ""
+  },
+  {
+    "question": "The strength of white cement is _____ that of ordinary Portland cement:",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Equal to",
+      "b": "Less than",
+      "c": "Greater than",
+      "d": "Less or greater depending upon manufacturer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3062",
+    "chapter": ""
+  },
+  {
+    "question": "Bitumen can be obtained from:",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Naturally",
+      "b": "Crude oil distillation",
+      "c": "Both (a) and (b)",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3063",
+    "chapter": ""
+  },
+  {
+    "question": "The commonly used raw material in the manufacture of cement is:",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Slate",
+      "b": "Sand stone",
+      "c": "Limestone",
+      "d": "Basalt"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3064",
+    "chapter": ""
+  },
+  {
+    "question": "Short column taking maximum load having an equal section is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "sal",
+      "b": "pce",
+      "c": "chir",
+      "d": "pine"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3065",
+    "chapter": ""
+  },
+  {
+    "question": "The shape of the bending moment diagram over the length of a beam, having no external load, is always",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubical",
+      "d": "circular."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3066",
+    "chapter": ""
+  },
+  {
+    "question": "The stress due to temperature change in a member depends on",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "cross-section of the member",
+      "b": "length of the member",
+      "c": "supporting end conditions",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3067",
+    "chapter": ""
+  },
+  {
+    "question": "Pressure head is given by",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "p/w",
+      "b": "z",
+      "c": "v/2g",
+      "d": "all"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3068",
+    "chapter": ""
+  },
+  {
+    "question": "A structure used to dam up a stream or river over which the water flows is called",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "orifice",
+      "b": "notch",
+      "c": "weir",
+      "d": "dam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3069",
+    "chapter": ""
+  },
+  {
+    "question": "A rotameter is used for measuring",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "density of fluids",
+      "b": "value of fluids in pipe",
+      "c": "discharge of fluids",
+      "d": "pressure in fluids"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3070",
+    "chapter": ""
+  },
+  {
+    "question": "The most efficient channel section is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "semi-circular",
+      "b": "rectangular",
+      "c": "triangular",
+      "d": "half hexagon in the form of a trapezoid"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3071",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of volume of voids to total volume of given soil is:",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Porosity",
+      "b": "Void ratio",
+      "c": "Water content",
+      "d": "Specific gravity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3072",
+    "chapter": ""
+  },
+  {
+    "question": "The property of soil which permits water to percolate through it is known as:",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Plasticity",
+      "b": "Elasticity",
+      "c": "Permeability",
+      "d": "Capillarity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3073",
+    "chapter": ""
+  },
+  {
+    "question": "Bearing capacity of soils depends upon _____ of particles:",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Shape",
+      "b": "cohesion",
+      "c": "Size",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3074",
+    "chapter": ""
+  },
+  {
+    "question": "Piles which support the load by skin friction are known as:",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Batter piles",
+      "b": "Sheet piles",
+      "c": "Friction piles",
+      "d": "Bearing piles"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3075",
+    "chapter": ""
+  },
+  {
+    "question": "If the corners of a two-way slab are held down firmly",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "the buckling takes place",
+      "b": "the deflection at the center increases",
+      "c": "the cracks develop near the corners",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3076",
+    "chapter": ""
+  },
+  {
+    "question": "The amount of reinforcement for main bars in a slab, is based on",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "minimum shear force",
+      "b": "maximum shear force",
+      "c": "minimum bending moment",
+      "d": "maximum bending moment"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3077",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of the effective length of a column which is fixed at both ends to the distance between the supports is about",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "2.0",
+      "b": "1.0",
+      "c": "0.7",
+      "d": "0.50"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3078",
+    "chapter": ""
+  },
+  {
+    "question": "Normally, the tensile strength of concrete is about _______ of its compressive strength.",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "10 to 15 %",
+      "b": "15 to 20 %",
+      "c": "20 to 25 %",
+      "d": "25 to 30 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3079",
+    "chapter": ""
+  },
+  {
+    "question": "A retaining wall may be built of",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "brick masonry concrete",
+      "b": "stone masonry",
+      "c": "plain cement",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3080",
+    "chapter": ""
+  },
+  {
+    "question": "King closers are related to",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "King post truss",
+      "b": "Queen post truss",
+      "c": "Brick masonry",
+      "d": "Doors and windows"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3081",
+    "chapter": ""
+  },
+  {
+    "question": "No. of bricks required for one cubic meter of masonry wall",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "360",
+      "b": "460",
+      "c": "560",
+      "d": "660"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3082",
+    "chapter": ""
+  },
+  {
+    "question": "The width of the wall footing (according to the thumb's rule) is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "21",
+      "b": "t+300",
+      "c": "2t+300",
+      "d": "2t+150"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3083",
+    "chapter": ""
+  },
+  {
+    "question": "The specific yield of wells is expressed as",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "m3/hour",
+      "b": "m3/hour/m2",
+      "c": "m3/hour/m2/m",
+      "d": "m3/hour/m2sec"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3084",
+    "chapter": ""
+  },
+  {
+    "question": "The setting time of cement can be increased by the addition of:",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Sodium salt",
+      "b": "Gypsum",
+      "c": "Calcium chloride",
+      "d": "Hydrogen peroxide"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3085",
+    "chapter": ""
+  },
+  {
+    "question": "When limiting non-scouring velocity is 5 m/sec the of sewer generally used is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "stoneware sewer",
+      "b": "cast iron sewer",
+      "c": "brick sewer",
+      "d": "glazed brick sewer"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3086",
+    "chapter": ""
+  },
+  {
+    "question": "In strainer type wells",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "the flow is radial",
+      "b": "the flow is spherical",
+      "c": "the area of flow depends upon the size of the cavity",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3087",
+    "chapter": ""
+  },
+  {
+    "question": "In a chute spillway, the flow is generally",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "laminar",
+      "b": "sub-critical",
+      "c": "critical",
+      "d": "super critical"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3088",
+    "chapter": ""
+  },
+  {
+    "question": "Weirs are normally used to calculate",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Volume",
+      "b": "Head loss",
+      "c": "Discharge",
+      "d": "Velocity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3089",
+    "chapter": ""
+  },
+  {
+    "question": "The discharge coefficient of an ogee spillway is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "1.2",
+      "b": "18",
+      "c": "2.02",
+      "d": "3.7"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3090",
+    "chapter": ""
+  },
+  {
+    "question": "A river training work is generally required when the river is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "meandering",
+      "b": "aggrading",
+      "c": "degrading",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3091",
+    "chapter": ""
+  },
+  {
+    "question": "The shape of the camber provided for cement concrete pavement is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "straight line",
+      "b": "parabolic",
+      "c": "elliptical",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3092",
+    "chapter": ""
+  },
+  {
+    "question": "In hill roads, the minimum sight distance required is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "stopping sight distance",
+      "b": "passing sight distance",
+      "c": "braking distance",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3093",
+    "chapter": ""
+  },
+  {
+    "question": "For calculating the minimum value of the ruling radius of horizontal curves in plains, the design speed is taken as",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "12 kmph",
+      "b": "16 kmph",
+      "c": "20 kmph",
+      "d": "24 kmph"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3094",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum length of transition curve in hill road",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "10 m",
+      "b": "15 m",
+      "c": "20 m",
+      "d": "25 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3095",
+    "chapter": ""
+  },
+  {
+    "question": "The concealed faces of the frames of doors and windows are painted with",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "varnishes",
+      "b": "two coats of primer",
+      "c": "two coats of same enamel paint which is applied for rest of frame",
+      "d": "two coat of coal tar"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3096",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum number of hinges required in the door and window shutter should be",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "1 & 2",
+      "b": "2 & 3",
+      "c": "2 & 4",
+      "d": "3 & 2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3097",
+    "chapter": ""
+  },
+  {
+    "question": "The height of the sink of wash basin above floor level is kept",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "60 cm",
+      "b": "70 cm",
+      "c": "75 cm to 80 cm",
+      "d": "80 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3098",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum width of a septic tank is taken",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "70 cm",
+      "b": "75 cm",
+      "c": "80 cm",
+      "d": "90 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3099",
+    "chapter": ""
+  },
+  {
+    "question": "The type of organization used in the construction industry is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "line organization",
+      "b": "line staff organization",
+      "c": "functional organization",
+      "d": "effective organization"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3100",
+    "chapter": ""
+  },
+  {
+    "question": "The pre-tender stage of a construction project is made up of ___________.",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "selection of site",
+      "b": "acquisition of land",
+      "c": "finalization of designs",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3101",
+    "chapter": ""
+  },
+  {
+    "question": "The opening of bidding in the process of procurement is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "contracting",
+      "b": "tendering",
+      "c": "negotiation",
+      "d": "mediation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3102",
+    "chapter": ""
+  },
+  {
+    "question": "Best option to avoid undue pressure, cartels, and collusion during the bidding process is ______________",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "Sealed quotation",
+      "b": "E-bidding",
+      "c": "Both",
+      "d": "Well administration"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3103",
+    "chapter": ""
+  },
+  {
+    "question": "According to PPMO , maximum number of JV partner is",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3104",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती सेवा ऐनको कुन संशोधनले नेपालमा आरक्षणको व्यवस्था गरेको हो ?",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "पहिलो",
+      "b": "दोस्रो",
+      "c": "तेस्रो",
+      "d": "चौथो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3105",
+    "chapter": ""
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार गाउँपालिकामा बढीमा कति वडा रहने व्यवस्था रहेको छ ?",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "५",
+      "b": "७",
+      "c": "९",
+      "d": "२१"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3106",
+    "chapter": ""
+  },
+  {
+    "question": "Benchmark is established by",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "hypsometry",
+      "b": "barometric levelling",
+      "c": "spirit levelling",
+      "d": "trigonometric levelling"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3107",
+    "chapter": ""
+  },
+  {
+    "question": "The position of a point can be fixed more accurately by",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "cross staff",
+      "b": "optical square",
+      "c": "oblique offsets",
+      "d": "perpendicular offsets"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3108",
+    "chapter": ""
+  },
+  {
+    "question": "Detailed plotting is generally done by",
+    "topic": "सुदूरपश्चिम प्रदेश - V",
+    "options": {
+      "a": "radiation",
+      "b": "traversing",
+      "c": "resection",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3109",
+    "chapter": ""
+  }
+]

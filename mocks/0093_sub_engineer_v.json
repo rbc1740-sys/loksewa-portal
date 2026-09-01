@@ -1,0 +1,702 @@
+[
+  {
+    "question": "बाह्रकुने ताल कहाँ पर्छ ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "दाङ",
+      "b": "चितवन",
+      "c": "सल्यान",
+      "d": "सुर्खेत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4000",
+    "chapter": ""
+  },
+  {
+    "question": "कालु पाण्डेले कहिले वीरगति प्राप्त गरेका थिए ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "वि.सं. १८१४",
+      "b": "वि.सं. १८१८",
+      "c": "वि.सं. १८१९",
+      "d": "वि.सं. १८२३"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4001",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा सुपारी उत्पादन हुने प्रमुख जिल्ला कुन हो ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "इलाम",
+      "b": "मोरङ",
+      "c": "झापा",
+      "d": "सिन्दुलि"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4002",
+    "chapter": ""
+  },
+  {
+    "question": "ISO - 14000 के सँग सम्बन्धित छ ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "वस्तुको गुणस्तर चिन्ह",
+      "b": "वातावरण व्यवस्थापन",
+      "c": "खाध्य सम्बन्धि",
+      "d": "सवारी साधन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4003",
+    "chapter": ""
+  },
+  {
+    "question": "स्टीम इन्जिन को आविष्कार कसले गरेका हुन् ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "डेनेश पपिन",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "जेम्स वाट",
+      "d": "जिलेट"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4004",
+    "chapter": ""
+  },
+  {
+    "question": "DOTS कुन रोगसँग सम्बन्धित छ ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "क्षयरोग",
+      "b": "झाडापखाला",
+      "c": "कन्यान्सर",
+      "d": "HIV/AIDS"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4005",
+    "chapter": ""
+  },
+  {
+    "question": "सहकारी सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4006",
+    "chapter": ""
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय न्यायालयमा कति जना न्यायाधीशहरू छन् ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "५",
+      "b": "१०",
+      "c": "१५",
+      "d": "२०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4007",
+    "chapter": ""
+  },
+  {
+    "question": "बिमस्टेक शिखर सम्मेलन प्रत्येक कति वर्षमा बसिन्छ ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "१",
+      "b": "२",
+      "c": "३",
+      "d": "४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4008",
+    "chapter": ""
+  },
+  {
+    "question": "सुन्तलालाई राष्ट्रिय फल कहिले घोषणा भएको हो ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "२०८०/१०/३०",
+      "b": "२०८०/११/३०",
+      "c": "२०८०/१२/३०",
+      "d": "२०८१/०१/३०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4009",
+    "chapter": ""
+  },
+  {
+    "question": "सहायक कर्मचारीले सम्पादन गर्ने कार्यहरु तलका मध्य कुन पर्दैन ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "अनुगमन तथा मूल्यांकन एवं समीक्षा गर्ने",
+      "b": "अभिलेख व्यवस्थित गरी राख्ने",
+      "c": "दैनिक कार्यतालिका तयार गर्ने",
+      "d": "कार्यसम्पन्न प्रतिवेदन तयार गर्ने"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4010",
+    "chapter": ""
+  },
+  {
+    "question": "तलको मध्य कुन पिछडिएको क्षेत्र होइन ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "अछाम",
+      "b": "बाजुरा",
+      "c": "बझाङ",
+      "d": "रुकुम पूर्व"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4011",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्य कुन कार्य सङ्‍घीय मामिला तथा सामान्य प्रशासन मन्त्रालय अन्तर्गत पर्दैन ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "निजामती सेवाको सञ्चालन व्यवस्थापन तथा अभिलेख व्यवस्थापन",
+      "b": "स्थानीय तहको क्षमता विकास र सहजीकरण",
+      "c": "कर्मचारीको सरुवा बढुवा",
+      "d": "कुनै पनि होइन।"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4012",
+    "chapter": ""
+  },
+  {
+    "question": "राष्ट्रिय मानव अधिकार आयोगको प्रावधान नेपालको कुन संविधानले गरेको थियो ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "२०७२ सालको संविधान",
+      "b": "२०६३ सालको संविधान",
+      "c": "२०४७ सालको संविधान",
+      "d": "२०१९ सालको संविधान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4013",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा कार्यक्रम बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०२६/२७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4014",
+    "chapter": ""
+  },
+  {
+    "question": "विपद, द्वन्द, संकट, जोखिम, प्रकोप, व्यवस्थापन, राहत उदार जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "परम्परागत सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4015",
+    "chapter": ""
+  },
+  {
+    "question": "नौ मध्य कतिवटा महासन्धिहरूको पक्षराष्ट्र नेपाल बनेको छ ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "६",
+      "b": "७",
+      "c": "८",
+      "d": "९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4016",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधानको कति धारामा सूचनाको हकको व्यवस्था गरिएको छ ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "धारा १५",
+      "b": "धारा २१",
+      "c": "धारा २५",
+      "d": "धारा २७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4017",
+    "chapter": ""
+  },
+  {
+    "question": "Motivation and hygiene factor of management principle is given by",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Maslow",
+      "b": "Herzberg",
+      "c": "Alderfer",
+      "d": "Skinner"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4018",
+    "chapter": ""
+  },
+  {
+    "question": "सदाचार, नैतिकता, असल व्यवहार कस्तो मूल्य र मान्यतामा पर्दछ?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "राष्ट्रिय मूल्य मान्यता",
+      "b": "नैतिक मूल्य मान्यता",
+      "c": "पारिवारिक मूल्य मान्यता",
+      "d": "आध्यात्मिक मूल्य मान्यता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4019",
+    "chapter": ""
+  },
+  {
+    "question": "During Survey work inaccessible points on a plane are plotted by:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "extrapolation",
+      "b": "traversing",
+      "c": "resection",
+      "d": "intersection"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4020",
+    "chapter": ""
+  },
+  {
+    "question": "An imaginary line joining the points of equal elevation on the surface of the earth represents:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "contour surface",
+      "b": "contour gradient",
+      "c": "contour line",
+      "d": "level line"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4021",
+    "chapter": ""
+  },
+  {
+    "question": "Due to curvature of earth, the object:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Looks higher than it is",
+      "b": "looks lower than it is",
+      "c": "Looks as it is",
+      "d": "Looks as it is"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4022",
+    "chapter": ""
+  },
+  {
+    "question": "Linseed oil in paint is used as",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Base",
+      "b": "Thinner",
+      "c": "pigment",
+      "d": "carrier"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4023",
+    "chapter": ""
+  },
+  {
+    "question": "Raw material for the manufacture of cement is",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Limestone",
+      "b": "Sand stone",
+      "c": "Gypsum",
+      "d": "Aluminum silicate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4024",
+    "chapter": ""
+  },
+  {
+    "question": "Bitumen mixed with water in finely divided globules form in stabilized condition is called:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Cut back bitumen",
+      "b": "Emulsion",
+      "c": "Tar",
+      "d": "Bitumen granules"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4025",
+    "chapter": ""
+  },
+  {
+    "question": "When a load on a free end of cantilever beam of length L is increased, failure will occur",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "At the fixed end",
+      "b": "At the free end",
+      "c": "In the middle of the beam",
+      "d": "At a distance 2L/3 from free end"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4026",
+    "chapter": ""
+  },
+  {
+    "question": "The value of Poisson's ratio always remains",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "greater than one",
+      "b": "less than one",
+      "c": "equal to one",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4027",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum number of transverse shear forces possible at one end of an element of a plane frame is",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "zero",
+      "b": "one",
+      "c": "two",
+      "d": "three"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4028",
+    "chapter": ""
+  },
+  {
+    "question": "The hydrostatic force exerted by 2 m deep water gate downstream is equal to",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "20 KN",
+      "b": "40 KN",
+      "c": "80 KN",
+      "d": "10 KN"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4029",
+    "chapter": ""
+  },
+  {
+    "question": "The center of gravity of the volume of liquid is displaced is called",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "center of pressure",
+      "b": "center of buoyancy",
+      "c": "metacenter",
+      "d": "None of above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4030",
+    "chapter": ""
+  },
+  {
+    "question": "Practical fluids possess",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "viscosity",
+      "b": "surface tension",
+      "c": "compressibility",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4031",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum unit pressure that a soil can withstand without rupture in shear is called:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Bearing capacity",
+      "b": "Safe bearing capacity",
+      "c": "Allowable bearing capacity",
+      "d": "Ultimate bearing capacity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4032",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum load on wooden pile should not exceed",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "50 KN",
+      "b": "100 KN",
+      "c": "150 KN",
+      "d": "200 KN"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4033",
+    "chapter": ""
+  },
+  {
+    "question": "One way slabs are those in which:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "ly/lx ratio is greater than 2",
+      "b": "ly/lx ratio is less than 2",
+      "c": "ly/lx ratio is greater than 1",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4034",
+    "chapter": ""
+  },
+  {
+    "question": "Moment of resistances of rectangular beam is more depends on",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Width of beam",
+      "b": "depth of beam",
+      "c": "Span of beam",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4035",
+    "chapter": ""
+  },
+  {
+    "question": "The purpose of mixing admixture to cement concrete is:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "to increase the rate of strength",
+      "b": "to increase water tightness",
+      "c": "to increase the strength",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4036",
+    "chapter": ""
+  },
+  {
+    "question": "When brick is cut into two halves, longitudinally, one part is called:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "King closer",
+      "b": "Queen closer",
+      "c": "cornice brick",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4037",
+    "chapter": ""
+  },
+  {
+    "question": "Biological action is used in",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "screens",
+      "b": "sedimentation tank",
+      "c": "trickling filter",
+      "d": "all of above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4038",
+    "chapter": ""
+  },
+  {
+    "question": "As per the world Health Organization (WHO) studies per capita demand of water in rural area is... liter per capita per day(LPCPD).",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "45",
+      "b": "230",
+      "c": "10",
+      "d": "65"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4039",
+    "chapter": ""
+  },
+  {
+    "question": "A dam depending solely on its weight to resist water pressure is.",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Stable dam",
+      "b": "Heavy dam",
+      "c": "Gravity dam",
+      "d": "Natural dam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4040",
+    "chapter": ""
+  },
+  {
+    "question": "If small quantity of water is to be diverted from big river, the appropriate type of head works is:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Side intake",
+      "b": "weir",
+      "c": "barrage",
+      "d": "bid bar"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4041",
+    "chapter": ""
+  },
+  {
+    "question": "The water bound mecadam is example of",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "Flexible pavement",
+      "b": "Rigid pavement",
+      "c": "semi rigid pavement",
+      "d": "None of above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4042",
+    "chapter": ""
+  },
+  {
+    "question": "The shape of a vertical curve on highway is",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "spiral",
+      "b": "parabolic",
+      "c": "elliptical",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4043",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following information is not found in specification?",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "nature of works",
+      "b": "quality of materials",
+      "c": "types of workmanship",
+      "d": "dimensions"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4044",
+    "chapter": ""
+  },
+  {
+    "question": "For 12 mm plastering works in a ratio of 1:2 cement sand mortar total dry volume is 2 cubic meter the required sand is 1.2 cubic meter and required cement is:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "18 bags",
+      "b": "10 bags",
+      "c": "24 bags",
+      "d": "9 bags"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4045",
+    "chapter": ""
+  },
+  {
+    "question": "Gantt chart is drawn for",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "time versus activity",
+      "b": "activity versus activity",
+      "c": "resource versus progress",
+      "d": "progress versus time"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4046",
+    "chapter": ""
+  },
+  {
+    "question": "Line organization is mostly suitable for",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "simple work",
+      "b": "complicated work",
+      "c": "both (a) and (b) of the above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4047",
+    "chapter": ""
+  },
+  {
+    "question": "Holding line marking is provided in taxiway at minimum distance of _____ from runway.",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "30 m",
+      "b": "45 m",
+      "c": "60 m",
+      "d": "75 m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4048",
+    "chapter": ""
+  },
+  {
+    "question": "The length of runway is increased per 300 m rise above mean sea level:",
+    "topic": "संघ (Sub-engineer-V)",
+    "options": {
+      "a": "3%",
+      "b": "5%",
+      "c": "7%",
+      "d": "9%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4049",
+    "chapter": ""
+  }
+]

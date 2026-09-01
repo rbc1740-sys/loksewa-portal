@@ -1,0 +1,648 @@
+{
+  "generatedAt": "2026-09-01T11:12:44.271Z",
+  "groups": [
+    {
+      "group": "Lumbini Pradesh",
+      "exams": [
+        {
+          "id": "0012_lumbini_pradeshsub_engineer_i",
+          "title": "Lumbini Pradesh(sub engineer) - I",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0012_lumbini_pradeshsub_engineer_i.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0013_lumbini_pradeshsub_engineer_ii",
+          "title": "Lumbini Pradesh(sub engineer) - II",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0013_lumbini_pradeshsub_engineer_ii.json",
+          "count": 49,
+          "expected": 49
+        },
+        {
+          "id": "0015_lumbini_pradeshsub_engineer_iii",
+          "title": "Lumbini Pradesh(sub engineer) - III",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0015_lumbini_pradeshsub_engineer_iii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0016_lumbini_pradeshsub_engineer_iv",
+          "title": "Lumbini Pradesh(sub engineer) - IV",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0016_lumbini_pradeshsub_engineer_iv.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0017_lumbini_pradeshsub_engineer_v",
+          "title": "Lumbini Pradesh(sub engineer) - V",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0017_lumbini_pradeshsub_engineer_v.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0019_lumbini_pradeshsub_engineer_vi",
+          "title": "Lumbini Pradesh(sub engineer) - VI",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0019_lumbini_pradeshsub_engineer_vi.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0021_lumbini_pradeshsub_engineer_vii",
+          "title": "Lumbini Pradesh(sub engineer) - VII",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0021_lumbini_pradeshsub_engineer_vii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0022_lumbini_pradeshsub_engineer_viii",
+          "title": "Lumbini Pradesh(sub engineer) - VIII",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0022_lumbini_pradeshsub_engineer_viii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0035_lumbini_pradeshsub_engineer_ix",
+          "title": "Lumbini Pradesh(sub engineer) - IX",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0035_lumbini_pradeshsub_engineer_ix.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0036_lumbini_pradeshsub_engineer_x",
+          "title": "Lumbini Pradesh(sub engineer) - X",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0036_lumbini_pradeshsub_engineer_x.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0047_lumbini_pradesh_i",
+          "title": "Lumbini Pradesh- I",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0047_lumbini_pradesh_i.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0048_lumbini_pradesh_ii",
+          "title": "Lumbini Pradesh - II",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0048_lumbini_pradesh_ii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0049_lumbini_pradesh_iii",
+          "title": "Lumbini Pradesh - III",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0049_lumbini_pradesh_iii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0072_lumbini_pradesh_iv",
+          "title": "Lumbini Pradesh - IV",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0072_lumbini_pradesh_iv.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0073_lumbini_pradesh_v",
+          "title": "Lumbini Pradesh - V",
+          "province": "Lumbini Pradesh",
+          "file": "mocks/0073_lumbini_pradesh_v.json",
+          "count": 50,
+          "expected": 50
+        }
+      ]
+    },
+    {
+      "group": "Bagmati Pradesh",
+      "exams": [
+        {
+          "id": "0023_bagmati_pradeshsub_engineer_i",
+          "title": "Bagmati Pradesh(sub engineer) - I",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0023_bagmati_pradeshsub_engineer_i.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0024_bagmati_pradeshsub_engineer_ii",
+          "title": "Bagmati Pradesh(sub engineer) - II",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0024_bagmati_pradeshsub_engineer_ii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0025_bagmati_pradeshsub_engineer_iii",
+          "title": "Bagmati Pradesh(sub engineer) - III",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0025_bagmati_pradeshsub_engineer_iii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0026_bagmati_pradeshsub_engineer_iv",
+          "title": "Bagmati Pradesh(sub engineer) - IV",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0026_bagmati_pradeshsub_engineer_iv.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0027_bagmati_pradeshsub_engineer_v",
+          "title": "Bagmati Pradesh(sub engineer) - V",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0027_bagmati_pradeshsub_engineer_v.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0033_bagmati_pradeshsub_engineer_vi",
+          "title": "Bagmati Pradesh(sub engineer) - VI",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0033_bagmati_pradeshsub_engineer_vi.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0037_bagmati_pradeshsub_engineer_vii",
+          "title": "Bagmati Pradesh(sub engineer) - VII",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0037_bagmati_pradeshsub_engineer_vii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0038_bagmati_pradeshsub_engineer_viii",
+          "title": "Bagmati Pradesh(sub engineer) - VIII",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0038_bagmati_pradeshsub_engineer_viii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0039_bagmati_pradeshsub_engineer_ix",
+          "title": "Bagmati Pradesh(sub engineer) - IX",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0039_bagmati_pradeshsub_engineer_ix.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0040_bagmati_pradeshsub_engineer_x",
+          "title": "Bagmati Pradesh(sub engineer) - X",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0040_bagmati_pradeshsub_engineer_x.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0041_bagmati_pradeshsub_engineer_xi",
+          "title": "Bagmati Pradesh(sub engineer) - XI",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0041_bagmati_pradeshsub_engineer_xi.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0042_bagmati_pradeshsub_engineer_xii",
+          "title": "Bagmati Pradesh(sub engineer) - XII",
+          "province": "Bagmati Pradesh",
+          "file": "mocks/0042_bagmati_pradeshsub_engineer_xii.json",
+          "count": 50,
+          "expected": 50
+        }
+      ]
+    },
+    {
+      "group": "संघ",
+      "exams": [
+        {
+          "id": "0032_sub_engineer_i",
+          "title": "संघ (sub engineer) - I",
+          "province": "संघ",
+          "file": "mocks/0032_sub_engineer_i.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0043_sub_engineer_ii",
+          "title": "संघ (sub engineer) - II",
+          "province": "संघ",
+          "file": "mocks/0043_sub_engineer_ii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0044_sub_engineer_iii",
+          "title": "संघ (sub engineer) - III",
+          "province": "संघ",
+          "file": "mocks/0044_sub_engineer_iii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0045_sub_engineer_iv",
+          "title": "संघ (sub engineer) - IV",
+          "province": "संघ",
+          "file": "mocks/0045_sub_engineer_iv.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0046_sub_engineer_v",
+          "title": "संघ (sub engineer) - V",
+          "province": "संघ",
+          "file": "mocks/0046_sub_engineer_v.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0050_sub_engineer_vi",
+          "title": "संघ (sub engineer) - VI",
+          "province": "संघ",
+          "file": "mocks/0050_sub_engineer_vi.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0051_sub_engineer_vii",
+          "title": "संघ (sub engineer) - VII",
+          "province": "संघ",
+          "file": "mocks/0051_sub_engineer_vii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0052_sub_engineer_viii",
+          "title": "संघ (sub engineer) - VIII",
+          "province": "संघ",
+          "file": "mocks/0052_sub_engineer_viii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0053_sub_engineer_ix",
+          "title": "संघ (sub engineer) - IX",
+          "province": "संघ",
+          "file": "mocks/0053_sub_engineer_ix.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0054_sub_engineer_x",
+          "title": "संघ (sub engineer) - X",
+          "province": "संघ",
+          "file": "mocks/0054_sub_engineer_x.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0055_sub_engineer_xi",
+          "title": "संघ (sub engineer) - XI",
+          "province": "संघ",
+          "file": "mocks/0055_sub_engineer_xi.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0056_sub_engineer_xii",
+          "title": "संघ (sub engineer) - XII",
+          "province": "संघ",
+          "file": "mocks/0056_sub_engineer_xii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0057_sub_engineer_xiii",
+          "title": "संघ (sub engineer) - XIII",
+          "province": "संघ",
+          "file": "mocks/0057_sub_engineer_xiii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0062_sub_engineer_xiv",
+          "title": "संघ (Sub-engineer-XIV",
+          "province": "संघ",
+          "file": "mocks/0062_sub_engineer_xiv.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0063_sub_engineer_xv",
+          "title": "संघ (Sub-engineer-XV",
+          "province": "संघ",
+          "file": "mocks/0063_sub_engineer_xv.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0064_sub_engineer_xvi",
+          "title": "संघ (Sub-engineer-XVI",
+          "province": "संघ",
+          "file": "mocks/0064_sub_engineer_xvi.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0065_sub_engineer_xvii",
+          "title": "संघ (Sub-engineer-XVII",
+          "province": "संघ",
+          "file": "mocks/0065_sub_engineer_xvii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0066_sub_engineer_xviii",
+          "title": "संघ (Sub-engineer-XVIII",
+          "province": "संघ",
+          "file": "mocks/0066_sub_engineer_xviii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0076_sub_engineer_xix",
+          "title": "संघ (sub engineer) - XIX",
+          "province": "संघ",
+          "file": "mocks/0076_sub_engineer_xix.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0077_sub_engineer_xx",
+          "title": "संघ (sub engineer) - XX",
+          "province": "संघ",
+          "file": "mocks/0077_sub_engineer_xx.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0078_sub_engineer_xxi",
+          "title": "संघ (sub engineer) - XXI",
+          "province": "संघ",
+          "file": "mocks/0078_sub_engineer_xxi.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0079_sub_engineer_xxii",
+          "title": "संघ (sub engineer) - XXII",
+          "province": "संघ",
+          "file": "mocks/0079_sub_engineer_xxii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0080_sub_engineer_xxiii",
+          "title": "संघ (sub engineer) - XXIII",
+          "province": "संघ",
+          "file": "mocks/0080_sub_engineer_xxiii.json",
+          "count": 50,
+          "expected": 50
+        }
+      ]
+    },
+    {
+      "group": "सुदूरपश्चिम प्रदेश",
+      "exams": [
+        {
+          "id": "0058_i",
+          "title": "सुदूरपश्चिम प्रदेश - I",
+          "province": "सुदूरपश्चिम प्रदेश",
+          "file": "mocks/0058_i.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0059_ii",
+          "title": "सुदूरपश्चिम प्रदेश - II",
+          "province": "सुदूरपश्चिम प्रदेश",
+          "file": "mocks/0059_ii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0060_iii",
+          "title": "सुदूरपश्चिम प्रदेश - III",
+          "province": "सुदूरपश्चिम प्रदेश",
+          "file": "mocks/0060_iii.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0061_iv",
+          "title": "सुदूरपश्चिम प्रदेश - IV",
+          "province": "सुदूरपश्चिम प्रदेश",
+          "file": "mocks/0061_iv.json",
+          "count": 50,
+          "expected": 50
+        },
+        {
+          "id": "0074_v",
+          "title": "सुदूरपश्चिम प्रदेश - V",
+          "province": "सुदूरपश्चिम प्रदेश",
+          "file": "mocks/0074_v.json",
+          "count": 50,
+          "expected": 50
+        }
+      ]
+    },
+    {
+      "group": "Karnali Pradesh",
+      "exams": [
+        {
+          "id": "0067_karnali_pradesh_4th_level_i",
+          "title": "Karnali Pradesh-(4th level) -I",
+          "province": "Karnali Pradesh",
+          "file": "mocks/0067_karnali_pradesh_4th_level_i.json",
+          "count": 70,
+          "expected": 70
+        },
+        {
+          "id": "0068_karnali_pradesh_4th_level_ii",
+          "title": "Karnali Pradesh-(4th level) -II",
+          "province": "Karnali Pradesh",
+          "file": "mocks/0068_karnali_pradesh_4th_level_ii.json",
+          "count": 70,
+          "expected": 70
+        },
+        {
+          "id": "0069_karnali_pradesh_4th_level_iii",
+          "title": "Karnali Pradesh-(4th level) -III",
+          "province": "Karnali Pradesh",
+          "file": "mocks/0069_karnali_pradesh_4th_level_iii.json",
+          "count": 70,
+          "expected": 70
+        },
+        {
+          "id": "0070_karnali_pradesh_4th_level_iv",
+          "title": "Karnali Pradesh-(4th level) -IV",
+          "province": "Karnali Pradesh",
+          "file": "mocks/0070_karnali_pradesh_4th_level_iv.json",
+          "count": 70,
+          "expected": 70
+        },
+        {
+          "id": "0071_karnali_pradesh_4th_level_v",
+          "title": "Karnali Pradesh-(4th level) -V",
+          "province": "Karnali Pradesh",
+          "file": "mocks/0071_karnali_pradesh_4th_level_v.json",
+          "count": 70,
+          "expected": 70
+        },
+        {
+          "id": "0075_karnali_pradesh_4th_level_vi",
+          "title": "Karnali Pradesh-(4th level) -VI",
+          "province": "Karnali Pradesh",
+          "file": "mocks/0075_karnali_pradesh_4th_level_vi.json",
+          "count": 70,
+          "expected": 70
+        }
+      ]
+    }
+  ],
+  "weekly": [
+    {
+      "id": "0080_sub_engineer_i",
+      "title": "कोशी प्रदेश (Sub-engineer-I)",
+      "province": "Weekly Mock",
+      "file": "mocks/0080_sub_engineer_i.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0081_sub_engineer_ii",
+      "title": "कोशी प्रदेश (Sub-engineer-II)",
+      "province": "Weekly Mock",
+      "file": "mocks/0081_sub_engineer_ii.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0082_sub_engineer_iii",
+      "title": "कोशी प्रदेश (Sub-engineer-III)",
+      "province": "Weekly Mock",
+      "file": "mocks/0082_sub_engineer_iii.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0083_sub_engineer_i",
+      "title": "संघ (Sub-engineer-I)",
+      "province": "Weekly Mock",
+      "file": "mocks/0083_sub_engineer_i.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0084_sub_engineer_ii",
+      "title": "संघ (Sub-engineer-II)",
+      "province": "Weekly Mock",
+      "file": "mocks/0084_sub_engineer_ii.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0085_sub_engineer_i",
+      "title": "गण्डकी प्रदेश (Sub-engineer-I)",
+      "province": "Weekly Mock",
+      "file": "mocks/0085_sub_engineer_i.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0086_sub_engineer_ii",
+      "title": "गण्डकी प्रदेश (Sub-engineer-II)",
+      "province": "Weekly Mock",
+      "file": "mocks/0086_sub_engineer_ii.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0087_sub_engineer_iv",
+      "title": "कोशी प्रदेश (Sub-engineer-IV)",
+      "province": "Weekly Mock",
+      "file": "mocks/0087_sub_engineer_iv.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0088_sub_engineer_v",
+      "title": "कोशी प्रदेश (Sub-engineer-V)",
+      "province": "Weekly Mock",
+      "file": "mocks/0088_sub_engineer_v.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0089_sub_engineer_iii",
+      "title": "गण्डकी प्रदेश (Sub-engineer-III)",
+      "province": "Weekly Mock",
+      "file": "mocks/0089_sub_engineer_iii.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0090_sub_engineer_iv",
+      "title": "गण्डकी प्रदेश (Sub-engineer-IV)",
+      "province": "Weekly Mock",
+      "file": "mocks/0090_sub_engineer_iv.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0091_sub_engineer_iii",
+      "title": "संघ (Sub-engineer-III)",
+      "province": "Weekly Mock",
+      "file": "mocks/0091_sub_engineer_iii.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0092_sub_engineer_iv",
+      "title": "संघ (Sub-engineer-IV)",
+      "province": "Weekly Mock",
+      "file": "mocks/0092_sub_engineer_iv.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0093_sub_engineer_v",
+      "title": "संघ (Sub-engineer-V)",
+      "province": "Weekly Mock",
+      "file": "mocks/0093_sub_engineer_v.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0094_sub_engineer_vi",
+      "title": "संघ (Sub-engineer-VI)",
+      "province": "Weekly Mock",
+      "file": "mocks/0094_sub_engineer_vi.json",
+      "count": 50,
+      "expected": 50
+    },
+    {
+      "id": "0095_sub_engineer_i",
+      "title": "कोशी प्रदेश (Sub-engineer-I)",
+      "province": "Weekly Mock",
+      "file": "mocks/0095_sub_engineer_i.json",
+      "count": 50,
+      "expected": 50
+    }
+  ]
+}

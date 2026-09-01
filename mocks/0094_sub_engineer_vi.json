@@ -1,0 +1,702 @@
+[
+  {
+    "question": "नख्खु खोलाको पाैराणिक नाम के हो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "चम्पावती",
+      "b": "रुद्रमती",
+      "c": "महाप्रभा",
+      "d": "प्रभावती"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4050",
+    "chapter": ""
+  },
+  {
+    "question": "सती प्रथा कहिले उन्मुलन भएको थियो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "वि.सं. १९६९",
+      "b": "वि.सं. १९७२",
+      "c": "वि.सं. १९७७",
+      "d": "वि.सं. १९८१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4051",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको ठूलो औद्योगिक क्षेत्र कुन हो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "बालाजु औद्योगिक क्षेत्र",
+      "b": "हेटौँडा औद्योगिक क्षेत्र",
+      "c": "पाटन औद्योगिक क्षेत्र",
+      "d": "पोखरा औद्योगिक क्षेत्र"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4052",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा कुन योजनादेखि वातावरण नीति तथा कार्यक्रमहरूलाई समावेश गरियो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "छैटौ",
+      "b": "सातौँ",
+      "c": "आठौँ",
+      "d": "बार्हौ"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4053",
+    "chapter": ""
+  },
+  {
+    "question": "आधुनिक रेजर ब्लेडको आविष्कारको श्रेय प्रायः कसलाई दिइन्छ ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "जिलेट",
+      "b": "अलेक्जेंडर ग्राहम बेल",
+      "c": "लियोनार्डो दा भिन्ची",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4054",
+    "chapter": ""
+  },
+  {
+    "question": "भ्यागुते रोग कुन विषाणुबाट लाग्ने रोग हो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Variola Virus",
+      "b": "Corynebacterium Diphtheria",
+      "c": "Merkel cell polyomavirus",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4055",
+    "chapter": ""
+  },
+  {
+    "question": "संघको अधिकारको सूची कति वटा छन् ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4056",
+    "chapter": ""
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय शान्ति र सुरक्षा कायम राख्न संयुक्त राष्ट्रसंघको कुन अंग जिम्मेवार छ ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "महासभा",
+      "b": "अन्तर्राष्ट्रिय न्यायालय",
+      "c": "सुरक्षा परिषद्",
+      "d": "सचिवालय"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4057",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा बिमस्टकको कति औँ शिखर सम्मेलन भएको थियो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "पहिलो",
+      "b": "दोस्रो",
+      "c": "तेस्रो",
+      "d": "चाैथो"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4058",
+    "chapter": ""
+  },
+  {
+    "question": "टि - २० विश्वकप २०२४ को उपाधि कसले जितेको छ ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "दक्षिण अफ्रिका",
+      "b": "बेलायत",
+      "c": "अस्ट्रेलिया",
+      "d": "भारत"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4059",
+    "chapter": ""
+  },
+  {
+    "question": "कुनै तथ्यांकलाई अर्थपूर्ण तरिकाले प्रस्तुत गर्न सकिने बनाएपछि त्यो ______ बन्छ ।",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "ज्ञान",
+      "b": "तथ्य",
+      "c": "सञ्चार",
+      "d": "सूचना"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4060",
+    "chapter": ""
+  },
+  {
+    "question": "वर्षमा कति दिन बिरामी विदा दिइन्छ ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "१८ दिन",
+      "d": "२४ दिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4061",
+    "chapter": ""
+  },
+  {
+    "question": "स्थानीय विकास विभागको स्थापना कहिले भएको थियो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "वि.सं. २००७",
+      "b": "वि.सं. २०२८",
+      "c": "वि.सं. २०३७",
+      "d": "वि.सं. २०४५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4062",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्ये संवैधानिक परिषद्‌मा कसको सदस्यता रहँदैन ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "प्रधानन्यायाधीश",
+      "b": "कानुनमन्त्री",
+      "c": "प्रतिनिधि सभाका उपसभामुख",
+      "d": "राष्ट्रिय सभाका उपाध्यक्ष"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4063",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको लेखापरीक्षण सम्बन्धी सर्वोच्च लेखापरीक्षण संस्थाको नाम के हो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "महालेखा परीक्षकको कार्यलय",
+      "b": "लोकसेवा आयोगको कार्यलय",
+      "c": "प्रदेश लेखा नियन्त्रकको कार्यलय",
+      "d": "कोष तथा लेखा नियन्त्रक कार्यलय"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4064",
+    "chapter": ""
+  },
+  {
+    "question": "तलका भनाई बारे बिचार गर्नुहोस् ।",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो",
+      "b": "सार्वजनिक सेवा प्रवाह जनताको अधिकार हो",
+      "c": "माथिका दुवै ठिक छन्",
+      "d": "माथिका दुवै गलत छन्"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4065",
+    "chapter": ""
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय मानव अधिकार आयोगको स्थापना कहिले भएको थियो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "सन् १९४५",
+      "b": "सन् १९४६",
+      "c": "सन् १९४७",
+      "d": "सन् १९४८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4066",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा नागरिक वडापत्रको व्यवस्थालाई अनिवार्य गर्ने कानुन कुन हो ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "सुशासन सञ्चालन तथा व्यवस्थापन ऐन",
+      "b": "सूचना ऐन",
+      "c": "नागरिक वडापत्र ऐन",
+      "d": "निजामती सेवा ऐन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4067",
+    "chapter": ""
+  },
+  {
+    "question": "Who gave equity theory ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Henry Fayol",
+      "b": "Adams Cosier and Dalton",
+      "c": "Herzberg",
+      "d": "Weber"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4068",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधानमा उल्लेख गरिएको नागरिकको कर्तव्यमा तलका मध्ये कुन पर्दैन ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "संविधान र कानूनको पलना गर्नु",
+      "b": "सार्वजनिक सम्पत्तिको सुरक्षा र संरक्षण गर्नु",
+      "c": "राज्यले चाहेका बखत अनिवार्य सेवा गर्नु",
+      "d": "राज्यलाई अनिवार्य कर तिर्नु"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4069",
+    "chapter": ""
+  },
+  {
+    "question": "In the limit state method, the over-reinforced sections ____ .",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Are not permitted",
+      "b": "Are permitted",
+      "c": "Are permitted only in extreme cases",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4070",
+    "chapter": ""
+  },
+  {
+    "question": "A column is considered as a long column if its slenderness ratio is more than",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "20",
+      "b": "24",
+      "c": "28",
+      "d": "40"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4071",
+    "chapter": ""
+  },
+  {
+    "question": "Gravity water supply system starts from _____ .",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Intake",
+      "b": "Collection chamber",
+      "c": "BPT",
+      "d": "Faucet"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4072",
+    "chapter": ""
+  },
+  {
+    "question": "The efficiency of sedimentation tank for a given discharge, can be increased by",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Increasing the depth of tank",
+      "b": "Decreasing the depth of tank",
+      "c": "Increasing the surface area of tank",
+      "d": "Decreasing the surface area of tank"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4073",
+    "chapter": ""
+  },
+  {
+    "question": "The ingredient which gives the desired color to a paint is called",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Base",
+      "b": "Pigment",
+      "c": "Vehicle",
+      "d": "Solvent"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4074",
+    "chapter": ""
+  },
+  {
+    "question": "The solidification of molten magma within the earth's crust results in the formation of ______.",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Sedimentary rocks",
+      "b": "Metamorphic rock",
+      "c": "Basalt and traps",
+      "d": "Granite and pegmatite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4075",
+    "chapter": ""
+  },
+  {
+    "question": "For night landing, the thresholds are lighted ______ .",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Green",
+      "b": "Red",
+      "c": "White",
+      "d": "Yellow"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4076",
+    "chapter": ""
+  },
+  {
+    "question": "A dummy activity",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Is artificially introduced",
+      "b": "Is represented by a dotted line",
+      "c": "Does not consume time",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4077",
+    "chapter": ""
+  },
+  {
+    "question": "Camber in pavements is provided by ________.",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Straight line method",
+      "b": "Parabola method",
+      "c": "Straight at the edges and parabolic at the crown",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4078",
+    "chapter": ""
+  },
+  {
+    "question": "Bottom most component of a flexible pavement is _____ .",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Wearing course",
+      "b": "Sub-base course",
+      "c": "Sub grade",
+      "d": "Base course"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4079",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is the quality of a good irrigation method ?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Leached fertilizers",
+      "b": "Increased yield",
+      "c": "Drainage troubles",
+      "d": "Soil erosion"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4080",
+    "chapter": ""
+  },
+  {
+    "question": "Mean velocity of canal should never be:",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Less than critical velocity",
+      "b": "More than critical velocity",
+      "c": "Equal to critical velocity",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4081",
+    "chapter": ""
+  },
+  {
+    "question": "Type of organization used in construction industry is",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Line organization",
+      "b": "Line staff organization",
+      "c": "Functional organization",
+      "d": "Effective organization"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4082",
+    "chapter": ""
+  },
+  {
+    "question": "The paint highly resistant to fire is:",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Enamel paint",
+      "b": "Asbestos paint",
+      "c": "Aluminium paint",
+      "d": "Cement paint"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4083",
+    "chapter": ""
+  },
+  {
+    "question": "In building construction technology, \"piles\" are a type of:",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "Vertical beam",
+      "b": "Scaffolding",
+      "c": "Disease",
+      "d": "Deep foundation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4084",
+    "chapter": ""
+  },
+  {
+    "question": "The DPC is provided in building in the form of",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "horizontal",
+      "b": "vertical",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4085",
+    "chapter": ""
+  },
+  {
+    "question": "Curing of concrete",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "reduces the shrinkage of concrete",
+      "b": "prevents the properties of concrete",
+      "c": "prevents loss of water by evaporation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4086",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum basic length of the runway for a class C-type airport is",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "600 m",
+      "b": "750 m",
+      "c": "900 m",
+      "d": "1500 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4087",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of a collapsible shutter is",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4088",
+    "chapter": ""
+  },
+  {
+    "question": "During the calculation of R.C.C., the amount of steel deducted is",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "0% of steel",
+      "b": "1% of steel",
+      "c": "2% of steel",
+      "d": "5% of steel"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4089",
+    "chapter": ""
+  },
+  {
+    "question": "A Cadastral Map is a map having",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "small scale",
+      "b": "medium scale",
+      "c": "large scale",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4090",
+    "chapter": ""
+  },
+  {
+    "question": "Due to the curvature of the earth, object looks",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "higher than really they are",
+      "b": "lower than really they are",
+      "c": "at real height",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4091",
+    "chapter": ""
+  },
+  {
+    "question": "When the angular and linear measurements are equally precise in traversing, the balancing of traverse is done by:",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "transit rule",
+      "b": "empirical rule",
+      "c": "bowditch's rule",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4092",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following gives Poisson's ratio?",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "ratio of linear stress to linear strain",
+      "b": "ratio of shear stress to shear strain",
+      "c": "ratio of lateral strain to longitudinal strain",
+      "d": "ratio of the normal stress"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4093",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum bending moment caused by a moving load on a fixed end beam occurs",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "at the support",
+      "b": "under the load",
+      "c": "at mid-span",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4094",
+    "chapter": ""
+  },
+  {
+    "question": "For a column, both fixed, the crippling load will be equal to",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "2P",
+      "b": "4P",
+      "c": "P/8",
+      "d": "P/16"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4095",
+    "chapter": ""
+  },
+  {
+    "question": "Bernoulli's equation assumes that",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "fluid is non-viscous",
+      "b": "flow is along the streamline",
+      "c": "fluid is steady",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4096",
+    "chapter": ""
+  },
+  {
+    "question": "The types of compaction suitable in congested areas for cohesive as well as cohesionless soil is",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "roller",
+      "b": "rammer",
+      "c": "vibrator",
+      "d": "vibroflotation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4097",
+    "chapter": ""
+  },
+  {
+    "question": "The mass per unit volume of a liquid at a standard temperature and pressure is called",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "specific weight",
+      "b": "mass density",
+      "c": "specific gravity",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4098",
+    "chapter": ""
+  },
+  {
+    "question": "Head loss increases with",
+    "topic": "संघ (Sub-engineer-VI)",
+    "options": {
+      "a": "increase in velocity",
+      "b": "decrease in velocity",
+      "c": "decrease in length of pipe",
+      "d": "increase in diameter of pipe"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4099",
+    "chapter": ""
+  }
+]

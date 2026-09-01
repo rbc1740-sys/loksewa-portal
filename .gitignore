@@ -12,3 +12,8 @@ client_secret_*.json
 
 
 playwright-report/
+
+# Raw mobile question-bank export - portal has its own converted copies
+# (questions/ + mocks/ + mock-tests.json); regenerate via
+# scripts/convert-organized-to-portal.cjs if needed
+loksewa-mobile/organized/

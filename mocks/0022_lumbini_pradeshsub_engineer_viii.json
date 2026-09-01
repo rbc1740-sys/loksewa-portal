@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Maximum efficiency of power transmission through pipe is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "50%",
+      "b": "60%",
+      "c": "66%",
+      "d": "76%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "557",
+    "chapter": ""
+  },
+  {
+    "question": "Hydraulic ram is a pump which works on",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "the principle of water hammer",
+      "b": "for accelerating water flow",
+      "c": "the principle of reciprocation action",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "558",
+    "chapter": ""
+  },
+  {
+    "question": "A rotameter is used for measuring",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "density of fluids",
+      "b": "value of fluids in pipe",
+      "c": "discharge of fluids",
+      "d": "pressure in fluids"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "559",
+    "chapter": ""
+  },
+  {
+    "question": "Discharge over an ogee weir remains the same as that of",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "sharp-crested weir",
+      "b": "triangular weir",
+      "c": "cipolleti weir",
+      "d": "drowned weir"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "560",
+    "chapter": ""
+  },
+  {
+    "question": "A dam is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "a one-dimensional structure",
+      "b": "a two-dimensional structure",
+      "c": "a three-dimensional structure",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "561",
+    "chapter": ""
+  },
+  {
+    "question": "What will be the porosity of a soil sample whose void ratio is 0.35?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "19.5%",
+      "b": "40.65%",
+      "c": "25.9%",
+      "d": "30%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "562",
+    "chapter": ""
+  },
+  {
+    "question": "The length/diameter ratio of cylindrical specimens used in triaxial test, is generally",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "1",
+      "b": "1.5",
+      "c": "2",
+      "d": "2.5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "563",
+    "chapter": ""
+  },
+  {
+    "question": "The failure plane",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "carries maximum shear stress",
+      "b": "does not carry maximum shear stress",
+      "c": "carries minimum shear stress",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "564",
+    "chapter": ""
+  },
+  {
+    "question": "A body having similar properties throughout its volume is said to be",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "homogeneous",
+      "b": "isomorphic",
+      "c": "isotropic",
+      "d": "anisotropic"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "565",
+    "chapter": ""
+  },
+  {
+    "question": "The moment of inertia of an area will be least with respect to",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "central axis",
+      "b": "horizontal axis",
+      "c": "vertical axis",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "566",
+    "chapter": ""
+  },
+  {
+    "question": "As per NBC:105, minimum number of bars in R.C.C. rectangular columns must be",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "567",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of the diameter of reinforcing bars and the slab thickness is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "1/5",
+      "b": "1/6",
+      "c": "1/7",
+      "d": "1/8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "568",
+    "chapter": ""
+  },
+  {
+    "question": "The reinforced cement concrete column, having helical reinforcement, should have at least _____ bars of longitudinal reinforcement within this helical reinforcement.",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "two",
+      "b": "four",
+      "c": "six",
+      "d": "eight"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "569",
+    "chapter": ""
+  },
+  {
+    "question": "The surface of zero elevation around the earth, which is slightly irregular known as",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "mean sea level",
+      "b": "geoid surface",
+      "c": "level surface",
+      "d": "horizontal surface"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "570",
+    "chapter": ""
+  },
+  {
+    "question": "The error eliminated by taking a mean of both face observations is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "error due to eccentricity of verniers",
+      "b": "error due to imperfect adjustment of levels",
+      "c": "error due to line of collimation not being perpendicular to horizontal axis",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "571",
+    "chapter": ""
+  },
+  {
+    "question": "The fundamental lines of transit of theodolite are",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "horizontal axis and line of collimation",
+      "b": "vertical axis",
+      "c": "axes of plate levels and bubble line of telescope level",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "572",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is the first principle of surveying?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "whole to whole",
+      "b": "part to part",
+      "c": "part to whole",
+      "d": "whole to part"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "573",
+    "chapter": ""
+  },
+  {
+    "question": "The loss of ignition in cement should not exceed",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "1%",
+      "b": "4%",
+      "c": "8%",
+      "d": "12%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "574",
+    "chapter": ""
+  },
+  {
+    "question": "The chemical action between cement and water, is technically known as",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "dehydration",
+      "b": "carbonation",
+      "c": "calcinations",
+      "d": "hydration"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "575",
+    "chapter": ""
+  },
+  {
+    "question": "In the case of the clamp for burning of bricks, the bricks/ fuel are laid at a slope of _________.",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "10°",
+      "b": "15°",
+      "c": "20°",
+      "d": "25°"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "576",
+    "chapter": ""
+  },
+  {
+    "question": "If P is the percentage of water required for normal consistency, water to be added for determination of initial setting time is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "0.70P",
+      "b": "0.75P",
+      "c": "0.80P",
+      "d": "0.85P"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "577",
+    "chapter": ""
+  },
+  {
+    "question": "The joint preferred in a single brick wall to save facing bricks is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "English bond",
+      "b": "Flemish bond",
+      "c": "Double bond",
+      "d": "Garden wall bond"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "578",
+    "chapter": ""
+  },
+  {
+    "question": "A wooden block fixed on the back side of a door frame on its post, is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "rebate",
+      "b": "reveal",
+      "c": "stop",
+      "d": "cleat"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "579",
+    "chapter": ""
+  },
+  {
+    "question": "The height of the parapet wall is generally kept",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "60 cm",
+      "b": "75 cm",
+      "c": "90 cm",
+      "d": "105 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "580",
+    "chapter": ""
+  },
+  {
+    "question": "The independent float affects only",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Proceeding activities",
+      "b": "succeeding activities",
+      "c": "the particular activity",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "581",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is not a part of the bid document?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Conditions of contract",
+      "b": "Specification",
+      "c": "Performance security form",
+      "d": "Letter of acceptance"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "582",
+    "chapter": ""
+  },
+  {
+    "question": "The purpose of bid evaluation is to evaluate _________",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Lowest bidder",
+      "b": "Responsive bidder",
+      "c": "Substantially responsive bidder",
+      "d": "Lowest evaluated substantially responsive bidder"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "583",
+    "chapter": ""
+  },
+  {
+    "question": "The number of corrugations in a galvanized corrugated sheet of standard width is usually",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "584",
+    "chapter": ""
+  },
+  {
+    "question": "The standard width of an asbestos cement corrugated sheet is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "0.9 m",
+      "b": "1.05 m",
+      "c": "1.2 m",
+      "d": "1.35 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "585",
+    "chapter": ""
+  },
+  {
+    "question": "In the case of unsewered areas, an additional provision for a septic tank is usually",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "1% of the building cost",
+      "b": "3 to 4% of the building cost",
+      "c": "10% of the building cost",
+      "d": "12 to 15% of the building cost"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "586",
+    "chapter": ""
+  },
+  {
+    "question": "The length of the vehicle has no effect on",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "width of shoulders",
+      "b": "passing sight distance",
+      "c": "minimum radius of turning",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "587",
+    "chapter": ""
+  },
+  {
+    "question": "Higher values of superelevation is highly undesirable to",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "fast-moving vehicles",
+      "b": "slow-moving vehicles",
+      "c": "mixed traffic",
+      "d": "non- snow falling area"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "588",
+    "chapter": ""
+  },
+  {
+    "question": "The layer that is directly coming in contact with the traffic is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "wearing course",
+      "b": "base course",
+      "c": "sub-base",
+      "d": "sub-grade"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "589",
+    "chapter": ""
+  },
+  {
+    "question": "The percentage reduction of the gradient for compensating the loss of tractive force of the vehicle along a radius R is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "1/ R",
+      "b": "50/R",
+      "c": "75/R",
+      "d": "100/R"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "590",
+    "chapter": ""
+  },
+  {
+    "question": "The width of the bay on a concrete road is generally taken as",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": ">4.5 m",
+      "b": "<4.5 m",
+      "c": "3 to 4 m",
+      "d": "2 to 3 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "591",
+    "chapter": ""
+  },
+  {
+    "question": "What is the name of water which flows under gravity?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "hygroscopic water",
+      "b": "gravity water",
+      "c": "capillary water",
+      "d": "residue water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "592",
+    "chapter": ""
+  },
+  {
+    "question": "The group of canals that avoid cross-drainage work",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "watershed and contour",
+      "b": "contour and side slope",
+      "c": "side slope and watershed",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "593",
+    "chapter": ""
+  },
+  {
+    "question": "A cross regulator is provided on the main canal at the",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "downstream of the off-take",
+      "b": "upstream of the off-take",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "594",
+    "chapter": ""
+  },
+  {
+    "question": "Optimum depth of kor watering for wheat in the plains or terai, is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "13.5 cm",
+      "b": "16.5 cm",
+      "c": "19 cm",
+      "d": "21 cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "595",
+    "chapter": ""
+  },
+  {
+    "question": "A canal, constructed by the side of and generally parallel to the parent canal with different bed slopes is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "parallel canal",
+      "b": "ditch canal",
+      "c": "drain canal",
+      "d": "side canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "596",
+    "chapter": ""
+  },
+  {
+    "question": "The best pipe known for water mains is",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Cast iron",
+      "b": "Steel",
+      "c": "Cement concrete",
+      "d": "Asbestos cement"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "597",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum diameter of sewer pipes should preferably be",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "100 cm",
+      "b": "200 cm",
+      "c": "300 cm",
+      "d": "450 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "598",
+    "chapter": ""
+  },
+  {
+    "question": "Non-scouring velocity in the concrete sewer is caused by",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "2.5 to 3.0 m/sec",
+      "b": "2.5 to 3.5 m/sec",
+      "c": "1.5 to 2.5 m/sec",
+      "d": "0.6 to 1.2 m/sec"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "599",
+    "chapter": ""
+  },
+  {
+    "question": "A water supply scheme is usually designed for a period of",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "5 years",
+      "b": "10 years",
+      "c": "20 years",
+      "d": "50 years"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "600",
+    "chapter": ""
+  },
+  {
+    "question": "A continuous flow of water can be expected from",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Gravity springs",
+      "b": "Artesian springs",
+      "c": "Surface springs",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "601",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती कर्मचारीले पालना गर्नुपर्ने आचरणहरु ऐनको कुन परिछेदमा उल्लेख गरिएको छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "५",
+      "b": "६",
+      "c": "७",
+      "d": "८"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "602",
+    "chapter": ""
+  },
+  {
+    "question": "मानवीय मुल्य र मान्यताले कुन पक्षलाई जोड दिन्छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "असल गुणको विकास",
+      "b": "मित्रतापूर्ण व्यवहार र परस्पर सहयोग",
+      "c": "व्यक्ति समाज र राष्ट्रप्रति सदभाव",
+      "d": "माथिको सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "603",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम कहिले बजेट प्रस्तुत भएको थियो?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "वि.सं. २००८ माघ २१",
+      "b": "वि.सं. २००८ असार १",
+      "c": "वि.सं. २०१३ भाद्र २२",
+      "d": "वि.सं. २०१५ माघ २१"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "604",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा कुन कार्यक्रमबाट नागरिक वडापत्रको सुरुवात गरिएको थियो?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "विपन्नलाई आय निमुखालाई न्याय",
+      "b": "विपन्नलाई न्याय निमुखालाई आय",
+      "c": "विपन्न र निमुखालाई न्याय",
+      "d": "विपन्न र निमुखालाई आय"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "605",
+    "chapter": ""
+  },
+  {
+    "question": "मुख्य सचिवको पदावधि बढीमा कति वर्षको हुनेछ?",
+    "topic": "Lumbini Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "एक वर्ष",
+      "b": "तीन वर्ष",
+      "c": "पाँच वर्ष",
+      "d": "सात वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "606",
+    "chapter": ""
+  }
+]

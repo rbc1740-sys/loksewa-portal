@@ -1,0 +1,912 @@
+[
+  {
+    "question": "मानव अधिकारको जननी दस्तावेजका रूपमा कुन दस्तावेजलाई चिनिन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "बाइबल",
+      "b": "कुरान",
+      "c": "म्याग्ना कार्टा",
+      "d": "बिल अफ राइट"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5014",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "म्याग्ना कार्टा कुन सालमा आएको हो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् १२१४",
+      "b": "सन् १२००",
+      "c": "सन् १२१५",
+      "d": "सन् १३२५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5015",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "अमेरिकन बिल अफ राइट्स कहिले लेखिएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् १७७५",
+      "b": "सन् १७७६",
+      "c": "सन् १७७७",
+      "d": "सन् १७७९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5016",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "When was the French Declaration of the Rights of Man and of the Citizen promulgated ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "1785",
+      "b": "1776",
+      "c": "1789",
+      "d": "1790"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5017",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Who coined the term “human rights” for the first time ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Franklin D Roosevelt",
+      "c": "FW Taylor",
+      "d": "Dag Hammersold"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5018",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय मानव अधिकार आयोगको स्थापना कहिले भएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् १९४५",
+      "b": "सन् १९४६",
+      "c": "सन् १९४७",
+      "d": "सन् १९४८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5019",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले सर्वप्रथम मानवअधिकारको प्रावधान कहिले राखेको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२०४७ सालको संविधान",
+      "b": "२०६३ सालको संविधान",
+      "c": "२०७२ सालको संविधान",
+      "d": "२०१९ सालको संविधान"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5020",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "मानव अधिकारको मेरुदण्डको रूपमा कुन दस्तावेजलाई मानिन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "दास क्यापिटल",
+      "b": "मानव अधिकार सम्बन्धी घोषणापत्र, १९४८",
+      "c": "बिल अफ राइट्स",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5021",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा राष्ट्रिय मानव अधिकार आयोग कहिले गठन भएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् १९७५",
+      "b": "सन् २०००",
+      "c": "सन् २०१०",
+      "d": "सन् २००५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5022",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राष्ट्रिय मानव अधिकार आयोगलाई स्वतन्त्र संवैधानिक निकायको व्यवस्था कहिले गरिएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२०४७ को संविधान",
+      "b": "२०६३ सालको अन्तरिम संविधान",
+      "c": "२०७२ सालको संविधान",
+      "d": "२०१५ सालको संविधान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5023",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नौ मध्य कतिवटा महासन्धिहरूको पक्षराष्ट्र नेपाल बनेको छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "६",
+      "b": "७",
+      "c": "८",
+      "d": "९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5024",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "मानव अधिकारलाई कतिवटा वर्गमा वर्गीकरण गरिएको छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5025",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पोजिटिभ राइट भन्नाले कस्तो अधिकार जनाउँछ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "नागरिक र राजनीतिक अधिकार",
+      "b": "आर्थिक सामाजिक र सांस्कृतिक अधिकार",
+      "c": "समूहको अधिकार",
+      "d": "स्वायत्तको अधिकार"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5026",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेगेटिभ राइट भन्नाले कस्तो अधिकार जनाउँछ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "नागरिक र राजनीतिक अधिकार",
+      "b": "आर्थिक सामाजिक र सांस्कृतिक अधिकार",
+      "c": "समूहको अधिकार",
+      "d": "आन्दोलनरत विषयहरू को अधिकार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5027",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तेस्रो पुस्ताको मानवअधिकार लाई के पनि भनिन्छ",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "Negative rights",
+      "b": "Posiive rights",
+      "c": "collective and solidary rights",
+      "d": "none"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5028",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले कतिवटा मौलिक हकको व्यवस्था गरेको छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "३०",
+      "b": "३१",
+      "c": "३२",
+      "d": "३३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5029",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संवैधानिक आयोगहरूको हकमा संघीय संसदले १० वर्षपछि पुनरावलोकन गर्ने व्यवस्था रहेकोमा कुन आयोगको हकमा सो व्यवस्था लागू हुँदैन ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "लोकसेवा आयोग",
+      "b": "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+      "c": "निर्वाचन आयोग",
+      "d": "राष्ट्रिय मानव अधिकार आयोग"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5030",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सूचनाको हक सम्बन्धी ऐन अनुसार कति महिनामा सूचना अदावधिक गर्नुपर्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "एक महिना",
+      "b": "दुई महिना",
+      "c": "तीन महिना",
+      "d": "चार महिना"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5031",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सामान्य अवस्थामा सूचना माग गरेको निवेदन पछि कति दिनभित्रमा सूचना उपलब्ध गराइसक्नुपर्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "५ दिन",
+      "b": "७ दिन",
+      "c": "१५ दिन",
+      "d": "२५ दिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5032",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "ज्यू ज्यानको सुरक्षा सम्बन्धित सूचना माग गरेमा कति समयभित्रमा उपलब्ध गराइसक्नुपर्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२४ घण्टा",
+      "b": "२ दिन",
+      "c": "५ दिन",
+      "d": "१ घण्टा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5033",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निवेदन गरिएको सूचना प्राप्त नभएमा कति दिनभित्र प्रमुख समक्ष उजुरी दिन सकिन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "५ दिनभित्र",
+      "b": "७ दिनभित्र",
+      "c": "१० दिनभित्र",
+      "d": "१५ दिनभित्र"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5034",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगमा प्रमुख सूचना आयुक्तसहित कति जना सूचना आयुक्तहरू हुन्छन् ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "एकजना",
+      "b": "दुईजना",
+      "c": "तीनजना",
+      "d": "चारजना"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5035",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगका सदस्यहरूको कति वर्षको पदावधि हुन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "चार वर्ष",
+      "b": "पाँच वर्ष",
+      "c": "छ वर्ष",
+      "d": "सात वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5036",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगको सदस्य सिफारिस समितिमा सभामुख, सञ्चारमन्त्री बाहेक अर्को को सदस्यको रुपमा हुन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सूचना महासङ्घको सभापति",
+      "b": "पत्रकार महासंघको सभापति",
+      "c": "मुख्यसचिव",
+      "d": "सूचना मन्त्रालयको सचिव"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5037",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा सूचनाको हक कुन धारामा राखिएको छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "धारा २६",
+      "b": "धारा २७",
+      "c": "धारा २८",
+      "d": "धारा २९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5038",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "गोपनियताको हक नेपालको संविधानको कुन धारामा छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "धारा २७",
+      "b": "धारा २८",
+      "c": "धारा २९",
+      "d": "धारा ३०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5039",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम कुन संविधानले सूचनाको हकलाई सुनिश्चित गरेको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२०१९ सालको संविधान",
+      "b": "२०४७ सालको संविधान",
+      "c": "२०६३ सालको अन्तरिम संविधान",
+      "d": "२०७२ सालको संविधान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5040",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको कुन संविधानले सूचनाको हकलाई मौलिक हकको रूपमा विस्तार गरेको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२०१९ सालको संविधान",
+      "b": "२०४७ सालको संविधान",
+      "c": "२०६३ सालको अन्तरिम संविधान",
+      "d": "२०७२ सालको संविधान"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5041",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगको स्थापना कहिले भएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् २००६",
+      "b": "सन् २००७",
+      "c": "सन् २००८",
+      "d": "सन् २००९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5042",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "दक्षिण एसियामा सूचनाको हक अङ्गीकार गर्ने पहिलो राष्ट्र कुन हो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "नेपाल",
+      "b": "भारत",
+      "c": "भुटान",
+      "d": "श्रीलंका"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5043",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सुशासन कायम गर्नका लागि बनेको अनुगमन तथा मूल्याङ्कन समितिको संयोजक को रहने व्यवस्था छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "संघीय मामला तथा सामान्य प्रशासन मन्त्री",
+      "b": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रीको सचिव",
+      "c": "नेपाल सरकारको मुख्य सचिव",
+      "d": "सूचनामन्त्री"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5044",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सुशासन ऐन २०६४ अनुसार सरकारी कार्यालयमा राखिएको गुनासो पेटी हरेक कति दिनमा खोल्नुपर्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "एक दिन",
+      "b": "दुई दिन",
+      "c": "तीन दिन",
+      "d": "चार दिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5045",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "शासकीय सुधार इकाईको स्थापनीय कहाँकहाँ गरिन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "मन्त्रिपरिषद् तथा प्रधानमन्त्रीको कार्यालय",
+      "b": "संघीय मामला तथा सामान्य प्रशासन मन्त्रालय",
+      "c": "हरेक मन्त्रालय",
+      "d": "हरेक प्रदेश"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5046",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नागरिक वडापत्रलाई हरेक सरकारी कार्यालयमा अनिवार्य गराउने वा बाध्यात्मक गराउने ऐन कुन हो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सुशासन सञ्चालन तथा व्यवस्थापन ऐन, २०६४",
+      "b": "सूचना ऐन",
+      "c": "नागरिक वडापत्र ऐन",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5047",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मानव अधिकारको जननी दस्तावेजका रूपमा कुन दस्तावेजलाई चिनिन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "बाइबल",
+      "b": "कुरान",
+      "c": "म्याग्ना कार्टा",
+      "d": "बिल अफ राइट"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5014",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "म्याग्ना कार्टा कुन सालमा आएको हो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् १२१४",
+      "b": "सन् १२००",
+      "c": "सन् १२१५",
+      "d": "सन् १३२५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5015",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "अमेरिकन बिल अफ राइट्स कहिले लेखिएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् १७७५",
+      "b": "सन् १७७६",
+      "c": "सन् १७७७",
+      "d": "सन् १७७९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5016",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय मानव अधिकार आयोगको स्थापना कहिले भएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् १९४५",
+      "b": "सन् १९४६",
+      "c": "सन् १९४७",
+      "d": "सन् १९४८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5019",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले सर्वप्रथम मानवअधिकारको प्रावधान कहिले राखेको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२०४७ सालको संविधान",
+      "b": "२०६३ सालको संविधान",
+      "c": "२०७२ सालको संविधान",
+      "d": "२०१९ सालको संविधान"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5020",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "मानव अधिकारको मेरुदण्डको रूपमा कुन दस्तावेजलाई मानिन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "दास क्यापिटल",
+      "b": "मानव अधिकार सम्बन्धी घोषणापत्र, १९४८",
+      "c": "बिल अफ राइट्स",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5021",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा राष्ट्रिय मानव अधिकार आयोग कहिले गठन भएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् १९७५",
+      "b": "सन् २०००",
+      "c": "सन् २०१०",
+      "d": "सन् २००५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5022",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राष्ट्रिय मानव अधिकार आयोगलाई स्वतन्त्र संवैधानिक निकायको व्यवस्था कहिले गरिएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२०४७ को संविधान",
+      "b": "२०६३ सालको अन्तरिम संविधान",
+      "c": "२०७२ सालको संविधान",
+      "d": "२०१५ सालको संविधान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5023",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नौ मध्य कतिवटा महासन्धिहरूको पक्षराष्ट्र नेपाल बनेको छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "६",
+      "b": "७",
+      "c": "८",
+      "d": "९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5024",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "मानव अधिकारलाई कतिवटा वर्गमा वर्गीकरण गरिएको छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5025",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पोजिटिभ राइट भन्नाले कस्तो अधिकार जनाउँछ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "नागरिक र राजनीतिक अधिकार",
+      "b": "आर्थिक सामाजिक र सांस्कृतिक अधिकार",
+      "c": "समूहको अधिकार",
+      "d": "स्वायत्तको अधिकार"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5026",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेगेटिभ राइट भन्नाले कस्तो अधिकार जनाउँछ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "नागरिक र राजनीतिक अधिकार",
+      "b": "आर्थिक सामाजिक र सांस्कृतिक अधिकार",
+      "c": "समूहको अधिकार",
+      "d": "आन्दोलनरत विषयहरू को अधिकार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5027",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानले कतिवटा मौलिक हकको व्यवस्था गरेको छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "३०",
+      "b": "३१",
+      "c": "३२",
+      "d": "३३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5029",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संवैधानिक आयोगहरूको हकमा संघीय संसदले १० वर्षपछि पुनरावलोकन गर्ने व्यवस्था रहेकोमा कुन आयोगको हकमा सो व्यवस्था लागू हुँदैन ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "लोकसेवा आयोग",
+      "b": "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+      "c": "निर्वाचन आयोग",
+      "d": "राष्ट्रिय मानव अधिकार आयोग"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5030",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सूचनाको हक सम्बन्धी ऐन अनुसार कति महिनामा सूचना अदावधिक गर्नुपर्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "एक महिना",
+      "b": "दुई महिना",
+      "c": "तीन महिना",
+      "d": "चार महिना"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5031",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सामान्य अवस्थामा सूचना माग गरेको निवेदन पछि कति दिनभित्रमा सूचना उपलब्ध गराइसक्नुपर्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "५ दिन",
+      "b": "७ दिन",
+      "c": "१५ दिन",
+      "d": "२५ दिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5032",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "ज्यू ज्यानको सुरक्षा सम्बन्धित सूचना माग गरेमा कति समयभित्रमा उपलब्ध गराइसक्नुपर्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२४ घण्टा",
+      "b": "२ दिन",
+      "c": "५ दिन",
+      "d": "१ घण्टा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5033",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निवेदन गरिएको सूचना प्राप्त नभएमा कति दिनभित्र प्रमुख समक्ष उजुरी दिन सकिन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "५ दिनभित्र",
+      "b": "७ दिनभित्र",
+      "c": "१० दिनभित्र",
+      "d": "१५ दिनभित्र"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5034",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगमा प्रमुख सूचना आयुक्तसहित कति जना सूचना आयुक्तहरू हुन्छन् ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "एकजना",
+      "b": "दुईजना",
+      "c": "तीनजना",
+      "d": "चारजना"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5035",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगका सदस्यहरूको कति वर्षको पदावधि हुन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "चार वर्ष",
+      "b": "पाँच वर्ष",
+      "c": "छ वर्ष",
+      "d": "सात वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5036",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगको सदस्य सिफारिस समितिमा सभामुख, सञ्चारमन्त्री बाहेक अर्को को सदस्यको रुपमा हुन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सूचना महासङ्घको सभापति",
+      "b": "पत्रकार महासंघको सभापति",
+      "c": "मुख्यसचिव",
+      "d": "सूचना मन्त्रालयको सचिव"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5037",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको संविधानमा सूचनाको हक कुन धारामा राखिएको छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "धारा २६",
+      "b": "धारा २७",
+      "c": "धारा २८",
+      "d": "धारा २९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5038",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "गोपनियताको हक नेपालको संविधानको कुन धारामा छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "धारा २७",
+      "b": "धारा २८",
+      "c": "धारा २९",
+      "d": "धारा ३०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5039",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम कुन संविधानले सूचनाको हकलाई सुनिश्चित गरेको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२०१९ सालको संविधान",
+      "b": "२०४७ सालको संविधान",
+      "c": "२०६३ सालको अन्तरिम संविधान",
+      "d": "२०७२ सालको संविधान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5040",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको कुन संविधानले सूचनाको हकलाई मौलिक हकको रूपमा विस्तार गरेको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "२०१९ सालको संविधान",
+      "b": "२०४७ सालको संविधान",
+      "c": "२०६३ सालको अन्तरिम संविधान",
+      "d": "२०७२ सालको संविधान"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5041",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय सूचना आयोगको स्थापना कहिले भएको थियो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सन् २००६",
+      "b": "सन् २००७",
+      "c": "सन् २००८",
+      "d": "सन् २००९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5042",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "दक्षिण एसियामा सूचनाको हक अङ्गीकार गर्ने पहिलो राष्ट्र कुन हो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "नेपाल",
+      "b": "भारत",
+      "c": "भुटान",
+      "d": "श्रीलंका"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5043",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सुशासन कायम गर्नका लागि बनेको अनुगमन तथा मूल्याङ्कन समितिको संयोजक को रहने व्यवस्था छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "संघीय मामला तथा सामान्य प्रशासन मन्त्री",
+      "b": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रीको सचिव",
+      "c": "नेपाल सरकारको मुख्य सचिव",
+      "d": "सूचनामन्त्री"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5044",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सुशासन ऐन २०६४ अनुसार सरकारी कार्यालयमा राखिएको गुनासो पेटी हरेक कति दिनमा खोल्नुपर्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "एक दिन",
+      "b": "दुई दिन",
+      "c": "तीन दिन",
+      "d": "चार दिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5045",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "शासकीय सुधार इकाईको स्थापनीय कहाँकहाँ गरिन्छ ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "मन्त्रिपरिषद् तथा प्रधानमन्त्रीको कार्यालय",
+      "b": "संघीय मामला तथा सामान्य प्रशासन मन्त्रालय",
+      "c": "हरेक मन्त्रालय",
+      "d": "हरेक प्रदेश"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5046",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नागरिक वडापत्रलाई हरेक सरकारी कार्यालयमा अनिवार्य गराउने वा बाध्यात्मक गराउने ऐन कुन हो ?",
+    "topic": "Human Rights, Good Governance & RTI",
+    "options": {
+      "a": "सुशासन सञ्चालन तथा व्यवस्थापन ऐन, २०६४",
+      "b": "सूचना ऐन",
+      "c": "नागरिक वडापत्र ऐन",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5047",
+    "chapter": "SECTION-II"
+  }
+]

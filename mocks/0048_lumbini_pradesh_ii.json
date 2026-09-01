@@ -1,0 +1,701 @@
+[
+  {
+    "question": "In class-II roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1660",
+    "chapter": ""
+  },
+  {
+    "question": "A dividing strip in the middle of the roadway is called",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "central strip",
+      "b": "median strip",
+      "c": "mid strip",
+      "d": "road center"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1661",
+    "chapter": ""
+  },
+  {
+    "question": "The portion of the road surface, which is used by vehicular traffic is known as",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "carriageway",
+      "b": "shoulder",
+      "c": "expressway",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1662",
+    "chapter": ""
+  },
+  {
+    "question": "The width of the carriageway of a two-lane road without a raised curb is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "7.0 m",
+      "b": "7.5 m",
+      "c": "5.6",
+      "d": "5.0 m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1663",
+    "chapter": ""
+  },
+  {
+    "question": "The inward tilt given to the cross-section of the road surface, throughout the length of the horizontal curve, is known as",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "super-elevation",
+      "b": "cant",
+      "c": "banking",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1664",
+    "chapter": ""
+  },
+  {
+    "question": "The surface drainage doesn’t consist of ___________.",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "Camber",
+      "b": "Roadside drains",
+      "c": "Culverts",
+      "d": "Curves"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1665",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is not a machine used in road construction?",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "excavator",
+      "b": "bulldozer",
+      "c": "tower crane",
+      "d": "roller"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1666",
+    "chapter": ""
+  },
+  {
+    "question": "In bituminous macadam road, the binding material used is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "cement",
+      "b": "bitumen",
+      "c": "clay",
+      "d": "stone dust"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1667",
+    "chapter": ""
+  },
+  {
+    "question": "Among the following, the most correct estimate is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "plinth area estimate",
+      "b": "cube rate estimate",
+      "c": "detailed estimate",
+      "d": "building cost index estimate"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1668",
+    "chapter": ""
+  },
+  {
+    "question": "In the detailed estimate the areas are worked out to the nearest",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "0.001 square meter",
+      "b": "0.01 square meter",
+      "c": "0.05 square meter",
+      "d": "0.005 square meter"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1669",
+    "chapter": ""
+  },
+  {
+    "question": "The explosive for blasting is usually expressed in terms of",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "explosive power",
+      "b": "the volume of earthwork that can be blasted",
+      "c": "kilograms",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1670",
+    "chapter": ""
+  },
+  {
+    "question": "The quantity of soling is obtained in",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "m^3",
+      "b": "m",
+      "c": "m^2",
+      "d": "lump-sum"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1671",
+    "chapter": ""
+  },
+  {
+    "question": "The weight of one bag of cement is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "30 kg",
+      "b": "40 kg",
+      "c": "50 kg",
+      "d": "100 kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1672",
+    "chapter": ""
+  },
+  {
+    "question": "The unit rate is only for",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "finding cost",
+      "b": "preparation of bid document",
+      "c": "consultant",
+      "d": "contractor"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1673",
+    "chapter": ""
+  },
+  {
+    "question": "Specification deals with",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "quantity of materials",
+      "b": "quantity of materials with procedures",
+      "c": "quality of material, measurement system, and working procedures",
+      "d": "quality of material with compact condition located in the heart of the city"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1674",
+    "chapter": ""
+  },
+  {
+    "question": "The value of the property (without being dismantled ) at the end of the useful life period is known as",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "scrap value",
+      "b": "salvation value",
+      "c": "junk value",
+      "d": "book value"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1675",
+    "chapter": ""
+  },
+  {
+    "question": "The owner gets the assurance of work progress and quality from,",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "Supervisor",
+      "b": "Contractor",
+      "c": "Engineer",
+      "d": "Mason"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1676",
+    "chapter": ""
+  },
+  {
+    "question": "A type of contract based on estimated quantities of items included in the project and their unit prices quoted by the bidder against each item is known as",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "Lump sum contract",
+      "b": "Cost plus contract",
+      "c": "Unit rate contract",
+      "d": "Construction management contract"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1677",
+    "chapter": ""
+  },
+  {
+    "question": "The functional organization system of working was introduced by",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "Henry Gantt",
+      "b": "F.W Taylor",
+      "c": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1678",
+    "chapter": ""
+  },
+  {
+    "question": "If temperature increases the sensitivity of a bubble tube",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1679",
+    "chapter": ""
+  },
+  {
+    "question": "In the intersection method of plane tabling the number of stations needed to be set up are",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1680",
+    "chapter": ""
+  },
+  {
+    "question": "The surface perpendicular to the direction of gravity is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "horizontal surface",
+      "b": "level surface",
+      "c": "horizon",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1681",
+    "chapter": ""
+  },
+  {
+    "question": "The two-point problem as compared to the three-point problem is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "more laborious",
+      "b": "more accurate",
+      "c": "quicker",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1682",
+    "chapter": ""
+  },
+  {
+    "question": "The curvature of the earth's surface is taken into account only if the extent of the survey is more than",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "60 sq. km",
+      "b": "160 sq. km",
+      "c": "260 sq. km",
+      "d": "500 sq. km"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1683",
+    "chapter": ""
+  },
+  {
+    "question": "Shingle is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "decomposed laterite",
+      "b": "crushed granite",
+      "c": "water-bound pebbles",
+      "d": "air-weathered rock"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1684",
+    "chapter": ""
+  },
+  {
+    "question": "Name the type of cement from the following for canal linings :",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "sulphate resisting cement",
+      "b": "rapid hardening cement",
+      "c": "quick setting cement",
+      "d": "pozzolana cement."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1685",
+    "chapter": ""
+  },
+  {
+    "question": "The initial setting of rapid hardening cement should not be less than",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "30 min",
+      "b": "1 hour",
+      "c": "4 hours",
+      "d": "8 hours"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1686",
+    "chapter": ""
+  },
+  {
+    "question": "The chief ingredient of paint is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "alcohol",
+      "b": "drier",
+      "c": "oil",
+      "d": "pigment"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1687",
+    "chapter": ""
+  },
+  {
+    "question": "The compressive strength of sandstone is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "40 MN/m²",
+      "b": "55 MN/m²",
+      "c": "65 MN/m²",
+      "d": "80 MN/m²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1688",
+    "chapter": ""
+  },
+  {
+    "question": "For preparing porcelains, the clay should be",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "sufficiently pure",
+      "b": "of high degree of tenacity",
+      "c": "of good plasticity",
+      "d": "All the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1689",
+    "chapter": ""
+  },
+  {
+    "question": "The construction joints are generally provided in concrete",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "roads",
+      "b": "retaining walls",
+      "c": "lining of tunnels",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1690",
+    "chapter": ""
+  },
+  {
+    "question": "Reinforced cement concrete is equally strong in taking",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "tensile and compressive stresses",
+      "b": "compressive and shear stresses",
+      "c": "tensile, compressive and shear stresses",
+      "d": "tensile and shear stresses"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1691",
+    "chapter": ""
+  },
+  {
+    "question": "A molding provided under nosing to beautify the elevation of the step is known",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "scotia",
+      "b": "nosing",
+      "c": "soffit",
+      "d": "flier"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1692",
+    "chapter": ""
+  },
+  {
+    "question": "A cut in the frame of a door to receive the shutter, is known as",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "rebate",
+      "b": "reveal",
+      "c": "stop",
+      "d": "post"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1693",
+    "chapter": ""
+  },
+  {
+    "question": "The flooring is suitable to resist heavy wear & an attractive appearance",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "cork flooring",
+      "b": "wooden flooring",
+      "c": "timber flooring",
+      "d": "granolithic flooring"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1694",
+    "chapter": ""
+  },
+  {
+    "question": "Cohesive soil is:",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "Clay",
+      "b": "Sand",
+      "c": "Gravel",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1695",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum differential settlement in isolated footing on sandy soils shall not exceed",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "40 mm",
+      "b": "100 mm",
+      "c": "25 mm",
+      "d": "65 cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1696",
+    "chapter": ""
+  },
+  {
+    "question": "Groundwater from artesian wells",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "contain no suspended materials",
+      "b": "contain dissolved salts",
+      "c": "require less treatment",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1697",
+    "chapter": ""
+  },
+  {
+    "question": "The pressure at the inlet and outlet in the break pressure tank is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "zero and 1 m",
+      "b": "1m and zero",
+      "c": "zero and zero",
+      "d": "1m and 1m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1698",
+    "chapter": ""
+  },
+  {
+    "question": "A sewer that gets discharge from two or more main sewers is called",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "main sewer",
+      "b": "trunk sewer",
+      "c": "combined sewer",
+      "d": "intercepting sewer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1699",
+    "chapter": ""
+  },
+  {
+    "question": "The gas most commonly associated with septic wastewater is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "CO",
+      "b": "CO₂",
+      "c": "CH4",
+      "d": "H₂S"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1700",
+    "chapter": ""
+  },
+  {
+    "question": "Irrigation distributor canals are generally aligned along",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "contour line",
+      "b": "valley line",
+      "c": "ridge line",
+      "d": "straight line"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1701",
+    "chapter": ""
+  },
+  {
+    "question": "When the discharge of the well decreases by the design amount, then this type of well is called",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "damage well",
+      "b": "rough well",
+      "c": "less capacity well",
+      "d": "sick well"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1702",
+    "chapter": ""
+  },
+  {
+    "question": "The methods used for drilling tube wells in compacted rock materials is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "wash boring",
+      "b": "percussion method",
+      "c": "hydraulic rotary",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1703",
+    "chapter": ""
+  },
+  {
+    "question": "In a stone masonry-lined canal, the permissible velocity of water is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "1 m/sec",
+      "b": "2 m/sec",
+      "c": "3 m/sec",
+      "d": "4 m/sec"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1704",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following scales is a reducing scale?",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "3:2",
+      "b": "1:3",
+      "c": "1:1",
+      "d": "1:0.4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1705",
+    "chapter": ""
+  },
+  {
+    "question": "According to NBC 105:2020, when factored axial compressive stress does not exceed 0.08 fck, beams shall not have depth more than",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "1/2 th of clear span",
+      "b": "1/3 th of clear span",
+      "c": "1/4 th of clear span",
+      "d": "1/5 th of clear span"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1706",
+    "chapter": ""
+  },
+  {
+    "question": "According to NBC 105:2020, when factored axial compressive stress exceeds 0.08 fck, the minimum dimension of a column is",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "300 mm",
+      "b": "shall not be less than 20 db",
+      "c": "Maximum of above (a) and (b)",
+      "d": "Minimum of above (a) and (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1707",
+    "chapter": ""
+  },
+  {
+    "question": "These drawings are given to contractors to perform work or manufacture individual parts:",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "Assembly details",
+      "b": "3D drawings",
+      "c": "Working drawings",
+      "d": "Skeleton assemblies"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1708",
+    "chapter": ""
+  },
+  {
+    "question": "As built drawing is normally constructed _______ the construction.",
+    "topic": "Lumbini Pradesh - II",
+    "options": {
+      "a": "before construction",
+      "b": "simultaneously with construction",
+      "c": "after construction",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1709",
+    "chapter": ""
+  }
+]

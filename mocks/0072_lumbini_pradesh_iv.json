@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The missing station of the ground survey can be found out with the help of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "key plan",
+      "b": "reference sketch",
+      "c": "arithmetic calculation",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2960",
+    "chapter": ""
+  },
+  {
+    "question": "Example for level surface",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Surface of earth",
+      "b": "Surface of sea",
+      "c": "Surface of still lake",
+      "d": "Surface of reservoir"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2961",
+    "chapter": ""
+  },
+  {
+    "question": "The most powerful explosive used in blasting is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "blasting power",
+      "b": "dynamite",
+      "c": "gun cotton",
+      "d": "cordite"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2962",
+    "chapter": ""
+  },
+  {
+    "question": "In order to dry the quarry sap of a freshly quarried stone, it should be exposed to open air for a period of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "one month",
+      "b": "four month",
+      "c": "six to twelve month",
+      "d": "two years"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2963",
+    "chapter": ""
+  },
+  {
+    "question": "Good quality stone must",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "be durable",
+      "b": "be free from clay",
+      "c": "resist action of acids",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2964",
+    "chapter": ""
+  },
+  {
+    "question": "The principal constituents of good brick earth is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Alumina",
+      "b": "Silica",
+      "c": "Lime",
+      "d": "Alkalies"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2965",
+    "chapter": ""
+  },
+  {
+    "question": "Refractory bricks resists",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "High temperature",
+      "b": "Dampness",
+      "c": "Chemical action",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2966",
+    "chapter": ""
+  },
+  {
+    "question": "Early strength to cement provided by",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Tricalcium Silicates",
+      "b": "Dicalcium silicates",
+      "c": "Tricalcium aluminate",
+      "d": "Tetra calcium alumino ferrite"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2967",
+    "chapter": ""
+  },
+  {
+    "question": "Which type of line is part of a dimension ?",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Break lines",
+      "b": "Phantom lines",
+      "c": "Extension line",
+      "d": "Cutting plane lines"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2968",
+    "chapter": ""
+  },
+  {
+    "question": "Which type of line is particular to section drawing ?",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Break lines",
+      "b": "Phantom lines",
+      "c": "Extension line",
+      "d": "Cutting plane lines"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2969",
+    "chapter": ""
+  },
+  {
+    "question": "The following is not included in the title block of the drawing sheet:",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Sheet number",
+      "b": "scale",
+      "c": "Methods of projection",
+      "d": "Size of sheet"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2970",
+    "chapter": ""
+  },
+  {
+    "question": "A circle will appear on an isometric drawing as a/an",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Ellipse",
+      "b": "Cycloid",
+      "c": "Circle",
+      "d": "Parabola"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2971",
+    "chapter": ""
+  },
+  {
+    "question": "The sectional plane are represented by :",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Continuous thick line",
+      "b": "continuous thin line",
+      "c": "chain thin line",
+      "d": "chain thin line having thick edge"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2972",
+    "chapter": ""
+  },
+  {
+    "question": "Falling head permeability test is preferable when soil sample is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Sandy",
+      "b": "Clayey",
+      "c": "Silty sand",
+      "d": "Sandy gravel"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2973",
+    "chapter": ""
+  },
+  {
+    "question": "The compression resulting from long term static load and resulting expulsion of water is known as",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "compaction",
+      "b": "inverse swelling",
+      "c": "consolidation",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2974",
+    "chapter": ""
+  },
+  {
+    "question": "The inner section of a cavity wall, is generally known as",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "buttress",
+      "b": "leaf wall",
+      "c": "pilaster",
+      "d": "pillar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2975",
+    "chapter": ""
+  },
+  {
+    "question": "Nosing is the outer projecting edge of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "riser",
+      "b": "tread",
+      "c": "baluster",
+      "d": "landing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2976",
+    "chapter": ""
+  },
+  {
+    "question": "A roof which slopes in all the four direction is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "gable roof",
+      "b": "hip roof",
+      "c": "gambrel roof",
+      "d": "mansard roof"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2977",
+    "chapter": ""
+  },
+  {
+    "question": "The sill window in residential building is generally kept above the floor level by",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "40cm",
+      "b": "80cm",
+      "c": "120cm",
+      "d": "160cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2978",
+    "chapter": ""
+  },
+  {
+    "question": "Acrylic is the name of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "cellulose resin",
+      "b": "alkyd resin",
+      "c": "methyl methacrylate",
+      "d": "coumarone-indene"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2979",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum concentration of zinc in drinking water is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "2 ppm",
+      "b": "3 ppm",
+      "c": "4 ppm",
+      "d": "5 ppm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2980",
+    "chapter": ""
+  },
+  {
+    "question": "Wholesome water is also known as",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Potable water",
+      "b": "Polluted water",
+      "c": "Contaminated water",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2981",
+    "chapter": ""
+  },
+  {
+    "question": "Two sewer section laid at same grade, will be hydraulically equivalent, if",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Their discharge capacity when running full are equal",
+      "b": "Their flow velocity when running full are equal",
+      "c": "Their flowing area running full are equal",
+      "d": "All the above factors are equal."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2982",
+    "chapter": ""
+  },
+  {
+    "question": "Widely used pipe for rural water supply in Nepal is ______ .",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "HDPE Pipes",
+      "b": "G.I pipes",
+      "c": "PVC pipes",
+      "d": "C.I pipes"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2983",
+    "chapter": ""
+  },
+  {
+    "question": "The structure provided where natural drainage and canal meets at same level is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Aqueduct",
+      "b": "Siphon",
+      "c": "Super Passage",
+      "d": "Level Crossing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2984",
+    "chapter": ""
+  },
+  {
+    "question": "The first watering before sowing the crop, is known as,",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Kor watering",
+      "b": "Paleo watering",
+      "c": "Delta",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2985",
+    "chapter": ""
+  },
+  {
+    "question": "In river training works, spurs are provided",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Transverse to river",
+      "b": "Longitudinal to river",
+      "c": "Parallel to river",
+      "d": "None of above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2986",
+    "chapter": ""
+  },
+  {
+    "question": "Lime concrete lining is used",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "When velocity flow is below 2 m/s",
+      "b": "in irrigation channels with capacities up to 200 cumecs",
+      "c": "where economy is required",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2987",
+    "chapter": ""
+  },
+  {
+    "question": "A deep and big depression on a road is called",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "potholes",
+      "b": "longitudinal rut",
+      "c": "cross rut",
+      "d": "crack"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2988",
+    "chapter": ""
+  },
+  {
+    "question": "A dividing strip in the middle of the roadway is called",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "central strip",
+      "b": "median strip",
+      "c": "mid strip",
+      "d": "road center"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2989",
+    "chapter": ""
+  },
+  {
+    "question": "For the transportation purpose in nepal, the first preference is given to",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "airlines",
+      "b": "roads",
+      "c": "shipping",
+      "d": "railways"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2990",
+    "chapter": ""
+  },
+  {
+    "question": "Horizontal distance between the centroids of the section of cutting and filling is called",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "lead",
+      "b": "lift",
+      "c": "interval",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2991",
+    "chapter": ""
+  },
+  {
+    "question": "The camber provided for earthen road, is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "7 %",
+      "b": "5 %",
+      "c": "4 %",
+      "d": "3 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2992",
+    "chapter": ""
+  },
+  {
+    "question": "Mostly used road in Nepal is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Cement concrete",
+      "b": "Bitumen",
+      "c": "Earthen",
+      "d": "WBM"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2993",
+    "chapter": ""
+  },
+  {
+    "question": "The portion of road that is used pedestrians only is called",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Sidewalk",
+      "b": "Footpath",
+      "c": "Foot way",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2994",
+    "chapter": ""
+  },
+  {
+    "question": "Shape of camber provided for cement concrete pavement is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Straight line",
+      "b": "parabolic",
+      "c": "circular",
+      "d": "Any of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2995",
+    "chapter": ""
+  },
+  {
+    "question": "For electric wiring such as fan, light, plug etc estimate in made in terms of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Types of point",
+      "b": "Number of points",
+      "c": "Total load at main kilowatt",
+      "d": "Total lengths of wiring in meters"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2996",
+    "chapter": ""
+  },
+  {
+    "question": "The explosive for blasting is usually expressed in terms of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Explosive powder",
+      "b": "Kilogram",
+      "c": "Volume of earthwork that can be blasted",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2997",
+    "chapter": ""
+  },
+  {
+    "question": "One dharni is equivalent to _____ Kg.",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "2.4",
+      "b": "2.45",
+      "c": "2.5",
+      "d": "Any of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2998",
+    "chapter": ""
+  },
+  {
+    "question": "For plastering works payment is based on measurements of _______ .",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Sq.m",
+      "b": "Cu.m",
+      "c": "m",
+      "d": "Kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2999",
+    "chapter": ""
+  },
+  {
+    "question": "Quantity of reinforcement is computed in terms of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Sq.m",
+      "b": "Cu.m",
+      "c": "m",
+      "d": "Kg"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3000",
+    "chapter": ""
+  },
+  {
+    "question": "Measurements of soling works is done in:",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "Running Meter",
+      "b": "Square meter",
+      "c": "Cubic meter",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3001",
+    "chapter": ""
+  },
+  {
+    "question": "In analysis of rates, the profit and overhead for the contractor is generally taken as",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "5 %",
+      "b": "10 %",
+      "c": "15 %",
+      "d": "20 %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3002",
+    "chapter": ""
+  },
+  {
+    "question": "Revised estimate is prepared when the sanctioned original detail estimate exceeds by?",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "5 %",
+      "b": "10 %",
+      "c": "15 %",
+      "d": "20 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3003",
+    "chapter": ""
+  },
+  {
+    "question": "The tender is:",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "a notice inviting bids",
+      "b": "written offer submitted by contractor to execute works",
+      "c": "an agreement enforceable by law",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3004",
+    "chapter": ""
+  },
+  {
+    "question": "The first stages of construction project is",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "survey of site",
+      "b": "initiation of proposal",
+      "c": "preparation of tender",
+      "d": "allocation of fund"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3005",
+    "chapter": ""
+  },
+  {
+    "question": "Site order book is for recording",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "instruction by executive engineer",
+      "b": "construction measurement",
+      "c": "issue of store equipment",
+      "d": "name of casual labor"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3006",
+    "chapter": ""
+  },
+  {
+    "question": "The box of prismatic compass is made of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "steel",
+      "b": "brass",
+      "c": "iron",
+      "d": "aluminium"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3007",
+    "chapter": ""
+  },
+  {
+    "question": "A contour map of the area is essential before proceeding with the construction of",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "building",
+      "b": "a swimming pool",
+      "c": "a dam",
+      "d": "a bridge"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3008",
+    "chapter": ""
+  },
+  {
+    "question": "The spacing of cross-sections in a hilly country is usually",
+    "topic": "Lumbini Pradesh - IV",
+    "options": {
+      "a": "5m",
+      "b": "10m",
+      "c": "15m",
+      "d": "20m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3009",
+    "chapter": ""
+  }
+]

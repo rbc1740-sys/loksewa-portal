@@ -1,0 +1,688 @@
+[
+  {
+    "question": "The basic head loss in a long pipe is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "fittings",
+      "b": "sudden increase in diameter",
+      "c": "sudden decrease in diameter",
+      "d": "friction"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "258",
+    "chapter": ""
+  },
+  {
+    "question": "If fluid or flow parameters at any given instant remain same at every point in space, it is called:",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "steady flow",
+      "b": "laminar flow",
+      "c": "uniform flow",
+      "d": "rotational flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "259",
+    "chapter": ""
+  },
+  {
+    "question": "To measure very low pressure, we use",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "barometers",
+      "b": "piezometers",
+      "c": "monometers",
+      "d": "differential monometers"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "260",
+    "chapter": ""
+  },
+  {
+    "question": "In hydrometer analysis, the principle used is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "Newton's law",
+      "b": "Darcy's law",
+      "c": "Stoke's law",
+      "d": "Rehbann's law"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "261",
+    "chapter": ""
+  },
+  {
+    "question": "In Standard Proctor test, the weight of the rammer is ________.",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "4.5 kg",
+      "b": "18 lb",
+      "c": "2.5kg",
+      "d": "20 lb"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "262",
+    "chapter": ""
+  },
+  {
+    "question": "Soil having more cohesion than sand is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "silt",
+      "b": "gravel",
+      "c": "clay",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "263",
+    "chapter": ""
+  },
+  {
+    "question": "What is the percentage range of porosity for loose sand?",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "5 to 15%",
+      "b": "15 to 30%",
+      "c": "30 to 40%",
+      "d": "40 to 50%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "264",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of the effective length of a column which is fixed at both ends to the distance between the supports is about",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "2.0",
+      "b": "1.0",
+      "c": "0.7",
+      "d": "0.50"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "265",
+    "chapter": ""
+  },
+  {
+    "question": "Permissible tensile strength of concrete, M15 is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "150 kg/cm²",
+      "b": "15 kg/cm²",
+      "c": "150 N/mm²",
+      "d": "15 N/mm²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "266",
+    "chapter": ""
+  },
+  {
+    "question": "Steel beam theory is used for",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "design of simple steel beam",
+      "b": "steel beam encased in concrete",
+      "c": "beam if shear exceeds 4 times allowable shear stress",
+      "d": "doubly reinforced beams ignoring compressive stress in concrete"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "267",
+    "chapter": ""
+  },
+  {
+    "question": "The column under eccentric loading is under",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "one stresses",
+      "b": "two stresses",
+      "c": "three stresses",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "268",
+    "chapter": ""
+  },
+  {
+    "question": "If the magnitude and direction of a load do not change with respect to time, this type of load is called",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "point load",
+      "b": "static load",
+      "c": "dynamic load",
+      "d": "wind load"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "269",
+    "chapter": ""
+  },
+  {
+    "question": "The difference between the most probable value of a quantity and its observed value is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "conditional error",
+      "b": "true error",
+      "c": "safe error",
+      "d": "residual error"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "270",
+    "chapter": ""
+  },
+  {
+    "question": "The radius of curvature of the arc of the bubble tube is generally kept",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "10 m",
+      "b": "25 m",
+      "c": "50 m",
+      "d": "100 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "271",
+    "chapter": ""
+  },
+  {
+    "question": "The traversing by the method of deflection angles is chiefly used in",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "canals",
+      "b": "highways",
+      "c": "railways",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "272",
+    "chapter": ""
+  },
+  {
+    "question": "Profile levelling is usually done to determine",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "the contours of the area",
+      "b": "the capacity of a reservoir",
+      "c": "elevations along a straight line",
+      "d": "boundaries of property"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "273",
+    "chapter": ""
+  },
+  {
+    "question": "Asphalt is a mixture of",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "bitumen and inert mineral matter",
+      "b": "bitumen and asbestos",
+      "c": "bitumen and cement",
+      "d": "tar and asbestos"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "274",
+    "chapter": ""
+  },
+  {
+    "question": "The varnish is essentially made of",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "resin",
+      "b": "solvent",
+      "c": "driver",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "275",
+    "chapter": ""
+  },
+  {
+    "question": "The defect in painting caused by sliding of one layer of paint over another layer is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "wrinkling",
+      "b": "peeling",
+      "c": "alligatoring",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "276",
+    "chapter": ""
+  },
+  {
+    "question": "The paint which gives illumination during the night is called",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "fluorescent paint",
+      "b": "cellulose paint",
+      "c": "enamel paint",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "277",
+    "chapter": ""
+  },
+  {
+    "question": "Pick up the correct statement from the following :",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "D.P.C. should be continuous",
+      "b": "D.P.C. should be of good impervious material",
+      "c": "D.P.C. may be horizontal or vertical",
+      "d": "All the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "278",
+    "chapter": ""
+  },
+  {
+    "question": "Depth of foundation is determined by",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "Types of structure",
+      "b": "B.C. of soil",
+      "c": "Surrounding structure",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "279",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is not true about a cavity wall?",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "air space is provided within the wall",
+      "b": "metal or ties are used to join the strops of wall",
+      "c": "air space is filled with suitable material",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "280",
+    "chapter": ""
+  },
+  {
+    "question": "CPM stands for",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "Combined Process Method",
+      "b": "Critical Path Method",
+      "c": "Common Planning Method",
+      "d": "Critical Process Method"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "281",
+    "chapter": ""
+  },
+  {
+    "question": "The authority to conduct the monitoring of public procurement in Nepal lies with ______.",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "National Vigilance Center",
+      "b": "PPMO",
+      "c": "NEA",
+      "d": "Office of auditorial general"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "282",
+    "chapter": ""
+  },
+  {
+    "question": "The estimated cost of works must be quoted in the tender notice for works worth up to ______________.",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "60 lakh",
+      "b": "1 crore",
+      "c": "2 crore",
+      "d": "3 crore"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "283",
+    "chapter": ""
+  },
+  {
+    "question": "The salvation value of property is generally taken as ____ % of cost of property.",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "5-8",
+      "b": "8-10",
+      "c": "10-12",
+      "d": "15-20"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "284",
+    "chapter": ""
+  },
+  {
+    "question": "The chairman of the material rate fixation committee is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "CDO",
+      "b": "LDO",
+      "c": "DTO",
+      "d": "SP"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "285",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum width of a septic tank is taken",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "70 cm",
+      "b": "75 cm",
+      "c": "80 cm",
+      "d": "90 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "286",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum distance between two hairpin bends, when a number of hairpin bends are introduced, is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "30 m",
+      "b": "60 m",
+      "c": "90 m",
+      "d": "120 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "287",
+    "chapter": ""
+  },
+  {
+    "question": "If the cross slope of a country is 10% to 25%, the terrain is classified as",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "plain",
+      "b": "rolling",
+      "c": "mountains",
+      "d": "steep"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "288",
+    "chapter": ""
+  },
+  {
+    "question": "The initial application of a binder to an existing surface given to ensure thorough bond between the new construction and the existing is called",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "basic coat",
+      "b": "prime coat",
+      "c": "tack coat",
+      "d": "seal coat"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "289",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following layer of pavement should withstand a high level of deformation?",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "Base course",
+      "b": "Sub-base",
+      "c": "Sub-grade",
+      "d": "Surfacing course"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "290",
+    "chapter": ""
+  },
+  {
+    "question": "Pensky-Marks apparatus is used for the determination of",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "specific gravity",
+      "b": "softening point",
+      "c": "fire and flash point",
+      "d": "viscosity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "291",
+    "chapter": ""
+  },
+  {
+    "question": "The method of irrigation used for orchards is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "free flooding",
+      "b": "border flooding",
+      "c": "check flooding",
+      "d": "basin flooding"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "292",
+    "chapter": ""
+  },
+  {
+    "question": "Silt excluders are constructed on the",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "river bed downstream of head regulator",
+      "b": "river bed upstream of head regulator",
+      "c": "canal bed upstream of head regulator",
+      "d": "canal bed down steam of head regulator"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "293",
+    "chapter": ""
+  },
+  {
+    "question": "In a gravity dam, tail water causes",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "decrease in principal stress",
+      "b": "decrease in shear stress",
+      "c": "increase in both principal and shear stress",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "294",
+    "chapter": ""
+  },
+  {
+    "question": "The duty is largest",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "at the head of the main canal",
+      "b": "at the head of the watercourse",
+      "c": "on the field",
+      "d": "same at all places"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "295",
+    "chapter": ""
+  },
+  {
+    "question": "The structure constructed to allow drainage water to flow under pressure through an inverted siphon below a canal, is called",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "a siphon",
+      "b": "aqueduct",
+      "c": "siphon aqueduct",
+      "d": "super passage"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "296",
+    "chapter": ""
+  },
+  {
+    "question": "The source of water in the mountains is",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "tube well",
+      "b": "well",
+      "c": "stream",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "297",
+    "chapter": ""
+  },
+  {
+    "question": "As compared to cast iron pipes, steel pipes are",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "stronger",
+      "b": "heavier",
+      "c": "costlier",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "298",
+    "chapter": ""
+  },
+  {
+    "question": "A sewer, that gets its flow from a number of transverse sewers, is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "interceptor",
+      "b": "inter-connector",
+      "c": "head sewer",
+      "d": "branch sewer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "299",
+    "chapter": ""
+  },
+  {
+    "question": "A sewer that collects sewage from toilets is called",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "lateral sewer",
+      "b": "branch sewer",
+      "c": "main sewer",
+      "d": "outfall sewer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "300",
+    "chapter": ""
+  },
+  {
+    "question": "According to WHO, standard water required per capita per day in village is:",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "145 litres/day",
+      "b": "125 litres/day",
+      "c": "100 litres/day",
+      "d": "45 litres/day"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "301",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा लोकसेवा आयोगको स्थापना कहिले भएको हो?",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "वि.सं. २००८ भदौ १",
+      "b": "वि.सं. २००८ भदौ २",
+      "c": "वि.सं. २००८ असार २",
+      "d": "वि.सं. २००८ असार १"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "302",
+    "chapter": ""
+  },
+  {
+    "question": "Esprit de corps भन्नाले के बुझिन्छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "Service is motto",
+      "b": "hard work",
+      "c": "Team spirit",
+      "d": "Product is strength"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "303",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको संघीय बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "जेठ १५",
+      "b": "जेठ ३०",
+      "c": "असार १०",
+      "d": "साउन १"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "304",
+    "chapter": ""
+  },
+  {
+    "question": "सन्देश प्रेशक, माध्यम, प्रापक, प्रत्युत्तार जस्ता शब्दावलीहरु निम्नमध्ये कुन विषय अन्तर्गत पर्दछन?",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "सञ्चारका गुणहरु",
+      "b": "सञ्चारका तत्व वा अवयवहरु",
+      "c": "सञ्चारको प्रकृया",
+      "d": "सञ्चारको प्रत्युत्तर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "305",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक खरिद ऐन कहिलेदेखि लागू भएको हो ?",
+    "topic": "Lumbini Pradesh(sub engineer) - II",
+    "options": {
+      "a": "२०६३/९/३०",
+      "b": "२०६३/१०/३०",
+      "c": "२०६३/११/३०",
+      "d": "२०६३/१२/३०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "306",
+    "chapter": ""
+  }
+]

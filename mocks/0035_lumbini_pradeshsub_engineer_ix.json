@@ -1,0 +1,701 @@
+[
+  {
+    "question": "Losses are more in",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "laminar flow",
+      "b": "critical flow",
+      "c": "turbulent flow",
+      "d": "transition flow"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1010",
+    "chapter": ""
+  },
+  {
+    "question": "An orifice is called a large orifice if the water head is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "two times the diameter of the pipe",
+      "b": "three times the diameter of the pipe",
+      "c": "four times the diameter of pipe",
+      "d": "five times the diameter of pipe"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1011",
+    "chapter": ""
+  },
+  {
+    "question": "The rate of flow through a venturimeter varies as",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "H^1/2",
+      "b": "H^3/2",
+      "c": "H^4/2",
+      "d": "H^5/2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1012",
+    "chapter": ""
+  },
+  {
+    "question": "The notch angle for maximum discharge over a triangular notch, is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "30°",
+      "b": "60°",
+      "c": "90°",
+      "d": "120°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1013",
+    "chapter": ""
+  },
+  {
+    "question": "The angle of internal friction of clay is about",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "5-20°",
+      "b": "24-30°",
+      "c": "27-33°",
+      "d": "30-35°"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1014",
+    "chapter": ""
+  },
+  {
+    "question": "The relation between dry density (pa), bulk density (p), and water content (w) is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "ρ = ρd/1+w",
+      "b": "w= ρ/1+ ρd",
+      "d": "w= ρd /1+ρ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1015",
+    "chapter": ""
+  },
+  {
+    "question": "The angle of internal friction of silty sand",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "5-20°",
+      "b": "24-30°",
+      "c": "27-33°",
+      "d": "30-35°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1016",
+    "chapter": ""
+  },
+  {
+    "question": "If the volume of voids is equal to the volume of solids in soil, then the values of porosity and voids ratio respectively are",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "1.0 and 0",
+      "b": "0 and 1",
+      "c": "0.5 and 1",
+      "d": "1 and 0.5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1017",
+    "chapter": ""
+  },
+  {
+    "question": "The number of reaction components at a hinge on roller support is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1018",
+    "chapter": ""
+  },
+  {
+    "question": "A brittle material has",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "no plastic zone",
+      "b": "no inelastic zone",
+      "c": "very little plastic zone",
+      "d": "large plastic zone"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1019",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of the diameter of reinforcing bars and the slab thickness is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "1/5",
+      "b": "1/6",
+      "c": "1/7",
+      "d": "1/8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1020",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum spacing between horizontal parallel reinforcements of different sizes should not be less than",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "one times of thinner bar",
+      "b": "two times of thinner bar",
+      "c": "one time of thicker bar",
+      "d": "two times of thicker bar"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1021",
+    "chapter": ""
+  },
+  {
+    "question": "Buckling occurs in a column",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "great",
+      "b": "short",
+      "c": "too great",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1022",
+    "chapter": ""
+  },
+  {
+    "question": "The difference between the sum of the angles of a spherical triangle on the earth’s surface and the angles of the corresponding plane triangles for every 195.5 sq. km of area is only",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "1 second",
+      "b": "5 second",
+      "c": "10 second",
+      "d": "15 second"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1023",
+    "chapter": ""
+  },
+  {
+    "question": "Azimuth (direct angles) is an angle measured in",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "c.w. direction",
+      "b": "a.c.w. direction",
+      "c": "both",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1024",
+    "chapter": ""
+  },
+  {
+    "question": "Tacheometry is best suited",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "where chaining is impossible",
+      "b": "for populous areas",
+      "c": "in broken grounds",
+      "d": "for extremely accurate survey"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1025",
+    "chapter": ""
+  },
+  {
+    "question": "For route survey of a contour map, method used is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "square method",
+      "b": "cross-profile method",
+      "c": "quantities of earth work",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1026",
+    "chapter": ""
+  },
+  {
+    "question": "The volume of one bag of cement weighing 50 kg is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "0.05 m^3",
+      "b": "0.0347 m^3",
+      "c": "0.025 m^3",
+      "d": "0.04 m^3"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1027",
+    "chapter": ""
+  },
+  {
+    "question": "The seven-day compressive strength of a good Portland cement, as obtained from the compressive test on cement-sand mortar cubes, should not be less than",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "125 kg/cm²",
+      "b": "150 kg/cm²",
+      "c": "175 kg/cm²",
+      "d": "200 kg/cm²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1028",
+    "chapter": ""
+  },
+  {
+    "question": "For normal consistency, the penetration in Vicat's apparatus should be between",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "20 to 30mm",
+      "b": "30 to 35mm",
+      "c": "35 to 38 mm",
+      "d": ">40 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1029",
+    "chapter": ""
+  },
+  {
+    "question": "The group of tools used for quarrying of stone is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "jumper and crowbar",
+      "b": "crowbar and trowel",
+      "c": "trowel and wedge",
+      "d": "wedge and scotch"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1030",
+    "chapter": ""
+  },
+  {
+    "question": "The concrete can be lifted by pumps through a maximum vertical distance of",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "10m",
+      "b": "20m",
+      "c": "30m",
+      "d": "40m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1031",
+    "chapter": ""
+  },
+  {
+    "question": "To ensure the quality of concrete, use",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "Single-sized aggregates",
+      "b": "Two sized aggregates",
+      "c": "Graded aggregates",
+      "d": "Coarse aggregates"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1032",
+    "chapter": ""
+  },
+  {
+    "question": "The dimensions of 35 litre forma for measuring aggregates by volume, are",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "length 40cm, breadth 25cm, height 35cm",
+      "b": "length 39cm, breadth 25cm, height 32cm",
+      "c": "length 27cm, breadth 27cm, height 48cm",
+      "d": "length 22cm, breadth 25cm, height 40cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1033",
+    "chapter": ""
+  },
+  {
+    "question": "The dual role event is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "head as well as tail event",
+      "b": "sum of head and tail event",
+      "c": "any event other than head and tail event",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1034",
+    "chapter": ""
+  },
+  {
+    "question": "Best option to avoid undue pressure, cartels, and collusion during the bidding process is ______________.",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "Sealed quotation",
+      "b": "E-bidding",
+      "c": "Both",
+      "d": "Well administration"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1035",
+    "chapter": ""
+  },
+  {
+    "question": "The contractor shall submit an application to the employer for an extension of time stating the cause for delay______days before the expiry of the contract completion date.",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "7",
+      "b": "14",
+      "c": "21",
+      "d": "28"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1036",
+    "chapter": ""
+  },
+  {
+    "question": "The rate analysis norms prepared by Ministry of Physical Infrastructure and Transport, the Government of Nepal includes",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "Labour and material",
+      "b": "Labour, material, and machine",
+      "c": "Labour, material, and supervision charges",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1037",
+    "chapter": ""
+  },
+  {
+    "question": "For residential building, the minimum width of stair should be",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "75 cm",
+      "b": "90 cm",
+      "c": "100 cm",
+      "d": "150 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1038",
+    "chapter": ""
+  },
+  {
+    "question": "In the analysis of the rate what percentages of the total cost is provided towards water charges",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "5%",
+      "b": "7.5%",
+      "c": "1.5%",
+      "d": "10%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1039",
+    "chapter": ""
+  },
+  {
+    "question": "A bridge whose center line is not at right angles to the stream flow is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "tilting bridge",
+      "b": "wing bridge",
+      "c": "angle bridge",
+      "d": "skew bridge"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1040",
+    "chapter": ""
+  },
+  {
+    "question": "Reinforcement in cement concrete pavement is kept",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "5 cm below the top level",
+      "b": "5 cm high from the bottom level",
+      "c": "in the center of the slab.",
+      "d": "at the bottom of the slab"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1041",
+    "chapter": ""
+  },
+  {
+    "question": "In the final layer, 1 cubic meter of sand is applied to the road surface for an area of",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "160 to 180 sq cm",
+      "b": "160 to 180 sq. ft.",
+      "c": "160 to 180 sq yards",
+      "d": "160 to 180 sq. meters"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1042",
+    "chapter": ""
+  },
+  {
+    "question": "Bleeding may be reduced by",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "hot metal chips",
+      "b": "cement",
+      "c": "clay",
+      "d": "dust"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1043",
+    "chapter": ""
+  },
+  {
+    "question": "Pothole maintenance in case of road is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "routine maintenance",
+      "b": "period maintenance",
+      "c": "recurrent maintenance",
+      "d": "special maintenance"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1044",
+    "chapter": ""
+  },
+  {
+    "question": "The discharge through a channel is maximum when",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "m=d/3",
+      "b": "d=b/2",
+      "c": "m =d",
+      "d": "m= 1.5d"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1045",
+    "chapter": ""
+  },
+  {
+    "question": "Up to which point a plant can extract water?",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "saturation point",
+      "b": "permanent wilting point",
+      "c": "hydration point",
+      "d": "dissolution point"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1046",
+    "chapter": ""
+  },
+  {
+    "question": "F.S.L. of a canal at its head with respect to parent channel is kept",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "at the same level",
+      "b": "15 cm lower",
+      "c": "15 cm higher",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1047",
+    "chapter": ""
+  },
+  {
+    "question": "A canal, designed to irrigate throughout the year is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "permanent canal",
+      "b": "perennial canal",
+      "c": "continuous canal",
+      "d": "green canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1048",
+    "chapter": ""
+  },
+  {
+    "question": "On a suitable foundation, the earthen dam can be constructed up to a height of",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "50 m",
+      "b": "100 m",
+      "c": "150 m",
+      "d": "200 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1049",
+    "chapter": ""
+  },
+  {
+    "question": "The types of formwork provided for reinforcing cement tank in rural water supply schemes is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "steel",
+      "b": "wood",
+      "c": "HDPE pipe",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1050",
+    "chapter": ""
+  },
+  {
+    "question": "Most commonly used section in the grade aqueduct, is",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "circular",
+      "b": "rectangular",
+      "c": "parabolic",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1051",
+    "chapter": ""
+  },
+  {
+    "question": "The gasses given out of the septic tank are",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "CH4 oxygen and hydrogen",
+      "b": "CO2, H2S and methane",
+      "c": "CO2, PH3, and ammonia",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1052",
+    "chapter": ""
+  },
+  {
+    "question": "The sewerage system is designed for",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "maximum flow only",
+      "b": "minimum flow only",
+      "c": "average flow only",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1053",
+    "chapter": ""
+  },
+  {
+    "question": "For a long pipe, the head loss",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "At the entrance is ignored",
+      "b": "At the outlet is ignored",
+      "c": "At the entrance and outlet both are ignored",
+      "d": "Due to friction is ignored"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1054",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती कर्मचारीले अध्ययन विदा पाउन कम्तिमा कति वर्ष सेवा अवधि पुगेको हुनुपर्दछ?",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "३ वर्ष",
+      "b": "४ वर्ष",
+      "c": "५ वर्ष",
+      "d": "६ वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1055",
+    "chapter": ""
+  },
+  {
+    "question": "Bureaucratic theory का प्रतिपादक को हुन?",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "Henry Fayol",
+      "b": "Talcot Parson",
+      "c": "Elton mayo",
+      "d": "Max weber"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1056",
+    "chapter": ""
+  },
+  {
+    "question": "A character that is raised and smaller above the baseline is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "raised",
+      "b": "outlined",
+      "c": "capscript",
+      "d": "superscript"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1057",
+    "chapter": ""
+  },
+  {
+    "question": "निश्चित उदेश्य परिपुर्ति गर्न स्थापित निकाय वा अड्डालाई के भनिन्छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "व्यवस्थापन",
+      "b": "सञ्चार",
+      "c": "कार्यालय",
+      "d": "परिपत्र"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1058",
+    "chapter": ""
+  },
+  {
+    "question": "बेलायतमा पहिलो पटक सार्वजनिक सेवा वडापत्र लागू गर्दा कति वटा सिद्धान्तहरु थिए?",
+    "topic": "Lumbini Pradesh(sub engineer) - IX",
+    "options": {
+      "a": "५",
+      "b": "६",
+      "c": "७",
+      "d": "८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1059",
+    "chapter": ""
+  }
+]

@@ -1,0 +1,3233 @@
+[
+  {
+    "question": "Elasticity of a body is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the property by which a body returns to its original shape after removal of the load",
+      "b": "the ratio of stress to strain",
+      "c": "the resistance to the force acting",
+      "d": "large deformability as in the case of rubber"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "531",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The stress in a member subjected to a force is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "continued deformation under sustained loading",
+      "b": "load per unit area",
+      "c": "the resistance offered by the material per unit area to a force",
+      "d": "the strain per unit length"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "532",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "A perfectly elastic body is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "that the body which recovers its original shape completely after the removal of force",
+      "b": "a body such a material with a lot of extensibility",
+      "c": "a body made of rubber only",
+      "d": "a body whose cross-sectional dimensions are very small"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "533",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The deformation per unit length is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "tensile stress",
+      "b": "compressive stress",
+      "c": "shear stress",
+      "d": "strain"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "534",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The law \"Stress is proportional to strain within proportional limit\" is formulated by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "Thomas Young",
+      "b": "Poisson",
+      "c": "Mohr",
+      "d": "Robert Hook"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "535",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The law that states, \"within elastic limits strain produced is proportional to the stress producing it\", is known as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "Bernoulli's law",
+      "b": "Stress law",
+      "c": "Hooke's law",
+      "d": "Poisson's law"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "536",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The zone between the elastic limit and a proportional limit on the elastic curve of an elastic material is known as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "linear elastic zone",
+      "b": "non-linear elastic zone",
+      "c": "plastic zone",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "537",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Which of the following gives Poisson's ratio?",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ratio of linear stress to linear strain",
+      "b": "ratio of shear stress to shear strain",
+      "c": "ratio of lateral strain to longitudinal strain",
+      "d": "ratio of the normal stress"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "538",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The value of Poisson's ratio always remains",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "greater than one",
+      "b": "less than one",
+      "c": "equal to one",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "539",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Hook’s law holds good up to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "yield point",
+      "b": "elastic limit",
+      "c": "plastic limit",
+      "d": "breaking point"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "540",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The actual breaking stress of a ductile material from a tension test will be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "greater than ultimate strength",
+      "b": "equal to ultimate strength",
+      "c": "equal to nominal breaking stress",
+      "d": "less than the ultimate strength but greater than the nominal breaking stress"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "541",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The product El is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "flexural rigidity",
+      "b": "torsional rigidity",
+      "c": "second moment of area",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "542",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The phenomenon of decreased resistance of material due to the reversal of stress is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "creep",
+      "b": "fatigue",
+      "c": "elasticity",
+      "d": "plasticity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "543",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The load required to produce unit deflection is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "stiffness",
+      "b": "ductility",
+      "c": "elasticity",
+      "d": "malleability"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "544",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The property of a material by which it can be drawn to a smaller section, due to tension, is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "plasticity",
+      "b": "ductility",
+      "c": "elasticity",
+      "d": "malleability"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "545",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Which of the following is a relatively ductile material?",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "iron",
+      "b": "wrought iron",
+      "c": "mild steel",
+      "d": "bronze"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "546",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Toughness is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the ability to absorb energy during plastic deformation",
+      "b": "higher ultimate strength",
+      "c": "stress at field",
+      "d": "strain energy at field"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "547",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The property of a material by which it can be beaten or rolled into plates, is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "malleability",
+      "b": "ductility",
+      "c": "plasticity",
+      "d": "elasticity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "549",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "As per the elastic theory of design, the factor of safety is the ratio of",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "working stress to field stress",
+      "b": "yield stress to working stress",
+      "c": "ultimate stress to yield stress",
+      "d": "ultimate load to load at yield"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "550",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The phenomenon of the slow growth of strain under a steady tensile stress, ie. increasing with time, is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "yielding",
+      "b": "creeping",
+      "c": "breaking",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "551",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The bending moment at a section tends to bend or deflect the beam and internal stresses resist its bending. The resistance offered by the internal stress to the bending is called:",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "compressive stress",
+      "b": "shear stress",
+      "c": "bending stress",
+      "d": "elastic modulus"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "552",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Tensile internal force tends to:",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "crush the member",
+      "b": "elongate the member",
+      "c": "shorten the member",
+      "d": "smash the member"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "553",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The limit of proportionality depends upon",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "area of cross-section",
+      "b": "types of loading",
+      "c": "types of material",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "554",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The S.I unit of modulus of elasticity is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "N/cm²",
+      "b": "N/m²",
+      "c": "dyne/cm²",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "555",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The stress at which the extension of a material takes place more quickly as compared to the increase in load, is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "elastic limit",
+      "b": "plastic limit",
+      "c": "breaking point",
+      "d": "yielding point"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "556",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The permanent set is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the force which acts permanently on the body",
+      "b": "irrecoverable deformation in the body",
+      "c": "the shape of the member just after completion of construction",
+      "d": "ratio of Poisson's ratio to Young's modulus"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "557",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Young's Modulus of elasticity is defined as a ratio of stress & strain within the",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "yield limit",
+      "b": "elastic limit",
+      "c": "plastic limit",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "558",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Which of the following gives the Modulus of Rigidity",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ratio of linear stress to linear strain",
+      "b": "ratio of shear stress to shear strain",
+      "c": "ratio of lateral strain to longitudinal strain",
+      "d": "ratio of the normal stress to normal strain"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "559",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Which of the following gives Bulk Modulus?",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ratio of linear stress to linear strain",
+      "b": "ratio of shear stress to shear strain",
+      "c": "ratio of lateral strain to longitudinal strain",
+      "d": "ratio of the normal stress of equal magnitude on all six faces on a solid cube to the volumetric strain"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "560",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Normal strain is defined as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "rate of change of length",
+      "b": "strain that normally occurs",
+      "c": "strain that is normal to shear strain",
+      "d": "deformation normal to the force"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "561",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Shear strain is defined as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "change in angle between planes at right angles",
+      "b": "distortion of fibre",
+      "c": "change in angles between two angles",
+      "d": "strain that normally occurs"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "562",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "How does Young's Modulus vary with an increase in temperature?",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "will increase",
+      "b": "will not be affected",
+      "c": "will decrease",
+      "d": "impossible to predict"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "563",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Which of the following materials will have the highest Young's Modulus?",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "brass",
+      "b": "timber",
+      "c": "mild steel",
+      "d": "copper"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "564",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "What is strain energy?",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "stress x strain",
+      "b": "volume x stress x strain",
+      "c": "energy that is spent for straining a body",
+      "d": "energy stored in a body because of being strained"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "565",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "When a change in length takes place, the strain is known as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "Linear strain",
+      "b": "Lateral strain",
+      "c": "Volumetric strain",
+      "d": "Shear strain"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "566",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The modular ratio of the two materials is the ratio of",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "linear stress to linear strain",
+      "b": "shear stress to shear strain",
+      "c": "their modulus of elasticities",
+      "d": "their modulus of rigidities"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "567",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "The ratio of the largest load in a test to the original cross-sectional area of the piece is called:",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "elastic limit",
+      "b": "ultimate stress",
+      "c": "yield stress",
+      "d": "breaking stress"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "568",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "Fatigue is the failure of a material under:",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "constant loads but occasionally well above static load",
+      "b": "varying loads, well below the ultimate static load",
+      "c": "constant loads well below the ultimate static load",
+      "d": "varying loads well above the ultimate static load"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "569",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "A member which does not regain its original shape after the load producing deformation is removed is said to be:",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "plastic",
+      "b": "elastic",
+      "c": "rigid",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "570",
+    "chapter": "Mechanics of materials-I"
+  },
+  {
+    "question": "What is tenacity?",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ultimate strength in tension",
+      "b": "ultimate strength in compression",
+      "c": "ultimate shear strength",
+      "d": "ultimate impact strength"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "571",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "Which of the following gives the Modulus of Elasticity",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ratio of linear stress to linear strain",
+      "b": "ratio of shear stress to shear strain",
+      "c": "ratio of lateral strain to longitudinal strain",
+      "d": "ratio of the normal stress"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "572",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "Proof resilience is the greatest energy stored at",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "limit of proportionality",
+      "b": "elastic limit",
+      "c": "plastic limit",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "573",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The stress in members subjected to a force is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "continued deformation under sustained loading",
+      "b": "load per unit area",
+      "c": "the resistance offered by the material per unit area to a force",
+      "d": "the strain per unit length"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "574",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The stress due to temperature change in a member depends on",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "cross-section of the member",
+      "b": "length of the member",
+      "c": "supporting end conditions",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "575",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The stress necessary to initiate yielding, is considerably",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "more than necessary to continue it",
+      "b": "less than necessary to continue it",
+      "c": "more than necessary to stop it",
+      "d": "less than necessary to continue it"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "576",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The ratio of the intensity of stress in the case of a sudden load to that of a gradually applied load",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "same",
+      "b": "half",
+      "c": "twice",
+      "d": "thrice"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "577",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The stress at which the extension of a material takes place more quickly as compared to the increase in load, is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "breakpoint",
+      "b": "plastic point",
+      "c": "yielding point",
+      "d": "elastic point"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "578",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The strain energy stored by a member when strained within elastic limit is known as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "resilience",
+      "b": "proof resilience",
+      "c": "potential strain",
+      "d": "none"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "580",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "As the elastic limit reaches, tensile strain",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "decreases more rapidly",
+      "b": "increases more rapidly",
+      "c": "decreases in proportion to the stress",
+      "d": "increases in proportion to the stress"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "581",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The ratio of elongations of a conical bar due to its own weight and that of a prismatic bar of the same length is,",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "1/6",
+      "b": "1/5",
+      "c": "1/4",
+      "d": "1/3"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "582",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The dead load of a member is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "one that remains constant",
+      "b": "one that occurs due to a dead body",
+      "c": "one that comes all of a sudden",
+      "d": "one that comes due to the self-weight of the object"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "583",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "Which of the following is dimensionless?",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bulk modulus",
+      "b": "strain",
+      "c": "shear stress",
+      "d": "coefficient of linear expansion"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "584",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The maximum shear stress will always occur at",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "neutral axis",
+      "b": "top extreme fibre",
+      "c": "a fibre in the cross-section depending on the configuration",
+      "d": "bottom extreme fibre"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "585",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "In the case of an H-section the maximum shear stress will occur at",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "top fibres",
+      "b": "neutral axis",
+      "c": "bottom fibres",
+      "d": "at the junction of web and flange"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "586",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "A visco elastic material",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "is an elastic material",
+      "b": "has a small plastic zone",
+      "c": "has a time-dependent stress-strain relation",
+      "d": "has a viscous surface"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "587",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "Stress in a beam due to simple bending, is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "inversely proportional",
+      "b": "directly proportional",
+      "c": "curvilinearly related",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "588",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "Compression members always tend to buckle in the direction of the",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "parallel to the axis of the load",
+      "b": "perpendicular to the axis of the load",
+      "c": "least radius of gyration",
+      "d": "least cross-section"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "589",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The number of reaction components at a hinge on roller support is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "590",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The number of reaction components at a hinged end of a general loading is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "591",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "A beam is supported over three rollers lying in the same plane. The beam is stable for",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "any loading",
+      "b": "loading with no component in the direction of the beam",
+      "c": "loading with no component perpendicular to the direction of the beam",
+      "d": "only when no load except self-weight acts."
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "593",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "If the elasticity of the material is zero then the material is said to be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "rigid",
+      "b": "perfect",
+      "c": "plastic",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "594",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "An orthotropic material has",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "inelastic properties",
+      "b": "non-homogeneous properties",
+      "c": "the same properties in an orthogonal direction",
+      "d": "different properties in three perpendicular directions"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "595",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "If a material has identical properties in all directions, it is said to be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "homogeneous",
+      "b": "isotropic",
+      "c": "elastic",
+      "d": "orthotropic"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "596",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "An isotropic material has",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "elastic mass",
+      "b": "homogeneous mass",
+      "c": "elasto plastic mass",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "597",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "A brittle material has",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "no plastic zone",
+      "b": "no inelastic zone",
+      "c": "very little plastic zone",
+      "d": "large plastic zone"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "598",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The compression test is commonly used for testing",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ductile materials",
+      "b": "rubber",
+      "c": "brittle materials",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "599",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "A brittle material will",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "fail suddenly",
+      "b": "fail after giving a warning",
+      "c": "never fail",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "600",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The lower yield point is more significant than upper yield point because",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "it is less than the upper yield point",
+      "b": "it is less influenced by the shape of the specimen",
+      "c": "it occurs before the upper yield point",
+      "d": "strain is more at this point"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "601",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "A body having similar properties throughout its volume is said to be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "homogeneous",
+      "b": "isomorphic",
+      "c": "isotropic",
+      "d": "anisotropic"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "602",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The moment of inertia of an area will be least with respect to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "central axis",
+      "b": "horizontal axis",
+      "c": "vertical axis",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "603",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The square root of the ratio of moment of inertia and cross-section area of the member as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "least lateral dimension",
+      "b": "second moment of inertia",
+      "c": "radius of gyration",
+      "d": "section modulus"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "604",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The radius of gyration of a rectangular section is not proportional to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "square root of the moment of inertia",
+      "b": "square root of the inverse of the area",
+      "c": "square root of the moment of inertia divided by the area of the section",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "605",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The moment of inertia of a rectangular beam b x d is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bd^3/12",
+      "b": "bd^3/6",
+      "c": "db^3/12",
+      "d": "db^3/6"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "606",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The moment of inertia of the square section is given by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "b^4/12",
+      "b": "b^3/12",
+      "c": "lb^3 /12",
+      "d": "b^4/3"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "607",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The moment of inertia of a rectangular (b x d) section about its base is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bd^3/12",
+      "b": "db^3/12.",
+      "c": "bd^3/3",
+      "d": "db^3/12"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "608",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The moment of inertia of triangular section b x h about the base is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bh^3/12",
+      "b": "bh^3/18",
+      "c": "bh^3/36",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "609",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "The moment of inertia of triangular section b x h about the C.G. is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bh^3/12",
+      "b": "bh^3/18",
+      "c": "bh^3/36",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "610",
+    "chapter": "Mechanics of materials-II"
+  },
+  {
+    "question": "A beam that is fixed at one end and free at the other end is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "simply supported beam",
+      "b": "fixed beam",
+      "c": "overhanging beam",
+      "d": "cantilever beam"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "611",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "A beam extending beyond the supports is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "simply supported beam",
+      "b": "fixed beam",
+      "c": "overhanging beam",
+      "d": "cantilever beam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "612",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "A beam encastered at both ends is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "simply supported beam",
+      "b": "fixed beam",
+      "c": "overhanging beam",
+      "d": "cantilever beam"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "613",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "A beam supported on more than two supports is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "simply supported beam",
+      "b": "fixed beam",
+      "c": "overhanging beam",
+      "d": "continuous beam"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "614",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "A member with a cross-section of ‘A’ mm² is subjected to a force of ‘P’ N. It is ‘L’ mm long and of Young's Modulus, ‘E’ N/mm². The strain will be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "(PL/AE)N/mm",
+      "b": "(PA/LE)N/mm²",
+      "c": "(P/AE)mm/mm",
+      "d": "(AP/LE)mm/mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "615",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Find the elongation of a bar if c/s area of the bar is A, length L, applied load P, modulus of elasticity of material is E",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "PL/AE",
+      "b": "AE/PL",
+      "c": "PA/LE",
+      "d": "PE/AL"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "616",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "If ‘α’ is the coefficient of linear expansion, ‘T’ is the rise in temperature then thermal stress is given by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ETα",
+      "b": "ET/α",
+      "c": "Eα/T",
+      "d": "Tα/E"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "617",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The beam strongest in flexure will have maximum",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "moment of inertia",
+      "b": "section modulus",
+      "c": "area of cross-section",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "618",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The shear force and bending moment are related by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "V= M/Z",
+      "b": "V= MY/I",
+      "c": "V= dM/dx",
+      "d": "V= Mdx"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "619",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "A shear force diagram of a simply supported beam shows constant shear force throughout the span. It is subjected to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "two concentrated loads spaced at points",
+      "b": "a couple at mid-span",
+      "c": "a uniformly distributed load",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "620",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The shear force on a beam and the displacement are related by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "V= El*d²y/dx²",
+      "b": "V= El*d^3y/dx²",
+      "c": "V= El*d^3y/dx^3",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "621",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The maximum number of transverse shear forces possible at one end of an element of a plane frame is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "zero",
+      "b": "one",
+      "c": "two",
+      "d": "three"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "622",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The maximum number of transverse shear forces possible at one end of an element of a plane truss is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "zero",
+      "b": "one",
+      "c": "two",
+      "d": "three"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "623",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Find the maximum BM induced in a simply supported beam if the beam is subjected to a point load of 4 KN at the centre of the beam and the span of the beam is 4 m",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "8 KN-m",
+      "b": "4KN-m",
+      "c": "2 KN-m",
+      "d": "1 KN-m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "624",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "In a simply supported beam subjected to a point load at the centre, the maximum bending moment occurs at",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "left end",
+      "b": "right end",
+      "c": "centre",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "625",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Find the maximum bending moment in a simply supported beam loaded with a UDL of 2 t/m having span 4m",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "2 t-m",
+      "b": "4 t-m",
+      "c": "6 t-m",
+      "d": "8 t-m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "626",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Maximum bending moment occurs at the centre if the simply supported beam is subjected to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "point load of centre",
+      "b": "uniformly distributed load throughout the span",
+      "c": "triangular load with maximum intensity at centre",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "627",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Find the maximum SF induced in the S.S beam if the beam is subjected to a point load of 4 KN at the centre of the beam and the span of the beam is 4 m",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "1 KN",
+      "b": "2 KN",
+      "c": "4 KN",
+      "d": "8 KN-m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "628",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The shear force diagram for a cantilever carrying a UDL over its whole length is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "rectangle",
+      "b": "triangle",
+      "c": "parabola",
+      "d": "cubic parabola"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "629",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The rate of change of shear force is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bending moment",
+      "b": "slope",
+      "c": "deflection",
+      "d": "intensity of load"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "630",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "A diagram that shows the variation of axial force",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "BMD",
+      "b": "SFD",
+      "c": "Thrust diagram",
+      "d": "Stress diagram"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "631",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The relation between the radius of curvature(R), bending moment(M), and flexural rigidity(El) is given by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "M= ΕΙ /R",
+      "b": "M= E/ IR",
+      "c": "El= R/M",
+      "d": "MI /R =E"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "632",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "In simple bending theory, the assumption that plane section before bending remains plain after bending implies that",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "stress is proportional to strain at all sections",
+      "b": "strain is proportional to the distance from the natural axis",
+      "c": "stress is uniform in the cross-section",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "633",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Along the neutral axis of a simply supported beam",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "fibres do not undergo strain",
+      "b": "fibers undergo very little strain",
+      "c": "the fibres are subjected to maximum stress",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "634",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Simple bending equation is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "M/y = f/I= E/R",
+      "b": "M/I = f/y= E/R",
+      "c": "M/R = f/y = E/ R",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "635",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Maximum bending moment occurs where",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "shear force is maximum",
+      "b": "shear force is less than one",
+      "c": "shear force changes sign",
+      "d": "deflection is zero"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "636",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "In a beam where shear force is maximum the bending moment will be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "maximum",
+      "b": "zero",
+      "c": "minimum",
+      "d": "no relation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "637",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The maximum bending moment caused by a moving load on a fixed end beam occurs",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "at the support",
+      "b": "under the load",
+      "c": "at mid-span",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "638",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The bending moment diagram of the simply supported beam having uniformly distributed load is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "rectangular",
+      "b": "parabolic",
+      "c": "triangular",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "639",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The variation of the bending moment in the portion of the beam carrying linearly varying load is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubic",
+      "d": "deflection is zero"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "640",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "If two forces acting at a joint are not along the straight line, then for the equilibrium of the joint",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "one of the forces must be zero",
+      "b": "each force must be zero",
+      "c": "forces must be equal and of the same sign",
+      "d": "forces must be equal in magnitude but opposite in sign"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "641",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The bending moment diagram for a cantilever beam subjected to the moment at the end of the beam would be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "rectangle",
+      "b": "triangle",
+      "c": "parabola",
+      "d": "cubic parabola"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "642",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "A beam simply supported at ends is subjected to load. The maximum bending moment is located where",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "shear force is zero",
+      "b": "shear force is maximum",
+      "c": "bending moment is zero",
+      "d": "axial is zero"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "643",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "In the case of a fixed beam loaded with a point load at its center, the number of points at which BM is zero is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "644",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "In a continuous beam, the point where the bending moment changes sign is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "point of inflection",
+      "b": "point of virtual hinge",
+      "c": "point of contraflexure",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "645",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The point of contraflexure occurs in a beam",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "cantilevers only",
+      "b": "simply supported only",
+      "c": "overhanging only",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "646",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "In a fixed beam, the points of contraflexure,",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "for a udl load are 2",
+      "b": "for a concentrated load are 2",
+      "c": "for a moment applied load are 2",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "647",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The point of contraflexure is a point where bending moment",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "minimum",
+      "b": "maximum",
+      "c": "zero",
+      "d": "changes sign"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "648",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The maximum bending moment caused by a moving load on a simply supported beam is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "at the support",
+      "b": "under the load",
+      "c": "at mid-span",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "649",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The shape of the bending moment diagram for a simply supported beam having a point load at the center",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "parabolic",
+      "b": "square",
+      "c": "rectangle",
+      "d": "triangle"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "650",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "Which one is correct if the deflection of a beam is y",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "θ =dy/dx",
+      "b": "dθ/dx = d²y/d²x",
+      "c": "M= EI/R",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "651",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "If y is the deflection of the beam, then shear force is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "y",
+      "b": "d^y/dx",
+      "c": "d²y /dx²",
+      "d": "d^3y/dx^3"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "652",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The relation between deflection (y) and bending moment (M) is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "M=El*dy/dx",
+      "b": "M=-El*d²y/dx²",
+      "c": "M=EI.dy",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "653",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The maximum bending moment caused by a large number of equally spaced identical loads on a simply supported beam is (W=wL)",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "WL/6",
+      "b": "WL/8",
+      "c": "WL/16",
+      "d": "WL/2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "654",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "The maximum deflection in a cantilever beam carrying concentrated load 'w’ at the free end",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "WL^3/8El",
+      "b": "WL²/5El",
+      "c": "WL^3/3El",
+      "d": "3WL^3/2El"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "655",
+    "chapter": "Mechanics of Beams-I"
+  },
+  {
+    "question": "For a beam of uniform strength if its depth is maintained constant then its width will vary in proportion to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bending moment",
+      "b": "(B.M)²",
+      "c": "(BM)^3",
+      "d": "(B.M)^½"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "656",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "In a simply supported beam with span (L) having a triangular load with its intensity 0 at both ends and W at the center. The maximum BM will be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "WL/2",
+      "b": "WL/3",
+      "c": "WL²/12",
+      "d": "WL/9"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "657",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The critical bending moment caused in a fixed end beam loaded with a uniformly distributed load (WL) throughout is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "M= WL/4",
+      "b": "M= WL/ 8",
+      "c": "M= WL/12",
+      "d": "M= WL/16"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "658",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "In a simply supported beam with the span, L is subjected to a point load, W at the center. Find the maximum bending moment induced in the beam",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "WL/2",
+      "b": "WL/3",
+      "c": "WL/4",
+      "d": "WL/8"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "659",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "Maximum deflection of a simply supported beam subjected to concentrated load (w) at the mid-point is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "wl^3/8EI",
+      "b": "wl^3/48EI",
+      "c": "5wl^3/8EI",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "660",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The determinate beam can be analyzed with the help of",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "two equations of statics",
+      "b": "three equations of statics",
+      "c": "four equations of statics",
+      "d": "five equations of statics"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "661",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "A beam fixed at both ends with a central load W in the middle will have zero bending moment",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "one place",
+      "b": "two places",
+      "c": "three places",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "662",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The maximum bending moment caused on a simply supported beam subjected to two equal concentrated loads (W/2) spaced at equal distances (L/3) over the span is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "WL/8",
+      "b": "WL/6",
+      "c": "WL/4",
+      "d": "WL/2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "663",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "A beam is said to be of uniform strength if",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the bending moment is same throughout the beam",
+      "b": "the deflection is same throughout the beam",
+      "c": "the bending stress is same throughout the beam",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "664",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "A section of a beam is said to be in pure bending if it is subjected to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "constant bending moment and constant shear force",
+      "b": "constant bending moment and zero shear force",
+      "c": "constant shear force and zero bending moment",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "665",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The maximum deflection of a beam occurs at",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "zero shear force location",
+      "b": "zero slope location",
+      "c": "zero bending moment location",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "666",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The slope of an elastic curve at the point of contraflexure",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "must be equal to zero",
+      "b": "greater than zero",
+      "c": "need not equal to zero",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "667",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "If the length of a simply supported beam carrying a concentrated load at the center doubled, the deflection at the center will become",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "two times",
+      "b": "four times",
+      "c": "eight times",
+      "d": "sixteen times"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "668",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The maximum deflection in a cantilever beam carrying a uniformly distributed load (w) over spans is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "WL^3/8El",
+      "b": "WL^3/5El",
+      "c": "WL^3/3El",
+      "d": "3WL^3/2El"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "669",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The maximum deflection of a simply supported beam subjected to concentrated load (W) at the mid point is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "WL^3/8El",
+      "b": "5WL^3/48El",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "670",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The maximum deflection of a simply supported beam subjected to uniformly distributed load (w) over the span is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "WL^3/8El",
+      "b": "5WL^3/48El",
+      "d": "5WL^3/384El"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "671",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The diagram showing the variation of BM along the span of the beam is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "BMD",
+      "b": "SFD",
+      "c": "thrust diagram",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "672",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The load carrying capacity of the fixed beam is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "lesser than the simply supported beam",
+      "b": "lesser than the cantilever beam",
+      "c": "greater than the simply supported beam and cantilever beam",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "673",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "A beam of uniform strength will have at every cross-section the same",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "deflection",
+      "b": "stiffness",
+      "c": "bending moment",
+      "d": "bending stress"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "674",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "If a beam is loaded transversely, the maximum compressive stress develops on",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "top fibre",
+      "b": "neutral axis",
+      "c": "bottom fibre",
+      "d": "every cross-section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "675",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "In a beam, the neutral plane",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "may be at its centre",
+      "b": "passes through the c.g. of the area of c/s",
+      "c": "does not change during deformation",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "676",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "Longitudinal cracks observed in timber beams are due to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "high bending stresses",
+      "b": "application of concentrated loads over the beam",
+      "c": "shear failure between the layers",
+      "d": "timber not being in compression"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "677",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The expression El d^4y/dx^4 at any section for a beam is equal to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "load intensity at the section",
+      "b": "shear force at the section",
+      "c": "bending moment at the section",
+      "d": "slope of the section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "678",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The slope of the curve of the B.M. diagram at any section will be equal to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the slope of loading at that section",
+      "b": "the slope of the shear force diagram at that section",
+      "c": "the ordinate of the shear force diagram at that section",
+      "d": "the area of shear force diagram starting from any one"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "679",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The slope of the curve of the S.F. diagram at any end section will be equal to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the slope of loading at that section",
+      "b": "the ordinate of the loading diagram at that section",
+      "c": "the area of the loading diagram from the end to that section",
+      "d": "the bending moment at that section"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "680",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The difference between BM values at any two sections will be equal to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the area of the SF diagram between those two sections",
+      "b": "the area of the loading diagram between the two sections",
+      "c": "the area of the loading diagram",
+      "d": "the area of bending moment between the two sections"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "681",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The difference between SF values at any two sections will be equal to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the area of bending moment between the two sections",
+      "b": "the difference between the slopes of the curve of the loading diagram at two sections",
+      "c": "the ordinate of the shear force diagram at one section plus the slope of the loading diagram multiplied by the distance between two sections",
+      "d": "the area of the loading diagram between those two sections"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "682",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "Rate of change of bending moment is equal to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "shear force",
+      "b": "slope",
+      "c": "deflection",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "683",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The rate of change of shear force is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bending moment",
+      "b": "point load",
+      "c": "intensity of load",
+      "d": "slope"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "684",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The diagram showing the variation of axial load along the span is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "thrust diagram",
+      "b": "shear force diagram",
+      "c": "bending moment diagram",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "685",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The number of points of contraflexure in a simply supported beam carrying udl, is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "0"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "686",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "BM in a cantilever beam having a span of 1.8m and uniformly distributed load of 4 kg/m",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "4.48 kg-m",
+      "b": "5.48 kg-m",
+      "c": "6.48 kg-m",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "687",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "At a point where SF is zero, BM is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "maximum",
+      "b": "minimum",
+      "c": "either maximum or minimum",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "688",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "Which of the following sections is the most efficient in carrying bending moments",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "rectangular section",
+      "b": "circular section",
+      "c": "l-section",
+      "d": "T-section"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "689",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "Find the value of thrust, if the member (beam) is subjected to an inclined force having magnitude 5 kN and inclination with vertical is 30 degree",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "2.5 kN",
+      "b": "5 kN",
+      "c": "2.5√3 KN",
+      "d": "7.5 kN"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "690",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "At the point of application of concentrated load on a beam, there is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "maximum BM",
+      "b": "sudden change slope of BM",
+      "c": "point of contraflexure",
+      "d": "maximum deflection"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "691",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "If a cantilever beam of 8m long has a uniformly distributed load of 2KN/m throughout the length and 10KN point load at the center of the beam, find the moment at center:",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "8 KN-m",
+      "b": "16 KN-m",
+      "c": "32 KN-m",
+      "d": "44 KN-m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "692",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The shear force in a concrete beam is assumed to act",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "along the longitudinal axis",
+      "b": "perpendicular to the longitudinal axis",
+      "c": "on a plane normal to the longitudinal axis",
+      "d": "vertically downward"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "693",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The shear force on a beam is proportional to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "curvature of the axis",
+      "b": "displacement of the axis",
+      "c": "sum of the forces",
+      "d": "sum of the transverse forces"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "694",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "A beam is said to be loaded in pure bending when",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "Bending moment is constant",
+      "b": "Bending moment is zero",
+      "c": "Bending moment is changing linearly",
+      "d": "Bending moment and shear force are changing linearly"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "695",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "A cantilever beam of span 4m and carrying a point load of 10 KN located at 3m from the fixed end. Find the BM at the fixed and free end",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "30 KN-m, 0",
+      "b": "30 KN-m, 10 KN-m",
+      "c": "10 KN-m, 30 KN-m",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "696",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The maximum BM produced in a simply supported beam having a span of 4 m and subjected to a UDL of 10 kN/m",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "10 kN-m",
+      "b": "20 kN-m",
+      "c": "30 kN-m",
+      "d": "40 kN-m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "697",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The maximum bending moment in a simply supported beam loaded with a UDL of w/m having span l is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "wl²/2",
+      "b": "wl²/4",
+      "c": "wl²/8",
+      "d": "wl²/16"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "698",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "When a rectangular beam is loaded transversely the maximum compressive stress is developed on the",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "top layer",
+      "b": "bottom layer",
+      "c": "neutral axis",
+      "d": "every cross-section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "699",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "The bending moment diagram of a simply supported beam with a point load at the center of the span is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "parabola",
+      "b": "triangular",
+      "c": "rectangle",
+      "d": "diagonal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "700",
+    "chapter": "Mechanics of Beams-II"
+  },
+  {
+    "question": "A strut is a",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "flexible member",
+      "b": "torsion member",
+      "c": "compression member",
+      "d": "tension member"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "701",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "A simple stress formula is applicable to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "long column",
+      "b": "short column",
+      "c": "medium column",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "702",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "Euler’s formula is applicable to a",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "long column",
+      "b": "medium column",
+      "c": "short column",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "703",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "A long vertical member subjected to an axial compressive load is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "column",
+      "b": "strut",
+      "c": "tie",
+      "d": "tanchion"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "704",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "A column that fails primarily due to direct stress is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "long column",
+      "b": "short column",
+      "c": "weak column",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "705",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "A column that fails primarily due to buckling is known as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "long column",
+      "b": "short column",
+      "c": "weak column",
+      "d": "medium column"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "706",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "Buckling load for a given column depends upon",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "length of column only",
+      "b": "least lateral dimension only",
+      "c": "both length and least lateral dimension",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "707",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The region of a cross-section of a column in which compressive load may be applied without producing tensile load is known as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "core",
+      "b": "more",
+      "c": "compression area",
+      "d": "tension area"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "708",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "For keeping the stress wholly permissible the load may be applied on a circular column anywhere within a concentric circle of diameter",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "d/2",
+      "b": "d/3",
+      "c": "d/4",
+      "d": "d/5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "709",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The load acting on a column is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "lateral",
+      "b": "axial",
+      "c": "transverse",
+      "d": "none"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "710",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "For a column, both fixed, the crippling load will be equal to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "2P",
+      "b": "4P",
+      "c": "P/8",
+      "d": "P/16"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "711",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The crippling load for a column with both ends hinged is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "πEI/L²",
+      "b": "π²EI/4L²",
+      "c": "π²EI/L²",
+      "d": "4π²EI/L²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "712",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "Euler's formula for a column of length L, with one end fixed and the other hinged is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "P= 2π²EI/L²",
+      "b": "P= 2π²EI/4L²",
+      "c": "P= 4π²EI/L²",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "713",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The crippling load for a column of length L, with one end fixed and the other end free is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "P= π²EI/4L²",
+      "b": "P= π²EI/L²",
+      "c": "P= 4π²EI/L²",
+      "d": "P= π²EI/L"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "714",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The value of the buckling load is ___________ than the crushing load in the case of a long column.",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "less",
+      "b": "more",
+      "c": "equal",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "715",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The effective length of a column effectively held in position and restrained in direction at one end will be",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "L",
+      "b": "1.5 L",
+      "c": "2 L",
+      "d": "3 L"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "716",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The effective length of a column fixed at one end and hinged at the other end is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "L/2",
+      "b": "L/√2",
+      "c": "L",
+      "d": "2L"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "717",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The equivalent length of a column fixed at one end and free at the other end is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "2L",
+      "b": "0.75L",
+      "c": "L",
+      "d": "1.25L"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "718",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The ratio of the effective length of a column and the minimum radius of gyration of its cross-sectional area is known as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "buckling factor",
+      "b": "slenderness ratio",
+      "c": "crippling factor",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "719",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The slenderness ratio of a vertical column of a square section of 2.5 cm sides and an effective Length of 1.75 m is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "232",
+      "b": "242",
+      "c": "252",
+      "d": "262"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "720",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The ratio of a vertical column of a square cross-section of 10 cm side and 500 cm long, is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "117.2",
+      "b": "17.3",
+      "c": "173.2",
+      "d": "137.2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "721",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "A tie is a member which",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "is subjected to axial compression only",
+      "b": "is subjected to axial tension only",
+      "c": "is subjected to moment tension only",
+      "d": "is subjected to two equal and opposite forces"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "722",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "For a column of a given material, Rankine's constant depends on",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "length of the column",
+      "b": "the diameter of column",
+      "c": "the moment of inertia of column",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "723",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "The effective length of a column if both ends are hinged",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "L",
+      "b": "0.5L",
+      "c": "2L",
+      "d": "4L"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "724",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "In a rectangular column having cross-section b X h, the core is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "rectangle of lengths b/2 and h/2",
+      "b": "square of lengths b/2",
+      "c": "rhombus of lengths h/2",
+      "d": "rhombus of diagonals b/3 and h/3"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "725",
+    "chapter": "Simple Strut Theory"
+  },
+  {
+    "question": "Identify the correct relationship that exists among the modulus of elasticity (E), modulus of rigidity (N) and bulk modulus (k) is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "E= (3K+N)/9KN",
+      "b": "E= 3KN/(3K+N)",
+      "c": "E= 9KN/(3K+N)",
+      "d": "E= K/N"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2604",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "During a tensile test on a ductile material",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "nominal stress at fracture is higher than the ultimate stress",
+      "b": "true stress at fracture is higher than the ultimate stress",
+      "c": "true stress at fracture is the same as the ultimate stress",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2605",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The bending moment acting on the plane of an element will cause the following type of stress on the plane",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "normal stress",
+      "b": "tension stress",
+      "c": "axial stress",
+      "d": "transverse shear stress"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2606",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "At either end of a plane frame, maximum number of possible bending moments, are",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "three",
+      "d": "Zero"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2607",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the Poisson's ratio of a material is 0.25, the ratio of Modulus of Rigidity to the Young’s Modulus is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "2",
+      "b": "0.4",
+      "c": "2.5",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2608",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The method of increasing fatigue resistance by overstressing the metal by successively increasing the loading is known as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "compounding",
+      "b": "coaxing",
+      "c": "relaxing",
+      "d": "enduring"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2609",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the value of Young's Modulus of elasticity for a material is zero, it implies that the material is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "incompressible",
+      "b": "compressible",
+      "c": "plastic",
+      "d": "viscoelastic"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2610",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the stress produced by a prismatic bar is equal to the working stress, the section of the prismatic bar becomes",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "zero",
+      "b": "infinite",
+      "c": "maximum",
+      "d": "minimum"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2611",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The ratio of the moment of inertia of a square section to that of a circular section for a given depth is given by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "<1",
+      "b": ">1",
+      "c": "= 1",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2612",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Centre of gravity of semi-circle is _______ the base AB (Dia.)",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "2r/л",
+      "b": "4r/Зл",
+      "c": "r/8",
+      "d": "r/4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2613",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The c.g. of a semi-circular area is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "r/3л",
+      "b": "r/2л",
+      "d": "2r/л"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2614",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The section modulus of a circular section about an axis through its C.G. is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "лd²/16",
+      "b": "лd³/32",
+      "c": "лd³/64",
+      "d": "лd²/64"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2615",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Centrifugal force acts at a curve",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "along the center line",
+      "b": "towards the center",
+      "c": "away from the center",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2616",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Centrifugal force is given by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "V²/R",
+      "b": "MV²/R",
+      "c": "m x a",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2617",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Centrifugal force acts away from the center of the path while centripetal force",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "does not act",
+      "b": "away from the center of the path",
+      "c": "towards the centre of the path",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2618",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If a rod is simultaneously pulled at both of its ends, it will be a case of",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "axial loading",
+      "b": "vertical loading",
+      "c": "horizontal loading",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2619",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the magnitude and direction of a load do not change with respect to time, this type of load is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "point load",
+      "b": "static load",
+      "c": "dynamic load",
+      "d": "wind load"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2621",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Find the slenderness ratio of the column of M.I. 10000cm^4, Area= 100cm² & effective length=3.0m",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "3",
+      "b": "30",
+      "c": "4",
+      "d": "40"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2622",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A truss is completely analyzed, when",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "the direct stress in all the members is found",
+      "b": "all the external reaction components are determined",
+      "c": "the equilibrium is satisfied",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2623",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Short column taking maximum load having an equal section",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "sal",
+      "b": "pce",
+      "c": "chir",
+      "d": "pine"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2624",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Euler assume the column as",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "long and thin",
+      "b": "short and thin",
+      "c": "medium and thin",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2625",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The column under eccentric loading is under",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "one stresses",
+      "b": "two stresses",
+      "c": "three stresses",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2626",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The section modulus of a rectangular section is proportional to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "area of the section",
+      "b": "square of the area of the section",
+      "c": "product of the area & depth",
+      "d": "half moment of inertia of the section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2627",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Find the maximum SF induced in a cantilever beam subjected to a point load of 10 KN a length of beam is 10 m. The load is located at a distance of 3 m from the free end",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "30 kN",
+      "b": "7 kN",
+      "c": "3 KN",
+      "d": "10 kN"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2628",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Find the maximum BM induced in a cantilever beam subjected to a point load of 10 KN and the length of beam is 10 m. The load is located at a distance of 3 m from the free end-",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "40 kN-m",
+      "b": "50 kN-m",
+      "c": "60 kN-m",
+      "d": "70 kN-m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2629",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The magnitude of a shear force at a distance of L/4 from either end of a simply supported beam with load P applied at mid-span is equal to",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "P",
+      "b": "P/2",
+      "c": "P/4",
+      "d": "P/8"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2630",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A three-hinged arch is said to be :",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "statically determinate structure",
+      "b": "statically indeterminate structure",
+      "c": "a bent beam",
+      "d": "none of these."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2631",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The deflection due to couple M at the free end of a cantilever length L is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ML/EI",
+      "b": "ML²/2EI",
+      "c": "2ML/EI",
+      "d": "M²L/2EI"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2632",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The shape of the bending moment diagram over the length of a beam, having no external load, is always",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "linear",
+      "b": "parabolic",
+      "c": "cubical",
+      "d": "circular."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2633",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the width of a simply supported beam carrying an isolated load at its centre is doubled, the deflection of the beam at the centre is changed by",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "1/2",
+      "b": "1/8",
+      "c": "2",
+      "d": "8"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2634",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Influence lines are drawn for structures",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "of any type",
+      "b": "statically determinate",
+      "c": "pin-jointed truss",
+      "d": "none of these."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2635",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A reinforced concrete beam is assumed to be made of",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "homogeneous material",
+      "b": "heterogeneous material",
+      "c": "isotropic material",
+      "d": "none of these."
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2636",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The energy stored in a beam of length L subjected to a constant B.M. is",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "ML/EI",
+      "b": "ML²/2EI",
+      "c": "2ML/EI",
+      "d": "M²L/2EI"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2637",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Pick up the correct statement from the following :",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "A ductile material has large plastic zone",
+      "b": "A brittle material has no plastic zone",
+      "c": "A rigid material has no plastic zone",
+      "d": "All the above."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2638",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A bending moment may be defined as :",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "Arithmetic sum of the moments of all the forces on either side of the section",
+      "b": "Arithmetic sum of the forces on either side of the section",
+      "c": "Algebraic sum of the moments of all the forces on either side of the section",
+      "d": "None of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2639",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "When a rectangular beam is loaded longitudinally, shear develops on",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "bottom fibre",
+      "b": "top fibre",
+      "c": "middle fibre",
+      "d": "every-horizontal plane."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2640",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If the width b and depth d of a beam simply supported with a central load are interchanged, the deflection at the centre of the beam will be changed in the ratio of",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "b/d",
+      "b": "d/b",
+      "c": "(d/b)2",
+      "d": "(b/d)2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2641",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If the stress in each cross-section of a pillar is equal to its working stress, it is called",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "body of equal",
+      "b": "body of equal section",
+      "c": "body of equal strength",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2642",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In a square beam loaded longitudinally, shear develops",
+    "topic": "Mechanics of Materials & Structures",
+    "options": {
+      "a": "on middle fibre along horizontal plane",
+      "b": "on lower fibre along horizontal plane",
+      "c": "on top fibre along vertical plane",
+      "d": "equally on each fibre along horizontal plane"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2643",
+    "chapter": "SECTION-II"
+  }
+]

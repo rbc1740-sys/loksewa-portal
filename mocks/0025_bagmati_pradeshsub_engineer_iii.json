@@ -1,0 +1,702 @@
+[
+  {
+    "question": "She said to him, \"Why don't you go today?\"",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "She asked him why he did not go that day.",
+      "b": "She said to him why he don't go that day.",
+      "c": "She asked him not to go that day.",
+      "d": "She asked him why he did not go today."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "707",
+    "chapter": ""
+  },
+  {
+    "question": "I am good ____ tennis.",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "of"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "708",
+    "chapter": ""
+  },
+  {
+    "question": "तलका शब्दहरूमध्येबाट शुद्ध शब्द छान्नुहोस?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "संसदिय मामिला मन्त्रालय",
+      "b": "संसदीय मामिला मन्त्रालय",
+      "c": "संसदीय मामीला मन्त्रालय",
+      "d": "संसदीय मामिला मन्त्रलाय"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "709",
+    "chapter": ""
+  },
+  {
+    "question": "तलका शब्दहरूमध्येबाट शुद्ध शब्द छान्नुहोस?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "निजामति",
+      "b": "नीजामती",
+      "c": "निजमति",
+      "d": "निजामती"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "710",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालका राष्ट्रिय निकुञ्ज र संरक्षण क्षेत्रले कति प्रतिशत क्षेत्रफल ओगटेको छन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "२१.७ प्रतिशत",
+      "b": "२२.३ प्रतिशत",
+      "c": "२३.४ प्रतिशत",
+      "d": "२७.४ प्रतिशत"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "711",
+    "chapter": ""
+  },
+  {
+    "question": "कन्काई नदीलाइ भारतमा पुगेपछि के नामले चिनिन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "महानन्दा",
+      "b": "विरिंग",
+      "c": "शारदा",
+      "d": "सरयु"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "712",
+    "chapter": ""
+  },
+  {
+    "question": "ECG नामक यन्त्र कुन अंगको परीक्षणका लागि प्रयोग गरिन्छ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "कलेजो",
+      "b": "मुटु",
+      "c": "फोक्सो",
+      "d": "मृगौला"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "713",
+    "chapter": ""
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय नागरिक उड्डयन संगठन (ICAO) को प्रधान कार्यालय कहाँ रहेको छ",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "जेनेभा (स्वीजरल्यान्ड)",
+      "b": "मन्ट्रियल (क्यानडा)",
+      "c": "वर्न (स्वीजरल्यान्ड",
+      "d": "बेलायत (लन्डन)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "714",
+    "chapter": ""
+  },
+  {
+    "question": "वर्तमान संविधान अनुसार स्थानीय तह अन्तर्गत पर्ने निकायहरु के के हुन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "गाउँपालिका सभा",
+      "b": "नगरपालिका सभा",
+      "c": "जिल्ला सभा",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "715",
+    "chapter": ""
+  },
+  {
+    "question": "बूढा महाराज भनेर भीम शमशेर चिनिन्छ भने स्कुलका पिता भनेर कसलाई चिनिन्छ",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "पद्म शमशेर",
+      "b": "भीम शमशेर",
+      "c": "खड्ग शमशेर",
+      "d": "चन्द्र शमशेर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "716",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको पहिलो विशेष आर्थिक क्षेत्र (SEZ) कुन जिल्लामा सञ्चालित छ।",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "मोरङ (Morang)",
+      "b": "बाँके (Banke)",
+      "c": "पर्सा (Parsa)",
+      "d": "रुपन्देही (Rupandehi)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "717",
+    "chapter": ""
+  },
+  {
+    "question": "प्यालेस्टिनी विद्रोही समूह हमासले इजरायलविरुद्ध भिषण आक्रमण कहिले गरेको हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "सन् २०२२ अक्टोबर ७",
+      "b": "सन् २०२३ अक्टोबर ७",
+      "c": "सन् २०२२ अक्टोबर ८",
+      "d": "सन् २०२३ अक्टोबर ८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "718",
+    "chapter": ""
+  },
+  {
+    "question": "A takes twice as much time as B or thrice as much time as C to finish a piece of work. Working together, they can finish the work in 2 days. B can do the work alone in:",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "4 days",
+      "b": "6 days",
+      "c": "8 days",
+      "d": "12 days"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "719",
+    "chapter": ""
+  },
+  {
+    "question": "77: 143:: 35:?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "77",
+      "b": "47",
+      "c": "68",
+      "d": "75"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "720",
+    "chapter": ""
+  },
+  {
+    "question": "One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "East",
+      "b": "West",
+      "c": "North",
+      "d": "South"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "721",
+    "chapter": ""
+  },
+  {
+    "question": "In a certain code language, if RIPPLE is written as 613382, LIFE is written as 8192. How is PILLER written in that code?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "318826",
+      "b": "318286",
+      "c": "618826",
+      "d": "338816"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "722",
+    "chapter": ""
+  },
+  {
+    "question": "If the price of a book is first decreased by 25% and then increased by 20%, then the net change in the price will be :",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "30",
+      "d": "40"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "723",
+    "chapter": ""
+  },
+  {
+    "question": "For the proposed airport, the survey provides",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "master plan",
+      "b": "topographic plan",
+      "c": "grading plan",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "724",
+    "chapter": ""
+  },
+  {
+    "question": "The basic head loss in a long pipe is",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "fittings",
+      "b": "sudden increase in diameter",
+      "c": "sudden decrease in diameter",
+      "d": "friction"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "725",
+    "chapter": ""
+  },
+  {
+    "question": "The upper surface of weir over which water flows is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "crest",
+      "b": "notch",
+      "c": "top level",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "726",
+    "chapter": ""
+  },
+  {
+    "question": "Hygroscopic water can be removed by",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "gravity flow",
+      "b": "free flow",
+      "c": "heating",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "727",
+    "chapter": ""
+  },
+  {
+    "question": "In the case of retaining walls, the surcharge is",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "excess moisture in the wall",
+      "b": "extra load on the wall",
+      "c": "additional load carrying capacity of the wall",
+      "d": "extra load on the horizontal backfill"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "728",
+    "chapter": ""
+  },
+  {
+    "question": "As per NBC:105, minimum number of bars in R.C.C. rectangular columns must be",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "729",
+    "chapter": ""
+  },
+  {
+    "question": "The anchorage value of standard bend is",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "4 φ",
+      "b": "8 φ",
+      "c": "12 φ",
+      "d": "16 φ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "730",
+    "chapter": ""
+  },
+  {
+    "question": "An anallatic lens is a __________ used to remove an additive constant in a tachometer.",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "convex lens",
+      "b": "concave lens",
+      "c": "compound concave and convex lens",
+      "d": "plain lens"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "731",
+    "chapter": ""
+  },
+  {
+    "question": "Closed contours with higher value inside represent a",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "depression",
+      "b": "hill",
+      "c": "plain surface",
+      "d": "none"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "732",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum percentage of clay content for making good tiles, is about",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "40",
+      "d": "50"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "733",
+    "chapter": ""
+  },
+  {
+    "question": "Name the type of cement from the following for canal linings :",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "sulphate resisting cement",
+      "b": "rapid hardening cement",
+      "c": "quick setting cement",
+      "d": "pozzuolana cement."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "734",
+    "chapter": ""
+  },
+  {
+    "question": "At either end of a plane frame, maximum number of possible bending moments, are",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "three",
+      "d": "Zero"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "735",
+    "chapter": ""
+  },
+  {
+    "question": "The column under eccentric loading is under",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "one stresses",
+      "b": "two stresses",
+      "c": "three stresses",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "736",
+    "chapter": ""
+  },
+  {
+    "question": "The inner section of the cavity wall is generally known as",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "buttress",
+      "b": "leaf wall",
+      "c": "pilaster",
+      "d": "pillar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "737",
+    "chapter": ""
+  },
+  {
+    "question": "King closers are related to",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "King post truss",
+      "b": "Queen post truss",
+      "c": "Brick masonry",
+      "d": "Doors and windows"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "738",
+    "chapter": ""
+  },
+  {
+    "question": "The vertical wells provided along the banks of a river to draw ground water in dry season are called",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "open wells",
+      "b": "tube wells",
+      "c": "artesian wells",
+      "d": "infiltration wells"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "739",
+    "chapter": ""
+  },
+  {
+    "question": "Any trap is intended to trap foul gasses with the provision of",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "clear seal",
+      "b": "sewage of sullage",
+      "c": "otta seal",
+      "d": "water seal"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "740",
+    "chapter": ""
+  },
+  {
+    "question": "Attracting groynes are built",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "perpendicular to the bank",
+      "b": "inclined downstream",
+      "c": "inclined up stream",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "741",
+    "chapter": ""
+  },
+  {
+    "question": "The most efficient section of a channel is",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "triangular",
+      "b": "rectangular",
+      "c": "square",
+      "d": "trapezoidal"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "742",
+    "chapter": ""
+  },
+  {
+    "question": "A pavement is classified as flexible or rigid pavement based on its",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "base course",
+      "b": "sub-base",
+      "c": "sub-grade",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "743",
+    "chapter": ""
+  },
+  {
+    "question": "The road surfacing should be",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "impervious",
+      "b": "durable",
+      "c": "stable",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "744",
+    "chapter": ""
+  },
+  {
+    "question": "The contingency during preparation of estimate of any project in Nepalese context is limited to",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "4 %",
+      "b": "5 %",
+      "c": "10 %",
+      "d": "15 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "745",
+    "chapter": ""
+  },
+  {
+    "question": "The salvation value of property is generally taken as ____ % of cost of property.",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "5-8",
+      "b": "8-10",
+      "c": "10-12",
+      "d": "15-20"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "746",
+    "chapter": ""
+  },
+  {
+    "question": "Negative float can occur when it is",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "sub-critical activity",
+      "b": "critical activity",
+      "c": "super-critical activity",
+      "d": "normal activity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "747",
+    "chapter": ""
+  },
+  {
+    "question": "Which method is known as minimum cost or maximum time schedule method",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "PERT",
+      "b": "CPM",
+      "c": "bar chart",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "748",
+    "chapter": ""
+  },
+  {
+    "question": "Control by Exception is also known as _______.",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "Management by Exception",
+      "b": "Management by Objectives",
+      "c": "Decision making",
+      "d": "Management Information System"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "749",
+    "chapter": ""
+  },
+  {
+    "question": "महालेखा परीक्षक को काम, कर्तव्य र अधिकार बारे संविधान को कति धारामा रहेको छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "२४०",
+      "b": "२४१",
+      "c": "२४२",
+      "d": "२४३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "750",
+    "chapter": ""
+  },
+  {
+    "question": "Human Relations theory's founder was",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "E.N.Gladden",
+      "b": "Douglas M.",
+      "c": "L. Urwick",
+      "d": "Elton Mayo"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "751",
+    "chapter": ""
+  },
+  {
+    "question": "राजपत्रांकित पदमा उम्मेदवार हुन चाहने व्यक्तिको उमेर न्यूनतम कति वर्ष पुगेको हुनुपर्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "१८ वर्ष",
+      "b": "२० वर्ष",
+      "c": "२१ वर्ष",
+      "d": "२२ वर्ष"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "752",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती सेवाको स्थायी पदमा नयाँ नियुक्ति गर्दा पुरुष कर्मचारीको हकमा कति समय परीक्षण काल रहने प्रावधान छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "६ महिना",
+      "b": "१२ महिना",
+      "c": "१६ महिना",
+      "d": "१८ महिना"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "753",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा सबै कार्यालयमा नागरिक वडापत्रको पूर्ण कार्यन्वयन कहिले भयो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "वि.सं. २०५६",
+      "b": "वि.सं. २०६१",
+      "c": "वि.सं. २०७०",
+      "d": "वि.सं. २०७३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "754",
+    "chapter": ""
+  },
+  {
+    "question": "निम्न मध्ये कुन कार्यालयमा सञ्चारको महत्वअन्तर्गत पर्दैन ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "असल सम्बन्ध स्थापना गर्नु",
+      "b": "दण्ड, सजाय र पुरस्कार प्रणालीलाई व्यवस्थित गर्नु",
+      "c": "गुनासो व्यवस्थपान गर्नु",
+      "d": "अनियमितता गर्नु"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "755",
+    "chapter": ""
+  },
+  {
+    "question": "शुन्यमा आधारित बजेटका प्रतिपादक को हुन ?",
+    "topic": "Bagmati Pradesh(sub engineer) - III",
+    "options": {
+      "a": "जे एस किन्स",
+      "b": "हभर कमिशन",
+      "c": "जिमि काटर",
+      "d": "एफ डब्लु टेलर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "756",
+    "chapter": ""
+  }
+]

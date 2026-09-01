@@ -1,0 +1,701 @@
+[
+  {
+    "question": "सत्यवती ताल कुन जिल्लामा पर्दछ ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "इलाम",
+      "b": "कञ्चनपुर",
+      "c": "पाल्पा",
+      "d": "म्याग्दी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2010",
+    "chapter": ""
+  },
+  {
+    "question": "दूध बिग्रनबाट बचाउने विधि पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2011",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा हालसम्म सबैभन्दा बढीपटक बजेट प्रस्तुत गर्ने अर्थमन्त्री को हुन् ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "महेश आर्चाय",
+      "b": "ज्ञानेन्द्रबहादुर कार्की",
+      "c": "सुवर्ण शमशेर",
+      "d": "रामशरण महत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2012",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधानमा कति प्रकारका नागरिकताको व्यवस्था गरिएको छ ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2013",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालले संयुक्त राष्ट्रसंघको शान्ति मिसनमा सर्वप्रथम कुन राष्ट्रमा सहभागिता जनाएको थियो ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "जापान",
+      "b": "हाइटी",
+      "c": "सुडान",
+      "d": "लेवनान"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2014",
+    "chapter": ""
+  },
+  {
+    "question": "सार्कका प्रथम महासचिव को हुन् ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "अबुल हसन",
+      "b": "अर्जुन बहादुर थापा",
+      "c": "अहमद सलीम",
+      "d": "नइम हसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2015",
+    "chapter": ""
+  },
+  {
+    "question": "९६ औं संस्करणको ओस्कार अवार्ड २०२४ मा उत्कृष्ट अभिनेता को छनोट भए ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "ब्राडली कूपर",
+      "b": "किलियन मर्फी",
+      "c": "जेफ्री राइट",
+      "d": "टम क्रूज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2016",
+    "chapter": ""
+  },
+  {
+    "question": "बैकिङ तथा वित्तिय सेवा प्राप्त गर्न कहिलेदेखि राष्ट्रिय परिचयपत्र अनिर्वाय गरिएको छ ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "२०८१-०८-०१",
+      "b": "२०८१-०९-०१",
+      "c": "२०८१-१०-०१",
+      "d": "२०८१-११-०१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2017",
+    "chapter": ""
+  },
+  {
+    "question": "अनावश्यक अभिलेखमा तलका मध्ये कुन पर्देन ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "विदाका फाराम",
+      "b": "निमन्त्रणा कार्ड",
+      "c": "बधाई पत्र",
+      "d": "साधारण चिठी पत्र"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2018",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको पहिलो निजामती सेवा ऐन कहिले आएको हो ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "२०१५ साल",
+      "b": "२०१३ साल",
+      "c": "२०२१ साल",
+      "d": "२०४९ साल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2019",
+    "chapter": ""
+  },
+  {
+    "question": "कुनै नयाँ सरकारी कार्यालयमा नयाँ दरबन्दी सिर्जना गर्दा कसको सहमति लिई सामान्य प्रशासन मन्त्रालयमा पठाउनुपर्नेछ ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "अर्थ मन्त्रालय",
+      "c": "मुख्य सचिव",
+      "d": "कानुन, न्याय तथा संसदीय मामिला मन्त्रालय"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2020",
+    "chapter": ""
+  },
+  {
+    "question": "लोकसेवा आयोग को प्रावधान नेपालको संविधानको कुन भागमा गरिएको छ ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "२०",
+      "b": "२१",
+      "c": "२२",
+      "d": "२३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2021",
+    "chapter": ""
+  },
+  {
+    "question": "नेपलमा साउन १ गतेलाई आर्थिक बर्षको सुरुवात कुन वर्षदेखि मानिएको हो ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "वि.सं. २००७",
+      "b": "वि.सं. २००८",
+      "c": "वि.सं. २०१६",
+      "d": "वि.सं. २०४६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2022",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलका मध्ये कुन पर्दछ ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "सेवा प्रवाह गर्ने कार्य योजना तयार गर्ने",
+      "b": "सेवाग्राहीको माग, आवश्यकता तथा प्राथमिकताको पहिचान गर्ने",
+      "c": "सेवामा सबैको समान पहुँच कायम राख्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2023",
+    "chapter": ""
+  },
+  {
+    "question": "Who coined the term “human rights” for the first time ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Franklin D Roosevelt",
+      "c": "FW Taylor",
+      "d": "Dag Hammersold"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2024",
+    "chapter": ""
+  },
+  {
+    "question": "The last step of staffing processes is ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "training and development",
+      "b": "placement and induction",
+      "c": "recruitment",
+      "d": "selection"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2025",
+    "chapter": ""
+  },
+  {
+    "question": "नागरिक वडापत्र विश्वमा सर्वप्रथम कुन देशबाट सुरु भएको हो ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "बेलायत",
+      "b": "संयुक्त राष्ट्र अमेरिका",
+      "c": "चीन",
+      "d": "भारत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2026",
+    "chapter": ""
+  },
+  {
+    "question": "An angle of deflection right, may be directly obtained by setting the instrument to read",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "zero on the back station",
+      "b": "180° on the back station",
+      "c": "90°",
+      "d": "270° on the back station"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2027",
+    "chapter": ""
+  },
+  {
+    "question": "The projection of a line on a plane parallel to a meridian is known as",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "parallax",
+      "b": "aberration",
+      "c": "latitude",
+      "d": "departure"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2028",
+    "chapter": ""
+  },
+  {
+    "question": "Benchmarks are fixed by",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "trigonometric levelling",
+      "b": "barometric levelling",
+      "c": "spirit levelling",
+      "d": "profile levelling"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2029",
+    "chapter": ""
+  },
+  {
+    "question": "Which one of the following does not show good cleavage?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "calcite",
+      "b": "mica",
+      "c": "felspar",
+      "d": "silica"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2030",
+    "chapter": ""
+  },
+  {
+    "question": "Stucco paints are suitable for",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "stone masonry",
+      "b": "brick walls",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2031",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following cement is recommended for the construction of sewage treatment work?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "Extra rapid hardening cement",
+      "b": "Rapid hardening cement",
+      "c": "Ordinary Portland cement",
+      "d": "Sulphate resisting cement"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2032",
+    "chapter": ""
+  },
+  {
+    "question": "The moment of inertia of triangular section b x h about the C.G. is",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "bh3/12",
+      "b": "bh3/18",
+      "c": "bh3/36",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2033",
+    "chapter": ""
+  },
+  {
+    "question": "A beam extending beyond the supports is called",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "simply supported beam",
+      "b": "fixed beam",
+      "c": "overhanging beam",
+      "d": "cantilever beam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2034",
+    "chapter": ""
+  },
+  {
+    "question": "If a material has identical properties in all directions, it is said to be",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "homogeneous",
+      "b": "isotropic",
+      "c": "elastic",
+      "d": "orthotropic"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2035",
+    "chapter": ""
+  },
+  {
+    "question": "Mercury does not wet with the glass. This is due to the property of the liquid known as",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "cohesion",
+      "b": "adhesion",
+      "c": "viscosity",
+      "d": "surface tension"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2036",
+    "chapter": ""
+  },
+  {
+    "question": "A weir is said to be a narrow-crested weir if the width of the crest of the weir is ______ half the height of water above the weir crest.",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "equal to",
+      "b": "less than",
+      "c": "more than",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2037",
+    "chapter": ""
+  },
+  {
+    "question": "Flow in pipes is laminar if Reynold number is",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "less than 2100",
+      "b": "more than 3000",
+      "c": "between 2100 and 3000",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2038",
+    "chapter": ""
+  },
+  {
+    "question": "The degree of saturation of soil is generally",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "100%",
+      "b": "below zero",
+      "c": "between 0% and 100%",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2039",
+    "chapter": ""
+  },
+  {
+    "question": "In the modified proctor test the drop height of the rammer is",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "30cm",
+      "b": "45cm",
+      "c": "60cm",
+      "d": "75cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2040",
+    "chapter": ""
+  },
+  {
+    "question": "Singly reinforced beam & doubly reinforced beam are decided based on",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "bending moment",
+      "b": "shear force",
+      "c": "bending moment & shear force",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2041",
+    "chapter": ""
+  },
+  {
+    "question": "The one-way slab is one:",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "which is short and bends in two directions",
+      "b": "the slab which bends only along one direction",
+      "c": "reinforced in one direction only",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2042",
+    "chapter": ""
+  },
+  {
+    "question": "Expansion joints provided in masonry walls are provided in wall lengths more than",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "10 m",
+      "b": "20 m",
+      "c": "30 m",
+      "d": "40 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2043",
+    "chapter": ""
+  },
+  {
+    "question": "Slump test is a measure of",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "tensile strength",
+      "b": "compressive strength",
+      "c": "impact value",
+      "d": "consistency"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2044",
+    "chapter": ""
+  },
+  {
+    "question": "Grade aqueducts are not allowed to run",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "one-fourth full",
+      "b": "half",
+      "c": "three",
+      "d": "full"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2045",
+    "chapter": ""
+  },
+  {
+    "question": "The sewage in the inverted siphon will flow chain under ______",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "air",
+      "b": "vacuum",
+      "c": "pressure",
+      "d": "gravity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2046",
+    "chapter": ""
+  },
+  {
+    "question": "The irrigation with sewage from a town, instead of natural water, is called",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "effluent irrigation",
+      "b": "fertility irrigation",
+      "c": "oxidation irrigation",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2047",
+    "chapter": ""
+  },
+  {
+    "question": "The Darcy's formula is given by",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "the rate of flow is proportional to the hydraulic gradient",
+      "b": "the rate of flow is proportional to the exit gradient",
+      "c": "the rate of discharge is proportional to the hydraulic gradient",
+      "d": "the rate of discharge is proportional to the exit gradient"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2048",
+    "chapter": ""
+  },
+  {
+    "question": "At a horizontal curve the superelevation is provided to counteract the effect of",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "centrifugal force",
+      "b": "centripetal force",
+      "c": "horizontal force",
+      "d": "weight of vehicle"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2049",
+    "chapter": ""
+  },
+  {
+    "question": "Binder used in bituminous road is",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "bitumen",
+      "b": "kerosene oil",
+      "c": "fevicol",
+      "d": "stone dust"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2050",
+    "chapter": ""
+  },
+  {
+    "question": "Working out the exact quantities of various items of work is known as",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "estimating",
+      "b": "mensuration",
+      "c": "quantity surveying",
+      "d": "valuation"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2051",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of the ornamental pillar cap is",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "m3",
+      "b": "no.",
+      "c": "m2",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2052",
+    "chapter": ""
+  },
+  {
+    "question": "The functional organization system of working was introduced by",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "Henry Gantt",
+      "b": "F.W Taylor",
+      "c": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2053",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum amount of advance payment (mobilization fund) permitted is ________ of contract amount.",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "15%",
+      "d": "20%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2054",
+    "chapter": ""
+  },
+  {
+    "question": "The total correction for elevation and temperature for basic runway length should not be more than",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "50%",
+      "b": "35%",
+      "c": "20%",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2055",
+    "chapter": ""
+  },
+  {
+    "question": "LCN refers to",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "Load Classification Number",
+      "b": "Land Classification Number",
+      "c": "Light Count Number",
+      "d": "Light Craft Number"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2056",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालका प्रथम प्रधानसेनापति को थिए ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "भक्ति थापा",
+      "b": "वीरनरसिंह",
+      "c": "अमरसिंह थापा",
+      "d": "भीमसेन थापा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2057",
+    "chapter": ""
+  },
+  {
+    "question": "वातावरणीय क्षेत्रमा PPP को पुरा रूप के हो ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "Polluter Pays Principle",
+      "b": "Pollution Past Program",
+      "c": "Pollution Program Protocol",
+      "d": "Pollution Pay Protocol"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2058",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्ये कुन चाही सरुवा रोग होइन ?",
+    "topic": "संघ (sub engineer) - XI",
+    "options": {
+      "a": "दादुरा",
+      "b": "हैजा",
+      "c": "मधुमेह",
+      "d": "हेपटाइटिस-बी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2059",
+    "chapter": ""
+  }
+]
