@@ -6,7 +6,7 @@
  *   ACTIVE LEARNING → Continue Learning (resumable exam OR last topic)
  *   DAILY           → daily goal + Question of the Day
  *   DISCOVERY       → subjects with live progress, weak areas
- *   QUICK ACTIONS   → bookmarks / mistakes / smart review / history
+ *   QUICK ACTIONS   → bookmarks / mistakes / smart review / history / battle
  *
  * Every number is read from the central data layer (rule 31) — nothing is
  * estimated or cached on the UI side. Focus-driven reload keeps stats fresh
@@ -36,6 +36,7 @@ import {
   Layers,
   CheckCircle2,
   Timer,
+  Swords,
 } from 'lucide-react-native';
 import { useAuthStore } from '../../src/stores/authStore';
 import { useCourseStore } from '../../src/stores/courseStore';
@@ -440,6 +441,12 @@ export default function HomeScreen() {
             label="History"
             bg={t.warningSoft}
             onPress={() => router.push('/(app)/history')}
+          />
+          <QuickAction
+            icon={<Swords size={20} color="#f59e0b" />}
+            label="Battle Arena"
+            bg={t.warningSoft}
+            onPress={() => router.push('/(app)/battle')}
           />
         </View>
       </ScrollView>

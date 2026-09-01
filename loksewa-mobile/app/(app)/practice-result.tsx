@@ -23,6 +23,7 @@ export default function PracticeResultScreen() {
   const user = useAuthStore((s) => s.user);
   const questions = useSessionStore((s) => s.questions);
   const answers = useSessionStore((s) => s.answers);
+  const wrongAttempts = useSessionStore((s) => s.wrongAttempts);
   const timeSpent = useSessionStore((s) => s.timeSpent);
   const mode = useSessionStore((s) => s.mode);
   const title = useSessionStore((s) => s.title);
@@ -35,8 +36,9 @@ export default function PracticeResultScreen() {
     let correct = 0, incorrect = 0, skipped = 0, totalTime = 0;
     for (const q of questions) {
       const sel = answers[q.id];
-      if (!sel) skipped += 1;
-      else if (sel === q.answer) correct += 1;
+      const triedWrong = (wrongAttempts[q.id] || []).length > 0;
+      if (!sel && !triedWrong) skipped += 1;
+      else if (sel) correct += 1;
       else incorrect += 1;
       totalTime += timeSpent[q.id] ?? 0;
     }
@@ -50,11 +52,14 @@ export default function PracticeResultScreen() {
       accuracy: attempted ? Math.round((correct / attempted) * 100) : 0,
       minutes: Math.max(1, Math.round(totalTime / 60000)),
     };
-  }, [questions, answers, timeSpent]);
+  }, [questions, answers, timeSpent, wrongAttempts]);
 
   const wrongIds = useMemo(
-    () => questions.filter((q) => answers[q.id] && answers[q.id] !== q.answer).map((q) => q.id),
-    [questions, answers]
+    () =>
+      questions
+        .filter((q) => (wrongAttempts[q.id] || []).length > 0)
+        .map((q) => q.id),
+    [questions, wrongAttempts]
   );
 
   // Reset the session once the user leaves so the next run starts fresh.

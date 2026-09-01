@@ -17,6 +17,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { spacing, typography, radius } from '../../src/constants/theme';
 import { useTheme } from '../../src/hooks/useTheme';
 import { useSessionStore } from '../../src/engine/questionSession';
+import { XP_PER_WRONG, correctRewardForTry } from '../../src/utils/gamification';
 import { OptionCard, OptionState } from '../../src/components/ui/OptionCard';
 import { ProgressBar } from '../../src/components/ui/ProgressBar';
 import { AppButton } from '../../src/components/ui/AppButton';
@@ -37,6 +38,7 @@ export function QuestionRunner() {
   const insets = useSafeAreaInsets();
   const questions = useSessionStore((s) => s.questions);
   const answers = useSessionStore((s) => s.answers);
+  const wrongAttempts = useSessionStore((s) => s.wrongAttempts);
   const bookmarkIds = useSessionStore((s) => s.bookmarkIds);
   const index = useSessionStore((s) => s.index);
   const mode = useSessionStore((s) => s.mode);
@@ -45,6 +47,7 @@ export function QuestionRunner() {
   const error = useSessionStore((s) => s.error);
   const selectAnswer = useSessionStore((s) => s.selectAnswer);
   const commitAnswer = useSessionStore((s) => s.commitAnswer);
+  const recordWrongAttempt = useSessionStore((s) => s.recordWrongAttempt);
   const toggleBookmark = useSessionStore((s) => s.toggleBookmark);
   const next = useSessionStore((s) => s.next);
   const prev = useSessionStore((s) => s.prev);
@@ -56,17 +59,35 @@ export function QuestionRunner() {
     [current]
   );
   const selectedChoice = current ? answers[current.id] : undefined;
-  const hasAnswered = !!selectedChoice;
+  const wrongPicks = current ? wrongAttempts[current.id] || [] : [];
+  const hasWrongPicks = wrongPicks.length > 0;
+  const answeredCorrect =
+    !!selectedChoice && selectedChoice.toLowerCase() === (current?.answer || '').toLowerCase();
   const isBookmarked = current ? bookmarkIds.has(current.id) : false;
-  const showFeedback = mode !== 'test' && hasAnswered;
-  const isCorrect = hasAnswered && selectedChoice === current?.answer;
+  // Feedback (green/red + explanation) shows only after the question is solved; while
+  // guessing, only eliminated (red) wrong options are marked. Exams stay open.
+  const showFeedback = mode !== 'test' && answeredCorrect;
+  const isCorrect = answeredCorrect;
   const handleSelect = useCallback(
     (key: string) => {
-      if (!current || hasAnswered) return;
-      selectAnswer(current.id, key);
-      if (mode === 'practice' || mode === 'review') commitAnswer(current.id);
+      if (!current) return;
+      const qAns = (current.answer || '').toLowerCase();
+      const k = (key || '').toLowerCase();
+      if (mode === 'test') {
+        selectAnswer(current.id, k);
+        return;
+      }
+      if (answeredCorrect || wrongPicks.includes(k)) return;
+      const tryNumber = wrongPicks.length + 1; // 1st/2nd/3rd/4th+ try
+      if (k === qAns) {
+        selectAnswer(current.id, k);
+        commitAnswer(current.id, { xpGainedOverride: correctRewardForTry(tryNumber) });
+      } else {
+        recordWrongAttempt(current.id, k);
+        commitAnswer(current.id, { choice: k, xpGainedOverride: -XP_PER_WRONG });
+      }
     },
-    [current, hasAnswered, selectAnswer, commitAnswer, mode]
+    [current, mode, answeredCorrect, wrongPicks, selectAnswer, commitAnswer, recordWrongAttempt]
   );
   const handleNext = useCallback(() => {
     if (index < total - 1) next();
@@ -79,12 +100,14 @@ export function QuestionRunner() {
   }, [reset, router]);
   const progress = total > 0 ? (index + 1) / total : 0;
   function optionState(key: string): OptionState {
+    const k = (key || '').toLowerCase();
     if (showFeedback) {
-      if (key === current?.answer) return 'correct';
-      if (key === selectedChoice) return 'wrong';
+      if (k === (current?.answer || '').toLowerCase()) return 'correct';
+      if (wrongPicks.includes(k)) return 'wrong';
       return 'disabled';
     }
-    if (selectedChoice === key) return 'selected';
+    if (wrongPicks.includes(k)) return 'wrong';
+    if (selectedChoice === k) return 'selected';
     return 'idle';
   }
   const correctLabel = current && parsed.map[current.answer]
@@ -116,6 +139,13 @@ export function QuestionRunner() {
             <OptionCard key={entry.key} letter={entry.key} text={entry.text} state={optionState(entry.key)} onPress={() => handleSelect(entry.key)} />
           ))}
         </View>
+        {hasWrongPicks && !answeredCorrect && mode !== 'test' ? (
+          <View style={[styles.hintBox, { backgroundColor: t.surface, borderColor: t.warning }]}>
+            <Text style={[styles.hintText, { color: t.warning }]}>
+              ✗ {wrongPicks.length} wrong {wrongPicks.length === 1 ? 'attempt' : 'attempts'} (−2 XP each) — red options are eliminated, keep trying!
+            </Text>
+          </View>
+        ) : null}
         <View style={styles.actions}>
           <Pressable
             onPress={() => current && toggleBookmark(current.id)}
@@ -209,6 +239,21 @@ const styles = StyleSheet.create({
   options: {
     gap: spacing.sm,
     marginBottom: spacing.md,
+  },
+  hintBox: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.xs,
+    paddingVertical: spacing.sm,
+    paddingHorizontal: spacing.md,
+    borderRadius: radius.md,
+    borderWidth: StyleSheet.hairlineWidth,
+    marginBottom: spacing.sm,
+  },
+  hintText: {
+    ...typography.bodySmall,
+    fontWeight: '600',
+    flex: 1,
   },
   actions: {
     flexDirection: 'row',

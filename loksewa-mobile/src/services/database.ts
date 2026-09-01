@@ -1269,7 +1269,11 @@ export async function getUserProfile(userId: string): Promise<UserProfile | null
  * rank from the new XP total. Creates the profile row with defaults if the
  * user has none yet (prevents "undefined undefined" on the dashboard).
  */
-export async function recordReward(userId: string, isCorrect: boolean): Promise<{
+export async function recordReward(
+  userId: string,
+  isCorrect: boolean,
+  xpGainedOverride?: number
+): Promise<{
   xpGained: number;
   totalXp: number;
   streakDays: number;
@@ -1280,8 +1284,8 @@ export async function recordReward(userId: string, isCorrect: boolean): Promise<
   const now = Date.now();
 
   const existing = await getUserProfile(userId);
-  const xpGained = isCorrect ? XP_PER_CORRECT : XP_PER_WRONG;
-  const totalXp = (existing?.xp ?? 0) + xpGained;
+  const xpGained = xpGainedOverride ?? (isCorrect ? XP_PER_CORRECT : XP_PER_WRONG);
+  const totalXp = Math.max(0, (existing?.xp ?? 0) + xpGained);
   const streakDays = nextStreakDays(existing?.last_active_date, existing?.streak_days ?? 0, now);
   const { tier, sub } = rankFromXp(totalXp);
 

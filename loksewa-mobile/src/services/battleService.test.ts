@@ -7,6 +7,7 @@ import { describe, it, expect, beforeEach, vi } from 'vitest';
 
 const mocks = vi.hoisted(() => ({
   updateDoc: vi.fn(),
+  deleteDoc: vi.fn(),
   store: new Map<string, Record<string, unknown>>(),
   user: null as { uid: string } | null,
 }));
@@ -25,6 +26,7 @@ vi.mock('firebase/firestore', () => {
       return { exists: () => data !== undefined, data: () => data };
     }),
     updateDoc: mocks.updateDoc,
+    deleteDoc: mocks.deleteDoc,
     collection: vi.fn(() => ({ name: 'battles' })),
     query: vi.fn((...args) => ({ parts: args })),
     where: vi.fn((f, op, v) => ({ f, op, v })),
@@ -44,6 +46,7 @@ import {
   joinBattleRoom,
   finishMyPaper,
   fetchRoom,
+  cancelOpenRoom,
 } from './battleService';
 
 const ROOM = 'ABC234';
@@ -71,6 +74,9 @@ beforeEach(() => {
       const cur = mocks.store.get(ref.code);
       if (cur) mocks.store.set(ref.code, { ...cur, ...data });
     });
+  mocks.deleteDoc.mockReset().mockImplementation(async (ref: { code: string }) => {
+    mocks.store.delete(ref.code);
+  });
   mocks.user = { uid: 'alice' };
 });
 
@@ -91,18 +97,35 @@ describe('createBattleRoom', () => {
     await expect(createBattleRoom('A', 't', ['q1'])).rejects.toThrow(/at least 10/);
     expect([...mocks.store.keys()]).toHaveLength(0);
   });
+
+  it('retries with a fresh code when the first write is denied (code collision)', async () => {
+    const setDocModule = await import('firebase/firestore');
+    const setDocMock = vi.mocked(setDocModule.setDoc);
+    const before = setDocMock.mock.calls.length;
+    setDocMock.mockRejectedValueOnce(new Error('permission-denied: doc exists'));
+    const ids = Array.from({ length: 10 }, (_, i) => `q${i + 1}`);
+    const res = await createBattleRoom('Alice', 'Constitution', ids);
+    expect(mocks.store.has(res.roomCode)).toBe(true); // second attempt landed
+    expect(setDocMock.mock.calls.length - before).toBe(2); // exactly one retry
+  });
 });
 
 describe('joinBattleRoom', () => {
-  it('writes ONLY guest fields when joining a waiting room', async () => {
+  it('claims the seat AND starts the match (guest fields + status only)', async () => {
     seedRoom();
     mocks.user = { uid: 'bob' };
     const room = await joinBattleRoom(ROOM, 'Bob');
 
     expect(mocks.updateDoc).toHaveBeenCalledTimes(1);
-    expect(Object.keys(mocks.updateDoc.mock.calls[0][1]).sort()).toEqual(['guest', 'guestUid']);
+    expect(Object.keys(mocks.updateDoc.mock.calls[0][1]).sort()).toEqual([
+      'guest',
+      'guestUid',
+      'status',
+    ]);
+    expect(mocks.updateDoc.mock.calls[0][1].status).toBe('active');
     expect(room.myRole).toBe('guest');
     expect(room.guest).toBe('Bob');
+    expect(room.status).toBe('active');
   });
 
   it('is idempotent for rejoin and does not write', async () => {
@@ -137,6 +160,76 @@ describe('finishMyPaper', () => {
     seedRoom({ status: 'host_done', hostScore: 930 });
     await finishMyPaper(ROOM, 'host', 930);
     expect(mocks.updateDoc).not.toHaveBeenCalled();
+  });
+
+  // WRITE-OFF REPAIR: both papers racing means the last status write can
+  // clobber the 'done' transition. The other side's repair write must close
+  // it — and must stay inside the rules' host/guest transition matrix.
+  it('RACE REPAIR: host finishing while doc is guest_done closes with done', async () => {
+    seedRoom({ guestUid: 'bob', guest: 'Bob', status: 'guest_done', guestScore: 500 });
+    await finishMyPaper(ROOM, 'host', 930);
+    const payload = mocks.updateDoc.mock.calls[0][1];
+    expect(payload).toEqual({ hostScore: 930, status: 'done' });
+  });
+
+  it('RACE REPAIR: guest finishing while doc is host_done closes with done', async () => {
+    seedRoom({ guestUid: 'bob', guest: 'Bob', status: 'host_done', hostScore: 930 });
+    mocks.user = { uid: 'bob' };
+    await finishMyPaper(ROOM, 'guest', 500);
+    const payload = mocks.updateDoc.mock.calls[0][1];
+    expect(payload).toEqual({ guestScore: 500, status: 'done' });
+  });
+
+  it('a finished room cannot be re-finished into another state', async () => {
+    seedRoom({ guestUid: 'bob', guest: 'Bob', status: 'done', hostScore: 1, guestScore: 2 });
+    await finishMyPaper(ROOM, 'host', 999);
+    await finishMyPaper(ROOM, 'guest', 999);
+    expect(mocks.updateDoc).not.toHaveBeenCalled(); // done is terminal
+  });
+
+  it('retries transient write failures with a fresh read before giving up', async () => {
+    seedRoom({ guestUid: 'bob', guest: 'Bob', status: 'active' });
+    // First attempt fails; the retry falls back to the base implementation,
+    // which merges the write into the fake store (fresh read each attempt).
+    mocks.updateDoc.mockRejectedValueOnce(new Error('network offline'));
+    await finishMyPaper(ROOM, 'host', 930);
+    expect(mocks.updateDoc).toHaveBeenCalledTimes(2);
+    expect(mocks.store.get(ROOM)!.hostScore).toBe(930);
+  });
+
+  it('surfaces an error after all retries fail', async () => {
+    seedRoom({ guestUid: 'bob', guest: 'Bob', status: 'active' });
+    mocks.updateDoc.mockRejectedValue(new Error('network offline'));
+    await expect(finishMyPaper(ROOM, 'host', 930)).rejects.toThrow(/network offline/);
+    expect(mocks.updateDoc).toHaveBeenCalledTimes(3);
+  });
+});
+
+describe('cancelOpenRoom', () => {
+  it('deletes my own still-waiting room', async () => {
+    seedRoom();
+    await cancelOpenRoom(ROOM);
+    expect(mocks.deleteDoc).toHaveBeenCalledTimes(1);
+    expect(mocks.store.has(ROOM)).toBe(false);
+  });
+
+  it('never deletes a room that already has a guest (match underway)', async () => {
+    seedRoom({ guestUid: 'bob', guest: 'Bob', status: 'active' });
+    await cancelOpenRoom(ROOM);
+    expect(mocks.deleteDoc).not.toHaveBeenCalled();
+    expect(mocks.store.has(ROOM)).toBe(true);
+  });
+
+  it('never deletes another host’s room', async () => {
+    seedRoom({ hostUid: 'mallory' });
+    await cancelOpenRoom(ROOM);
+    expect(mocks.deleteDoc).not.toHaveBeenCalled();
+    expect(mocks.store.has(ROOM)).toBe(true);
+  });
+
+  it('is a no-op for a missing room', async () => {
+    await expect(cancelOpenRoom('ZZZZ99')).resolves.toBeUndefined();
+    expect(mocks.deleteDoc).not.toHaveBeenCalled();
   });
 });
 

@@ -44,28 +44,58 @@ service cloud.firestore {
     // ---- 1v1 Battle rooms: only the two participants may read/update ----
     match /battles/{roomCode} {
       allow read: if request.auth != null;
+      // Create: the host seeds a CLEAN room. No pre-filled score, no
+      // pre-claimed guest seat, status waiting, exactly the frozen paper.
+      // (BATTLE_QUESTIONS == 10 in loksewa-mobile battleEngine.)
       allow create: if request.auth != null
-                    && request.resource.data.hostUid == request.auth.uid;
-      // Role-scoped updates: the host may publish only their own score and
-      // the room status; the guest may claim the open seat and then publish
-      // only the guest score/status. Neither side can forge the other.
+                    && request.resource.data.hostUid == request.auth.uid
+                    && request.resource.data.guestUid == null
+                    && request.resource.data.guest == null
+                    && request.resource.data.hostScore == 0
+                    && request.resource.data.guestScore == 0
+                    && request.resource.data.status == 'waiting'
+                    && request.resource.data.question_ids is list
+                    && request.resource.data.question_ids.size() == 10;
+      // Role-scoped updates follow a strict state machine — each side writes
+      // only its own score plus the ONE legal next status, so neither can
+      // forge the other's finish, resurrect a done match, or skip states.
+      // Scores are sanity-clamped: 10 questions x (100 base + 50 max bonus).
       allow update: if request.auth != null && (
-        // Host: publish own score + end-of-match status
+        // Host: own score + host-side transitions (active→host_done, guest_done→done)
         (resource.data.hostUid == request.auth.uid
           && request.resource.data.diff(resource.data).affectedKeys()
-               .hasOnly(['hostScore', 'status']))
+               .hasOnly(['hostScore', 'status'])
+          && request.resource.data.hostScore is number
+          && request.resource.data.hostScore >= 0
+          && request.resource.data.hostScore <= 1500
+          && ((resource.data.status == 'active'
+                && request.resource.data.status == 'host_done')
+              || (resource.data.status == 'guest_done'
+                && request.resource.data.status == 'done')))
         ||
-        // Established guest: publish own score + advise status
+        // Established guest: own score + guest-side transitions
         (resource.data.guestUid == request.auth.uid
           && request.resource.data.diff(resource.data).affectedKeys()
-               .hasOnly(['guest', 'guestUid', 'guestScore', 'status']))
+               .hasOnly(['guest', 'guestUid', 'guestScore', 'status'])
+          && request.resource.data.guestUid == request.auth.uid
+          && request.resource.data.guest is string
+          && request.resource.data.guestScore is number
+          && request.resource.data.guestScore >= 0
+          && request.resource.data.guestScore <= 1500
+          && ((resource.data.status == 'active'
+                && request.resource.data.status == 'guest_done')
+              || (resource.data.status == 'host_done'
+                && request.resource.data.status == 'done')))
         ||
-        // Seat claim: only while the seat is open (guestUid null), the claimant
-        // must set their own uid and may touch only the seat/status fields.
+        // Seat claim: only while the seat is open (guestUid null), the
+        // claimant must set their own uid, and claiming STARTS the match —
+        // nothing else (no status games like jumping straight to 'done').
         (resource.data.guestUid == null
           && request.resource.data.guestUid == request.auth.uid
+          && request.resource.data.guest is string
           && request.resource.data.diff(resource.data).affectedKeys()
-               .hasOnly(['guest', 'guestUid', 'status']))
+               .hasOnly(['guest', 'guestUid', 'status'])
+          && request.resource.data.status == 'active')
       );
       // The host manages their own room: cancel while waiting, or clean up
       // after the match.

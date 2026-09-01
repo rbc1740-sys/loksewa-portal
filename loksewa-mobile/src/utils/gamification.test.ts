@@ -5,6 +5,7 @@ import {
   rankFromXp,
   nextStreakDays,
   localDateString,
+  correctRewardForTry,
 } from './gamification';
 
 describe('rankFromXp', () => {
@@ -62,8 +63,21 @@ describe('nextStreakDays', () => {
 });
 
 describe('XP constants', () => {
-  it('reward correct answers more than wrong ones', () => {
-    expect(XP_PER_CORRECT).toBeGreaterThan(XP_PER_WRONG);
-    expect(XP_PER_WRONG).toBeGreaterThan(0); // participation XP
+  it('correct answers reward more than wrong answers (multi-try practice)', () => {
+    expect(XP_PER_CORRECT).toBeGreaterThan(0);
+    expect(XP_PER_WRONG).toBeGreaterThan(0); // base value; wrong picks negate it (-XP_PER_WRONG)
+    expect(XP_PER_CORRECT).toBeGreaterThan(XP_PER_WRONG); // correct pays more
+  });
+
+  it('scales correct-answer reward by try number (multi-try practice)', () => {
+    expect(correctRewardForTry(1)).toBe(10); // full XP first try
+    expect(correctRewardForTry(2)).toBe(5);
+    expect(correctRewardForTry(3)).toBe(2);
+    expect(correctRewardForTry(4)).toBe(1);
+    expect(correctRewardForTry(7)).toBe(1); // 4th+ try floors at 1
+    // Safe inputs:
+    expect(correctRewardForTry(0)).toBe(10);
+    expect(correctRewardForTry(-3)).toBe(10);
+    expect(correctRewardForTry(1.9)).toBe(10); // floored
   });
 });

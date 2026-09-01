@@ -9,6 +9,18 @@
 export const XP_PER_CORRECT = 10;
 export const XP_PER_WRONG = 2;
 
+/**
+ * Scaled reward for a correct answer in multi-try practice — accuracy pays:
+ * 1st try = full XP, then 5/2/1. Wrong picks apply XP_PER_WRONG as a penalty
+ * instead of the participation XP granted in the single-try flow.
+ */
+export const CORRECT_REWARD_SCALE = [XP_PER_CORRECT, 5, 2, 1];
+
+export function correctRewardForTry(tryNumber: number): number {
+  const n = Math.max(1, Math.floor(tryNumber || 1));
+  return CORRECT_REWARD_SCALE[Math.min(n, CORRECT_REWARD_SCALE.length) - 1] ?? XP_PER_CORRECT;
+}
+
 export interface Rank {
   tier: string;
   sub: string;

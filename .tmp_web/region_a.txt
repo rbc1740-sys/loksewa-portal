@@ -1,0 +1,134 @@
+function selectPracticeAnswer(id, key) {
+        playClick();
+        
+        // Get the question
+        const question = mcqs.find(q => q.id === id);
+        if (!question) return;
+        
+        const existingAttempt = questionAttempts.get(id);
+        const attempt = existingAttempt || {
+          selectedAnswer: null,
+          evaluated: false,
+          correct: false,
+          wrongSelections: [],
+          xpAwarded: false,
+          attemptId: `attempt_${id}_${Date.now()}`
+        };
+        
+        // Already solved - lock the card (multi-try keeps working until correct)
+        if (attempt.correct) return;
+        
+        key = (key || '').toLowerCase();
+        const correctKey = (question.answer || '').toLowerCase();
+        
+        // Re-tapping an already-eliminated wrong option does nothing
+        if (key !== correctKey && (attempt.wrongSelections || []).includes(key)) return;
+        
+        // Record the selection
+        attempt.selectedAnswer = key;
+        userAnswers[id] = key;
+        if (key === correctKey) {
+          attempt.evaluated = true;
+          attempt.correct = true;
+        } else {
+          if (!attempt.wrongSelections) attempt.wrongSelections = [];
+          attempt.wrongSelections.push(key);
+          attempt.evaluated = true;
+          attempt.correct = false;
+        }
+        questionAttempts.set(id, attempt);
+        
+        // Update only this card - the rest of the list must not move
+        if (!updateQuestionCardInPlace(id)) renderMCQs();
+      }
+      
+      function evaluatePracticeAnswer(id) {
+        const question = mcqs.find(q => q.id === id);
+        const attempt = questionAttempts.get(id);
+        if (!question || !attempt || !attempt.selectedAnswer) return;
+        
+        // Fully rewarded correct attempt - nothing left to do
+        if (attempt.correct && attempt.xpAwarded) return;
+        
+        const correctKey = (question.answer || '').toLowerCase();
+        const isCorrectPick = attempt.selectedAnswer.toLowerCase() === correctKey;
+        
+        if (isCorrectPick) {
+          // ---- User found the right answer: scaled reward + resolve -------------
+          const wrongCount = (attempt.wrongSelections || []).length;
+          const tryNumber = Math.min(wrongCount + 1, 4); // 1st/2nd/3rd/4th+ try
+          const rewardTable = [100, 50, 25, 10];
+          const reward = rewardTable[tryNumber - 1];
+          attempt.correct = true;
+          attempt.evaluated = true;
+          attempt.xpAwarded = true;
+          
+          playChime();
+          addXP(reward, attempt.attemptId); // scaled reward, awarded once per solve
+          
+          if (weakPoints.has(id)) weakPoints.delete(id);
+          
+          saveState();
+          updateSRState(id, true);
+          
+          // List mode: update the answered card in place
+          if (!updateQuestionCardInPlace(id)) {
+            renderMCQs();
+            return;
+          }
+          
+          // Remove from revision container if it was a weak area
+          const revisionCard = document.getElementById('revision-container')?.querySelector(`#question-card-${id}`);
+          if (revisionCard) {
+            revisionCard.remove();
+            if (weakPoints.size === 0) renderRevisionMCQs();
+          }
+          
+          // If the active filter excludes the now-solved question, reflect that
+          const stillVisible = getFilteredQuestions().some(qq => qq.id === id);
+          if (!stillVisible) {
+            renderMCQs();
+            return;
+          }
+          
+          updatePracticeStats(getFilteredQuestions());
+          renderInstantFilterTags();
+        } else {
+          // ---- Wrong pick: -20 XP, mark weak, keep trying ------------------------
+          const wrongKey = attempt.selectedAnswer;
+          playError();
+          // Unique id per wrong pick so each -20 penalty applies exactly once
+          addXP(-20, `${attempt.attemptId}_wrong_${wrongKey}`);
+          weakPoints.add(id);
+          
+          saveState();
+          updateSRState(id, false);
+          
+          if (!updateQuestionCardInPlace(id)) {
+            renderMCQs();
+            return;
+          }
+          
+          // Keep the revision card in sync if this question is shown there
+          const revisionCard = document.getElementById('revision-container')?.querySelector(`#question-card-${id}`);
+          if (revisionCard) updateRevisionCardInPlace(id);
+          
+          const stillVisible = getFilteredQuestions().some(qq => qq.id === id);
+          if (!stillVisible) {
+            renderMCQs();
+            return;
+          }
+          
+          updatePracticeStats(getFilteredQuestions());
+          renderInstantFilterTags();
+        }
+      }
+      
+      // Immediate evaluate on click. Multi-try: wrong pick -> red + -20 XP and keep
+      // guessing; correct pick -> green + scaled reward and the card locks.
+      function selectAndEvaluatePracticeAnswer(id, key) {
+        selectPracticeAnswer(id, key);
+        const attempt = questionAttempts.get(id);
+        if (!attempt || !attempt.selectedAnswer) return;
+        evaluatePracticeAnswer(id);
+      }

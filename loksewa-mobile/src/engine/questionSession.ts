@@ -52,8 +52,10 @@ interface SessionState {
   userId: string;
   /** Frozen question array — identity is stable for the session lifetime. */
   questions: Question[];
-  /** questionId → selected option key. */
+  /** questionId → final selected option key (correct in practice; latest in test). */
   answers: Record<string, string>;
+  /** questionId → wrong option keys tapped before the final answer (multi-try). */
+  wrongAttempts: Record<string, string[]>;
   /** questionId → elapsed ms when answered (for the footer timer). */
   timeSpent: Record<string, number>;
   /** Session-local optimistic bookmark set (persisted via dbToggleBookmark). */
@@ -66,7 +68,12 @@ interface SessionState {
 
   start: (source: SessionSource, mode: SessionMode, userId: string) => Promise<void>;
   selectAnswer: (questionId: string, choice: string) => void;
-  commitAnswer: (questionId: string) => Promise<void>;
+  commitAnswer: (
+    questionId: string,
+    opts?: { choice?: string; xpGainedOverride?: number }
+  ) => Promise<void>;
+  /** Records a wrong attempt (multi-try practice/review) without clearing the final answer. */
+  recordWrongAttempt: (questionId: string, choice: string) => void;
   toggleBookmark: (questionId: string) => Promise<void>;
   goTo: (index: number) => void;
   next: () => void;
@@ -84,6 +91,7 @@ export const useSessionStore = create<SessionState>((set, get) => ({
   userId: '',
   questions: [],
   answers: {},
+  wrongAttempts: {},
   timeSpent: {},
   bookmarkIds: new Set<string>(),
   index: 0,
@@ -113,6 +121,7 @@ export const useSessionStore = create<SessionState>((set, get) => ({
         subtitle: source.subtitle,
         questions: qs,
         answers: {},
+        wrongAttempts: {},
         timeSpent: {},
         bookmarkIds: initialBookmarks,
         index: 0,
@@ -136,14 +145,23 @@ export const useSessionStore = create<SessionState>((set, get) => ({
     }
   },
 
-  commitAnswer: async (questionId) => {
+  recordWrongAttempt: (questionId, choice) => {
+    const { wrongAttempts } = get();
+    const prev = wrongAttempts[questionId] || [];
+    if (prev.includes(choice)) return;
+    set({ wrongAttempts: { ...wrongAttempts, [questionId]: [...prev, choice] } });
+  },
+
+  commitAnswer: async (questionId, opts) => {
     const { answers, questions, timeSpent, userId } = get();
-    const choice = answers[questionId];
+    const choice = opts?.choice ?? answers[questionId];
     const q = questions.find((x) => x.id === questionId);
     if (!q || !choice || !userId) return;
     const elapsed = timeSpent[questionId] ?? 0;
     try {
-      await recordAnswer(userId, q, choice, elapsed);
+      await recordAnswer(userId, q, choice, elapsed, {
+        xpGainedOverride: opts?.xpGainedOverride,
+      });
     } catch (e) {
       console.error('[Session] commitAnswer failed:', e);
     }
@@ -200,6 +218,7 @@ export const useSessionStore = create<SessionState>((set, get) => ({
       userId: '',
       questions: [],
       answers: {},
+      wrongAttempts: {},
       timeSpent: {},
       bookmarkIds: new Set<string>(),
       index: 0,

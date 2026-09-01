@@ -9,6 +9,7 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
 import { StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { usePreventRemove } from '@react-navigation/native';
 import { Swords, Trophy } from 'lucide-react-native';
 import {
   BATTLE_QUESTIONS,
@@ -23,6 +24,7 @@ import {
   subscribeRoom,
   finishMyPaper,
   fetchRoom,
+  cancelOpenRoom,
   pickBattleQuestions,
   type BattleRoomView,
 } from '../../src/services/battleService';
@@ -51,23 +53,59 @@ export default function BattleScreen() {
   const [winner, setWinner] = useState<'host' | 'guest' | 'tie' | null>(null);
   const unsubRef = useRef<(() => void) | null>(null);
   const qStartRef = useRef<number>(0);
+  // Multi-try-free battle answering: one pick per question, then a short
+  // feedback beat (green/red) before advancing. Timer forces a pick.
+  const [picked, setPicked] = useState<string | null>(null);
+  const [timeLeft, setTimeLeft] = useState(BATTLE_QUESTION_MS);
+  const [myFinal, setMyFinal] = useState<number | null>(null);
+  const [submitError, setSubmitError] = useState(false);
+  const advanceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // SYNCHRONOUS guards — state updates are async, so a rapid double-tap
+  // would read the stale `picked == null` from the same render and score
+  // twice. The ref is checked and set in the same synchronous pass.
+  const pickedRef = useRef<string | null>(null);
+  // Whether MY paper has been submitted (drives the status write-off repair).
+  const finishedRef = useRef(false);
+  const myScoreRef = useRef(0);
 
   /** Live room subscription drives lobby → play → result transitions. */
   const watch = useCallback((code: string) => {
     unsubRef.current?.();
-    subscribeRoom(code, r => {
-      setRoom(r);
-      if (r.status === 'active' && r.myRole) {
-        setPhase(p => (p === 'menu' || p === 'lobby' ? 'play' : p));
-      }
-      if (r.status === 'done') {
-        setWinner(determineWinner(r.hostScore, r.guestScore));
-        setPhase('result');
-      }
-    }).catch(e => setError(e instanceof Error ? e.message : 'Could not watch the room.'));
+    subscribeRoom(
+      code,
+      r => {
+        setRoom(r);
+        if (r.status === 'active' && r.myRole) {
+          setPhase(p => (p === 'menu' || p === 'lobby' ? 'play' : p));
+        }
+        if (r.status === 'done') {
+          setWinner(determineWinner(r.hostScore, r.guestScore));
+          setPhase('result');
+        }
+        // WRITE-OFF REPAIR: if both papers finished nearly simultaneously,
+        // the last status write can clobber the 'done' transition (e.g. doc
+        // stuck at 'host_done' with both scores recorded). When I see the
+        // OTHER side's finish recorded while the match isn't closed and my
+        // paper is already in, my finish write is exactly the missing
+        // {myScore, 'done'} update — legal under the rules and idempotent.
+        if (finishedRef.current && r.myRole) {
+          const otherDone =
+            r.myRole === 'host' ? r.status === 'guest_done' : r.status === 'host_done';
+          if (otherDone) {
+            void finishMyPaper(r.roomCode, r.myRole, myScoreRef.current).catch(() => {
+              setSubmitError(true);
+            });
+          }
+        }
+      },
+      e => setError(e instanceof Error ? e.message : 'Lost the connection to the room.')
+    ).catch(e => setError(e instanceof Error ? e.message : 'Could not watch the room.'));
   }, []);
 
-  useEffect(() => () => unsubRef.current?.(), []);
+  useEffect(() => () => {
+    unsubRef.current?.();
+    if (advanceRef.current) clearTimeout(advanceRef.current);
+  }, []);
 
   const host = useCallback(async () => {
     setBusy(true);
@@ -114,6 +152,9 @@ export default function BattleScreen() {
         setQuestions(qs);
         setQIndex(0);
         qStartRef.current = Date.now();
+        pickedRef.current = null;
+        setPicked(null);
+        setTimeLeft(BATTLE_QUESTION_MS);
       })
       .catch(() => setError('Could not load the battle questions.'));
     return () => {
@@ -132,24 +173,78 @@ export default function BattleScreen() {
   }, [phase, questions, qIndex]);
 
   const answer = useCallback(
-    (option: string) => {
+    (option: string | null) => {
       const q = questions[qIndex];
-      if (!q) return;
-      const gained = computeScore(q.answer === option, Date.now() - qStartRef.current);
-      setScore(s => s + gained);
-      if (qIndex + 1 >= questions.length) {
-        const role = room?.myRole;
-        if (role) void finishMyPaper(room!.roomCode, role, score + gained);
-        setPhase('result'); // my paper done; await opponent via subscription
-      } else {
-        setQIndex(i => i + 1);
-        qStartRef.current = Date.now();
-      }
+      // Sync guard first: rapid double-taps (or a tap racing the timer
+      // effect) land in the same tick before setPicked re-renders.
+      if (!q || pickedRef.current != null) return; // one pick per question
+      pickedRef.current = option ?? ''; // '' = timed out
+      setPicked(option ?? '');
+      const correct = option != null && q.answer === option;
+      const gained = computeScore(correct, Date.now() - qStartRef.current);
+      const finalScore = score + gained;
+      myScoreRef.current = finalScore;
+      setScore(finalScore);
+      // Brief green/red feedback beat, then advance (or finish the paper).
+      if (advanceRef.current) clearTimeout(advanceRef.current);
+      advanceRef.current = setTimeout(() => {
+        advanceRef.current = null;
+        if (qIndex + 1 >= questions.length) {
+          const role = room?.myRole;
+          if (role) {
+            finishedRef.current = true;
+            void finishMyPaper(room!.roomCode, role, finalScore).catch(() => {
+              setSubmitError(true); // retried in-service; also repaired on next snapshot
+            });
+          }
+          setMyFinal(finalScore); // result shows MY score even if the doc lags
+          setPhase('result'); // my paper done; await opponent via subscription
+        } else {
+          setQIndex(i => i + 1);
+          qStartRef.current = Date.now();
+          pickedRef.current = null;
+          setPicked(null);
+          setTimeLeft(BATTLE_QUESTION_MS);
+        }
+      }, 900);
     },
     [questions, qIndex, room, score]
   );
 
+  /**
+   * Per-question countdown, WALL-CLOCK based (not accumulated ticks): RN
+   * timers pause while the app is backgrounded, but Date.now() doesn't —
+   * so backgrounding can't extend the budget and drift never accumulates.
+   */
+  useEffect(() => {
+    if (phase !== 'play' || !questions.length || picked != null) return;
+    const sync = () => setTimeLeft(Math.max(0, BATTLE_QUESTION_MS - (Date.now() - qStartRef.current)));
+    sync(); // catch up immediately after backgrounding/reconnect
+    const iv = setInterval(sync, 250);
+    return () => clearInterval(iv);
+  }, [phase, questions.length, qIndex, picked]);
+
+  const answerRef = useRef(answer);
+  useEffect(() => {
+    answerRef.current = answer;
+  }, [answer]);
+
+  useEffect(() => {
+    if (phase === 'play' && questions.length && timeLeft === 0 && pickedRef.current == null) {
+      answerRef.current(null);
+    }
+  }, [phase, questions.length, timeLeft]);
+
+  // Back navigation must not silently destroy an active match (hardware
+  // back / gesture would pop the route and orphan the room doc).
+  usePreventRemove(phase === 'play', () => {
+    // Swallowed on purpose: the only exits are finishing the paper or the
+    // explicit Cancel/Back buttons, which do the cleanup themselves.
+  });
+
   const backToMenu = useCallback(() => {
+    if (advanceRef.current) clearTimeout(advanceRef.current);
+    advanceRef.current = null;
     unsubRef.current?.();
     unsubRef.current = null;
     setRoom(null);
@@ -157,8 +252,22 @@ export default function BattleScreen() {
     setQIndex(0);
     setScore(0);
     setWinner(null);
+    setMyFinal(null);
+    setSubmitError(false);
+    pickedRef.current = null;
+    finishedRef.current = false;
+    myScoreRef.current = 0;
+    setPicked(null);
+    setTimeLeft(BATTLE_QUESTION_MS);
     setPhase('menu');
   }, []);
+
+  /** Lobby Cancel: also deletes the still-empty room so it can't pile up. */
+  const cancelAndExit = useCallback(() => {
+    const code = room?.roomCode;
+    if (code) void cancelOpenRoom(code).catch(() => {}); // best-effort; rules scope it
+    backToMenu();
+  }, [room, backToMenu]);
 
   if (error) return <ErrorState message={error} onRetry={backToMenu} />;
 
@@ -177,7 +286,7 @@ export default function BattleScreen() {
               ? `${room.guest} joined — starting…`
               : `${BATTLE_QUESTIONS} questions · waiting for a challenger`}
           </Text>
-          <TouchableOpacity style={styles.ghostBtn} onPress={backToMenu}>
+          <TouchableOpacity style={styles.ghostBtn} onPress={cancelAndExit}>
             <Text style={styles.ghostText}>Cancel</Text>
           </TouchableOpacity>
         </View>
@@ -192,17 +301,51 @@ export default function BattleScreen() {
       <SafeAreaView style={styles.safe}>
         <ScreenHeader
           title={`Battle · ${qIndex + 1}/${questions.length}`}
-          subtitle={`Score ${score}`}
+          subtitle={`Score ${score} · You are the ${room?.myRole === 'guest' ? 'Guest' : 'Host'}`}
         />
         <View style={styles.play}>
           <Text style={styles.question}>{questions[qIndex]?.question}</Text>
-          {options.map(opt => (
-            <TouchableOpacity key={opt} style={styles.option} onPress={() => answer(opt)}>
-              <Text style={styles.optionText}>{opt}</Text>
-            </TouchableOpacity>
-          ))}
-          <Text style={styles.timer}>
-            {Math.round(BATTLE_QUESTION_MS / 1000)}s per question — faster answers score more
+          {options.map(opt => {
+            const isCorrect = picked != null && opt === q.answer;
+            const isWrongPick = picked != null && picked === opt && opt !== q.answer;
+            return (
+              <TouchableOpacity
+                key={opt}
+                style={[
+                  styles.option,
+                  isCorrect && styles.optionCorrect,
+                  isWrongPick && styles.optionWrong,
+                  picked != null && !isCorrect && !isWrongPick && styles.optionDim,
+                ]}
+                onPress={() => answer(opt)}
+                disabled={picked != null}
+              >
+                <Text
+                  style={[
+                    styles.optionText,
+                    isCorrect && styles.optionTextCorrect,
+                    isWrongPick && styles.optionTextWrong,
+                  ]}
+                >
+                  {opt}
+                  {isCorrect ? '  ✓' : isWrongPick ? '  ✗' : ''}
+                </Text>
+              </TouchableOpacity>
+            );
+          })}
+          <Text
+            style={[
+              picked == null ? styles.timer : styles.timerDone,
+              picked == null && timeLeft <= 5000 && styles.timerUrgent,
+            ]}
+          >
+            {picked == null
+              ? `${Math.ceil(timeLeft / 1000)}s — faster answers score more`
+              : picked === ''
+                ? "Time's up! +0"
+                : q.answer === picked
+                  ? 'Correct!'
+                  : 'Wrong — +0'}
           </Text>
         </View>
       </SafeAreaView>
@@ -211,7 +354,9 @@ export default function BattleScreen() {
 
   // ---------- RESULT ----------
   if (phase === 'result') {
-    const mine = room ? (room.myRole === 'guest' ? room.guestScore : room.hostScore) : score;
+    // Prefer MY locally-computed final score — the room doc can lag behind
+    // the snapshot right after finishing (eventual consistency).
+    const mine = myFinal ?? (room ? (room.myRole === 'guest' ? room.guestScore : room.hostScore) : score);
     const theirs = room ? (room.myRole === 'guest' ? room.hostScore : room.guestScore) : 0;
     const label =
       winner == null
@@ -231,6 +376,11 @@ export default function BattleScreen() {
           {winner != null && (
             <Text style={styles.detail}>
               Final — host {room?.hostScore} · guest {room?.guestScore}
+            </Text>
+          )}
+          {submitError && (
+            <Text style={styles.detail}>
+              Couldn't sync your final score — reopen this battle once you're back online.
             </Text>
           )}
           <TouchableOpacity style={styles.primaryBtn} onPress={backToMenu}>
@@ -301,7 +451,14 @@ const makeStyles = (t: AppTheme) => StyleSheet.create({
     padding: spacing.md,
   },
   optionText: { ...typography.bodySmall, color: t.textPrimary },
+  optionCorrect: { backgroundColor: t.successSoft, borderColor: t.success },
+  optionWrong: { backgroundColor: t.errorSoft, borderColor: t.error },
+  optionDim: { opacity: 0.5 },
+  optionTextCorrect: { color: t.success, fontWeight: '700' },
+  optionTextWrong: { color: t.error, fontWeight: '700' },
   timer: { ...typography.caption, color: t.textTertiary, marginTop: spacing.sm, textAlign: 'center' },
+  timerDone: { ...typography.caption, color: t.textSecondary, fontWeight: '700', marginTop: spacing.sm, textAlign: 'center' },
+  timerUrgent: { color: t.error },
   trophy: { marginBottom: spacing.sm },
   scoreBig: { fontSize: 64, fontWeight: '900', color: t.textPrimary },
   verdict: { ...typography.body, color: t.textSecondary, marginTop: spacing.xxs, textAlign: 'center' },

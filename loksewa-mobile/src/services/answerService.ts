@@ -27,6 +27,15 @@ export interface AnswerOutcome {
   rankSub: string;
 }
 
+export interface RecordAnswerOptions {
+  /**
+   * Override the auto XP for this attempt (multi-try practice model).
+   * Wrong picks pass `-XP_PER_WRONG`; correct picks pass `correctRewardForTry(n)`.
+   * When omitted the default XP/participation logic applies unchanged.
+   */
+  xpGainedOverride?: number;
+}
+
 const DAY_MS = 24 * 60 * 60 * 1000;
 
 /**
@@ -40,7 +49,8 @@ export async function recordAnswer(
   userId: string,
   question: Pick<Question, 'id' | 'answer'>,
   selectedAnswer: string,
-  timeSpentMs = 0
+  timeSpentMs = 0,
+  opts: RecordAnswerOptions = {}
 ): Promise<AnswerOutcome> {
   if (!userId || !question?.id) {
     throw new Error('recordAnswer requires userId and a question with an id');
@@ -82,8 +92,8 @@ export async function recordAnswer(
     last_answered_at: Date.now(),
   });
 
-  // 4. Rewards (XP / streak / rank).
-  const reward = await recordReward(userId, isCorrect);
+  // 4. Rewards (XP / streak / rank). Multi-try practice overrides the XP amount.
+  const reward = await recordReward(userId, isCorrect, opts.xpGainedOverride);
 
   return {
     questionId: question.id,

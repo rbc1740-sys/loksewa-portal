@@ -66,26 +66,38 @@ export async function createBattleRoom(
     throw new Error(`Need at least ${BATTLE_QUESTIONS} questions in this topic.`);
   }
 
-  const roomCode = generateRoomCode();
-  const room: RoomDoc = {
-    roomCode,
-    hostUid: user.uid,
-    host: displayName || 'Host',
-    guestUid: null,
-    guest: null,
-    hostScore: 0,
-    guestScore: 0,
-    status: 'waiting',
-    // Frozen paper: exactly BATTLE_QUESTIONS ids, decided once at create so
-    // both clients answer identical questions without extra round-trips.
-    question_ids: questionIds.slice(0, BATTLE_QUESTIONS),
-    created_at: Date.now(),
-  };
-  await setDoc(await roomRef(roomCode), room);
-  return { roomCode, questionIds: room.question_ids };
+  // 6-char codes can collide: an overwrite of an existing doc fails the
+  // rules (create-time invariants don't apply to an update), so regenerate
+  // and retry instead of surfacing a confusing permission error.
+  let lastErr: unknown;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const roomCode = generateRoomCode();
+    const room: RoomDoc = {
+      roomCode,
+      hostUid: user.uid,
+      host: displayName || 'Host',
+      guestUid: null,
+      guest: null,
+      hostScore: 0,
+      guestScore: 0,
+      status: 'waiting',
+      // Frozen paper: exactly BATTLE_QUESTIONS ids, decided once at create so
+      // both clients answer identical questions without extra round-trips.
+      question_ids: questionIds.slice(0, BATTLE_QUESTIONS),
+      created_at: Date.now(),
+    };
+    try {
+      await setDoc(await roomRef(roomCode), room);
+      return { roomCode, questionIds: room.question_ids };
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  throw lastErr instanceof Error ? lastErr : new Error('Could not create the battle.');
 }
 
-/** Joins an existing room as guest; writes only guest fields (rules-safe). */
+/** Joins an existing room as guest; the seat claim also flips status to
+ *  'active' (rules allow ['guest','guestUid','status']), starting the match. */
 export async function joinBattleRoom(roomCode: string, displayName: string): Promise<BattleRoomView> {
   const { getDoc, updateDoc } = await fs();
   const { getCurrentUser } = await auth();
@@ -104,8 +116,11 @@ export async function joinBattleRoom(roomCode: string, displayName: string): Pro
     throw new Error('That battle is already full or underway.');
   }
   const guest = displayName || 'Guest';
-  await updateDoc(ref, { guest, guestUid: user.uid });
-  return view({ ...room, guest, guestUid: user.uid }, user.uid);
+  // Rules' seat-claim branch permits ['guest','guestUid','status'] — flipping
+  // status to 'active' here starts the match on BOTH clients at once (the
+  // host learns via the room subscription; no second round-trip needed).
+  await updateDoc(ref, { guest, guestUid: user.uid, status: 'active' });
+  return view({ ...room, guest, guestUid: user.uid, status: 'active' }, user.uid);
 }
 
 /** Reads one room and resolves the caller's role. */
@@ -121,6 +136,12 @@ export async function fetchRoom(roomCode: string): Promise<BattleRoomView | null
 /**
  * Saves my paper result and advances the status machine. Idempotent:
  * a retry after a successful write is a no-op (deriveStatus is stable).
+ * Also serves as the RACE REPAIR write: if both papers finished nearly
+ * simultaneously, the loser of the status write-off sees the other side's
+ * finish recorded with a non-done status and re-writes {myScore, 'done'} —
+ * exactly the missing transition, and idempotent under the rules.
+ * Transient network failures are retried (fresh read each attempt, so a
+ * concurrent legitimate write can never be clobbered by a stale one).
  */
 export async function finishMyPaper(
   roomCode: string,
@@ -129,17 +150,47 @@ export async function finishMyPaper(
 ): Promise<void> {
   const { getDoc, updateDoc } = await fs();
   const ref = await roomRef(roomCode);
+  let lastErr: unknown;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const snap = await getDoc(ref);
+      if (!snap.exists()) throw new Error('Room not found.');
+      const room = snap.data() as RoomDoc;
+
+      const next = deriveStatus(room.status, role);
+      if (next === room.status) return; // already recorded my result — retry no-op
+
+      await updateDoc(ref, {
+        [role === 'host' ? 'hostScore' : 'guestScore']: score,
+        status: next,
+      });
+      return;
+    } catch (e) {
+      if (e instanceof Error && e.message === 'Room not found.') throw e;
+      lastErr = e;
+      if (attempt < 2) await new Promise(r => setTimeout(r, 200 * (attempt + 1)));
+    }
+  }
+  throw lastErr instanceof Error ? lastErr : new Error('Could not save your result.');
+}
+
+/**
+ * Host cancels a still-waiting room before anyone joined. Deleting an
+ * active/finished match would destroy the opponent's view, so the service
+ * only ever deletes rooms that are still in 'waiting' and hosted by the
+ * caller (the rules additionally scope deletes to the host).
+ */
+export async function cancelOpenRoom(roomCode: string): Promise<void> {
+  const { deleteDoc, getDoc } = await fs();
+  const { getCurrentUser } = await auth();
+  const user = getCurrentUser();
+  if (!user) throw new Error('Sign in first.');
+  const ref = await roomRef(roomCode);
   const snap = await getDoc(ref);
-  if (!snap.exists()) throw new Error('Room not found.');
+  if (!snap.exists()) return; // already gone — nothing to cancel
   const room = snap.data() as RoomDoc;
-
-  const next = deriveStatus(room.status, role);
-  if (next === room.status) return; // already recorded my result — retry no-op
-
-  await updateDoc(ref, {
-    [role === 'host' ? 'hostScore' : 'guestScore']: score,
-    status: next,
-  });
+  if (room.hostUid !== user.uid || room.status !== 'waiting') return; // not cancellable
+  await deleteDoc(ref);
 }
 
 /** Open rooms waiting for an opponent (most recent first). */
@@ -160,19 +211,25 @@ export async function listOpenRooms(): Promise<BattleRoomView[]> {
   return out;
 }
 
-/** Live subscription to a room; returns unsubscribe. */
+/** Live subscription to a room; returns unsubscribe. Errors (permission
+ *  denied, dropped stream) surface through onError instead of vanishing. */
 export async function subscribeRoom(
   roomCode: string,
-  onUpdate: (room: BattleRoomView) => void
+  onUpdate: (room: BattleRoomView) => void,
+  onError?: (e: Error) => void
 ): Promise<() => void> {
   const { onSnapshot } = await fs();
   const { getCurrentUser } = await auth();
   const ref = await roomRef(roomCode);
-  return onSnapshot(ref, snap => {
-    if (!snap.exists()) return;
-    const uid = getCurrentUser()?.uid ?? null;
-    onUpdate(view(snap.data() as RoomDoc, uid));
-  });
+  return onSnapshot(
+    ref,
+    snap => {
+      if (!snap.exists()) return;
+      const uid = getCurrentUser()?.uid ?? null;
+      onUpdate(view(snap.data() as RoomDoc, uid));
+    },
+    onError
+  );
 }
 
 /** A pool of question ids for the given topic (host freezes them at create). */
