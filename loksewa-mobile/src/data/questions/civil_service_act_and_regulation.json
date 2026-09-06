@@ -814,5 +814,1979 @@
     },
     "answer": "a",
     "explanation": "The approval authority for study leave in the civil service rests with the Government of Nepal[cite: 1]."
+  },
+  {
+    "question": "विश्वको पहिलो योग्यतामा आधारित (merit-based) निजामती सेवा कहाँबाट सुरु भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "चीन",
+      "b": "भारत",
+      "c": "अमेरिका",
+      "d": "बेलायत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4860",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्वमा पहिलो आधुनिक निजामती सेवा (modern civil service) कहाँबाट सुरु भएको थियो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "चीन",
+      "b": "भारत",
+      "c": "अमेरिका",
+      "d": "बेलायत"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4861",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम दरखास्त परिषद् कहिले स्थापना भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००८ साल",
+      "c": "२०१८ साल",
+      "d": "२०३६ साल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4862",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लोकसेवा आयोगको प्रावधान सर्वप्रथम कहिले भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००८ साल",
+      "c": "२००७ साल",
+      "d": "२०७८ साल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4863",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लोकसेवा र निजामती सङ्घ सर्वप्रथम कहिले बनेको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००७ साल",
+      "c": "२००८ साल",
+      "d": "२००९ साल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4864",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो निजामती सेवा ऐन कहिले आएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०१५ साल",
+      "b": "२०१३ साल",
+      "c": "२०२१ साल",
+      "d": "२०४९ साल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4865",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा हाल लागू निजामती सेवा ऐन कुन हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००७ सालको",
+      "b": "२०१३ सालको",
+      "c": "२०४९ सालको",
+      "d": "२०८० सालको"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4866",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ को प्रमाणीकरण कहिले भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०५० जेठ ४ गते",
+      "b": "२०४९ जेठ ४ गते",
+      "c": "२०५० जेठ ५ गते",
+      "d": "२०४९ जेठ ५ गते"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4867",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको निजामती सेवामा कहिलेदेखि आरक्षणको प्रावधान राखिएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०६४ श्रावण २२ गते",
+      "b": "२०६४ श्रावण २३ गते",
+      "c": "२०६५ श्रावण २२ गते",
+      "d": "२०६३ श्रावण २३ गते"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4868",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐनको कुन संशोधनले नेपालमा आरक्षणको व्यवस्था गरेको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "पहिलो",
+      "b": "दोस्रो",
+      "c": "तेस्रो",
+      "d": "चौथो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4869",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ मा हालसम्म कतिवटा संशोधन भएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "२",
+      "c": "३",
+      "d": "४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4870",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "How many categories of service are there in federal public service ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "9",
+      "d": "10"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4871",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "How many classes of post are there in federal public service ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "9",
+      "b": "10",
+      "c": "11",
+      "d": "12"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4872",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "How many posts of service are there in federal public service ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4873",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "How many years of experience is required to be a second class officer if educational qualification is a masters degree ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "7",
+      "d": "10"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4874",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "What is the minimum education classification of second and first class officers ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "+2",
+      "b": "Bachelors",
+      "c": "Masters",
+      "d": "M. Phil"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4875",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "How many years of experience is required for a second class officer if the candidate is PHD ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "7"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4876",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आदिवासी जनजातिलाई कति प्रतिशत कोटा छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२७",
+      "b": "२२",
+      "c": "९",
+      "d": "५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4877",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पिछडिएको क्षेत्रलाई कति प्रतिशत कोटा छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "९",
+      "b": "५",
+      "c": "४",
+      "d": "०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4878",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दलित वर्गलाई कति प्रतिशत कोटा छुटाइएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२२",
+      "b": "९",
+      "c": "५",
+      "d": "४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4879",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पिछडिएको क्षेत्रमा कतिवटा जिल्ला समावेश गरिएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१०",
+      "b": "९",
+      "c": "८",
+      "d": "७"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4880",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलको मध्य कुन पिछडिएको क्षेत्र होइन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "अछाम",
+      "b": "बाजुरा",
+      "c": "बझाङ",
+      "d": "रुकुम पूर्व"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4881",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलको मध्य कुन पिछडिएको क्षेत्र होइन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "कालिकोट",
+      "b": "जाजरकोट",
+      "c": "जुम्ला",
+      "d": "सल्यान"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4882",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "At what period is the quota system reviewed ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "10 year",
+      "b": "5 year",
+      "c": "15 year",
+      "d": "Not reviewed"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4883",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Who does the appointment of post for gazetted officer ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "नेपाल सरकार",
+      "b": "विभागीय प्रमुख",
+      "c": "कार्यालय प्रमुख",
+      "d": "कोही पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4884",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राजपत्राङ्कित तृतीय श्रेणीको लागि कति वर्ष न्यूनतम उमेर चाहिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८",
+      "b": "२१",
+      "c": "२३",
+      "d": "२५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4885",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित द्वितीय र प्रथम श्रेणी का लागि कति वर्ष अधिकतम उमेर हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "३५ वर्ष",
+      "b": "४० वर्ष",
+      "c": "४५ वर्ष",
+      "d": "उमेरको पाउन्दी लाग्दैन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4886",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको कुनै पनि विकास आयोजनामा करारमा कति वर्ष काम गरेको महिलालाई उमेरको पाबन्दी लाग्दैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4887",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पुरुषको लागि परीक्षणकाल कति समयको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "छ महिना",
+      "b": "एक वर्ष",
+      "c": "डेढ वर्ष",
+      "d": "दुई वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4888",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "महिलाका लागि परीक्षणकाल कति समयको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "छ महिना",
+      "b": "एक वर्ष",
+      "c": "डेढ वर्ष",
+      "d": "दुई वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4889",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मुख्य सचिवको कार्यकाल कति अवधिको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "दुई वर्ष",
+      "b": "तीन वर्ष",
+      "c": "चार वर्ष",
+      "d": "पाँच वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4890",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कुनै पनि मन्त्रालयको सचिवको कार्यकाल कति वर्षको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4891",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा हाल लागू सङ्घीय निजामती सेवा नियमावली कहिलेदेखि लागू भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०५० असार २८ गते",
+      "b": "२०५० असार २९ गते",
+      "c": "२०५० असार ३० गते",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4892",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Who authorized the job description of chief secretary ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "Government of Nepal",
+      "b": "Head of department",
+      "c": "President of Nepal",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4893",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Who authorizes the job description of gazetted special class ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "Chief secretary of government of Nepal",
+      "b": "Head of department",
+      "c": "Prime Minister",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4894",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कति समयभन्दा ज्यादा अवधिको लागि कुनै पनि सरकारी कर्मचारीलाई काजमा खटाउन पाइँदैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "एक महिना",
+      "b": "तीन महिना",
+      "c": "छ महिना",
+      "d": "एक वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4895",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा ऐन का आधारमा एक वर्षमा कति दिन मानिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२३०",
+      "b": "२३३",
+      "c": "२५०",
+      "d": "२८०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4896",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्षमा कति दिन पर्व विदा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4897",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "भैपरि आउने विधा भनेर वर्षमा कति दिन छुटाइएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4898",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामति कर्मचारीले कति अवधि काम गरेपछी १ दिनको दरले घर विदा पाउनेछ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१२ दिन",
+      "b": "१५ दिन",
+      "c": "४५ दिन",
+      "d": "५० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4899",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "घर विदा कति दिन सञ्चित गर्न पाइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८० दिन",
+      "b": "३६५ दिन",
+      "c": "जति पनि सञ्चित गर्न सकिन्छ",
+      "d": "सञ्चित गर्न मिल्दैन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4900",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्षमा कति दिन बिरामी विदा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "१८ दिन",
+      "d": "२४ दिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4901",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बिरामी विदा कति दिन सञ्चित गर्न सकिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८० दिन",
+      "b": "९८ दिन",
+      "c": "सञ्चित गर्न मिल्दैन",
+      "d": "जति पनि सञ्चित गर्न सकिन्छ"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4902",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "२०४८ को उच्चस्तरीय प्रशासन सुधार आयोग कसको अध्यक्षतामा गठन गरिएको थियो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "गिरिजाप्रसाद कोइराला",
+      "b": "भेषबहादुर थापा",
+      "c": "पम्फा भुसाल",
+      "d": "वेदानन्द झा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4903",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्रको प्रकाशन कहिलेदेखि सुरु भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००७ श्रावण २३ गते",
+      "b": "२००७ श्रावण २२ गते",
+      "c": "२००८ श्रावण २३ गते",
+      "d": "२००८ श्रावण २२ गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4904",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सर्वप्रथम राजपत्रको प्रकाशन हुँदा कति भागमा प्रकाशन गरिन्थ्यो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "२",
+      "c": "३",
+      "d": "४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4905",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित तृतीय श्रेणी को पदपूर्ति गर्दा कति प्रतिशत खुल्ला प्रतियोगितालाई छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "७० प्रतिशत",
+      "b": "१० प्रतिशत",
+      "c": "२० प्रतिशत",
+      "d": "३५ प्रतिशत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4906",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित द्वितीय र तृतीय श्रेणी को पदपूर्तिको लागि कति प्रतिशत खुला प्रतियोगितालाई छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१० प्रतिशत",
+      "b": "२० प्रतिशत",
+      "c": "७० प्रतिशत",
+      "d": "३५ प्रतिशत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4907",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कति वर्षभन्दा धेरै सेवा गरेको कर्मचारीलाई उपदान को सुविधा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "५ वर्ष",
+      "b": "१० वर्ष",
+      "c": "१५ वर्ष",
+      "d": "२० वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4908",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "विशिष्ट श्रेणीसम्म व्यवस्था नभएको संघीय निजामती सेवा कुन हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "न्याय सेवा",
+      "b": "इन्जिनियरिङ सेवा",
+      "c": "नेपाल आर्थिक योजना तथा तथ्यांक सेवा",
+      "d": "प्रशासन सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4909",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "आधुनिक निजामती (सन् १८८३) सेवा कुन देशदेखि सुरु भएको मानिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "बेलायत",
+      "b": "अमेरिका",
+      "c": "भारत",
+      "d": "चीन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4910",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित तर्फ विशिष्ट श्रेणीसम्मका लागि कुन सेवामा व्यवस्था गरिएको छैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "कृषि",
+      "b": "इन्जिनियरिङ",
+      "c": "प्रशासन",
+      "d": "शिक्षा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4911",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ ले राजपत्राङ्किततर्फ विशिष्ट श्रेणीसम्मका लागि कतिवटा क्लस्टरको व्यवस्था गरेको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६",
+      "b": "७",
+      "c": "८",
+      "d": "९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4912",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा दिवस कहिले मनाइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "श्रावण २२",
+      "b": "जेष्ठ २२",
+      "c": "भाद्र २२",
+      "d": "असार २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4913",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा नियमावली २०५० हालसम्म कतिपटक संशोधन भएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१५ पटक",
+      "b": "१२ पटक",
+      "c": "४ पटक",
+      "d": "८ पटक"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4914",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम दरखास्त परिषद् कहिले स्थापना भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००८ साल",
+      "c": "२०१८ साल",
+      "d": "२०३६ साल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4862",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लोकसेवा आयोगको प्रावधान सर्वप्रथम कहिले भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००८ साल",
+      "c": "२००७ साल",
+      "d": "२०७८ साल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4863",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लोकसेवा र निजामती सङ्घ सर्वप्रथम कहिले बनेको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००७ साल",
+      "c": "२००८ साल",
+      "d": "२००९ साल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4864",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो निजामती सेवा ऐन कहिले आएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०१५ साल",
+      "b": "२०१३ साल",
+      "c": "२०२१ साल",
+      "d": "२०४९ साल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4865",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा हाल लागू निजामती सेवा ऐन कुन हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००७ सालको",
+      "b": "२०१३ सालको",
+      "c": "२०४९ सालको",
+      "d": "२०८० सालको"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4866",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ को प्रमाणीकरण कहिले भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०५० जेठ ४ गते",
+      "b": "२०४९ जेठ ४ गते",
+      "c": "२०५० जेठ ५ गते",
+      "d": "२०४९ जेठ ५ गते"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4867",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको निजामती सेवामा कहिलेदेखि आरक्षणको प्रावधान राखिएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०६४ श्रावण २२ गते",
+      "b": "२०६४ श्रावण २३ गते",
+      "c": "२०६५ श्रावण २२ गते",
+      "d": "२०६३ श्रावण २३ गते"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4868",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐनको कुन संशोधनले नेपालमा आरक्षणको व्यवस्था गरेको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "पहिलो",
+      "b": "दोस्रो",
+      "c": "तेस्रो",
+      "d": "चौथो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4869",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ मा हालसम्म कतिवटा संशोधन भएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "२",
+      "c": "३",
+      "d": "४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4870",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आदिवासी जनजातिलाई कति प्रतिशत कोटा छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२७",
+      "b": "२२",
+      "c": "९",
+      "d": "५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4877",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पिछडिएको क्षेत्रलाई कति प्रतिशत कोटा छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "९",
+      "b": "५",
+      "c": "४",
+      "d": "०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4878",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दलित वर्गलाई कति प्रतिशत कोटा छुटाइएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२२",
+      "b": "९",
+      "c": "५",
+      "d": "४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4879",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पिछडिएको क्षेत्रमा कतिवटा जिल्ला समावेश गरिएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१०",
+      "b": "९",
+      "c": "८",
+      "d": "७"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4880",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलको मध्य कुन पिछडिएको क्षेत्र होइन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "अछाम",
+      "b": "बाजुरा",
+      "c": "बझाङ",
+      "d": "रुकुम पूर्व"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4881",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलको मध्य कुन पिछडिएको क्षेत्र होइन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "कालिकोट",
+      "b": "जाजरकोट",
+      "c": "जुम्ला",
+      "d": "सल्यान"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4882",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राजपत्राङ्कित तृतीय श्रेणीको लागि कति वर्ष न्यूनतम उमेर चाहिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८",
+      "b": "२१",
+      "c": "२३",
+      "d": "२५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4885",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित द्वितीय र प्रथम श्रेणी का लागि कति वर्ष अधिकतम उमेर हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "३५ वर्ष",
+      "b": "४० वर्ष",
+      "c": "४५ वर्ष",
+      "d": "उमेरको पाउन्दी लाग्दैन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4886",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको कुनै पनि विकास आयोजनामा करारमा कति वर्ष काम गरेको महिलालाई उमेरको पाबन्दी लाग्दैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4887",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पुरुषको लागि परीक्षणकाल कति समयको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "छ महिना",
+      "b": "एक वर्ष",
+      "c": "डेढ वर्ष",
+      "d": "दुई वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4888",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "महिलाका लागि परीक्षणकाल कति समयको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "छ महिना",
+      "b": "एक वर्ष",
+      "c": "डेढ वर्ष",
+      "d": "दुई वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4889",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मुख्य सचिवको कार्यकाल कति अवधिको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "दुई वर्ष",
+      "b": "तीन वर्ष",
+      "c": "चार वर्ष",
+      "d": "पाँच वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4890",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कुनै पनि मन्त्रालयको सचिवको कार्यकाल कति वर्षको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4891",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा हाल लागू सङ्घीय निजामती सेवा नियमावली कहिलेदेखि लागू भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०५० असार २८ गते",
+      "b": "२०५० असार २९ गते",
+      "c": "२०५० असार ३० गते",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4892",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कति समयभन्दा ज्यादा अवधिको लागि कुनै पनि सरकारी कर्मचारीलाई काजमा खटाउन पाइँदैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "एक महिना",
+      "b": "तीन महिना",
+      "c": "छ महिना",
+      "d": "एक वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4895",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा ऐन का आधारमा एक वर्षमा कति दिन मानिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२३०",
+      "b": "२३३",
+      "c": "२५०",
+      "d": "२८०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4896",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्षमा कति दिन पर्व विदा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4897",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "भैपरि आउने विधा भनेर वर्षमा कति दिन छुटाइएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4898",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामति कर्मचारीले कति अवधि काम गरेपछी १ दिनको दरले घर विदा पाउनेछ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१२ दिन",
+      "b": "१५ दिन",
+      "c": "४५ दिन",
+      "d": "५० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4899",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "घर विदा कति दिन सञ्चित गर्न पाइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८० दिन",
+      "b": "३६५ दिन",
+      "c": "जति पनि सञ्चित गर्न सकिन्छ",
+      "d": "सञ्चित गर्न मिल्दैन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4900",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्षमा कति दिन बिरामी विदा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "१८ दिन",
+      "d": "२४ दिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4901",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बिरामी विदा कति दिन सञ्चित गर्न सकिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८० दिन",
+      "b": "९८ दिन",
+      "c": "सञ्चित गर्न मिल्दैन",
+      "d": "जति पनि सञ्चित गर्न सकिन्छ"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4902",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "२०४८ को उच्चस्तरीय प्रशासन सुधार आयोग कसको अध्यक्षतामा गठन गरिएको थियो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "गिरिजाप्रसाद कोइराला",
+      "b": "भेषबहादुर थापा",
+      "c": "पम्फा भुसाल",
+      "d": "वेदानन्द झा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4903",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्रको प्रकाशन कहिलेदेखि सुरु भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००७ श्रावण २३ गते",
+      "b": "२००७ श्रावण २२ गते",
+      "c": "२००८ श्रावण २३ गते",
+      "d": "२००८ श्रावण २२ गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4904",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सर्वप्रथम राजपत्रको प्रकाशन हुँदा कति भागमा प्रकाशन गरिन्थ्यो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "२",
+      "c": "३",
+      "d": "४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4905",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित तृतीय श्रेणी को पदपूर्ति गर्दा कति प्रतिशत खुल्ला प्रतियोगितालाई छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "७० प्रतिशत",
+      "b": "१० प्रतिशत",
+      "c": "२० प्रतिशत",
+      "d": "३५ प्रतिशत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4906",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित द्वितीय र तृतीय श्रेणी को पदपूर्तिको लागि कति प्रतिशत खुला प्रतियोगितालाई छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१० प्रतिशत",
+      "b": "२० प्रतिशत",
+      "c": "७० प्रतिशत",
+      "d": "३५ प्रतिशत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4907",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कति वर्षभन्दा धेरै सेवा गरेको कर्मचारीलाई उपदान को सुविधा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "५ वर्ष",
+      "b": "१० वर्ष",
+      "c": "१५ वर्ष",
+      "d": "२० वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4908",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "विशिष्ट श्रेणीसम्म व्यवस्था नभएको संघीय निजामती सेवा कुन हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "न्याय सेवा",
+      "b": "इन्जिनियरिङ सेवा",
+      "c": "नेपाल आर्थिक योजना तथा तथ्यांक सेवा",
+      "d": "प्रशासन सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4909",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "आधुनिक निजामती (सन् १८८३) सेवा कुन देशदेखि सुरु भएको मानिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "बेलायत",
+      "b": "अमेरिका",
+      "c": "भारत",
+      "d": "चीन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4910",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित तर्फ विशिष्ट श्रेणीसम्मका लागि कुन सेवामा व्यवस्था गरिएको छैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "कृषि",
+      "b": "इन्जिनियरिङ",
+      "c": "प्रशासन",
+      "d": "शिक्षा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4911",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ ले राजपत्राङ्किततर्फ विशिष्ट श्रेणीसम्मका लागि कतिवटा क्लस्टरको व्यवस्था गरेको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६",
+      "b": "७",
+      "c": "८",
+      "d": "९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4912",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा दिवस कहिले मनाइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "श्रावण २२",
+      "b": "जेष्ठ २२",
+      "c": "भाद्र २२",
+      "d": "असार २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4913",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा नियमावली २०५० हालसम्म कतिपटक संशोधन भएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१५ पटक",
+      "b": "१२ पटक",
+      "c": "४ पटक",
+      "d": "८ पटक"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4914",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम दरखास्त परिषद् कहिले स्थापना भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००८ साल",
+      "c": "२०१८ साल",
+      "d": "२०३६ साल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4862",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लोकसेवा आयोगको प्रावधान सर्वप्रथम कहिले भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००८ साल",
+      "c": "२००७ साल",
+      "d": "२०७८ साल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4863",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लोकसेवा र निजामती सङ्घ सर्वप्रथम कहिले बनेको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००७ साल",
+      "c": "२००८ साल",
+      "d": "२००९ साल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4864",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो निजामती सेवा ऐन कहिले आएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०१५ साल",
+      "b": "२०१३ साल",
+      "c": "२०२१ साल",
+      "d": "२०४९ साल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4865",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा हाल लागू निजामती सेवा ऐन कुन हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००७ सालको",
+      "b": "२०१३ सालको",
+      "c": "२०४९ सालको",
+      "d": "२०८० सालको"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4866",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ को प्रमाणीकरण कहिले भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०५० जेठ ४ गते",
+      "b": "२०४९ जेठ ४ गते",
+      "c": "२०५० जेठ ५ गते",
+      "d": "२०४९ जेठ ५ गते"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4867",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको निजामती सेवामा कहिलेदेखि आरक्षणको प्रावधान राखिएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०६४ श्रावण २२ गते",
+      "b": "२०६४ श्रावण २३ गते",
+      "c": "२०६५ श्रावण २२ गते",
+      "d": "२०६३ श्रावण २३ गते"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4868",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐनको कुन संशोधनले नेपालमा आरक्षणको व्यवस्था गरेको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "पहिलो",
+      "b": "दोस्रो",
+      "c": "तेस्रो",
+      "d": "चौथो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4869",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ मा हालसम्म कतिवटा संशोधन भएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "२",
+      "c": "३",
+      "d": "४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4870",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आदिवासी जनजातिलाई कति प्रतिशत कोटा छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२७",
+      "b": "२२",
+      "c": "९",
+      "d": "५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4877",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पिछडिएको क्षेत्रलाई कति प्रतिशत कोटा छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "९",
+      "b": "५",
+      "c": "४",
+      "d": "०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4878",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दलित वर्गलाई कति प्रतिशत कोटा छुटाइएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२२",
+      "b": "९",
+      "c": "५",
+      "d": "४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4879",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "पिछडिएको क्षेत्रमा कतिवटा जिल्ला समावेश गरिएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१०",
+      "b": "९",
+      "c": "८",
+      "d": "७"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4880",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलको मध्य कुन पिछडिएको क्षेत्र होइन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "अछाम",
+      "b": "बाजुरा",
+      "c": "बझाङ",
+      "d": "रुकुम पूर्व"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4881",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलको मध्य कुन पिछडिएको क्षेत्र होइन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "कालिकोट",
+      "b": "जाजरकोट",
+      "c": "जुम्ला",
+      "d": "सल्यान"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4882",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राजपत्राङ्कित तृतीय श्रेणीको लागि कति वर्ष न्यूनतम उमेर चाहिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८",
+      "b": "२१",
+      "c": "२३",
+      "d": "२५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4885",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित द्वितीय र प्रथम श्रेणी का लागि कति वर्ष अधिकतम उमेर हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "३५ वर्ष",
+      "b": "४० वर्ष",
+      "c": "४५ वर्ष",
+      "d": "उमेरको पाउन्दी लाग्दैन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4886",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको कुनै पनि विकास आयोजनामा करारमा कति वर्ष काम गरेको महिलालाई उमेरको पाबन्दी लाग्दैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4887",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पुरुषको लागि परीक्षणकाल कति समयको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "छ महिना",
+      "b": "एक वर्ष",
+      "c": "डेढ वर्ष",
+      "d": "दुई वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4888",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "महिलाका लागि परीक्षणकाल कति समयको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "छ महिना",
+      "b": "एक वर्ष",
+      "c": "डेढ वर्ष",
+      "d": "दुई वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4889",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मुख्य सचिवको कार्यकाल कति अवधिको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "दुई वर्ष",
+      "b": "तीन वर्ष",
+      "c": "चार वर्ष",
+      "d": "पाँच वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4890",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कुनै पनि मन्त्रालयको सचिवको कार्यकाल कति वर्षको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4891",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा हाल लागू सङ्घीय निजामती सेवा नियमावली कहिलेदेखि लागू भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२०५० असार २८ गते",
+      "b": "२०५० असार २९ गते",
+      "c": "२०५० असार ३० गते",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4892",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कति समयभन्दा ज्यादा अवधिको लागि कुनै पनि सरकारी कर्मचारीलाई काजमा खटाउन पाइँदैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "एक महिना",
+      "b": "तीन महिना",
+      "c": "छ महिना",
+      "d": "एक वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4895",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा ऐन का आधारमा एक वर्षमा कति दिन मानिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२३०",
+      "b": "२३३",
+      "c": "२५०",
+      "d": "२८०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4896",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्षमा कति दिन पर्व विदा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4897",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "भैपरि आउने विधा भनेर वर्षमा कति दिन छुटाइएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4898",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामति कर्मचारीले कति अवधि काम गरेपछी १ दिनको दरले घर विदा पाउनेछ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१२ दिन",
+      "b": "१५ दिन",
+      "c": "४५ दिन",
+      "d": "५० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4899",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "घर विदा कति दिन सञ्चित गर्न पाइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८० दिन",
+      "b": "३६५ दिन",
+      "c": "जति पनि सञ्चित गर्न सकिन्छ",
+      "d": "सञ्चित गर्न मिल्दैन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4900",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वर्षमा कति दिन बिरामी विदा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "१८ दिन",
+      "d": "२४ दिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4901",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बिरामी विदा कति दिन सञ्चित गर्न सकिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१८० दिन",
+      "b": "९८ दिन",
+      "c": "सञ्चित गर्न मिल्दैन",
+      "d": "जति पनि सञ्चित गर्न सकिन्छ"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4902",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "२०४८ को उच्चस्तरीय प्रशासन सुधार आयोग कसको अध्यक्षतामा गठन गरिएको थियो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "गिरिजाप्रसाद कोइराला",
+      "b": "भेषबहादुर थापा",
+      "c": "पम्फा भुसाल",
+      "d": "वेदानन्द झा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4903",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्रको प्रकाशन कहिलेदेखि सुरु भएको हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "२००७ श्रावण २३ गते",
+      "b": "२००७ श्रावण २२ गते",
+      "c": "२००८ श्रावण २३ गते",
+      "d": "२००८ श्रावण २२ गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4904",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सर्वप्रथम राजपत्रको प्रकाशन हुँदा कति भागमा प्रकाशन गरिन्थ्यो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१",
+      "b": "२",
+      "c": "३",
+      "d": "४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4905",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित तृतीय श्रेणी को पदपूर्ति गर्दा कति प्रतिशत खुल्ला प्रतियोगितालाई छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "७० प्रतिशत",
+      "b": "१० प्रतिशत",
+      "c": "२० प्रतिशत",
+      "d": "३५ प्रतिशत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4906",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित द्वितीय र तृतीय श्रेणी को पदपूर्तिको लागि कति प्रतिशत खुला प्रतियोगितालाई छुटाइएको हुन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१० प्रतिशत",
+      "b": "२० प्रतिशत",
+      "c": "७० प्रतिशत",
+      "d": "३५ प्रतिशत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4907",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कति वर्षभन्दा धेरै सेवा गरेको कर्मचारीलाई उपदान को सुविधा दिइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "५ वर्ष",
+      "b": "१० वर्ष",
+      "c": "१५ वर्ष",
+      "d": "२० वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4908",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "विशिष्ट श्रेणीसम्म व्यवस्था नभएको संघीय निजामती सेवा कुन हो ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "न्याय सेवा",
+      "b": "इन्जिनियरिङ सेवा",
+      "c": "नेपाल आर्थिक योजना तथा तथ्यांक सेवा",
+      "d": "प्रशासन सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4909",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "आधुनिक निजामती (सन् १८८३) सेवा कुन देशदेखि सुरु भएको मानिन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "बेलायत",
+      "b": "अमेरिका",
+      "c": "भारत",
+      "d": "चीन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4910",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राजपत्राङ्कित तर्फ विशिष्ट श्रेणीसम्मका लागि कुन सेवामा व्यवस्था गरिएको छैन ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "कृषि",
+      "b": "इन्जिनियरिङ",
+      "c": "प्रशासन",
+      "d": "शिक्षा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4911",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा ऐन २०४९ ले राजपत्राङ्किततर्फ विशिष्ट श्रेणीसम्मका लागि कतिवटा क्लस्टरको व्यवस्था गरेको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "६",
+      "b": "७",
+      "c": "८",
+      "d": "९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4912",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा दिवस कहिले मनाइन्छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "श्रावण २२",
+      "b": "जेष्ठ २२",
+      "c": "भाद्र २२",
+      "d": "असार २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4913",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "निजामती सेवा नियमावली २०५० हालसम्म कतिपटक संशोधन भएको छ ?",
+    "topic": "Civil Service Act & Regulation",
+    "options": {
+      "a": "१५ पटक",
+      "b": "१२ पटक",
+      "c": "४ पटक",
+      "d": "८ पटक"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4914",
+    "chapter": "SECTION-II"
   }
 ]

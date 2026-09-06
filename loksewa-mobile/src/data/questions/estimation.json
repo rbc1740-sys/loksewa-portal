@@ -2986,5 +2986,2551 @@
     },
     "answer": "a",
     "explanation": "Norms provide the standard consumption quantities of materials and labor hours required to prepare accurate rate analyses."
+  },
+  {
+    "question": "The measurements is made for stone work in square meter in case of",
+    "topic": "Estimation",
+    "options": {
+      "a": "Wall facing",
+      "b": "Dressed stone in chajjas",
+      "c": "Both (a) and (b)",
+      "d": "None of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8523",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Due to the change in price level, a revised estimate is prepared if the sanctioned estimate exceeds",
+    "topic": "Estimation",
+    "options": {
+      "a": "2 %",
+      "b": "2.5 %",
+      "c": "4 %",
+      "d": "5 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8524",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The unit of measurement is per quintal for the following",
+    "topic": "Estimation",
+    "options": {
+      "a": "Collapsible gates with rails",
+      "b": "Rolling shutter",
+      "c": "Expanded metal wire netting",
+      "d": "M.S reinforcement of R.C.C works"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8525",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Anti-siphonage pipe is connected to",
+    "topic": "Estimation",
+    "options": {
+      "a": "Main soil pipe",
+      "b": "Bottom of P trap W.C",
+      "c": "Top of P trap W.C",
+      "d": "Side of water closet"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8526",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Pick up the item of work not included in the plinth area estimate",
+    "topic": "Estimation",
+    "options": {
+      "a": "Wall thickness",
+      "b": "Room area",
+      "c": "W.C. area",
+      "d": "Courtyard"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8527",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The measurement is made in square meters in case of",
+    "topic": "Estimation",
+    "options": {
+      "a": "cement concrete in foundation",
+      "b": "hollow concrete block wall",
+      "c": "concrete fencing post",
+      "d": "none of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8528",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The diameter of a domestic sewer pipe laid at gradient 1 in 100 is recommended",
+    "topic": "Estimation",
+    "options": {
+      "a": "100 mm",
+      "b": "150 mm",
+      "c": "200 mm",
+      "d": "175 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8529",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The portion which is wrongly excavated by the contractor is to be filled by",
+    "topic": "Estimation",
+    "options": {
+      "a": "the earth excavated from the same pit",
+      "b": "the earth excavated from a borrow pit far away fron the site",
+      "c": "concrete as specified",
+      "d": "brick masonry"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8530",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "In the centre line method of working out volumes, for cross walls, what deductions must be made from the centre line length at each junction?",
+    "topic": "Estimation",
+    "options": {
+      "a": "twice the breadth",
+      "b": "breadth",
+      "c": "1.5 breadth",
+      "d": "half the breadth"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8532",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "In what units are the quantities for the frames of doors and windows computed",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8533",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "When engineering departments undertake the works of other departments the amount charged towards design, supervision and execution etc., is called",
+    "topic": "Estimation",
+    "options": {
+      "a": "work charged establishment",
+      "b": "contingencies",
+      "c": "service charge",
+      "d": "centage charge"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8534",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The plan of a building is in the form of rectangle with center line dimensions of outer walls as 9.7 m * 14.7 m. The thickness of the wall in super structure is 0.30m.Then its plinth area is",
+    "topic": "Estimation",
+    "options": {
+      "a": "150 m2",
+      "b": "147 m2",
+      "c": "145.5 m2",
+      "d": "135.36 m2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8535",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The quantum of work of any item a skilled labour is supposed to turnout in a day is known as",
+    "topic": "Estimation",
+    "options": {
+      "a": "unit work",
+      "b": "task work",
+      "c": "target work",
+      "d": "basic work"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8536",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The area of the segmental portion of an arch with span l and riser r is approximately given by",
+    "topic": "Estimation",
+    "options": {
+      "a": "2/3 lr",
+      "b": "1/2 lr",
+      "c": "3/4 lr",
+      "d": "5/8 lr"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8537",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The quantity for expansion joint in buildings is worked out in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8538",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "If the bearing is not specified for the lintel, in the estimation it is usually taken as",
+    "topic": "Estimation",
+    "options": {
+      "a": "thickness of lintel subjected to a minimum value of 12 cm",
+      "b": "3/4 of lintel thickness or 12 cm whichever is larger",
+      "c": "1/2 of lintel thickness",
+      "d": "15 cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8540",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "In the estimation of plastering surface the deductions are not made for",
+    "topic": "Estimation",
+    "options": {
+      "a": "ends of beams",
+      "b": "end of rafters",
+      "c": "small openings upto 0.5 square meter",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8541",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "In which of the following works, the work turned in cu.m per mason per day will be the least",
+    "topic": "Estimation",
+    "options": {
+      "a": "random rubble masonry in lime mortar",
+      "b": "stone arch work",
+      "c": "brick masonry in super structure",
+      "d": "brick masonry in parapet wall"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8542",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Indicating works left in excavated trenches to facilitate the measurement of borrow pits are known as",
+    "topic": "Estimation",
+    "options": {
+      "a": "jambs",
+      "b": "posts",
+      "c": "tell-tale",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8543",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Whenever the white washing or distempering is done on corrugated iron sheets, in the estimation the plan area of the sheets is increased by",
+    "topic": "Estimation",
+    "options": {
+      "a": "2 %",
+      "b": "7 %",
+      "c": "10 %",
+      "d": "14 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8544",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "In case of grills, for the estimation of painted area, the flat area is multiplied by",
+    "topic": "Estimation",
+    "options": {
+      "a": "1/2",
+      "b": "1",
+      "c": "1.5",
+      "d": "2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8545",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "In case of steel rolling shutters, for the estimation of painted area, the plain area is multiplied by",
+    "topic": "Estimation",
+    "options": {
+      "a": "3/4",
+      "b": "1",
+      "c": "1.25",
+      "d": "1.5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8546",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Arrange the specific weights of wood(W), cement(C), steel(S) and coarse aggregate(A) in the increasing order",
+    "topic": "Estimation",
+    "options": {
+      "a": "W-C-S-A",
+      "b": "W-C-A-S",
+      "c": "A-S-C-W",
+      "d": "A-C-S-W"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8547",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "One hectare-metre represents a volume of",
+    "topic": "Estimation",
+    "options": {
+      "a": "1000 m3",
+      "b": "10000 m3",
+      "c": "100000 m3",
+      "d": "1000000 m3"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8548",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "How many kilo-liters are there in one cubic meter?",
+    "topic": "Estimation",
+    "options": {
+      "a": "0.5",
+      "b": "1",
+      "c": "10",
+      "d": "100"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8549",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "To account for the corrugations, the plain area of the semi-corrugated asbestos sheet is increased by (for white washing)",
+    "topic": "Estimation",
+    "options": {
+      "a": "1 %",
+      "b": "10 %",
+      "c": "20 %",
+      "d": "30 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8550",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The volume of sand a normal truck can carry per trip is approximately",
+    "topic": "Estimation",
+    "options": {
+      "a": "20-25 m3",
+      "b": "15-20 m3",
+      "c": "10-15 m3",
+      "d": "3-5 m3"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8551",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The total cost of construction including cost of land is termed as",
+    "topic": "Estimation",
+    "options": {
+      "a": "market value",
+      "b": "capital cost",
+      "c": "book value",
+      "d": "rateable value"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8552",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "One metric horse power is equal to",
+    "topic": "Estimation",
+    "options": {
+      "a": "1.36 kw",
+      "b": "0.736 kw",
+      "c": "1.736 kw",
+      "d": "0.75 kw"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8553",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The unit weight of R.C.C. in kg/m3 is",
+    "topic": "Estimation",
+    "options": {
+      "a": "1200",
+      "b": "1800",
+      "c": "2400",
+      "d": "3000"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8554",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Normally the ratio of span to effective depth of a beam is",
+    "topic": "Estimation",
+    "options": {
+      "a": "10 to 12",
+      "b": "4 to 8",
+      "c": "15 to 20",
+      "d": "8 to 10"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8555",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The depth of shallow manhole should not be more than",
+    "topic": "Estimation",
+    "options": {
+      "a": "2.1",
+      "b": "3.1",
+      "c": "4.1",
+      "d": "5.1"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8556",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The _______ value of the property is the amount of money whose annual interest at the highest prevailing rate of interest will be equal to the net income from the property.",
+    "topic": "Estimation",
+    "options": {
+      "a": "book",
+      "b": "salvage",
+      "c": "capitalised",
+      "d": "market"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8557",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Which of the following comes under general overhead ?",
+    "topic": "Estimation",
+    "options": {
+      "a": "amenities of workers",
+      "b": "travelling expenses",
+      "c": "interest on investment",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8558",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The unit of measurements of steel work involving flats, angles,channels etc. is",
+    "topic": "Estimation",
+    "options": {
+      "a": "meter",
+      "b": "cubic meter",
+      "c": "quintal",
+      "d": "kilogram"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8559",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The decrease in the value of the property due to structural deterioration, continuous use, wear and tear, decay and obsolescence is termed as",
+    "topic": "Estimation",
+    "options": {
+      "a": "years purchase",
+      "b": "salvage",
+      "c": "depreciation",
+      "d": "sinking"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8560",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Floor area ratio (FAR) meas:",
+    "topic": "Estimation",
+    "options": {
+      "a": "(Total floor area of all floors-Area of ground floor)/Area of plot",
+      "b": "(Total floor area of all floors-Area of ground floor)/Area of plinth",
+      "c": "(Total floor area of all floors/Area of plot",
+      "d": "(Total floor area of all floors/Area of plinth"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8561",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "The thickness of the plaster is usually",
+    "topic": "Estimation",
+    "options": {
+      "a": "40 mm",
+      "b": "6 mm",
+      "c": "12 mm",
+      "d": "25 mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8562",
+    "chapter": "General and Rate analysis-I"
+  },
+  {
+    "question": "Estimate is",
+    "topic": "Estimation",
+    "options": {
+      "a": "the actual cost of construction of a structure",
+      "b": "the probable cost arrived at before the commencement of the structure",
+      "c": "a random guess of the cost of the structure",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8563",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "Among the following, the most correct estimate is",
+    "topic": "Estimation",
+    "options": {
+      "a": "plinth area estimate",
+      "b": "cube rate estimate",
+      "c": "detailed estimate",
+      "d": "building cost index estimate"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8564",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The expenses of items that do not come under any regular head of items and the cost of unforeseen items are called",
+    "topic": "Estimation",
+    "options": {
+      "a": "lump-sump",
+      "b": "extras",
+      "c": "customary charges",
+      "d": "contingencies"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8567",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The quantity of wood for the shutters of doors and windows is calculated in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8568",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The unit of measurement of a collapsible shutter is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8571",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The unit of measurement of earthwork in filling",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8572",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The unit of measurement of the supply of brick is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "number"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8573",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "When it is not specified the number of holdfasts for a door is usually taken as",
+    "topic": "Estimation",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8574",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "In the case of roof truss made of steel, rivet, bolts and nuts usually accounts for",
+    "topic": "Estimation",
+    "options": {
+      "a": "1%",
+      "b": "5%",
+      "c": "10%",
+      "d": "15%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8575",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "Which of the following is not a common size of reinforcement bars",
+    "topic": "Estimation",
+    "options": {
+      "a": "16 mm",
+      "b": "20 mm",
+      "c": "25 mm",
+      "d": "28 mm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8576",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The number of corrugations in a galvanized corrugated sheet of standard width is usually",
+    "topic": "Estimation",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8577",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "Of the total estimated cost of a building, the cost of electrification usually accounts for",
+    "topic": "Estimation",
+    "options": {
+      "a": "1%",
+      "b": "5%",
+      "c": "8%",
+      "d": "20%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8578",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "For electric wiring such as fan, light, plug etc., the estimate is made in terms of",
+    "topic": "Estimation",
+    "options": {
+      "a": "type of point",
+      "b": "number of points",
+      "c": "total load at main in kW",
+      "d": "total length of wiring in meters"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8579",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The explosive for blasting is usually expressed in terms of",
+    "topic": "Estimation",
+    "options": {
+      "a": "explosive power",
+      "b": "the volume of earthwork that can be blasted",
+      "c": "kilograms",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8580",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The standard width of an asbestos cement corrugated sheet is",
+    "topic": "Estimation",
+    "options": {
+      "a": "0.9 m",
+      "b": "1.05 m",
+      "c": "1.2 m",
+      "d": "1.35 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8581",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The minimum side lap required for asbestos cement sheets is",
+    "topic": "Estimation",
+    "options": {
+      "a": "4 cm",
+      "b": "10 cm",
+      "c": "15 cm",
+      "d": "25 cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8582",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The end lap provided in the asbestos cement sheet is equal to",
+    "topic": "Estimation",
+    "options": {
+      "a": "4 cm",
+      "b": "10 cm",
+      "c": "15 cm",
+      "d": "25 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8583",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "In the case of unsewered areas, an additional provision for a septic tank is usually",
+    "topic": "Estimation",
+    "options": {
+      "a": "1% of the building cost",
+      "b": "3 to 4% of the building cost",
+      "c": "10% of the building cost",
+      "d": "12 to 15% of the building cost"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8584",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The measurement of steel grills is taken items of",
+    "topic": "Estimation",
+    "options": {
+      "a": "area",
+      "b": "volume",
+      "c": "weight",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8586",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The minimum size of the pipe connected to septic tank is",
+    "topic": "Estimation",
+    "options": {
+      "a": "50 mm",
+      "b": "100 mm",
+      "c": "150 mm",
+      "d": "200 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8587",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The quantity of soling is obtained in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8588",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The quantity of Jafri is measured in terms of",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8589",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The unit of cribbing is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8590",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "Formwork is measured in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8591",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The unit of payment for A.C sheet roofing is in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8592",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The weight of cement per litre is:",
+    "topic": "Estimation",
+    "options": {
+      "a": "1.25 kg",
+      "b": "1.50 kg",
+      "c": "1.75 kg",
+      "d": "2.00 kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8593",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "Using the cost of similar project to determine the cost of the current project is called:",
+    "topic": "Estimation",
+    "options": {
+      "a": "Parametric estimating",
+      "b": "Bottom up estimating",
+      "c": "Reverse analysis",
+      "d": "Analogous estimating"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8594",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "Which method of estimating costs involves breaking down a project into smaller components and estimating each part?",
+    "topic": "Estimation",
+    "options": {
+      "a": "Analogous Estimating",
+      "b": "Parametric Estimating",
+      "c": "Bottom-Up Estimating",
+      "d": "Top-Down Estimating"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8595",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "Top-down estimating is also referred to as:",
+    "topic": "Estimation",
+    "options": {
+      "a": "Analogous Estimating",
+      "b": "Parametric Estimating",
+      "c": "Rough Order of Magnitude (ROM) Estimating",
+      "d": "Detailed Estimating"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8596",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "In straight line method, the annual depreciation of the property is:",
+    "topic": "Estimation",
+    "options": {
+      "a": "(Original cost - Annual sinking fund)/Life in year",
+      "b": "Life in year/ (Original cost - Annual sinking fund)",
+      "c": "(Original cost - Scrap value)/Life in year",
+      "d": "Life in year/(Original cost - Scrap value)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8597",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "If i is the rate of interest expressed in decimal and n is the number of year, then coefficient of annual sinking fund ic is:",
+    "topic": "Estimation",
+    "options": {
+      "a": "[(1+i)^n-1]/(1+i)",
+      "b": "i/[(1+i)^n-1]",
+      "c": "i/[(1-i)^n+1]",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8598",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "If d is the diameter of MS of tor steel bars in mm, the standard weight (in kg) per meter of the bar is:",
+    "topic": "Estimation",
+    "options": {
+      "a": "0.00816 d",
+      "b": "0.00618 d"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8599",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The unit of measurement is square meter in case of:",
+    "topic": "Estimation",
+    "options": {
+      "a": "R.C.C. structure",
+      "b": "Hollow concrete block wall",
+      "c": "Cement concrete in foundation",
+      "d": "Pointing work"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8600",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "In estimation and valuation, the charges that are levied at the time of transfer or issue of the stock in addition to the book value and storage charges are termed as:",
+    "topic": "Estimation",
+    "options": {
+      "a": "supervision charge",
+      "b": "issue rate",
+      "c": "market rate",
+      "d": "storage charge"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8601",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The covered area of a building measured at the floor level is called:",
+    "topic": "Estimation",
+    "options": {
+      "a": "Carpet area",
+      "b": "Circulation area",
+      "c": "Plinth area",
+      "d": "Sundry area"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8602",
+    "chapter": "General and Rate analysis-II"
+  },
+  {
+    "question": "The plinth area of the building does not include",
+    "topic": "Estimation",
+    "options": {
+      "a": "area of walls at the floor line",
+      "b": "area of stair cover",
+      "c": "area of cantilever porch",
+      "d": "internal shaft for sanitary installation up to 2m2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8603",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The floor area includes the area of the balcony up to",
+    "topic": "Estimation",
+    "options": {
+      "a": "50%",
+      "b": "75%",
+      "c": "100%",
+      "d": "0%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8604",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The measurement is not made in m2 in case of",
+    "topic": "Estimation",
+    "options": {
+      "a": "DPC",
+      "b": "formwork",
+      "c": "concrete jafri",
+      "d": "RC chajja"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8605",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The weight of an item is measured correctly to the nearest to",
+    "topic": "Estimation",
+    "options": {
+      "a": "1 kg",
+      "b": "2 kg",
+      "c": "3 kg",
+      "d": "4 kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8606",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "Brick walls are measured in sq.m if the thickness of the wall is",
+    "topic": "Estimation",
+    "options": {
+      "a": "10 cm",
+      "b": "15 cm",
+      "c": "20 cm",
+      "d": "25 cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8607",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The weight of one bag of cement is",
+    "topic": "Estimation",
+    "options": {
+      "a": "30 kg",
+      "b": "40 kg",
+      "c": "50 kg",
+      "d": "100 kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8608",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The density of cement expressed in kg/m3 is",
+    "topic": "Estimation",
+    "options": {
+      "a": "1440",
+      "b": "1540",
+      "c": "1600",
+      "d": "1700"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8609",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The volume of one bag of cement is",
+    "topic": "Estimation",
+    "options": {
+      "a": "0.045 m3",
+      "b": "0.0165 m3",
+      "c": "0.067 m3",
+      "d": "0.033 m3"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8610",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The center-line method is generally adopted for estimating",
+    "topic": "Estimation",
+    "options": {
+      "a": "hexagonal building",
+      "b": "circular building",
+      "c": "geometrical shaped building",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8611",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "VAT added to the estimate is",
+    "topic": "Estimation",
+    "options": {
+      "a": "12%",
+      "b": "13%",
+      "c": "15%",
+      "d": "20%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8612",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement for beading provided in door and window frames, rafters, etc. is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8613",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of the ornamental pillar cap is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "no.",
+      "c": "m2",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8614",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit rate is only for",
+    "topic": "Estimation",
+    "options": {
+      "a": "finding cost",
+      "b": "preparation of bid document",
+      "c": "consultant",
+      "d": "contractor"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8615",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "Bill of quantity of any project includes",
+    "topic": "Estimation",
+    "options": {
+      "a": "work description",
+      "b": "quantities of items of works",
+      "c": "rate of items",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8616",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The estimate which is assumed to be least accurate is",
+    "topic": "Estimation",
+    "options": {
+      "a": "plinth area estimate",
+      "b": "supplementary estimate",
+      "c": "detailed estimate",
+      "d": "revised estimate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8617",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The weight of 1 m3 of steel is",
+    "topic": "Estimation",
+    "options": {
+      "a": "8000 kg",
+      "b": "7850 kg",
+      "c": "8500 kg",
+      "d": "8600 kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8618",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The rate column of the bill of quantity of any construction project is filled up by",
+    "topic": "Estimation",
+    "options": {
+      "a": "client",
+      "b": "contractor",
+      "c": "both",
+      "d": "engineer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8619",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement of the cornice is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8620",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "In the rate analysis norms of Nepal, the provision for contractor’s overhead cost is",
+    "topic": "Estimation",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "15%",
+      "d": "2.5%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8621",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "In the rate analysis norms of Nepal, the provision for contractor’s profit is",
+    "topic": "Estimation",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "15%",
+      "d": "2.5%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8622",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "In the rate analysis norms of Nepal, the provision for contractor’s overhead and profit cost is",
+    "topic": "Estimation",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "15%",
+      "d": "2.5%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8623",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "During the calculation of R.C.C., the amount of steel deducted is",
+    "topic": "Estimation",
+    "options": {
+      "a": "0% of steel",
+      "b": "1% of steel",
+      "c": "2% of steel",
+      "d": "5% of steel"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8624",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The thickness of beam/slab is taken to the nearest",
+    "topic": "Estimation",
+    "options": {
+      "a": "4 mm",
+      "b": "5 mm",
+      "c": "6 mm",
+      "d": "10 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8625",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement of skirting is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8626",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement of coping is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8627",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement of RCC is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8628",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The quantity of damp proof course (D.P.C.) is worked out in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m²",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8629",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "No deductions are made in the masonry for the openings if the area of the opening does not exceed",
+    "topic": "Estimation",
+    "options": {
+      "a": "0.5 m²",
+      "b": "0.25 m²",
+      "c": "0.15 m²",
+      "d": "0.10 m²"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8630",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The quantity of partition walls and honey-combed walls are worked out in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m²",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8631",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement of sawing timber is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8632",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The salvation value of property is generally taken as ____ % of cost of property.",
+    "topic": "Estimation",
+    "options": {
+      "a": "5-8",
+      "b": "8-10",
+      "c": "10-12",
+      "d": "15-20"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8633",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement of striking is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8634",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement of aluminum partition is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8635",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "To get the dry or unmixed volume of PCC, the increase in volume is",
+    "topic": "Estimation",
+    "options": {
+      "a": "30 %",
+      "b": "50-55 %",
+      "c": "40 %",
+      "d": "10 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8636",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "In case of laying gullies, siphons, intercepting traps, the cost includes",
+    "topic": "Estimation",
+    "options": {
+      "a": "setting and laying",
+      "b": "bed concreting",
+      "c": "connection to drains",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8637",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "In long and short wall method of estimation, the length of long wall is the centre to centre distance between the walls and",
+    "topic": "Estimation",
+    "options": {
+      "a": "breadth of the wall",
+      "b": "half breadth of wall on each side",
+      "c": "one fourth breadth of wall on each side",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8638",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The height of the sink of wash basin above floor level is kept",
+    "topic": "Estimation",
+    "options": {
+      "a": "60 cm",
+      "b": "70 cm",
+      "c": "75 cm to 80 cm",
+      "d": "80 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8639",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The minimum width of a septic tank is taken",
+    "topic": "Estimation",
+    "options": {
+      "a": "70 cm",
+      "b": "75 cm",
+      "c": "80 cm",
+      "d": "90 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8640",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The work charged establishment in Nepalese context is",
+    "topic": "Estimation",
+    "options": {
+      "a": "2 %",
+      "b": "3 %",
+      "c": "4 %",
+      "d": "5 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8641",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The unit of measurement of brick works in arches is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8642",
+    "chapter": "General and Rate analysis-III"
+  },
+  {
+    "question": "The cost of unforeseen items which does not come under the regular head of item",
+    "topic": "Estimation",
+    "options": {
+      "a": "lump-sump",
+      "b": "extra",
+      "c": "customary charge",
+      "d": "contingencies"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8643",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The useful part of a livable area of a building is also known as",
+    "topic": "Estimation",
+    "options": {
+      "a": "carpet area",
+      "b": "plinth area",
+      "c": "floor area",
+      "d": "circulation area"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8644",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "1 Hectare area is equal to",
+    "topic": "Estimation",
+    "options": {
+      "a": "1000 m²",
+      "b": "10000 m²",
+      "c": "100000 m²",
+      "d": "100 m²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8645",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "1 Ropani equals",
+    "topic": "Estimation",
+    "options": {
+      "a": "5476 sq. ft",
+      "b": "342.25 sq. ft",
+      "c": "85.562 sq. ft",
+      "d": "21.4 sq. ft"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8646",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The chairman of the material rate fixation committee is",
+    "topic": "Estimation",
+    "options": {
+      "a": "CDO",
+      "b": "LDO",
+      "c": "DTO",
+      "d": "SP"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8647",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The defect liability period in construction norms for rate analysis is",
+    "topic": "Estimation",
+    "options": {
+      "a": "4 year",
+      "b": "3 year",
+      "c": "2 year",
+      "d": "1 year"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8648",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "In the analysis of the rate what percentages of the total cost is provided towards water charges",
+    "topic": "Estimation",
+    "options": {
+      "a": "5%",
+      "b": "7.5%",
+      "c": "1.5%",
+      "d": "10%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8649",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The rate analysis norms prepared by Ministry of Physical Infrastructure and Transport, the Government of Nepal includes",
+    "topic": "Estimation",
+    "options": {
+      "a": "Labour and material",
+      "b": "Labour, material, and machine",
+      "c": "Labour, material, and supervision charges",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8650",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "Which of the following is known as job overhead",
+    "topic": "Estimation",
+    "options": {
+      "a": "workman’s compensation insurance",
+      "b": "stationary",
+      "c": "postage",
+      "d": "salary"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8651",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "Which of the following factors is a reason for the need to provide for contingency in the cost estimate of a project",
+    "topic": "Estimation",
+    "options": {
+      "a": "unreliability",
+      "b": "uncertainty",
+      "c": "underestimation",
+      "d": "inflation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8652",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "A document with a detailed description of all items of work to be done without mentioning the quantities together with their current rates is called",
+    "topic": "Estimation",
+    "options": {
+      "a": "BOQ",
+      "b": "schedule of rates",
+      "c": "analysis of rates",
+      "d": "abstract of estimate"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8653",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The life of a teak wood door or window is",
+    "topic": "Estimation",
+    "options": {
+      "a": "100 year",
+      "b": "40 year",
+      "c": "75 year",
+      "d": "20 year"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8654",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The provision cost for providing water supply and sanitary in the building is",
+    "topic": "Estimation",
+    "options": {
+      "a": "8%",
+      "b": "5%",
+      "c": "2%",
+      "d": "3%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8655",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The roll commonly used for keeping records to pay the labor engaged on daily wages is called",
+    "topic": "Estimation",
+    "options": {
+      "a": "measurement book",
+      "b": "muster roll",
+      "c": "site order book",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8656",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The steel formwork can be used up to about _______ times.",
+    "topic": "Estimation",
+    "options": {
+      "a": "50",
+      "b": "40",
+      "c": "60",
+      "d": "30"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8657",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The unit of measurement of pile driving is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "per m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8658",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The unit of measurement of lintel over the opening is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "per m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8659",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The volume of cement required for 100 cu.m of 1:2:4 concrete is",
+    "topic": "Estimation",
+    "options": {
+      "a": "16 m3",
+      "b": "32 m3",
+      "c": "25 m3",
+      "d": "21 m3"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8660",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The weight of a 10 mm diameter mild steel rod per meter length is equal to",
+    "topic": "Estimation",
+    "options": {
+      "a": "0.22 kg",
+      "b": "0.32 kg",
+      "c": "0.42 kg",
+      "d": "0.62 kg"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8662",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "If valuable property is found during the excavation by the contractor, it becomes the property of",
+    "topic": "Estimation",
+    "options": {
+      "a": "contractor",
+      "b": "labour",
+      "c": "government",
+      "d": "owner of the site"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8663",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The approximate cost of complete labour as a percentage of the total cost of buildings is",
+    "topic": "Estimation",
+    "options": {
+      "a": "10 %",
+      "b": "25 %",
+      "c": "40 %",
+      "d": "5 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8664",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The unit of measurement of the M.S. grill is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "per m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8665",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The standard width of the CGI sheet is",
+    "topic": "Estimation",
+    "options": {
+      "a": "32”",
+      "b": "40”",
+      "c": "50”",
+      "d": "60”"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8666",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The life of brickwork is generally assumed to",
+    "topic": "Estimation",
+    "options": {
+      "a": "100 year",
+      "b": "50 year",
+      "c": "75 year",
+      "d": "20 year"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8667",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The thickness of the CGI sheet is",
+    "topic": "Estimation",
+    "options": {
+      "a": "0.13-4 mm",
+      "b": "0.8-0.9 mm",
+      "c": "4-8 mm",
+      "d": "6-10 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8668",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The life of paint is assumed to",
+    "topic": "Estimation",
+    "options": {
+      "a": "5 year",
+      "b": "10 year",
+      "c": "20 year",
+      "d": "25 year"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8669",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The proportion of cement: sand: aggregate in M15 concrete is",
+    "topic": "Estimation",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:2:4",
+      "c": "1:1.5:3",
+      "d": "1:1:2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8670",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The proportion of cement: sand: aggregate in M20 concrete is",
+    "topic": "Estimation",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:2:4",
+      "c": "1:1.5:3",
+      "d": "1:1:2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8671",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The unit of measurement of turfing in embankment is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "per m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8672",
+    "chapter": "General and Rate analysis-IV"
+  },
+  {
+    "question": "The valuation of a building depends upon _________",
+    "topic": "Estimation",
+    "options": {
+      "a": "its structure and durability",
+      "b": "size, shape, and type",
+      "c": "quality of material used",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8674",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The valuation of a property is done when _________",
+    "topic": "Estimation",
+    "options": {
+      "a": "the owner of the property wants to sell it",
+      "b": "municipal tax, wealth tax, estate duty, etc, have to be fixed",
+      "c": "insurance of the property has to be done",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8675",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The value of the property or structures becomes less by its becoming out of date in style, which is known as",
+    "topic": "Estimation",
+    "options": {
+      "a": "scrap value",
+      "b": "salvation value",
+      "c": "junk value",
+      "d": "obsolescence"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8676",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The value of the property (without being dismantled ) at the end of the useful life period is known as",
+    "topic": "Estimation",
+    "options": {
+      "a": "scrap value",
+      "b": "salvation value",
+      "c": "junk value",
+      "d": "book value"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8677",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The salvage value of any structure is",
+    "topic": "Estimation",
+    "options": {
+      "a": "less than the scrap value",
+      "b": "more than the scrap value",
+      "c": "equal to the scrap value",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8680",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The depreciation of the value of building costs is generally not considered for the initial:",
+    "topic": "Estimation",
+    "options": {
+      "a": "first year of the building",
+      "b": "two years of the building",
+      "c": "five years of the building",
+      "d": "twenty years of the building"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8682",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The method of valuation of a building as used by commercial banks is based on:",
+    "topic": "Estimation",
+    "options": {
+      "a": "detailed item-wise cost",
+      "b": "cubic content cost",
+      "c": "plinth area cost",
+      "d": "real construction cost"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8683",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "Demolition means",
+    "topic": "Estimation",
+    "options": {
+      "a": "same as dismantle",
+      "b": "breaking up the structure",
+      "c": "breaking up the structure with care",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8684",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The valuation method in which the net income fetched by the property is worked out by deducting all the outgoing expenditures is known as:",
+    "topic": "Estimation",
+    "options": {
+      "a": "cost based method",
+      "b": "profit based method",
+      "c": "rental method",
+      "d": "development method"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8685",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "Specifications for the holdfasts are given in terms of",
+    "topic": "Estimation",
+    "options": {
+      "a": "number",
+      "b": "weight",
+      "c": "volume",
+      "d": "length"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8686",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "Specification deals with",
+    "topic": "Estimation",
+    "options": {
+      "a": "quantity of materials",
+      "b": "quantity of materials with procedures",
+      "c": "quality of material, measurement system, and working procedures",
+      "d": "quality of material with compact condition located in the heart of the city"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8687",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "Specification is the",
+    "topic": "Estimation",
+    "options": {
+      "a": "basis for carrying out engineering works",
+      "b": "basis for ascertaining the quality of construction works",
+      "c": "basis for execution of contracts",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8688",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "Specifications on any works are required only when the work is carried out by:",
+    "topic": "Estimation",
+    "options": {
+      "a": "user’s committee",
+      "b": "muster roll",
+      "c": "contractor",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8689",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "Which one piece of information is found through specification",
+    "topic": "Estimation",
+    "options": {
+      "a": "nature of works",
+      "b": "quality of materials",
+      "c": "types of workmanship",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8690",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "Which one piece of information is not found in specification",
+    "topic": "Estimation",
+    "options": {
+      "a": "nature of works",
+      "b": "quality of materials",
+      "c": "types of workmanship",
+      "d": "dimension"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8691",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The information that cannot be included in drawings is conveyed to the estimator through",
+    "topic": "Estimation",
+    "options": {
+      "a": "specification",
+      "b": "cover note",
+      "c": "progress chart",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8692",
+    "chapter": "Specification and Valuation"
+  },
+  {
+    "question": "The excavation exceeding 1.5 m in width and 10 sq.m in plan area with a depth not exceeding 30 cm, is termed as",
+    "topic": "Estimation",
+    "options": {
+      "a": "excavation",
+      "b": "surface dressing",
+      "c": "cutting",
+      "d": "surface excavation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8693",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In the estimation of color washing of A.C corrugated sheet, the plan area is increased by",
+    "topic": "Estimation",
+    "options": {
+      "a": "10 %",
+      "b": "15 %",
+      "c": "20 %",
+      "d": "25 %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8694",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The item of the brick structure measured in sq.m, is",
+    "topic": "Estimation",
+    "options": {
+      "a": "reinforced brick work",
+      "b": "broken glass coping",
+      "c": "brick edging",
+      "d": "brick work in arches"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8695",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The contingency during preparation of estimate of any project in Nepalese context is limited to",
+    "topic": "Estimation",
+    "options": {
+      "a": "4 %",
+      "b": "5 %",
+      "c": "10 %",
+      "d": "15 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8696",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of measurement of masonry work ( ashlar and rubble) is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8697",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of measurement of brick work in foundation is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8698",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of measurement of railing is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8699",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The supply of paint, varnish and enamel is measured in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "litre",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8700",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of measurement of 50 mm thick DPC is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8701",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of measurement of 75 mm thick PCC is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8702",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of measurement of welding and soldering of plates",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "quintal"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8703",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The shutter of main gates is measured in terms of",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8704",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The concealed faces of the frames of doors and windows are painted with",
+    "topic": "Estimation",
+    "options": {
+      "a": "varnishes",
+      "b": "two coats of primer",
+      "c": "two coats of same enamel paint which is applied for rest of frame",
+      "d": "two coat of coal tar"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8705",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The minimum number of hinges required in the door and window shutter should be",
+    "topic": "Estimation",
+    "options": {
+      "a": "1 & 2",
+      "b": "2 & 3",
+      "c": "2 & 4",
+      "d": "3 & 2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8706",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The proportion of cement:sand:aggregate in M25 concrete is",
+    "topic": "Estimation",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:2:4",
+      "c": "1:1.5:3",
+      "d": "1:1:2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8707",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "To get the dry or unmixed volume of mortar, the increase in volume is",
+    "topic": "Estimation",
+    "options": {
+      "a": "30 %",
+      "b": "50-55 %",
+      "c": "40 %",
+      "d": "10 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8708",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of measurement of binding wire in RCC work is measured in",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "quintal"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8709",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of measurement of steel truss and purlin is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "MT",
+      "c": "quintal",
+      "d": "both (b) and (c)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8710",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The unit of payment for road side brick edging to increase the pavement width is",
+    "topic": "Estimation",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8711",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For residential building, the minimum width of stair should be",
+    "topic": "Estimation",
+    "options": {
+      "a": "75 cm",
+      "b": "90 cm",
+      "c": "100 cm",
+      "d": "150 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8712",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The amount provisioned for tools and and plants for earthwork excavation item in norms for rate analysis is:",
+    "topic": "Estimation",
+    "options": {
+      "a": "3% of materials",
+      "b": "3% of labours",
+      "c": "5% of materials",
+      "d": "5% of labour"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8713",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Dismental means",
+    "topic": "Estimation",
+    "options": {
+      "a": "same as demolition",
+      "b": "breaking up the structure",
+      "c": "breaking up the structure with care",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8714",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The approximate percentage by volume of reinforcement of RCC chajja and sunshade is:",
+    "topic": "Estimation",
+    "options": {
+      "a": "0.5%",
+      "b": "1.0%",
+      "c": "1.5%",
+      "d": "2.0%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8715",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The thickness of 24 gauge galvanizediron sheet is:",
+    "topic": "Estimation",
+    "options": {
+      "a": "1/24 inch",
+      "b": "1/30 inch",
+      "c": "1/12 inch",
+      "d": "1/48 inch"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8716",
+    "chapter": "SECTION-I"
   }
 ]

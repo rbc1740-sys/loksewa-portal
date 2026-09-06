@@ -3280,5 +3280,4217 @@
     },
     "answer": "a",
     "explanation": "Numerical solution: Given volume of voids V_v = 0.2, volume of solids V_s = 0.3. Total volume V = V_v + V_s = 0.2 + 0.3 = 0.5. Void ratio e = V_v / V_s = 0.2 / 0.3 = 0.667 ≈ 0.67. Porosity n = V_v / V = 0.2 / 0.5 = 0.40. Thus, (0.67, 0.40)."
+  },
+  {
+    "question": "A soil mass in a three-phase system consists of ______",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "solids, water, and air",
+      "b": "sand, gravel, and air",
+      "c": "solids and water only",
+      "d": "solids and air only"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "921",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Three phase system is concerned with",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "partially saturated soil",
+      "b": "saturated soil",
+      "c": "dry soil",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "922",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The volume of voids ‘Vv’ is equal to the sum of ______",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the volume of air and volume of solids",
+      "b": "the volume of air and volume of water",
+      "c": "the volume of water and volume of solids",
+      "d": "the volume of water and the weight of water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "923",
+    "chapter": "General-I"
+  },
+  {
+    "question": "For a fully saturated soil sample, the volume of voids is equal to _______",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "volume of air",
+      "b": "volume of water",
+      "c": "the volume of air and volume of water",
+      "d": "the volume of water and volume of solids"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "924",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The degree of saturation of soil is generally",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "100%",
+      "b": "below zero",
+      "c": "between 0% and 100%",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "925",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Soil having more cohesion than sand is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "silt",
+      "b": "gravel",
+      "c": "clay",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "928",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The specific gravity of sandy soils/ gravel is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "<1.5",
+      "b": "<2.0",
+      "c": ">2.0",
+      "d": ">2.5"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "929",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The specific gravity of soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "same for clays and sands",
+      "b": "determined by hydrometer",
+      "c": "less than 2.0 for most soils",
+      "d": "more than 2.5 for most soils"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "930",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Soils are derived from",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rocks",
+      "c": "metamorphic rocks",
+      "d": "any one of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "931",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Chemical weathering of soil is caused due to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "oxidation",
+      "b": "hydration",
+      "c": "carbonation and leaching",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "932",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Mechanical weathering of soils is caused by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "periodical temperature changes",
+      "b": "splitting action of flowing water",
+      "c": "splitting action of ice",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "933",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The soil transported by running water is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "aeolian soil",
+      "b": "marine soil",
+      "c": "alluvial soil",
+      "d": "lacustrine soil"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "935",
+    "chapter": "General-I"
+  },
+  {
+    "question": "‘Talus' is the soil transported by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "wind",
+      "b": "water",
+      "c": "glacier",
+      "d": "gravitational force"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "937",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The soil transported by wind is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "aeolian soil",
+      "b": "marine soil",
+      "c": "alluvial soil",
+      "d": "lacustrine soil"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "938",
+    "chapter": "General-I"
+  },
+  {
+    "question": "'Drift' is the material picked up, mixed, disintegrated, transported, and deposited by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "wind",
+      "b": "gravitational force",
+      "c": "glacier",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "939",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Glacial soils are those soils which are",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "deposited in seawater",
+      "b": "deposited at the bottom of the lakes",
+      "c": "transported by running water",
+      "d": "none of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "940",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The maximum size of grains of silts is about",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.06 mm",
+      "b": "0.2 mm",
+      "c": "0.5 mm",
+      "d": "1.0 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "942",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The maximum size of the particles of clay is about",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.0002 mm",
+      "b": "0.002 mm",
+      "c": "0.02 mm",
+      "d": "0.2 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "943",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The types of soil, that contain particles of almost the same size",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "uniform soil",
+      "b": "uniformly graded soil",
+      "c": "skip-graded soil",
+      "d": "gap-graded soil"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "945",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Soil in which some of the intermediate-sized particles are missing is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "poorly graded soil",
+      "b": "non-uniform soil",
+      "c": "ill-proportioned soil",
+      "d": "skip graded soil"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "946",
+    "chapter": "General-I"
+  },
+  {
+    "question": "If the pores of the soil are completely full of air only, the soil is said to be",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "wet soil",
+      "b": "dry soil",
+      "c": "fully saturated soil",
+      "d": "partially saturated soil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "947",
+    "chapter": "General-I"
+  },
+  {
+    "question": "Theoretically, the void ratio in soils",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": ">1",
+      "b": "<1",
+      "c": ">0.5",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "949",
+    "chapter": "General-I"
+  },
+  {
+    "question": "The ratio of the volume of voids to the total volume of the given soil mass is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "porosity",
+      "b": "void ratio",
+      "c": "specific gravity",
+      "d": "water content"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "951",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The relationship between porosity n and void ratio e is given by _______________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1+n= 1/(1+e)",
+      "b": "1-n= 1/(1+e)",
+      "c": "n= 1/e",
+      "d": "n= 1/(1+e)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "952",
+    "chapter": "General-II"
+  },
+  {
+    "question": "What will be the porosity of a soil sample whose void ratio is 0.35?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "19.5%",
+      "b": "40.65%",
+      "c": "25.9%",
+      "d": "30%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "953",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The air content ratio is defined as the ratio of _________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "volume of air voids to total volume of the soil mass",
+      "b": "volume of air voids to volume of total voids",
+      "c": "volume of air voids to volume of water",
+      "d": "volume of voids to total volume of the soil mass"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "954",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The degree of saturation is defined as the ratio of ________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "volume of water to total volume of voids",
+      "b": "volume of air voids to volume of total voids",
+      "c": "volume of air voids to volume of water",
+      "d": "volume of voids to total volume of the soil mass"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "955",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Water content is defined as the ratio of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "weight of water to weight of solids",
+      "b": "weight of solids to weight of water",
+      "c": "the total amount of water in the soil",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "956",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The ratio of the volume of air voids to the total volume of the given soil mass is known",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "air content",
+      "b": "percentage of air voids",
+      "c": "percentage voids",
+      "d": "degree of saturation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "957",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The relation between dry density (pa), bulk density (p), and water content (w) is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "ρ = ρd/1+w",
+      "b": "w = ρ /1+ ρd",
+      "d": "w = ρd /1+ ρ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "958",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The functional equation for specific gravity (G) water content (w), void ratio (e), and degree of saturation (Sr) is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "w= Sr*G/e",
+      "b": "e= Sr*w/G",
+      "c": "e = w*G/Sr",
+      "d": "G = Sr*w/e"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "959",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The fundamental relation between percentage Air voids na, specific gravity (G), war content (w), and dry density (d) is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Yd= (1-na) G/(1+WG) Yw",
+      "b": "Yd= (1-na) G γw /(1+WG)",
+      "c": "Yd= (1+W /naG ) Yd",
+      "d": "Yd = (1-W) G na /1+ Yw"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "960",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The ratio of the difference between the void ratio of the soil in its loosest & its natural state and fully dense state is termed as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "degree of density",
+      "b": "density index",
+      "c": "relative density",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "961",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the volume of voids is equal to the volume of solids in soil, then the values of porosity and voids ratio respectively are",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1.0 and 0",
+      "b": "0 and 1",
+      "c": "0.5 and 1",
+      "d": "1 and 0.5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "962",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If in partially saturated soil, the degree of saturation is 40%, then the air content of the soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "40%",
+      "b": "50%",
+      "c": "60%",
+      "d": "100%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "963",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the water content of a fully saturated soil mass is 100%, then the voids will be",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "less than the specific gravity of soil",
+      "b": "equal to the specific gravity of soil",
+      "c": "greater than the specific gravity of solid independent of the specific gravity of the soil",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "964",
+    "chapter": "General-II"
+  },
+  {
+    "question": "If the sand in situ is in the densest state, then its relative density is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "equal to zero",
+      "b": "equal to one",
+      "c": "between 0 and 1",
+      "d": "greater than 1"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "965",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The degree of saturation, Sr of soil in percentage has a value",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Sr>0",
+      "b": "Sr≤0",
+      "c": "0<S<100",
+      "d": "0≤S≤100"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "966",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The percentage voids (n) has value",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0<n<100",
+      "b": "Sr≤0",
+      "c": "n >0",
+      "d": "n≤0"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "967",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Bulk density of soil is defined as the ratio of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the total mass of soil to the total volume of soil",
+      "b": "weight of water to the weight of solids",
+      "c": "unit weight of solids to the unit weight of water",
+      "d": "weight of solid grain to the volume of solids"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "968",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The specific gravity of sandy soils is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1.2",
+      "b": "1.8",
+      "c": "2.2",
+      "d": "2.7"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "969",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Which one is wrong?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "e= Vv/Vs",
+      "b": "n =Vv/V",
+      "c": "s=Vv/Vw",
+      "d": "w=Ww/Ws"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "971",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The effective size of particles of soil is given by , where D10 represents the size in mm such that 10% of the particles are finer than this size.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "D10",
+      "b": "D20",
+      "c": "D30",
+      "d": "D60"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "973",
+    "chapter": "General-II"
+  },
+  {
+    "question": "For well-graded soil the coefficient of curvature will be between",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1 and 10",
+      "b": "2 and 8",
+      "c": "3 and 7",
+      "d": "1 and 3"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "976",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The behavior of silt is normally governed by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "mass-energy",
+      "c": "mass and surface energy",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "977",
+    "chapter": "General-II"
+  },
+  {
+    "question": "Silts have the following property",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "plasticity",
+      "b": "limited plasticity",
+      "c": "limited or no plasticity",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "978",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The dry density of soil can be defined as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "weight of solids to the total volume of the soil",
+      "b": "weight of the soil to the volume of the soil",
+      "c": "unit weight of the soil to the unit weight of water",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "979",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The density of soil can be increased by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "by reducing the air voids",
+      "b": "by elastic compression of soil grains",
+      "c": "by expelling water from soil pores",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "980",
+    "chapter": "General-II"
+  },
+  {
+    "question": "The total stress in a soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "force per neutral area",
+      "b": "force per unit effective area",
+      "c": "stress taken by the particles of the soil",
+      "d": "stress taken by pure water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "981",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The effective stress in a soil is equal to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "force per natural area",
+      "b": "force per unit effective area",
+      "c": "stress shared by the particles of the soil",
+      "d": "stress shared by the pore water"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "982",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The neutral stress in a soil mass, is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "force per neutral area",
+      "b": "force per unit effective of the soil",
+      "c": "stress shared by the particles of the soil",
+      "d": "stress shared by the pore water"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "983",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The effective stress on the soil is due to the",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "external load acting on the soil",
+      "b": "weight of the soil particles",
+      "c": "weight of the water present in soil pores",
+      "d": "both (a) and (b)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "984",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The neutral stress on the soil is due to the",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "external load acting on the soil",
+      "b": "weight of the soil particles",
+      "c": "weight of the water present in soil pores",
+      "d": "both (a) and (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "985",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Which of the following statements is wrong?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "The neutral stress does not change the shearing resistance of the soil",
+      "b": "The decrease in effective stress is accompanied by an increase in the neutral stress",
+      "c": "The neutral stress does not decrease the void ratio",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "986",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Total vertical pressure at any plane is equal to __________",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "σ = σ’ + u",
+      "b": "σ’ = σ + u",
+      "c": "σ = σ’ + v",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "987",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The law that states that the velocity of flow through a porous medium is directly proportional to the hydraulic gradient is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Newton's law",
+      "b": "Stoke's law",
+      "c": "Darcy's law",
+      "d": "Reynold's law"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "988",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Which of the following equations defines Darcy’s law?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "q=kA",
+      "b": "q=k/A",
+      "c": "q=kiA",
+      "d": "q=ki/A"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "989",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Darcy’s law is valid only ________________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "laminar flow",
+      "b": "turbulent flow",
+      "c": "hydraulic flow",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "990",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The property of the soil which allows to flow water through the soil is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "capillary",
+      "b": "permeability",
+      "c": "fluidity",
+      "d": "viscosity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "991",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Permeability of soil varies,",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "inversely as the square of grain size",
+      "b": "inversely as of grain size",
+      "c": "directly as of grain size",
+      "d": "square of grain size"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "992",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Units of coefficient of permeability",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "cm/sec",
+      "b": "sec/cm",
+      "c": "cm/sec²",
+      "d": "sec²/cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "993",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Which of the following factors affects the permeability of soil?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Grain size",
+      "b": "Properties of pore fluid",
+      "c": "Void ratio of soils",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "994",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "A falling head permeability test is preferable when soil sample is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "clayey",
+      "b": "silty sand",
+      "c": "sandy",
+      "d": "sandy gravel"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "995",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The permeability of a soil deposit-in-situ can be best obtained by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "falling head permeameter",
+      "b": "constant head permeameter",
+      "c": "pumping test",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "996",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "If the coefficient of permeability of a soil is 0.08 cm/sec, that soil will be",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "clay",
+      "b": "silt",
+      "c": "sand",
+      "d": "gravel"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "997",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The quantity of water seeping through the soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "proportional to the head of water downstream",
+      "b": "proportional to the head of water upstream",
+      "c": "proportional to the total head loss",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "998",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Which of the following soils has the largest permeability?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "sand",
+      "b": "gravel",
+      "c": "silt",
+      "d": "clay"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "999",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "What is the relationship between permeability and viscosity of water?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Directly proportional",
+      "b": "Inversely proportional",
+      "c": "Both are equal",
+      "d": "None of the mentioned"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1000",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Quicksand is a",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "type of sand",
+      "b": "condition in which a cohesionless soil loses its strength because of the upward flow of water",
+      "c": "moist sand containing small particles",
+      "d": "condition that occurs in coarse sand"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1001",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The critical exit gradient of the seepage of water in a soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1-e/G-1",
+      "b": "G+1/1+e",
+      "c": "G-1/1+e",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1002",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "In a sand stratum of 1.5m thickness specific gravity of 2.67 and voids ratio of 0.67 the head required for quick condition is equal to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "3.0m",
+      "b": "2.5m",
+      "c": "2.0m",
+      "d": "1.5m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1003",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The critical exit gradient may occur when",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "flow is in upward direction",
+      "b": "seepage pressure is in upward direction",
+      "c": "effective pressure is zero",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1004",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "The critical exit gradient of the seepage of water in soils",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "increases with a decrease in the specific gravity",
+      "b": "increase with an increase in the specific gravity",
+      "c": "decreases with an increase in the liquid limit",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1005",
+    "chapter": "Soil Water Relation"
+  },
+  {
+    "question": "Compaction of soil is aimed at",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "decreasing dry density",
+      "b": "increasing porosity",
+      "c": "decreasing void ratio",
+      "d": "decreasing shear strength"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1006",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Compaction is done to remove ________ from soil.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "air",
+      "b": "water",
+      "c": "solid",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1007",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Standard Proctor test is used for determining",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "optimum moisture content (OMC)",
+      "b": "void ratio",
+      "c": "coefficient of consolidation",
+      "d": "pavement thickness"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1008",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "In Standard Proctor test, the weight of the rammer is ________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "4.5 kg",
+      "b": "18 lb",
+      "c": "2.5kg",
+      "d": "20 lb"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1009",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "In standard proctor tests, the soil is compacted into _____________ layers.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "3",
+      "d": "5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1010",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "At Optimum water content, the soil has ____________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "minimum density",
+      "b": "maximum density",
+      "c": "no weight",
+      "d": "no density"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1011",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The maximum dry density occurs at a particular water content which is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "optimum moisture content",
+      "b": "maximum moisture content",
+      "c": "low moisture content",
+      "d": "water content"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1012",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "For the same soil, increase in compaction effort",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "does not affect OMC",
+      "b": "increases OMC",
+      "c": "decreases OMC",
+      "d": "decreases dry density"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1013",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The process of compaction may involve",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "rolling",
+      "b": "tamping",
+      "c": "vibration",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1014",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Factors affecting compaction are",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "water content",
+      "b": "amount of compaction",
+      "c": "types of soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1015",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The types of compaction suitable for cohesionless soil having a large thickness is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "roller",
+      "b": "rammer",
+      "c": "vibrator",
+      "d": "vibroflotation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1016",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The most effective method for compacting sand is by using",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "pneumatic rollers",
+      "b": "sheep foot rollers",
+      "c": "steel tyred rollers",
+      "d": "vibration"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1017",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Moisture content for optimum moisture content of silt is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "15%",
+      "d": "20%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1018",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Plasticity needle/ proctor needle is used to determine",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "plastic limit of the soil used in compaction",
+      "b": "penetration resistance to control field compaction",
+      "c": "penetration value of bitumen used in road construction",
+      "d": "swelling index of black cotton soil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1019",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "In the modified proctor test the drop height of the rammer is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "30cm",
+      "b": "45cm",
+      "c": "60cm",
+      "d": "75cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1020",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The process of improving the engineering properties of the soil and thus making it more stable is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "compaction",
+      "b": "consolidation",
+      "c": "stabilization",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1021",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Mechanical stabilization is done by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "cement",
+      "b": "lime",
+      "c": "bitumen",
+      "d": "proper grading"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1022",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Cement stabilizer is suitable for",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "RCC",
+      "b": "masonry",
+      "c": "soil stabilization",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1023",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The admixture used in soil stabilization is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "cement",
+      "b": "lime",
+      "c": "bitumen",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1024",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Clays containing organic matter are made suitable for stabilization, by first adding a small percentage of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "hydrated lime",
+      "b": "cement",
+      "c": "calcium chloride",
+      "d": "resins"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1025",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "If the shearing stress is zero on two planes, then the angle between the two planes is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "45°",
+      "b": "90°",
+      "c": "135°",
+      "d": "180°"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1026",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The result from long-term static load and resulting expulsion of water is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "compaction",
+      "b": "inverse swelling",
+      "c": "consolidation",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1027",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The types of compaction suitable in congested areas for cohesive as well as cohesionless soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "roller",
+      "b": "rammer",
+      "c": "vibrator",
+      "d": "vibroflotation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1028",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "Compression of soils occurs rapidly if voids are occupied by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "air",
+      "b": "water",
+      "c": "partly air and partly water",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1029",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The ratio of dry density obtained in the field to the proctor’s maximum dry density is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "compaction energy",
+      "b": "compactive effort",
+      "c": "relative compaction",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1030",
+    "chapter": "Compaction of Soil"
+  },
+  {
+    "question": "The strength of a soil is generally identified by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "direct tensile stress",
+      "b": "net stress",
+      "c": "ultimate shear stress",
+      "d": "direct ultimate compressive stress"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1031",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The shear strength of a soil",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "is directly proportional to the depth of the soil",
+      "b": "is directly proportional to the angle of repose of soil",
+      "c": "increases with normal stress",
+      "d": "decrease with an increase in the normal stress"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1032",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The shear strength of a soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "directly proportional to the cohesion of soil",
+      "b": "directly proportional to the angle of friction of the soil",
+      "c": "directly proportional to the normal stress",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1033",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The shear strength of a soil is unique function of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "effective stress only",
+      "b": "total stress only",
+      "c": "both total and effective stress",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1034",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The shear strength of a soil is proportional",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "directly to the angle of internal friction",
+      "b": "directly to the tangent of the angle of internal friction",
+      "c": "inversely to the angle of internal friction",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1035",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The circle obtained from a two-dimensional stress system is known as ________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Principal stress circle",
+      "b": "Mohr circle",
+      "c": "Shearing stress circle",
+      "d": "None of the mentioned"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1036",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The maximum shear stress τmax, for a soil mass is equal to ___________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "(σ1 – σ3 )/2",
+      "b": "(σ1 + σ3 )/2",
+      "c": "(σ1×σ3 )/2",
+      "d": "(σ3 – σ1 )/2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1037",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The normal stresses acting on planes of the soil are known as _____________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Major principal stresses",
+      "b": "Principal stresses",
+      "c": "Minor principal stresses",
+      "d": "Principal planes"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1038",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "For the determination of shear strength in the laboratory, the test is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "unconfined shear test",
+      "b": "triaxial shear test",
+      "c": "direct shear test",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1039",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "Which of the following is responsible for the shear resistance in soils?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "intergranular friction",
+      "b": "cohesion and adhesion between the soil particles",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1040",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "In undrained plastic clay the shear strength is due to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "internal friction",
+      "b": "cohesion",
+      "c": "inter-granular friction",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1041",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The shearing strength of cohesionless soil depends upon",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "dry density",
+      "b": "void ratio",
+      "c": "loading rate",
+      "d": "normal stress"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1042",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "Undrained shear strength C, of saturated clay tested in unconfined compression is given in terms of unconfined compressive strength qu as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Cu=1/2 qu",
+      "b": "Cu= qu",
+      "c": "Cu= 2qu",
+      "d": "Cu=c/3 qu"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1043",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "For testing a saturated clay for shear strength, the test recommended, is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "direct shear test",
+      "b": "triaxial compression test",
+      "c": "unconfined compression test",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1044",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "On wetting, cohesive soils",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "loose permeability",
+      "b": "gain shear strength",
+      "c": "loose elasticity",
+      "d": "decrease their shear strength"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1045",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "Cohesive soils are generally / normally",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "plastic and compressible",
+      "b": "elastic and compressible",
+      "c": "plastic but incompressible",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1046",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The length/diameter ratio of cylindrical specimens used in triaxial test, is generally",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1",
+      "b": "1.5",
+      "c": "2",
+      "d": "2.5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1047",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The triaxial apparatus is usually used for",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "unconsolidated-undrained test",
+      "b": "consolidated-undrained test",
+      "c": "drained test",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1048",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The vane shear test is used for the in-situ determination of the undrained strength of the intact fully saturated",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "sands",
+      "b": "clays/cohesive",
+      "c": "gravels",
+      "d": "highly organic soils"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1049",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The value N∅ = tan^2 (45+2 ∅/2 ) is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "bearing capacity factor",
+      "b": "flow value",
+      "c": "friction factor",
+      "d": "stability number"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1050",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The failure plane",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "carries maximum shear stress",
+      "b": "does not carry maximum shear stress",
+      "c": "carries minimum shear stress",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1051",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "Which one of the following parameters can be used to estimate the angle of friction of a sandy soil?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "particle size",
+      "b": "roughness of particle",
+      "c": "density index",
+      "d": "particle size distribution"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1052",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The angle of internal friction depends upon",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "particle shape and roughness",
+      "b": "normal direct pressure",
+      "c": "the amount of interlocking",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1053",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The angle of internal friction of round-grained loose sand is about",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "5° to 25°",
+      "b": "25° to 30°",
+      "c": "30° to 35°",
+      "d": "32° to 37°"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1054",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The angle of internal friction of round-grained dense sand is about",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "5° to 25°",
+      "b": "25° to 30°",
+      "c": "30° to 35°",
+      "d": "32° to 37°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1055",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The frictional resistance offered by sand is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "sliding friction",
+      "b": "rolling friction",
+      "c": "resistance due to interlocking",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1056",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The shear strength of cohesive soil is equal to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "C = q/2",
+      "b": "C = 0.5*q*tan∅",
+      "c": "C = q",
+      "d": "C = q*tan∅"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1057",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The principle stress is maximum",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "minor principal plane",
+      "b": "intermediate principal plane",
+      "c": "major principal plane",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1058",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "Angle of Internal friction is minimum for",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "angular-grained loose soil",
+      "b": "angular grained dense soil",
+      "c": "round drained loose soil",
+      "d": "clay"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1059",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The angle between the maximum shear stress plane and the horizontal plane is equal to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "15°",
+      "b": "30°",
+      "c": "45°",
+      "d": "50°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1060",
+    "chapter": "Shear Strengths of Soil"
+  },
+  {
+    "question": "The active earth pressure of a soil can be defined as lateral pressure exerted by the soil when",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the retaining wall tends to move away from the backfill",
+      "b": "the wall moves into the soil",
+      "c": "the wall moves relative to the backfill",
+      "d": "any of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1061",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Passive earth pressure is defined as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "retaining wall tends to move away from the backfill",
+      "b": "retaining wall tends to move towards the backfill",
+      "c": "retaining wall is in a stationary position",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1062",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Earth pressure at rest can be defined as lateral pressure exerted by the soil when the retaining wall tends to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "move away from the backfill",
+      "b": "no movement relative to the backfill",
+      "c": "move into the soil",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1063",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Active earth pressure is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "always less than passive earth pressure",
+      "b": "always greater than passive earth pressure",
+      "c": "sometimes greater than passive earth pressure",
+      "d": "equal to passive earth pressure"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1064",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Total lateral earth pressure is proportional to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "depth of soil",
+      "b": "square of depth of soil",
+      "c": "angle of internal friction of soil",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1065",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The material retained or supported by the retaining structure is called __________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Surcharge",
+      "b": "Support wall",
+      "c": "Back fill",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1066",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The passive earth pressure is proportional to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "tan(45°-∅/2)",
+      "b": "tan2(45°-∅/2)",
+      "c": "tan2(45°+∅/2)",
+      "d": "tan(45°+∅/2)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1067",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The active earth pressure is proportional to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "tan(45°-∅/2)",
+      "b": "tan2(45°-∅/2)",
+      "c": "tan2(45°+∅/2)",
+      "d": "tan(45°+∅/2)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1068",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The earth's pressure at rest is proportional to (where Poisson's ratio)",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "tan(45°-∅/2)",
+      "b": "tan2(45°-∅/2)",
+      "c": "tan2(45°+∅/2)",
+      "d": "μ/1- μ"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1069",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The coefficient of the active earth pressure Ka is equal",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1-tan Ø/1+tan Ø",
+      "b": "1+tan Ø/1-tan Ø",
+      "c": "1 - sin Ø /1+sin Ø",
+      "d": "1 + sin Ø /1-sin Ø"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1070",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The coefficient of earth pressure at rest is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "less than active earth pressure but greater than passive earth pressure",
+      "b": "greater than active earth pressure but lesser than passive earth pressure",
+      "c": "greater than both active and passive earth pressure",
+      "d": "lesser than both active and passive earth pressure"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1071",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The lateral earth pressure of the soil moves toward the retaining wall indicates",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "active earth pressure",
+      "b": "passive earth pressure",
+      "c": "constant",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1072",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The assumption of Rankine's theory of earth pressure is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the soil is semi-finite, homogeneous, dry, and cohesionless",
+      "b": "ground surface is a plane which may be inclined or horizontal",
+      "c": "the back of the wall is vertical and smooth",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1073",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The active earth pressure of a soil is given by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Hc =4c/ Y*tan (45+ Ø)",
+      "b": "Hc = γ h² / 2*tan² (45- Ø)",
+      "c": "Hc = γ h^2/ 2*tan² (45+ Ø)",
+      "d": "Hc = μY/2(1-μ)*h²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1074",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The earth's pressure at rest is given by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Hc =4c/Y*tan (45+ Ø)",
+      "b": "Hc = γ h² / 2*tan² (45- Ø)",
+      "c": "Hc = γ h² / 2*tan² (45+ Ø)",
+      "d": "Hc = μ/2(1-μ)*h²"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1075",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The passive earth pressure is proportional to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Hc =4c/ σ *tan (45+ Ø)",
+      "b": "Hc =4c/ σ *tan² (45+ Ø)",
+      "c": "Hc = γ h^2/ 2*tan² (45+ Ø)",
+      "d": "Hc = γ h² / 2* μ/1- μ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1076",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The critical vertical depth ‘H’ of free-standing soil can be up to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Hc =4c/ σ *tan (45+ Ø)",
+      "b": "Hc = γ h² / 2*tan² (45- Ø)",
+      "c": "Hc = γ h² / 2*tan² (45+ Ø)",
+      "d": "Hc = μY/2(1-μ)*h²"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1077",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Which sequence is correct regarding different coefficient of friction in increasing order",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Kp-Ka-Ko",
+      "b": "Ka-Ko-Kp",
+      "c": "Ko-Kp-Ka",
+      "d": "Kp-Ko-Ka"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1078",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "If the coefficient of passive earth pressure k, is 1/3 then the coefficient of active earth pressure is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1/3",
+      "b": "1",
+      "c": "3",
+      "d": "3/2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1079",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The base width of the retaining wall is B. What is the maximum permissible eccentricity if the wall should not fail in tension?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "B/3",
+      "b": "2B/3",
+      "c": "B/6",
+      "d": "B/2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1080",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "In the case of a backfill with a sloping surface, the total active pressure on the wall of height H acts at",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "H/3 above the base parallel to the base",
+      "b": "H/3 above the base parallel to the sloping surface",
+      "c": "H/2 above the base parallel to the base",
+      "d": "H/2 above the base parallel to the sloping surface"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1081",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Compared to dry backfill submerged backfill will exert",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "same earth pressure",
+      "b": "less earth pressure",
+      "c": "more earth pressure",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1082",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The position of the backfill lies above a horizontal plane at the elevation of the top of the structure is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "surcharge",
+      "b": "surcharge angle",
+      "c": "extra load",
+      "d": "failure load"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1083",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The lateral pressure exerted by a uniform surcharge of intensity q per unit area is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "q times the lateral pressure within the surface",
+      "b": "q/ , where is the density of the backfill",
+      "c": "1/q times the lateral pressure within the surface",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1084",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Earth pressure acting at a height of ______ in case of inclined surcharge.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "h/2 from the base of the wall",
+      "b": "h/3 from the base of the wall",
+      "c": "h/4 from the base of the wall",
+      "d": "h/5 from the base of the wall"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1085",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "In Rankine's earth pressure theory, the following assumption is made",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the wall face is rough and vertical",
+      "b": "backfill is cohesive soil",
+      "c": "the wall face is smooth and vertical",
+      "d": "elastic equilibrium is satisfied"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1086",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The assumption of Rankine's theory of earth pressure is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the soil is semi-finite, homogeneous, dry, and cohesionless",
+      "b": "ground surface is a plane that may be inclined or horizontal",
+      "c": "the back of the wall is vertical and smooth",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1087",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Distribution of earth pressure with depth is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "parabolic",
+      "b": "hydrostatic",
+      "c": "non-linear but increasing",
+      "d": "volume of controlled"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1088",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The angle of repose of soil is defined as the angle that an inclined plane makes with the horizontal when a body placed on it just sliding is ______________.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "maximum",
+      "b": "minimum",
+      "c": "average",
+      "d": "vertical"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1089",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "The coefficient of earth pressure for loose sand having an angle of internal friction of 30° is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.5",
+      "b": "1/3",
+      "c": "3",
+      "d": "1"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1090",
+    "chapter": "Earth Pressures"
+  },
+  {
+    "question": "Allowable bearing pressure for a foundation depends on",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "allowable settlement only",
+      "b": "ultimate bearing capacity of soil only",
+      "c": "both allowable settlement & ultimate bearing capacity of soil",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1091",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The safe B.C. of a soil can be defined as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "ultimate load on the bearing area",
+      "b": "load intensity beyond which the soil should not be loaded",
+      "c": "load at which the soil fails",
+      "d": "load beyond which the soil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1092",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The ultimate B.C. of a soil can be defined as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "ultimate load on the bearing area",
+      "b": "safe load on the bearing area",
+      "c": "load at which the soil fails",
+      "d": "load beyond which the soil should not be loaded"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1093",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The soil having minimum/least bearing capacity is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "moist clay",
+      "b": "sandy soil",
+      "c": "rock soil",
+      "d": "silt clay"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1094",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The ultimate bearing capacity of soil for a general shear failure is given by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "q=cNc + Y Df Nq +0.5 B.Ny",
+      "b": "q=1.2c Nc + Y Df Nq+0.4 Y B.Ny",
+      "c": "q=0.67cN’c+ Y Df Nq +0.5YB.Ny",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1095",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The ultimate B.C. of the soil for local shear failure is given by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "q=cNc + Y Df Nq +0.5 Y B.Ny",
+      "b": "q=1.2c Nc + Y DfNq+0.4 YB.Ny",
+      "c": "q=0.67cN’c+ Y Df Nq +0.5 B.N’y",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1096",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The ultimate B.C. of the soil for square footing is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "q=cNc + Y Df Nq +0.5 Y B.Ny",
+      "b": "q=1.2c Nc + Y DfNq+0.4 Y B.Ny",
+      "c": "q=0.67cN’c+ YDfNq +0.5YB.N’y",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1097",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The bearing capacity factors Nc, Nq, and Ny are functions of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "cohesion only",
+      "b": "angle of internal friction",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1098",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The bearing capacity of soil is determined by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "plate load test",
+      "b": "standard cone test",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1099",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "Terzaghi's analysis assumes",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "soil is homogeneous and isotropic",
+      "b": "elastic zones have straight boundaries inclined at p = Ø , to the horizontal and plastic zones fully developed.",
+      "c": "failure zones do not extend above the horizontal plane through the base of the footing",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1100",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "According to Terzaghi's theory, the ultimate B.C, at the ground surface for a pure soil and for a smooth base of a strip footing is, Where ‘C’ is cohesion",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "2.57c",
+      "b": "5.14c",
+      "c": "10.28c",
+      "d": "12.0c"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1101",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The ultimate bearing capacity of frictionless soils is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "4.5c to 6c",
+      "b": "2c to 4c",
+      "c": "c to 3c",
+      "d": "2c to 5c"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1102",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The rise of the water table below the foundation influences the bearing capacity of soil mainly by reducing",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "effective angle of shearing resistance",
+      "b": "cohesion and effective unit weight of soil",
+      "c": "effective unit weight of soil and effective angle of shearing resistance",
+      "d": "cohesion and effective angle of shearing resistance"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1103",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The rise of the water table in cohesionless soils up to ground surface reduces the net ultimate bearing capacity approximately by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "90%",
+      "b": "80%",
+      "c": "50%",
+      "d": "40%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1104",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The reduction factor to the bearing capacity of soil due to the water table at a depth equal to the width of footing below the footing is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.25",
+      "b": "0.50",
+      "c": "0.75",
+      "d": "1.00"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1105",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The reduction factor to the bearing capacity of soil due to the water table at a depth equal to half of the width of footing below the footing is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.25",
+      "b": "0.50",
+      "c": "0.75",
+      "d": "1.00"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1106",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The reduction factor to the bearing capacity of soil due to the water table just below the footing is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.25",
+      "b": "0.50",
+      "c": "0.75",
+      "d": "1.00"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1107",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "Raising of the water table in shallow foundations, near foundation level",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "reduces the bearing capacity",
+      "b": "increases bearing capacity",
+      "c": "does not affect bearing capacity",
+      "d": "increases and then decreases bearing capacity"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1108",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The maximum pressure which a soil can carry without shear failure is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "safe bearing capacity",
+      "b": "net bearing capacity",
+      "c": "net ultimate bearing capacity",
+      "d": "ultimate bearing capacity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1109",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The minimum net pressure intensity causing shear failure of soil, is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "safe bearing capacity",
+      "b": "net bearing capacity",
+      "c": "net ultimate bearing capacity",
+      "d": "ultimate bearing capacity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1110",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "Negative skin friction is to be considered when",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "fill settles relative to the pile",
+      "b": "pile settles relative to fill",
+      "c": "fill and pile settle together",
+      "d": "water table rises"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1111",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "Negative skin friction",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "increases the load-carrying capacity of the pile",
+      "b": "decreases the load-carrying capacity of the pile",
+      "c": "neither increase nor decrease the load capacity of the pile",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1112",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "Contribution due to skin friction is maximum in",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "sand",
+      "b": "soft clay",
+      "c": "piles resting on rock",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1113",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The load-carrying capacity of pile _____ due to skin friction.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1114",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "Well foundation in sandy soils derive their bearing capacity from",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "skin friction",
+      "b": "point bearing",
+      "c": "uplift",
+      "d": "skin friction & point bearing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1115",
+    "chapter": "Foundation Engineering"
+  },
+  {
+    "question": "The bearing capacity of soil depends upon",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the shape and size of the particles",
+      "b": "the cohesive properties of particles",
+      "c": "the internal frictional resistance of particles",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3488",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The minimum size of grains of silts is about",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.002 mm",
+      "b": "0.0002 mm",
+      "c": "0.02 mm",
+      "d": "0.2 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3489",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The thickness of adsorbed layers of soil is in",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "angstroms",
+      "b": "cm",
+      "c": "mm",
+      "d": "micron"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3490",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The finest size of soil particles is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "clay",
+      "b": "cobble",
+      "c": "sand",
+      "d": "silt"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3491",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "To what category do the gravel and sand belong?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Cohesive soil",
+      "b": "Cohesionless soil",
+      "c": "Marine soil",
+      "d": "Expansive soil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3492",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Soils are",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "organic materials",
+      "b": "inorganic materials",
+      "c": "mineral materials",
+      "d": "organic and inorganic materials"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3493",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The field density of a natural soil deposit cannot be determined by _______ method.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "sand replacement",
+      "b": "oven-dry",
+      "c": "core cutter",
+      "d": "water displacement"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3494",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In hydrometer analysis, the principle used is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Newton's law",
+      "b": "Darcy's law",
+      "c": "Stoke's law",
+      "d": "Rehbann's law"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3495",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The bulk density of soil can be defined as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the ratio of the weight of the solids to the volume of solids",
+      "b": "the ratio of the unit weight of soil to that of water",
+      "c": "the unit weight of soil",
+      "d": "the unit weight of soil under saturated condition"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3496",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The saturated density of soil can be expressed as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "weight of soil in water to its volume",
+      "b": "weight of soil minus weight of equivalent water to volume of soil",
+      "c": "weight of soil less weight of water in voids to the volume of solids plus voids in the soil",
+      "d": "unit weight of saturated soil"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3497",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The property of soil which if of great importance in finding the settlement of structures, is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "consolidation",
+      "b": "shear strength",
+      "c": "permeability",
+      "d": "compressibility"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3498",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Hygroscopic water can be removed by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "gravity flow",
+      "b": "free flow",
+      "c": "heating",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3499",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "What is the percentage range of porosity for loose sand?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "5 to 15%",
+      "b": "15 to 30%",
+      "c": "30 to 40%",
+      "d": "40 to 50%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3500",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Hydrometer readings are corrected for",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "temperature correction",
+      "b": "meniscus correction",
+      "c": "for the (a) and (b) of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3501",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A foundation may be classified as shallow if",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "depth is less than 6 m",
+      "b": "depth is less than its width",
+      "c": "depth is less than 1 m",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3503",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The maximum water content of a saturated soil at which a reduction in its moisture does not cause a decrease in the volume of the soil, is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "liquid limit",
+      "b": "plastic limit",
+      "c": "elastic limit",
+      "d": "shrinkage limit"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3504",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "When water content in a soil is reduced beyond the shrinkage limit, the soil will be in a",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "solid state",
+      "b": "liquid state",
+      "c": "semi-solid state",
+      "d": "plastic state"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3505",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The water content in soil at which just shear strength develops is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "liquid limit",
+      "b": "plastic limit",
+      "c": "elastic limit",
+      "d": "shrinkage limit"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3506",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Terzaghi's theory of one-dimensional consolidation assumes",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "soil is homogeneous and fully saturated",
+      "b": "water and soil particles are incompressible",
+      "c": "deformation of the soil is entirely due to volume change",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3507",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Rock flour is the name of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "clays",
+      "b": "organic clays",
+      "c": "organic silts",
+      "d": "inorganic silts"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3508",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The difference in the range of water between the liquid limit and the plastic limit is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "fluidity index",
+      "b": "relative consistency",
+      "c": "shrinkage index",
+      "d": "plasticity index"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3509",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The bearing capacity of soil",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "depends on the size of the footing",
+      "b": "load intensity",
+      "c": "depends on the load",
+      "d": "rate of loading"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3510",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The coefficient of curvature is defined as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "D60/D10",
+      "b": "D10/D60",
+      "c": "D302/D10*D60",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3511",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The moisture content of saturated soil equals",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0%",
+      "b": "100%",
+      "c": "50 %",
+      "d": "90%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3512",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Raft foundation is a type of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "deep foundation",
+      "b": "shallow foundation",
+      "c": "none of the above",
+      "d": "foundation under water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3513",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A foundation may be classified as deep if",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "depth to width ratio is more than 2",
+      "b": "depth to width ratio is less than 2",
+      "c": "length to width ratio is more than 2",
+      "d": "length to width ratio is between 1 and 2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3514",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The minimum water content at which the soil just begins to crumble when rolled into threads 3 mm in diameter, is known",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "liquid limit",
+      "b": "plastic limit",
+      "c": "shrinkage limit",
+      "d": "permeability limit"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3515",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A decrease in water content results in a reduction of the volume of soil in",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "liquid state",
+      "b": "plastic state",
+      "c": "semi-solid state",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3516",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The uniformity coefficient of soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "D₆₀/D₁₀",
+      "b": "D₁₀/D₆₀",
+      "c": "D₃₀/D₁₀",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3517",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which is the correct definition of soil from a geotechnical engineer's point of view",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "soil is the top surface of the earth where plants can grow",
+      "b": "soil is the unconsolidated material consisting of particles produced by the disintegration of rock which may or may not contain organic matter",
+      "c": "soil is the relatively thin surface zone that can contain moisture",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3518",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The change of moisture content of soils changes",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the angle of repose",
+      "b": "cohesive strength",
+      "c": "the amount of compaction required",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3519",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A dam is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "a one-dimensional structure",
+      "b": "a two-dimensional structure",
+      "c": "a three-dimensional structure",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3520",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Bleeder wells are required to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "increase discharge from the main well",
+      "b": "store drainage water",
+      "c": "collect seepage water in dams",
+      "d": "relieve pressure in impervious layers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3521",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The difference between total and pore water pressure is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "major principal stress",
+      "b": "minor principal stress",
+      "c": "effective stress",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3522",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The angle of internal friction of clay is about",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "5-20°",
+      "b": "24-30°",
+      "c": "27-33°",
+      "d": "30-35°"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3523",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The angle of internal friction of silty sand",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "5-20°",
+      "b": "24-30°",
+      "c": "27-33°",
+      "d": "30-35°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3524",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The tendency of dense sand to expand on the application of shearing load is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "thixotropy",
+      "b": "dilatancy",
+      "c": "remoulding less",
+      "d": "degree of sensitivity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3525",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The difference between the undisturbed shear strength and remoulded shear strength is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "thixotropy",
+      "b": "dilatancy",
+      "c": "remoulding less",
+      "d": "degree of sensitivity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3526",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Westerguard's theory is more appropriate for",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "layered soils",
+      "b": "homogeneous deposits",
+      "c": "anisotropic soils",
+      "d": "normally consolidated homogeneous soils"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3527",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Absorbed water in the soil",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "same as free water",
+      "b": "the water chemically combined in the crystal structure of the soil material",
+      "c": "same as distilled water",
+      "d": "water absorbed from the atmosphere by forces of attraction"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3528",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "An isobar is a line that connects the points of equal stress",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "below GL",
+      "b": "above GL",
+      "c": "at GL",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3529",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The shape & structure of isobar is like a/an",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "onion",
+      "b": "potato",
+      "c": "pumpkin",
+      "d": "turnip"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3530",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which of the following soils will have the least value of safe load?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "sandstone",
+      "b": "limestone",
+      "c": "moorum",
+      "d": "soft chalk"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3531",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "California Bearing Ratio test is used",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "to find the bearing capacity of the soil",
+      "b": "to find the thickness of a flexible pavement",
+      "c": "to find the ratio of ultimate bearing capacity to net bearing capacity",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3532",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Wedge shape failure is assumed by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Coulomb",
+      "b": "Rankine",
+      "c": "Poncelet",
+      "d": "Terzaghi"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3533",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If the resultant force at the face of the retaining wall is much more than frictional resistances at the bottom, the failure will be due to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "crushing",
+      "b": "sliding",
+      "c": "upthrust",
+      "d": "overturning"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3534",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In the case of retaining walls, the surcharge is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "excess moisture in the wall",
+      "b": "extra load on the wall",
+      "c": "additional load carrying capacity of the wall",
+      "d": "extra load on the horizontal backfill"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3535",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In cohesive soils, the depth of vertical cut up to which no lateral support is required to given by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "2c/γ",
+      "b": "4c/γ",
+      "c": "2γ/c",
+      "d": "4γ/ c"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3536",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "One of the graphical methods for earth pressure determination is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Newmark's influence chart method",
+      "b": "Mohr’s diagram method",
+      "c": "Culman's method",
+      "d": "Taylor's method"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3537",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The unit weight of soil at zero air voids depends upon",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "unit weight of water",
+      "b": "water content",
+      "c": "specific gravity",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3538",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Sheet pile walls are used as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "retaining walls for waterfront construction",
+      "b": "load-bearing pile foundations",
+      "c": "seepage-preventing devices",
+      "d": "uplift-preventing devices"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3539",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Sheet piles are held in position by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the self-weight of the sheet pile",
+      "b": "tie rods that are anchored",
+      "c": "embedding the bottom of the sheet pile",
+      "d": "adjusting the water level on one side"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3540",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "As sheet pile walls are embedded in soil, for the design of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "active earth pressure only",
+      "b": "earth pressure at rest only",
+      "c": "passive earth pressure only",
+      "d": "active and passive earth pressure both considered"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3541",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The wall constructed to resist horizontal pressure is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "main wall",
+      "b": "partition wall",
+      "c": "retaining wall",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3542",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Cohesion is defined as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "attraction of molecules of the same material",
+      "b": "attraction of molecules of different materials",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3543",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The minimum number of piles needed to support a wall is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3544",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The minimum number of piles needed to support a column is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3545",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A wall constructed to retain the earth from slippage on the hillside of the roadway is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "breast wall",
+      "b": "retaining wall",
+      "c": "parapet wall",
+      "d": "wing wall"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3546",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A vertical wall is subjected to a liquid pressure on its one side, the total pressure on the wall acts at a distance of ________ from the liquid surface",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "H/3",
+      "b": "H/2",
+      "c": "2H/3",
+      "d": "3H/4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3547",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The most suitable method for increasing the bearing capacity of black cotton soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "watering the surface of the soil",
+      "b": "compacting the soil",
+      "c": "replacement of black cotton soil with sand",
+      "d": "increasing the depth"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3548",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Black cotton soil is not suitable for foundation because of its",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "black color",
+      "b": "low bearing capacity",
+      "c": "cohesive particles",
+      "d": "swelling and shrinkage nature"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3549",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The bearing capacity of weak soil may be improved by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "increasing the depth of the foundation",
+      "b": "compacting the soil by ramming",
+      "c": "removing the poor soil and filling the gap with sand, gravel, etc.",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3550",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Cohesive soils are",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "good for embankment as they have high shear strength",
+      "b": "poor for backfills because of large lateral pressure",
+      "c": "good for backfills because of poor shear strength",
+      "d": "low lateral pressure"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3551",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The internal molecular attraction of a soil, is known as cohesion",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "decreases as the moisture content increases",
+      "b": "increases as the moisture content decreases",
+      "c": "is more in well compacted clays",
+      "d": "depends upon the external applied load"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3552",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The well foundation are normally used under",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "industrial buildings",
+      "b": "structures on river beds",
+      "c": "tall buildings",
+      "d": "off shore wells"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3553",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "A foundation may be classified as spread foundation if",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "depth to width ratio is than 2",
+      "b": "depth to width ratio is less than 2",
+      "c": "length to width ratio is more than 2",
+      "d": "length to width ratio is between 1 and 2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3554",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "A foundation may be classified as continuous foundation if",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "depth to width ratio is more than two",
+      "b": "length to width ratio is more than two",
+      "c": "depth to width ratio is equal to two",
+      "d": "length to width ratio is less than two"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3555",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "A foundation may be classified as strip foundation if",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "length is very large",
+      "b": "length is very large compared with uniform width",
+      "c": "load is applied at long intervals",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3556",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Combined footing is generally used when",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "no. of columns are more than two and are spaced far apart",
+      "b": "no. of columns are two and are spaced close to each other",
+      "c": "no. of columns are two and are spaced far apart",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3557",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Pile foundations are normally used",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "in soft clayey soil",
+      "b": "in loose sandy soil .",
+      "c": "in heavy loaded situations",
+      "d": "when required bearing area is not available"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3558",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Which of the following gives the correct decreasing order of the densities of a soil sample?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "saturated, submerged,wet, dry",
+      "b": "saturated, wet, submerged, dry",
+      "c": "saturated, wet, dry, submerged,",
+      "d": "wet, saturated, submerged, dry"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3559",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Negative skin friction _______ load carrying capacity of the pile.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3560",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The permissible settlement in case of isolated foundation on clayey soils is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "25 mm",
+      "b": "45 mm",
+      "c": "65 mm",
+      "d": "85 mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3561",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The maximum differential settlement in case of foundation on clayey soils",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "10 mm",
+      "b": "20 mm",
+      "c": "30 mm",
+      "d": "40 mm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3562",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The angle of internal friction for cohesive soils is equal to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0°",
+      "b": "30°",
+      "c": "45°",
+      "d": "15°"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3563",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Base failure refer to failure surface which",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "is above the toe of the slope",
+      "b": "includes toe of the slope",
+      "c": "is below the toe of the slope",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3564",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Toe failure is most likely in the case of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "steep slopes",
+      "b": "gentle slopes",
+      "c": "all inclinations",
+      "d": "very steep slopes"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3565",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The structure which derives its stability due to self-weight is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "sheet pile wall",
+      "b": "bulk head",
+      "c": "cantilever retaining wall",
+      "d": "masonry retaining wall"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3566",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Stability of slopes can be increased by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "adopting gentle slopes",
+      "b": "adopting great heights",
+      "c": "storing water on one side",
+      "d": "constructing on clay deposits"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3567",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The height in the stability of soil is the",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "maximum height at which stability of slope is possible",
+      "b": "minimum height at which stability of slope is possible",
+      "c": "maximum vertical height of the soil in an open excavation",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3568",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Factor of safety of embankments shall be",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "at least 1.0",
+      "b": "at least 1.5",
+      "c": "at least 2.0",
+      "d": "at least 2.5"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3569",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Angle of internal friction is minimum for",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "angular grained loose soil",
+      "b": "angular grained dense soil",
+      "c": "round grained loose soil",
+      "d": "clay"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3570",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Uniformity coefficient of a soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "always less than 1",
+      "b": "always equal than 1",
+      "c": "equal to or less than 1",
+      "d": "equal or greater than 1"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3571",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Cohesive soils",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "bear high shear strength",
+      "b": "are more plastic",
+      "c": "are good for backfill",
+      "d": "are strong against landslide"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3572",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Peat comprises",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "clay and sand",
+      "b": "decayed vegetable matter",
+      "c": "inorganic silt and silty clay",
+      "d": "synthetic chemicals"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3573",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Honeycomb structure is found in",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "gravels",
+      "b": "coarse sands",
+      "c": "fine silts and clays",
+      "d": "highly plastic clays"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3574",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Stability analysis shall be made considering",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "total stresses",
+      "b": "normal stresses",
+      "c": "effective stresses",
+      "d": "shear stresses"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3575",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Berms are used to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "increase the weight of the dam",
+      "b": "reduce seepage losses",
+      "c": "increase shear strength",
+      "d": "increase the factor of safety"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3576",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Which of the following is not the purpose of a foundation?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "to distribute the weight of the structure",
+      "b": "to load the sub stratum evenly",
+      "c": "to provide a level surface for building construction",
+      "d": "to increase the safe bearing capacity of soil"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3577",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "For engineering purposes, soil is defined as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the loose mantle at the surface of the earth which favours the growth of plant",
+      "b": "a natural aggregate of mineral grain, loose or moderately cohesive, organic or inorganic in nature",
+      "c": "a disintegrated rock",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3578",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Factor of safety of slopes is defined as total stress shear strength",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "FS=total stress /effective stress",
+      "b": "FS=shear strength/shear stress",
+      "c": "FS=overturning moment/ resisting moment",
+      "d": "FS=shear stress/ normal stress"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3579",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Overturning moment due to pressure of soil is 10 KNm while resisting moment is 5 KNm. Find the factor of safety",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "2",
+      "b": "1",
+      "c": "0.5",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3580",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Consolidation test of a soil sample is carried out to determine",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the void ratio in soil",
+      "b": "the decrease in total volume",
+      "c": "the liquid limit of soil",
+      "d": "the plastic limit of soil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3581",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Bearing capacity of soils depends on",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "physical characteristics of soil particles",
+      "b": "moisture content of soil",
+      "c": "both of above",
+      "d": "none of above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3582",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The force exerted by flowing water on the sediment particles to course their motion is called",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "eddy force",
+      "b": "buoyant force",
+      "c": "tractive force",
+      "d": "kinematic force"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3583",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "For a properly designed footing, the bearing stress must be less than the bearing capacity, which is the bearing stress that causes a ______ failure within the foundation soil.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "tensile",
+      "b": "expected",
+      "c": "unexpected",
+      "d": "shear"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3584",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "A fine grained soil",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "has low permeability",
+      "b": "has high compressibility",
+      "c": "may or may not be plastic",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3585",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The resistance between particles is provided by bonding at the points of contact.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "terzhagi's",
+      "b": "pairwise",
+      "c": "adhesive",
+      "d": "broken"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3586",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "When water content in a soil is reduced beyond the shrinkage limit, the soil will be",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "solid state",
+      "b": "liquid state",
+      "c": "semi solid state",
+      "d": "plastic state"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3587",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "A 'shear stress' is a stress which is applied ______ to a face of material.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "perpendicularity",
+      "b": "parallel",
+      "c": "softly",
+      "d": "with a bang"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3588",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Most of the shear tests are done in equipment which are",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "stress controlled",
+      "b": "strain controlled",
+      "c": "drainage controlled",
+      "d": "volume controlled"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3589",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The angle between the horizontal and the slope of a heap produced by pouring clean dry sand from a small height is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "the angle of equilibrium",
+      "b": "the angle of bulk",
+      "c": "the angle of rest",
+      "d": "the angle of repose"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3590",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Over consolidation of soils is caused due to",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "erosion of overburden",
+      "b": "melting of ice sheets after glaciations",
+      "c": "permanent rise of water table",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3591",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "If a solid suffers a change in volume by application of external loads but recovers its volume immediately after load is removed, such a soil is termed as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Compressive soils",
+      "b": "Plastics solids",
+      "c": "Elastics soils",
+      "d": "Perfect soils"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3592",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "If the failure of a finite slope occurs through the toe, it is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "slope failure",
+      "b": "base failure",
+      "c": "face failure",
+      "d": "toe failure"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3593",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Pick up the correct sequence of the geological cycle for the formation of soil",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "transportation - upheaval - deposition - weathering",
+      "b": "transportation-deposition-weathering- upheaval",
+      "c": "weathering-upheaval - deposition - transportation",
+      "d": "weathering - transportation-deposition - upheaval"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3594",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "A civil engineer is concerned mainly with _____ top mantle of soil in dealing with small and medium sized projects.",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "2 to 5 m",
+      "b": "5 to 8 m",
+      "c": "8 to 10 m",
+      "d": "10 to 15 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3596",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Black cotton soil",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "is inorganic in nature",
+      "b": "contains a large percentage of clay mineral",
+      "c": "exhibits high compressibility",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3597",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "A plane inclined at an angle to the horizontal at which the soil is expected to stay in the absence of any lateral support is known as",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "natural slope line",
+      "b": "the stable line",
+      "c": "repose line",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3598",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Consolidation and compressibility of soil",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "is a measure of the ability of soil to allow the water to pass through its pores",
+      "b": "is a measure of the ability of soil to bear stress without failure",
+      "c": "deals with change in volume of pores in a soil under load",
+      "d": "any one of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3599",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "For a given soil mass, the void ratio is 0.60, water content is 18% and specific gravity of the soil particles is 2.6. The degree of saturation of the soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "30%",
+      "b": "50%",
+      "c": "78%",
+      "d": "82.5%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3600",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The specific gravity of a soil is the ratio of unit weight of soil solids to that of water at a temperature of",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "4° C",
+      "b": "20° C",
+      "c": "27° C",
+      "d": "36° C"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3601",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The degree of saturation for the moist soil is about",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0 %",
+      "b": "1 to 25 %",
+      "c": "25 to 50 %",
+      "d": "50 to 75 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3602",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The approximate void ratio in sandy soil is",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.2",
+      "b": "0.6",
+      "c": "0.8",
+      "d": "1.2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3603",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Which of the following clay mineral gives maximum swelling?",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "kaolinite",
+      "b": "montmorillonite",
+      "c": "illite",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3604",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Pile foundations are enormously used",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "bridge foundations",
+      "b": "machine foundations",
+      "c": "tall buildings",
+      "d": "towers"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3605",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The specific gravity of soil is determined by",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "Pycnometer",
+      "b": "Hydrometer analysis",
+      "c": "Sieve analysis",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3606",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Sieving is not practicable for grain sizes smaller than about",
+    "topic": "Geotechnical Engineering",
+    "options": {
+      "a": "0.075 mm",
+      "b": "0.095 mm",
+      "c": "0.15 mm",
+      "d": "0.2 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3607",
+    "chapter": "SECTION-IV"
   }
 ]

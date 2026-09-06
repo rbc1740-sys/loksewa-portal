@@ -1,0 +1,2928 @@
+[
+  {
+    "question": "The water supply system includes",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "digging a well for water",
+      "b": "construction of dams",
+      "c": "construction of canals",
+      "d": "entire arrangement from source to distribution"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1527",
+    "chapter": "General"
+  },
+  {
+    "question": "Which one of the following is not surface water?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "from river diversion",
+      "b": "from reservoir storage",
+      "c": "from natural lakes",
+      "d": "from natural spring"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1528",
+    "chapter": "General"
+  },
+  {
+    "question": "Which one of the following is not groundwater?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "rooftop water stored in the underground tank",
+      "b": "water from natural spring",
+      "c": "from infiltration galleries",
+      "d": "from riverside radial collector well"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1529",
+    "chapter": "General"
+  },
+  {
+    "question": "The source of water in the mountains is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "tube well",
+      "b": "well",
+      "c": "stream",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1530",
+    "chapter": "General"
+  },
+  {
+    "question": "The most common sources of water in hill and terai in our country are ______ and _____ respectively.",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "surface and ground",
+      "b": "ground and surface",
+      "c": "surface and surface",
+      "d": "ground and ground"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1531",
+    "chapter": "General"
+  },
+  {
+    "question": "The most important sources of water for public water supply, is from",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "lakes",
+      "b": "ponds",
+      "c": "streams",
+      "d": "rivers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1532",
+    "chapter": "General"
+  },
+  {
+    "question": "A river intake may be situated on",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "a straight reach",
+      "b": "the convex side of a curved course",
+      "c": "downstream side of the outfall sewer",
+      "d": "proximity to industries"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1533",
+    "chapter": "General"
+  },
+  {
+    "question": "River water may have",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "more suspended solids and less dissolved solids",
+      "b": "more dissolved solids and less suspended solids",
+      "c": "more dissolved solids and less floating solids",
+      "d": "more colloidal and dissolved solids"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1534",
+    "chapter": "General"
+  },
+  {
+    "question": "Minimum depth of infiltration gallery is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "2 m",
+      "b": "3 m",
+      "c": "4 m",
+      "d": "5m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1535",
+    "chapter": "General"
+  },
+  {
+    "question": "Water obtained from _______ is generally known as sub-surface water.",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "rains",
+      "b": "rivers",
+      "c": "reservoirs",
+      "d": "artesian wells"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1536",
+    "chapter": "General"
+  },
+  {
+    "question": "The aquifer having the least water-bearing capacity is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "confined",
+      "b": "unconfined",
+      "c": "perched",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1537",
+    "chapter": "General"
+  },
+  {
+    "question": "Surface water is obtained from",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "well",
+      "b": "spring",
+      "c": "artesian well",
+      "d": "rain"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1538",
+    "chapter": "General"
+  },
+  {
+    "question": "Groundwater from artesian wells",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "contain no suspended materials",
+      "b": "contain dissolved salts",
+      "c": "require less treatment",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1539",
+    "chapter": "General"
+  },
+  {
+    "question": "A good source of water requiring practically the least treatment is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "perennial river",
+      "b": "impounded reservoir",
+      "c": "deep well",
+      "d": "elevated lake"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1540",
+    "chapter": "General"
+  },
+  {
+    "question": "Infiltration gallery is a",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "horizontal well",
+      "b": "vertical well",
+      "c": "inclined well",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1541",
+    "chapter": "General"
+  },
+  {
+    "question": "The rate of flow in an artesian spring is continuous and",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "increases in the rainy season",
+      "b": "constant in all conditions",
+      "c": "increases as the water table rises",
+      "d": "decreases in drought season"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1542",
+    "chapter": "General"
+  },
+  {
+    "question": "The water-bearing strata are known as",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "aquifer",
+      "b": "aquiclude",
+      "c": "aquifuge",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1543",
+    "chapter": "General"
+  },
+  {
+    "question": "An aquiclude is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "a non-artesian aquifer",
+      "b": "a large underground water body",
+      "c": "a confined bed of impervious material between the aquifer",
+      "d": "an artesian aquifer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1544",
+    "chapter": "General"
+  },
+  {
+    "question": "A perched aquifer generally occurs",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "in aquiclude",
+      "b": "in artesian aquifer",
+      "c": "above the water table",
+      "d": "below the water table"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1545",
+    "chapter": "General"
+  },
+  {
+    "question": "The specific retention is least in the soil type",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "coarse gravel",
+      "b": "sand",
+      "c": "clay",
+      "d": "silt"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1546",
+    "chapter": "General"
+  },
+  {
+    "question": "The location of a well is considered to be good if it is sunk into",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "coarse gravel",
+      "b": "silt",
+      "c": "sand",
+      "d": "clay"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1547",
+    "chapter": "General"
+  },
+  {
+    "question": "The most widely used tube well in Nepal is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "strainer well",
+      "b": "cavity well",
+      "c": "slotted",
+      "d": "perforated well"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1548",
+    "chapter": "General"
+  },
+  {
+    "question": "The interference of the well depends upon",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "no. of wells",
+      "b": "spacing between wells",
+      "c": "types of wells",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1549",
+    "chapter": "General"
+  },
+  {
+    "question": "The underground source of water is from",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "springs",
+      "b": "wells",
+      "c": "infiltration galleries",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1550",
+    "chapter": "General"
+  },
+  {
+    "question": "Abyssinian tube well is a special type of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "strainer-type tube well",
+      "b": "cavity-type tube well",
+      "c": "slotted-type tube well",
+      "d": "perforated type tube well"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1551",
+    "chapter": "General"
+  },
+  {
+    "question": "As compared to shallow tube wells, deep wells have",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "more depth",
+      "b": "less depth",
+      "c": "more discharge",
+      "d": "less discharge"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1552",
+    "chapter": "General"
+  },
+  {
+    "question": "Depth of shallow tube well shall not be more than considering economic point)",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "30 m",
+      "b": "40 m",
+      "c": "50 m",
+      "d": "60 m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1553",
+    "chapter": "General"
+  },
+  {
+    "question": "The total quantity of the reservoir is the sum of the following",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "balancing reserve",
+      "b": "breakdown reserve",
+      "c": "fire reserve",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1554",
+    "chapter": "General"
+  },
+  {
+    "question": "Continuous flow of water can be expected from",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "gravity springs",
+      "b": "surface springs",
+      "c": "artesian springs",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1555",
+    "chapter": "General"
+  },
+  {
+    "question": "A break pressure tank is generally provided in rural water supply schemes if the static head exceeds",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "30 m",
+      "b": "40 m",
+      "c": "50 m",
+      "d": "60 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1556",
+    "chapter": "General"
+  },
+  {
+    "question": "Waters from the following source is likely to be hard",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "river",
+      "b": "lake",
+      "c": "deep well",
+      "d": "shallow well"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1557",
+    "chapter": "General"
+  },
+  {
+    "question": "Sickness of tube well indicates",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "increase in well",
+      "b": "reduction in yield",
+      "c": "suffering from waterborne disease",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1558",
+    "chapter": "General"
+  },
+  {
+    "question": "R.M.O. means",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "running",
+      "b": "maintenance",
+      "c": "operation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1559",
+    "chapter": "General"
+  },
+  {
+    "question": "The devices installed for drawing water from the sources are called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "filters",
+      "b": "intakes",
+      "c": "aquifers",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1560",
+    "chapter": "General"
+  },
+  {
+    "question": "Factors considered in the selection of a site for intake point is that it should be",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "nearer to the treatment plant",
+      "b": "in the pure zone of the water source",
+      "c": "upstream of the point of disposal of wastewater",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1561",
+    "chapter": "General"
+  },
+  {
+    "question": "Gravity water supply system starts from",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "intake",
+      "b": "collection chamber",
+      "c": "BPT",
+      "d": "faucet"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1562",
+    "chapter": "General"
+  },
+  {
+    "question": "Thrash rack/roughing filter is provided at the entrance of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "intake",
+      "b": "slow sand filter",
+      "c": "rapid sand filter",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1563",
+    "chapter": "General"
+  },
+  {
+    "question": "Water to the consumers may be supplied from",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "rainy wells sunk to the water level",
+      "b": "infiltration well dug out on the banks of rivers",
+      "c": "infiltration galleries connected to a sump well",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1564",
+    "chapter": "General"
+  },
+  {
+    "question": "Groundwater is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "free from suspended solids but containing dissolved solids",
+      "b": "free from harmful bacteria but may contain harmless bacteria",
+      "c": "free from floating impurities but may have suspense solids",
+      "d": "free from dissolved solids but may have colloidal solids"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1565",
+    "chapter": "General"
+  },
+  {
+    "question": "The factor to be considered for the source of city water supply, is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "quantity and quality of the available water",
+      "b": "elevation of the source of water",
+      "c": "general terrain intervening the area",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1566",
+    "chapter": "General"
+  },
+  {
+    "question": "Gravity conduits for carrying water from the source are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Canals",
+      "b": "Flumes",
+      "c": "Aqueducts",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1567",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Gravity conduits",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Carry water under gravity",
+      "b": "Follow the hydraulic gradient line",
+      "c": "Are carried through tunnels in deep cutting",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1568",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The open channels supported above the ground over trestles are called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Tunnel",
+      "b": "Aqueduct",
+      "c": "Flume",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1569",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "A circular gravity aqueduct is preferred because of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Its maximum hydraulic mean depth",
+      "b": "Maximum area per unit of wetted perimeter",
+      "c": "Minimum cost of construction",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1570",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Advantages of pressure conduits is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Flow is independent of the grade of hydraulic grade line",
+      "b": "Economical, since it follows a shorter path",
+      "c": "Less chance of water pollution, as it is closed",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1571",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The main pipes must be designed to carry",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "3 times the average demand",
+      "b": "4 times the average demand",
+      "c": "1 times the average demand",
+      "d": "2 times the average demand"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1572",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The service pipes must be designed to carry",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "3 times the average demand",
+      "b": "4 times the average demand",
+      "c": "1 times the average demand",
+      "d": "2 times the average demand"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1573",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "A 1 m cast iron pipe carries a discharge of 0.785 cum/sec, the velocity of flow will be",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "0.9 m/sec",
+      "b": "1.0 m/sec",
+      "c": "1.2 m/sec",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1574",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The approximate diameter of a water main for supplying 7.15 mld with 1.21 m/sec velocity flow will be",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "10 cm",
+      "b": "20 cm",
+      "c": "30 cm",
+      "d": "50 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1575",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "A pressure conduit laid underground may not be subjected to",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Internal pressure of water",
+      "b": "Pressure due to external load.",
+      "c": "Longitudinal temperature stress",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1576",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "If Q is the discharge in cubic meters per second and D is the economical diameter of the pipe, then according to Lea",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "D=0.67 to 0.87 √Q",
+      "b": "D=0.67 to 0.97 √Q",
+      "c": "D=0.97 to 1.22 √Q",
+      "d": "D=1.22 to 1.32 √Q"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1577",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "If the diameter of the main pipe is taken less than the economical diameter, then",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Head loss will be high",
+      "b": "Cost of pipe will be less",
+      "c": "Cost of pumping will be more",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1578",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "If P is the total internal pressure, d is diameter of the pressure conduit, and t is thickness of conduit, the hoop's stress is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "d.p/2t",
+      "b": "d.p/t",
+      "c": "d.t/2p",
+      "d": "d.t/p"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1579",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Thrust blocks are installed wherever there is a",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Change in the direction of size of the pipeline",
+      "b": "Change in the pressure line diagram",
+      "c": "Pipe line ends at a dead end",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1580",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The formula given by v=1/n * r²/3 * s^1/2",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Manning",
+      "b": "Chezy’s",
+      "c": "Kutter",
+      "d": "Bazin"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1581",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The velocity of water in water mains of 40 cm diameter is usually kept",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Below 0.5 m/sec",
+      "b": "Below 5 m/sec",
+      "c": "Below 1.8 m/sec",
+      "d": "Below 18 m/sec"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1582",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Selection of material for the pipe depends on",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Carrying capacity of the pipe",
+      "b": "Durability and life of the pipe",
+      "c": "Effect of water to be conveyed on the pipe material",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1583",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Most commonly used section in the grade aqueduct is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Circular",
+      "b": "Rectangular",
+      "c": "Parabolic",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1584",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Grade aqueducts are not allowed to run",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "One fourth full",
+      "b": "Half",
+      "c": "Three",
+      "d": "Full"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1585",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Aqueducts are generally not designed in",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Circular section",
+      "b": "Rectangular section",
+      "c": "Horse shoes section",
+      "d": "Vee section"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1586",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "HGL should always be above the GL",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "5 m",
+      "b": "10 m",
+      "c": "15 m",
+      "d": "20 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1587",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The pressure at the inlet and outlet in the break pressure tank is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Zero and 1 m",
+      "b": "1 m and zero",
+      "c": "Zero and zero",
+      "d": "1 m and 1 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1588",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The asbestos cement pipes are generally laid",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Horizontal",
+      "b": "Vertical",
+      "c": "In any position",
+      "d": "Inclined at 60°"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1589",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The type of pipe which is generally laid vertically due to low strength is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Copper",
+      "b": "Concrete",
+      "c": "Asbestos cement",
+      "d": "Cast iron"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1590",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "As compared to cast iron pipes, steel pipes are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Stronger",
+      "b": "Heavier",
+      "c": "Costlier",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1591",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Copper pipes are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Highly resistant to acidic and alkaline water",
+      "b": "Easy to bend and do not sag if used for hot water supply",
+      "c": "Not liable to corrosion",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1592",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "G.I. pipe has a coating of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Zinc",
+      "b": "Lead",
+      "c": "Silver",
+      "d": "Aluminum"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1593",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Steel pipes are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Generally laid underground and no expansion joint is required",
+      "b": "Connected by riveted or welded joints",
+      "c": "Suitable for withstanding high internal pressure",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1594",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "The advantages of using cast iron pipes for water supply system are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Good durability",
+      "b": "Good strength",
+      "c": "Low cost of maintenance",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1595",
+    "chapter": "Gravity Water Supply System-I"
+  },
+  {
+    "question": "Asbestos pipes are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Highly resistant to corrosion",
+      "b": "Light in weight and easy to transport",
+      "c": "Highly flexible to resist deflection up to 120",
+      "d": "Very smooth"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1596",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "PVC pipes can withstand pressure up to",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "20m head of water",
+      "b": "50m head of water",
+      "c": "100m head of water",
+      "d": "150m head of water"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1597",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "If the head of water is more than 100m then the type of pipe used is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "PVC",
+      "b": "Plastic",
+      "c": "HDP",
+      "d": "GI"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1598",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Service connections to consumer houses are generally provided with",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Copper pipes",
+      "b": "PVC pipes",
+      "c": "Pipes",
+      "d": "Cast iron pipes"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1599",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The type of joint used in HDPE pipe is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Butt welding",
+      "b": "Solvent welding",
+      "c": "Thread joint",
+      "d": "Dresser coupling joint"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1600",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The type of joint used in plastic pipe is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Butt welding",
+      "b": "Solvent welding",
+      "c": "Thread joint",
+      "d": "Dresser coupling joint"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1601",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Asbestos pipes are joined by means by",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Flanged joint",
+      "b": "Flexible joint",
+      "c": "Simplex joint",
+      "d": "Dresser coupling joint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1602",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "At the socket and spigot joint,",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Enlarged end of the pipe is called socket",
+      "b": "Normal end of the pipe is called spigot",
+      "c": "Molten lead is used for water proofing",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1603",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The type of joint used in joining the plain ends of cast iron pipes is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Flanged joint",
+      "b": "Flexible joint",
+      "c": "Dresser coupling joint",
+      "d": "Socket and spigot joint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1604",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The type of joint generally used in cast iron pipes is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Flanged joint",
+      "b": "Socket and spigot joint",
+      "c": "Anchorages",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1605",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "In order to consider temperature changes, metal pipes are usually provided with",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Expansion joints",
+      "b": "Contraction joints",
+      "c": "Dresser coupling joint",
+      "d": "Pressure relief valves"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1606",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The commonly used material for water supply pipes having properties of not easily corroded, long life but heavy and brittle is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Steel",
+      "b": "Cast iron",
+      "c": "Wrought",
+      "d": "RCC"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1607",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Sluice valves in main water supplies are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Used to regulate the flow",
+      "b": "Spaced about 5 km apart",
+      "c": "Generally provided at the summits",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1608",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Pressure relief valve is provided in water main",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "To reduce the pressure",
+      "b": "Upstream of sluice",
+      "c": "At low points",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1609",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Air inlet valve is provided in water mains at",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Summit of the pipe",
+      "b": "Downstream of the sluice valve",
+      "c": "Both (a) and (b) of the above",
+      "d": "Upstream of the sluice valve"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1610",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The valve provided at low points of the pipe to drain off water quickly under gravity is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Drain valve",
+      "b": "Blow off valve",
+      "c": "Sewer valve",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1611",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The valve that allows water to flow in one direction but prevents its flow in the reverse direction is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Reflux valve",
+      "b": "Gate valve",
+      "c": "Sluice valve",
+      "d": "Pressure valve"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1612",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Scour valves are provided",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "At every summit of rising mains",
+      "b": "At every depression and dead ends to drain out the wastewater that may collect there",
+      "c": "At street corners to control the flow of water",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1613",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Poppet valve is a type of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Air valve",
+      "b": "Blow-off valve",
+      "c": "Sluice valve",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1614",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The valve provided on the suction pipe in a tube-well is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Air relief valve",
+      "b": "Reflux valve",
+      "c": "Pressure valve",
+      "d": "Sluice valve"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1615",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Impetus valve waste valve is provided in",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Hydraulic ram",
+      "b": "Centrifugal Pump",
+      "c": "Rotary Pump",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1616",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Pressure relief valve is provided to prevent",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "The increase of pressure after a certain limit",
+      "b": "Backflow when the pump is stopped",
+      "c": "The water flowing out of the suction pipe",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1617",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The valve provided after the pump in the rising mains to prevent the backflow of water when the pump is stopped is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Air relief valve",
+      "b": "Reflux valve",
+      "c": "Sluice valve",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1618",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "With the increase in the size of water pipe, the permissible velocity (if discharge is constant)",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Decreases",
+      "b": "Increases",
+      "c": "Remains constant",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1619",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The maximum pressure that the pipe can withstand without any leakage during a hydrostatic pressure test is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Working pressure",
+      "b": "Test pressure",
+      "c": "Design pressure",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1620",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Pipes for water supply are tested for",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Pressure",
+      "b": "Leakage",
+      "c": "Dimensions",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1621",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The water supply pipeline should be tested at a specified pressure for",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "One hour",
+      "b": "Two hours",
+      "c": "Three hours",
+      "d": "Four hours"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1622",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The best pipe known for water mains is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Cast iron",
+      "b": "Steel",
+      "c": "Cement concrete",
+      "d": "Asbestos cement"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1623",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The best material for pipes to be laid underwater is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Cast iron",
+      "b": "Steel",
+      "c": "Cement concrete",
+      "d": "Asbestos cement"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1624",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "The safe and most reliable system in the distribution of water is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "Gravity system",
+      "b": "Pumping system",
+      "c": "Pumping and storage system",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1625",
+    "chapter": "Gravity Water Supply System-II"
+  },
+  {
+    "question": "Sewerage means",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "discharge from latrine",
+      "b": "discharge from bathrooms",
+      "c": "industrial waste",
+      "d": "science of carrying wastes through sewers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1626",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Water from kitchen, bathrooms and washbasin is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "sewage",
+      "b": "combined sewage",
+      "c": "sullage",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1627",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The sewage consists of water",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "80%",
+      "b": "90%",
+      "c": "95%",
+      "d": "99.9%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1628",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The specific gravity of sewage is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "equal to 1",
+      "b": "slightly less than 1",
+      "c": "slightly more than 1",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1629",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Rainwater of the locality which flows in sewer is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "storm water",
+      "b": "subsoil water",
+      "c": "sullage",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1630",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The water carriage sewage system",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "is cheaper in initial cost than dry conveyance system",
+      "b": "requires treatment before disposal",
+      "c": "hygienic problem",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1631",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Merit of water carriage sewage system is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "no human agency is involved in this system",
+      "b": "no problem of foul smell or hygienic trouble",
+      "c": "less area is required",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1632",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Sewerage system is designed for",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "maximum flow only",
+      "b": "minimum flow only",
+      "c": "average flow only",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1633",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The suitable system of sanitation for an area having rainfall for only one season is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "separate system",
+      "b": "combined system",
+      "c": "partially combined system",
+      "d": "maximum and minimum flow"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1634",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Sanitary sewage means",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "domestic sewage",
+      "b": "industrial sewage",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1635",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "For areas of distributed rainfall throughout the year with less intensity, the suitable system of sanitation is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "separate system",
+      "b": "combined system",
+      "c": "partially separate system",
+      "d": "partially combined system"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1636",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Sewer has to bear",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "internal pressure of sewage",
+      "b": "temperature stresses",
+      "c": "forces due to external loads",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1637",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "A sewer that collects sewage from toilets is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "lateral sewer",
+      "b": "branch sewer",
+      "c": "main sewer",
+      "d": "outfall sewer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1638",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The sewer meant to carry excess discharge from an existing sewer is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "main sewer",
+      "b": "trunk sewer",
+      "c": "outfall sewer",
+      "d": "relief sewer"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1639",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "A sewer, which receives discharge of a number of house sewers, is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "house sewer",
+      "b": "lateral sewer",
+      "c": "intercepting sewer",
+      "d": "sub main sewer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1640",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Sewer which gets discharge from two or more main sewers is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "main sewer",
+      "b": "trunk sewer",
+      "c": "combined sewer",
+      "d": "intercepting sewer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1641",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Sewer preferred for combined system of sewage, is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "rectangular sewer",
+      "b": "circular sewer",
+      "c": "egg shaped sewer",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1642",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Clean out is provided in the underground _________ sewer in place of the manhole.",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "main sewer",
+      "b": "trunk sewer",
+      "c": "outfall sewer",
+      "d": "lateral sewer"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1643",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Which is in the correct order?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "house s-Lateral s-Branch s-Sub main s.-Main (Trunk)-outfall sewer",
+      "b": "house s.-Lateral s-Branch s-Sub main s-Outfalls-Main (Trunk) sewer",
+      "c": "main (Trunk) Outfall s.-House s.-Lateral s-Branch s-Sub main sewer",
+      "d": "lateral s-Branch s.-Sub main s-Main (Trunk)- Outfalls House sewer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1644",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Stoneware pipes are generally not used for sewer mains, because they are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "weak in compression",
+      "b": "weak in tension",
+      "c": "hydraulically less efficient",
+      "d": "less resistant to organic corrosion"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1645",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The best sewer material to resist hydrogen sulphide corrosion is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "RCC",
+      "b": "brick masonry",
+      "c": "glazed stoneware",
+      "d": "asbestos cement"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1646",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Two sewer sections laid at the same grade will be hydraulically equivalent if",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "their discharge capacity when running full are equal",
+      "b": "their flow velocity when running full are equal",
+      "c": "their flowing areas when running full are equal",
+      "d": "all the above factors are equal"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1647",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "A sewer, which gets its flow from a number of transverse sewers, is known as",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "interceptor",
+      "b": "interconnector",
+      "c": "head sewer",
+      "d": "branch sewer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1648",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Laying of sewer is generally done with the help of ______",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "sight rails and boning rod",
+      "b": "theodolite and staff",
+      "c": "leveling and staff",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1649",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Ovoid sewers are best suited for",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "separate system",
+      "b": "combined system with less fluctuations",
+      "c": "combined system with very wide fluctuations",
+      "d": "outfall sewer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1650",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "A flight sewer is provided when the gradient is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "zero",
+      "b": "low",
+      "c": "steep",
+      "d": "maximum (i.e. vertical)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1651",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Most suitable section when the maximum and minimum flow ratio is not much is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "circular section",
+      "b": "rectangular section",
+      "c": "horse-shoe section",
+      "d": "egg shape section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1652",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Most suitable of sewer in separate sewage system is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "circular section",
+      "b": "rectangular section",
+      "c": "egg-shaped section",
+      "d": "modified egg-shaped section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1653",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Suitable sewer section for both combined and separate system is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "circular section",
+      "b": "rectangular section",
+      "c": "egg-shaped section",
+      "d": "horse-shoe type section"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1654",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The shape of trunk and outfall type of sewer is usually",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "circular",
+      "b": "rectangular type",
+      "c": "horse-shoe type",
+      "d": "egg-shaped type"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1655",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "A circular section of sewer has the advantage of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "least parameter for a given area",
+      "b": "offers least opportunities for deposits",
+      "c": "more suitable when the discharge is approximately constant",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1656",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "A circular section for sewer is preferred only up to a diameter of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "10 cm",
+      "b": "20 cm",
+      "c": "30 cm",
+      "d": "60 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1657",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "An egg-shaped section of sewer",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "is more economical than a circular section",
+      "b": "is more stable than a circular section",
+      "c": "provides self-cleansing velocity at low discharge",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1658",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "In an egg-shaped sewer section, the maximum discharge occurs when the depth of flow is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "0.25d",
+      "b": "0.50d",
+      "c": "0.75d",
+      "d": "0.95d (where d is the total depth of the section)."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1659",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "When more than two sewers join in a manhole",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "their tops should be at the same level",
+      "b": "their center should be at the same level",
+      "c": "their bottoms should be at the same level",
+      "d": "they can be either way"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1660",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "For a separate or partially separate system, the pattern of collection suitable is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "perpendicular pattern",
+      "b": "interceptor pattern",
+      "c": "radial pattern",
+      "d": "fan pattern"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1661",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The pattern of sanitation most suitable for a sloped area is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "zone pattern",
+      "b": "fan pattern",
+      "c": "radial pattern",
+      "d": "perpendicular pattern"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1662",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The sewer pipes",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "carry sewage as gravity conduits",
+      "b": "should resist the wear and tear caused due to abrasion",
+      "c": "are designed for generating self-cleaning velocities at different discharges",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1663",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The minimum diameter of a sewer pipe should be",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "5 cm",
+      "b": "10 cm",
+      "c": "15 cm",
+      "d": "25 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1664",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "The maximum diameter of a sewer pipe should preferably be",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "100 cm",
+      "b": "200 cm",
+      "c": "300 cm.",
+      "d": "450 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1665",
+    "chapter": "Sanitation Engineering-I"
+  },
+  {
+    "question": "Septic tanks are best suited for",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "municipalities",
+      "b": "industries",
+      "c": "scattered residences",
+      "d": "congested areas"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1666",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The types of sanitation in which urine and night soil are separated",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "VIP latrine",
+      "b": "septic tank",
+      "c": "aqua privy",
+      "d": "eco sanitation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1667",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The capacity of the flushing cistern for water closets is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1-2 liters",
+      "b": "2-3 liters",
+      "c": "5 liters",
+      "d": "20-25 liters"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1668",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The minimum height of a flushing cistern is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1 m",
+      "b": "2 m",
+      "c": "3 m",
+      "d": "5 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1669",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The object of the cowl is to",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "give an ornamental look",
+      "b": "prevent the entry of rainfall into the waste pipe",
+      "c": "quickly dispel foul gasses",
+      "d": "prevent nest-building"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1670",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The gasses given out of the septic tank are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "CH4 oxygen and hydrogen",
+      "b": "CO2, H2S and methane",
+      "c": "CO2, PH3, and ammonia",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1671",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The gas most commonly associated with septic wastewater is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "CO",
+      "b": "CO₂",
+      "c": "CH4",
+      "d": "H₂S"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1672",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "From the septic tank the effluents are discharged into",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "drainage",
+      "b": "soak pit",
+      "c": "sewer",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1673",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The detention time in a septic tank is usually",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1-2 hours",
+      "b": "5-6 hours",
+      "c": "18-24 hours",
+      "d": "22-24 hours"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1674",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "A septic tank is a water-tight tank where the following operation(s) take place",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "sedimentation",
+      "b": "sedimentation+digestion (anaerobic)",
+      "c": "digestion (aerobic)",
+      "d": "decomposition of organic and inorganic matter by bacteria"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1675",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "Septic tank effluent is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "quite clear and sparkling",
+      "b": "always odorless",
+      "c": "having fine organic solids with high BOD",
+      "d": "black tarry liquor with an earthen odor"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1676",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The inlet and outlet pipes of the septic tank are bent",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "upward",
+      "b": "downward",
+      "c": "inlet upward and outlet downward",
+      "d": "inlet downward and outlet upward"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1677",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The difference between the septic tank and the Imhoff tank is that",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "in an Imhoff tank digestion takes place in a different compartment",
+      "b": "Imhoff tank is suitable for serving a much bigger population",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1678",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The working conditions in Imhoff tanks is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "aerobic only",
+      "b": "anaerobic only",
+      "c": "aerobic in the lower and anaerobic in the upper compartment",
+      "d": "anaerobic in the lower and aerobic upper compartment"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1679",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "Imhoff tank is a",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "one storey sedimentation tank",
+      "b": "two-storey sedimentation tank",
+      "c": "three-storey sedimentation tank",
+      "d": "four-storey sedimentation tank"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1680",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The clarigesters are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "circular septic tanks",
+      "b": "circular Imhoff double storage tanks without bottom hoppers",
+      "c": "rectangular septic tank",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1681",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "Digesters are used for",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "the sludge digestion under optimum conditions",
+      "b": "the sludge digestion under normal conditions",
+      "c": "the sludge digestion under extreme conditions",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1682",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The pipe used to carry discharge from sanitary fittings like bathrooms, kitchens, etc",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "waste pipe",
+      "b": "soil pipe",
+      "c": "vent pipe",
+      "d": "anti-siphonage pipe"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1683",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The self-cleaning velocity normally adopted for sewers is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "less than 1m/s",
+      "b": "1.0m/sec to 1.2m/s",
+      "c": "1.5m/sec to 1.2m/s",
+      "d": "more than 2.0 m/s"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1684",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The ratio of maximum to average sewage flow for mains up to 1m in diameter is usually",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1.0",
+      "b": "1.2",
+      "c": "1.5",
+      "d": "2.0"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1685",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The sewage in the inverted siphon will flow chain under ______",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "air",
+      "b": "vacuum",
+      "c": "pressure",
+      "d": "gravity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1686",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The gradient of the sewer is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "given in the direction of the natural slope of the ground",
+      "b": "given in the opposite direction of the natural slope ground",
+      "c": "zero",
+      "d": "more than 1 in 20"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1687",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "As the diameter of the sewer increases, the self-cleaning velocity",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains",
+      "d": "depends on other factors"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1688",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The highest non-scouring velocity in the sewer may be allowed in",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "glazed brick sewer",
+      "b": "cast iron sewer",
+      "c": "cement concrete",
+      "d": "stoneware sewer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1689",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "Non-scouring velocity in the concrete sewer is caused by",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "2.5 to 3.0 m/sec",
+      "b": "2.5 to 3.5 m/sec",
+      "c": "1.5 to 2.5 m/sec",
+      "d": "0.6 to 1.2 m/sec"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1690",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The velocity of flow does not depend on",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "grade of sewer",
+      "b": "hydraulic mean depth of the sewer",
+      "c": "roughness of sewer",
+      "d": "length of sewer"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1691",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "In an unsewered area of Nepal, the sanitation system generally adopted is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "septic tank",
+      "b": "pit latrine",
+      "c": "open area latrine",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1692",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "Where it is not possible to obtain self-cleansing velocities for sewers, flush is provided with the minimum available head of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1-3 m",
+      "b": "3-5 m",
+      "c": "5-7 m",
+      "d": "7-10 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1693",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "In a circular sewer if the depth of flow is 0.2 times the full depth, the nominal gradient,",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "in only provided",
+      "b": "is doubled",
+      "c": "three",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1694",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "If D is the diameter of the upper circular portion, the overall depth of a standard egg-shaped section is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "D",
+      "b": "1.2D",
+      "c": "1.5D",
+      "d": "2D"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1695",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "Which test is a must for house sewer?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "water test",
+      "b": "air test",
+      "c": "compaction test",
+      "d": "smoke test"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1696",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The inverted siphon is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "sewer",
+      "b": "general sewer",
+      "c": "storm sewer",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1697",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The inverted siphon is made of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "one pipe",
+      "b": "two pipe",
+      "c": "three pipe",
+      "d": "four pipe"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1698",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The inverted siphon is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "depressed sewer",
+      "b": "sag sewer",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1699",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "Garbage dumping home is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "places where garbage is kept",
+      "b": "places where garbage is disposed",
+      "c": "places where garbage is treated",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1700",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "Letache is observed in",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "septic tank",
+      "b": "sewage",
+      "c": "landfill",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1701",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "In one pipe system of plumbing no. of vertical pipes",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1702",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "In two-pipe systems of plumbing no. of vertical pipes are",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1703",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "In a single stack system of plumbing number of vertical pipes is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1704",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "In a partially ventilated single stack system of plumbing no. of vertical pipes",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1705",
+    "chapter": "Sanitation Engineering-II"
+  },
+  {
+    "question": "The vertical wells provided along the banks of a river to draw ground water in dry season are called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "open wells",
+      "b": "tube wells",
+      "c": "artesian wells",
+      "d": "infiltration wells"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3726",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A pipe sunk into the ground to tap the underground water is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "open wells",
+      "b": "tube wells",
+      "c": "artesian wells",
+      "d": "infiltration wells"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3727",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The continuous flow of water may be expected from",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "surface springs",
+      "b": "artesian springs",
+      "c": "gravity springs",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3728",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The specific yield of wells is expressed as",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "m³/hour",
+      "b": "m³/hour/m²",
+      "c": "m³/hour/m²/m",
+      "d": "m³/hour/m²sec"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3729",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A shallow well is one tapping an aquifer",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "nearest to ground level",
+      "b": "below an impervious layer",
+      "c": "sandwiched in between two impervious layer",
+      "d": "runs through a number of strata"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3730",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A deep well",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "easily gets dried up during summer",
+      "b": "may yield constant discharge",
+      "c": "is not deeper than a shallow well",
+      "d": "is formed by just tapping the nearest aquifer to the ground"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3731",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Sedimentation may not be required for water from a",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "shallow well",
+      "b": "deep well",
+      "c": "river",
+      "d": "canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3732",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Salvaging is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "extraction of essence from waste",
+      "b": "dumping of solid waste",
+      "c": "sanitary landfilling of solid waste",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3733",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The design discharge for the separate sewer system is taken equal to",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "dry weather flow",
+      "b": "2x dry weather flow",
+      "c": "4x dry weather flow",
+      "d": "6x dry weather flow"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3734",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The design discharge for the combined system shall be taken equal to",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "rainfall",
+      "b": "rainfall + dry weather flow",
+      "c": "rainfall + 2× dry weather flow",
+      "d": "rainfall+ 4x dry weather flow"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3735",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The earth’s water circulatory system is known as",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "water cycle",
+      "b": "hydrological cycle",
+      "c": "precipitation cycle",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3736",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Choose the odd statement",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "sewage is received in a wet well",
+      "b": "sewage is received in a dry well",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3737",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Abbreviation which is correct?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "TOC - Total organic carbon",
+      "b": "ThOD -Theoretical oxygen demand",
+      "c": "TOD - Total oxygen demand",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3738",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For insignificant effect on the water table, the tube wells are spaced as one in every",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "0.5 sq km",
+      "b": "1.0 sq km",
+      "c": "1.5 sq km",
+      "d": "2.0 sq km"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3739",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Nahni trap is made of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "mud",
+      "b": "cast iron",
+      "c": "steel",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3740",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Any trap is intended to trap foul gasses with the provision of",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "clear seal",
+      "b": "sewage of sullage",
+      "c": "otta seal",
+      "d": "water seal"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3741",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The last trap provided in a house drainage system is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "q-trap",
+      "b": "floor trap",
+      "c": "nahni trap",
+      "d": "interception trap"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3742",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which trap has parallel legs?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "P-Trap",
+      "b": "Q-Trap",
+      "c": "gully trap",
+      "d": "S-Trap"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3743",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which trap has perpendicular legs?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "P-Trap",
+      "b": "Q-Trap",
+      "c": "gully trap",
+      "d": "S-Trap"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3744",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which trap has curved legs?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "P-Trap",
+      "b": "Q-Trap",
+      "c": "gully trap",
+      "d": "S-Trap"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3745",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For separate partially separate system, the Pattern of collection is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "perpendicular pattern",
+      "b": "interceptor pattern",
+      "c": "radial pattern",
+      "d": "fan pattern"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3746",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Pattern of sanitation most suitable for sloppy areas, is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "zone pattern",
+      "b": "fan pattern",
+      "c": "radial pattern",
+      "d": "perpendicular pattern"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3747",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The color of septic sewage is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "grey",
+      "b": "black",
+      "c": "white",
+      "d": "blue"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3748",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Where manholes shall be installed in a sewer system?",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "At the middle of each line",
+      "b": "At all intersections, changes in grade, size, alignment",
+      "c": "At ends of curvilinear sewers",
+      "d": "At distances not greater than 50m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3749",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "When limiting non-scouring velocity is 5 m/sec the of sewer generally used is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "stoneware sewer",
+      "b": "cast iron sewer",
+      "c": "brick sewer",
+      "d": "glazed brick sewer"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3750",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In strainer type wells",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "the flow is radial",
+      "b": "the flow is spherical",
+      "c": "the area of flow depends upon the size of the cavity",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3751",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "An artesian spring is formed",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "when an aquifer gets exposed in a valley against a vertical cut",
+      "b": "due to the continuous fault in a rock through which water under pressure comes out",
+      "c": "when a porous strata gets enclosed between two impervious strata",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3752",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The quantity of water available from an infiltration gallery depends upon the",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "size of the gallery",
+      "b": "nature of soil",
+      "c": "yield of source",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3753",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The water bearing strata i.e. layers of sand, gravel, etc. is called",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "an aquifer",
+      "b": "an aquiclude",
+      "c": "an aquifuge",
+      "d": "zone of saturation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3754",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The types of formwork provided for reinforcing cement tank in rural water supply schemes is",
+    "topic": "Water Supply & Sanitation Engineering",
+    "options": {
+      "a": "steel",
+      "b": "wood",
+      "c": "HDPE pipe",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3755",
+    "chapter": "SECTION-I"
+  }
+]

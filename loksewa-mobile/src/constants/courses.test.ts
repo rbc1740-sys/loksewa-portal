@@ -16,6 +16,7 @@ import {
   TOPIC_TO_CHAPTER,
   getTopicPath,
 } from './courses';
+import { getBundledQuestions } from '../services/questionParser';
 
 const QUESTIONS_DIR = join(process.cwd(), 'src', 'data', 'questions');
 
@@ -47,11 +48,13 @@ describe('course catalog', () => {
     expect(totalChapters).toBe(Object.keys(TOPIC_TO_CHAPTER).length);
   });
 
-  it('maps every bundled question topic and matches its real count', () => {
-    const bundleCounts = topicsFromBundle();
-    expect(Object.keys(bundleCounts).length).toBeGreaterThan(0);
+  it('maps every bundled question topic and matches its real count', async () => {
+    const bundled = await getBundledQuestions();
+    const counts: Record<string, number> = {};
+    for (const q of bundled) counts[q.topic] = (counts[q.topic] ?? 0) + 1;
+    expect(Object.keys(counts).length).toBeGreaterThan(0);
 
-    for (const [topic, count] of Object.entries(bundleCounts)) {
+    for (const [topic, count] of Object.entries(counts)) {
       const mapping = TOPIC_TO_CHAPTER[topic];
       expect(mapping, `unmapped topic: ${topic}`).toBeDefined();
 
@@ -62,7 +65,7 @@ describe('course catalog', () => {
       expect(defChapter.topics[0].name).toBe(topic);
       expect(defChapter.topics[0].questionCount).toBe(count);
     }
-  });
+  }, 30000);
 
   it('never invents a chapter that has no bundled questions', () => {
     const bundleTopics = new Set(Object.keys(topicsFromBundle()));

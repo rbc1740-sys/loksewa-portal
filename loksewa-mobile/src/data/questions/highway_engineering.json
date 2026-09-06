@@ -1,0 +1,3810 @@
+[
+  {
+    "question": "What is the use of highways?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Highways were created to connect cities and villages",
+      "b": "Highways are the quickest option",
+      "c": "Highways reduce travel time by half",
+      "d": "All of the mentioned"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1886",
+    "chapter": "General"
+  },
+  {
+    "question": "The maximum number of cities and towns are connected by which type of highway?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "State highway",
+      "b": "Village road",
+      "c": "National highway",
+      "d": "Major district road"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1887",
+    "chapter": "General"
+  },
+  {
+    "question": "Mostly used road in Nepal is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Earthen road",
+      "b": "WBM road",
+      "c": "Bituminous road",
+      "d": "Cement concrete road"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1888",
+    "chapter": "General"
+  },
+  {
+    "question": "A road within a town is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "truck road",
+      "b": "country road",
+      "c": "carriage road",
+      "d": "street"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1889",
+    "chapter": "General"
+  },
+  {
+    "question": "The portion of the road for high-speed vehicles is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "motorway",
+      "b": "expressway",
+      "c": "both (a) and (b) of above",
+      "d": "carriageway"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1890",
+    "chapter": "General"
+  },
+  {
+    "question": "A junction so designed that traffic streams are divided to enable them to pass over or under each other is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sub-way",
+      "b": "loop-road",
+      "c": "fly-over",
+      "d": "by-pass road"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1891",
+    "chapter": "General"
+  },
+  {
+    "question": "An underground passage used by pedestrians, vehicular traffic, etc. is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sub-way",
+      "b": "service road",
+      "c": "driveway",
+      "d": "fly-over"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1892",
+    "chapter": "General"
+  },
+  {
+    "question": "The camber, for the drainage of surface water, was first introduced by",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Telford",
+      "b": "Tresaguet",
+      "c": "Sully",
+      "d": "Macadam"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1893",
+    "chapter": "General"
+  },
+  {
+    "question": "In class-I roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1894",
+    "chapter": "General"
+  },
+  {
+    "question": "In class-II roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1895",
+    "chapter": "General"
+  },
+  {
+    "question": "In class-III roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1896",
+    "chapter": "General"
+  },
+  {
+    "question": "In class-IV roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1897",
+    "chapter": "General"
+  },
+  {
+    "question": "The basic requirements of highway alignment are",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "short",
+      "b": "easy",
+      "c": "safe and economical",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1898",
+    "chapter": "General"
+  },
+  {
+    "question": "Which of the following code denotes East-West highway",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "H01",
+      "b": "H02",
+      "c": "H03",
+      "d": "H04"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1899",
+    "chapter": "General"
+  },
+  {
+    "question": "Water bound Macadam is one of the ______ types of pavement.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Most recent",
+      "b": "Oldest",
+      "c": "Canadian",
+      "d": "Washable"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1900",
+    "chapter": "General"
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Footpaths are particularly provided in the case of urban roads",
+      "b": "Footpaths are 15 cm to 20 cm higher than the road surface",
+      "c": "Shoulders are generally level with the road surface, having a slope towards the drain side",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1901",
+    "chapter": "General"
+  },
+  {
+    "question": "The alignment of the road should cross the series of hills through",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "ridge",
+      "b": "saddle",
+      "c": "valley",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1902",
+    "chapter": "General"
+  },
+  {
+    "question": "A portion of the traffic way that the pedestrians use only is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "footpath",
+      "b": "sidewalk",
+      "c": "footway",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1903",
+    "chapter": "General"
+  },
+  {
+    "question": "A dividing strip in the middle of the roadway is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "central strip",
+      "b": "median strip",
+      "c": "mid strip",
+      "d": "road center"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1904",
+    "chapter": "General"
+  },
+  {
+    "question": "A circumferential road, built around an urban area to enable the free flow of traffic is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "ring road",
+      "b": "loop road",
+      "c": "mid strip",
+      "d": "circular road"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1905",
+    "chapter": "General"
+  },
+  {
+    "question": "The design of horizontal and vertical alignments, superelevation, gradient is worst affected by ___________",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Length of vehicle",
+      "b": "Width of vehicle",
+      "c": "Speed of vehicle",
+      "d": "Height of vehicle"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1906",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The most raised portion of the pavement is called ___________.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "superelevation",
+      "b": "camber",
+      "c": "crown",
+      "d": "kerb"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1907",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The portion of the road surface, which is used by vehicular traffic is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "carriageway",
+      "b": "shoulder",
+      "c": "expressway",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1908",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The width of the carriageway of a two-lane road without a raised curb is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "7.0 m",
+      "b": "7.5 m",
+      "c": "5.6",
+      "d": "5.0 m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1909",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The portion of road just both sides of the carriageway is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "width of formation",
+      "b": "right of way",
+      "c": "carriageway",
+      "d": "shoulders"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1910",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The width of the road including the carriageway and shoulders on both sides is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "width of formation",
+      "b": "right of way",
+      "c": "carriageway",
+      "d": "shoulders"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1911",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The structure provided on both sides of the shoulders to pass the rainwater is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "width of formation",
+      "b": "right of way",
+      "c": "side drain",
+      "d": "shoulders"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1912",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The full width of land acquired before finalizing a highway is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "width of formation",
+      "b": "right of way",
+      "c": "carriageway",
+      "d": "roadway"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1913",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The slope of the line joining the crown and edge of the road surface is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cross-fall",
+      "b": "cross-slope",
+      "c": "camber",
+      "d": "any of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1914",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The main objective of providing a camber is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "to make the road surface impervious",
+      "b": "to make the road surface durable",
+      "c": "to drain off rainwater from road surface, as quickly as possible",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1915",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "In scanty rainfall areas, the camber provided will be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "flatter",
+      "b": "steeper",
+      "c": "zero",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1916",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The camber of the road should be approximately equal to ________ the longitudinal gradient.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "one-half",
+      "b": "two times",
+      "c": "three times",
+      "d": "four times"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1917",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "Excessive camber on pavement may cause",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "erosion of the berms",
+      "b": "deterioration of center position",
+      "c": "slip of the speedy vehicle",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1918",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "Camber depends on",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "smoothness of base course",
+      "b": "permeability of sub-grade",
+      "c": "amount of rainfall",
+      "d": "grade of wearing coarse"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1919",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "Camber is provided on",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "straight road",
+      "b": "curved road",
+      "c": "e) super-elevation",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1920",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The inward tilt given to the cross-section of the road surface, throughout the length of the horizontal curve, is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "super-elevation",
+      "b": "cant",
+      "c": "banking",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1921",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "At a horizontal curve the superelevation is provided to counteract the effect of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "centrifugal force",
+      "b": "centripetal force",
+      "c": "horizontal force",
+      "d": "weight of vehicle"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1922",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The value of superelevation is calculated by",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "e+f = v^2/126.5R",
+      "b": "e+f= v^2/ 225R",
+      "c": "e= v^2/220R-f",
+      "d": "e+f+R= v^2/126.5"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1923",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "Minimum superelevation provided is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "7%",
+      "b": "10%",
+      "c": "not less than the grade of the road",
+      "d": "not less than camber at the section"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1924",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "Maximum amount of superelevation should not be greater than",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "2%",
+      "b": "3%",
+      "c": "5%",
+      "d": "7%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1925",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The superelevation obtained by rotation of pavement about the inner edge of the pavement",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "causes no change in the vertical alignment",
+      "b": "result in balancing the earthquake",
+      "c": "avoid the drainage problem in flat terrain",
+      "d": "is preferred in steep terrain"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1926",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The superelevation in roads is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "directly proportional to the width of the pavement",
+      "b": "directly proportional to the square of the velocity of vehicles",
+      "c": "inversely proportional square of width of pavement",
+      "d": "directly proportional to the square of the radius of curvature"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1927",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "Extra width of pavement is not provided on horizontal curves when the radius is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "less than 300m",
+      "b": "more than 300m",
+      "c": "less than 460 m",
+      "d": "more than 460 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1928",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The mechanical widening of a track is given by ___________",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "l^2/2R",
+      "b": "nl^2/2R",
+      "c": "nl^3/2R",
+      "d": "nl/2R"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1929",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The length visible to the driver at any instance of time is called ___________",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Sight distance",
+      "b": "Visibility limit",
+      "c": "Headlight distance",
+      "d": "Overtaking sight distance"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1930",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The stopping sight distance does not depend on ___________",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Break reaction time",
+      "b": "Speed of vehicle",
+      "c": "Length of vehicle",
+      "d": "Friction"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1931",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The reaction time considered in SSD is ___________",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "1.5 sec",
+      "b": "2 sec",
+      "c": "2.5 sec",
+      "d": "3 sec"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1932",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "At highway stretches the required overtaking sight distance can't be provided, it is necessary",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "at least twice the stopping sight distance",
+      "b": "half the required overtaking sight distance",
+      "c": "one-third of the required overtaking sight distance",
+      "d": "three times the stopping sight distance"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1933",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The height of the object above the road surface for the consideration of sight distance is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "10 cm above road level",
+      "b": "15 cm above road level",
+      "c": "20 cm above road level",
+      "d": "25 cm above road level"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1934",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The distance travelled by a moving vehicle during perception and brake reaction time, is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sight distance",
+      "b": "stopping distance",
+      "c": "lag distance",
+      "d": "breaking distance"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1935",
+    "chapter": "Geometric Design-I"
+  },
+  {
+    "question": "The stopping sight distance depends upon",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "reaction time of the driver",
+      "b": "brake efficiency",
+      "c": "speed of vehicle",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1936",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Extra widening of pavements depends upon",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "number of lanes",
+      "b": "speed of the vehicle",
+      "c": "length of the wheelbase",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1937",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Generally sight distance at a curve is _______ than sight distance at straight stretches of road.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal to",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1938",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Stopping sight distance is always",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "less than overtaking sight distance",
+      "b": "more than overtaking sight distance",
+      "c": "equal to overtaking sight distance",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1939",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Minimum stopping sight distance should be ________ times the calculated sight distance for one-way traffic.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "1",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1940",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The effect of gradient on safe overtaking sight distance is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "to increase it on descending grades and decrease it on ascending grades",
+      "b": "to decrease it on descending grades and increase it on ascending grades",
+      "c": "to increase it on both descending grades and ascending grade",
+      "d": "to decrease it on both descending grades and ascending grades"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1941",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Extra width of mechanical widening on the curve is provided",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "inner side only",
+      "b": "outer side only",
+      "c": "half on both sides",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1942",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Extra width of psychological widening on the curve is provided",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "inner side only",
+      "b": "outer side only",
+      "c": "half on both sides",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1943",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The mechanical extra widening required for pavement of width 10.5m on a horizontal curve of radius R, if 1 is the length of wheelbase, is given by",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "l^2/2R",
+      "b": "l^2/ R",
+      "c": "3l^2/2R",
+      "d": "2l^2/3R"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1944",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The change in the road directions is made possible by introducing a",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "horizontal curve",
+      "b": "vertical curve",
+      "c": "inclined curve",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1945",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The maximum design gradient for the vertical profile of a road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "ruling gradient",
+      "b": "limiting gradient",
+      "c": "exceptional gradient",
+      "d": "minimum gradient"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1946",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The steepest gradient is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "ruling gradient",
+      "b": "limiting gradient",
+      "c": "exceptional gradient",
+      "d": "minimum gradient"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1947",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The peak formed by two rising gradients is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "peak",
+      "b": "ridge",
+      "c": "summit",
+      "d": "top"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1948",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The radius of the curve is decided based on",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "design speed",
+      "b": "superelevation",
+      "c": "coefficient of friction",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1949",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Transition curve is provided in horizontal alignment",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "to increase the radius of transition curvature",
+      "b": "to facilitate the application of super-elevation",
+      "c": "to counteract the centrifugal force developed",
+      "d": "to prevent vehicles from skidding laterally"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1950",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Minimum length of transition curve in plain should be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "v^2/ 1.5R",
+      "b": "2.7v^2/R",
+      "c": "v^2/126.5R",
+      "d": "v^2/R"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1951",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Minimum length of transition curve in hill should be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "v^2/ 1.5R",
+      "b": "2.7v^2/R",
+      "c": "v^2/126.5R",
+      "d": "v^2/R"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1952",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": ". On the approach the horizontal curves are provided in order to",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "increase jerk to allowable levels",
+      "b": "minimize the length of the horizontal curve",
+      "c": "simplicity in the laying out and construction of the horizontal curve",
+      "d": "reduce jerk to allowable levels"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1953",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The shape of the vertical curve is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "elliptical",
+      "b": "circular",
+      "c": "parabolic",
+      "d": "spiral"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1954",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Degree of road curve is defined as the angle in degrees subtended at the center by an arc of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "10 m",
+      "b": "20 m",
+      "c": "30 m",
+      "d": "40 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1955",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "While negotiating a curve",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "wheels of both axles tread the same path",
+      "b": "front wheels follow a lesser radius than rear wheels",
+      "c": "rear wheels follow a lesser radius than front wheels",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1956",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The ideal form of the curve for the summit curve",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "spiral",
+      "b": "parabola",
+      "c": "circle",
+      "d": "lemniscates"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1957",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The type of transition curve generally provided on hill trace is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "spiral",
+      "b": "circular",
+      "c": "lemniscate",
+      "d": "cubic parabola"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1958",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "An ideal transition curve is the one whose length is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "constant",
+      "b": "directly proportional to the radius",
+      "c": "inversely proportional to the radius",
+      "d": "inversely proportional to the radius of the main curve"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1959",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The angle of most acute vision of a driver is a cone of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "3°",
+      "b": "10°",
+      "c": "15°",
+      "d": "20°"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1960",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Horizontal curves on highways are provided",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "to break the monotony of driving",
+      "b": "to discourage the tendency to increase speed",
+      "c": "to decrease the mental tension on drivers",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1961",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The desirable relationship between OSD and the length of the overtaking zone is ___________",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Length of overtaking zone = OSD",
+      "b": "Length of overtaking zone = 2 OSD",
+      "c": "Length of overtaking zone = 3 OSD",
+      "d": "Length of overtaking zone = 5 OSD"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1962",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Any gradient on a road is said to be an exceptional gradient, if it is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "more than the ruling gradient",
+      "b": "less than average gradient",
+      "c": "more than a floating gradient",
+      "d": "more than maximum or less than minimum gradient"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1963",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "Higher values of superelevation is highly undesirable to",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "fast-moving vehicles",
+      "b": "slow-moving vehicles",
+      "c": "mixed traffic",
+      "d": "non- snow falling area"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1964",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The efficiency of the brake of a vehicle depends upon",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "condition of road surface",
+      "b": "condition of tyres",
+      "c": "presence of moisture",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1965",
+    "chapter": "Geometric Design-II"
+  },
+  {
+    "question": "The process of removing and controlling excess surface and subsoil water within the roadway is ___________.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Highway engineering",
+      "b": "Highway maintenance",
+      "c": "Highway drainage",
+      "d": "Highway finance"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1966",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The removal and diversion of surface water from the roadway is called ___________.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Surface drainage",
+      "b": "Subsurface drainage",
+      "c": "Camber",
+      "d": "Cross slope"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1967",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The surface drainage doesn’t consist of ___________.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Camber",
+      "b": "Roadside drains",
+      "c": "Culverts",
+      "d": "Curves"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1968",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The precautions should be mostly taken for drainage in __________.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Dry areas",
+      "b": "Semi-dry areas",
+      "c": "Water-logged areas",
+      "d": "Desert areas"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1969",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The layer that is directly coming in contact with the traffic is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "wearing course",
+      "b": "base course",
+      "c": "sub-base",
+      "d": "sub-grade"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1970",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The first artificial course provided on a highway",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sub-grade",
+      "b": "sub-base",
+      "c": "base course",
+      "d": "base coat"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1971",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The strength, stability, and bearing power of a highway depend upon",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "formation",
+      "b": "sub-grade",
+      "c": "base course",
+      "d": "wearing course"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1972",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "An example of rigid pavement is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "earthen road",
+      "b": "water bound macadam road",
+      "c": "bituminous road",
+      "d": "cement concrete road"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1973",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "A drawback of a rigid pavement is that",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "no crack occurs even if local settlement takes place",
+      "b": "it acts as a bridge to cover minor depression like irregularity",
+      "c": "any small rift further widens",
+      "d": "its ability to withstand iron-wheeled traffic is less"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1974",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The width of the bay on a concrete road is generally taken as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": ">4.5 m",
+      "b": "<4.5 m",
+      "c": "3 to 4 m",
+      "d": "2 to 3 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1975",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "Generally, a cement concrete road is discouraged because",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "its initial cost is high",
+      "b": "it causes glare due to reflected sunlight",
+      "c": "it requires a long time to cure",
+      "d": "it becomes noisy under iron-wheeled traffic"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1976",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The life of cement concrete road is taken as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "5-10 years",
+      "b": "10-15 years",
+      "c": "15-20 years",
+      "d": "25-30 years"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1977",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "To transfer wheel load at expansion joints from one slab to the other",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "tie base are used",
+      "b": "dowel bars are used",
+      "c": "hanger bars are used",
+      "d": "bitumen filler is used"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1978",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The design of flexible pavements is based on",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "mathematical formulae",
+      "b": "empirical formulae",
+      "c": "a compromise of pure theory and pure empirical formula",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1979",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "Bottom most important component of flexible pavement is a",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sub-grade",
+      "b": "sub-base",
+      "c": "base",
+      "d": "base course"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1980",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The position of the base course in a flexible pavement is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "over the sub-base",
+      "b": "below the sub",
+      "c": "over the sub-grade but below the sub-base",
+      "d": "over the wearing course when renewal of surface is needed"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1981",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "Thickness of a pavement may be reduced considerably by",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "compaction of soil",
+      "b": "stabilization of soil",
+      "c": "drainage of soil",
+      "d": "a combination of all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1982",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "A water-bound macadam road is an example of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "rigid pavement",
+      "b": "semi-rigid pavement",
+      "c": "flexible pavement",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1983",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "The flexible pavement distributes the wheel load",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "directly to sub-grade",
+      "b": "through a set of layers to sub-grade",
+      "c": "through structural action",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1984",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "Cement-grouted pavement is classified as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "rigid pavement",
+      "b": "semi-rigid pavement",
+      "c": "flexible pavement",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1985",
+    "chapter": "Drainage System and Road pavement"
+  },
+  {
+    "question": "What is the first step in highway construction after paperwork?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Surveying",
+      "b": "Estimation",
+      "c": "Bill of quantities",
+      "d": "Evaluation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1986",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Which of the following is not a machine used in road construction?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "excavator",
+      "b": "bulldozer",
+      "c": "tower crane",
+      "d": "roller"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1987",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "A ____________ is used to level the ground and spread the loose material.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Excavator",
+      "b": "Scraper",
+      "c": "Grader",
+      "d": "Tractor"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1988",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "A _________________ roller consists of a flat platform below with a number of smooth rubber tyre wheels mounted on two or more axles.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Sheep’s foot",
+      "b": "Pneumatic",
+      "c": "Smooth wheeled",
+      "d": "Deadweight"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1989",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "______________ rollers are also known as tamping rollers.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Sheep’s foot",
+      "b": "Rubber tyred",
+      "c": "Smooth wheeled",
+      "d": "Pneumatic"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1990",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "The ________________ rollers are considered most suitable for compacting clayey soil or soil containing a mixture of sand and clay.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Smooth wheeled",
+      "b": "Sheep’s foot",
+      "c": "Deadweight",
+      "d": "Pneumatic"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1991",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "The method of design of flexible pavements as recommended by Nepal Road Standards",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Ground index method",
+      "b": "CBR method",
+      "c": "Westergaard method",
+      "d": "Benkelman beam method"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1992",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "California Bearing Ratio (CBR) test is carried out for",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "evaluating the shearing strength of the soil sample",
+      "b": "evaluating the stability of soil sub-grade",
+      "c": "evaluating the water content of the sub-grade",
+      "d": "evaluating the compressive strength of the soil sample"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1993",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "What is the equipment used for a short haul distance of 100 m?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Bulldozer",
+      "b": "Scrapper",
+      "c": "Power shovel",
+      "d": "Hoe"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1994",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Tyre pressure influences the",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "total depth of the pavement",
+      "b": "quality of surface course",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1995",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "For iron-wheeled traffic, the best suitable pavement is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "flexible pavement",
+      "b": "rigid pavement",
+      "c": "earthen roads",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1996",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "The initial application of a binder to an existing surface given to ensure thorough bond between the new construction and the existing is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "basic coat",
+      "b": "prime coat",
+      "c": "tack coat",
+      "d": "seal coat"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1998",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "The different materials used for road construction are",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "stone, aggregate, soil, and binder",
+      "b": "sand, soil, and binder",
+      "c": "bitumen, soil, and binder",
+      "d": "cement, soil, and binder"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1999",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Pensky-Marks apparatus is used for the determination of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "specific gravity",
+      "b": "softening point",
+      "c": "fire and flash point",
+      "d": "viscosity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2000",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Los Angeles testing machine is used",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "attrition test",
+      "b": "abrasion test",
+      "c": "impact test",
+      "d": "cashing strength test"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2001",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Dorry testing machine is used for conducting",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "penetration test",
+      "b": "abrasion test",
+      "c": "attrition test",
+      "d": "impact test"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2002",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Bituminous grouted macadam roads may be expected to have a useful life of about",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "2 to 3 years",
+      "b": "3 to 5 years",
+      "c": "7 to 10 years",
+      "d": "15 to 20 years"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2003",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "In highway construction, rolling starts from",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "edges towards the center with an overlap of mm 30 cm",
+      "b": "center towards the edges",
+      "c": "from one edge to another edge",
+      "d": "from edge to center"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2004",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "During the construction of the road sub-grade contains",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cleaning",
+      "b": "site clearance",
+      "c": "preparation of sub-grade",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2005",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Sheep foot roller is used for",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "compaction of soil",
+      "b": "stabilization",
+      "c": "excavation",
+      "d": "sprayer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2006",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Hauling of excavated soil is done by",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "dozer",
+      "b": "dump truck",
+      "c": "grader",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2007",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "For surface course, the durable method of stabilization is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "soil cement stabilization",
+      "b": "lime stabilization",
+      "c": "soil bitumen stabilization",
+      "d": "mechanical stabilization"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2008",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "In bituminous macadam road, the binding material used is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cement",
+      "b": "bitumen",
+      "c": "clay",
+      "d": "stone dust"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2009",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "In water-bound macadam road, the binding material used is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cement",
+      "b": "bitumen",
+      "c": "clay",
+      "d": "stone dust"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2010",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "In gravel roads the binding material used is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cement",
+      "b": "lime",
+      "c": "clay",
+      "d": "surkhi"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2011",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "On a W.B.M. road the roller used for rolling purpose is of weight",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "3 to 5 tonnes",
+      "b": "5 to 8 tonnes",
+      "c": "8 to 10 tonnes",
+      "d": "15 to 20 tonnes"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2012",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "In-earthen roads, the common stabilizers used are",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cement",
+      "b": "bitumen",
+      "c": "lime",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2013",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "The thickness of pavement may be reduced considerably be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "compaction of soil",
+      "b": "stabilization of soil",
+      "c": "draining of soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2014",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "Binder used in bituminous road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "bitumen",
+      "b": "kerosene oil",
+      "c": "fevicol",
+      "d": "stone dust"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2015",
+    "chapter": "Road Machineries,Road construction tech."
+  },
+  {
+    "question": "The defects like potholes, corrugation, and rutting can be rectified by ___________",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "trenching",
+      "b": "grading",
+      "c": "dragging",
+      "d": "chemical treatment"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2016",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "A groove or depression formed in a surface layer longitudinal to the road by the wheels of traveling vehicles, is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "pothole",
+      "b": "rut",
+      "c": "blow-hole",
+      "d": "depression"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2017",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Longitudinal ruts are formed because of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "iron wheeled traffic",
+      "b": "combined iron wheeled and pneumatic traffic",
+      "c": "heavy rainfall",
+      "d": "heavy axle loads of vehicles"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2018",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "“Cross ruts\" are formed along an earthen road because of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "heavy rainfall",
+      "b": "steep camber",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2019",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Wave-like deformation on the road is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "waveforms",
+      "b": "zig-zag forms",
+      "c": "corrugations",
+      "d": "wavy defects"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2020",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Waves and corrugation may be formed because of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "lack of bond for aggregate",
+      "b": "wearing coat being more elastic",
+      "c": "excessive compression",
+      "d": "defective rolling"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2021",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "A deep and big depression on a road is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "longitudinal rut",
+      "b": "cross-rut",
+      "c": "pothole",
+      "d": "crack"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2022",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Pothole maintenance in case of road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "routine maintenance",
+      "b": "period maintenance",
+      "c": "recurrent maintenance",
+      "d": "special maintenance"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2023",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "During maintenance of potholes, potholes formed are enclosed by a rectangular boundary, the material inside which is to be taken out and the pit formed is carefully filled with aggregate and binder such that",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "it projects 10 mm above the existing level",
+      "b": "it matches the existing level",
+      "c": "it projects 10 mm below the existing level",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2024",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "In the case of gravel roads, pothole maintenance comes under the maintenance of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "periodic",
+      "b": "special",
+      "c": "emergency",
+      "d": "routine"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2025",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Bleeding may occur due to",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "an excess of tar material",
+      "b": "insufficient quantity of binding",
+      "c": "binder not hot enough at the time of application",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2026",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Bleeding may be reduced by",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "hot metal chips",
+      "b": "cement",
+      "c": "clay",
+      "d": "dust"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2027",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Routine maintenance is normally done by the use of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "labor contract",
+      "b": "material contract",
+      "c": "item rate contract",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2028",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Carpeting is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "laying of a road surface",
+      "b": "laying of red carpets on a road",
+      "c": "laying of bitumen or concrete layer on a road",
+      "d": "operation of removing ice from a road, after snowfall."
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2029",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Road Board of Nepal generally working in the field of road for the purpose of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "routine maintenance",
+      "b": "recurrent maintenance",
+      "c": "periodic maintenance",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2030",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The WBM mostly gets damaged in ___________.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "summer",
+      "b": "winter",
+      "c": "rainy season",
+      "d": "spring"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2031",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The Stability of flexible pavement structure depends on ___________.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sub-grade",
+      "b": "degree of compaction",
+      "c": "drainage system",
+      "d": "all of the mentioned"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2032",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The end supports of a bridge is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "abutment",
+      "b": "piers",
+      "c": "wing walls",
+      "d": "support walls"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2033",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The intermediate supports of a bridge is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "abutment",
+      "b": "piers",
+      "c": "wing walls",
+      "d": "support walls"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2034",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "A bridge whose center line is not at right angles to the stream flow is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "tilting bridge",
+      "b": "wing bridge",
+      "c": "angle bridge",
+      "d": "skew bridge"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2035",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The timber bridge is used where",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "narrow width",
+      "b": "small width",
+      "c": "wide width",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2036",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Wood beam is suitable only for _____ span.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "5 m",
+      "b": "8 m",
+      "c": "13 m",
+      "d": "18 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2037",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "T-beam is suitable for",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "0-10 m span",
+      "b": "10-25 m span",
+      "c": "25-30 m span",
+      "d": "> 30 m span"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2038",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "A road will have a certain weak area where the problems repeatedly occur Such spots are known as:",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "black spots",
+      "b": "red spots",
+      "c": "white spots",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2039",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The minimum number of abutments in a bridge should be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2040",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "Which one of the following does not take the load in a suspension bridge?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "wind guy cable",
+      "b": "main cable",
+      "c": "handrail cable",
+      "d": "walkway cable"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2041",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The provision of wind guy cable in the suspension bridge is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "to take a live load",
+      "b": "to take dead load",
+      "c": "to fix the walkway",
+      "d": "to provide lateral stability"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2042",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The height of the parapet wall is provided above the beam level is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "25 cm",
+      "b": "50 cm",
+      "c": "75 cm",
+      "d": "100 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2043",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "For transportation purposes in Nepal, the first preference is given to",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "airlines",
+      "b": "roadways",
+      "c": "railways",
+      "d": "shipping"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2044",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "The length of Arniko Highway connecting Kathmandu to Kodari is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "83 km",
+      "b": "93 km",
+      "c": "113 km",
+      "d": "123km"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2045",
+    "chapter": "Bridge and Road Maintenance"
+  },
+  {
+    "question": "A pavement is classified as flexible or rigid pavement based on its",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "base course",
+      "b": "sub-base",
+      "c": "sub-grade",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3816",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The minimum thickness of the base course should be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "10 cm",
+      "b": "15 cm",
+      "c": "20 cm",
+      "d": "20 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3817",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A precise survey is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Reconnaissance",
+      "b": "Preliminary survey",
+      "c": "Final location survey",
+      "d": "Economic survey"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3818",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The rate of rise or fall of a road along its alignment is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "gradient",
+      "b": "camber",
+      "c": "side slope",
+      "d": "superelevation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3819",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Siddhartha highway connects",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Sunauli-Pokhara",
+      "b": "Kathmandu-Pokhara",
+      "c": "Birgunj-Pokhara",
+      "d": "Dharan-Dhankuta"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3820",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Prithivi highway connects",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Sunauli-Pokhara",
+      "b": "Kathmandu-Pokhara",
+      "c": "Naubise-Pokhara",
+      "d": "Birgunj-Pokhara"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3821",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The distance over which excavated material is transported, is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "lead",
+      "b": "haul",
+      "c": "run",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3822",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The shape of the camber provided for cement concrete pavement is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "straight line",
+      "b": "parabolic",
+      "c": "elliptical",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3823",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "On the pavement with parabolic camber, the angle of inclination of vehicles will be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "more at the edges",
+      "b": "less at the edges",
+      "c": "more at the crown",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3824",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The function of pavement is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "to provide a smooth riding surface",
+      "b": "to distribute the wheel loads over the soil",
+      "c": "to protect the soil formation from adverse effects of weather",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3825",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Super elevation provided from the center of the road to the outer edge is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cambering",
+      "b": "peaking",
+      "c": "hampering",
+      "d": "tempering"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3826",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The length of the road ahead of the vehicle which is visible to the driver is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sight distance",
+      "b": "clear distance",
+      "c": "visible distance",
+      "d": "safe distance"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3827",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The types of curves generally provided on highways, is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "circular curve",
+      "b": "transition curve",
+      "c": "vertical curve",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3829",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The radius of the transition curve at the junction of the circular curve is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "R/2",
+      "b": "R",
+      "c": "2R",
+      "d": "0"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3830",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The types of transition curves generally used in hill roads is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "spiral",
+      "b": "circular",
+      "c": "parabolic",
+      "d": "lemniscate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3831",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The first stage of deciding the alignment of the hill road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "reconnaissance",
+      "b": "preliminary survey",
+      "c": "trace cut",
+      "d": "detailed survey"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3832",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In hill roads, the extra widening is generally provided",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "fully on the inner side of the curve",
+      "b": "fully on the outer side of the curve",
+      "c": "equally on both sides of the curve",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3833",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In hill roads, the minimum sight distance required is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "stopping sight distance",
+      "b": "passing sight distance",
+      "c": "breaking distance",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3834",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Pick up the incorrect statement from the following",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "roads are always constructed in a straight line",
+      "b": "roads may be provided horizontal curves",
+      "c": "roads may be provided vertical curves",
+      "d": "roads may be provided with both horizontal and vertical curves"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3835",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The shoulder provided along the road edge as compared to traffic lanes should be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "smoother",
+      "b": "rougher",
+      "c": "same",
+      "d": "none"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3838",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If no super elevation is provided on the road along curves, pot holes may develop at",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "the outer edge of the road",
+      "b": "inner edge of the road",
+      "c": "center of the road",
+      "d": "anywhere on the road"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3839",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The depression formed by the junction of two falling gradients is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "depression",
+      "b": "valley",
+      "c": "sag",
+      "d": "fall"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3840",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "On the approach the horizontal curves in order to",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "increase jerk to allowable levels",
+      "b": "minimize the length of the horizontal curve",
+      "c": "simplicity in laying out and construction of the horizontal curve",
+      "d": "reduce jerk to allowable levels"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3842",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The raising of the outer edge of the road above the inner edge is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "super-elevation",
+      "b": "cant",
+      "c": "banking",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3843",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "On a horizontal curve, if the pavement is kept horizontal across the alignment then the pressure on the outer wheels as compared to the pressure on the inner wheels will be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3844",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The steepest gradient in ordinary conditions should not exceed",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "ruling gradient",
+      "b": "maximum gradient",
+      "c": "exceptional gradient",
+      "d": "floating gradient"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3845",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The full amount of extra width of pavement on the curve is provided at",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "beginning of transition curve",
+      "b": "center of the transition curve",
+      "c": "beginning of the circular curve",
+      "d": "center of the circular curve"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3846",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If the coefficient of lateral friction is constant, then the value of the required superelevation increases with",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "increase in both speed and radius of curve",
+      "b": "decrease in speed and with increased radius of the curve",
+      "c": "increase in speed and with decrease in radius of curve",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3847",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The maximum speed on the road depends upon the type of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "highway",
+      "b": "road surface",
+      "c": "curves",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3848",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Floating gradients are provided",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "at summit curves",
+      "b": "along maximum gradients",
+      "c": "at valley curves",
+      "d": "along minimum gradients"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3849",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The ideal shape of a transition curve, is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "clothoid",
+      "b": "lemniscate",
+      "c": "cubic parabola",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3851",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If V is the speed of the vehicle in kmph and R is the radius of the curve, the equilibrium superelevation is given by",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "V^2/R",
+      "b": "V^2/GR",
+      "c": "V^2/127R",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3852",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The width of roads which can be lighted by mounting street lights on one side of the road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "10 m",
+      "b": "20 m",
+      "c": "25 m",
+      "d": "30 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3853",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The normal elevation (IS) of the driver's eye is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "100 cm above road level",
+      "b": "120 cm above road level",
+      "c": "150 cm above road level",
+      "d": "200 cm above road level"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3854",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The distance along the road surface at which a driver may perceive objects at a specific height above the carriageway is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sight distance",
+      "b": "stopping sight distance",
+      "c": "overtaking sight distance",
+      "d": "intermediate sight distance"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3855",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The factor affecting the design of horizontal curves on highway is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "design speed of the vehicle",
+      "b": "allowable centrifugal ratio",
+      "c": "allowable friction on the road surface",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3856",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A pavement is classified as flexible pavement or rigid pavement based on its",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "wearing course",
+      "b": "base course",
+      "c": "sub-base",
+      "d": "subgrade"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3857",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Minimum thickness of the base of a flexible pavement, is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "10 m",
+      "b": "15 cm",
+      "c": "20 cm",
+      "d": "25 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3858",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In full-grouted method of construction of bituminous roads, rolling is done with",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "initially 8t roller and 10t roller later",
+      "b": "initially 10t roller and 20t roller later",
+      "c": "initially 1t roller and 2t roller later",
+      "d": "initially 15t roller and 30t roller later"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3859",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The raised portion of the road between the longitudinal rut is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "rut",
+      "b": "pot height",
+      "c": "camber",
+      "d": "reel"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3860",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The following types of pavement is generally known as flexible pavement",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "water bound Macadam Road",
+      "b": "stabilized soil roads",
+      "c": "road constructed with various layers of building material well compacted",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3861",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The factor influencing the selection of pavement, type is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "climate",
+      "b": "type and intensity of traffic",
+      "c": "subgrade soil",
+      "d": "drainage condition"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3862",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "CBR test is used for finding",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "strength of sub-grade",
+      "b": "strength of concrete",
+      "c": "strength of bitumen",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3863",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The best road suitable for pneumatic & iron-wheeled vehicles is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "earth road",
+      "b": "WBM road",
+      "c": "bituminous road",
+      "d": "concrete road"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3864",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which vehicle has the highest equivalent pcu",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "car",
+      "b": "light truck",
+      "c": "hand cart",
+      "d": "bullock cart"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3865",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which one is not concerned with the cross section of road?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "camber",
+      "b": "thickness",
+      "c": "width",
+      "d": "gradient"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3866",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The standard equation of a cubic parabolic transition curve provided on roads, is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "x/ 6RL",
+      "b": "x^2/ 6RL",
+      "c": "x^3/ 6RL",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3867",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Setback distance is the distance between",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Center line of horizontal curve and building line",
+      "b": "road land boundary and control line",
+      "c": "building line and control line",
+      "d": "road land boundary and control line"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3868",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A road gradient at which a vehicle does not require any tractive force, to maintain the specific speed is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "natural gradient",
+      "b": "floating gradient",
+      "c": "ruling gradient",
+      "d": "pushing gradient"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3869",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "For calculating the minimum value of the ruling radius of horizontal curves in plains, the design speed is taken as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "12 kmph",
+      "b": "16 kmph",
+      "c": "20 kmph",
+      "d": "24 kmph"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3870",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The absolute minimum radius of the curve for safe operation for a speed of 100 kmph is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "100 m",
+      "b": "200 m",
+      "c": "300 m",
+      "d": "400 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3871",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The difference in gradients after full superelevation and the original alignment of a road is known as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "ruling gradient",
+      "b": "limiting gradient",
+      "c": "floating gradient",
+      "d": "differential gradient"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3872",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The percentage reduction of the gradient for compensating the loss of tractive force of the vehicle along a radius R is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "1/ R",
+      "b": "50/R",
+      "c": "75/R",
+      "d": "100/R"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3873",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The ability of a driver to stop the vehicle moving at the design speed depends upon",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "perception time",
+      "b": "brake reaction time",
+      "c": "brake efficiency",
+      "d": "friction between the road surface and the vehicle"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3874",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Pavements are classified, based on ________ factors.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Earth surface",
+      "b": "Materials used",
+      "c": "Rigidity of the pavement",
+      "d": "Distributing loads"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3875",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "When the degree of a road curve is defined by taking an arc of 30 m in length, the radius of 1° curve would be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "1619 m",
+      "b": "1718.9 m",
+      "c": "1197 m",
+      "d": "1971 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3876",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Set back distance is the distance between the road land boundary and building line which depends on",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "required sight distance",
+      "b": "radius of horizontal curve",
+      "c": "length of the curve",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3877",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The normal height of the driver's eye (NRS 2070) above the road surface is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "120 cm above road level",
+      "b": "150 cm above road level",
+      "c": "180 cm above road level",
+      "d": "200 cm above road level"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3878",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Perception and break reaction time depend upon",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "speed of the vehicle",
+      "b": "alertness of the driver",
+      "c": "efficiency of brake",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3879",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "At horizontal curves on the highway, the inner side of the road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "lower than the outer face",
+      "b": "higher than the outer face",
+      "c": "same as the outer face",
+      "d": "all the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3880",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The road surfacing should be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "impervious",
+      "b": "durable",
+      "c": "stable",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3881",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Marked local depression in a surface layer arising from the wearing of a way of material, is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "pothole",
+      "b": "blow hole",
+      "c": "rut",
+      "d": "depression"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3882",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "An undesirable element to be avoided while fixing the alignment of a highway is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "straight and short route",
+      "b": "right angled crossing for bridges, culverts and level crossing",
+      "c": "rising ground and high embankment",
+      "d": "proximity to the place of worship"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3883",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The length of the vehicle has no effect on",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "width of shoulders",
+      "b": "passing sight distance",
+      "c": "minimum radius of turning",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3884",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Page testing machine is used for",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "stripping test",
+      "b": "attrition test",
+      "c": "abrasion test",
+      "d": "impact test"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3885",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "While performing attrition and loss Angles abrasion test the minimum weight of stones to be used should be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "5 kg",
+      "b": "2 kg",
+      "c": "8 kg",
+      "d": "7.5 kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3886",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Which test is carried out to know the resistance to flow, of the given bituminous material?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "softening point",
+      "b": "penetration",
+      "c": "ductility",
+      "d": "viscosity"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3887",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Surface condition of pavement is measured by",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "pump integrator",
+      "b": "bump integrator",
+      "c": "dump integrator",
+      "d": "lamp integrator"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3888",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Seal coat is a layer of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cement concrete",
+      "b": "coarse sand & bitumen",
+      "c": "water-repellent agent",
+      "d": "adhesive to improve the bond between aggregates"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3889",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Seal coat provides",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "desired grade",
+      "b": "camber",
+      "c": "an impervious layer",
+      "d": "all the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3890",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "In a proposed alignment, the type of soil which will not be preferred is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "soft rock",
+      "b": "ordinary soil",
+      "c": "hard rock",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3892",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "In a gravel road, the amount of clay in a gravel mix varies in between",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "0% to 10%",
+      "b": "15% to 25%",
+      "c": "30% to 50%",
+      "d": "50% to 90%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3893",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The road metal thickness of the layer to be compacted should not exceed",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "5 cm",
+      "b": "10 cm",
+      "c": "15 cm",
+      "d": "30 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3894",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Sub-base course is provided not to improve",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "bearing capacity of the sub-grade",
+      "b": "capillary rise of the soil",
+      "c": "drainage action of the soil",
+      "d": "durability of the sub-grade"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3895",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The coefficient of friction is greater when the pavement surface is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "wet",
+      "b": "smooth",
+      "c": "rough and dry",
+      "d": "rough and wet"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3896",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The pressure intensity at sub-grade should be ______ bearing capacity.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "less than",
+      "b": "more than",
+      "c": "equal",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3897",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The pavement suitable for very heavy traffic loads is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "cement concrete",
+      "b": "RCC",
+      "c": "surface dressed macadam",
+      "d": "bituminous grouted macadam"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3898",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The thickness of the road surfacing depends upon the",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "type of traffic",
+      "b": "intensity of traffic",
+      "c": "type of material",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3899",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The width of the vehicle influences",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "width of lanes",
+      "b": "passing sight distance",
+      "c": "width of shoulders",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3900",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The overall length of the vehicle affects the",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "turning radii of the curves",
+      "b": "time needed to overtake",
+      "c": "off-tracking of vehicle",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3901",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "For highway geometric design purposes, the speed used is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "98th percentile",
+      "b": "90th percentile",
+      "c": "75th percentile",
+      "d": "50th percentile"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3902",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Minimum permissible speed on high speeds roads, is decided on the basis of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "98th percentile",
+      "b": "90th percentile",
+      "c": "75th percentile",
+      "d": "50th percentile"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3903",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The raised areas constructed within the roadway to establish physical channels through which the traffic may be guided are called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "footpath",
+      "b": "traffic island",
+      "c": "conflict area",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3904",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "If the cross slope of a country is up to 10%, the terrain is classified as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "plain",
+      "b": "rolling",
+      "c": "mountains",
+      "d": "steep"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3905",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The minimum length of transition curve in hill road",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "10 m",
+      "b": "15 m",
+      "c": "20 m",
+      "d": "25 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3906",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The design speed for hill terrain of trunk road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "20 kmph",
+      "b": "30 kmph",
+      "c": "40 kmph",
+      "d": "50 kmph"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3907",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "If the wearing course of the road is 5 cm, the base course is 15 cm, sub-base course is 15 cm and the capping layer is 15 cm then what will be the thickness of the payment?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "35 cm",
+      "b": "50cm",
+      "c": "5 cm",
+      "d": "20 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3908",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The maximum super-elevation on hill roads should not exceed",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "7%",
+      "b": "8%",
+      "c": "9%",
+      "d": "10%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3909",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Which of the following layer of pavement should withstand a high level of deformation?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "Base course",
+      "b": "Sub-base",
+      "c": "Sub-grade",
+      "d": "Surfacing course"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3910",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "In highway engineering, which of the following terms is irrelevant?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "tail race",
+      "b": "kerb",
+      "c": "camber",
+      "d": "asphalt"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3911",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Obligatory points in a road alignment are points through which",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "the alignment is to pass",
+      "b": "the road alignment should not pass",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3912",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "If the cross slope of a country is 10% to 25%, the terrain is classified as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "plain",
+      "b": "rolling",
+      "c": "mountains",
+      "d": "steep"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3913",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "If the cross slope of the terrain is more than 60%, it is classified as",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "plain",
+      "b": "rolling",
+      "c": "mountains",
+      "d": "steep"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3914",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The minimum distance between two hairpin bends, when a number of hairpin bends are introduced, is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "30 m",
+      "b": "60 m",
+      "c": "90 m",
+      "d": "120 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3915",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The economic survey of a proposed road project includes a detailed survey of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "origin and destination of traffic",
+      "b": "agricultural and industrial products available in the area",
+      "c": "resources of income of local bodies as toll tax",
+      "d": "soil characteristics at various places"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3916",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "In the geometric design of highways the most controlling features are:",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "speed and comfort",
+      "b": "comfort and safety",
+      "c": "safety and speed",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3917",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Which of the following is not true about highway drainage?",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "excess moisture causes chemical reactions in subgrade and pavement materials",
+      "b": "excess moisture in the subgrade causes its instability",
+      "c": "excess moisture in the subgrade causes variation in the volume of the subgrade",
+      "d": "excess moisture in stabilized soil and water-bound macadam reduces the strength of the pavement"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3918",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The highest overall speed at which a driver can travel under prevailing conditions without exceeding the safe design speed is known as the",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "operating speed",
+      "b": "design speed",
+      "c": "critical speed",
+      "d": "maximum speed"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3919",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The main important modification made in Macadam's method of ad constriction with respect to the older method is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "subgrade drainage and compaction",
+      "b": "identified that foundation stones are not necessary at the bottom layer",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3920",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The stopping sight distance required in a down-slope road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "same as the horizontal road",
+      "b": "less than that in horizontal road",
+      "c": "more than that in the horizontal road",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3921",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The minimum required longitudinal gradient of the road is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "0.5%",
+      "b": "1.0%",
+      "c": "15%",
+      "d": "2.0%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3922",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "An idle pavement is constructed with",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "pre-mix carpeting",
+      "b": "brick soling",
+      "c": "reinforcement concrete",
+      "d": "base course"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3923",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The portion of a road causing a loud rumbling sound and vibration, when a vehicle passes over it is called",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "rumble strip",
+      "b": "zebra crossing",
+      "c": "bridge",
+      "d": "median strip"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3924",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The design of flexible pavements involves.",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "wheel loads",
+      "b": "intensity of traffic",
+      "c": "climate of the region",
+      "d": "sub-grade conditions"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3925",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "In the final layer, 1 cubic meter of sand is applied to the road surface for an area of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "160 to 180 sq cm",
+      "b": "160 to 180 sq. ft.",
+      "c": "160 to 180 sq yards",
+      "d": "160 to 180 sq. meters"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3926",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Compaction of a concrete slab is done with the help of",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "light roller",
+      "b": "heavy roller",
+      "c": "vibrator",
+      "d": "mixer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3927",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Longitudinal joints in concrete roads are provided if the width exceeds",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "3.0 m",
+      "b": "4.5 m",
+      "c": "7.5 m",
+      "d": "10 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3928",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "In a concrete road, when sub-grade is very poor and the road is subjected to heavy traffic, then",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "sub-base is provided",
+      "b": "reinforcement is provided",
+      "c": "soil is stabilized",
+      "d": "asphaltic concrete is provided on the surface."
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3929",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Bitumen is soluble in",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "diesel",
+      "b": "petrol",
+      "c": "ammonia",
+      "d": "carbon disulphide"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3930",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Reinforcement in cement concrete pavement is kept",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "5 cm below the top level",
+      "b": "5 cm high from the bottom level",
+      "c": "in the center of the slab.",
+      "d": "at the bottom of the slab"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3931",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "In order to reduce the danger of floods, the height of a road embankment should be",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "60 cm above the highest flood level of the area",
+      "b": "200 cm above the highest flood level of the area",
+      "c": "at a level equal to the highest flood level of the area",
+      "d": "100 cm above the groundwater level of the area"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3932",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "The desirable property of road stone is",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "hardness to resist rubbing",
+      "b": "toughness to resist fracture under impact",
+      "c": "good binding",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3933",
+    "chapter": "SECTION-IV"
+  },
+  {
+    "question": "Water absorption of the aggregates used for road marking should not exceed",
+    "topic": "Highway Engineering",
+    "options": {
+      "a": "0.3%",
+      "b": "0.6%",
+      "c": "1%",
+      "d": "1.5%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3934",
+    "chapter": "SECTION-IV"
+  }
+]

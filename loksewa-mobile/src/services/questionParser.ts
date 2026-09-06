@@ -135,16 +135,23 @@ function generateQuestionId(normalizedItem: RawQuestion, sourceName: string, ind
     normalizedItem.questionId || 
     `${sourceName}-${index + 1}`;
   
-  const topicHash = sourceName.replace(/[^a-zA-Z0-9]/g, '').substring(0, 8);
+  // Full sanitized source-name prefix (not truncated) so files with similar
+  // names (e.g. engineering_drawing vs engineering_economics) never collide.
+  const topicHash = sourceName.replace(/[^a-zA-Z0-9]/g, '');
   const cleanBaseId = String(baseId)
     .replace(/\s+/g, '_')
     .replace(/[^a-zA-Z0-9_-]/g, '_');
-  
-  return `${topicHash}_${cleanBaseId}`;
+
+  // The per-file ordinal makes ids globally unique even when a merged file
+  // reuses one question id/qn for more than one distinct row (observed in the
+  // 41-topic bank), which would otherwise corrupt id-keyed progress rows.
+  return `${topicHash}_${cleanBaseId}_q${index + 1}`;
 }
 
 // Manifest file list (from manifest.json)
 const MANIFEST_FILES = [
+  'questions/airport_engineering.json',
+  'questions/building_construction_technology.json',
   'questions/civil_service_act_and_regulation.json',
   'questions/concrete_technology.json',
   'questions/constitution_of_nepal.json',
@@ -157,22 +164,35 @@ const MANIFEST_FILES = [
   'questions/engineering_economics.json',
   'questions/engineering_professional_practice.json',
   'questions/estimation.json',
+  'questions/federal_affairs_and_general_administration.json',
   'questions/functional_scope_of_public_services.json',
   'questions/fundamentals_of_management.json',
+  'questions/general_information_and_legislation.json',
   'questions/geographical_diversity_climatic_condition_and_cultures.json',
   'questions/geography_of_nepal.json',
   'questions/geotechnical.json',
   'questions/governance_system_and_government.json',
   'questions/government_budgeting_and_accounting.json',
+  'questions/highway_engineering.json',
+  'questions/human_rights_good_governance.json',
+  'questions/human_values_and_civic_duties.json',
+  'questions/hydraulics.json',
+  'questions/iq_reasoning.json',
+  'questions/irrigation_engineering.json',
   'questions/major_natural_resources.json',
+  'questions/mechanics_of_materials_and_structures.json',
   'questions/modern_history_of_nepal.json',
+  'questions/office_management.json',
+  'questions/public_health_nutrition.json',
   'questions/public_policy.json',
   'questions/public_service_charter.json',
   'questions/structural_engineering.json',
   'questions/surveying.json',
   'questions/sustainable_development_science_and_technology.json',
   'questions/uno_saarc_and_bimstec.json',
+  'questions/water_supply_and_sanitation_engineering.json',
 ];
+
 
 interface ParsedQuestion {
   id: string;

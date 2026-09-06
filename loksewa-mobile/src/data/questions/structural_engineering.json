@@ -2260,5 +2260,2455 @@
     },
     "answer": "a",
     "explanation": "Shape factor S = Mp / My, representing the reserve strength of the section beyond initial yielding."
+  },
+  {
+    "question": "In reinforced cement concrete structures, the steel reinforcement consists of",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "deformed bars",
+      "b": "cold twisted bars",
+      "c": "mild steel and medium tensile steel bars",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1116",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In a singly reinforced beam, the effective depth is measured from its compression edge to",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "tensile edge",
+      "b": "tensile reinforcement",
+      "c": "neutral axis of the beam",
+      "d": "longitudinal central axis"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1117",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Main reinforcement in the RCC beam is used for",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "bending moment",
+      "b": "shear force",
+      "c": "moment of resistance",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1118",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Factor of safety is given by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "ultimate load/working load",
+      "b": "working load/ultimate load",
+      "c": "(w+u)load",
+      "d": "(u-w)load"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1119",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Generally compressive strength of the cover block is more than the compressive strength of the concrete. The main function of the cover block is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "maintain the cover side of the steel",
+      "b": "maintain cover below steel",
+      "c": "maintain cover above steel",
+      "d": "maintain cover between steel and formwork"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1120",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The factor of safety for steel as compared to concrete is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "same",
+      "b": "lower",
+      "c": "higher",
+      "d": "constant"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1121",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The factor of safety for steel is based on its",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "yield stress",
+      "b": "ultimate stress",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1122",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The type of failure in which stress in concrete and steel reaches its permissible value at a time is called balance failure. At this stage location of the neutral axis is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "above the critical neutral axis",
+      "b": "match with the critical neutral axis.",
+      "c": "below the critical neutral axis",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1123",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The main reason for providing a number of reinforcing bars at a support in a simply supported beam is to resist in that zone",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "tensile stress",
+      "b": "compressive stress",
+      "c": "shear stress",
+      "d": "bond stress"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1124",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Singly reinforced beam & doubly reinforced beam are decided based on",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "bending moment",
+      "b": "shear force",
+      "c": "bending moment & shear force",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1125",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "A doubly reinforced beam is used",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "when an extra safety factor is required",
+      "b": "when the depth and width of the beam is restricted",
+      "c": "when the depth of the beam is more than the width",
+      "d": "a large moment of resistance is desired"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1126",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In singly reinforced beams, steel is provided in",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "tensile zone",
+      "b": "compressive zone",
+      "c": "both tensile and compressive zone",
+      "d": "neutral zone"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1127",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The ratio of the modulus of elasticity of steel to that of concrete is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "modular ratio",
+      "b": "poisson's ratio",
+      "c": "elasticity ratio",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1128",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Shear in a concrete beam is caused by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "props only",
+      "b": "variation of B.M along the span",
+      "c": "weak bond",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1129",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In R.C.C. beams, the tension reinforcement can be cut off at a point when it is no longer needed if",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "enough bond length is available",
+      "b": "shear at cut off point does not exceed two-thirds of permissible at that section",
+      "c": "bending moment is zero",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1130",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In the working stress design, the allowable bending compressive strain in RCC is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.003",
+      "b": "0.0003",
+      "c": "0.002",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1131",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The ultimate bending compressive strain in RCC is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.003",
+      "b": "0.0035",
+      "c": "0.0003",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1132",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Dimensions of a beam need to be changed if the shear stress is more than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "10 kg/cm²",
+      "b": "15 kg/cm",
+      "c": "20 kg/cm²",
+      "d": "25 kg/cm²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1133",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The maximum shear stress (qmax) in a rectangular homogeneous beam is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "1.25 times the average",
+      "b": "1.50 times the average",
+      "c": "1.75 times the average",
+      "d": "2.0 times the average"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1134",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The beam section is redesigned if the shear stress exceeds the allowable shear stress by ___________ times.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1135",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The advantage of reinforced concrete, is due to",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "monolithic character",
+      "b": "fire-resisting and durability",
+      "c": "moulding in any desired shape",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1136",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The bond strength of the HYSD bar as compared to the plain bar is more",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "20%",
+      "b": "30%",
+      "c": "40%",
+      "d": "60%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1137",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Strength of tor steel as compared to mild steel is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal",
+      "d": "no relation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1138",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Analysis of reinforced concrete can be done by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "Straight line theory",
+      "b": "Elastic theory",
+      "c": "Ultimate load theory",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1139",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "By over-reinforcing a beam, the moment of resistance can be increased not more than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "10%",
+      "b": "15%",
+      "c": "20%",
+      "d": "25%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1140",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Normally, the tensile strength of concrete is about _______ of its compressive strength.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "10 to 15 %",
+      "b": "15 to 20 %",
+      "c": "20 to 25 %",
+      "d": "25 to 30 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1141",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "According to the steel beam theory of doubly reinforced beams,",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "tension is resisted by tension steel",
+      "b": "compression is resisted by compression steel",
+      "c": "stress in tension steel equals the stress in compression steel",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1142",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Bottom reinforcement in the beam used is subjected to",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "compression",
+      "b": "tension",
+      "c": "both",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1143",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Minimum embedment of reinforcement in concrete flexural members should be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "30Ø",
+      "b": "40 Ø",
+      "c": "50Ø",
+      "d": "60 Ø"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1144",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Shear reinforcement in an RCC beam is used for",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "bending moment",
+      "b": "shear force",
+      "c": "moment of resistance",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1145",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Increased depth of a beam causes",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "economy in steel",
+      "b": "economy in concrete",
+      "c": "increased stiffness of the section",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1146",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "An under-reinforced section means",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "steel is provided at the underside only",
+      "b": "steel provided is insufficient",
+      "c": "steel provided on one face only",
+      "d": "steel will yield first"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1147",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In a rectangular R.C.C beam, the ratio of maximum shear stress to average shear stress is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "1.25",
+      "b": "1.33",
+      "c": "1.43",
+      "d": "1.53"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1148",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "Side face reinforcement is provided in a beam when the depth of the web in a beam exceeds",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "250 mm",
+      "b": "500 mm",
+      "c": "750 mm",
+      "d": "1000 mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1149",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The maximum spacing of side-face reinforcement in a beam should be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "100 mm",
+      "b": "200 mm",
+      "c": "300 mm",
+      "d": "400 mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1150",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In a singly reinforced beam, if the stress in a concrete reaches its allowable limit earlier than the steel reaches its permissible limit, the beam section is called",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "over reinforced section",
+      "b": "under reinforced section",
+      "c": "balanced section",
+      "d": "economical section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1151",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In a singly reinforced beam, subjected to shear force F, if d is the depth and b is the width of the section then maximum shear stress",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "F/b*d",
+      "b": "F/bd^2",
+      "c": "F/(b^2d)",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1152",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In a singly reinforced beam, the effective cover is measured from",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "outer face of outer steel",
+      "b": "centroid of steel",
+      "c": "inner face of outer steel",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1153",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "In an RCC beam, if the amount of steel increases the depth of N.A.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "constant",
+      "b": "decreases",
+      "c": "increases",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1154",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The modular ratio m in terms of permissible compressive stress due to bending in a concrete cube (in N/mm²) is given by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "280/3σcbc",
+      "b": "2800/3σcbc",
+      "c": "280/2σcbc",
+      "d": "280/cσbc"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1155",
+    "chapter": "RC Sections-I"
+  },
+  {
+    "question": "The modular ratio for design purposes for M15 concrete is taken as",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "12.67",
+      "b": "15.67",
+      "c": "18.67",
+      "d": "21.67"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1156",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The minimum length of a bar that must be embedded in concrete beyond any section to develop a bond is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "development length",
+      "b": "lap length",
+      "c": "splice length",
+      "d": "curved length"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1157",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The lap length of a direct tension reinforcement bar in an RCC beam should be more than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "30 times the diameter of the bar",
+      "b": "48 times the of the bar",
+      "c": "24 times the diameter of the bar",
+      "d": "twice the development length or 30 times the diameter of the bar"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1158",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The minimum straight lap length in tension bars with hooks in R.C.C beam is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "15 times the diameter of the bar or 200mm",
+      "b": "12 times the diameter of the bar or 400mm",
+      "c": "20 times the diameter of the bar or 400mm",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1159",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The minimum lap length at the splice of compression reinforcement in R.C.C.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "24 times the diameter of the bar or lap length",
+      "b": "30 times the diameter of the bar or lap length",
+      "c": "48 times the diameter of the bar or lap length",
+      "d": "30 times the diameter of the bar or the twice the development length"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1160",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The minimum vertical spacing of the main bars in the R.C.C. beam should be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "diameter of the bar or maximum size of the aggregate + 5mm",
+      "b": "maximum size of the bar",
+      "c": "maximum size of the bar or 2/3 maximum size of the aggregate",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1161",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "Find the compressive strength of concrete M25 under bending compression",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "6 N/mm²",
+      "b": "7 N/mm²",
+      "c": "8.5 N/mm²",
+      "d": "25 N/mm²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1162",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "A doubly reinforced beam is economical as compared to a singly reinforced beam because",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "the size of the section is small",
+      "b": "the depth of the section is small",
+      "c": "compressive steel is under stress",
+      "d": "concrete is not stressed to its"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1163",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The maximum diameter of bars in the beam is limited to",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "25mm",
+      "b": "40 mm",
+      "c": "one-eighth of the least dimension of the beams",
+      "d": "one-tenth of the depth"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1164",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "Spacing of stirrups in a rectangular beam is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "kept constant throughout the length",
+      "b": "Increased towards the center of the beam",
+      "c": "Increased at the ends",
+      "d": "Increased at the center of the beam"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1165",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "In RCC beam, N.A means",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "not applicable",
+      "b": "neutral axis",
+      "c": "natural axis",
+      "d": "normal axis"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1166",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The minimum thickness of the cover at the end of a reinforcing bar should be twice the diameter of the bar subjected to a minimum of",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "10mm",
+      "b": "12mm",
+      "c": "15mm",
+      "d": "25mm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1167",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "In the analysis of doubly reinforced beam the assumption made is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "tension is resisted by concrete only",
+      "b": "compression is resisted by concrete only",
+      "c": "the deformations in concrete and steel on both sides remain proportional to their distance from the neutral axis",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1168",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "In a doubly reinforced beam the maximum shear stress occurs",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "along the centroid",
+      "b": "along the natural axis",
+      "c": "on planes between the neutral axis and the tensile reinforcement",
+      "d": "on planes between the neutral axis and the compressive reinforcement"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1169",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The development length of bars in tension as per 1.S: 456 is given by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "4 φσs /τbd",
+      "b": "φσs /4τbd",
+      "c": "2φσs /3τbd",
+      "d": "φσs /3τbd"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1170",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "In a beam spacing of shear reinforcement is kept ______________ at the center as compared to the end.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "minimum",
+      "b": "maximum",
+      "c": "constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1171",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "A simply supported beam shall be deemed to be a deep beam if the ratio of effective span to overall depth, is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "2",
+      "b": "2.5",
+      "c": "3",
+      "d": "3.5"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1172",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "A continuous depth, is beam shall be deemed to be a deep beam if the ratio of effective span to overall depth is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "2",
+      "b": "2.5",
+      "c": "3",
+      "d": "3.5"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1173",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "A beam curved in plan is designed for",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "bending moment and shear",
+      "b": "bending moment and torsion",
+      "c": "shear and torsion",
+      "d": "bending moment, shear, and torsion"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1174",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The shear reinforcement in the RCC beam is provided to resist",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "diagonal tension",
+      "b": "diagonal compression",
+      "c": "vertical shear",
+      "d": "horizontal shear"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1175",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "A diagonal crack is introduced in a beam due to",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "BM",
+      "b": "SF",
+      "c": "BM & SF",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1176",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The analysis of the slab spanning in one direction is done by assuming it to be a beam of",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "1m length",
+      "b": "1m width",
+      "c": "1m² area",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1177",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "In a slab, the transverse reinforcement is provided at _______ to the span of a slab.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "45°",
+      "b": "60°",
+      "c": "75°",
+      "d": "90°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1178",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The one-way slab is one:",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "which is short and bends in two directions",
+      "b": "the slab which bends only along one direction",
+      "c": "reinforced in one direction only",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1179",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The amount of reinforcement for main bars in a slab, is based upon",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "minimum bending moment",
+      "b": "maximum bending moment",
+      "c": "minimum shear stress",
+      "d": "minimum shear stress"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1180",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "In a slab, the pitch of the main reinforcement should not exceed its effective depth",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "three times",
+      "b": "four times",
+      "c": "five times",
+      "d": "six times"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1181",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The designed main bars are placed in a two-way slab",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "along the short span",
+      "b": "along the long span",
+      "c": "perpendicular to the length of the slab",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1182",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "In a slab, the pitch of the distribution reinforcement should not exceed its effective depth",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "three times",
+      "b": "four times",
+      "c": "five times",
+      "d": "six times"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1183",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "Distribution reinforcement in a simply supported slab, is provided to distribute",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "load",
+      "b": "temperature stress",
+      "c": "shrinkage stress",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1184",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "Minimum spacing between horizontal parallel reinforcements of the same size should not be less than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "one diameter",
+      "b": "two diameters",
+      "c": "three diameters",
+      "d": "four diameters"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1185",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "Minimum spacing between horizontal parallel reinforcements of different sizes should not be less than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "one times of thinner bar",
+      "b": "two times of thinner bar",
+      "c": "one time of thicker bar",
+      "d": "two times of thicker bar"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1186",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The ratio of the diameter of reinforcing bars and the slab thickness is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "1/5",
+      "b": "1/6",
+      "c": "1/7",
+      "d": "1/8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1187",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "If the thickness of the slab is 100 mm then the maximum diameter of the bar placed in the slab should be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "8 mm",
+      "b": "10 mm",
+      "c": "12 mm",
+      "d": "16 mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1188",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "An RCC roof slab is designed as a two-way slab if",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "it supports the live load in both directions",
+      "b": "the ratio of spans in both directions is less than two",
+      "c": "the slab is continuous over two supports",
+      "d": "the slab is discontinuous at edges"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1189",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "If the corners of a two-way slab are held down firmly",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "the buckling takes place",
+      "b": "the deflection at the center increases",
+      "c": "the cracks develop near the corners",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1190",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "For a continuous slab of 3mx3.5m in size, the minimum overall depth of the slab to satisfy the vertical deflection limit is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "5cm",
+      "b": "7.5cm",
+      "c": "9cm",
+      "d": "12cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1191",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "In a simply supported slab, alternate bars are curtailed at",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "1/4th of span",
+      "b": "1/5th of span",
+      "c": "1/6th of span",
+      "d": "1/7th of span"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1192",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The amount of reinforcement for main bars in a slab, is based on",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "minimum shear force",
+      "b": "maximum shear force",
+      "c": "minimum bending moment",
+      "d": "maximum bending moment"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1193",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The minimum cover in a slab is neither less than the diameter of the bar nor less than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "15 mm",
+      "b": "20 mm",
+      "c": "25 mm",
+      "d": "30 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1194",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The maximum area of tension reinforcement in beams shall not exceed",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.15%",
+      "b": "1.5%",
+      "c": "4%",
+      "d": "1%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1195",
+    "chapter": "RC Sections-II"
+  },
+  {
+    "question": "The effective span of a simply supported slab, is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "distance between the centres of the bearings",
+      "b": "clear distance between the inner faces of the walls plus twice the thickness of the wall",
+      "c": "clear span plus effective depth of the slab",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1197",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "For a continuous slab of 3mx3.5m size, the minimum overall depth of the slab to satisfy the vertical deflection limit is.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "5cm",
+      "b": "7.5cm",
+      "c": "9cm",
+      "d": "12cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1201",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The main reinforcement in R.C.C. continuous members is placed at",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "top fibre",
+      "b": "side fibres",
+      "c": "bottom fibre",
+      "d": "top and bottom fibres"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1202",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": ". A continuous beam shall be deemed to be a deep beam if the ratio of effective span to overall depth, is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "2.5",
+      "b": "2.0",
+      "c": "less than 2",
+      "d": "less than 2.5"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1203",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "If the sides of a slab simply supported on edges and spanning in two directions are equal, the maximum bending moment is multiplied by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.2",
+      "b": "0.3",
+      "c": "0.4",
+      "d": "0.5"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1205",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "Steel beam theory is used for",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "design of simple steel beams",
+      "b": "steel beams encased in concrete",
+      "c": "doubly reinforced beams ignoring compressive stress in concrete",
+      "d": "beams if shear exceeds 4 times allowable shear stress"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1206",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "In a singly reinforced beam (concrete), as the load increases",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "only concrete will resist tension",
+      "b": "only steel bars will resist tension",
+      "c": "both concrete and steel will resist tension",
+      "d": "both concrete & steel resist compression"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1207",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "Laps in bars are equal to",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "bond length",
+      "b": "twice the bond length",
+      "c": "1.5 to twice the bond length",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1208",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The amount of reinforcement for main bars in a slab is based upon",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "maximum bending moment.",
+      "b": "minimum shear force",
+      "c": "maximum shear force",
+      "d": "minimum bending moment"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1209",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "A balanced design of a beam is a condition where the _______ stresses occurring are equal to the permissible stress.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "least",
+      "b": "average",
+      "c": "greatest",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1210",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "A reinforced concrete beam will crack if tensile stress set up in the concrete below the neutral axis is:",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "less than the permissible stress",
+      "b": "more than the permissible stress",
+      "c": "equal to the permissible stress",
+      "d": "any one of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1211",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The moment of resistance of an under-reinforced section is computed on the basis of",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "compressive force developed in concrete",
+      "b": "tensile force developed in steel",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1212",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "In a beam section, if the steel reinforcement is of such a magnitude that the permissible stresses in concrete and steel are developed simultaneously, the section is known as:",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "balanced section",
+      "b": "critical section",
+      "c": "economical section",
+      "d": "any one of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1213",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "Two layers of tensile reinforcement bars are placed in flexural members in such a way that the effective depth would be:",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "maximum",
+      "b": "minimum",
+      "c": "negative",
+      "d": "zero"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1214",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "For a reinforced concrete section the shape of the shear stress diagram is:",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "wholly parabolic",
+      "b": "wholly rectangular",
+      "c": "parabolic above the neutral axis and rectangular below the neutral axis",
+      "d": "rectangular above the neutral axis and parabolic below the neutral axis"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1215",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "In an over-reinforced concreted section, the failure starts at:",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "compression face",
+      "b": "tension face",
+      "c": "neutral axis",
+      "d": "diagonals"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1216",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The maximum strain in the tension reinforcement in the section of the flexural member at failure shall not be less than (if fy is the characteristic strength of steel and Es is the modulus of elasticity of steel):",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.0020",
+      "b": "fy /(1.15Fs) 0.002",
+      "c": "fy/(1.15Es)+0.003",
+      "d": "0.0300"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1217",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "A flat slab is supported:",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "on beams",
+      "b": "on columns",
+      "c": "on beams and columns",
+      "d": "on columns monolithically built with a slab"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1218",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The ratio of ultimate strength to working stress is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "distribution factor",
+      "b": "load factor",
+      "c": "safety factor",
+      "d": "shape factor"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1220",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The relation between modulus of rupture (fcr) and cube strength of concrete (fck) is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "fcr =0.35 √fck",
+      "b": "fcr =0.7√ fck",
+      "c": "fcr =0.5 √fck",
+      "d": "fcr =0.2√fck"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1221",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The relation between the split tensile strength (fct) and compressive strength (fck) for cube",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "fct =0.35 √fck",
+      "b": "fct =0.7√ fck",
+      "c": "fct =0.5 √fck",
+      "d": "fct =0.2√fck"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1222",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The maximum ratio of span to depth of a cantilever slab, is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "8",
+      "b": "10",
+      "c": "12",
+      "d": "14"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1223",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "Design of R.C.C. cantilever beams, is based on the resultant force at",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "fixed end",
+      "b": "free end",
+      "c": "mid span",
+      "d": "mid span and fixed support"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1224",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "For an RCC section, select the most true statement from the following",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "Bond stress= Bond Load/X-area of rebar",
+      "b": "In a doubly reinforced section, rebars are placed at two tiers on the tensile face",
+      "c": "Shear stress () is perpendicular to the material cross-section",
+      "d": "Shear stress in rebar is calculated as () =Shear force/Nominal surface area of rebar"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1225",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The effective width of a column strip of a flat slab is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "one-fourth the width of the panel",
+      "b": "half the width of the panel",
+      "c": "the radius of the column",
+      "d": "the diameter of the column"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1226",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "Shear stress diagram of a homogeneous beam is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "rectangular",
+      "b": "triangular",
+      "c": "parabolic",
+      "d": "elliptical"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1227",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "Modulus of rupture is a measure of",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "direct tensile strength",
+      "b": "split tensile strength",
+      "c": "flexural tensile strength",
+      "d": "direct compressive strength"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1228",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "Modulus of elasticity for concrete improves by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "age",
+      "b": "higher w/c ratio",
+      "c": "shorter curing period",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1229",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The relation between the modulus of rupture (fcr), splitting strength (fcs) and direct tensile ( fck) strength is given by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "fcr >fcs >fct",
+      "b": "fcr <fcs <fct",
+      "c": "fcr =fcs =fct",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1230",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The relation between modulus of rupture (fcr) and cube strength of concrete (fck) is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "fcr =a.35 √fck",
+      "b": "fcr 0.7√ fck",
+      "c": "fcr =a.5 √fck",
+      "d": "fcr =b.2√fck"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1231",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The relation between the split tensile strength (fct) and compressive strength (fck) for cube",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "fct =a.35 √fck",
+      "b": "fct 0.7√ fck",
+      "c": "fct =a.5 √fck",
+      "d": "fct =b.2√fck"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1232",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The center-to-center spacing of vertical stirrups in a rectangular beam is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "minimum near the support",
+      "b": "maximum near the support",
+      "c": "minimum near the center",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1233",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The minimum cover to the main bars in the R.C.C. beam should be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "15mm or the diameter of the bar",
+      "b": "25mm or the diameter of the bar",
+      "c": "25mm size of the aggregate",
+      "d": "40 mm or the diameter of the bar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1234",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The maximum ratio of span to depth of a slab simply supported and spanning in one direction, is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "25",
+      "b": "30",
+      "c": "35",
+      "d": "40"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1235",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The maximum ratio of span to depth of a slab simply supported and spanning in two directions, is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "25",
+      "b": "30",
+      "c": "35",
+      "d": "40"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1236",
+    "chapter": "RC Sections-III"
+  },
+  {
+    "question": "The shape of a column should be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "circular",
+      "b": "rectangular",
+      "c": "square",
+      "d": "any one of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1237",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The diameter of longitudinal bars in a column should not be less than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "4mm",
+      "b": "8mm",
+      "c": "12mm",
+      "d": "16mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1238",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The limits of the percentage of the longitudinal reinforcement in a column is given by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.8% to 6%",
+      "b": "0.8%",
+      "c": "1% to 4%",
+      "d": "1.0% to 6%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1239",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "Slender column is a ___________ column.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "short",
+      "b": "long",
+      "c": "mix",
+      "d": "column of varying c/s"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1240",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "A column is considered a long column if its slenderness ratio is more than :",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "28",
+      "b": "12",
+      "c": "20",
+      "d": "24"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1241",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "If the slenderness ratio for a column is 100 then the column is said to be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "long",
+      "b": "medium",
+      "c": "short",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1242",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The maximum reinforcement in a column to consider the practical problem",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "4%",
+      "b": "5%",
+      "c": "6%",
+      "d": "8%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1243",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The minimum amount of steel required in the RCC column (230x350) is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "360 mm²",
+      "b": "460 mm²",
+      "c": "560 mm²",
+      "d": "600 mm²"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1244",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The following consideration decides the spacing of transverse reinforcement of the column.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "the least lateral dimension of the column",
+      "b": "sixteen times the diameter of the smallest longitudinal reinforcing rod in the column",
+      "c": "forty-eight times the diameter of transverse reinforcement",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1245",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The ratio of the effective length of a column which is fixed at both ends to the distance between the supports is about",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "2.0",
+      "b": "1.0",
+      "c": "0.7",
+      "d": "0.50"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1246",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The ratio of the effective length of a cantilever column to its height is about",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "2.5",
+      "b": "2.0",
+      "c": "1.5",
+      "d": "1.0"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1247",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The minimum cover for the ties or spiral should not be less than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "8 mm",
+      "b": "10 mm",
+      "c": "12 mm",
+      "d": "25 mm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1248",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The minimum number of main bars in the circular column is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "12"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1249",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The minimum number of main bars in the octagonal column is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "12"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1250",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The diameter of bars normally used in column",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "10-25 m",
+      "b": "12-25 m",
+      "c": "14-25 m",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1251",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The slenderness ratio of the R.C.C column is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "l/r",
+      "b": "l/B",
+      "c": "l/D",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1252",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "A column is considered a long column if its slenderness ratio is more than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "40",
+      "b": "20",
+      "c": "24",
+      "d": "28"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1253",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "As per IS: 456 the column is considered as a short column if its slenderness ratio is more than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "18",
+      "d": "24"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1254",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "If the effective length of a 32 cm diameter column is 4.40 mts, the slenderness ratio is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "45",
+      "b": "50",
+      "c": "55",
+      "d": "60"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1255",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The long column takes a lesser load as compared to short column due to",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "buckling",
+      "b": "concrete",
+      "c": "steel",
+      "d": "length"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1256",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "A column that fails by buckling is called a long column while a failure by crushing is called",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "big column",
+      "b": "long column",
+      "c": "small column",
+      "d": "short column"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1257",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "Buckling occurs in a column",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "great",
+      "b": "short",
+      "c": "too great",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1258",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The maximum spacing between longitudinal bars in a column is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "200mm",
+      "b": "300mm",
+      "c": "400mm",
+      "d": "500mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1259",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "In a column the pitch of the ties shall be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "least lateral dimension of the column",
+      "b": "16*Ø of the smallest longitudinal bar",
+      "c": "48*Ø of transverse reinforcement",
+      "d": "least of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1260",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The load-carrying capacity of a helically reinforced column compared to a tied column is approximately",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "5% less",
+      "b": "5% more",
+      "c": "10% less",
+      "d": "10% more"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1261",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "For a longitudinal reinforcing bar in a column, the minimum cover shall neither be less than the diameter of bar nor less than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "15mm",
+      "b": "20mm",
+      "c": "25mm",
+      "d": "40mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1262",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "Spacing of longitudinal bars measured along the periphery of the column should not be more than (as per IS: 456-2000)",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "20cm",
+      "b": "25cm",
+      "c": "30cm",
+      "d": "15cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1263",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "In the column, the minimum cover provided at the end of reinforcement is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "10mm",
+      "b": "25mm or 2Ø of bar whichever is greater",
+      "c": "40mm or greater than the diameter of the bar",
+      "d": "at least Ø of the bar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1264",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "Eccentrically loaded columns have to be designed for combined axial and _________.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "Shear force",
+      "b": "Bending moment",
+      "c": "Torsion",
+      "d": "Creep"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1265",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The reinforced cement concrete column, having helical reinforcement, should have at least _____ bars of longitudinal reinforcement within this helical reinforcement.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "two",
+      "b": "four",
+      "c": "six",
+      "d": "eight"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1266",
+    "chapter": "Axially Loaded RC Columns"
+  },
+  {
+    "question": "The reinforcement is bent at an inclination of ______ angle at the ends of the beam.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "45°",
+      "b": "60°",
+      "c": "135°",
+      "d": "90°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3608",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A twisted bar has about _______ more yield stress than ordinary mild steel bar.",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "10 %",
+      "b": "20 %",
+      "c": "35 %",
+      "d": "50 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3609",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For bars in tension a standard hook has an anchorage value equivalent to a straight length",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "8φ",
+      "b": "12φ",
+      "c": "16 φ",
+      "d": "20φ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3610",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "When a vertical member is carrying mainly axial loads, it is termed as a",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "strut",
+      "b": "column",
+      "c": "tie",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3611",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "According to load factor method, the permissible load ‘W’ on a short column reinforced with longitudinal bars and lateral stirrups is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "stress in concrete x area of concrete",
+      "b": "stress in steel x area of steel",
+      "c": "stress in concrete x area of concrete + stress in steel x area of steel",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3612",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The ultimate tensile strength of structural mild steel is about",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "160 N/mm²",
+      "c": "520 N/mm²",
+      "b": "260 N/mm²",
+      "d": "420 N/mm²"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3613",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A rigid frame is a structure composed of members that are connected by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "a single rivet",
+      "b": "rigid joints",
+      "c": "simple bearing",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3614",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In a singly reinforced beam",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "compression is borne entirely by concrete",
+      "b": "steel possesses initial stresses when embedded in concrete",
+      "c": "plane sections transverse to the centre line of the beam before bending remain plane sections after bending",
+      "d": "elastic modulus for concrete and steel have different values within the limits of deformation of the beam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3615",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Distribution of shear intensity over a rectangular section of beam follows",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "a circular curve",
+      "b": "a straight line",
+      "c": "a parabolic curve",
+      "d": "an elliptical curve"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3616",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The approximate allowable stress in bending compression in RCC is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.25fck",
+      "b": "0.33fck",
+      "c": "0.44fck",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3617",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The approximate allowable stress in axial compression in RCC is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.25fck",
+      "b": "0.33fck",
+      "c": "0.44 fck",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3618",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The tensile strength of concrete for RCC beam design is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.2fck",
+      "b": "0.1fck",
+      "c": "0.05fck",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3619",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Permissible tensile strength of concrete, M15 is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "150 kg/cm²",
+      "b": "15 kg/cm²",
+      "c": "150 N/mm²",
+      "d": "15 N/mm²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3620",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The transverse shear reinforcement in RCC beams can be provided as",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "ties",
+      "b": "closed loops only",
+      "c": "open or closed loops",
+      "d": "helical loops"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3621",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Steel beam theory is used for",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "design of simple steel beam",
+      "b": "steel beam encased in concrete",
+      "c": "beam if shear exceeds 4 times allowable shear stress",
+      "d": "doubly reinforced beams ignoring compressive stress in concrete"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3622",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the permissible stress in steel in tension is 140 N/mm² and concrete used is M15 then the depth of neutral axis for a singly reinforced balanced beam will be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "0.30 d",
+      "b": "0.35 d",
+      "c": "0.40 d",
+      "d": "0.45 d"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3623",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For a cantilever of effective depth of 50cm, the maximum span to satisfy vertical deflection limit is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "3.0m",
+      "b": "3.5m",
+      "c": "4.0m",
+      "d": "4.5m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3624",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "An RCC beam 23 x 46 cm in size has a span of L meter and carries a uniformly distributed total load of w kg. It is reinforced with 2 25mm bars. The deflection of the beam would be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "5wL^4/ 384EI",
+      "b": "5wL^4/ 64EI",
+      "c": "wL^4 /384EI",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3625",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Due to shrinkage stress, a simply supported beam having reinforcement only at bottom tends",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "deflect downward",
+      "b": "deflect upward",
+      "c": "deflect upward or downward",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3626",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The neutral axis of a T-beam exists",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "within the flange",
+      "b": "at the bottom edge of the slab",
+      "c": "below the slab",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3627",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A T-beam behaves like a rectangular beam of width equal to its flange if its neural axis",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "remains within the flange",
+      "b": "remains within the web",
+      "c": "coincide with geometrical center of the beam",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3628",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In a T beam overall depth of rib (in case of heavy load) is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "1/20 of the span",
+      "b": "1/15 of the span",
+      "c": "1/12 of the span",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3629",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In case of cantilever beam, main reinforcement is provided",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "top face of beam",
+      "b": "bottom face of beam",
+      "c": "middle face of beam",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3630",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Shear stress is not taken by",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "horizontal steel",
+      "b": "vertical steel",
+      "c": "inclined steel",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3631",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The radius of bar bend to form a hook should not be less than",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "twice the diameter",
+      "b": "thrice the diameter",
+      "c": "four times the diameter",
+      "d": "five times the diameter"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3632",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The length of straight portion of a bar beyond the end of the hook, should be at least",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "four times the diameter",
+      "b": "five times the diameter",
+      "c": "six times the diameter",
+      "d": "seven times the diameter"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3633",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The anchorage value of standard hook is taken as 16 times the diameter of the reinforcing bar, if the angle of the bend is equal to",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "30°",
+      "b": "40°",
+      "c": "180°",
+      "d": "any of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3634",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The anchorage value of standard bend is",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "4 φ",
+      "b": "8 φ",
+      "c": "12 φ",
+      "d": "16 φ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3635",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "When an inclined or horizontal member is carrying mainly axial loads, it is termed as",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "strut",
+      "b": "column",
+      "c": "tie",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3636",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "As per NBC:105, minimum number of bars in R.C.C. rectangular columns must be",
+    "topic": "Structural Engineering",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3637",
+    "chapter": "SECTION-I"
   }
 ]

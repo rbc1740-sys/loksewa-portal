@@ -7,14 +7,14 @@ import {
   type RemoteBankFile,
 } from './questionParser';
 
-// These run the real bundler pipeline over all 27 shipped question files.
+// These run the real bundler pipeline over all 41 shipped question files.
 describe('getBundledQuestions (bundled question bank)', () => {
   let questions: Awaited<ReturnType<typeof getBundledQuestions>>;
 
   it('loads a large bank of questions', async () => {
     questions = await getBundledQuestions();
     expect(questions.length).toBeGreaterThan(4000);
-  });
+  }, 30000);
 
   it('produces unique ids', async () => {
     const list = questions ?? (await getBundledQuestions());

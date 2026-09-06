@@ -514,5 +514,509 @@
     },
     "answer": "a",
     "explanation": "Article 51 enshrines state policies aimed at ensuring equitable distribution of opportunities, public services, and balanced regional development[cite: 12]."
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह के हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "राज्यको दायित्व",
+      "b": "जनताको अधिकार",
+      "c": "वैधानिकताको पुष्टि",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5002",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहका माध्यम तलका मध्ये कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक संस्थानहरू",
+      "b": "गैर सरकारी संयन्त्र",
+      "c": "निजी क्षेत्र",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5003",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह गर्दा त्यसको अन्तिम उत्तरदायित्व कसको हुन्छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सम्बन्धित निकाय",
+      "b": "सरकार",
+      "c": "सम्बन्धित निकाय र उपभोक्ता",
+      "d": "उपभोक्ता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5004",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिनेमा, संगीत, पार्क, नाचघर आदि जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "मनोरञ्जन सम्बन्धी सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5005",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विपद, द्वन्द, संकट, जोखिम, प्रकोप, व्यवस्थापन, राहत उदार जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "परम्परागत सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5006",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह मापन गर्ने आधार कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सरसफाइ तथा खानेपानी",
+      "b": "गरिबीको ‍अवस्था",
+      "c": "रोजगारीको अवस्था",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5007",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाह गर्ने कार्य योजना तयार गर्ने",
+      "b": "सेवाग्राहीको माग, आवश्यकता तथा प्राथमिकताको पहिचान गर्ने",
+      "c": "सेवामा सबैको समान पहुँच कायम राख्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5008",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा घुम्ती सेवाको सुरुवात कहिले देखि भएको हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "वि.सं. २०५९",
+      "b": "वि.सं. २०६०",
+      "c": "वि.सं. २०६१",
+      "d": "वि.सं. २०६२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5009",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहको विशेषतामा तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाहमा निरन्तरता",
+      "b": "सेवा प्रवाहमा एकरुपता",
+      "c": "सेवा प्रवाहमा विविधता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5010",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलकम मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "असन्तुष्ट सेवाप्रति गुनासो गर्ने",
+      "b": "नियम, कानुन र प्रक्रियाको पालना गर्ने",
+      "c": "राज्यलाई समयमै कर तिर्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5011",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका भनाई बारे बिचार गर्नुहोस् ।",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो",
+      "b": "सार्वजनिक सेवा प्रवाह जनताको अधिकार हो",
+      "c": "माथिका दुवै ठिक छन्",
+      "d": "माथिका दुवै गलत छन्"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5012",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5013",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह के हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "राज्यको दायित्व",
+      "b": "जनताको अधिकार",
+      "c": "वैधानिकताको पुष्टि",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5002",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहका माध्यम तलका मध्ये कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक संस्थानहरू",
+      "b": "गैर सरकारी संयन्त्र",
+      "c": "निजी क्षेत्र",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5003",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह गर्दा त्यसको अन्तिम उत्तरदायित्व कसको हुन्छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सम्बन्धित निकाय",
+      "b": "सरकार",
+      "c": "सम्बन्धित निकाय र उपभोक्ता",
+      "d": "उपभोक्ता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5004",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिनेमा, संगीत, पार्क, नाचघर आदि जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "मनोरञ्जन सम्बन्धी सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5005",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विपद, द्वन्द, संकट, जोखिम, प्रकोप, व्यवस्थापन, राहत उदार जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "परम्परागत सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5006",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह मापन गर्ने आधार कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सरसफाइ तथा खानेपानी",
+      "b": "गरिबीको ‍अवस्था",
+      "c": "रोजगारीको अवस्था",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5007",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाह गर्ने कार्य योजना तयार गर्ने",
+      "b": "सेवाग्राहीको माग, आवश्यकता तथा प्राथमिकताको पहिचान गर्ने",
+      "c": "सेवामा सबैको समान पहुँच कायम राख्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5008",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा घुम्ती सेवाको सुरुवात कहिले देखि भएको हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "वि.सं. २०५९",
+      "b": "वि.सं. २०६०",
+      "c": "वि.सं. २०६१",
+      "d": "वि.सं. २०६२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5009",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहको विशेषतामा तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाहमा निरन्तरता",
+      "b": "सेवा प्रवाहमा एकरुपता",
+      "c": "सेवा प्रवाहमा विविधता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5010",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलकम मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "असन्तुष्ट सेवाप्रति गुनासो गर्ने",
+      "b": "नियम, कानुन र प्रक्रियाको पालना गर्ने",
+      "c": "राज्यलाई समयमै कर तिर्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5011",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका भनाई बारे बिचार गर्नुहोस् ।",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो",
+      "b": "सार्वजनिक सेवा प्रवाह जनताको अधिकार हो",
+      "c": "माथिका दुवै ठिक छन्",
+      "d": "माथिका दुवै गलत छन्"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5012",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5013",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह के हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "राज्यको दायित्व",
+      "b": "जनताको अधिकार",
+      "c": "वैधानिकताको पुष्टि",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5002",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहका माध्यम तलका मध्ये कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक संस्थानहरू",
+      "b": "गैर सरकारी संयन्त्र",
+      "c": "निजी क्षेत्र",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5003",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह गर्दा त्यसको अन्तिम उत्तरदायित्व कसको हुन्छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सम्बन्धित निकाय",
+      "b": "सरकार",
+      "c": "सम्बन्धित निकाय र उपभोक्ता",
+      "d": "उपभोक्ता"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5004",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिनेमा, संगीत, पार्क, नाचघर आदि जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "मनोरञ्जन सम्बन्धी सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5005",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विपद, द्वन्द, संकट, जोखिम, प्रकोप, व्यवस्थापन, राहत उदार जस्ता विषयका सेवा प्रवाह कस्तो प्रकारको सार्वजनिक सेवा प्रवाह अन्तर्गत पर्दछन ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "आकस्मिक सेवा",
+      "b": "आधारभुत सेवा",
+      "c": "परम्परागत सेवा",
+      "d": "कल्याणकारी सेवा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5006",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाह मापन गर्ने आधार कुन हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सरसफाइ तथा खानेपानी",
+      "b": "गरिबीको ‍अवस्था",
+      "c": "रोजगारीको अवस्था",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5007",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाह गर्ने कार्य योजना तयार गर्ने",
+      "b": "सेवाग्राहीको माग, आवश्यकता तथा प्राथमिकताको पहिचान गर्ने",
+      "c": "सेवामा सबैको समान पहुँच कायम राख्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5008",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा घुम्ती सेवाको सुरुवात कहिले देखि भएको हो ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "वि.सं. २०५९",
+      "b": "वि.सं. २०६०",
+      "c": "वि.सं. २०६१",
+      "d": "वि.सं. २०६२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5009",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहको विशेषतामा तलका मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सेवा प्रवाहमा निरन्तरता",
+      "b": "सेवा प्रवाहमा एकरुपता",
+      "c": "सेवा प्रवाहमा विविधता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5010",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलकम मध्ये कुन पर्दछ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "असन्तुष्ट सेवाप्रति गुनासो गर्ने",
+      "b": "नियम, कानुन र प्रक्रियाको पालना गर्ने",
+      "c": "राज्यलाई समयमै कर तिर्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5011",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका भनाई बारे बिचार गर्नुहोस् ।",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो",
+      "b": "सार्वजनिक सेवा प्रवाह जनताको अधिकार हो",
+      "c": "माथिका दुवै ठिक छन्",
+      "d": "माथिका दुवै गलत छन्"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5012",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "Functional Scope of Public Services",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5013",
+    "chapter": "SECTION-I"
   }
 ]

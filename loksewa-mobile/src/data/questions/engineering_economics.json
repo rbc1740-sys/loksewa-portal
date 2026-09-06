@@ -1522,5 +1522,1293 @@
     },
     "answer": "d",
     "explanation": "Financial ratio analysis of a firm is utilized by multiple stakeholders including management, shareholders, and external financial analysts[cite: 1]."
+  },
+  {
+    "question": "IF P is the principal amount, i is the rate of interest, and n is the number of periods in years, then the interest factor is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "(1+ni)",
+      "b": "(ni-1)",
+      "c": "ni",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8718",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The interest calculated on the basis of 365 days a year is known as:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "interest",
+      "b": "ordinary simple interest",
+      "c": "exact simple interest",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8719",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "What type of interest is periodically added to the investment amount, so that subsequent interest is calculated on the cumulative total?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "simple interest",
+      "b": "compound interest",
+      "c": "differential interest",
+      "d": "equal interest"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8720",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The sum of principal and compound interest is known as the compound amount, which is computed by the formula:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "A = P(1+r)^n",
+      "b": "A = prt /100",
+      "c": "A = pt/100r",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8721",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The compound amount factor (CAF) is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "(1+i)^n",
+      "b": "(1+i)^2n",
+      "c": "(n+i)^½",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8722",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If S is the future capital accumulated in n years at the rate of interest i per annum, then present worth is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "S/(1+i)^n",
+      "b": "S(1+i)^n",
+      "c": "S(1+i)1/n",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8723",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The present value of an amount is ______ compared to the future value:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "lesser",
+      "b": "greater",
+      "c": "constant",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8724",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A series of equal payments occurring at equal periods of time to obtain a certain amount is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "fixed deposit",
+      "b": "equal deposit",
+      "c": "annuity",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8725",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Pickup the correct statement:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "An annuity is a series of equal payments occurring at equal periods of time",
+      "b": "Annuity is called an equal payment or uniform payment series",
+      "c": "An annuity may have periods of time of any length but should always be of equal length",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8726",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The capital recovery factor (equal payments) of Capital Recovery Annuity is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "i(1+i)^n/((1+i)^n-1)",
+      "b": "(1+i)^n/((1+i)^n-1)",
+      "c": "(i(1+i)^n)-1/((1+i)^n+1)",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8728",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If interest is paid more than once in a year, i is the rate of interest per year, n is the number of periods in years, and m is the number of periods per year, compound amount factor (CAF) is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "(1+i/m)^n*m",
+      "b": "(1+1/n)^m",
+      "c": "(1+i/n)^1/m",
+      "d": "(1+i/m)^1/n"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8729",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The relation between nominal interest rate and effective interest rate (i) is given by:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "A=P (1+r)^n",
+      "b": "i=[(1+r/m)^m]-1",
+      "c": "A=Prt/100",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8730",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Annual series of amounts for a period equivalent to the cash inflows and/or cash outflows, computed with deduction of expenses and capital recovery receipts, is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "annual worth",
+      "b": "annual loss",
+      "c": "annual profit",
+      "d": "present worth"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8731",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "What term refers to non-human resources such as land, raw materials, tools, machinery, buildings, and inventories, which are used in the production of goods and services?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Future investment",
+      "b": "Capital recovery",
+      "c": "Sinking fund",
+      "d": "Capital"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8732",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In a project, equal investment is done for future value, then it is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "future investment",
+      "b": "capital recovery",
+      "c": "sinking fund",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8733",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The difference between the actual cost of the project and the targeted cost is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "loss",
+      "b": "profit",
+      "c": "variance",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8735",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The product of CAF(SP) and PWF(SP) is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "1/2",
+      "b": "1",
+      "c": "1/3",
+      "d": "1/4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8736",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The amount of money payable to the beneficiary at regular intervals for a prescribed period out of a fund reserved for the purpose is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "interest",
+      "b": "annuity",
+      "c": "principal amount",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8737",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Benefit-cost ratio is the ratio of",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "PVB/PVC",
+      "b": "PVC/PVB",
+      "c": "FVB/FVC",
+      "d": "FVC/FVB"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8738",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The minimum value of the benefit-cost ratio for the selection of any project should be",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "less than one",
+      "b": "one",
+      "c": "greater than one",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8740",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The benefit-cost ratio is",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "directly proportional to a discount rate",
+      "b": "inversely proportional to a discount rate",
+      "c": "no relation with a discount rate",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8741",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Using benefit-cost ratio analysis, the project is said to be feasible if:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "C/B<1",
+      "b": "B/C < 1",
+      "c": "C/B>1",
+      "d": "B/C = 1"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8742",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which of the following has least significance in Benefit Cost Analysis of a Public Project?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "identification of relevant benefits and costs",
+      "b": "measurement of benefits and costs",
+      "c": "calculation of the payback period",
+      "d": "treatment of uncertainty"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8744",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Net Present Value (NPV) is defined as the total present value (PV) of _________ of cash flows.",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "a parallel series",
+      "b": "gross amount",
+      "c": "net amount",
+      "d": "a time series"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8745",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In what case project is feasible?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "PW>0",
+      "b": "PW<0",
+      "c": "PW is -ve",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8748",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "For the selection of any project, minimum future worth should be",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "zero",
+      "b": "less than zero",
+      "c": "greater than zero",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8749",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "For the selection of any project, which criteria is/are followed?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "benefit-cost ratio",
+      "b": "internal rate of return",
+      "c": "net present value",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8751",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "For the selection of any project, which one is mostly used ?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "benefit-cost ratio",
+      "b": "internal rate of return",
+      "c": "net present value",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8752",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Internal rate of return should be",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "less than the borrowing rate",
+      "b": "more than the borrowing rate",
+      "c": "equal to the borrowing rate",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8753",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "During the calculation of IRR, NPV should be",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Positive",
+      "b": "Negative",
+      "c": "Zero",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8755",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The rate on the unrecovered balance of an investment, where the terminal balance becomes zero, is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "minimum rate of return",
+      "b": "external rate of return",
+      "c": "internal rate of return",
+      "d": "maximum rate of return"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8756",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The internal rate of return (IRR) is used in capital budgeting to measure and compare:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Investment vulnerability",
+      "b": "Net cash inflows and outflows",
+      "c": "Profitability of investments",
+      "d": "None of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8757",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The discount rate that makes the net present value equal to zero is known as:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "break-even point",
+      "b": "internal rate of return",
+      "c": "external rate of return",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8758",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "IRR is carried out for",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "evaluation of the progress of the project",
+      "b": "evaluating the desirability of investment in projects",
+      "c": "evaluation of the profit of the project",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8759",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "For any project to be feasible:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "future worth should be negative",
+      "b": "present worth should be positive",
+      "c": "annual worth should be equal to zero",
+      "d": "payback period should be equal to less than 5 years"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8760",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Present Worth Annuity (PWA) is generally known as",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Premium annuities",
+      "b": "Income annuities",
+      "c": "Future annuities",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8762",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The difference between discounted benefit and cost is called",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "NPV",
+      "b": "PV",
+      "c": "benefit",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8764",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If two projects are identical in all aspects except for the payback period, which project should be selected?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "the project having more pay payback period",
+      "b": "the project having less payback period",
+      "c": "the project having equal investment",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8765",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The number of years required for the net operating benefits to pay back the initial cost of the project is called",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "operating period",
+      "b": "service period",
+      "c": "payback period",
+      "d": "maintenance period"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8766",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Payback period is counted only after",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "tendering for the project",
+      "b": "starting of the construction of the project",
+      "c": "completion of the construction of the project",
+      "d": "commissioning of the project"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8767",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Break-even analysis chart is drawn between",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "overhead cost and fixed cost",
+      "b": "volume of production and income",
+      "c": "material cost and labour cost",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8768",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Break-even point is the point where",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "fixed and variable cost line intersects",
+      "b": "total and variable cost line intersects",
+      "c": "fixed and total cost line intersects",
+      "d": "sales revenue and total cost line intersects"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8769",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Break-even is not affected by changes in",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "sales price per unit",
+      "b": "variable cost per unit",
+      "c": "total fixed cost",
+      "d": "number of units sold"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8770",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Margin of safety in Break-even analysis is",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "actual sales- sales at break-even point",
+      "b": "actual sales+sales at break-even point",
+      "c": "actual sales/sales at break-even point",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8771",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "In economic equilibrium analysis",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "revenue equal to cost",
+      "b": "revenue greater than cost",
+      "c": "revenue less than cost",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8772",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Breakeven analysis is the limited form of",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "sensitivity analysis",
+      "b": "cost analysis",
+      "c": "benefit analysis",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8773",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The point or situation when the production of material is just sufficient for consumption then it is called",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "equivalent point",
+      "b": "break-even point",
+      "c": "satisfaction point",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8774",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "If production is less than the break-even point, the product will be",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "lesser than consumption",
+      "b": "equal to consumption",
+      "c": "greater than consumption",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8775",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The costs such as direct labour, materials,indirect costs, contractors, marketing, advertisement and warranty is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "fixed costs",
+      "b": "production costs",
+      "c": "total costs",
+      "d": "variable costs"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8778",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Pick up the element of cost from the following",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "direct material",
+      "b": "direct labour",
+      "c": "overhead",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8779",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The average cost incurred in supplying a particular benefit over the entire lifetime of the project is called",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "project cost",
+      "b": "average life cycle cost",
+      "c": "maintenance cost",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8780",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The types of indirect cost that can't be measured and allocated to a specific output or work activity are called",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "project cost",
+      "b": "prime cost",
+      "c": "overhead cost",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8781",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The wages of supervisors and material handlers are charged as",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "overhead cost",
+      "b": "direct labour cost",
+      "c": "indirect labour cost",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8783",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "If a is the base amount expenditure, b is the increase in the operation cost each year over a period of n years, the total cost of maintenance is",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "a+(n+1)b",
+      "b": "a+(n-1)b",
+      "c": "a*(n-1)b",
+      "d": "a/(n-1)b"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8784",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Which of the following is not a direct cost for a project?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "wages of labour",
+      "b": "cost of materials",
+      "c": "insurance cost",
+      "d": "subcontract cost"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8785",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Cost of production equals",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Factory overheads",
+      "b": "Factory,administration and sales overhead",
+      "c": "Factory,administration and sales overhead and profits",
+      "d": "Factory and administration overheads"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8787",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "In economic marginal cost is the change in total cost that arises when the quantity produced changes by",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "100 units",
+      "b": "0.01 unit",
+      "c": "0.1 unit",
+      "d": "1 unit"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8789",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The types of costing used to find the cost of non-standard jobs generally made according to customer's specifications, are called",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "job costing",
+      "b": "process costing",
+      "c": "satisfaction costing",
+      "d": "manufacture costing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8791",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The type of costing used to determine the costs involved in converting raw materials into finished products is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "job costing",
+      "b": "process costing",
+      "c": "satisfaction costing",
+      "d": "manufacture costing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8792",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "In the case of the construction/production industry, the cost of materials is normally",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "more than the cost of labour",
+      "b": "equal to the cost of labour",
+      "c": "less than the cost of labour",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8793",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The change in any parameters of the project due to a change in any factor is called",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "sensitivity",
+      "b": "resistivity",
+      "c": "variation",
+      "d": "costivity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8794",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The main objective of sensitivity analysis of a project is to examine the",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "productivity",
+      "b": "profitability",
+      "c": "uncertainly",
+      "d": "sustainability"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8799",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Current assets less inventories divided by current liabilities is known as",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Liquidity ratio",
+      "b": "Current ratio",
+      "c": "Acid-test ratio",
+      "d": "Debts ratio"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8802",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The ratio obtained by dividing quick assets by current liabilities is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "turnover ratio",
+      "b": "acid test ratio",
+      "c": "solvency ratio",
+      "d": "debt ratio"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8803",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The ratio obtained by dividing total liabilities by total assets is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "turnover ratio",
+      "b": "acid test ratio",
+      "c": "solvency ratio",
+      "d": "debt ratio"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8804",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The ratio obtained by dividing net profit by net sales is called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "turnover ratio",
+      "b": "acid test ratio",
+      "c": "Return on sales ratio",
+      "d": "debt ratio"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8805",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The most critical(or severe) test of the firm’s liquidity can be judged by",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Liquidity ratio",
+      "b": "Current ratio",
+      "c": "Acid test ratio or Quick ratio",
+      "d": "Debts ratio"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8806",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The ratio analysis of a construction firm is used for the analysis by:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "financial analysis",
+      "b": "shareholders of the firm",
+      "c": "management groups of construction firms",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8807",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Inflation is a normal phenomenon in which",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "The nominal price of an object is raised",
+      "b": "The nominal price of an object is decreased",
+      "c": "The nominal price of an object is constant",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8808",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For a financial institution the most important study of a project to be taken for risks management is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "appraisal",
+      "b": "environmental and social",
+      "c": "technical",
+      "d": "financial and economical"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8809",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which of the following is not a construction estimate ?",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Initial feasibility estimate",
+      "b": "Conceptual preliminary budget",
+      "c": "Definite estimate",
+      "d": "None of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8811",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In the process of selecting a public project the criteria usually adopted are:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "economic evaluation",
+      "b": "financial evaluation",
+      "c": "economic and financial evaluation",
+      "d": "profitability evaluation"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8812",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In economic analysis, a shift in the supply curve is said to take place due to",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "change in input prices",
+      "b": "technological progress",
+      "c": "level of competition in production",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8813",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Any property that can be seen or touched is",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Tangible property",
+      "b": "Intangible property",
+      "c": "Imaginary property",
+      "d": "Abstract property"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8814",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Earning per share is the most important ratio for",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "shareholders",
+      "b": "banks",
+      "c": "company’s management",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8815",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "According to the law of demand, if the price of goods increases then the demand of articles",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8816",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "According to the law of supply, if the price of goods increases then the demand of articles",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8817",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the investment a firm makes would _______ value from the firm, it means that NPV<0.",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "add",
+      "b": "subtract",
+      "c": "multiply",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8818",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Costs that are not borne by the parties to the economic ________ are called 'externalities'.",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "gain",
+      "b": "transaction",
+      "c": "transfer",
+      "d": "loss"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8819",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A review of management process and the associated documentation is commonly called:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "audit",
+      "b": "inspection",
+      "c": "testing and measuring",
+      "d": "screening"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8820",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The benefit that is forgone by engaging the resource in a chosen activity instead of engaging the same resource in forgone activity is known as:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "marginal cost",
+      "b": "opportunity cost",
+      "c": "incremental cost",
+      "d": "life cycle cost"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8821",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "An annuity whose payments are made at the end of each period, such payment being continued for a definite number of periods is known as",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Deferred annuity",
+      "b": "Annuity certain",
+      "c": "Perpetuity",
+      "d": "Annuity due"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8822",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If the amount of annuity begins at some future date after a number of years, it is known as",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "Deferred annuity",
+      "b": "Annuity certain",
+      "c": "Perpetuity",
+      "d": "Annuity due"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8823",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If i is the rate of interest and n is the number of periods in years then Single Payment Future Worth Factor is given by",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "1/(1+i)^n",
+      "b": "(1+i)^n",
+      "c": "(1+i)^n/(1+i)",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8824",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The item of cost which is calculated easily for specific item of work is",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "basic cost",
+      "b": "elementary cost",
+      "c": "prime cost",
+      "d": "specific cost"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8825",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Engineers use following techniques while preparing the project appraisal",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "discounted cash flows",
+      "b": "payback period",
+      "c": "rate of return on book value",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8826",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The cost that differs to alternatives is called",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "common cost",
+      "b": "variable cost",
+      "c": "differential cost",
+      "d": "opportunity cost"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8827",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The decision rule for project acceptance is that:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "if IRR > 0",
+      "b": "if IRR > MARR",
+      "c": "if IRR = 0",
+      "d": "if IRR >=MARR"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8829",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In project selection, ERR should be",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "> 0",
+      "b": "-ve",
+      "c": "none of the above",
+      "d": "both (a) and (b)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8830",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "If two projects are mutually exclusive then :",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "the one with the higher NPV should be chosen",
+      "b": "the one with the positive NPV should be chosen",
+      "c": "the one with negative NPV should be chosen",
+      "d": "rejects both projects"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8831",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For a Government funded development project, the most important factor to consider is:",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "cost-benefit",
+      "b": "social and political benefit",
+      "c": "job creation",
+      "d": "economic rate of return"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8832",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The continued payment of annuity for indefinite period is known as",
+    "topic": "Engineering Economics",
+    "options": {
+      "a": "deferred annuity",
+      "b": "annuity due",
+      "c": "annuity certain",
+      "d": "perpetual annuity"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8833",
+    "chapter": "SECTION-I"
   }
 ]

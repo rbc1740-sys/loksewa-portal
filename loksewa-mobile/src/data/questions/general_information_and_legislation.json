@@ -1,0 +1,3376 @@
+[
+  {
+    "question": "नेपालको संविधान कहिले जारी भयो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "वि.सं २०७२ भाद्र ३०",
+      "b": "वि.सं २०७२ असोज १",
+      "c": "वि.सं. २०७२ असोज ३",
+      "d": "वि.सं. २०७२ असोज ४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5954",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधान अहिलेसम्मको कति औँ संविधान हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "पाँचौँ",
+      "b": "छैटाै",
+      "c": "साताैँ",
+      "d": "आठाैँ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5955",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधान पहिलो संशोधन कहिले भएको हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "वि.सं. २०७१ फाल्गुन १६",
+      "b": "वि.सं. २०७२ फाल्गुन १६",
+      "c": "वि.सं. २०७२ माघ १६",
+      "d": "वि.सं. २०७३ फाल्गुन १६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5956",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार नेपालको सार्वभौमसत्ता र राजकीयसत्ता कसमा निहित रहेको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "नेपाल सरकार",
+      "b": "नेपाली जनता",
+      "c": "राष्ट्रपति",
+      "d": "प्रधानमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5957",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको झण्डामा सूर्यमा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5958",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति प्रकारका नागरिकताको व्यवस्था गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5959",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानले कति वटा मौलिक हकहरूको व्यवस्था गरेको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३१",
+      "b": "१३",
+      "c": "१०",
+      "d": "३०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5960",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "संवैधानिक उपचारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ४७",
+      "c": "धारा ४५",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5961",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "संघ, प्रदेश र स्थानीय तहको अधिकारको साझा सूची कति वटा छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5962",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "शोषण विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा २९",
+      "b": "धारा ३०",
+      "c": "धारा १९",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5963",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "वर्तमान संविधानमा नागरिकका ___________ कर्तव्यहरू छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "४",
+      "b": "५",
+      "c": "६",
+      "d": "७"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5964",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला मधेश प्रदेशमा पर्दैन ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "सप्तरी",
+      "b": "उदयपुर",
+      "c": "सिराहा",
+      "d": "पर्सा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5965",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "वर्तमान संविधानको दोस्रो संशोधन कुन अनुसूचीमा गरियो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूची-२",
+      "b": "अनुसूची-३",
+      "c": "अनुसूची-४",
+      "d": "अनुसूची-५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5966",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "संविधानमा तोकिएबमोजिम नेपालको राष्ट्रपतिको पदावधि कति छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "४ वर्ष",
+      "b": "५ वर्ष",
+      "c": "६ वर्ष",
+      "d": "७ वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5967",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "रोजगारीको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३१",
+      "b": "३२",
+      "c": "३३",
+      "d": "३५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5968",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानको पहिलो संशोधनबाट तलका मध्ये संशोधन नभएको धारा कुन हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "४२",
+      "b": "८४",
+      "c": "२८६",
+      "d": "२५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5969",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "देश निकाला विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४४",
+      "b": "धारा ४१",
+      "c": "धारा ४६",
+      "d": "धारा ४५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5970",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "उपभोक्ताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३५",
+      "b": "धारा ४४",
+      "c": "धारा ३६",
+      "d": "धारा ४५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5971",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "संविधानको पालना र संरक्षण गर्नु संविधानबमोजिम कसको प्रमुख कर्तव्य भनी तोकिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "राष्ट्रपति",
+      "c": "उप-राष्ट्रपति",
+      "d": "नागरिक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5972",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार राज्यका निर्देशक सिद्धान्तहरू कति वटा छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "४",
+      "b": "१३",
+      "c": "३१",
+      "d": "१०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5973",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानमा उल्लेख भएअनुसार कुन तहसम्म निःशुल्क शिक्षा पाउने व्यवस्था रहेको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्राथमिक",
+      "b": "आधारभूत",
+      "c": "माध्यमिक",
+      "d": "विद्यालय तह"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5974",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "प्रदेशको अधिकारको सूची कति वटा छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२५",
+      "b": "२२",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5975",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "भाषा तथा संस्कृतिको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5976",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "लुम्बिनी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5977",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "“ नागरिकता, राहदानी, भिसा, अध्यागमन ” सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ",
+      "b": "प्रदेश",
+      "c": "स्थानीय",
+      "d": "संघ र प्रदेशको साझा अधिकार सूचि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5978",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "सम्पत्ति तथा पारिवारिक मामलामा दम्पतीको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5979",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा लैङ्गिक भेदभाव विना सबै सन्तानको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5980",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको निशान छाप सम्बन्धी ब्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5981",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "बालबालिकाको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5982",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "गण्डकी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5983",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति भाग, धारा र अनुसूची छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३५ भाग, ३०९ धारा, ९ अनुसूची",
+      "b": "३५ भाग, ३०८ धारा, ९ अनुसूची",
+      "c": "३५ भाग, ३०८ धारा, ८ अनुसूची",
+      "d": "३५ भाग, ३०९ धारा, ९ अनुसूची"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5984",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "स्वच्छ वातावरणको मौलिक हक कुन धारमा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३०",
+      "b": "धारा १५",
+      "c": "थारा २५",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5985",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "दलितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३९",
+      "b": "धारा २५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5986",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानमा राष्ट्रिय झण्डाको आकार _____ ले निर्धारण गरेबमोजिम हुनेछ भन्ने व्यवस्था गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघीय कानुन",
+      "b": "जिल्ला प्रशासन कार्यालय",
+      "c": "राष्ट्रिय झण्डासम्बन्धी कानुन",
+      "d": "नेपाल सरकार"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5987",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "प्रत्येक व्यक्तिलाई आफू विरुद्ध गरिएको कारबाहीको जानकारी पाउने हक कुन मौलिक हक हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "समानताको हक",
+      "b": "स्वतन्त्रताको हक",
+      "c": "यातना विरुद्धको हक",
+      "d": "न्याय सम्बन्धि हक"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5988",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "समानताको हक कसलाई प्राप्त हुन्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्रत्येक व्यक्तिलाई",
+      "b": "उपराष्ट्रपतिलाई",
+      "c": "प्रधानमन्त्रीलाई",
+      "d": "सबै नागरिकलाई"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5989",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा सबै सन्तानको समान हक हुने व्यवस्था कुन मौलिक हक अन्तर्गत पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "स्वतन्त्रताको हक",
+      "b": "सम्पत्तिको हक",
+      "c": "समानताको हक",
+      "d": "महिलाको हक"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5990",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "वर्तमान संविधान अनुसार स्थानीय तह अन्तर्गत पर्ने निकायहरु के के हुन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "गाउँपालिका सभा",
+      "b": "नगरपालिका सभा",
+      "c": "जिल्ला सभा",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5991",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपाललाई समावेशी राज्य भनिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा २",
+      "c": "धारा ३",
+      "d": "धारा ४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5992",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानको पालना गर्नु कसको कर्तव्य हुनेछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्रत्येक व्यक्तिको",
+      "b": "नेपाली जनताको",
+      "c": "नेपाली नागरिकको",
+      "d": "निजामती कर्मचारीको"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5993",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "बागमती प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5994",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "शिक्षा सम्बन्धी मौलिक हक कुन धारा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १७",
+      "b": "धारा ३१",
+      "c": "धारा ३२",
+      "d": "धारा १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5995",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "सल्यान जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5996",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानको विधेयक संविधान सभाबाट कहिले पारित भएको हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२०७२ भाद्र २८ गते",
+      "b": "२०७२ असोज १ गते",
+      "c": "२०७२ भाद्र २९ गते",
+      "d": "२०७२ भाद्र ३० गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5997",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "संविधान सभाका अध्यक्ष सुवासचन्द्र नेम्वाङबाट नेपालको संविधान कहिले प्रमाणित भएको हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२०७२ असोज १ गते",
+      "b": "२०७२ असोज ३ गते",
+      "c": "२०७२ भाद्र १ गते",
+      "d": "२०७२ भाद्र २ गते"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5998",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधान राष्ट्रपति रामवरण यादवबाट कहिले हस्ताक्षर भई जारी भएको हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२०७२ असोज २",
+      "b": "२०७२ असोज ३",
+      "c": "२०७२ असोज ४",
+      "d": "२०७२ असोज ५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5999",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालमा संविधान सभाबाट जारी भएको एक मात्र संविधानको नाम के हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "नेपालको संविधान",
+      "b": "नेपालको संविधान, २०७२",
+      "c": "नेपाल राज्यको संविधान",
+      "d": "नेपाल राज्यको संविधान, २०७२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6000",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "राष्ट्रिय झण्डामा भुइँ र किनाराको रंग कस्तो प्रयोग हुने व्यवस्था छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "रातो र नीलो",
+      "b": "रातो र गाढा नीलो",
+      "c": "सिम्रिक र गाढा नीलो",
+      "d": "सिम्रिक र नीलो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6001",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "सामाजिक न्याय सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४२",
+      "b": "धारा ३५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6002",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधान बमोजिम स्थानीय तह अन्तर्गत कुन कुन निकाय पर्दछन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "सङ्घ, प्रदेश र स्थानीय",
+      "b": "गाउँपालिका, नगरपालिका र जिल्ला सभा",
+      "c": "गाउँपालिका, नगरपालिका र प्रदेश सभा",
+      "d": "प्रदेश, नगरपालिका र जिल्ला सभा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6003",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "खाद्य सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३६",
+      "b": "धारा २२",
+      "c": "धारा ३४",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6004",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपालमा बोलिने सबै मातृभाषाहरू राष्ट्रभाषा हुन् भनी लेखिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ६",
+      "b": "धारा ७",
+      "c": "धारा ८",
+      "d": "धारा ९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6005",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय गान सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि १"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6006",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "गैर आवासीय नेपालीलाई नागरिकता प्रदान गर्न सकिने व्यवस्था कति धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ११",
+      "b": "धारा १२",
+      "c": "धारा १४",
+      "d": "धारा १५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6007",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नागरिकताको प्राप्ति, पुनः प्राप्ति र समाप्तिको व्यवस्था संविधानको कति धारामा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १४",
+      "b": "धारा ७",
+      "c": "धारा ११",
+      "d": "धारा १३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6008",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "“ विपद् व्यवस्थापन ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6009",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "“ स्वास्थ्य ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6010",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला कर्णाली प्रदेशमा पर्दैन ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जुम्ला",
+      "b": "मुगु",
+      "c": "दैलेख",
+      "d": "डोटी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6011",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "यातना विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २२",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6012",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "निवारक नजरबन्द विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २३",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6013",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको झण्डामा चन्द्रमामा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6014",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा नागरिकता सम्बन्धी व्यवस्था गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "भाग १",
+      "b": "भाग २",
+      "c": "भाग ३",
+      "d": "भाग ४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6015",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय झण्डा सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि ५",
+      "c": "अनुसूचि २",
+      "d": "अनुसूचि १"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6016",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ भनेर कुन धारामा भनिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6017",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "संघको अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6018",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "संघ र प्रदेशको साझा अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ७",
+      "b": "अनुसूचि ८",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6019",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "अपराध पीडितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा २१",
+      "b": "धारा ३३",
+      "c": "धारा २५",
+      "d": "धारा १२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6020",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "संघको अधिकारको सूची कति वटा छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6021",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "सामाजिक सुरक्षाको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४१",
+      "b": "धारा ४२",
+      "c": "धारा ४५",
+      "d": "धारा ४३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6022",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "युद्द र प्रतिरक्षा सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6023",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नाप–तौल सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6024",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "सहकारी सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6025",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नेपालको संविधानमा राष्ट्रिय हित सम्बन्धी कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6026",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "स्वतन्त्रताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १८",
+      "c": "धारा १७",
+      "d": "धारा १९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6027",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "गोपनीयताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा २५",
+      "b": "धारा २७",
+      "c": "धारा २८",
+      "d": "धारा २९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6028",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "सञ्चारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १७",
+      "c": "धारा १८",
+      "d": "धारा १९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6029",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "आवासको मौलिक हक कुन धारामा उल्लेख छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३३",
+      "b": "धारा ३५",
+      "c": "धारा ३७",
+      "d": "धारा २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6030",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "राज्यका नीतिहरु कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ५२",
+      "c": "धारा ५१",
+      "d": "धारा २६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6031",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "सबै भन्दा धेरै जिल्ला भएको प्रदेशमा कति जिल्ला छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "११",
+      "b": "१२",
+      "c": "१४",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6032",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "तलका मध्ये सबैभन्दा कम जिल्ला भएको प्रदेश कुन हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "गण्डकी प्रदेश",
+      "b": "मधेश प्रदेश",
+      "c": "कोशी प्रदेश",
+      "d": "बागमती प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6033",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "बाजुरा जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6034",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "मुगु जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6035",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "स्थानीय कार्यकारिणी अधिकार कति अनुसूचीमा उल्लेख भए बमोजिम हुनेछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूची–६ र अनुसूची–७",
+      "b": "अनुसूची–७ र अनुसूची–८",
+      "c": "अनुसूची–८ र अनुसूची–९",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6036",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "गाउँपालिकाको अध्यक्ष पदमा उम्मेद्धार हुन कति वर्ष उमेर पूरा भएको हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२१",
+      "b": "२५",
+      "c": "३५",
+      "d": "४५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6037",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "गाउँपालिकाको अध्यक्षको पदावधि निर्वाचित भएको मितिले कति वर्षको हुन्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6038",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नगरपालिकामा न्यायिक समितिको संयोजकत्व कसले गर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्रमुख",
+      "b": "उपप्रमुख",
+      "c": "प्रमुख प्रशासकीय अधिकृत",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6039",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "तलकामध्ये कुन भनाइ ठिक छ विचार गर्नुहोस् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जिल्ला भित्रका गाउँपालिका र नगरपालिकाहरूबीच समन्वय गर्न एक जिल्ला सभा रहनेछ",
+      "b": "जिल्ला समन्वय समितिको प्रमुखको पदावधि निर्वाचित भएको मितिले पाँच वर्षको हुनेछ ।",
+      "c": "जिल्ला सभाले बढीमा नौ जना सदस्य रहेको जिल्ला समन्वय समितिको निर्वाचन गर्नेछ ।",
+      "d": "माथिका सबै ठिक छन्"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6040",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "स्थानीय तहको व्यवस्थापिकीय अधिकार कसमा निहित रहनेछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जिल्ला सभा",
+      "b": "कार्यपालिका",
+      "c": "गाउँ सभा र नगर सभामा",
+      "d": "माथिका सबै"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6041",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "गाउँ सभामा प्रत्येक वडाबाट कम्तीमा कति जना महिलाको प्रतिनिधित्व हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6042",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नगर सभाको अध्यक्ष को रहने व्यवस्था छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "नगर कार्यपालिकाको प्रमुख",
+      "b": "नगर कार्यपालिकाको उपप्रमुख",
+      "c": "प्रमुख प्रशासकीय अधिकृत",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6043",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ कहिले प्रकाशित भएको थियो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२०७२/०५/२९",
+      "b": "२०७२/०६/२९",
+      "c": "२०७४/०५/२९",
+      "d": "२०७४/०६/२९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6044",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/नगरपालिकाको प्रत्येक आर्थिक वर्षको बजेट कहिले सम्म पेस गर्नु पर्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १०",
+      "c": "असार १",
+      "d": "असोज ३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6045",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "हरेक वर्षको आर्थिक वर्ष कहिलेबाट सुरु हुन्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जेठ १५ गते",
+      "b": "साउन १ गते",
+      "c": "असार १० गते",
+      "d": "असार १ गते"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6046",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "एक आर्थिक वर्षमा खर्च हुन नसकी बाँकी रहेको रकम आर्थिक वर्षको अन्त्यमा गाउँपालिका वा नगरपालिकाको कुन कोषमा जम्मा हुन्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "लगानी कोष",
+      "b": "सञ्चित कोष",
+      "c": "चालु कोष",
+      "d": "नगर कोष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6047",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार कति वटा नगरपालिका रहेका छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२७५",
+      "b": "२७६",
+      "c": "२७७",
+      "d": "२७८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6048",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "हिमाली जिल्लाको हिमाली क्षेत्रमा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१० हजार",
+      "b": "१५ हजार",
+      "c": "२० हजार",
+      "d": "२५ हजार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6049",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "पहाडी जिल्लामा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१० हजार",
+      "b": "१५ हजार",
+      "c": "३० हजार",
+      "d": "४० हजार"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6050",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "काठमाडौँ उपत्यकाभित्रका जिल्लामा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५० हजार",
+      "b": "७५ हजार",
+      "c": "१ लाख",
+      "d": "२ लाख"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6051",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "भित्री मधेसका जिल्लामा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५० हजार",
+      "b": "७५ हजार",
+      "c": "१ लाख",
+      "d": "२ लाख"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6052",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "तराईका जिल्लामा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५० हजार",
+      "b": "७५ हजार",
+      "c": "१ लाख",
+      "d": "२ लाख"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6053",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "उपमहानगरपालिका हुन कम्तीमा कति स्थायी बासिन्दा हुनुपर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५० हजार",
+      "b": "७५ हजार",
+      "c": "१ लाख",
+      "d": "२ लाख"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6054",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "नगरपालिका घोषणा हुन कम्तीमा कति शैयाको अस्पताल सुविधा हुनुपर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "कम्तीमा २५",
+      "b": "कम्तीमा ५०",
+      "c": "कम्तीमा १००",
+      "d": "कम्तीमा २००"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6055",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "उपमहानगरपालिका घोषणाको लागि पछिल्लो पाँच वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१० करोड",
+      "b": "२५ करोड",
+      "c": "५० करोड",
+      "d": "७५ करोड"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6056",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "महानगरपालिका घोषणाको लागि पछिल्लो पाँच वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१० करोड",
+      "b": "२५ करोड",
+      "c": "५० करोड",
+      "d": "१०० करोड"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6057",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "हिमाली क्षेत्रमा नगरपालिका घोषणाको लागि पछिल्लो पाँच वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१ करोड",
+      "b": "३ करोड",
+      "c": "५ करोड",
+      "d": "२५ करोड"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6058",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "हिमाली क्षेत्रमा बाहेक नगरपालिका घोषणाको लागि पछिल्लो पाँच वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१ करोड",
+      "b": "३ करोड",
+      "c": "५ करोड",
+      "d": "२५ करोड"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6059",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्रोत अनुमान तथा बजेट सीमा निर्धारण समितिको संयोजक को रहने व्यवस्था छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अध्यक्ष वा प्रमुख",
+      "b": "उपाध्यक्ष वा उपप्रमुख",
+      "c": "शाखा प्रमुख",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6060",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "बजेट तथा कार्यक्रम तर्जुमा समितिको संयोजक को रहने व्यवस्था छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अध्यक्ष वा प्रमुख",
+      "b": "उपाध्यक्ष वा उपप्रमुख",
+      "c": "शाखा प्रमुख",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6061",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार गाउँपालिकामा कम्तीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५",
+      "b": "७",
+      "c": "९",
+      "d": "२१"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6062",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार गाउँपालिकामा बढीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५",
+      "b": "७",
+      "c": "९",
+      "d": "२१"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6063",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार नगरपालिकामा कम्तीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५",
+      "b": "७",
+      "c": "९",
+      "d": "२१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6064",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार नगरपालिकामा बढीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५",
+      "b": "९",
+      "c": "३५",
+      "d": "२१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6065",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/ नगरपालिका भित्रको सडकको (Right of way) कसले निर्धारण गर्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "स्थानीय सरकार",
+      "b": "प्रदेश सरकार",
+      "c": "सङ्घ",
+      "d": "सबै"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6066",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/ नगरपालिकामा संविधानको कति धारा बमोजिम न्यायिक समिति रहने व्यवस्था छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा २१५",
+      "b": "धारा २१६",
+      "c": "धारा २१७",
+      "d": "धारा २१८"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6067",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/नगरपालिकाले बढीमा कति वर्षका लागि ऋण लिन सक्ने छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२५ वर्ष",
+      "b": "१५ वर्ष",
+      "c": "३० वर्ष",
+      "d": "१० वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6068",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार कति परिच्छेदमा भवन निर्माण सम्बन्धी व्यवस्था गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "परिच्छेद ६",
+      "b": "परिच्छेद ७",
+      "c": "परिच्छेद ८",
+      "d": "परिच्छेद ९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6069",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "भवन निर्माण गर्न अनुमति पाएको व्यक्तिले कति समय भित्र निर्माण कार्य सम्पन्न गर्नु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१ वर्ष",
+      "b": "२ वर्ष",
+      "c": "३ वर्ष",
+      "d": "५ वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6070",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका / नगरपालिका भित्र भवन निर्माण गर्दा कसले नक्सा पास गर्दछ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "मेयर",
+      "b": "प्रमुख प्रशासकीय अधिकृत",
+      "c": "उप मेयर",
+      "d": "सी.डी.ओ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6071",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "कुनै पनि उजुरी नपरेको खण्डमा प्रमुख प्रशासकीय अधिकृतले कति दिन भित्र भवन निर्माणको लागि अनुमति दिनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३ दिन",
+      "b": "५ दिन",
+      "c": "७ दिन",
+      "d": "९ दिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6072",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "भवन , संरचना भत्काउँदा कसको आदेश लिनु पर्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "मेयर",
+      "b": "प्रमुख प्रशासकीय अधिकृत",
+      "c": "दुवै",
+      "d": "उप मेयर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6073",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/ नगरपालिकाले तोकेको म्याद भित्र भवन संरचना नभत्काएमा, भत्काउँदा लागेको खर्च को बाट असुल गर्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "भौतिक मन्त्रालय",
+      "b": "नगर विकास कोष",
+      "c": "सम्बन्धित व्यक्ति",
+      "d": "मेयर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6074",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "दिएको समय अवधि भित्र भवन निर्माण गर्न नसकिने भएमा कति अवधिको लागि म्याद थप गर्न सकिन्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१ वर्ष",
+      "b": "१.५ वर्ष",
+      "c": "२ वर्ष",
+      "d": "२.५ वर्ष"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6075",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "नेपालको संविधान कहिले जारी भयो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "वि.सं २०७२ भाद्र ३०",
+      "b": "वि.सं २०७२ असोज १",
+      "c": "वि.सं. २०७२ असोज ३",
+      "d": "वि.सं. २०७२ असोज ४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5954",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधान अहिलेसम्मको कति औँ संविधान हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "पाँचौँ",
+      "b": "छैटाै",
+      "c": "साताैँ",
+      "d": "आठाैँ"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5955",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधान पहिलो संशोधन कहिले भएको हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "वि.सं. २०७१ फाल्गुन १६",
+      "b": "वि.सं. २०७२ फाल्गुन १६",
+      "c": "वि.सं. २०७२ माघ १६",
+      "d": "वि.सं. २०७३ फाल्गुन १६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5956",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार नेपालको सार्वभौमसत्ता र राजकीयसत्ता कसमा निहित रहेको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "नेपाल सरकार",
+      "b": "नेपाली जनता",
+      "c": "राष्ट्रपति",
+      "d": "प्रधानमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5957",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको झण्डामा सूर्यमा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5958",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति प्रकारका नागरिकताको व्यवस्था गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३",
+      "b": "४",
+      "c": "५",
+      "d": "६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5959",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानले कति वटा मौलिक हकहरूको व्यवस्था गरेको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३१",
+      "b": "१३",
+      "c": "१०",
+      "d": "३०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5960",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "संवैधानिक उपचारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ४७",
+      "c": "धारा ४५",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5961",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "संघ, प्रदेश र स्थानीय तहको अधिकारको साझा सूची कति वटा छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5962",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "शोषण विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा २९",
+      "b": "धारा ३०",
+      "c": "धारा १९",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5963",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला मधेश प्रदेशमा पर्दैन ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "सप्तरी",
+      "b": "उदयपुर",
+      "c": "सिराहा",
+      "d": "पर्सा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5965",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "वर्तमान संविधानको दोस्रो संशोधन कुन अनुसूचीमा गरियो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूची-२",
+      "b": "अनुसूची-३",
+      "c": "अनुसूची-४",
+      "d": "अनुसूची-५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5966",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "संविधानमा तोकिएबमोजिम नेपालको राष्ट्रपतिको पदावधि कति छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "४ वर्ष",
+      "b": "५ वर्ष",
+      "c": "६ वर्ष",
+      "d": "७ वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5967",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "रोजगारीको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३१",
+      "b": "३२",
+      "c": "३३",
+      "d": "३५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5968",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानको पहिलो संशोधनबाट तलका मध्ये संशोधन नभएको धारा कुन हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "४२",
+      "b": "८४",
+      "c": "२८६",
+      "d": "२५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5969",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "देश निकाला विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४४",
+      "b": "धारा ४१",
+      "c": "धारा ४६",
+      "d": "धारा ४५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5970",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "उपभोक्ताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३५",
+      "b": "धारा ४४",
+      "c": "धारा ३६",
+      "d": "धारा ४५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5971",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "संविधानको पालना र संरक्षण गर्नु संविधानबमोजिम कसको प्रमुख कर्तव्य भनी तोकिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "राष्ट्रपति",
+      "c": "उप-राष्ट्रपति",
+      "d": "नागरिक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5972",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधान अनुसार राज्यका निर्देशक सिद्धान्तहरू कति वटा छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "४",
+      "b": "१३",
+      "c": "३१",
+      "d": "१०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5973",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानमा उल्लेख भएअनुसार कुन तहसम्म निःशुल्क शिक्षा पाउने व्यवस्था रहेको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्राथमिक",
+      "b": "आधारभूत",
+      "c": "माध्यमिक",
+      "d": "विद्यालय तह"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5974",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "प्रदेशको अधिकारको सूची कति वटा छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२५",
+      "b": "२२",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5975",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "भाषा तथा संस्कृतिको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5976",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "लुम्बिनी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5977",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "“ नागरिकता, राहदानी, भिसा, अध्यागमन ” सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ",
+      "b": "प्रदेश",
+      "c": "स्थानीय",
+      "d": "संघ र प्रदेशको साझा अधिकार सूचि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5978",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "सम्पत्ति तथा पारिवारिक मामलामा दम्पतीको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5979",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा लैङ्गिक भेदभाव विना सबै सन्तानको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5980",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको निशान छाप सम्बन्धी ब्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5981",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "बालबालिकाको माैलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा ३०",
+      "c": "धारा २१",
+      "d": "धारा ३९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5982",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "गण्डकी प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5983",
+    "chapter": "SECTION - I"
+  },
+  {
+    "question": "नेपालको संविधानमा कति भाग, धारा र अनुसूची छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३५ भाग, ३०९ धारा, ९ अनुसूची",
+      "b": "३५ भाग, ३०८ धारा, ९ अनुसूची",
+      "c": "३५ भाग, ३०८ धारा, ८ अनुसूची",
+      "d": "३५ भाग, ३०९ धारा, ९ अनुसूची"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5984",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "स्वच्छ वातावरणको मौलिक हक कुन धारमा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३०",
+      "b": "धारा १५",
+      "c": "थारा २५",
+      "d": "धारा २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5985",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "दलितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३९",
+      "b": "धारा २५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5986",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "प्रत्येक व्यक्तिलाई आफू विरुद्ध गरिएको कारबाहीको जानकारी पाउने हक कुन मौलिक हक हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "समानताको हक",
+      "b": "स्वतन्त्रताको हक",
+      "c": "यातना विरुद्धको हक",
+      "d": "न्याय सम्बन्धि हक"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5988",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "समानताको हक कसलाई प्राप्त हुन्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्रत्येक व्यक्तिलाई",
+      "b": "उपराष्ट्रपतिलाई",
+      "c": "प्रधानमन्त्रीलाई",
+      "d": "सबै नागरिकलाई"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5989",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा सबै सन्तानको समान हक हुने व्यवस्था कुन मौलिक हक अन्तर्गत पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "स्वतन्त्रताको हक",
+      "b": "सम्पत्तिको हक",
+      "c": "समानताको हक",
+      "d": "महिलाको हक"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5990",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "वर्तमान संविधान अनुसार स्थानीय तह अन्तर्गत पर्ने निकायहरु के के हुन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "गाउँपालिका सभा",
+      "b": "नगरपालिका सभा",
+      "c": "जिल्ला सभा",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5991",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपाललाई समावेशी राज्य भनिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा २",
+      "c": "धारा ३",
+      "d": "धारा ४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5992",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानको पालना गर्नु कसको कर्तव्य हुनेछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्रत्येक व्यक्तिको",
+      "b": "नेपाली जनताको",
+      "c": "नेपाली नागरिकको",
+      "d": "निजामती कर्मचारीको"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5993",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "बागमती प्रदेशमा कति वटा जिल्ला रहेका छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१०",
+      "b": "११",
+      "c": "१२",
+      "d": "१३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5994",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "शिक्षा सम्बन्धी मौलिक हक कुन धारा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १७",
+      "b": "धारा ३१",
+      "c": "धारा ३२",
+      "d": "धारा १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5995",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "सल्यान जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5996",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानको विधेयक संविधान सभाबाट कहिले पारित भएको हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२०७२ भाद्र २८ गते",
+      "b": "२०७२ असोज १ गते",
+      "c": "२०७२ भाद्र २९ गते",
+      "d": "२०७२ भाद्र ३० गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5997",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "संविधान सभाका अध्यक्ष सुवासचन्द्र नेम्वाङबाट नेपालको संविधान कहिले प्रमाणित भएको हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२०७२ असोज १ गते",
+      "b": "२०७२ असोज ३ गते",
+      "c": "२०७२ भाद्र १ गते",
+      "d": "२०७२ भाद्र २ गते"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5998",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधान राष्ट्रपति रामवरण यादवबाट कहिले हस्ताक्षर भई जारी भएको हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२०७२ असोज २",
+      "b": "२०७२ असोज ३",
+      "c": "२०७२ असोज ४",
+      "d": "२०७२ असोज ५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5999",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालमा संविधान सभाबाट जारी भएको एक मात्र संविधानको नाम के हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "नेपालको संविधान",
+      "b": "नेपालको संविधान, २०७२",
+      "c": "नेपाल राज्यको संविधान",
+      "d": "नेपाल राज्यको संविधान, २०७२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6000",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "राष्ट्रिय झण्डामा भुइँ र किनाराको रंग कस्तो प्रयोग हुने व्यवस्था छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "रातो र नीलो",
+      "b": "रातो र गाढा नीलो",
+      "c": "सिम्रिक र गाढा नीलो",
+      "d": "सिम्रिक र नीलो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6001",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "सामाजिक न्याय सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४२",
+      "b": "धारा ३५",
+      "c": "धारा ४०",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6002",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधान बमोजिम स्थानीय तह अन्तर्गत कुन कुन निकाय पर्दछन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "सङ्घ, प्रदेश र स्थानीय",
+      "b": "गाउँपालिका, नगरपालिका र जिल्ला सभा",
+      "c": "गाउँपालिका, नगरपालिका र प्रदेश सभा",
+      "d": "प्रदेश, नगरपालिका र जिल्ला सभा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6003",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "खाद्य सम्बन्धि मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३६",
+      "b": "धारा २२",
+      "c": "धारा ३४",
+      "d": "धारा २५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6004",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको संविधानको कुन धारामा नेपालमा बोलिने सबै मातृभाषाहरू राष्ट्रभाषा हुन् भनी लेखिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ६",
+      "b": "धारा ७",
+      "c": "धारा ८",
+      "d": "धारा ९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6005",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय गान सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि १"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6006",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "गैर आवासीय नेपालीलाई नागरिकता प्रदान गर्न सकिने व्यवस्था कति धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ११",
+      "b": "धारा १२",
+      "c": "धारा १४",
+      "d": "धारा १५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6007",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नागरिकताको प्राप्ति, पुनः प्राप्ति र समाप्तिको व्यवस्था संविधानको कति धारामा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १४",
+      "b": "धारा ७",
+      "c": "धारा ११",
+      "d": "धारा १३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6008",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "“ विपद् व्यवस्थापन ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6009",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "“ स्वास्थ्य ” कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6010",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला कर्णाली प्रदेशमा पर्दैन ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जुम्ला",
+      "b": "मुगु",
+      "c": "दैलेख",
+      "d": "डोटी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6011",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "यातना विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २२",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6012",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "निवारक नजरबन्द विरुद्धको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २०",
+      "c": "धारा २३",
+      "d": "धारा २५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6013",
+    "chapter": "SECTION - II"
+  },
+  {
+    "question": "नेपालको झण्डामा चन्द्रमामा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6014",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नेपालको संविधानको कुन भागमा नागरिकता सम्बन्धी व्यवस्था गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "भाग १",
+      "b": "भाग २",
+      "c": "भाग ३",
+      "d": "भाग ४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6015",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नेपालको राष्ट्रिय झण्डा सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि ५",
+      "c": "अनुसूचि २",
+      "d": "अनुसूचि १"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6016",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ भनेर कुन धारामा भनिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6017",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "संघको अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ४",
+      "b": "अनुसूचि २",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6018",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "संघ र प्रदेशको साझा अधिकारको सूची सम्बन्धी व्यवस्था कुन अनुसूचिमा गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूचि ७",
+      "b": "अनुसूचि ८",
+      "c": "अनुसूचि ६",
+      "d": "अनुसूचि ५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6019",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "अपराध पीडितको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा २१",
+      "b": "धारा ३३",
+      "c": "धारा २५",
+      "d": "धारा १२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6020",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "संघको अधिकारको सूची कति वटा छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6021",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "सामाजिक सुरक्षाको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४१",
+      "b": "धारा ४२",
+      "c": "धारा ४५",
+      "d": "धारा ४३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6022",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "युद्द र प्रतिरक्षा सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6023",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नाप–तौल सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6024",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "सहकारी सम्बन्धी अधिकार कसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "संघ, प्रदेश र स्थानीय",
+      "b": "संघ",
+      "c": "प्रदेश",
+      "d": "संघ र प्रदेश"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6025",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नेपालको संविधानमा राष्ट्रिय हित सम्बन्धी कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४",
+      "b": "धारा ५",
+      "c": "धारा ६",
+      "d": "धारा ७"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6026",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "स्वतन्त्रताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १८",
+      "c": "धारा १७",
+      "d": "धारा १९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6027",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "गोपनीयताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा २५",
+      "b": "धारा २७",
+      "c": "धारा २८",
+      "d": "धारा २९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6028",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "सञ्चारको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा १६",
+      "b": "धारा १७",
+      "c": "धारा १८",
+      "d": "धारा १९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6029",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "आवासको मौलिक हक कुन धारामा उल्लेख छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ३३",
+      "b": "धारा ३५",
+      "c": "धारा ३७",
+      "d": "धारा २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6030",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "राज्यका नीतिहरु कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा ४६",
+      "b": "धारा ५२",
+      "c": "धारा ५१",
+      "d": "धारा २६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6031",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "सबै भन्दा धेरै जिल्ला भएको प्रदेशमा कति जिल्ला छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "११",
+      "b": "१२",
+      "c": "१४",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6032",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "तलका मध्ये सबैभन्दा कम जिल्ला भएको प्रदेश कुन हो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "गण्डकी प्रदेश",
+      "b": "मधेश प्रदेश",
+      "c": "कोशी प्रदेश",
+      "d": "बागमती प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6033",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "बाजुरा जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6034",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "मुगु जिल्ला कुन प्रदेशमा पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "कोशी प्रदेश",
+      "b": "कर्णाली प्रदेश",
+      "c": "गण्डकी प्रदेश",
+      "d": "सुदूरपश्चिम प्रदेश"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6035",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "स्थानीय कार्यकारिणी अधिकार कति अनुसूचीमा उल्लेख भए बमोजिम हुनेछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अनुसूची–६ र अनुसूची–७",
+      "b": "अनुसूची–७ र अनुसूची–८",
+      "c": "अनुसूची–८ र अनुसूची–९",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6036",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "गाउँपालिकाको अध्यक्ष पदमा उम्मेद्धार हुन कति वर्ष उमेर पूरा भएको हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२१",
+      "b": "२५",
+      "c": "३५",
+      "d": "४५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6037",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "गाउँपालिकाको अध्यक्षको पदावधि निर्वाचित भएको मितिले कति वर्षको हुन्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6038",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नगरपालिकामा न्यायिक समितिको संयोजकत्व कसले गर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "प्रमुख",
+      "b": "उपप्रमुख",
+      "c": "प्रमुख प्रशासकीय अधिकृत",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6039",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "तलकामध्ये कुन भनाइ ठिक छ विचार गर्नुहोस् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जिल्ला भित्रका गाउँपालिका र नगरपालिकाहरूबीच समन्वय गर्न एक जिल्ला सभा रहनेछ",
+      "b": "जिल्ला समन्वय समितिको प्रमुखको पदावधि निर्वाचित भएको मितिले पाँच वर्षको हुनेछ ।",
+      "c": "जिल्ला सभाले बढीमा नौ जना सदस्य रहेको जिल्ला समन्वय समितिको निर्वाचन गर्नेछ ।",
+      "d": "माथिका सबै ठिक छन्"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6040",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "स्थानीय तहको व्यवस्थापिकीय अधिकार कसमा निहित रहनेछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जिल्ला सभा",
+      "b": "कार्यपालिका",
+      "c": "गाउँ सभा र नगर सभामा",
+      "d": "माथिका सबै"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6041",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "गाउँ सभामा प्रत्येक वडाबाट कम्तीमा कति जना महिलाको प्रतिनिधित्व हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२",
+      "b": "३",
+      "c": "४",
+      "d": "५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6042",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "नगर सभाको अध्यक्ष को रहने व्यवस्था छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "नगर कार्यपालिकाको प्रमुख",
+      "b": "नगर कार्यपालिकाको उपप्रमुख",
+      "c": "प्रमुख प्रशासकीय अधिकृत",
+      "d": "माथिको कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6043",
+    "chapter": "SECTION - III"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ कहिले प्रकाशित भएको थियो ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२०७२/०५/२९",
+      "b": "२०७२/०६/२९",
+      "c": "२०७४/०५/२९",
+      "d": "२०७४/०६/२९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6044",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/नगरपालिकाको प्रत्येक आर्थिक वर्षको बजेट कहिले सम्म पेस गर्नु पर्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १०",
+      "c": "असार १",
+      "d": "असोज ३"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6045",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "हरेक वर्षको आर्थिक वर्ष कहिलेबाट सुरु हुन्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "जेठ १५ गते",
+      "b": "साउन १ गते",
+      "c": "असार १० गते",
+      "d": "असार १ गते"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6046",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "एक आर्थिक वर्षमा खर्च हुन नसकी बाँकी रहेको रकम आर्थिक वर्षको अन्त्यमा गाउँपालिका वा नगरपालिकाको कुन कोषमा जम्मा हुन्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "लगानी कोष",
+      "b": "सञ्चित कोष",
+      "c": "चालु कोष",
+      "d": "नगर कोष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6047",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार कति वटा नगरपालिका रहेका छन् ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२७५",
+      "b": "२७६",
+      "c": "२७७",
+      "d": "२७८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6048",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "हिमाली जिल्लाको हिमाली क्षेत्रमा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१० हजार",
+      "b": "१५ हजार",
+      "c": "२० हजार",
+      "d": "२५ हजार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6049",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "पहाडी जिल्लामा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१० हजार",
+      "b": "१५ हजार",
+      "c": "३० हजार",
+      "d": "४० हजार"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6050",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "काठमाडौँ उपत्यकाभित्रका जिल्लामा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५० हजार",
+      "b": "७५ हजार",
+      "c": "१ लाख",
+      "d": "२ लाख"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6051",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "भित्री मधेसका जिल्लामा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५० हजार",
+      "b": "७५ हजार",
+      "c": "१ लाख",
+      "d": "२ लाख"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6052",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "तराईका जिल्लामा नगरपालिका घोषणा गर्न उक्त क्षेत्रमा कम्तीमा कति स्थायी बासिन्दा हुनु पर्दछ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५० हजार",
+      "b": "७५ हजार",
+      "c": "१ लाख",
+      "d": "२ लाख"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6053",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "उपमहानगरपालिका हुन कम्तीमा कति स्थायी बासिन्दा हुनुपर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५० हजार",
+      "b": "७५ हजार",
+      "c": "१ लाख",
+      "d": "२ लाख"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6054",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "नगरपालिका घोषणा हुन कम्तीमा कति शैयाको अस्पताल सुविधा हुनुपर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "कम्तीमा २५",
+      "b": "कम्तीमा ५०",
+      "c": "कम्तीमा १००",
+      "d": "कम्तीमा २००"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6055",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "उपमहानगरपालिका घोषणाको लागि पछिल्लो पाँच वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१० करोड",
+      "b": "२५ करोड",
+      "c": "५० करोड",
+      "d": "७५ करोड"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6056",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "महानगरपालिका घोषणाको लागि पछिल्लो पाँच वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१० करोड",
+      "b": "२५ करोड",
+      "c": "५० करोड",
+      "d": "१०० करोड"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6057",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "हिमाली क्षेत्रमा नगरपालिका घोषणाको लागि पछिल्लो पाँच वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१ करोड",
+      "b": "३ करोड",
+      "c": "५ करोड",
+      "d": "२५ करोड"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6058",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "हिमाली क्षेत्रमा बाहेक नगरपालिका घोषणाको लागि पछिल्लो पाँच वर्षको वार्षिक औसत आन्तरिक आय कम्तीमा कति हुनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१ करोड",
+      "b": "३ करोड",
+      "c": "५ करोड",
+      "d": "२५ करोड"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6059",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्रोत अनुमान तथा बजेट सीमा निर्धारण समितिको संयोजक को रहने व्यवस्था छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अध्यक्ष वा प्रमुख",
+      "b": "उपाध्यक्ष वा उपप्रमुख",
+      "c": "शाखा प्रमुख",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6060",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "बजेट तथा कार्यक्रम तर्जुमा समितिको संयोजक को रहने व्यवस्था छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "अध्यक्ष वा प्रमुख",
+      "b": "उपाध्यक्ष वा उपप्रमुख",
+      "c": "शाखा प्रमुख",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6061",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार गाउँपालिकामा कम्तीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५",
+      "b": "७",
+      "c": "९",
+      "d": "२१"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6062",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार गाउँपालिकामा बढीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५",
+      "b": "७",
+      "c": "९",
+      "d": "२१"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "6063",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार नगरपालिकामा कम्तीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५",
+      "b": "७",
+      "c": "९",
+      "d": "२१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6064",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार नगरपालिकामा बढीमा कति वडा रहने व्यवस्था रहेको छ।",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "५",
+      "b": "९",
+      "c": "३५",
+      "d": "२१"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6065",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/ नगरपालिकामा संविधानको कति धारा बमोजिम न्यायिक समिति रहने व्यवस्था छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "धारा २१५",
+      "b": "धारा २१६",
+      "c": "धारा २१७",
+      "d": "धारा २१८"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6067",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/नगरपालिकाले बढीमा कति वर्षका लागि ऋण लिन सक्ने छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "२५ वर्ष",
+      "b": "१५ वर्ष",
+      "c": "३० वर्ष",
+      "d": "१० वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "6068",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "स्थानीय सरकार सञ्चालन ऐन, २०७४ अनुसार कति परिच्छेदमा भवन निर्माण सम्बन्धी व्यवस्था गरिएको छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "परिच्छेद ६",
+      "b": "परिच्छेद ७",
+      "c": "परिच्छेद ८",
+      "d": "परिच्छेद ९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6069",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "भवन निर्माण गर्न अनुमति पाएको व्यक्तिले कति समय भित्र निर्माण कार्य सम्पन्न गर्नु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१ वर्ष",
+      "b": "२ वर्ष",
+      "c": "३ वर्ष",
+      "d": "५ वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6070",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका / नगरपालिका भित्र भवन निर्माण गर्दा कसले नक्सा पास गर्दछ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "मेयर",
+      "b": "प्रमुख प्रशासकीय अधिकृत",
+      "c": "उप मेयर",
+      "d": "सी.डी.ओ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "6071",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "कुनै पनि उजुरी नपरेको खण्डमा प्रमुख प्रशासकीय अधिकृतले कति दिन भित्र भवन निर्माणको लागि अनुमति दिनु पर्छ ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "३ दिन",
+      "b": "५ दिन",
+      "c": "७ दिन",
+      "d": "९ दिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6072",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "भवन , संरचना भत्काउँदा कसको आदेश लिनु पर्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "मेयर",
+      "b": "प्रमुख प्रशासकीय अधिकृत",
+      "c": "दुवै",
+      "d": "उप मेयर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6073",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "गाउँपालिका/ नगरपालिकाले तोकेको म्याद भित्र भवन संरचना नभत्काएमा, भत्काउँदा लागेको खर्च को बाट असुल गर्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "भौतिक मन्त्रालय",
+      "b": "नगर विकास कोष",
+      "c": "सम्बन्धित व्यक्ति",
+      "d": "मेयर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6074",
+    "chapter": "SECTION - IV"
+  },
+  {
+    "question": "दिएको समय अवधि भित्र भवन निर्माण गर्न नसकिने भएमा कति अवधिको लागि म्याद थप गर्न सकिन्छ?",
+    "topic": "General Information & Legislation",
+    "options": {
+      "a": "१ वर्ष",
+      "b": "१.५ वर्ष",
+      "c": "२ वर्ष",
+      "d": "२.५ वर्ष"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "6075",
+    "chapter": "SECTION - IV"
+  }
+]

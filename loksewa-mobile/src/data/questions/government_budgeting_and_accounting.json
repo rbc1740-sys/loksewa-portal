@@ -1198,5 +1198,1391 @@
     },
     "answer": "b",
     "explanation": "GFS stands for Government Finance Statistics, an international statistical framework used to analyze government financial operations[cite: 16]."
+  },
+  {
+    "question": "“Legal Authority of public spending” भनेर बजेटलाई परिभाषित गर्ने संस्था कुन हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "International Monetary Fund (IMF)",
+      "b": "Asian Development Bank (ADB)",
+      "c": "European Bank for Reconstruction and Development (EBRD)",
+      "d": "World Bank"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4961",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "“Record of past performance, a method of current control and projection of future plan” भनेर बजेटलाई परिभाषित कसले गरेका हुन् ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "Lauren Schwahn",
+      "b": "Dimock and Dimock",
+      "c": "Rene Stourn",
+      "d": "Max Weber"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4962",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "“ A document containing a preliminary approved plan of public revenue and expenditure” भनेर बजेटलाई परिभाषित कसले गरेका हुन् ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "Lauren Schwahn",
+      "b": "Dimock and Dimock",
+      "c": "Rene Stourn",
+      "d": "Max Weber"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4963",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्वमा बजेटको सुरुवात बेलायतका प्रधानमन्त्री रवर्ट वालपोल( Robert Walpole) ले कहिले गरेका हुन् ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सन् १७३०",
+      "b": "सन् १७३३",
+      "c": "सन् १७३६",
+      "d": "सन् १७३९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4964",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आधुनिक बजेटको सुरुवात कुन शताब्दीदेखि भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "२० औ",
+      "b": "१९ ‍औ",
+      "c": "१८ ‍औ",
+      "d": "१७ औ"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4965",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा अर्थमन्त्री सुर्वण शमशेरद्दारा पहिलो बजेट कहिले प्रस्तुत गरिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं. २०६२ माघ १९",
+      "b": "वि.सं. २००८ माघ २१",
+      "c": "वि.सं. २०१३ माघ १९",
+      "d": "वि.सं. २००७ माघ १९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4966",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो बजेटमा कति खर्च अनुमान गरिएको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "५,२५,२१,०००",
+      "b": "५,२१,२५,०००",
+      "c": "३,०५,१५,०००",
+      "d": "३,१५,०५,०००"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4967",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपलाको पहिलो बजेटमा कति आम्दानी अनुमान गरिएको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "५,२५,२१,०००",
+      "b": "५,२१,२५,०००",
+      "c": "३,०५,१६,०००",
+      "d": "३,१५,०५,०००"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4968",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपलमा साउन १ गतेलाई आर्थिक बर्षको सुरुवात कुन वर्षदेखि मानिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं. २००७",
+      "b": "वि.सं. २००८",
+      "c": "वि.सं. २०१६",
+      "d": "वि.सं. २०४६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4969",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा बजेटलाई साधारण र विकास गरी दुई भागमा कहिलेबाट विभाजन गरिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१२/१३",
+      "b": "आ .व. २०१३/१४",
+      "c": "आ.व. २०१४/१५",
+      "d": "आ.व. २०१५/१६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4970",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा कार्यक्रम बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०२६/२७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4971",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको बजेटमा अनुदानको संख्या कहिलेदेखि राख्न थालियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०२६/२७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4972",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा बजेटलाई चालू , पूँजीगत र सावाँ भूक्तानी गरी कहिलेबाट वर्गीकरण गर्न थालिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०६१/६२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4973",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्वमा लैङ्गिक बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सन् १९८१",
+      "b": "सन् १९८२",
+      "c": "सन् १९८३",
+      "d": "सन् १९८४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4974",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्वमा लैङ्गिक बजेटको सुरुवात कुन देशबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "बेलायत",
+      "b": "जापान",
+      "c": "अमेरीका",
+      "d": "अष्ट्रेलिया"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4975",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लैङ्गिक बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०६१/६२",
+      "d": "आ.व. २०६४/६५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4976",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "घाटा बजेट ल्याउने श्रेय कसलाई दिइन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आदम स्मिथ",
+      "b": "जन मेनार्ड केन्स",
+      "c": "कार्ल मार्क्स",
+      "d": "मिल्टन फ्रिडमान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4977",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले तयार गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4978",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले कार्यन्वयन गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4979",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले स्वीकृत गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4980",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेटका उदेश्य तलका मध्ये कुन हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सरकारको आय र व्ययको व्यवस्थापन गर्नु",
+      "b": "राष्ट्रको आय अभिवृद्दि गर्नु",
+      "c": "माथिका दुबै",
+      "d": "माथिका दुबै होइन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4981",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा MTEF (Medium Term Expenditure Framework) लाई कहिलेदेखि प्रयोगमा ल्याइएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०५९/६०",
+      "c": "आ.व. २०६१/६२",
+      "d": "आ.व. २०६३/६४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4982",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ को कुल बजेट कति रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "१७ खर्ब २१अर्ब ४१ करोड",
+      "b": "१७ खर्व ५३ अर्ब ३१ करोड",
+      "c": "१७ खर्ब ५१ अर्ब ३१ करोड",
+      "d": "१७ खर्ब ५१ अर्ब ३२ करोड"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4983",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ कुल बजेट को कति प्रतिशत बजेट चालू तर्फ छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "६४.३ %",
+      "b": "६५.२ %",
+      "c": "६५ . ५ %",
+      "d": "६६.२ %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4984",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ को कुल बजेट को कति प्रतिशत बजेट पुँजीगत तर्फ छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "१७.५%",
+      "b": "१६.२५%",
+      "c": "१७.२५%",
+      "d": "१६.५ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4985",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सन् १४९४ देखि दोहोरो लेखाप्रणालीको सुरुवात भएको हो। यसको जन्मदाता को हुन् ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "Luca Pacioli",
+      "b": "Dimock and Dimock",
+      "c": "Rene Stourn",
+      "d": "Max Weber"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4986",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“Summa de arithmetica” पुस्तकका लेखक को हुन् ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "Luca Pacioli",
+      "b": "Dimock and Dimock",
+      "c": "Rene Stourn",
+      "d": "Max Weber"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4987",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा स्याहास्रेस्ता प्रणालीको सूरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं १९३१",
+      "b": "वि.सं १९३२",
+      "c": "वि.सं १९३३",
+      "d": "वि.सं १९३४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4988",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपाल सरकारले दोहोरो लेखाप्रणालीमा आधारित नयाँ श्रेस्ताप्रणाली कहिले लागू गर्यो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०६१/६२",
+      "d": "आ.व. २०६३/६४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4989",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपाल बैँक लिमिटेले कहिलेबाट दोहोरो लेखा प्रणाली लागू गरेको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं १९९१",
+      "b": "वि.सं १९९२",
+      "c": "वि.सं १९९३",
+      "d": "वि.सं १९९४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4990",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "INOSAI को पूरा रुप के हो",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "International Organization of Supreme Audit Institutions",
+      "b": "International Network of Observatories on School Architecture and Indoor Air Quality",
+      "c": "International Network of Oceanographic and Atmospheric Sciences",
+      "d": "International Network of Operational Social Audits"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4991",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "INOSAI को स्थापना कहिले भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सन् १९५३",
+      "b": "सन् १९५४",
+      "c": "सन् १९५५",
+      "d": "सन् १९५६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4992",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "ASOSAI को पूरा रुप के हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "Asian Society of Organizational Studies and Industrial Applications",
+      "b": "Association of South East Asian Social Anthropologists and Intellectuals",
+      "c": "Asian Organization of Supreme Audit Institutions",
+      "d": "Association of Southeast Asian Nations Statistical Institute"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4993",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "ASOSAI को स्थापना कहिले भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सन् १९५३",
+      "b": "सन् १९६४",
+      "c": "सन् १९७०",
+      "d": "सन् १९७९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4994",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "भवन, जग्गा जमिन, फर्निचर, सडक लगायतका एक वर्षभन्दा बढी टिक्ने सामानमा गरिने खर्चलाई कुन प्रकारको बजेट शिर्षक अन्तर्गत राखिन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "पुजीगत बजेट",
+      "b": "चालु बजेट",
+      "c": "वित्तीय व्यवस्थापन बजेट",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4995",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राज्यको दैनिक प्रशासनीक खर्च, तलब,भत्ता, आदिमा हुने खर्चलाई कुन प्रकारको बजेट शिर्षक अन्तर्गत राखिन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "पुजीगत बजेट",
+      "b": "चालु बजेट",
+      "c": "वित्तीय व्यवस्थापन बजेट",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4996",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको संघीय बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4997",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको प्रादेशिक बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4998",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको स्थानीय बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4999",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको लेखापरीक्षण सम्बन्धी सर्वोच्च लेखापरीक्षण संस्थाको नाम के हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "महालेखा परीक्षकको कार्यलय",
+      "b": "लोकसेवा आयोगको कार्यलय",
+      "c": "प्रदेश लेखा नियन्त्रकको कार्यलय",
+      "d": "कोष तथा लेखा नियन्त्रक कार्यलय"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5000",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा Surplus Budget को सिद्धान्त अपनाइ कहिले बजेट प्रस्तुत गरिएको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व २०१७/१८",
+      "b": "आ.व २०२६/२७",
+      "c": "आ.व २०३३/३४",
+      "d": "आ.व २०६२/६३"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5001",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "आधुनिक बजेटको सुरुवात कुन शताब्दीदेखि भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "२० औ",
+      "b": "१९ ‍औ",
+      "c": "१८ ‍औ",
+      "d": "१७ औ"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4965",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा अर्थमन्त्री सुर्वण शमशेरद्दारा पहिलो बजेट कहिले प्रस्तुत गरिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं. २०६२ माघ १९",
+      "b": "वि.सं. २००८ माघ २१",
+      "c": "वि.सं. २०१३ माघ १९",
+      "d": "वि.सं. २००७ माघ १९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4966",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो बजेटमा कति खर्च अनुमान गरिएको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "५,२५,२१,०००",
+      "b": "५,२१,२५,०००",
+      "c": "३,०५,१५,०००",
+      "d": "३,१५,०५,०००"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4967",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपलाको पहिलो बजेटमा कति आम्दानी अनुमान गरिएको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "५,२५,२१,०००",
+      "b": "५,२१,२५,०००",
+      "c": "३,०५,१६,०००",
+      "d": "३,१५,०५,०००"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4968",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपलमा साउन १ गतेलाई आर्थिक बर्षको सुरुवात कुन वर्षदेखि मानिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं. २००७",
+      "b": "वि.सं. २००८",
+      "c": "वि.सं. २०१६",
+      "d": "वि.सं. २०४६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4969",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा बजेटलाई साधारण र विकास गरी दुई भागमा कहिलेबाट विभाजन गरिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१२/१३",
+      "b": "आ .व. २०१३/१४",
+      "c": "आ.व. २०१४/१५",
+      "d": "आ.व. २०१५/१६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4970",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा कार्यक्रम बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०२६/२७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4971",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको बजेटमा अनुदानको संख्या कहिलेदेखि राख्न थालियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०२६/२७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4972",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा बजेटलाई चालू , पूँजीगत र सावाँ भूक्तानी गरी कहिलेबाट वर्गीकरण गर्न थालिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०६१/६२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4973",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्वमा लैङ्गिक बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सन् १९८१",
+      "b": "सन् १९८२",
+      "c": "सन् १९८३",
+      "d": "सन् १९८४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4974",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्वमा लैङ्गिक बजेटको सुरुवात कुन देशबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "बेलायत",
+      "b": "जापान",
+      "c": "अमेरीका",
+      "d": "अष्ट्रेलिया"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4975",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लैङ्गिक बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०६१/६२",
+      "d": "आ.व. २०६४/६५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4976",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "घाटा बजेट ल्याउने श्रेय कसलाई दिइन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आदम स्मिथ",
+      "b": "जन मेनार्ड केन्स",
+      "c": "कार्ल मार्क्स",
+      "d": "मिल्टन फ्रिडमान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4977",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले तयार गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4978",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले कार्यन्वयन गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4979",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले स्वीकृत गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4980",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेटका उदेश्य तलका मध्ये कुन हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सरकारको आय र व्ययको व्यवस्थापन गर्नु",
+      "b": "राष्ट्रको आय अभिवृद्दि गर्नु",
+      "c": "माथिका दुबै",
+      "d": "माथिका दुबै होइन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4981",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ को कुल बजेट कति रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "१७ खर्ब २१अर्ब ४१ करोड",
+      "b": "१७ खर्व ५३ अर्ब ३१ करोड",
+      "c": "१७ खर्ब ५१ अर्ब ३१ करोड",
+      "d": "१७ खर्ब ५१ अर्ब ३२ करोड"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4983",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ कुल बजेट को कति प्रतिशत बजेट चालू तर्फ छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "६४.३ %",
+      "b": "६५.२ %",
+      "c": "६५ . ५ %",
+      "d": "६६.२ %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4984",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ को कुल बजेट को कति प्रतिशत बजेट पुँजीगत तर्फ छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "१७.५%",
+      "b": "१६.२५%",
+      "c": "१७.२५%",
+      "d": "१६.५ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4985",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा स्याहास्रेस्ता प्रणालीको सूरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं १९३१",
+      "b": "वि.सं १९३२",
+      "c": "वि.सं १९३३",
+      "d": "वि.सं १९३४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4988",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपाल सरकारले दोहोरो लेखाप्रणालीमा आधारित नयाँ श्रेस्ताप्रणाली कहिले लागू गर्यो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०६१/६२",
+      "d": "आ.व. २०६३/६४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4989",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपाल बैँक लिमिटेले कहिलेबाट दोहोरो लेखा प्रणाली लागू गरेको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं १९९१",
+      "b": "वि.सं १९९२",
+      "c": "वि.सं १९९३",
+      "d": "वि.सं १९९४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4990",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "भवन, जग्गा जमिन, फर्निचर, सडक लगायतका एक वर्षभन्दा बढी टिक्ने सामानमा गरिने खर्चलाई कुन प्रकारको बजेट शिर्षक अन्तर्गत राखिन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "पुजीगत बजेट",
+      "b": "चालु बजेट",
+      "c": "वित्तीय व्यवस्थापन बजेट",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4995",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राज्यको दैनिक प्रशासनीक खर्च, तलब,भत्ता, आदिमा हुने खर्चलाई कुन प्रकारको बजेट शिर्षक अन्तर्गत राखिन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "पुजीगत बजेट",
+      "b": "चालु बजेट",
+      "c": "वित्तीय व्यवस्थापन बजेट",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4996",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको संघीय बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4997",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको प्रादेशिक बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4998",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको स्थानीय बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4999",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको लेखापरीक्षण सम्बन्धी सर्वोच्च लेखापरीक्षण संस्थाको नाम के हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "महालेखा परीक्षकको कार्यलय",
+      "b": "लोकसेवा आयोगको कार्यलय",
+      "c": "प्रदेश लेखा नियन्त्रकको कार्यलय",
+      "d": "कोष तथा लेखा नियन्त्रक कार्यलय"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5000",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "आधुनिक बजेटको सुरुवात कुन शताब्दीदेखि भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "२० औ",
+      "b": "१९ ‍औ",
+      "c": "१८ ‍औ",
+      "d": "१७ औ"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4965",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा अर्थमन्त्री सुर्वण शमशेरद्दारा पहिलो बजेट कहिले प्रस्तुत गरिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं. २०६२ माघ १९",
+      "b": "वि.सं. २००८ माघ २१",
+      "c": "वि.सं. २०१३ माघ १९",
+      "d": "वि.सं. २००७ माघ १९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4966",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो बजेटमा कति खर्च अनुमान गरिएको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "५,२५,२१,०००",
+      "b": "५,२१,२५,०००",
+      "c": "३,०५,१५,०००",
+      "d": "३,१५,०५,०००"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4967",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपलाको पहिलो बजेटमा कति आम्दानी अनुमान गरिएको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "५,२५,२१,०००",
+      "b": "५,२१,२५,०००",
+      "c": "३,०५,१६,०००",
+      "d": "३,१५,०५,०००"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4968",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपलमा साउन १ गतेलाई आर्थिक बर्षको सुरुवात कुन वर्षदेखि मानिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं. २००७",
+      "b": "वि.सं. २००८",
+      "c": "वि.सं. २०१६",
+      "d": "वि.सं. २०४६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4969",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा बजेटलाई साधारण र विकास गरी दुई भागमा कहिलेबाट विभाजन गरिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१२/१३",
+      "b": "आ .व. २०१३/१४",
+      "c": "आ.व. २०१४/१५",
+      "d": "आ.व. २०१५/१६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4970",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा कार्यक्रम बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०२६/२७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4971",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको बजेटमा अनुदानको संख्या कहिलेदेखि राख्न थालियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०२६/२७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4972",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा बजेटलाई चालू , पूँजीगत र सावाँ भूक्तानी गरी कहिलेबाट वर्गीकरण गर्न थालिएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०१७/१८",
+      "d": "आ.व. २०६१/६२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4973",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्वमा लैङ्गिक बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सन् १९८१",
+      "b": "सन् १९८२",
+      "c": "सन् १९८३",
+      "d": "सन् १९८४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4974",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्वमा लैङ्गिक बजेटको सुरुवात कुन देशबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "बेलायत",
+      "b": "जापान",
+      "c": "अमेरीका",
+      "d": "अष्ट्रेलिया"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4975",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा लैङ्गिक बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०६१/६२",
+      "d": "आ.व. २०६४/६५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4976",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "घाटा बजेट ल्याउने श्रेय कसलाई दिइन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आदम स्मिथ",
+      "b": "जन मेनार्ड केन्स",
+      "c": "कार्ल मार्क्स",
+      "d": "मिल्टन फ्रिडमान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4977",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले तयार गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4978",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले कार्यन्वयन गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4979",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेट कसले स्वीकृत गर्दछ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4980",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सरकारी बजेटका उदेश्य तलका मध्ये कुन हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "सरकारको आय र व्ययको व्यवस्थापन गर्नु",
+      "b": "राष्ट्रको आय अभिवृद्दि गर्नु",
+      "c": "माथिका दुबै",
+      "d": "माथिका दुबै होइन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4981",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ को कुल बजेट कति रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "१७ खर्ब २१अर्ब ४१ करोड",
+      "b": "१७ खर्व ५३ अर्ब ३१ करोड",
+      "c": "१७ खर्ब ५१ अर्ब ३१ करोड",
+      "d": "१७ खर्ब ५१ अर्ब ३२ करोड"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4983",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ कुल बजेट को कति प्रतिशत बजेट चालू तर्फ छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "६४.३ %",
+      "b": "६५.२ %",
+      "c": "६५ . ५ %",
+      "d": "६६.२ %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4984",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आर्थिक बर्ष २०८०/८१ को कुल बजेट को कति प्रतिशत बजेट पुँजीगत तर्फ छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "१७.५%",
+      "b": "१६.२५%",
+      "c": "१७.२५%",
+      "d": "१६.५ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4985",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालमा स्याहास्रेस्ता प्रणालीको सूरुवात कहिलेबाट भएको हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं १९३१",
+      "b": "वि.सं १९३२",
+      "c": "वि.सं १९३३",
+      "d": "वि.सं १९३४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4988",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपाल सरकारले दोहोरो लेखाप्रणालीमा आधारित नयाँ श्रेस्ताप्रणाली कहिले लागू गर्यो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०६१/६२",
+      "d": "आ.व. २०६३/६४"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4989",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपाल बैँक लिमिटेले कहिलेबाट दोहोरो लेखा प्रणाली लागू गरेको थियो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "वि.सं १९९१",
+      "b": "वि.सं १९९२",
+      "c": "वि.सं १९९३",
+      "d": "वि.सं १९९४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4990",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "भवन, जग्गा जमिन, फर्निचर, सडक लगायतका एक वर्षभन्दा बढी टिक्ने सामानमा गरिने खर्चलाई कुन प्रकारको बजेट शिर्षक अन्तर्गत राखिन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "पुजीगत बजेट",
+      "b": "चालु बजेट",
+      "c": "वित्तीय व्यवस्थापन बजेट",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4995",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राज्यको दैनिक प्रशासनीक खर्च, तलब,भत्ता, आदिमा हुने खर्चलाई कुन प्रकारको बजेट शिर्षक अन्तर्गत राखिन्छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "पुजीगत बजेट",
+      "b": "चालु बजेट",
+      "c": "वित्तीय व्यवस्थापन बजेट",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4996",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको संघीय बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4997",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको प्रादेशिक बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4998",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको संविधानमा व्यवस्था भए बमोजिम नेपाल सरकारको स्थानीय बजेट कहिले प्रस्तुत गर्ने प्रवधान रहेको छ ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "जेठ १५",
+      "b": "असार १",
+      "c": "असार १०",
+      "d": "साउन १५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4999",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको लेखापरीक्षण सम्बन्धी सर्वोच्च लेखापरीक्षण संस्थाको नाम के हो ?",
+    "topic": "Government Budgeting and Accounting",
+    "options": {
+      "a": "महालेखा परीक्षकको कार्यलय",
+      "b": "लोकसेवा आयोगको कार्यलय",
+      "c": "प्रदेश लेखा नियन्त्रकको कार्यलय",
+      "d": "कोष तथा लेखा नियन्त्रक कार्यलय"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5000",
+    "chapter": "SECTION-II"
   }
 ]

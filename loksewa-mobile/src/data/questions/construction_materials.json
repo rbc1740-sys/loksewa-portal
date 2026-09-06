@@ -5735,5 +5735,7243 @@
     "answer": "b",
     "explanation": "Expanded metal mesh is manufactured by slitting and stretching solid steel sheets without generating scrap material.",
     "qn": "445"
+  },
+  {
+    "question": "The rocks formed due to the solidification of molten mass are called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Aqueous rocks",
+      "b": "Sedimentary rocks",
+      "c": "Metamorphic rocks",
+      "d": "Igneous rocks"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7764",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The solidification of molten magma at the surface of the earth results in the formation of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Sedimentary rock",
+      "b": "Basalts and trap",
+      "c": "Granite",
+      "d": "Metamorphic rock"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7765",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The solidification of molten magma within the earth's crust results in the formation of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sedimentary rocks",
+      "b": "metamorphic rocks",
+      "c": "basalts and traps",
+      "d": "granite and pegmatite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7766",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The rocks formed by the gradual deposition, are called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sedimentary rocks",
+      "b": "igneous rocks",
+      "c": "metamorphic rocks",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7767",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Rocks formed due to alteration of the original structure due to heat and excessive pressure are called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sedimentary rocks",
+      "b": "igneous rocks",
+      "c": "metamorphic rocks",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7768",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Under metamorphism, which of the following changes is correct?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "granite changes into gneiss",
+      "b": "sandstone changes into quartzite",
+      "c": "limestone changes into marble",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7769",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Slate is a metamorphic rock obtained from structural change of:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "shale",
+      "b": "granite",
+      "c": "sandstone",
+      "d": "marble"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7770",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Conglomerate is a",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7771",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Suitable aggregate is obtained from ________ rock.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "igneous",
+      "b": "sedimentary",
+      "c": "metamorphic",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7772",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Which of the following is a mineral?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "quartzite",
+      "b": "laterite",
+      "c": "calcareous rock",
+      "d": "calcite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7773",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Pick up the polymineralic rock from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Quartz sand",
+      "b": "Pure gypsum",
+      "c": "Magnesite",
+      "d": "Granite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7774",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The argillaceous rocks have their principal constituents:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "lime",
+      "b": "clay",
+      "c": "sand",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7775",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Which of the following is a rock?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "gypsum",
+      "b": "augite",
+      "c": "calcite",
+      "d": "mica"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7777",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The stone, that exhibits more fire-resisting characteristics is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "granite",
+      "b": "marble",
+      "c": "limestone",
+      "d": "compact sandstone"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7780",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Sandstone is a",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sedimentary rock",
+      "b": "igneous rock",
+      "c": "argillaceous",
+      "d": "both (a) and (b) above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7783",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Sandstone contains mostly",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "quartz and lime",
+      "b": "quartz, lime, and silica",
+      "c": "silica, aluminium, and lime",
+      "d": "igneous"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7784",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Basalt can be classified as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sedimentary rock",
+      "b": "metamorphic rock",
+      "c": "intrusive igneous rock",
+      "d": "extrusive igneous rock"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7785",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "A good building stone should have",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "strength",
+      "b": "good appearance and colour",
+      "c": "hardness and toughness",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7786",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Colour of the granite is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "brown",
+      "b": "green",
+      "c": "grey or pink",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7787",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The building stone used for bridge, piers and columns is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "granite",
+      "b": "limestone",
+      "c": "marble",
+      "d": "sandstone"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7788",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The specific gravity of marble, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "2.50",
+      "b": "2.60",
+      "c": "2.66",
+      "d": "2.72"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7789",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Which of the following statements is correct about stone suitability?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "For carving ornamental and architectural beauty, the stone should be soft",
+      "b": "For random rubble masonry, the stone should be hard",
+      "c": "For retaining wall, the stone should be heavy",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7790",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Rocks having silica as the main constituent are called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "calcareous rocks",
+      "b": "argillaceous rocks",
+      "c": "siliceous rocks",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7791",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The rock having calcium carbonate as the main mineral constituent is known as,",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "calcareous rock",
+      "b": "argillaceous rock",
+      "c": "siliceous rock",
+      "d": "sandy rock"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7792",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Kaolin (china clay) is a",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "calcareous rock",
+      "b": "argillaceous rock",
+      "c": "siliceous rock",
+      "d": "sandy rock"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7793",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Dorry's testing machine is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "crushing test of stone",
+      "b": "hardness test of stone",
+      "c": "impact test of stone",
+      "d": "water absorption test"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7794",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The specific gravity of stone should not, in any case, be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1",
+      "b": "1.5",
+      "c": "2",
+      "d": "2.5"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7795",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The compressive strength of granite is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "50 to 70 MN/m²",
+      "b": "70 to 130 MN/m²",
+      "c": "130 to 170 MN/m²",
+      "d": "170 to 200 MN/m²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7796",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Lighter varieties of stones are preferably used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Domes",
+      "b": "Roof coverings",
+      "c": "Both (a) and (b)",
+      "d": "Neither (a) and (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7797",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "On Mohr’s scale, a scratch with the aid of a fingernail indicates a hardness of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7798",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "When quarrying is to be done in hard stone and compact rocks, the usual method of quarrying is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "by wedging",
+      "b": "by channelling machine",
+      "c": "by blasting",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7799",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The structure of the stones obtained from the rocks of igneous origin is generally",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "foliated",
+      "b": "stratified",
+      "c": "regular",
+      "d": "unstratified"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7800",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Which of the following is a volcanic type of rock?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Granite",
+      "b": "Shale",
+      "c": "Slate",
+      "d": "Basalt"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7801",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The rock with poorest strength is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Shale",
+      "b": "Dolerite",
+      "c": "Pegmatite",
+      "d": "Granite"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7802",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The physical classification divides the rocks into",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "calcareous, argillaceous, and siliceous",
+      "b": "organic, semi-organic, and inorganic",
+      "c": "igneous, sedimentary, and metamorphic",
+      "d": "stratified, unstratified, and foliated"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7804",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Identify the chemical classification of rocks",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "calcareous, argillaceous, and siliceous",
+      "b": "organic, semi-organic, and inorganic",
+      "c": "igneous, sedimentary, and metamorphic",
+      "d": "stratified, unstratified, and foliated"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7805",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Identify the geological classification of rocks",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "calcareous, argillaceous, and siliceous",
+      "b": "organic, semi-organic, and inorganic",
+      "c": "igneous, sedimentary, and metamorphic",
+      "d": "stratified, unstratified, and foliated"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7806",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Which of the following can be used as a preservative for building stones?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "raw and boiled linseed oil",
+      "b": "coal tar",
+      "c": "alum soap solution",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7807",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Tripoli and Gravel are both types of:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Igneous rock",
+      "b": "Sedimentary rock",
+      "c": "Metamorphic rock",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7809",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The rock having a tendency to split in a definite direction is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "stratified",
+      "b": "unstratified",
+      "c": "foliated",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7810",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Trap is a",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "metamorphic rock",
+      "b": "igneous rock",
+      "c": "granite rock",
+      "d": "sedimentary rock"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7811",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Common sand is a variety of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "calcite",
+      "b": "quartz",
+      "c": "feldspar",
+      "d": "chlorite"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7813",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The tendency of minerals to split along a certain plane, is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "fracture",
+      "b": "cleavage",
+      "c": "breaking",
+      "d": "fault"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7814",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Stone generally used for railway ballast is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sandstone",
+      "b": "dolomite",
+      "c": "marble",
+      "d": "basalt or trap, granite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7815",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "A good quality stones must absorb water less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "2.5%",
+      "b": "5%",
+      "c": "10%",
+      "d": "20%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7816",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "A stone is rejected if the water absorption is more than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10%",
+      "b": "20%",
+      "c": "25%",
+      "d": "30%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7817",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Good quality building stones should not contain soluble salts more than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0%",
+      "b": "1%",
+      "c": "2%",
+      "d": "10%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7818",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Hard siliceous rocks which cannot be scratched by a knife represent a hardness of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "7",
+      "b": "6",
+      "c": "5",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7819",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The building stone can be dressed very easily",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "just after quarrying",
+      "b": "after seasoning",
+      "c": "after some months of quarrying",
+      "d": "any time"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7820",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The preparation of the surface of stones to obtain plain edges or to obtain the stone of the required shape and size is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "blasting of stone",
+      "b": "quarrying of stone",
+      "c": "seasoning of stone",
+      "d": "dressing of stone"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7822",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The group of tools used for quarrying of stone is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "jumper and crowbar",
+      "b": "crowbar and trowel",
+      "c": "trowel and wedge",
+      "d": "wedge and scotch"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7823",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The explosive not used for blasting the rocks underwater is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Gunpowder",
+      "b": "Gun cotton",
+      "c": "Dynamite",
+      "d": "Cordite"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7824",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "In stone masonry, the stones are placed in a position such that the natural bedding plane is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "normal to the direction of pressure they carry",
+      "b": "parallel to the direction of pressure they carry",
+      "c": "at 45° to the direction of pressure they carry",
+      "d": "at 60° to the direction of pressure they carry"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7825",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The most powerful explosive used in blasting is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "blasting power",
+      "b": "dynamite",
+      "c": "gun cotton",
+      "d": "cordite"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7826",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Limestone falls under the category of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "aqueous rock",
+      "b": "stratified rock",
+      "c": "sedimentary rock",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7827",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Laterite is an example of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "argillaceous rock",
+      "b": "volcanic rock",
+      "c": "organic rock",
+      "d": "siliceous rock"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7828",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Slate and marble stones belong to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "igneous rocks",
+      "b": "metamorphic rocks",
+      "c": "sedimentary rocks",
+      "d": "foliated rocks"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7829",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "In arches, stratified stones are placed so that their planes are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "parallel",
+      "b": "radial",
+      "c": "perpendicular",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7830",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The stones obtained by blasting are used as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "ballast in railways",
+      "b": "aggregates for concrete",
+      "c": "roadmetal",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7831",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Shingle is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "decomposed laterite",
+      "b": "crushed granite",
+      "c": "water-bound pebbles",
+      "d": "air-weathered rock"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7832",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Pumice is a type of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7833",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Smith test is performed on stones to determine",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "gravity",
+      "b": "hardness",
+      "c": "water absorption",
+      "d": "soluble and clayey water"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7834",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The silica is used for preparing",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "silica bricks",
+      "b": "coke oven",
+      "c": "lining for glass furnaces",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7835",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Which of the following correctly matches the softest and hardest rocks?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Marble - Softest, Diamond - Hardest",
+      "b": "Talc - Softest, Diamond - Hardest",
+      "c": "Talc - Softest, Quartz - Hardest",
+      "d": "Marble - Softest, Quartz - Hardest"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7836",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Most weather-resisting metamorphic rock is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "limestone",
+      "b": "slate",
+      "c": "marble",
+      "d": "quartzite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7837",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Crushing strength for most of the building stone should be more than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "500 kg/cm²",
+      "b": "1000 kg/cm²",
+      "c": "1500 kg/cm²",
+      "d": "2000 kg/cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7838",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Granite is not suitable for ordinary building purpose because",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "it cannot be polished",
+      "b": "it is not a fireproof material",
+      "c": "it is costly",
+      "d": "it has less crushing strength"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7839",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The important test to be conducted on a stone used in docks & harbours is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Hardness test",
+      "b": "Workability test",
+      "c": "Weight test",
+      "d": "Toughness test"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7840",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "An artificial stone made from pieces of marble and cement and used for floor facing of walls etc. is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "mosaic",
+      "b": "terrazzo",
+      "c": "marble",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7841",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Good quality sand is never obtained from the following source",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "river bed",
+      "b": "nala",
+      "c": "sea",
+      "d": "gravel powder"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7842",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "A fine-grained granite",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "offers higher resistance to weathering",
+      "b": "can be easily polished and worked",
+      "c": "is used for exterior facing of building",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7843",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Which stone provides the calcareous component required for the manufacture of cement?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Lime",
+      "b": "Limestone",
+      "c": "Marble",
+      "d": "Granite"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7844",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "During the production of cement, raw materials are mixed in:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "ball mill",
+      "b": "pug mill",
+      "c": "rice mill",
+      "d": "cement mill"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7845",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The main ingredient of cement in descending order is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "lime, silica, alumina, iron oxide and magnesia",
+      "b": "silica, alumina, iron oxide, magnesia and lime",
+      "c": "silica, alumina, iron oxide and magnesia",
+      "d": "alumina, lime, iron oxide, magnesia and silica"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7846",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Gypsum is added to cement to reduce the fast-reacting property of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dicalcium silicate",
+      "b": "tricalcium silicate",
+      "c": "tricalcium aluminate",
+      "d": "tetra calcium alumino ferrite"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7847",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Cement is said to be of good if",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "its colour is grey",
+      "b": "one feels cool by thrusting one's hand into the cement bag",
+      "c": "it is smooth when rubbed in between fingers",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7848",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The most commonly used retarder in cement is?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "gypsum",
+      "b": "calcium chloride",
+      "c": "calcium carbonate",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7849",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Maximum percentage of ______ is available in cement.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "silica",
+      "b": "Iime",
+      "c": "alumina",
+      "d": "iron oxide"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7850",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The silica in Portland cement should be",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10 to 20 %",
+      "b": "20 to 25 %",
+      "c": "25 to 40 %",
+      "d": "40 to 60 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7851",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The initial setting of cement is caused by the formation of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dicalcium silicate",
+      "b": "tricalcium silicate",
+      "c": "tricalcium aluminate",
+      "d": "tetracalcium aluminate"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7852",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The undesirable properties of cement is due to the formation of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dicalcium silicate",
+      "b": "tricalcium silicate",
+      "c": "tricalcium aluminate",
+      "d": "tetracalcium aluminate"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7853",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The constituents of cement which act as binders are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dicalcium silicate and tricalcium silicate",
+      "b": "tricalcium aluminate, tricalcium silicate and carbon",
+      "c": "silica and carbon",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7854",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The types of cement is considered good if",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "it contains C3S in large amount",
+      "b": "it contains C2S in large amount",
+      "c": "it contains C3A in large amount",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7856",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "A slow-setting cement has a higher percentage of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "tricalcium aluminate",
+      "b": "tricalcium silicate",
+      "c": "dicalcium silicate",
+      "d": "gypsum"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7857",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The clinker is formed at a temperature of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "500°C",
+      "b": "1000°C",
+      "c": "1200°C",
+      "d": "1500°C"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7858",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Dormant period (2-5hr) is concerned with",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "hydration of cement",
+      "b": "fineness of cement",
+      "c": "soundness of cement",
+      "d": "workability of cement"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7859",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The strength of RHPC for one day is equal to _______ day of OPC.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "2 days",
+      "b": "3 days",
+      "c": "4 days",
+      "d": "5 days"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7861",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The Le Chatelier test finds the defects of unsoundness of cement due to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "free lime",
+      "b": "free magnesium",
+      "c": "free gypsum",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7864",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The percentage of water for normal consistency is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "5 to 15 %",
+      "b": "10 to 25 %",
+      "c": "15 to 25 %",
+      "d": "25 to 35 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7865",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Cement should be stored in ______ .",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "well ventilated room",
+      "b": "air tight and dry room",
+      "c": "open space",
+      "d": "cool place"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7866",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Which one is correct?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "PPC gains strength slowly as compared to OPC",
+      "b": "Ultimate strength of PPC is higher than OPC",
+      "c": "PPC has higher resistance to chemical attack",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7867",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The raw materials having more than 10% proportion in the manufacture of cement are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "calcium oxide and silica",
+      "b": "calcium oxide and magnesium oxide",
+      "c": "magnesium oxide and ferrous oxide",
+      "d": "silica and ferrous oxide"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7870",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Excessive water cement ratio _____ .",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "reduces the workability of the concrete",
+      "b": "makes the concrete strong",
+      "c": "reduces strength of the concrete by creating more voids",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7871",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The rate of hydration and hydrolysis of cement depends upon its",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "soundness",
+      "b": "fineness",
+      "c": "setting time",
+      "d": "tensile strength"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7874",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The specific surface (in cm^2/g) of a good Portland cement should not be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "500",
+      "b": "1100",
+      "c": "2250",
+      "d": "3200"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7875",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Early attainment of strength in rapid hardening cement is mainly due to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "gypsum",
+      "b": "finer grinding",
+      "c": "tricalcium silicate",
+      "d": "tricalcium illuminate"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7876",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Addition of pozzolana to ordinary Portland cement increases",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "bleeding",
+      "b": "shrinkage",
+      "c": "permeability",
+      "d": "heat of hydration"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7877",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Which cement is used in dam construction?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "OPC",
+      "b": "RHPC",
+      "c": "Low heat cement",
+      "d": "Sulphate resisting cement"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7878",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "A 50 kg cement bag contains",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.035 m³ of cement",
+      "b": "0.025 m³ of cement",
+      "c": "0.033 m³ of cement",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7879",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Snowcem is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "mixture of lime and pigment",
+      "b": "chalk powder",
+      "c": "coloured cement",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7880",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The amount of Pozzolana in Portland Pozzolana cement is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "20 to 30%",
+      "b": "30 to 40%",
+      "c": "40 to 50%",
+      "d": "50 to 60%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7881",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The types of cement used for patch works of pavement is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "OPC",
+      "b": "Expansive",
+      "c": "PPC",
+      "d": "RHPC"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7882",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The initial setting time of lime-pozzolana, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "30 minutes",
+      "b": "60 minutes",
+      "c": "90 minutes",
+      "d": "120 minutes"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7883",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "In the briquette test, the seven-day tensile strength of good Portland cement should not be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "20 kg/cm²",
+      "b": "30 kg/cm",
+      "c": "25 kg/cm²",
+      "d": "35 kg/cm²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7885",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Rapid hardening cement attains early strength due to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "larger proportion of lime grounded finer than in ordinary cement",
+      "b": "small proportion of lime grounded finer than in ordinary cement",
+      "c": "the presence of an excess percentage of gypsum",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7886",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Ordinary Portland cement (OPC) has been classified into how many grades?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "10",
+      "d": "5"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7887",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "After sieving the residue by weight on IS test sieve no.9 not to exceed for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Ordinary Portland cement 10 percent",
+      "b": "Rapid hardening cement 5 percent",
+      "c": "Both (a) and (b)",
+      "d": "Neither (a) nor (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7888",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The cement becomes useless if its absorbed moisture content exceeds?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "2%",
+      "b": "3%",
+      "c": "4%",
+      "d": "5%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7889",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "For normal consistency, the penetration in Vicat's apparatus should be between",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "20 to 30 mm",
+      "b": "30 to 35 mm",
+      "c": "35 to 38 mm",
+      "d": ">40 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7890",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Quick-setting cement is used",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "for the construction of structures underwater",
+      "b": "to obtain very light strength",
+      "c": "where resistance to acidic water is required",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7891",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The initial and final setting times of ordinary Portland cement are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "30 minutes and 10 hr",
+      "b": "15 minutes and 10 hr",
+      "c": "15 minutes and 5 hr",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7892",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The initial and final setting times of quick-setting cement are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "15 minutes and 45 minutes",
+      "b": "20 minutes and one hour",
+      "c": "5 minutes and 30 minutes",
+      "d": "5 minutes and 10 minutes"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7893",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The Pozzolana Portland cement gains strength",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "in the same time as ordinary Portland cement",
+      "b": "in less time than ordinary Portland cement",
+      "c": "in more time than ordinary Portland cement",
+      "d": "difficult to tell"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7894",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Compared to the ordinary Portland cement, the ultimate strength of the Portland Pozzolana cement is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "same",
+      "b": "more",
+      "c": "less",
+      "d": "very much less"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7895",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Ultimate strength to cement is provided by:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Tricalcium silicate",
+      "b": "Dicalcium silicate",
+      "c": "Tricalcium aluminate",
+      "d": "Tetra-calcium alumino ferrite"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7896",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "In a sound cement, the magnesia content is limited to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "3 %",
+      "b": "4 %",
+      "c": "5 %",
+      "d": "6 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7897",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The standard consistency test is not required to find",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "initial setting time",
+      "b": "final setting time",
+      "c": "soundness of cement",
+      "d": "fineness of cement"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7898",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "If P is the percentage of water required for normal consistency, water to be added for determination of initial setting time is,",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.70P",
+      "b": "0.75P",
+      "c": "0.80P",
+      "d": "0.85P"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7901",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Strength of cement with storage",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "same",
+      "d": "difficult to tell"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7902",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The fineness of cement is tested by:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Air permeability method",
+      "b": "Le-chatelier method",
+      "c": "Vicat's apparatus",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7904",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The ordinary cement used in general construction is:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "rapid hardening cement",
+      "b": "Portland cement",
+      "c": "high alumina cement",
+      "d": "pozzolanic cement"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7905",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The chemical action between cement and water, is technically known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dehydration",
+      "b": "carbonation",
+      "c": "calcinations",
+      "d": "hydration"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7906",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The amount of insoluble residue & residual retained (OPC) on IS sieve No.9 are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1.5% & 10%",
+      "b": "4% & 10%",
+      "c": "10% & 1.5%",
+      "d": "1.5% & 4%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7907",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The loss of ignition in cement should not exceed",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1%",
+      "b": "4%",
+      "c": "8%",
+      "d": "12%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7908",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Which one is correct?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "normally concreting is done above 20°C",
+      "b": "optimum temperature for concreting is 27°+2°",
+      "c": "consistency test is done at a temperature of 25°C to 29°C",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7909",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The strength of cement for up to three months",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "100%",
+      "b": "80%",
+      "c": "70%",
+      "d": "60%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7910",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The strength of cement is reduced by _______ after 6 months.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "20%",
+      "b": "30%",
+      "c": "40%",
+      "d": "50%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7911",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The excess quantity of CaCl2 (>2 %) and triethanolamine (0.06%) admixtures behaves like a",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "accelerator",
+      "b": "retarder",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7912",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The possibility of bleeding, segregation and laitance is reduced by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "colouring agent",
+      "b": "bleeding agent",
+      "c": "waterproofer",
+      "d": "air entraining agent"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7913",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Asbestos cement",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is brittle",
+      "b": "warps due to changes in humidity",
+      "c": "strength is lowered when saturated by water",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7914",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Name the type of cement from the following for canal linings :",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sulphate resisting cement",
+      "b": "rapid hardening cement",
+      "c": "quick setting cement",
+      "d": "pozzolana cement."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7915",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Minimum required water cement ratio for a workable concrete, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.30",
+      "b": "0.40",
+      "c": "0.50",
+      "d": "0.60"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7916",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The cement becomes unsound by the presence of excess",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sulphur",
+      "b": "magnesia",
+      "c": "lime",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7917",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Rapid hardening cement contains",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Tri-calcium silicate",
+      "b": "Tri-calcium aluminate",
+      "c": "Tetra-calcium alumino-ferrite",
+      "d": "Dicalcium silicate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7918",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The initial setting of rapid hardening cement should not be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "30 min",
+      "b": "1 hour",
+      "c": "4 hours",
+      "d": "8 hours"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7919",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Sulphate resisting cement is generally used in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Canal linings",
+      "b": "Culverts",
+      "c": "Systems",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7921",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Fineness of cement affects",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "the rate of hydration",
+      "b": "the rate of gain of strength",
+      "c": "the rate of evolution of heat",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7922",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Normally bogus compounds found in cement during the burning process",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "alite",
+      "b": "belite",
+      "c": "celite",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7923",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The good clay for making brick is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "unweathered clay",
+      "b": "weathered clay",
+      "c": "silted soil",
+      "d": "black cotton soil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7924",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "For the manufacture of bricks normally the topsoil is removed having a depth of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10cm",
+      "b": "20cm",
+      "c": "30cm",
+      "d": "40cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7925",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The percentage of silica in a good brick earth lies between",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10-20%",
+      "b": "20-40%",
+      "c": "50-60%",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7926",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The ingredient of the brick earth which enables the brick to retain shape is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "aluminium",
+      "b": "silica",
+      "c": "iron oxide",
+      "d": "magnesia"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7929",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "Excess of silica in the clay",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "makes the brick brittle and weak",
+      "b": "makes the brick crack and warp on drying",
+      "c": "changes the colour of the brick from red to yellow",
+      "d": "improves impermeability and durability of the brick"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7931",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The process of kneading clay, water and other ingredients to make brick is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "moulding",
+      "b": "tempering",
+      "c": "pugging",
+      "d": "blending"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7936",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The process of mixing sand with powdered natural soil to improve the quality is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "moulding",
+      "b": "tempering",
+      "c": "pugging",
+      "d": "blending"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7937",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "A pug mill is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "softening brick earth",
+      "b": "moulding brick earth",
+      "c": "tempering brick earth",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7938",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "Pug mill is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "clay preparation",
+      "b": "clay moulding",
+      "c": "brick drying",
+      "d": "brick burning"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7939",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "Tempering of soil for the manufacture of bricks is done by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "feet",
+      "b": "pug mill",
+      "c": "feet of cattle",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7940",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The compressive strength of the brick should be",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Minimum 3.5 kN/m²",
+      "b": "Maximum 3.5 kN/m²",
+      "c": "Minimum 3.5 N/mm²",
+      "d": "Maximum 3.5 N/mm²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7941",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The crushing strength of 1st class brick should not be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "25 kg/cm²",
+      "b": "70 kg/cm",
+      "c": "105 kg/cm²",
+      "d": "140 kg/cm²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7944",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The minimum compressive strength of a 2nd class brick should be",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "25 kg/cm²",
+      "b": "70 kg/cm²",
+      "c": "105 kg/cm²",
+      "d": "140 kg/cm²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7945",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The temperature at which bricks are burnt varies from (low melting clay)",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "400° to 700°C",
+      "b": "700° to 1000°C",
+      "c": "1000 to 1200 C",
+      "d": "1200° to 1500° C"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7946",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "For one cubic meter of brick masonry, the number of machine-made bricks required as per NS is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "430",
+      "b": "530",
+      "c": "560",
+      "d": "660"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7947",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The number of standard bricks required for one cubic meter of brick masonry (IS standard) is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "400",
+      "b": "500",
+      "c": "750",
+      "d": "250"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7948",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The burning of bricks in kilns is completed within _______ hours.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "12",
+      "b": "24",
+      "c": "48",
+      "d": "96"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7949",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The amount of local brick required for 1 m³ masonry is (As per NS norms):",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "500",
+      "b": "530",
+      "c": "560",
+      "d": "600"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7950",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The internal size of the mould used in brick preparation is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "smaller than the size of a fully burnt brick",
+      "b": "larger than the size of a fully burnt brick",
+      "c": "equal to the size fully burnt brick",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7951",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The nominal size of modular brick is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "less than actual brick",
+      "b": "equal to actual brick",
+      "c": "greater than the actual brick",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7952",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The standard size of a brick as per Nepal Standard (NBC205:2013) is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "20x10x10 cm³",
+      "b": "240x115x57 mm³",
+      "c": "18x9x9 cm³",
+      "d": "18x8x8 cm³"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7953",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "Advantages of clamp burning as compared to kiln burning is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "less initial cost",
+      "b": "takes less time",
+      "c": "when a large number of bricks are required",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7954",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bull’s trench kiln is a trench excavated in ground",
+      "b": "Hoffman’s kiln is constructed overground",
+      "c": "Tunnel kiln is constructed as a tunnel",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7955",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The overground continuous kiln is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "bull's trench kiln",
+      "b": "hoffman's kiln",
+      "c": "tunnel kiln",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7956",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The kiln which may work regularly throughout the year is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "clamp",
+      "b": "bull's kiln",
+      "c": "hoffman's kiln",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7957",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "The shape of Hoffman's continuous kiln is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "circular",
+      "b": "rectangular",
+      "c": "pentagonal",
+      "d": "elliptical"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7958",
+    "chapter": "Ceramic Materials-I"
+  },
+  {
+    "question": "A brick is a block of _________ material.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dusty",
+      "b": "organic",
+      "c": "ceramic",
+      "d": "loamy"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7959",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "A small quantity of magnesia in brick earth imparts",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Red tint to bricks",
+      "b": "Yellow tint to bricks",
+      "c": "Black tint to bricks",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7960",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Frog means",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "depression on the top face of the brick",
+      "b": "special types of brick",
+      "c": "projection of brick",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7961",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The function of a frog is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "to form a key during laying",
+      "b": "reduction in weight",
+      "c": "advertisement of manufacturer",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7962",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The fire clay contains pure",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "lime",
+      "b": "oxide of iron",
+      "c": "hydrated aluminium silicate",
+      "d": "magnesium"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7963",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Normally the bricks (1st class) obtained from clamp/pazawah is about",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "30%",
+      "b": "40%",
+      "c": "50%",
+      "d": "60%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7964",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The top and sides of a clamp (pazawah) is plastered with mud and cow dung to prevent _________.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "stealing of brick",
+      "b": "low quality of brick",
+      "c": "escape of heat",
+      "d": "firing the neighbouring houses"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7965",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "In one day, the height of brick masonry construction should generally not exceed",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1m",
+      "b": "1.5m",
+      "c": "2.5m",
+      "d": "3m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7966",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Choose the correct",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "percentage of silica is increased in 1st class brick",
+      "b": "percentage of alumina is increased in 1st class brick",
+      "c": "percentage of alumina is increased in refractory brick",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7967",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Second class bricks",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "are of dark brown colour",
+      "b": "produce a metallic sound when struck",
+      "c": "are well burnt",
+      "d": "are under burnt"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7968",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Generally wooden moulds are made from",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "plywood",
+      "b": "shisham",
+      "c": "pine wood",
+      "d": "teak wood"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7969",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Refractory bricks are specially manufactured",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "to withstand the high crushing pressure",
+      "b": "to withstand high temperature",
+      "c": "to have high insulation against sound",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7970",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The types of bricks used for lining of furnace/combustion chamber is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "refractory",
+      "b": "machine made",
+      "c": "handmade",
+      "d": "1st class"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7971",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The discolouration and formation of white deposits due to the presence of a relatively large proportion of soluble salts in bricks is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "bloating",
+      "b": "chuffs",
+      "c": "efflorescence",
+      "d": "nodules"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7972",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "In the case of the clamp for burning of bricks, the bricks/ fuel are laid at a slope of _________.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10°",
+      "b": "15°",
+      "c": "20°",
+      "d": "25°"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7973",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Jhamb bricks",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "over burnt",
+      "b": "under burnt",
+      "c": "kaccha",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7974",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Finely powdered burnt clay is called:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "fly ash",
+      "b": "surkhi",
+      "c": "briquette",
+      "d": "moraine"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7976",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "In brick laying the tool used for lifting and spreading mortar and for forming joints is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "scotch",
+      "b": "trowel",
+      "c": "square",
+      "d": "bolster"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7977",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The broken portion of brick is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "brick",
+      "b": "bat",
+      "c": "sill",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7979",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "If rainwater falls on hot bricks then the shape of the brick gets deformed, this defect is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "efflorescence",
+      "b": "chuffs",
+      "c": "bloating",
+      "d": "nodule"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7984",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The shape of bull's trench kiln is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "circular",
+      "b": "parabolic",
+      "c": "elliptical",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7986",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Swelling of bricks is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "bloating",
+      "b": "lamination",
+      "c": "chuff's",
+      "d": "efflorescence"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7987",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "All burnt bricks are soaked in water for at least ___________ before use with cement mortars.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "4 hour",
+      "b": "3 hour",
+      "c": "2 hour",
+      "d": "1 hour"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7988",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The clay to be used for manufacturing bricks for a large project, is dugout and allowed to weather throughout",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "the monsoon",
+      "b": "the winter",
+      "c": "the summer",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7990",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Which one of the following sequence of steps is correct for preparing the clay for making bricks?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Weathering- Blending- Tempering",
+      "b": "Blending- Tempering- Weathering",
+      "c": "Tempering- Weathering- Blending",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "7991",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Which one of the following kilns is not a continuous kiln?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bull’s trench kiln",
+      "b": "Hoffman’s kiln",
+      "c": "Tunnel’s kiln",
+      "d": "Intermittent kiln"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7992",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "Low porosity brick has",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "low-strength",
+      "b": "high-strength",
+      "c": "more absorption capacity",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7993",
+    "chapter": "Ceramic Materials-II"
+  },
+  {
+    "question": "The property of lime by which it sets in damp places in the absence of free air, is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Calcination",
+      "b": "Hydraulicity",
+      "c": "Both a) and b)",
+      "d": "Neither a) nor b)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "7994",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Lime is obtained by heating the limestone",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "due to the removal of moisture.",
+      "b": "due to the removal of carbon dioxide.",
+      "c": "Both a) and b)",
+      "d": "Neithera) nor b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7995",
+    "chapter": "Lime"
+  },
+  {
+    "question": "3. Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The chemical composition of lime is oxide of calcium (CaO)",
+      "b": "The chemical reaction during calcination of limestone takes place is CaCO3 → CaO + CO2",
+      "c": "Both a) and b)",
+      "d": "Neithera) nor b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "7996",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Which one of the following statements is correct?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The lime obtained by calcination of pure lime is known as quick lime (or caustic soda)",
+      "b": "The quick lime has great affinity to moisture",
+      "c": "The quick lime has no affinity for carbon dioxide",
+      "d": "All of the above are correct"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7997",
+    "chapter": "Lime"
+  },
+  {
+    "question": "When a sufficient quantity of water is added to quick lime",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "it cracks",
+      "b": "it swells",
+      "c": "it becomes powder",
+      "d": "all are correct"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7998",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Which one of the following is an air-binding material?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The gypsum",
+      "b": "Acid-resistant cement",
+      "c": "Quick lime",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "7999",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The hydraulicity of lime is due to the presence of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Calcium silicate",
+      "b": "Magnesium silicate",
+      "c": "Aluminium silicate",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8000",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The presence of magnesium in limestone allows lime to slake and set slowly.",
+      "b": "The magnesium carbonate imparts strength to lime.",
+      "c": "The hydraulicity of lime is rendered by 30% of carbonate of magnesium in the absence of clay in limestone",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8001",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Fat lime is also known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "pure lime",
+      "b": "rich lime",
+      "c": "white lime",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8002",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The property by virtue of which lime sets under water is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "slacking",
+      "b": "hydraulicity",
+      "c": "setting",
+      "d": "calcining"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8003",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Fat lime slakes vigorously and its volume increases about",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "14 times the volume of quick lime",
+      "b": "2 times the volume of quick lime",
+      "c": "3 times the volume of quick lime",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8004",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Fat lime is composed of roughly 95 percent of calcium oxide",
+      "b": "Fat lime hardens very slowly",
+      "c": "Fat lime slakes vigorously",
+      "d": "All of the above properties are correct"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8005",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Hydraulic lime is popularly known as water lime",
+      "b": "Hydraulic lime sets underwater",
+      "c": "Hydraulic lime contains clay and some amount of ferrous oxide",
+      "d": "All of the above are correct"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8006",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The hydraulic lime resembles natural cement if clay content is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "15%",
+      "c": "25%",
+      "b": "20%",
+      "d": "30%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8007",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Poor lime (impure lime)",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "contains more than 30% of clay",
+      "b": "slakes very slowly",
+      "c": "hardens very slowly",
+      "d": "All of the above are correct"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8008",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The minimum compressive strength of class B lime with lime sand",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "should be 12.50 kg/cm² after 14 days",
+      "b": "should be 17.50 kg/cm² after 28 days",
+      "c": "both a) and b)",
+      "d": "neither a) nor b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8009",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Class C lime",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is the fat lime",
+      "b": "is used in finishing coat in plastering",
+      "c": "with surkhi produces artificial hydraulic mortars",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8010",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The lime which contains mainly calcium oxide and slacks with water is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "fat lime",
+      "b": "quick lime",
+      "c": "hydraulic lime",
+      "d": "poor lime"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8011",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The lime that contains a high percentage of calcium oxide, is generally called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "fat lime",
+      "b": "(6) rich lime",
+      "c": "white lime",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8012",
+    "chapter": "Lime"
+  },
+  {
+    "question": "For the construction of structures underwater, the type of lime used is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "hydraulic lime",
+      "b": "fat lime",
+      "c": "quick lime",
+      "d": "pure lime"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8013",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Pozzolana (or surkhi) is used in lime",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "to impart hydraulicity",
+      "b": "to prevent shrinkage",
+      "c": "to decrease the cost of construction",
+      "d": "to decrease the setting time"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8014",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Quick lime is obtained by burning pure lime stone",
+      "b": "Hydraulic lime is obtained by burning limestone containing clay 5% to 30%",
+      "c": "Poor lime is obtained by burning limestone containing impurities more than 5%",
+      "d": "All the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8015",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Slacking of lime is affected by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "keeping it exposed to air",
+      "b": "immersing the lime in water",
+      "c": "crushing the lime lumps",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8016",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Lime mortar is generally made with",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "quick lime",
+      "b": "fat lime",
+      "c": "hydraulic lime",
+      "d": "plain lime"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8017",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The commonly used lime in white-washing is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "white lime",
+      "b": "fat lime",
+      "c": "hydraulic lime",
+      "d": "lime"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8018",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Lime concrete is generally used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "wall foundations",
+      "b": "flooring at ground level",
+      "c": "both a) and b)",
+      "d": "neither a) nor b)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8019",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Lime putty",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is made by adding lime to water",
+      "b": "can be used only up to three days",
+      "c": "may be obtained from drying lime water mix passing through IS sieve No. 300",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8020",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Slaked lime contains calcium hydroxide",
+      "b": "Slaked lime may be obtained from quick lime",
+      "c": "Slaked lime is obtained by adding water to quick Iime",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8021",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Quick lime",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "generates heat when added to water",
+      "b": "reacts with carbon dioxide",
+      "c": "when mixed with water forms slaked lime",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8022",
+    "chapter": "Lime"
+  },
+  {
+    "question": "Pick up the incorrect statement from the following",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Hydraulic lime is generally obtained by burning kankar",
+      "b": "Hydraulic lime sets slowly as compared to fat lime",
+      "c": "Hydraulic lime is generally used in lime mortar",
+      "d": "None of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8023",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The minimum percentage of silica, alumina and ferric oxide in lime for white washing, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "20",
+      "b": "15",
+      "c": "10",
+      "d": "0"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8024",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The initial setting time of hydraulic lime, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "30 minutes",
+      "b": "60 minutes",
+      "c": "90 minutes",
+      "d": "120 minutes"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8025",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The initial setting time of lime-pozzolona, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "30 minutes",
+      "b": "60 minutes",
+      "c": "90 minutes",
+      "d": "120 minutes"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8026",
+    "chapter": "Lime"
+  },
+  {
+    "question": "The normal curing period for lime mortar, is:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1 day",
+      "b": "3 days",
+      "c": "7 days",
+      "d": "14 days"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8027",
+    "chapter": "Lime"
+  },
+  {
+    "question": "For lime concrete",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "flexural strength at 90 days is 0.2 N/mm²",
+      "b": "compressive strength at 90 days is 1.5 N/mm²",
+      "c": "compressive strength at 26 days is 1.2 N/mm²",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8028",
+    "chapter": "Lime"
+  },
+  {
+    "question": "A ferrous metal is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cast iron",
+      "b": "wrought iron",
+      "c": "steel",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8029",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Depending on the chemical composition and mechanical properties, iron may be classified as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cast iron",
+      "b": "wrought iron",
+      "c": "steel",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8030",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Pig iron is manufactured from the ores by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dressing",
+      "b": "calcination and roasting",
+      "c": "smelting",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8031",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The operation of removal of impurities or clay adhoring to iron ores, is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dressing",
+      "b": "calcination",
+      "c": "roasting",
+      "d": "smelting"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8032",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "If the iron ore contains clay as an impurity, the flux added during calcination, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "clay",
+      "b": "limestone",
+      "c": "argillaceous iron ore",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8033",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "If the ore impurities is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "clay, limestone is used as flux",
+      "b": "limestone, clay is used as flux",
+      "c": "quartz, limestone and argillaceous iron ores are used as flux",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8034",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "During smelting process, the combination of fuel in the furnace",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "forms carbon dioxide",
+      "b": "carbon dioxide with carbon forms carbon mono-oxide",
+      "c": "carbon mono-oxide reacts with Fe2O3 to form iron and liberates CO2",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8035",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Pig iron made from hematite ores free from sulphur, phosphorus and copper, is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bessemer pig",
+      "b": "Grey or foundry pig",
+      "c": "White or forge pig",
+      "d": "Mottled pig"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8036",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Pig iron obtained from the furnance which is properly provided with fuel at a very high temperature is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bessemer pig",
+      "b": "Grey or foundry pig",
+      "c": "White or forge pig",
+      "d": "Mottled pig"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8037",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "If the furnace is provided with insufficient fuel at low temperature the type of pig iron produced is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bessemer pig",
+      "b": "Grey or foundry pig",
+      "c": "White or forge pig",
+      "d": "Mottled pig"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8038",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The variety of pig iron used for the manufacture of steel by Bessemer process is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bessemer pig",
+      "b": "Grey or foundry pig",
+      "c": "White or forge pig",
+      "d": "Mottled pig"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8039",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The variety of pig iron used for the manufacture of wrought iron is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bessemer pig",
+      "b": "Grey or foundry pig",
+      "c": "White or forge pig",
+      "d": "Mottled pig"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8040",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "For light and ornamental casting, the most unsuitable pig iron is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bessemer pig",
+      "b": "Grey or foundry pig",
+      "c": "White or forge pig",
+      "d": "Mottled pig"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8041",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Upto a maximum of 72% of iron, is available in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Magnetite",
+      "b": "Red haemetite",
+      "c": "Limonite",
+      "d": "Siderite"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8042",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "A minimum of 10% of iron, is available in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Magnetite",
+      "b": "Red haematite",
+      "c": "Limonite",
+      "d": "Black band"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8043",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Cast iron",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is obtained by purifying pig iron",
+      "b": "is manufactured in required shapes",
+      "c": "may contain 2 to 5 percent of carbon with other impurities",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8044",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "For melting one tonne of cast iron",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "700 m³ air is required",
+      "b": "20 kg limestone is required",
+      "c": "one quintal coke is required",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8045",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The cast iron when heated to red heat with powdered red haematite in an oven to increase its toughness, is converted to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "grey cast iron",
+      "b": "mottled cast iron",
+      "c": "white cast iron",
+      "d": "toughed cast iron."
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8046",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Wrought iron contains carbon up to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.15%",
+      "b": "(6) 1.0%",
+      "c": "1.5%",
+      "d": "2%."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8047",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Forge pig may be converted to wrought iron by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "rolling",
+      "b": "pudding",
+      "c": "shingling",
+      "d": "refining"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8048",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Invar contains",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "12% of nickel",
+      "b": "24% of nickel",
+      "c": "30% to nickel",
+      "d": "36% of nickel"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8049",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Stainless steel contains",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "18% of chromium and 8% nickel",
+      "b": "8% of chromium and 18% of nickel",
+      "c": "12% of chromium and 36% of nickel",
+      "d": "36% of chromium and 12% of nickel"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8050",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Permanent magnets are made of high carbon steel and",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "15% of cobalt",
+      "b": "20% of cobalt",
+      "c": "35% of cobalt",
+      "d": "45% of cobalt"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8051",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Cast iron contains carbon approximately",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1.5% to 5.5%",
+      "b": "0.05% to 1.75%",
+      "c": "0.25%",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8052",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Bessemer process is used for the manufacture of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Pig iron",
+      "b": "cast iron",
+      "c": "Wrought iron",
+      "d": "Steel"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8053",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "A softer variety of steel may be obtained by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Cementation process",
+      "b": "crucible process",
+      "c": "Bessemer process",
+      "d": "Open hearth process"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8054",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The steel which contains fissures and cavities, is manufactured by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Cementation process",
+      "b": "Crucible process",
+      "c": "Bessemer process",
+      "d": "Open hearth process"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8055",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Cast steel is manufactured by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Cementation process",
+      "b": "Crucible process",
+      "c": "Bessemer process",
+      "d": "Open hearth process"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8056",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "In basic Bessemer process, the steel heats the converter",
+      "b": "In open-hearth process, the furnace heats the steel",
+      "c": "In siemens process, the impurities of pig iron are oxidised by the oxygen of the ore",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8057",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "For high grade instruments the steel preferred to, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cast steel",
+      "b": "bessemer steel",
+      "c": "mild steel",
+      "d": "whitworth compressed steel"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8058",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The steel used in R.C.C. work is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cast steel",
+      "b": "bessemer steel",
+      "c": "mild steel",
+      "d": "stainless steel"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8059",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Mild steel is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "structural works in beams, joints, and girders",
+      "b": "small-sized water pipes",
+      "c": "columns and struts",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8060",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Wrought iron is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "structural works in beams",
+      "b": "small sized water pipes",
+      "c": "columns and struts",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8061",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Cast iron is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "structural works in beams",
+      "b": "small-sized water pipes",
+      "c": "columns and struts",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8062",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Brass is an alloy of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "copper and tin",
+      "b": "copper and zinc",
+      "c": "zinc and lead",
+      "d": "tin and silver"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8063",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "German silver is an alloy of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "zinc, lead and nickel",
+      "b": "silver, gold and lead",
+      "c": "copper, nickel and zinc",
+      "d": "copper, nickel and zinc"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8064",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Stainless steel resist corrosion due to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "carbon",
+      "b": "sulphur",
+      "c": "vanadium",
+      "d": "chromium"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8065",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "For the manufacture of stainless steel, steel is mixed with",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "chromium",
+      "b": "nickel",
+      "c": "tungsten",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8066",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The yield strength and tensile strength of low carbon steel may be improved by the addition of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "manganese",
+      "b": "chromium",
+      "c": "nickel",
+      "d": "vanadium"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8067",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "In steel there is no free graphite in its composition.",
+      "b": "In cast iron, there is a presence of free graphite in its composition.",
+      "c": "Both a) and b)",
+      "d": "Neither a) nor b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8068",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Galvanizing means covering iron with a thin coat of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "tin",
+      "b": "zinc",
+      "c": "glaze",
+      "d": "coal tar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8069",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Which one of the following does not belong to exogenous trees?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "coconut",
+      "b": "shisham",
+      "c": "teak",
+      "d": "sal"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8071",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "The solution of salts from the soil absorbed by the trees which becomes a viscous solution due to loss of moisture and action of carbon dioxide is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "pith",
+      "b": "cambium",
+      "c": "bark",
+      "d": "sap"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8072",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "The age of the tree can be judged from",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "the height",
+      "b": "the diameter",
+      "c": "annual rings",
+      "d": "piths"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8073",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "The layer between the bark of the tree and the sapwood which is not yet converted into wood is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "heart wood",
+      "b": "cambium layer",
+      "c": "soft wood layer",
+      "d": "pith"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8074",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "Which of the following is not a hardwood?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "deodar",
+      "b": "sal",
+      "c": "teak",
+      "d": "oak"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8075",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "Which of the following is not a softwood?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "deodar",
+      "b": "walnut",
+      "c": "shisham",
+      "d": "kail"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8076",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "When the timber is attacked by fungus and reduced to powder, it is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "wet rot",
+      "b": "dry rot",
+      "c": "druxiness",
+      "d": "doatiness"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8077",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "The seasoning of timber",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "makes the timber light, strong and stable",
+      "b": "prevents warping, cracking and shrinkage in timber BUILDING MATERIALS",
+      "c": "makes timber resistant to decay by fungi, termites etc., and also resistant to electricity",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8082",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "A thin sheet of wood sliced from a log of wood is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "plywood",
+      "b": "lamin board",
+      "c": "veneer",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8086",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "In the manufacture of plywoods the veneers are placed such that the grains of one layer are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "at 45° with the grains of the other",
+      "b": "at right angles with the grains of the other",
+      "c": "at 60° with grains of the other",
+      "d": "parallel to the grains of the other"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8087",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "As the number of modullary rays increases, generally the strength of the timber",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "decreases",
+      "b": "increases",
+      "c": "may increase or may decrease",
+      "d": "difficult to guess"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8088",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "Good timber must emit",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sonorous sound",
+      "b": "dull sound",
+      "c": "no sound",
+      "d": "noisy sound"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8089",
+    "chapter": "Timber and Woods"
+  },
+  {
+    "question": "The function of the base of an oil paint is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "to form the body of the paint",
+      "b": "to reduce the shrinkage cracks",
+      "c": "to reinforce the film of the paint after drying",
+      "d": "to prevent penetration of paint to lower surfaces"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8092",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The paints with white lead base are suitable for painting of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "ironwork",
+      "b": "woodwork",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8093",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The most commonly used base for iron and steel work, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "red lead",
+      "b": "zinc white",
+      "c": "white lead",
+      "d": "titanium white"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8094",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The base material for the distemper is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "clay",
+      "b": "chalk",
+      "c": "lime",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8095",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The vehicle used in the case of enamel paints is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "varnish",
+      "b": "linseed oil",
+      "c": "water",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8097",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The commonly used drying oil for oil paints, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "olive oil",
+      "b": "linseed oil",
+      "c": "kerosene",
+      "d": "acetate of lead"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8099",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The commonly used thinner in distempers",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "olive oil",
+      "b": "naphtha",
+      "c": "turpentine",
+      "d": "water"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8101",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The commonly used thinner in oil paints is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "naphtha",
+      "b": "turpentine",
+      "c": "olive oil",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8103",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Distemper is used on",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "rooftop",
+      "b": "plastered surface exposed to weather",
+      "c": "plastered surface not exposed to weather",
+      "d": "unplastered surface exposed as well as not exposed to weather"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8104",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The best primer used for structural steelwork is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "zinc oxide",
+      "b": "red lead",
+      "c": "white lead",
+      "d": "iron oxide"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8107",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Duco is the trade name for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "bituminous paint",
+      "b": "oil paint",
+      "c": "cellulose paint",
+      "d": "water paint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8110",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Duco is one of the patent forms of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "plastic paints",
+      "b": "cellulose paints",
+      "c": "oil paints",
+      "d": "emulsion paints"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8111",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Duco paints are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "plastic paints",
+      "b": "cellulose paints",
+      "c": "oil paints",
+      "d": "emulsion paints"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8112",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The paint which gives illumination during the night is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "fluorescent paint",
+      "b": "cellulose paint",
+      "c": "enamel paint",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8113",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The paints used in aircraft are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "dry paints",
+      "b": "cellulose paints",
+      "c": "water paints",
+      "d": "emulsion paints"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8114",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Snowcem paint is a type of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cement paint",
+      "b": "aluminium paint",
+      "c": "bronze paint",
+      "d": "cellulose paint"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8115",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The pigment used in paints for corrosive resistance is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "red lead",
+      "b": "white lead",
+      "c": "gypsum",
+      "d": "ferrous oxide"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8116",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The commonly used colour pigment in paints, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "ambers",
+      "b": "iron oxide",
+      "c": "lamp black",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8117",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The defect in painting over a smooth and glossy surface due to which paint does not stick to the surface, is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "scaling",
+      "b": "running",
+      "c": "sagging",
+      "d": "wrinkling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8118",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The small areas on the painted surface enclosed by hairline cracks are called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "crazing",
+      "b": "crocodiling",
+      "c": "chalking",
+      "d": "blistering"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8120",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The defect in painting caused by sliding of one layer of paint over another layer is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "wrinkling",
+      "b": "peeling",
+      "c": "alligatoring",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8121",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The main constituent of varnish is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "resin",
+      "b": "water",
+      "c": "chalk",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8123",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Oil varnish generally consists of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "resin, oil and turpentine",
+      "b": "oil, wax and resin",
+      "c": "synthetic resin and spirit",
+      "d": "spirit, oil and wax."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8124",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Lacquer paints are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "generally applied on structural steel",
+      "b": "are more durable compared to enamel paints",
+      "c": "consisting of resin and nitro-cellulose",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8125",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Lacquer is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "distemper",
+      "b": "oil paint",
+      "c": "spirit varnish",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8126",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "To give a brilliant finish, the type of varnish used is:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "water varnish",
+      "b": "spirit varnish",
+      "c": "turpentine varnish",
+      "d": "oil varnish"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8128",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The most durable varnish is:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "water varnish",
+      "b": "oil varnish",
+      "c": "turpentine varnish",
+      "d": "spirit varnish"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8129",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Bitumen is obtained from",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Coal",
+      "b": "Petroleum",
+      "c": "Wood",
+      "d": "Kerosene"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8130",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Bitumen is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "waterproofing",
+      "b": "damp proofing",
+      "c": "joint filler",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8131",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Bitumen is completely soluble in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Carbon disulfide",
+      "b": "Water",
+      "c": "Carbon monoxide",
+      "d": "Carbon dioxide"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8132",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "According to ISI, bitumen is classified into",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "3 grades",
+      "b": "5 grades",
+      "c": "8 grades",
+      "d": "10 grades"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8133",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Bitumen felt",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is used as water proofing material",
+      "b": "is used as damp proofing material",
+      "c": "is made from bitumen and hessian fibres",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8134",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Plastic bitumen is generally used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "road pavements",
+      "b": "painting",
+      "c": "expansion",
+      "d": "crack filling"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8136",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "For rapid curing cutbacks, the oil used is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "gasoline",
+      "b": "kerosene oil",
+      "c": "light diesel",
+      "d": "heavy diesel"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8137",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Percentage of free carbon in bitumen is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "more than that in tar",
+      "b": "less than that in tar",
+      "c": "equal to that in tar",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8138",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Which one of the following binders is recommended for a wet and cold climate ?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "80/100 penetration asphalt",
+      "b": "tar",
+      "c": "cutback",
+      "d": "emulsion"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8139",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Rapid curing cutback bitumen is produced by blending bitumen with",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "kerosene",
+      "b": "benzene",
+      "c": "diesel",
+      "d": "petrol"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8140",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Bitumen of grade 80/100 means",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "its penetration value is 8 mm",
+      "b": "its penetration value is 10 mm",
+      "c": "its penetration value is 8 to 10 mm",
+      "d": "its penetration value is 8 to 10 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8141",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "The weight loss on heating of bitumen used for pavement should not be more than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1%",
+      "b": "3%",
+      "c": "4%",
+      "d": "5%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8142",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "The commonly used grade of bitumen that is used in the moderate temperature range of Nepal is:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "60/100",
+      "b": "70/100",
+      "c": "80/100",
+      "d": "90/100"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8143",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "The penetration test is used to measure which of the following properties of bitumen?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "viscosity",
+      "b": "hardness",
+      "c": "ductility",
+      "d": "volatility"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8144",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "The flash point of bitumen refers to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Its resistance to fire",
+      "b": "The temperature at which it ignites",
+      "c": "Its ability to withstand high-temperature",
+      "d": "The rate at which it evaporates"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8145",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Rubberisation temperature is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "180°C",
+      "b": "150°C",
+      "c": "220°C",
+      "d": "250°C"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8146",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "When a bitumen is graded 75/15, the figure 75 represents",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "viscosity in centipoise",
+      "b": "softening point in °C",
+      "c": "fire point in °C",
+      "d": "flash point in °C"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8147",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Which of the following grades of bitumen is harder?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "30/40",
+      "b": "60/70",
+      "c": "80/100",
+      "d": "all are equal"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8148",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "The ductility value of bitumen for suitability in road construction should not be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "30 cm",
+      "b": "40 cm",
+      "c": "50 cm",
+      "d": "60 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8149",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Penetration test on bitumen is used for determining its",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "grade",
+      "b": "viscosity",
+      "c": "ductility",
+      "d": "temperature susceptibility"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8150",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "RC-2, MC-2 and SC-2 correspond to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "same viscosity",
+      "b": "viscosity in increasing order from RC-2 to SC-2",
+      "c": "viscosity in decreasing order from RC-2 to SC-2",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8151",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "The recommended grade of tar for grouting purpose is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "RT-1",
+      "b": "RT-2",
+      "c": "RT-3",
+      "d": "RT-5"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8152",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Softening point of bitumen to be used for road construction at a place where maximum temperature is 40°C should be",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "less than 40°C",
+      "b": "greater than 40°C",
+      "c": "equal to 40°C",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8153",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Asphalt is obtained from",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "petroleum distillation",
+      "b": "bitumen distillation",
+      "c": "plastic distillation",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8154",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Mastic asphalt is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "waterproof",
+      "b": "fireproof",
+      "c": "elastic",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8155",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Mastic asphalt is generally used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "damp proof course",
+      "b": "waterproof layer",
+      "c": "partition walls",
+      "d": "both (a) and (b)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8156",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Mastic asphalt is normally used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sound insulation",
+      "b": "water proofing",
+      "c": "fire proofing",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8157",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "Mastic asphalt is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "acid resisting material",
+      "b": "non-corrosive material",
+      "c": "corrosive material",
+      "d": "heat-resisting material"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8159",
+    "chapter": "Asphaltic Material"
+  },
+  {
+    "question": "The compressive strength of stone is found out by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "attrition test",
+      "b": "crushing test",
+      "c": "hardness test",
+      "d": "impact test"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8160",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The process of taking out stones under the ground at great depth is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Quarrying",
+      "b": "Mining",
+      "c": "Both (a) and (b)",
+      "d": "Neither (a) nor (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8161",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The quarrying of stone by the method of wedging is successfully carried out in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sandstones",
+      "b": "limestones",
+      "c": "marbles",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8163",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "In order to dry the quarry sap of a freshly quarried stone, it should be exposed to open air for a period of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "one month",
+      "b": "four months",
+      "c": "six to twelve months",
+      "d": "two years"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8164",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Types of rock used for lightweight aggregate is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "conglomerate",
+      "b": "slate",
+      "c": "shale",
+      "d": "pumice"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8166",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Quartzite is a",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sandy rock",
+      "b": "siliceous rock",
+      "c": "organic rock",
+      "d": "calcareous rock"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8168",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The crushing strength of a stone depends upon its",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "texture",
+      "b": "specific gravity",
+      "c": "lusture",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8169",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "If a blasting explosive like gunpowder is to be destroyed, it must be",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "packed in a container and buried",
+      "b": "burnt in open fire",
+      "c": "thrown into water",
+      "d": "any of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8171",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The hardness coefficient is the maximum for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "conglomerate",
+      "b": "granite",
+      "c": "slate",
+      "d": "limestone"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8172",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The colour of statutory marble used for the sculptor's work is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "red",
+      "b": "blue",
+      "c": "white",
+      "d": "green"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8173",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The arrangement, size and shape of the constituent mineral grains of a stone gives the information about its",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "texture",
+      "b": "toughness",
+      "c": "lusture",
+      "d": "none of the above."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8174",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "When the molten magma from the earth’s crust comes onto the surface of the earth, it is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Lava",
+      "b": "Larva",
+      "c": "Zava",
+      "d": "Pumice"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8175",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "In how many units are all the rocks geologically classified ?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "3 units",
+      "b": "4 units",
+      "c": "5 units",
+      "d": "6 units"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8176",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Spalling hammer is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "driving wooden headed chisels",
+      "b": "rough dressing of stones",
+      "c": "carving of stones",
+      "d": "breaking small projection of stones"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8177",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Specific gravity for most of the ordinary building stone lines between",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1.5 to 2.0",
+      "b": "2.0 to 2.5",
+      "c": "2.4 to 3.0",
+      "d": "3.0 to 3.5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8178",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Texture of sandstone is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cellular",
+      "b": "foliated",
+      "c": "granular",
+      "d": "concoidal"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8179",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Select the correct statement:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Gneiss has the highest compressive strength",
+      "b": "Granite has the highest crushing strength",
+      "c": "Both (a) and (b) are correct",
+      "d": "None of them are correct"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8180",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Dolomite is a limestone which contains carbonate of magnesia up to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "15 %",
+      "b": "20 %",
+      "c": "25 %",
+      "d": "45 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8181",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Pick up the correct statement from the following",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The distinct plane of division in stones along which stone can be easily split, is known as the natural bed of stone.",
+      "b": "The natural bed of stone indicates the plane in which the sedimentary stone was initially deposited",
+      "c": "The natural bed of stone lies along the planes of stratification in sedimentary rocks",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8182",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Gypsum is a",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "mechanically formed sedimentary rock",
+      "b": "igneous rock",
+      "c": "chemically precipitated sedimentary rock",
+      "d": "metamorphic rock"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8183",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "Pick up the correct statement from the following.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Granite rocks possess extremely grained crystalline structure.",
+      "b": "Dolerite rocks possess fine-grained crystalline structure.",
+      "c": "Basalt rocks extremely fine-grained in structure may frequently contain non-crystalline glass.",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8184",
+    "chapter": "Stone-I"
+  },
+  {
+    "question": "The sub-classification of sedimentary rocks are",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "volcanic and plutonic",
+      "b": "mechanical, chemical, organic",
+      "c": "intrusive,extrusive",
+      "d": "stratified and unstratified"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8185",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Pick the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Metamorphic rocks generally possess a foliated structure.",
+      "b": "Sedimentary rocks are distinctly stratified.",
+      "c": "Both (a) and (b) are correct.",
+      "d": "Neither (a) nor (b) is correct."
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8186",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Quartz sand is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Monomineralic rock",
+      "b": "Polymineralic rock",
+      "c": "Sedimentary rock",
+      "d": "Calcareous rock"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8187",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Hornblende is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "a heavy mineral",
+      "b": "a durable mineral",
+      "c": "not a brittle mineral",
+      "d": "a strong mineral"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8188",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Mica is mainly composed of:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Calcium carbonate",
+      "b": "Magnesium and calcium silicate",
+      "c": "Silica with oxygen",
+      "d": "Potassium and aluminium silicate"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8189",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Which of the following rocks accepts good polishing?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Shale",
+      "b": "Laterite",
+      "c": "Marble",
+      "d": "Breccia"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8190",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Cross cut saw is used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cutting soft stones",
+      "b": "cutting hard stones",
+      "c": "cutting large blocks of stones",
+      "d": "dressing stones"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8191",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The fractured surface of a stone generally indicates its",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "grain size",
+      "b": "texture",
+      "c": "toughness",
+      "d": "strength"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8192",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Gypsum",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is the hydrated sulphate of calcium",
+      "b": "is white in colour in its pure state",
+      "c": "has very poor solubility in water",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8193",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The composite masonry includes",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "walls of bricks and facing in stones",
+      "b": "walls of stone and facing in bricks",
+      "c": "both (a) and (b)",
+      "d": "neither (a) and (b)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8194",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Pick up the correct statement from the following.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "In stone arches, the stones are placed with their natural beds radially.",
+      "b": "The stones are placed in cornices with the direction of the natural bed vertical.",
+      "c": "The stones are placed in walls with the direction of their natural beds horizontal.",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8195",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "In cold regions, porous stones are not to be used at places subjected to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Frost",
+      "b": "Moisture",
+      "c": "Both (a) and (b)",
+      "d": "Neither (a) nor (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8196",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Pick up the correct statement from the following",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Soft stones are used for carving the structural portions",
+      "b": "The light stones are suitably used in arches",
+      "c": "The hard stones are required to withstand high pressure",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8197",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The fire resistivity of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "the limestone is good up to about 800°C",
+      "b": "the sandstone with silicates as binding material is better",
+      "c": "the argillaceous stones is quite well but it is poor in strength",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8198",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Which one of the following minerals suddenly expands at a temperature lower than 600°C ?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Quartz",
+      "b": "Calcite",
+      "c": "Dolomite",
+      "d": "Gypsum"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8199",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "Stones having toughness index",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "below 13 are treated not tough stones",
+      "b": "between 13 and 19 are treated moderately tough",
+      "c": "more than 19 are said to be of highly tough",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8200",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The fracture in asbestos is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "fibrous",
+      "b": "regular",
+      "c": "irregular",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8201",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The compressive strength and specific gravity of sandstone are____ & _____ respectively:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "40 MN/m² and 1.1 to 1.8",
+      "b": "55 MN/m² and 1.8 to 2.65",
+      "c": "65 MN/m² and 2.65 to 2.95",
+      "d": "80 MN/m² and 2.95 to 3.4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8202",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The fracture of a stone may be",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "even",
+      "b": "uneven",
+      "c": "concoidal",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8203",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "A limestone containing about 30% of alumina and silica is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "granular limestone",
+      "b": "compact limestone",
+      "c": "magnesium limestone",
+      "d": "kankar"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8204",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "A limestone found in seams of great thickness in non-crystalline texture with earthy appearance, is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "granular limestone",
+      "b": "compact limestone",
+      "c": "magnesium limestone",
+      "d": "kankar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8205",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The melting point of silica is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1570°C",
+      "b": "1630°C",
+      "c": "1730°C",
+      "d": "1850°C"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8206",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The coefficient of hardness of stones used in road work should be greater than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "15",
+      "d": "17"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8207",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "For preparing porcelains, the clay should be",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sufficiently pure",
+      "b": "of high degree of tenacity",
+      "c": "of good plasticity",
+      "d": "All the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8208",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "The rock generally used for roofing is:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Granite",
+      "b": "Basalt",
+      "c": "Slate",
+      "d": "Pumice"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8209",
+    "chapter": "Stone-II"
+  },
+  {
+    "question": "For manufacturing quick hardening Portland cement, which one of the following is used?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Tri-calcium silicate",
+      "b": "Tri-calcium aluminate",
+      "c": "Tetra-calcium alumino-ferrite",
+      "d": "Dicalcium silicate"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8210",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The compound responsible for the initial setting of cement is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "tri-calcium illuminate",
+      "b": "tetra-calcium alumino ferrite",
+      "c": "both (a) and (b)",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8211",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The amount of gypsum usually added in the manufacture of cement is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.1 to 0.5%",
+      "b": "0.5 to 1%",
+      "c": "1 to 3%",
+      "d": "3 to 5%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8212",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The dry process of mixing is usually employed in the manufacture of Portland cement when the raw material is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "blast furnace slag",
+      "b": "chalk",
+      "c": "clay",
+      "d": "all of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8213",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The strength of white cement is ____ that of ordinary cement.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "equal to",
+      "b": "less than",
+      "c": "greater than",
+      "d": "unpredictable"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8214",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Vicat’s apparatus is used to determine the",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "initial setting time of cement",
+      "b": "final setting time of cement",
+      "c": "normal consistency of cement",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8215",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The normal consistency of Portland cement is about",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10 %",
+      "b": "15 %",
+      "c": "20 %",
+      "d": "25 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8216",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The addition of pozzolana to Portland cement causes",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "less heat of hydration",
+      "b": "increase in shrinkage",
+      "c": "decrease in permeability",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8217",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The compressive strength of a good Portland cement and standard sand mortar after 3 days of curing should not be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "7 MN/m^2",
+      "b": "11.5 MN/m^2",
+      "c": "17.5 MN/m^2",
+      "d": "21 MN/m^2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8218",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The maximum water-cement ratio for durable concrete is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.2",
+      "b": "0.4",
+      "c": "0.6",
+      "d": "0.8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8219",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "For testing compressive strength of cement, the size of cube used is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "50 mm",
+      "b": "70.6 mm",
+      "c": "100 mm",
+      "d": "150 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8220",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The normal consistency of ordinary Portland cement is about",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10 %",
+      "b": "20 %",
+      "c": "30 %",
+      "d": "40 %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8221",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Gypsum consists of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "H2S and CO2",
+      "b": "CaSO4 and H2O",
+      "c": "Lime and H2O",
+      "d": "CO2 and calcium"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8222",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "For testing compressive and tensile strength of cement, the cement mortar is made by mixing cement and standard sand in the proportion of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1:2",
+      "b": "1:3",
+      "c": "1:4",
+      "d": "1:5"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8223",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The total sulphur content in cement should not exceed:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1.50 %",
+      "b": "1.75 %",
+      "c": "2.50 %",
+      "d": "2.75 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8224",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Which of the following cement contains the maximum percentage of dicalcium silicate?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "OPC",
+      "b": "Low heat cement",
+      "c": "RHPC",
+      "d": "Sulphate resisting cement"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8225",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The maximum quantity of calcium chloride used as an accelerator in cement in percentage by weight of cement is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8226",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Before testing setting time of cement one should test for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "soundness",
+      "b": "strength",
+      "c": "fineness",
+      "d": "consistency"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8227",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "In the manufacturing of cement the nodules from the rotary kiln are called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "pallets",
+      "b": "fines",
+      "c": "balls",
+      "d": "clinkers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8228",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Find the odd one out",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "C3S",
+      "b": "C2S",
+      "c": "C3A",
+      "d": "CO2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8229",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The water cement ratio for the cement sand mortar (1:3) is kept",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.25",
+      "b": "0.3",
+      "c": "0.35",
+      "d": "0.4"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8230",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Oilwell cement is generally used for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "road works",
+      "b": "plastering",
+      "c": "cementing oil wells",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8231",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Natural cement is obtained by burning and crushing the stones which contain:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "clay",
+      "b": "carbonate of lime",
+      "c": "some amount of carbonate of magnesia",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8232",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "Pick up the correct property/properties of cement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cement is an excellent binding material and provides strength to masonry",
+      "b": "cement provides good resistance to moisture",
+      "c": "cement possesses good plasticity and stiffens early",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8233",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The silica, an important ingredient of cement",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "imparts strength to cement due to formation of di-calcium silicates and tri-calcium silicates",
+      "b": "in excess increases the strength but prolongs the setting time",
+      "c": "Both",
+      "d": "None"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8234",
+    "chapter": "Cement-I"
+  },
+  {
+    "question": "The alumina, an ingredient of cement",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "imparts quick setting property to cement",
+      "b": "acts as a flux to lower the clinkering temperature",
+      "c": "in excess reduces the strength of cement",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8235",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The calcium sulphate:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is not an ingredient of cement in the form of gypsum",
+      "b": "increases the initial setting of cement",
+      "c": "decreases the initial setting time of cement",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8236",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "An ordinary Portland cement",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Attains about 70 % of its final strength in 28 days",
+      "b": "Attains about 90 % of its final strength in one year",
+      "c": "Both (a) and (b)",
+      "d": "Neither (a) nor (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8237",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The hydration of tricalcium silicate practically ends after 28 days.",
+      "b": "The quickest compound in cement to react with water is tricalcium aluminate.",
+      "c": "For high-strength concrete at a later stage, a high content of C2S is used.",
+      "d": "All of these are correct."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8238",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The ratio of the percentage of alumina to that of iron oxide in cement should not be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.3",
+      "b": "0.33",
+      "c": "0.44",
+      "d": "0.66"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8239",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Which one of the following is an air binding material?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Gypsum",
+      "b": "Acid-resistant cement",
+      "c": "Quick lime",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8240",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "For a 50 kg cement bag water required, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "16.5 litres",
+      "b": "18.5 litres",
+      "c": "20.5 litres",
+      "d": "22.5 litres"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8241",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The percentage of slag component of Portland-slag cement varies from",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "10 to 40%",
+      "b": "40 to 70%",
+      "c": "70 to 80%",
+      "d": "80 to 90%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8242",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Gypsum is added in the manufacture of Portland cement",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "while mixing the raw materials",
+      "b": "during burning in the rotary kiln",
+      "c": "at the beginning of grinding the clinker",
+      "d": "at the end of grinding the clinker into powder"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8243",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Pick up the correct statement from the following",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Fine grinding of cement makes it susceptible to air set and early deterioration",
+      "b": "The average size of cement particles is taken about 10 microns",
+      "c": "An increase in fineness of cement increases the drying shrinkage of concrete",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8244",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "For the storage of 20 bags (or 1 tonne) of cement, mini- mum storage space is required:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1 m³",
+      "b": "0.5 m³",
+      "c": "1.5 m³",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8245",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "An acid resistant cement contains:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Aggregates of quartz and quartzites",
+      "b": "Sodium fluosilicate (Na2SiFe)",
+      "c": "Soluble glass",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8246",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The interval of time between the moment of addition of water to cement and commencement of filling the Vicat apparatus mould is known as the time of gauging that should be.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "2.5 to 3.5 minutes",
+      "b": "3 to 4 minutes",
+      "c": "2.75 to 4.15 minutes",
+      "d": "None of these is correct"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8247",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The slag which is a waste product obtained in the manufacturing process of pig-iron, contains:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Alumina",
+      "b": "Lime",
+      "c": "Silica",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8248",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The blast furnace cement",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "gains less strength in early days",
+      "b": "requires a longer curing period",
+      "c": "proves to be economical since it is made from a waste product.",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8249",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Which one of the following statements is correct?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The mixing of the chromium oxide to cement gives a green colour.",
+      "b": "The mixing of cobalt to cement imparts blue colour",
+      "c": "The manganese dioxide when mixed in cement produces black or brown coloured cement.",
+      "d": "All of these are correct."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8250",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Pozzolana cement:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is a volcanic powder",
+      "b": "resembles surkhi prepared by burning bricks",
+      "c": "contains 10 to 30 percent of pozzolana materials",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8251",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "A porous concrete mass is obtained if the water cement ratio in the mixture is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "less than 0.7",
+      "b": "equal to 0.7",
+      "c": "more than 0.7",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8252",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The strength of extra rapid hardening cement may be the same as that of the ordinary Portland cement after",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "45 days",
+      "b": "60 days",
+      "c": "90 days",
+      "d": "120 days"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8253",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "In which of the following the use of extra rapid hardening cement is prohibited",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Pre-stressed concrete construction",
+      "b": "Reinforced concrete construction",
+      "c": "Both (a) and (b)",
+      "d": "Neither (a) nor (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8254",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "Which of the following cement is recommended for the construction of sewage treatment work?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Extra rapid hardening cement",
+      "b": "Rapid hardening cement",
+      "c": "Ordinary Portland cement",
+      "d": "Sulphate resisting cement"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8255",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "High strength cement is specially required for the following job:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Pre-stressed concrete",
+      "b": "Precast concrete",
+      "c": "Airfield runways",
+      "d": "All of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8256",
+    "chapter": "Cement-II"
+  },
+  {
+    "question": "The standard size of brick as per Indian standards is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "20x10x10 cm",
+      "b": "23×12x8 cm",
+      "c": "19×9x9 cm",
+      "d": "18x9x9 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8257",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Fire bricks are used",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "to reflect heat",
+      "b": "to increase heat flow",
+      "c": "to decrease heat flow",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8259",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The maximum percentage of warping along the sides of tiles, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "2",
+      "b": "5",
+      "c": "8",
+      "d": "1.1"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8260",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "For making good tiles, the maximum permissible percentage of fine sand, silt, and clay content in soil is respectively:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "60%, 20%, 20%",
+      "b": "50%, 30%, 20%",
+      "c": "40%, 30%, 30%",
+      "d": "40%, 40%, 20%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8261",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The compressive strength of perforated bricks should not be less than",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "4 MN/m²",
+      "b": "5 MN/m²",
+      "c": "6 MN/m²",
+      "d": "7 MN/m²"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8262",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Dolomite bricks are:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "basic refractory bricks",
+      "b": "acid refractory bricks",
+      "c": "ordinary fire bricks",
+      "d": "neutral bricks"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8263",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The main constituent of fly-ash, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "aluminium oxide",
+      "b": "silica",
+      "c": "ferrous oxide",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8264",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "For preparing porcelains, the clay should be",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sufficiently pure",
+      "b": "of high degree of tenacity",
+      "c": "of good plasticity",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8265",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The bricks after burning in kilns require about _____ days to cool down for unloading.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "4",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8266",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Clay and silt content in a good brick earth must be at least",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "50%",
+      "b": "40%",
+      "c": "30%",
+      "d": "25%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8267",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The portion of the brick without a triangular corner equal to half the width and half the length, is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "closer",
+      "b": "queen closer",
+      "c": "king closer",
+      "d": "squint brick"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8268",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The portion of a brick cut to form angles other than right angles in plan, is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "queen closer",
+      "b": "king closer",
+      "c": "closer",
+      "d": "squint brick"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8269",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The average crushing strength of hand moulded bricks is 6000 t/m2",
+      "b": "The average tensile strength of hand moulded brick is 200 t/m2",
+      "c": "The average shearing strength of hand moulded brick is 600 t/m2",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8270",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "When a brick is immersed in water for 24 hours and then dried, if",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "no grey or white deposits appear on the surface, the brick is free from soluble salts",
+      "b": "10 percent surface is covered with grey or white deposits, the brick has slight efflorescence",
+      "c": "50 per cent surface is covered with grey or white deposits, the brick has serious efflorescence",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8271",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The type of bricks suitable for panel walls for multi-storeyed buildings is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "hollow bricks",
+      "b": "perforated bricks",
+      "c": "either (a) or (b)",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8272",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "For sanitary pipes and chemical stonewares,",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "salt glazing is used",
+      "b": "lead glazing is used",
+      "c": "opaque glazing is used",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8273",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Glazing of clay products, is done",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "to improve their appearance",
+      "b": "to protect them from atmospheric effect",
+      "c": "to protect them from corrosive action",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8274",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bull's trench kiln a trench excavated in ground",
+      "b": "Hoffman's kiln is constructed overground",
+      "c": "Tunnel Kiln is constructed as a tunnel",
+      "d": "All the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8275",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Pick up the correct statements from the following",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Sanitary pipes and chemical stonewares are salt glazed",
+      "b": "Terra-cotta fire-clay wares and earthen wares are lead glazed",
+      "c": "Sanitary articles are glazed by opaque glazing",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8276",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The presence of sand in brick earth prevents:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cracking of bricks",
+      "b": "shrinkage of bricks",
+      "c": "warping of bricks",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8277",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The low voltage porcelain is prepared by wet process",
+      "b": "The high voltage porcelain is prepared by dry process",
+      "c": "The low voltage porcelain is prepared by dry process",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8278",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "To which category do the chromite bricks belong?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "neutral refractory brick",
+      "b": "acid refractory brick",
+      "c": "basic refractory brick",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8279",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The bricks after moulding should be dried in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "open air",
+      "b": "sun for 3 to 8 days",
+      "c": "air for 3 to 8 days but not in sun",
+      "d": "hot air for 3 days"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8280",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The average out-turn of first class bricks in kiln burning is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "50 to 60%",
+      "b": "60 to 70%",
+      "c": "70 to 80%",
+      "d": "80 to 90%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8281",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "50% of silica and 34% of alumina is necessary in brick earth to obtain",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Sandy clay",
+      "b": "Pure clay",
+      "c": "Calcareous clay",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8282",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Pick up the correct statement from the following",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Clay occurs plenty in nature",
+      "b": "Clay is a distinct product of chemical weathering of igneous rocks",
+      "c": "The orthoclase feldspar is mainly responsible for the production of clays in nature",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8283",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "The wet clay with water possesses",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "a high degree of tenacity",
+      "b": "a high degree of plasticity",
+      "c": "Both (a) and (b)",
+      "d": "Neither (a) nor (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8284",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "To make the tiles hard and impervious, which one of the following materials is added to the raw clay?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Ground glass",
+      "b": "Pottery ware",
+      "c": "Both (a) and (b)",
+      "d": "Neither (a) nor (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8285",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "About 66% of silicon and 27% of alumina are contained in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Loamy clay",
+      "b": "Calcareous clay",
+      "c": "Pure clay",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8286",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "About 48% of lime and magnesia, and 35% silicon in brick earth is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Loamy clay",
+      "b": "Calcareous clay",
+      "c": "Pure clay",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8287",
+    "chapter": "Ceramic Materials"
+  },
+  {
+    "question": "Britteness of cold is due to an excess of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sulphur",
+      "b": "carbon",
+      "c": "phosphorus",
+      "d": "silicon"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8288",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Red short iron cracks when bent due to the presence of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "sulphur",
+      "b": "carbon",
+      "c": "phosphorus",
+      "d": "silicon"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8289",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The process of decarbonising the pig iron completely and then adding a proper percentage of carbon for manufacturing steel, is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Cementation process",
+      "b": "crucible process",
+      "c": "Bessemer process",
+      "d": "Open hearth process"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8290",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The process of manufacturing steel by heating short lengths of wrought iron bars mixed with charcoal in fire clay crucibles and collecting the molten iron into moulds, is known as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Cementation process",
+      "b": "Crucible process",
+      "c": "Bessemer process",
+      "d": "Open hearth process"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8291",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The steel used for the manufacture of rails, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Bessemer steel",
+      "b": "mild steel",
+      "c": "cast steel",
+      "d": "stainless steel"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8292",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Whitworth compressed steel is obtained when molten steel is subjected to a pressure of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "5 kg/mm²",
+      "b": "9 kg/mm²",
+      "c": "13 kg/mm²",
+      "d": "15 kg/mm²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8293",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The steel used for rails under heavy traffic and on sharp curves, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Nickel steel",
+      "b": "Chrome steel",
+      "c": "Manganese steel",
+      "d": "Vanadium steel"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8294",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The type of steel used for precision levelling staff, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Titaniurn steel",
+      "b": "Carbon steel",
+      "c": "Invar",
+      "d": "Stainless steel"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8296",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Steel contains carbon approximately",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1.5% to 5.6%",
+      "b": "0.05% to 1.75%",
+      "c": "0.25%",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8297",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Pick up the correct statement from the following",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Solder material is an alloy which melts at a temperature above 400oC",
+      "b": "Brazing is done at a temperature of 600oC to 1100oC",
+      "c": "Brazing joint is stronger than the solder joint",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8298",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Expanded metal is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "manufactured from steel sheets",
+      "b": "used for reinforced concrete in road pavements",
+      "c": "measured in terms of SWM (short way mesh) and LWM (long way mesh)",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8299",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Pick up the correct statement from the following",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Cast iron oxidises less",
+      "b": "Steel oxidises most",
+      "c": "Wrought iron oxidises moderately",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8300",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The hardness and toughness of steel increases with an increase of carbon conteat up to a maximum level of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1.1 percent",
+      "b": "1.2 percent",
+      "c": "1.3 percent",
+      "d": "1.5 percent"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8301",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Which one of the following types of iron is equally strong in compression as well as in tension?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The cast iron",
+      "b": "The wrought iron",
+      "c": "The steel",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8302",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "A drop of nitric acid when placed on which of the following irons, produces a dark grey stain?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Steel",
+      "b": "Cast iron",
+      "c": "Wrought iron",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8303",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The mild steel and wrought iron can be easily distinguished by",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "nitric acid test",
+      "b": "hydrochloric acid test",
+      "c": "sulphuric acid test",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8304",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The Bessemer process of manufacturing steel:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "was invented by Sir Henry Bessemer of England",
+      "b": "uses the acidic lining material of a converter when iron ores are free from or contain a small amount. of sulphur and phosphorus.",
+      "c": "uses the basic lining materials for pig-iron containing impurities.",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8305",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The correct order of oxidation of pig iron impurities",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Silicon, carbon, manganese, sulphur, phosphorus",
+      "b": "Carbon, manganese, sulphur, phosphorus, silicon",
+      "c": "Manganese, sulphur, phosphorus, carbon, silicon",
+      "d": "Sulphur, phosphorus, silicon, carbon, manganese"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8306",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "In the cementation process of manufacturing steel:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Pig-iron is converted to almost pure wrought iron",
+      "b": "Carbon content is adjusted to prepare steel",
+      "c": "A dome-shaped furnace is used which is known as a cementation furnace",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8307",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The steel obtained by the cementation process:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is costly and is not practically adopted nowadays",
+      "b": "is covered with blisters and thin bubbles",
+      "c": "is not homogeneous and is full of cavities and fissures",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8308",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Duplex process of preparing steel:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "makes use of both the acid Bessemer process and basic open-hearth process",
+      "b": "is an economical method",
+      "c": "saves considerable time",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8309",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The open-hearth furnace is used in the manufacturing process of steel due to:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "The content of phosphorus in its basic slag is used as good fertilizer.",
+      "b": "great economy achievable by providing regenerative chambers on its either side.",
+      "c": "Both a) and b)",
+      "d": "Neither a) nor b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8310",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Based on the carbon content, steel is designated as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Mild steel",
+      "b": "Medium carbon steel",
+      "c": "High carbon steel",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8311",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "Dead steel (or very low carbon steel) contains carbon",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.10 percent",
+      "b": "0.08 percent",
+      "c": "0.15 percent",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8312",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The steel containing carbon between 0.25 to 0.60 percent is classified as",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Low carbon steel",
+      "b": "Medium carbon steel",
+      "c": "High carbon steel",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8313",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The high carbon steel",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is popularly known as hard steel",
+      "b": "contains carbon between 0.60 to 1.10 percent",
+      "c": "both a) and b)",
+      "d": "Neither a) nor b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8314",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The carbon content in steel increases",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "the hardness of steel",
+      "b": "the strength of steel",
+      "c": "the ductility of steel",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8315",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The mild steel is widely used, having carbon content",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "0.1 to 0.2 %",
+      "b": "0.1 to 0.25 %",
+      "c": "0.1 to 0.3 %",
+      "d": "0.2 to 0.3 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8316",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "The steel loses its structural value if the manganese content exceeds",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "1.20 percent",
+      "b": "1.50 percent",
+      "c": "1.75 percent",
+      "d": "2.00 percent"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8317",
+    "chapter": "Metal and alloys"
+  },
+  {
+    "question": "A volatile substance added to a paint to make its application easy and smooth, is known as:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "base",
+      "b": "solvent",
+      "c": "vehicle",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8318",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The following element of paint is used as a base, pigment as well as drier",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "red lead",
+      "b": "white lead",
+      "c": "black lead",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8319",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "A prime coat is given to steel work with",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "an oxide of iron paint",
+      "b": "a mixture of white lead and lead paint",
+      "c": "a special paint",
+      "d": "cement paint"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8320",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Distemper is a",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "a paint consisting of powdered chalk, pigments, and water",
+      "b": "a waterproofing agent",
+      "c": "a paint consisting of coloured cement and water",
+      "d": "a drying agent"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8321",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "A type of paint whose main constituent is white or coloured cement and is used to protect plastered surfaces, brickwork, and masonry in damp places is called:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "luminous paint",
+      "b": "cement paint",
+      "c": "bituminous paint",
+      "d": "anticorrosive paint"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8322",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The chief ingredient of paint is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "alcohol",
+      "b": "drier",
+      "c": "oil",
+      "d": "pigment"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8324",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Anticorrosive paint is ___________ in colour.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Blue",
+      "b": "White",
+      "c": "Black",
+      "d": "Yellow"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8325",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "What type of paint do you recommend indoors on the exterior wall of a building?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "oil distemper",
+      "b": "French polish",
+      "c": "varnish (Interior)",
+      "d": "enamel paint"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8327",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Enamel paint is made by adding",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "white lead in varnish",
+      "b": "bitumen in varnish",
+      "c": "white lead in lacquer",
+      "d": "zinc white in spirit"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8328",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Snowcrete is one of the patent forms of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "distempers",
+      "b": "waterproof cement paints",
+      "c": "enamel paints",
+      "d": "cellulose paints"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8330",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The most important constituent of varnish, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "drier",
+      "b": "solvent",
+      "c": "resin",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8331",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "What is the essential constituent of varnish paint?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "linseed oil",
+      "b": "resin",
+      "c": "zinc sulphate",
+      "d": "soda"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8332",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Spirit varnish generally consists of",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "oil, wax and resin",
+      "b": "alcohol, wax and turpentine",
+      "c": "pigment and synthetic resin",
+      "d": "spirit and shellac"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8333",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The material generally not used as extender in paints, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "powdered silica",
+      "b": "gypsum",
+      "c": "talc",
+      "d": "zinc white"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8334",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Most commonly used solvent in oil paints, is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "petroleum",
+      "b": "spirit",
+      "c": "coaltar",
+      "d": "turpentine"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8335",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "Stains used as paints have synthetic pigments",
+      "b": "Stucco paints contain polyvinyl acetate",
+      "c": "The solvent used in distempers is turpentine",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8336",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The paint which has high reflective property is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "cellulose paint",
+      "b": "casein paint",
+      "c": "bronze paint",
+      "d": "enamel paint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8337",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The vehicle used in the bronze paint is usually",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "linseed oil",
+      "b": "naphtha",
+      "c": "water",
+      "d": "nitro-cellulose lacquer"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8338",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The radiators of vehicles are painted with",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "asbestos paint",
+      "b": "plastic paint",
+      "c": "oil paint",
+      "d": "bronze paint"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8339",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Linseed oil is rapidly soluble in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "alcohol",
+      "b": "turpentine",
+      "c": "naphtha",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8340",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The metallic oxide used in the form of powder in a paint is called",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "extender",
+      "b": "base",
+      "c": "vehicle",
+      "d": "drier"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8341",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Which one of the following is the most commonly used drier in paints ?",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "the litharge",
+      "b": "the red lead",
+      "c": "the sulphate of manganese",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8342",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Red lead (oxide of lead):",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "forms the base of lead paints",
+      "b": "is used as primary coat to wood surface",
+      "c": "acts as a drier when mixed with linseed oil",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8343",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Oxide of zinc:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "is an oxide of zinc",
+      "b": "forms the base of all zinc paints",
+      "c": "is smooth, transparent and non-poisonous",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8344",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "PVC stands for",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "plastic very compact",
+      "b": "polyethene vinyl carbon",
+      "c": "pigment volume concentration",
+      "d": "polyethene vinyl chloride"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8346",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Distemper is generally used in:",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "walls",
+      "b": "wood",
+      "c": "steel",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "8347",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The commonly used extender in a pant is",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "barium sulphate",
+      "b": "gypsum",
+      "c": "alcohol",
+      "d": "any one of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8348",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The base in a paint is added to",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "improve the quality of paint",
+      "b": "make smooth surface",
+      "c": "hide the surface to be painted",
+      "d": "all of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8349",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The drier in an oil paint (by volume) should not be more than ______.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "5 %",
+      "b": "10 %",
+      "c": "15 %",
+      "d": "20 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "8350",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "Bituminous paint consists of bitumen dissolved in",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "spirit",
+      "b": "naphtha",
+      "c": "linseed oil",
+      "d": "either (a) or (b)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "8351",
+    "chapter": "Paints and Varnishes"
+  },
+  {
+    "question": "The bitumen paints are used for providing ____ surface.",
+    "topic": "Construction Materials",
+    "options": {
+      "a": "rough",
+      "b": "smooth",
+      "c": "protective",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "8352",
+    "chapter": "Paints and Varnishes"
   }
 ]

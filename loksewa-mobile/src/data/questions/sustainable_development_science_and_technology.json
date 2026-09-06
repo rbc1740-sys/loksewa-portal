@@ -1642,5 +1642,5717 @@
     },
     "answer": "a",
     "explanation": "The Luna programme consisted of a series of robotic lunar probe missions sent to the Moon by the Soviet Union between 1959 and 1976."
+  },
+  {
+    "question": "अन्तराष्ट्रिय जैविक विविधता दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुन २१",
+      "b": "जुन २२",
+      "c": "मे २१",
+      "d": "मे २२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4396",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रामसारमा सूचीकृत नेपालको पहिलो क्षेत्र कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "बीस हजारी ताल",
+      "b": "घोडाघोडी ताल क्षेत्र",
+      "c": "कोशी टप्पु वन्यजन्तु आरक्ष",
+      "d": "जगदीसपुर ताल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4397",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रामसारमा सूचीकृत नेपालको पहिलो क्षेत्र कोशीटप्पु कहिले सूचीकृत भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८७-१२-१६",
+      "b": "सन् १९८७-१२-१७",
+      "c": "सन् १९८७-१२-१८",
+      "d": "सन् १९८७-१२-१९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4398",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिमसारमा पानीको गहिराइ कतिसम्म हुन सक्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "६ मि",
+      "b": "८ मि",
+      "c": "१० मि",
+      "d": "१२ मि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4399",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू कहिलेदेखि लागू भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०१५ जनवरी ०१",
+      "b": "२०१६ जनवरी ०१",
+      "c": "२०१७ जनवरी ०१",
+      "d": "२०१८ जनवरी ०१"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4400",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Red Data Book कुन संस्थासँग सम्बन्धित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "I.U.C.N",
+      "b": "W.W.F",
+      "c": "W.H.O",
+      "d": "UNDP"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4401",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सन् २०२२ को तथ्यांक अनुसार नेपालमा बाघको जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२५५",
+      "b": "३५५",
+      "c": "३७६",
+      "d": "३९९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4402",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सन् २०२२ को तथ्यांक अनुसार नेपालमा कृष्णसारको जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२५५",
+      "b": "३५५",
+      "c": "३७५",
+      "d": "४२५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4403",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "गोबर ग्यासमा मिथेनको मात्रा कति प्रतिशत हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२० - ३० %",
+      "b": "३०- ४५ %",
+      "c": "४० - ५५ %",
+      "d": "५०-७० %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4404",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका मध्ये क्षेत्रफलका आधारमा सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "रारा राष्ट्रिय निकुञ्ज",
+      "b": "मकालु बरुण राष्ट्रिय निकुञ्ज",
+      "c": "चितवन राष्ट्रिय निकुञ्ज",
+      "d": "पर्सा राष्ट्रिय निकुञ्ज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4405",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय बाघ दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २१",
+      "b": "जुन २५",
+      "c": "जुलाई २९",
+      "d": "सेप्टेम्बर २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4406",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व वातावरण दिवस २०२३ को नारा के थियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Solutions to plastic pollution",
+      "b": "Only One Earth",
+      "c": "Ecosystem Restoration",
+      "d": "Time for Nature"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4407",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व पानी दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २९",
+      "b": "जुन २२",
+      "c": "मार्च २२",
+      "d": "सेप्टेम्बर १२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4408",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व पानी दिवस (सन् २०२४) को नारा के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Water and Climate Change",
+      "b": "Valuing Water",
+      "c": "Groundwater, Making the Invisible Visible",
+      "d": "Water for Peace"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4409",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "हरितगृह कसले पत्ता लगाएका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "शेरउड रोल्यान्ड",
+      "b": "जोसेफ फौरियर",
+      "c": "आर्थिनस",
+      "d": "वेरिन जिन फेरियर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4410",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व पृथ्वी दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २१",
+      "b": "जुन २२",
+      "c": "मार्च २२",
+      "d": "अप्रिल २२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4411",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व सम्पदा दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अप्रिल १८",
+      "b": "अप्रिल २२",
+      "c": "अप्रिल २५",
+      "d": "अप्रिल ३१"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4412",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "कोशी टप्पु वन्यजन्तु आरक्षको स्थापना कहिले भएको हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०३०",
+      "b": "२०३२",
+      "c": "२०४०",
+      "d": "२०४२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4413",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू कती ओटा छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१५",
+      "b": "१७",
+      "c": "१९",
+      "d": "२१"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4414",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालका लागि सान्दर्भिक नभएको दिगो विकासकाको लक्ष्य कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१२",
+      "b": "१३",
+      "c": "१४",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4415",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दिगो विकासको लक्ष्यको मुख्य सिद्धान्त कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "People, planet, prosperity, peace and partnerships",
+      "b": "The future we want",
+      "c": "Ensuring a Sustainable and Equitable Future",
+      "d": "Our common earth"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4416",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व वातावरण दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुन ३",
+      "b": "जुन ४",
+      "c": "जुन ५",
+      "d": "जुलाई ५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4417",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपाल सरकारले ___ भन्दा माथिको पोलिथीन झोलाको प्रयोगमा प्रतिबन्ध लगाउने निर्णय गरेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "३० माइक्रोन",
+      "b": "३५ माइक्रोन",
+      "c": "४० माइक्रोन",
+      "d": "४५ माइक्रोन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4418",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एजेन्डा २१ कहिले पारित गरियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८५",
+      "b": "सन् १९९२",
+      "c": "सन् २०००",
+      "d": "सन् २०१०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4419",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संयुक्त राष्ट्र संघको जलवायु परिवर्तन सम्मेलन COP28 को आयोजना कुन राष्ट्रले गरेको थियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "इजिप्ट",
+      "b": "स्कटल्याण्ड",
+      "c": "यूएई",
+      "d": "फ्रान्स"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4420",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सबैलाई समावेशी, समतामूलक गुणस्तरीय शिक्षा ‍दिग‍ो विकासको कुन लक्ष्यसँग सम्बन्धित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लक्ष्य ३",
+      "b": "लक्ष्य ४",
+      "c": "लक्ष्य ७",
+      "d": "लक्ष्य ८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4421",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "‘दिगो विकास’ शब्द सबैभन्दा सुरूमा प्रयोग कसले गरेक थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्रो हार्लेम बुटल्यान्ड",
+      "b": "बार्बरा वार्ड",
+      "c": "डेविट वलेल",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4422",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बार्बरा वार्ड कुन देशका नागरिक हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "बेलायत",
+      "b": "फ्रान्स",
+      "c": "अमेरिका",
+      "d": "रूस"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4423",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना, २०७८ मा प्रश्नावली संख्या कति रहेको थियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "७० वटा",
+      "b": "८० वटा",
+      "c": "९० वटा",
+      "d": "५० वटा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4424",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार प्रति परिवार औसतमा कति सदस्य रहेको छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४.३७",
+      "b": "४.७९",
+      "c": "४.६७",
+      "d": "४.७८"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4425",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रदेशगत रूपमा जनसंख्या विवरण हेर्दा सबैभन्दा कम जनसंख्या कुन प्रदेशमा छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मधेस",
+      "b": "बागमती",
+      "c": "कर्णाली",
+      "d": "कोशी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4426",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रदेशगत रूपमा जनसंख्या विवरण हेर्दा सबैभन्दा धेरै जनसंख्या कुन प्रदेशमा छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मधेश",
+      "b": "बागमती",
+      "c": "कर्णाली",
+      "d": "कोशी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4427",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा जनगणना दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "असोज १",
+      "b": "असार ८",
+      "c": "असार १०",
+      "d": "असोज २"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4428",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको वार्षिक औसत जनसंख्या वृद्धिदर कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२.६४%",
+      "b": "०.९४ %",
+      "c": "०.९२ %",
+      "d": "०.७८ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4429",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "विश्व जनसंख्या दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुलाई ११",
+      "b": "जुलाई २२",
+      "c": "जुलाई २७",
+      "d": "जुलाई २९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4430",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार धेरै जनसंख्या वृद्धि दर भएको प्रदेश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कोशी",
+      "b": "बागमती",
+      "c": "गण्डकी",
+      "d": "लुम्बिनी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4431",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "जलवायु परिवर्तन सम्बन्धी ध्यानाकर्षण गर्नको लागि नेपालको मन्त्रिपरिषदको बैठक कालापत्थरमा कहिले बसेको थियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वि.सं. २०६७ मंसिर १९",
+      "b": "वि.सं. २०६६ मंसिर २९",
+      "c": "वि.सं. २०६६ मंसिर १९",
+      "d": "वि.सं. २०६६ मंसिर ३०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4432",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मालदिभ्सको मन्त्रीपरिषद्‌को बैठक पानीमुनि कहिले बस्यो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् २००९ अक्टोबर २६",
+      "b": "सन् २००९ अक्टोबर १७",
+      "c": "सन् २००९ अक्टोबर १९",
+      "d": "सन् २००९ अक्टोबर १९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4433",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार कम जनसंख्या वृद्धि दर भएको प्रदेश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कोशी",
+      "b": "बागमती",
+      "c": "लुम्बिनी",
+      "d": "गण्डकी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4434",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "UNO को कुन साधारण सभाले दिगो विकास एजेन्डा पारित गर्यो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "६९",
+      "b": "७०",
+      "c": "७१",
+      "d": "७२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4435",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार काठ दाउराबाट खाना बनाउने जनसंख्या कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४४.३ %",
+      "b": "५१ %",
+      "c": "५१.६%",
+      "d": "५६.७८%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4436",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार बिजुलीबाट खाना बनाउने जनसंख्या कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "०.५ %",
+      "b": "०.६७ %",
+      "c": "०.९८ %",
+      "d": "२.५ %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4437",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "COP 29 (2024) कहाँ सञ्चालन हुने भएको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अजरबैजान",
+      "b": "ब्राजिल",
+      "c": "अस्ट्रेलिया",
+      "d": "इन्डोनेशिया"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4438",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार साधारण मोबाइल फोन हुने परिवारको प्रतिशत कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "७३.१५ %",
+      "b": "८२ %",
+      "c": "९२ %",
+      "d": "९५ %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4439",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा वनक्षेत्रले कुल भू-भागको कति प्रतिशत भू-भाग ओगटेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४२.७९ %",
+      "b": "४५.३१ %",
+      "c": "४९ %",
+      "d": "४४.८ %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4440",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कुन शहरले १९९२ मा पृथ्वी शिखर सम्मेलनको आयोजना गरेको थियो जहाँ एजेन्डा २१ अपनाइयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जेनेभा",
+      "b": "रियो दि जेनेरियो",
+      "c": "न्यूयोर्क",
+      "d": "क्योटो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4441",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "युरो-१ मापदण्ड के सँग सम्बन्धित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सवारी साधन प्रदूषण मापदण्ड",
+      "b": "जलवायू प्रदूषण मापदण्ड",
+      "c": "‌c) ओजोन प्रदूषण मापदण्ड",
+      "d": "वातावरण प्रदूषण मापदण्ड"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4442",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको पहिलो खुला दिशामुक्त जिल्ला कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "झापा",
+      "b": "काठमाडाै‌ँ",
+      "c": "कास्की",
+      "d": "ललितपुर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4443",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्योटो प्रोटोकल कहिलेदेखि लागू भएको हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् २००५ फेब्रुअरी १७",
+      "b": "सन् २००५ फेब्रुअरी १६",
+      "c": "सन् २००६ फेब्रुअरी १६",
+      "d": "सन् २००७ फेब्रुअरी १६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4444",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "विश्व संरक्षण संघ (IUCN) को स्थापना कहिले भएको हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९४५",
+      "b": "सन् १९४६",
+      "c": "सन् १९४७",
+      "d": "सन् १९४८"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4445",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "ओजन ग्याँसको अणु सूत्र (Molecular formula) के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "O2",
+      "b": "O3",
+      "c": "O",
+      "d": "O4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4446",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सन् २०१५ सेप्टेम्बर २५ मा राष्ट्रसंघीय महासभाबाट पारित विश्व विकासको कति वर्षे मार्गचित्र नै दिगो विकास लक्ष्य हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१५",
+      "b": "२५",
+      "c": "३०",
+      "d": "५०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4447",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू अन्तर्गत कतिवटा परिमाणात्मक लक्ष्य रहेका छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१७",
+      "b": "२१",
+      "c": "६५",
+      "d": "१६९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4448",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार धाराबाट पानी पिउने कति प्रतिशत छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "५५ %",
+      "b": "५६ %",
+      "c": "५७ %",
+      "d": "५८ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4449",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार हाते पम्पबाट पानी पिउने कति प्रतिशत छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२७.९ %",
+      "b": "२८.८ %",
+      "c": "२९.२ %",
+      "d": "२९.८ %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4450",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार महिला परिवारमूलि कति प्रतिशत छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "३१.५५%",
+      "b": "३५%",
+      "c": "४१.८९%",
+      "d": "४८%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4451",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार राउटे को जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "५२५",
+      "b": "५४४",
+      "c": "५५५",
+      "d": "५६६"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4452",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार शौचालय नपुगेको जनसंख्या कति प्रतिशत छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "९५.८ %",
+      "b": "४.५ %",
+      "c": "६ %",
+      "d": "१० %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4453",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सर्वप्रथम अम्ल वर्षा भएको भनी पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्रो हार्लेम बुटल्यान्ड",
+      "b": "रबर्ट राङ्गस स्मिथ",
+      "c": "जि सि फर्मायन",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4454",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालले कहिले CITES मा हस्ताक्षर गर्‍यो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१९७२",
+      "b": "१९७५",
+      "c": "१९८२",
+      "d": "१९९२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4455",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपाल कहिले रामसार कन्भेन्सन मा सामेल भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८३",
+      "b": "सन् १९८५",
+      "c": "सन् १९८७",
+      "d": "सन् १९९२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4456",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा चमेरा संरक्षण क्षेत्र कहाँ रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ककनी (नुवाकोट",
+      "b": "कसरा (चितवन",
+      "c": "दमक (झापा)",
+      "d": "देवानगढ़िया (नवलपरासी)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4457",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा जैविक विविधता सूचना केन्द्र कहाँ छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ककनी (नुवाकोट",
+      "b": "कसरा (चितवन",
+      "c": "टिकौली (चितवन)",
+      "d": "देवानगढ़िया नवलपरासी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4458",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार नगरपालिकामा बसोबास गर्ने जनसंख्या कति प्रतिशत छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "६३.२%",
+      "b": "६४.९%",
+      "c": "६५.५%",
+      "d": "६६.२%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4459",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार गाउपालिकामा बसोबास गर्ने जनसंख्या कति प्रतिशत छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "३३.२%",
+      "b": "३२.९%",
+      "c": "३३.८%",
+      "d": "३५.२%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4460",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालका ३३५० मिटरदेखि ५००० मिटरसम्मको उचाइमा पाइने वनलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टुन्ड्रा वन",
+      "b": "समशितोष्ण पतझर वन",
+      "c": "लेकाली वन",
+      "d": "समशितोष्ण कोणधारी वन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4461",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा हाल कति प्रकारका संरक्षित स्तनधारी जन्तुहरू रहेका छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२४",
+      "b": "२५",
+      "c": "२६",
+      "d": "२७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4462",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "लाटोकोसेरोलाई के को प्रतिक मानिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "न्याय",
+      "b": "शान्ति",
+      "c": "प्रेम",
+      "d": "बुद्धि र विवेक"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4463",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा वातावरण परिषद्को अध्यक्ष को रहने व्यवस्था छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "मुख्य सचिव",
+      "c": "राष्ट्रपति",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4465",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "वातावरणीय क्षेत्रमा PPP को पुरा रूप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Polluter Pays Principle",
+      "b": "Pollution Past Program",
+      "c": "Pollution Program Protocol",
+      "d": "Pollution Pay Protocol"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4466",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "ग्लोबल ५०० पुरस्कार के सँग सम्बन्धित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वातावरण",
+      "b": "संगित",
+      "c": "चिकित्सा",
+      "d": "चलचित्र"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4467",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "ग्लोबल ५०० पुरस्कार प्राप्त गर्ने पहिलो नेपाली को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डा. सन्दुक रुइत",
+      "b": "डा. कृष्ण कुमार पाण्डे",
+      "c": "डा. बाबुराम भट्टराई",
+      "d": "डा. विशाल ढकाल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4468",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा वातावरण विभागको स्थापना कहिले भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०६८/४/१२",
+      "b": "२०६९/४/१२",
+      "c": "२०६८/५/१२",
+      "d": "२०६९/५/१२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4469",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "EIA को पूर्ण रूप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Environmental Implementation Authority",
+      "b": "Ecological Impact Assessment",
+      "c": "Environmental Impact Assessment",
+      "d": "Ecosystem Inclusion Analysis"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4470",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "इन्सुलिन को खोजकर्ता को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अलेक्जान्डर फ्लेमिङ",
+      "b": "जोनास साल्क",
+      "c": "फ्रेडेरिक ब्यान्टिङ र चार्ल्स बेस्ट",
+      "d": "लुइ पास्टर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5325",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "क्रेडिट र डेबिट कार्ड को सन्दर्भमा VISA को पूरा रुप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Virtual International Service Agency",
+      "b": "Verification of International Spending Authority",
+      "c": "Visa International Service Association",
+      "d": "Virtual International Spending Authorization"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5326",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "भिटामिन B को रासायनिक नाम के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "थायामिन",
+      "b": "एस्कॉर्बिक एसिड",
+      "c": "रिबोफ्लेविन",
+      "d": "निकोटीनामाइड"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5327",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एक्सरे (X-ray) को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "निकोला टेस्ला"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5328",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "हवाइजहाज को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट र निकोला टेस्ला",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "वोरभिल र विलभर राइट",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5329",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "LPG को पूरा रुप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Large Petroleum Gas",
+      "b": "Liquefied Petroleum Gas",
+      "c": "Light Propane Gas",
+      "d": "Low Pressure Gas"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5330",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "लिभरको सिद्धान्तका प्रतिपादक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "आर्किमिडिज",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "निकोलस कोपर्निकस",
+      "d": "अलेक्ज्याण्डर फ्लेमिङ्ग"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5331",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "“ On the measurement of the circle” पुस्तकका लेखक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अर्किमिडिज",
+      "b": "थोमस एडिसन",
+      "c": "पाइथागोरस",
+      "d": "लिओनार्डो दा भिन्ची"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5332",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "ज्यामितिका पिता (Father of Geometry) भनेर कसलाई चिनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "यूक्लिड",
+      "b": "आर्किमिडिज",
+      "c": "पाइथागोरस",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5333",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सापेक्षताको सिद्धान्त (Theory of relativity) कसले प्रतिपादन गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "आइज्याक न्यूटन",
+      "b": "अल्बर्ट आइन्स्टाइन",
+      "c": "ग्यालिलियो ग्यालिली",
+      "d": "स्टीफन हकिङ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5334",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एयर कन्डिशनर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5335",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "ECG नामक यन्त्र कुन अंगको परीक्षणको लागि प्रयोग गरिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कलेजे",
+      "b": "मुटु",
+      "c": "फोक्सो",
+      "d": "मृगौला"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5336",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "परमाणु सिद्धान्त (Atomic theory) कसले प्रतिपादन गरेका हुन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फेरेडे",
+      "b": "जन डाल्टन",
+      "c": "सर आइज्याक न्यूटन",
+      "d": "अटो हान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5337",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संरचनामा कन्क्रिटको व्यापक प्रयोग गर्ने आधार स्थापना गर्ने आधुनिक हाइड्रोलिक सीमेन्टको आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ एस्पडिन",
+      "b": "थोमस एडिसन",
+      "c": "अलेक्जेन्डर फ्लेमिङ",
+      "d": "लिओनार्डो दा भिन्ची"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5338",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "खाना पकाउने ग्यास ( LPG ) मा कुन ग्यास हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "इथेन",
+      "b": "प्रोपेन",
+      "c": "मिथेन",
+      "d": "ब्यूटेन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5339",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "इतिहासका पिता (Father of history) भनेर कसलाई चिनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "आरिस्टटल",
+      "b": "सोक्रेटिज",
+      "c": "हेरोडोटस",
+      "d": "प्लेटो"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5340",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Amazon को संस्थापक को हुन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जेफ बेजोस",
+      "b": "एलोन मस्क",
+      "c": "मार्क जुकरबर्ग",
+      "d": "बिल गेट्स"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5342",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "गेहेन्द्र शमशेर",
+      "b": "रत्न मान तुलाधर",
+      "c": "महावीर पुन",
+      "d": "दयावीर सिंह कंसाकार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5343",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "“ A brief history of time ” पुस्तकका लेखक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "इलोन मस्क",
+      "b": "थोमस एडिसन",
+      "c": "अल्बर्ट आइन्स्टाइन",
+      "d": "स्टिफेन हाकिङ"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5344",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिस्मोग्राफ को आविष्कारको श्रेय कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्यालिलियो ग्यालिली",
+      "b": "चार्ल्स रिक्टर",
+      "c": "जोन मिल्ने",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5345",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "व्यारोमिटर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जिंग्स",
+      "b": "डैमलर",
+      "c": "इ.टोरीसेली",
+      "d": "पास्कल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5346",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "डिजेल इन्जिनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "चेस्टर कार्लसन",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "रुडोल्फ डिजेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5347",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "फोटोकपी मेसिनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "चेस्टर कार्लसन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5348",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "डायानामोका आविष्कारक को हुन्",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "चेस्टर कार्लसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5349",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सूर्यलाई हेर्न सकिने यन्त्र कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टेलिस्कोप",
+      "b": "हेलिस्कोप",
+      "c": "थि‌ओडोलाइट",
+      "d": "पेरिस्कोप"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5350",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "टेलिफोन को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अलेक्जेन्डर ग्राहम वेल",
+      "b": "थोमस एडिसन",
+      "c": "पास्कल",
+      "d": "शालिमार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5351",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "थर्मामिटर को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डेनेश पपिन",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "जेम्स वाट",
+      "d": "जिलेट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5352",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "स्टीम इन्जिन को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डेनेश पपिन",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "जेम्स वाट",
+      "d": "जिलेट"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5353",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आँखाले सोझै हेर्न नमिल्ने वस्तुलाई हेर्न प्रयोग गरिने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टेलिस्कोप",
+      "b": "हेलिस्कोप",
+      "c": "थि‌ओडोलाइट",
+      "d": "पेरिस्कोप"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5354",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एनिमोमिटर केको लागि प्रयोग गरिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वायुमण्डलीय चाप नाप्न",
+      "b": "हावाको गति निर्धारण गर्न",
+      "c": "आर्द्रता मापन गर्न",
+      "d": "तापमान भिन्नताहरू रेकर्ड गर्न"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5355",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्यालकुलेटरका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "वाटरमेन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5356",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "फाउन्टेन पेनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वाटरमेन",
+      "b": "गेडार्ड",
+      "c": "फुल्टन",
+      "d": "साइमन लेक"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5357",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "अन्तरिक्षमा पुग्ने पहिलो व्यक्ति को थिए?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "युरी गागरिन",
+      "b": "नील आर्मस्ट्रङ",
+      "c": "भ्यालेन्टिना तेरेस्कोवा",
+      "d": "जोन ग्लेन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5358",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पृथ्वीको वायुमण्डलमा ओजोन तहको मुख्य भूमिका के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अल्ट्राभायोलेट (UV) विकिरणलाई अवशोषित गर्नु",
+      "b": "हरितगृह ग्यासहरू जालमा राख्ने",
+      "c": "तापमान नियमन",
+      "d": "प्रकाश संश्लेषण को सुविधा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5359",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "रोबर्ट अपेनहाइमरले कुन वैज्ञानिक परियोजनामा महत्वपूर्ण भूमिका खेल्नुभएको थियो",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मानव जेनोम परियोजना",
+      "b": "एपोलो चन्द्रमा अवकाश कार्यक्रम",
+      "c": "म्यानह्याटन परियोजना",
+      "d": "हबल अंतरिक्ष दृष्टिकोण यन्त्र परियोजना"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5360",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "भिटामिन C को रासायनिक नाम तलका मध्ये कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "एस्कॉर्बिक एसिड",
+      "b": "नियासिनमाइड",
+      "c": "रेटिनोल",
+      "d": "टोकोफेरोल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5361",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "CFL को पूरा रुप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Central Fluorescent Light",
+      "b": "Controlled Fluorescent Lighting",
+      "c": "Continuous Fluorescent Luminaire",
+      "d": "Compact Fluorescent Lamp"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5362",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "हवाइजहाजको उडानको तथ्याङ्‌क र आवाजलाई ग्रहण गर्ने यन्त्र \"ब्ल्याक बक्स\" को रंग कस्तो हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कालो",
+      "b": "सेतो",
+      "c": "हरियो",
+      "d": "हलका पहेंलो"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5364",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "इलोक्ट्रोन को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जे.जे थोमसोन",
+      "b": "बेन्जामिन फ्रैंकलिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5365",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रेसर कुकुर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए .एल. बिग्रेट",
+      "b": "डेनेश पपिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "जेम्स वाट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5366",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "ग्रामोफोन को आविष्कार कसले गरेका थिए?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "थोमस अल्भा एडिसन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5367",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मानव शरीरको सबैभन्दा ठूलो ग्रन्थी कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "किड्नी",
+      "b": "कलेजो",
+      "c": "थाइरोइड",
+      "d": "पैन्क्रियास"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5368",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "वंशाणुगत सिद्दान्तको ( Law of heredity) प्रतिपादक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्रेगर मेण्डेल",
+      "b": "चार्ल्स डार्विन",
+      "c": "लुई पास्टर",
+      "d": "आल्फ्रेड रसेल वालेस"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5369",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको प्रथम टेस्ट ट्यूब बेबीको नाम के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जवाहर लाल शाह",
+      "b": "प्रदिप काफ्ले",
+      "c": "ओम‌मणि तामाङ्ग",
+      "d": "सनम तामाङ्ग"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5370",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "रेडियोधर्मी तत्व रेडियम कुन वैज्ञानिकले पत्ता लगाएका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "आइज्याक न्यूटन",
+      "b": "अल्बर्ट आइन्स्टाइन",
+      "c": "बेंजामिन फ्रैंकलिन",
+      "d": "म्यारी क्युरी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5371",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "आधुनिक रेजर ब्लेडको आविष्कारको श्रेय प्रायः कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जिलेट",
+      "b": "अलेक्जेंडर ग्राहम बेल",
+      "c": "लियोनार्डो दा भिन्ची",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5372",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पेनिसिलिन को खोजकर्ता को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लुइस पास्टर",
+      "b": "अलेक्जान्डर फ्लेमिङ",
+      "c": "जोसेफ लिस्टर",
+      "d": "एडवर्ड जेनर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5373",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "LASER को पूरा रुप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Light Amplification by Stimulated Emission of Radiation",
+      "b": "Light and Sound Emitting Radiation",
+      "c": "Long-range Amplification by Stimulated Emission of Radiation",
+      "d": "Liquid Amplification by Spectral Emission of Radiation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5374",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "\"विधुतका पिता\" भनेर प्रायः कसलाई भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "थोमस एडिसन",
+      "b": "निकोला टेस्ला",
+      "c": "माइकल फराडे",
+      "d": "जेम्स क्लर्क मैक्सवेल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5375",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "अन्तरिक्षमा पुग्ने पहिलो महिला को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "भ्यालेन्टिना तेरेस्कोवा",
+      "b": "सैली सवारी",
+      "c": "युरी गागारिन",
+      "d": "माई जेमिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5376",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“अर्थ आवर” अभियान कुन देशले सुरु गर्यो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अस्ट्रेलिया",
+      "b": "क्यानडा",
+      "c": "स्वीडेन",
+      "d": "संयुक्त राज्य अमेरिका"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5377",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "डायनामाइट को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सर अलेक्जेंडर ग्राहम बेल",
+      "b": "बेन्जामिन फ्रैंकलिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5378",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्रिस्टोफर कोलम्बसले उत्तरी अमेरिका कहिले पत्ता लगाए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १४५५",
+      "b": "सन् १४९२",
+      "c": "सन् १६७२",
+      "d": "सन् १८९२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5379",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "समुद्रको गहिराई मापनका लागि प्राथमिक रूपमा कुन उपकरणको प्रयोग गरिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अल्टिमेटर",
+      "b": "सेक्स्टेन्ट",
+      "c": "फैथोमीटर",
+      "d": "एनेमोमीटर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5380",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कुन तत्वको ल्याटिन नाम Kalium हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Potassium",
+      "b": "Iron",
+      "c": "Silver",
+      "d": "Lead"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5381",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "साइकल को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लियो एच बेकेल्यान्ड",
+      "b": "कार्ल बेन्ज",
+      "c": "इभान्जेलिस्टा टोरिसेली",
+      "d": "किर्कप्याट्रिक म्याकमिलन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5382",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बिटक्वाइनलाई कानूनी मुद्रा रूपमा स्वीकार गर्ने पहिलो देश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जापान",
+      "b": "स्विट्जरल्यान्ड",
+      "c": "एल साल्भाडोर",
+      "d": "क्यानडा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5383",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मोबाइल फोन को आविष्कार कसले गरेका थिए ? (संघ २०७९)",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "मार्टिन कूपर",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "थोमस अल्भा एडिसन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5384",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मोबाइल फोन को आविष्कार गर्ने पहिलो कम्पनी कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मोटोरोला",
+      "b": "सामसुङ",
+      "c": "नोकिया",
+      "d": "एप्पल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5385",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "रिमोट कन्ट्रोलमा कुन किरणको प्रयोग भएको हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "इन्फ्रा रेड रे",
+      "b": "गामा रे",
+      "c": "एक्सरे",
+      "d": "अल्ट्रा भाइलट रे"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5386",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "टेलिभिजन को आविष्कारको श्रेय कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "थोमस एडिसन",
+      "b": "निकोला टेस्ला",
+      "c": "जोन लोगी बेयर्ड",
+      "d": "अलेक्जेंडर ग्राहम बेल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5387",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हसाउने ग्यास को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ प्रिस्ट",
+      "b": "हेनरी क्याभेन्डिस",
+      "c": "आन्त्वान लभोइसिये",
+      "d": "विल्हेल्म रन्ट्गेन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5388",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हिरामा कार्वनको मात्रा कति प्रतिशत हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "९५ %",
+      "b": "९७ %",
+      "c": "९९ %",
+      "d": "१०० %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5389",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "इलेक्ट्रीक जेनरेटर को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फेरेडे",
+      "b": "थोमस एडिसन",
+      "c": "मेडम क्युरी",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5390",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हाइड्रोजन ग्यास को आविष्कार कसले गरेका हुन्?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ प्रिस्ट",
+      "b": "हेनरी क्याभेन्डिस",
+      "c": "आन्त्वान लभोइसिये",
+      "d": "विल्हेल्म रन्ट्गेन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5391",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "रसायनशास्त्रका पिता (Father of Chemistry) भनेर कसलाई चिनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "रॉबर्ट बॉयल",
+      "b": "आर्किमिडिज",
+      "c": "पाइथागोरस",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5392",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "घडी को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "पास्कल",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5393",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "रंग (Paints) को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "र‍ोमकोर्फ",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "पास्कल",
+      "d": "शालिमार"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5394",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "रेविज रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5395",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अपूर्ण चापको सिद्धान्त पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्यालिलियो",
+      "b": "जोन डाल्टन",
+      "c": "आर्किमिडिज",
+      "d": "पाइथागोरस"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5396",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "क्षयरोगको जिवाणु सर्वप्रथम कसले पत्ता लगाएका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5397",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दूध बिग्रनबाट बचाउने विधि पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5398",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "पोलियो रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा. जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5399",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बिफर रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा. जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "एडवर्ड जेनर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5400",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "' क्वान्टम थ्योरी ' कसले प्रतिपादन गरेका हुन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "म्याक्स प्लांक",
+      "c": "रोबर्ट कोच",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5401",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "ATM को पूरा रुप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Automated Teller Machine",
+      "b": "Automatic Transaction Machine",
+      "c": "Advanced Teller Management",
+      "d": "Automated Transaction Module"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5402",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "“ On the origin of species” पुस्तकका लेखक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अर्किमिडिज",
+      "b": "थोमस एडिसन",
+      "c": "चार्ल्स डार्विन",
+      "d": "लिओनार्डो दा भिन्ची"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5403",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "कार्य वा शक्तिको मापन गर्ने इकाइलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वाट",
+      "b": "जुल",
+      "c": "‌ओम",
+      "d": "केल्विन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5404",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "महमा सबैभन्दा बढी पाइने तत्व कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सुक्रोज",
+      "b": "फ्रुक्टोज",
+      "c": "ग्लुकोज",
+      "d": "माल्टोज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5405",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "विमान कति उचाइमा उडिरहेको छ भनी नाप्ने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "स्पीडोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "अल्टिमिटर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5406",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दूधको शुद्धता नाप्ने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ल्याक्टोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "अल्टिमिटर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5407",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "ISP को पूरा रुप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Internet Service Provider",
+      "b": "International Service Provider",
+      "c": "Integrated Service Provider",
+      "d": "Internal Service Provider"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5408",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "क्रिप्टोकरेन्सी कुन प्रविधिमा आधारित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "क्लाउड स्टोरेज",
+      "b": "केन्द्रीय डाटाबेस",
+      "c": "पीअर-टु-पीअर नेटवर्क",
+      "d": "ब्लकचेन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5409",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सूर्यमुखी फूल कुन तत्वका कारण सूर्य भएका दिशातर्फ फर्कन्छ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ऑक्सीजन",
+      "b": "क्याप्साइसिन",
+      "c": "क्लोरोफिल",
+      "d": "ऑक्सिन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5410",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तापको अविनाशको सिद्धान्त कसले प्रतिपादन गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "न्युटन",
+      "b": "ग्यालिलियो",
+      "c": "टेस्ला",
+      "d": "जुल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5411",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "खुर्सानी कुन तत्वका कारण पिरो हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ऑक्सीजन",
+      "b": "क्याप्साइसिन",
+      "c": "क्लोरोफिल",
+      "d": "ऑक्सिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5412",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "वर्षा नाप्ने काममा प्रयोग हुने यन्त्रको नाम के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ल्याक्टोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "रेनगज"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5413",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "GPS को पूरा रुप के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "Global Positioning System",
+      "b": "Geographic Positioning System",
+      "c": "General Positioning Service",
+      "d": "Global Positioning Service"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5414",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अन्तराष्ट्रिय जैविक विविधता दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुन २१",
+      "b": "जुन २२",
+      "c": "मे २१",
+      "d": "मे २२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4396",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रामसारमा सूचीकृत नेपालको पहिलो क्षेत्र कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "बीस हजारी ताल",
+      "b": "घोडाघोडी ताल क्षेत्र",
+      "c": "कोशी टप्पु वन्यजन्तु आरक्ष",
+      "d": "जगदीसपुर ताल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4397",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रामसारमा सूचीकृत नेपालको पहिलो क्षेत्र कोशीटप्पु कहिले सूचीकृत भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८७-१२-१६",
+      "b": "सन् १९८७-१२-१७",
+      "c": "सन् १९८७-१२-१८",
+      "d": "सन् १९८७-१२-१९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4398",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिमसारमा पानीको गहिराइ कतिसम्म हुन सक्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "६ मि",
+      "b": "८ मि",
+      "c": "१० मि",
+      "d": "१२ मि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4399",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू कहिलेदेखि लागू भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०१५ जनवरी ०१",
+      "b": "२०१६ जनवरी ०१",
+      "c": "२०१७ जनवरी ०१",
+      "d": "२०१८ जनवरी ०१"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4400",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सन् २०२२ को तथ्यांक अनुसार नेपालमा बाघको जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२५५",
+      "b": "३५५",
+      "c": "३७६",
+      "d": "३९९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4402",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सन् २०२२ को तथ्यांक अनुसार नेपालमा कृष्णसारको जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२५५",
+      "b": "३५५",
+      "c": "३७५",
+      "d": "४२५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4403",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "गोबर ग्यासमा मिथेनको मात्रा कति प्रतिशत हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२० - ३० %",
+      "b": "३०- ४५ %",
+      "c": "४० - ५५ %",
+      "d": "५०-७० %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4404",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका मध्ये क्षेत्रफलका आधारमा सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "रारा राष्ट्रिय निकुञ्ज",
+      "b": "मकालु बरुण राष्ट्रिय निकुञ्ज",
+      "c": "चितवन राष्ट्रिय निकुञ्ज",
+      "d": "पर्सा राष्ट्रिय निकुञ्ज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4405",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय बाघ दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २१",
+      "b": "जुन २५",
+      "c": "जुलाई २९",
+      "d": "सेप्टेम्बर २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4406",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व पानी दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २९",
+      "b": "जुन २२",
+      "c": "मार्च २२",
+      "d": "सेप्टेम्बर १२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4408",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "हरितगृह कसले पत्ता लगाएका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "शेरउड रोल्यान्ड",
+      "b": "जोसेफ फौरियर",
+      "c": "आर्थिनस",
+      "d": "वेरिन जिन फेरियर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4410",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व पृथ्वी दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २१",
+      "b": "जुन २२",
+      "c": "मार्च २२",
+      "d": "अप्रिल २२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4411",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व सम्पदा दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अप्रिल १८",
+      "b": "अप्रिल २२",
+      "c": "अप्रिल २५",
+      "d": "अप्रिल ३१"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4412",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "कोशी टप्पु वन्यजन्तु आरक्षको स्थापना कहिले भएको हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०३०",
+      "b": "२०३२",
+      "c": "२०४०",
+      "d": "२०४२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4413",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू कती ओटा छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१५",
+      "b": "१७",
+      "c": "१९",
+      "d": "२१"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4414",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालका लागि सान्दर्भिक नभएको दिगो विकासकाको लक्ष्य कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१२",
+      "b": "१३",
+      "c": "१४",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4415",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व वातावरण दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुन ३",
+      "b": "जुन ४",
+      "c": "जुन ५",
+      "d": "जुलाई ५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4417",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एजेन्डा २१ कहिले पारित गरियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८५",
+      "b": "सन् १९९२",
+      "c": "सन् २०००",
+      "d": "सन् २०१०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4419",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सबैलाई समावेशी, समतामूलक गुणस्तरीय शिक्षा ‍दिग‍ो विकासको कुन लक्ष्यसँग सम्बन्धित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लक्ष्य ३",
+      "b": "लक्ष्य ४",
+      "c": "लक्ष्य ७",
+      "d": "लक्ष्य ८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4421",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "‘दिगो विकास’ शब्द सबैभन्दा सुरूमा प्रयोग कसले गरेक थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्रो हार्लेम बुटल्यान्ड",
+      "b": "बार्बरा वार्ड",
+      "c": "डेविट वलेल",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4422",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बार्बरा वार्ड कुन देशका नागरिक हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "बेलायत",
+      "b": "फ्रान्स",
+      "c": "अमेरिका",
+      "d": "रूस"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4423",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना, २०७८ मा प्रश्नावली संख्या कति रहेको थियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "७० वटा",
+      "b": "८० वटा",
+      "c": "९० वटा",
+      "d": "५० वटा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4424",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार प्रति परिवार औसतमा कति सदस्य रहेको छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४.३७",
+      "b": "४.७९",
+      "c": "४.६७",
+      "d": "४.७८"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4425",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रदेशगत रूपमा जनसंख्या विवरण हेर्दा सबैभन्दा कम जनसंख्या कुन प्रदेशमा छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मधेस",
+      "b": "बागमती",
+      "c": "कर्णाली",
+      "d": "कोशी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4426",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रदेशगत रूपमा जनसंख्या विवरण हेर्दा सबैभन्दा धेरै जनसंख्या कुन प्रदेशमा छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मधेश",
+      "b": "बागमती",
+      "c": "कर्णाली",
+      "d": "कोशी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4427",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा जनगणना दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "असोज १",
+      "b": "असार ८",
+      "c": "असार १०",
+      "d": "असोज २"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4428",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको वार्षिक औसत जनसंख्या वृद्धिदर कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२.६४%",
+      "b": "०.९४ %",
+      "c": "०.९२ %",
+      "d": "०.७८ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4429",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "विश्व जनसंख्या दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुलाई ११",
+      "b": "जुलाई २२",
+      "c": "जुलाई २७",
+      "d": "जुलाई २९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4430",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार धेरै जनसंख्या वृद्धि दर भएको प्रदेश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कोशी",
+      "b": "बागमती",
+      "c": "गण्डकी",
+      "d": "लुम्बिनी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4431",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "जलवायु परिवर्तन सम्बन्धी ध्यानाकर्षण गर्नको लागि नेपालको मन्त्रिपरिषदको बैठक कालापत्थरमा कहिले बसेको थियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वि.सं. २०६७ मंसिर १९",
+      "b": "वि.सं. २०६६ मंसिर २९",
+      "c": "वि.सं. २०६६ मंसिर १९",
+      "d": "वि.सं. २०६६ मंसिर ३०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4432",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मालदिभ्सको मन्त्रीपरिषद्‌को बैठक पानीमुनि कहिले बस्यो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् २००९ अक्टोबर २६",
+      "b": "सन् २००९ अक्टोबर १७",
+      "c": "सन् २००९ अक्टोबर १९",
+      "d": "सन् २००९ अक्टोबर १९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4433",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार कम जनसंख्या वृद्धि दर भएको प्रदेश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कोशी",
+      "b": "बागमती",
+      "c": "लुम्बिनी",
+      "d": "गण्डकी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4434",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार काठ दाउराबाट खाना बनाउने जनसंख्या कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४४.३ %",
+      "b": "५१ %",
+      "c": "५१.६%",
+      "d": "५६.७८%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4436",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार बिजुलीबाट खाना बनाउने जनसंख्या कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "०.५ %",
+      "b": "०.६७ %",
+      "c": "०.९८ %",
+      "d": "२.५ %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4437",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार साधारण मोबाइल फोन हुने परिवारको प्रतिशत कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "७३.१५ %",
+      "b": "८२ %",
+      "c": "९२ %",
+      "d": "९५ %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4439",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा वनक्षेत्रले कुल भू-भागको कति प्रतिशत भू-भाग ओगटेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४२.७९ %",
+      "b": "४५.३१ %",
+      "c": "४९ %",
+      "d": "४४.८ %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4440",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कुन शहरले १९९२ मा पृथ्वी शिखर सम्मेलनको आयोजना गरेको थियो जहाँ एजेन्डा २१ अपनाइयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जेनेभा",
+      "b": "रियो दि जेनेरियो",
+      "c": "न्यूयोर्क",
+      "d": "क्योटो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4441",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको पहिलो खुला दिशामुक्त जिल्ला कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "झापा",
+      "b": "काठमाडाै‌ँ",
+      "c": "कास्की",
+      "d": "ललितपुर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4443",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्योटो प्रोटोकल कहिलेदेखि लागू भएको हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् २००५ फेब्रुअरी १७",
+      "b": "सन् २००५ फेब्रुअरी १६",
+      "c": "सन् २००६ फेब्रुअरी १६",
+      "d": "सन् २००७ फेब्रुअरी १६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4444",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सन् २०१५ सेप्टेम्बर २५ मा राष्ट्रसंघीय महासभाबाट पारित विश्व विकासको कति वर्षे मार्गचित्र नै दिगो विकास लक्ष्य हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१५",
+      "b": "२५",
+      "c": "३०",
+      "d": "५०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4447",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू अन्तर्गत कतिवटा परिमाणात्मक लक्ष्य रहेका छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१७",
+      "b": "२१",
+      "c": "६५",
+      "d": "१६९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4448",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार धाराबाट पानी पिउने कति प्रतिशत छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "५५ %",
+      "b": "५६ %",
+      "c": "५७ %",
+      "d": "५८ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4449",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार हाते पम्पबाट पानी पिउने कति प्रतिशत छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२७.९ %",
+      "b": "२८.८ %",
+      "c": "२९.२ %",
+      "d": "२९.८ %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4450",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार महिला परिवारमूलि कति प्रतिशत छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "३१.५५%",
+      "b": "३५%",
+      "c": "४१.८९%",
+      "d": "४८%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4451",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार राउटे को जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "५२५",
+      "b": "५४४",
+      "c": "५५५",
+      "d": "५६६"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4452",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार शौचालय नपुगेको जनसंख्या कति प्रतिशत छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "९५.८ %",
+      "b": "४.५ %",
+      "c": "६ %",
+      "d": "१० %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4453",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सर्वप्रथम अम्ल वर्षा भएको भनी पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्रो हार्लेम बुटल्यान्ड",
+      "b": "रबर्ट राङ्गस स्मिथ",
+      "c": "जि सि फर्मायन",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4454",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपाल कहिले रामसार कन्भेन्सन मा सामेल भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८३",
+      "b": "सन् १९८५",
+      "c": "सन् १९८७",
+      "d": "सन् १९९२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4456",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा चमेरा संरक्षण क्षेत्र कहाँ रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ककनी (नुवाकोट",
+      "b": "कसरा (चितवन",
+      "c": "दमक (झापा)",
+      "d": "देवानगढ़िया (नवलपरासी)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4457",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा जैविक विविधता सूचना केन्द्र कहाँ छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ककनी (नुवाकोट",
+      "b": "कसरा (चितवन",
+      "c": "टिकौली (चितवन)",
+      "d": "देवानगढ़िया नवलपरासी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4458",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार नगरपालिकामा बसोबास गर्ने जनसंख्या कति प्रतिशत छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "६३.२%",
+      "b": "६४.९%",
+      "c": "६५.५%",
+      "d": "६६.२%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4459",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार गाउपालिकामा बसोबास गर्ने जनसंख्या कति प्रतिशत छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "३३.२%",
+      "b": "३२.९%",
+      "c": "३३.८%",
+      "d": "३५.२%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4460",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालका ३३५० मिटरदेखि ५००० मिटरसम्मको उचाइमा पाइने वनलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टुन्ड्रा वन",
+      "b": "समशितोष्ण पतझर वन",
+      "c": "लेकाली वन",
+      "d": "समशितोष्ण कोणधारी वन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4461",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा हाल कति प्रकारका संरक्षित स्तनधारी जन्तुहरू रहेका छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२४",
+      "b": "२५",
+      "c": "२६",
+      "d": "२७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4462",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "लाटोकोसेरोलाई के को प्रतिक मानिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "न्याय",
+      "b": "शान्ति",
+      "c": "प्रेम",
+      "d": "बुद्धि र विवेक"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4463",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा वातावरण परिषद्को अध्यक्ष को रहने व्यवस्था छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "मुख्य सचिव",
+      "c": "राष्ट्रपति",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4465",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "ग्लोबल ५०० पुरस्कार के सँग सम्बन्धित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वातावरण",
+      "b": "संगित",
+      "c": "चिकित्सा",
+      "d": "चलचित्र"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4467",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "ग्लोबल ५०० पुरस्कार प्राप्त गर्ने पहिलो नेपाली को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डा. सन्दुक रुइत",
+      "b": "डा. कृष्ण कुमार पाण्डे",
+      "c": "डा. बाबुराम भट्टराई",
+      "d": "डा. विशाल ढकाल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4468",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा वातावरण विभागको स्थापना कहिले भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०६८/४/१२",
+      "b": "२०६९/४/१२",
+      "c": "२०६८/५/१२",
+      "d": "२०६९/५/१२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4469",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "इन्सुलिन को खोजकर्ता को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अलेक्जान्डर फ्लेमिङ",
+      "b": "जोनास साल्क",
+      "c": "फ्रेडेरिक ब्यान्टिङ र चार्ल्स बेस्ट",
+      "d": "लुइ पास्टर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5325",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "हवाइजहाज को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट र निकोला टेस्ला",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "वोरभिल र विलभर राइट",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5329",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "लिभरको सिद्धान्तका प्रतिपादक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "आर्किमिडिज",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "निकोलस कोपर्निकस",
+      "d": "अलेक्ज्याण्डर फ्लेमिङ्ग"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5331",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एयर कन्डिशनर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5335",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संरचनामा कन्क्रिटको व्यापक प्रयोग गर्ने आधार स्थापना गर्ने आधुनिक हाइड्रोलिक सीमेन्टको आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ एस्पडिन",
+      "b": "थोमस एडिसन",
+      "c": "अलेक्जेन्डर फ्लेमिङ",
+      "d": "लिओनार्डो दा भिन्ची"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5338",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "गेहेन्द्र शमशेर",
+      "b": "रत्न मान तुलाधर",
+      "c": "महावीर पुन",
+      "d": "दयावीर सिंह कंसाकार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5343",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिस्मोग्राफ को आविष्कारको श्रेय कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्यालिलियो ग्यालिली",
+      "b": "चार्ल्स रिक्टर",
+      "c": "जोन मिल्ने",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5345",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "व्यारोमिटर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जिंग्स",
+      "b": "डैमलर",
+      "c": "इ.टोरीसेली",
+      "d": "पास्कल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5346",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "डिजेल इन्जिनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "चेस्टर कार्लसन",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "रुडोल्फ डिजेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5347",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "फोटोकपी मेसिनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "चेस्टर कार्लसन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5348",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "डायानामोका आविष्कारक को हुन्",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "चेस्टर कार्लसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5349",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सूर्यलाई हेर्न सकिने यन्त्र कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टेलिस्कोप",
+      "b": "हेलिस्कोप",
+      "c": "थि‌ओडोलाइट",
+      "d": "पेरिस्कोप"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5350",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "टेलिफोन को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अलेक्जेन्डर ग्राहम वेल",
+      "b": "थोमस एडिसन",
+      "c": "पास्कल",
+      "d": "शालिमार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5351",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "थर्मामिटर को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डेनेश पपिन",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "जेम्स वाट",
+      "d": "जिलेट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5352",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "स्टीम इन्जिन को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डेनेश पपिन",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "जेम्स वाट",
+      "d": "जिलेट"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5353",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आँखाले सोझै हेर्न नमिल्ने वस्तुलाई हेर्न प्रयोग गरिने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टेलिस्कोप",
+      "b": "हेलिस्कोप",
+      "c": "थि‌ओडोलाइट",
+      "d": "पेरिस्कोप"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5354",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एनिमोमिटर केको लागि प्रयोग गरिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वायुमण्डलीय चाप नाप्न",
+      "b": "हावाको गति निर्धारण गर्न",
+      "c": "आर्द्रता मापन गर्न",
+      "d": "तापमान भिन्नताहरू रेकर्ड गर्न"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5355",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्यालकुलेटरका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "वाटरमेन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5356",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "फाउन्टेन पेनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वाटरमेन",
+      "b": "गेडार्ड",
+      "c": "फुल्टन",
+      "d": "साइमन लेक"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5357",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "अन्तरिक्षमा पुग्ने पहिलो व्यक्ति को थिए?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "युरी गागरिन",
+      "b": "नील आर्मस्ट्रङ",
+      "c": "भ्यालेन्टिना तेरेस्कोवा",
+      "d": "जोन ग्लेन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5358",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "रोबर्ट अपेनहाइमरले कुन वैज्ञानिक परियोजनामा महत्वपूर्ण भूमिका खेल्नुभएको थियो",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मानव जेनोम परियोजना",
+      "b": "एपोलो चन्द्रमा अवकाश कार्यक्रम",
+      "c": "म्यानह्याटन परियोजना",
+      "d": "हबल अंतरिक्ष दृष्टिकोण यन्त्र परियोजना"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5360",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "हवाइजहाजको उडानको तथ्याङ्‌क र आवाजलाई ग्रहण गर्ने यन्त्र \"ब्ल्याक बक्स\" को रंग कस्तो हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कालो",
+      "b": "सेतो",
+      "c": "हरियो",
+      "d": "हलका पहेंलो"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5364",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "इलोक्ट्रोन को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जे.जे थोमसोन",
+      "b": "बेन्जामिन फ्रैंकलिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5365",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रेसर कुकुर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए .एल. बिग्रेट",
+      "b": "डेनेश पपिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "जेम्स वाट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5366",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "ग्रामोफोन को आविष्कार कसले गरेका थिए?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "थोमस अल्भा एडिसन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5367",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मानव शरीरको सबैभन्दा ठूलो ग्रन्थी कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "किड्नी",
+      "b": "कलेजो",
+      "c": "थाइरोइड",
+      "d": "पैन्क्रियास"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5368",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको प्रथम टेस्ट ट्यूब बेबीको नाम के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जवाहर लाल शाह",
+      "b": "प्रदिप काफ्ले",
+      "c": "ओम‌मणि तामाङ्ग",
+      "d": "सनम तामाङ्ग"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5370",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "रेडियोधर्मी तत्व रेडियम कुन वैज्ञानिकले पत्ता लगाएका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "आइज्याक न्यूटन",
+      "b": "अल्बर्ट आइन्स्टाइन",
+      "c": "बेंजामिन फ्रैंकलिन",
+      "d": "म्यारी क्युरी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5371",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "आधुनिक रेजर ब्लेडको आविष्कारको श्रेय प्रायः कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जिलेट",
+      "b": "अलेक्जेंडर ग्राहम बेल",
+      "c": "लियोनार्डो दा भिन्ची",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5372",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पेनिसिलिन को खोजकर्ता को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लुइस पास्टर",
+      "b": "अलेक्जान्डर फ्लेमिङ",
+      "c": "जोसेफ लिस्टर",
+      "d": "एडवर्ड जेनर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5373",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "\"विधुतका पिता\" भनेर प्रायः कसलाई भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "थोमस एडिसन",
+      "b": "निकोला टेस्ला",
+      "c": "माइकल फराडे",
+      "d": "जेम्स क्लर्क मैक्सवेल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5375",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "अन्तरिक्षमा पुग्ने पहिलो महिला को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "भ्यालेन्टिना तेरेस्कोवा",
+      "b": "सैली सवारी",
+      "c": "युरी गागारिन",
+      "d": "माई जेमिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5376",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“अर्थ आवर” अभियान कुन देशले सुरु गर्यो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अस्ट्रेलिया",
+      "b": "क्यानडा",
+      "c": "स्वीडेन",
+      "d": "संयुक्त राज्य अमेरिका"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5377",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "डायनामाइट को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सर अलेक्जेंडर ग्राहम बेल",
+      "b": "बेन्जामिन फ्रैंकलिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5378",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्रिस्टोफर कोलम्बसले उत्तरी अमेरिका कहिले पत्ता लगाए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १४५५",
+      "b": "सन् १४९२",
+      "c": "सन् १६७२",
+      "d": "सन् १८९२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5379",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "समुद्रको गहिराई मापनका लागि प्राथमिक रूपमा कुन उपकरणको प्रयोग गरिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अल्टिमेटर",
+      "b": "सेक्स्टेन्ट",
+      "c": "फैथोमीटर",
+      "d": "एनेमोमीटर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5380",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "साइकल को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लियो एच बेकेल्यान्ड",
+      "b": "कार्ल बेन्ज",
+      "c": "इभान्जेलिस्टा टोरिसेली",
+      "d": "किर्कप्याट्रिक म्याकमिलन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5382",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बिटक्वाइनलाई कानूनी मुद्रा रूपमा स्वीकार गर्ने पहिलो देश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जापान",
+      "b": "स्विट्जरल्यान्ड",
+      "c": "एल साल्भाडोर",
+      "d": "क्यानडा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5383",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मोबाइल फोन को आविष्कार कसले गरेका थिए ? (संघ २०७९)",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "मार्टिन कूपर",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "थोमस अल्भा एडिसन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5384",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मोबाइल फोन को आविष्कार गर्ने पहिलो कम्पनी कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मोटोरोला",
+      "b": "सामसुङ",
+      "c": "नोकिया",
+      "d": "एप्पल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5385",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "रिमोट कन्ट्रोलमा कुन किरणको प्रयोग भएको हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "इन्फ्रा रेड रे",
+      "b": "गामा रे",
+      "c": "एक्सरे",
+      "d": "अल्ट्रा भाइलट रे"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5386",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "टेलिभिजन को आविष्कारको श्रेय कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "थोमस एडिसन",
+      "b": "निकोला टेस्ला",
+      "c": "जोन लोगी बेयर्ड",
+      "d": "अलेक्जेंडर ग्राहम बेल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5387",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हसाउने ग्यास को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ प्रिस्ट",
+      "b": "हेनरी क्याभेन्डिस",
+      "c": "आन्त्वान लभोइसिये",
+      "d": "विल्हेल्म रन्ट्गेन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5388",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हिरामा कार्वनको मात्रा कति प्रतिशत हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "९५ %",
+      "b": "९७ %",
+      "c": "९९ %",
+      "d": "१०० %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5389",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "इलेक्ट्रीक जेनरेटर को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फेरेडे",
+      "b": "थोमस एडिसन",
+      "c": "मेडम क्युरी",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5390",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हाइड्रोजन ग्यास को आविष्कार कसले गरेका हुन्?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ प्रिस्ट",
+      "b": "हेनरी क्याभेन्डिस",
+      "c": "आन्त्वान लभोइसिये",
+      "d": "विल्हेल्म रन्ट्गेन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5391",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "घडी को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "पास्कल",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5393",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "रेविज रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5395",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अपूर्ण चापको सिद्धान्त पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्यालिलियो",
+      "b": "जोन डाल्टन",
+      "c": "आर्किमिडिज",
+      "d": "पाइथागोरस"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5396",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "क्षयरोगको जिवाणु सर्वप्रथम कसले पत्ता लगाएका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5397",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दूध बिग्रनबाट बचाउने विधि पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5398",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "पोलियो रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा. जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5399",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बिफर रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा. जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "एडवर्ड जेनर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5400",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "' क्वान्टम थ्योरी ' कसले प्रतिपादन गरेका हुन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "म्याक्स प्लांक",
+      "c": "रोबर्ट कोच",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5401",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "कार्य वा शक्तिको मापन गर्ने इकाइलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वाट",
+      "b": "जुल",
+      "c": "‌ओम",
+      "d": "केल्विन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5404",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "महमा सबैभन्दा बढी पाइने तत्व कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सुक्रोज",
+      "b": "फ्रुक्टोज",
+      "c": "ग्लुकोज",
+      "d": "माल्टोज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5405",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "विमान कति उचाइमा उडिरहेको छ भनी नाप्ने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "स्पीडोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "अल्टिमिटर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5406",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दूधको शुद्धता नाप्ने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ल्याक्टोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "अल्टिमिटर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5407",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "क्रिप्टोकरेन्सी कुन प्रविधिमा आधारित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "क्लाउड स्टोरेज",
+      "b": "केन्द्रीय डाटाबेस",
+      "c": "पीअर-टु-पीअर नेटवर्क",
+      "d": "ब्लकचेन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5409",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सूर्यमुखी फूल कुन तत्वका कारण सूर्य भएका दिशातर्फ फर्कन्छ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ऑक्सीजन",
+      "b": "क्याप्साइसिन",
+      "c": "क्लोरोफिल",
+      "d": "ऑक्सिन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5410",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तापको अविनाशको सिद्धान्त कसले प्रतिपादन गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "न्युटन",
+      "b": "ग्यालिलियो",
+      "c": "टेस्ला",
+      "d": "जुल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5411",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "खुर्सानी कुन तत्वका कारण पिरो हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ऑक्सीजन",
+      "b": "क्याप्साइसिन",
+      "c": "क्लोरोफिल",
+      "d": "ऑक्सिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5412",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "वर्षा नाप्ने काममा प्रयोग हुने यन्त्रको नाम के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ल्याक्टोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "रेनगज"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5413",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अन्तराष्ट्रिय जैविक विविधता दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुन २१",
+      "b": "जुन २२",
+      "c": "मे २१",
+      "d": "मे २२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4396",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रामसारमा सूचीकृत नेपालको पहिलो क्षेत्र कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "बीस हजारी ताल",
+      "b": "घोडाघोडी ताल क्षेत्र",
+      "c": "कोशी टप्पु वन्यजन्तु आरक्ष",
+      "d": "जगदीसपुर ताल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4397",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "रामसारमा सूचीकृत नेपालको पहिलो क्षेत्र कोशीटप्पु कहिले सूचीकृत भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८७-१२-१६",
+      "b": "सन् १९८७-१२-१७",
+      "c": "सन् १९८७-१२-१८",
+      "d": "सन् १९८७-१२-१९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4398",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिमसारमा पानीको गहिराइ कतिसम्म हुन सक्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "६ मि",
+      "b": "८ मि",
+      "c": "१० मि",
+      "d": "१२ मि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4399",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू कहिलेदेखि लागू भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०१५ जनवरी ०१",
+      "b": "२०१६ जनवरी ०१",
+      "c": "२०१७ जनवरी ०१",
+      "d": "२०१८ जनवरी ०१"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4400",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सन् २०२२ को तथ्यांक अनुसार नेपालमा बाघको जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२५५",
+      "b": "३५५",
+      "c": "३७६",
+      "d": "३९९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4402",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सन् २०२२ को तथ्यांक अनुसार नेपालमा कृष्णसारको जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२५५",
+      "b": "३५५",
+      "c": "३७५",
+      "d": "४२५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4403",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "गोबर ग्यासमा मिथेनको मात्रा कति प्रतिशत हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२० - ३० %",
+      "b": "३०- ४५ %",
+      "c": "४० - ५५ %",
+      "d": "५०-७० %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4404",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "तलका मध्ये क्षेत्रफलका आधारमा सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "रारा राष्ट्रिय निकुञ्ज",
+      "b": "मकालु बरुण राष्ट्रिय निकुञ्ज",
+      "c": "चितवन राष्ट्रिय निकुञ्ज",
+      "d": "पर्सा राष्ट्रिय निकुञ्ज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4405",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय बाघ दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २१",
+      "b": "जुन २५",
+      "c": "जुलाई २९",
+      "d": "सेप्टेम्बर २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4406",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व पानी दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २९",
+      "b": "जुन २२",
+      "c": "मार्च २२",
+      "d": "सेप्टेम्बर १२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4408",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "हरितगृह कसले पत्ता लगाएका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "शेरउड रोल्यान्ड",
+      "b": "जोसेफ फौरियर",
+      "c": "आर्थिनस",
+      "d": "वेरिन जिन फेरियर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4410",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व पृथ्वी दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मे २१",
+      "b": "जुन २२",
+      "c": "मार्च २२",
+      "d": "अप्रिल २२"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4411",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व सम्पदा दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अप्रिल १८",
+      "b": "अप्रिल २२",
+      "c": "अप्रिल २५",
+      "d": "अप्रिल ३१"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4412",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "कोशी टप्पु वन्यजन्तु आरक्षको स्थापना कहिले भएको हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०३०",
+      "b": "२०३२",
+      "c": "२०४०",
+      "d": "२०४२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4413",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू कती ओटा छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१५",
+      "b": "१७",
+      "c": "१९",
+      "d": "२१"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4414",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालका लागि सान्दर्भिक नभएको दिगो विकासकाको लक्ष्य कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१२",
+      "b": "१३",
+      "c": "१४",
+      "d": "१५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4415",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "विश्व वातावरण दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुन ३",
+      "b": "जुन ४",
+      "c": "जुन ५",
+      "d": "जुलाई ५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4417",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एजेन्डा २१ कहिले पारित गरियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८५",
+      "b": "सन् १९९२",
+      "c": "सन् २०००",
+      "d": "सन् २०१०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4419",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सबैलाई समावेशी, समतामूलक गुणस्तरीय शिक्षा ‍दिग‍ो विकासको कुन लक्ष्यसँग सम्बन्धित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लक्ष्य ३",
+      "b": "लक्ष्य ४",
+      "c": "लक्ष्य ७",
+      "d": "लक्ष्य ८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4421",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "‘दिगो विकास’ शब्द सबैभन्दा सुरूमा प्रयोग कसले गरेक थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्रो हार्लेम बुटल्यान्ड",
+      "b": "बार्बरा वार्ड",
+      "c": "डेविट वलेल",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4422",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बार्बरा वार्ड कुन देशका नागरिक हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "बेलायत",
+      "b": "फ्रान्स",
+      "c": "अमेरिका",
+      "d": "रूस"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4423",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना, २०७८ मा प्रश्नावली संख्या कति रहेको थियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "७० वटा",
+      "b": "८० वटा",
+      "c": "९० वटा",
+      "d": "५० वटा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4424",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार प्रति परिवार औसतमा कति सदस्य रहेको छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४.३७",
+      "b": "४.७९",
+      "c": "४.६७",
+      "d": "४.७८"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4425",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रदेशगत रूपमा जनसंख्या विवरण हेर्दा सबैभन्दा कम जनसंख्या कुन प्रदेशमा छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मधेस",
+      "b": "बागमती",
+      "c": "कर्णाली",
+      "d": "कोशी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4426",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रदेशगत रूपमा जनसंख्या विवरण हेर्दा सबैभन्दा धेरै जनसंख्या कुन प्रदेशमा छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मधेश",
+      "b": "बागमती",
+      "c": "कर्णाली",
+      "d": "कोशी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4427",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा जनगणना दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "असोज १",
+      "b": "असार ८",
+      "c": "असार १०",
+      "d": "असोज २"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4428",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको वार्षिक औसत जनसंख्या वृद्धिदर कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२.६४%",
+      "b": "०.९४ %",
+      "c": "०.९२ %",
+      "d": "०.७८ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4429",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "विश्व जनसंख्या दिवस कहिले मनाइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जुलाई ११",
+      "b": "जुलाई २२",
+      "c": "जुलाई २७",
+      "d": "जुलाई २९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4430",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार धेरै जनसंख्या वृद्धि दर भएको प्रदेश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कोशी",
+      "b": "बागमती",
+      "c": "गण्डकी",
+      "d": "लुम्बिनी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4431",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "जलवायु परिवर्तन सम्बन्धी ध्यानाकर्षण गर्नको लागि नेपालको मन्त्रिपरिषदको बैठक कालापत्थरमा कहिले बसेको थियो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वि.सं. २०६७ मंसिर १९",
+      "b": "वि.सं. २०६६ मंसिर २९",
+      "c": "वि.सं. २०६६ मंसिर १९",
+      "d": "वि.सं. २०६६ मंसिर ३०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4432",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मालदिभ्सको मन्त्रीपरिषद्‌को बैठक पानीमुनि कहिले बस्यो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् २००९ अक्टोबर २६",
+      "b": "सन् २००९ अक्टोबर १७",
+      "c": "सन् २००९ अक्टोबर १९",
+      "d": "सन् २००९ अक्टोबर १९"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4433",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार कम जनसंख्या वृद्धि दर भएको प्रदेश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कोशी",
+      "b": "बागमती",
+      "c": "लुम्बिनी",
+      "d": "गण्डकी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4434",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार काठ दाउराबाट खाना बनाउने जनसंख्या कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४४.३ %",
+      "b": "५१ %",
+      "c": "५१.६%",
+      "d": "५६.७८%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4436",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार बिजुलीबाट खाना बनाउने जनसंख्या कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "०.५ %",
+      "b": "०.६७ %",
+      "c": "०.९८ %",
+      "d": "२.५ %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4437",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार साधारण मोबाइल फोन हुने परिवारको प्रतिशत कति रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "७३.१५ %",
+      "b": "८२ %",
+      "c": "९२ %",
+      "d": "९५ %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4439",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालमा वनक्षेत्रले कुल भू-भागको कति प्रतिशत भू-भाग ओगटेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "४२.७९ %",
+      "b": "४५.३१ %",
+      "c": "४९ %",
+      "d": "४४.८ %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4440",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "कुन शहरले १९९२ मा पृथ्वी शिखर सम्मेलनको आयोजना गरेको थियो जहाँ एजेन्डा २१ अपनाइयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जेनेभा",
+      "b": "रियो दि जेनेरियो",
+      "c": "न्यूयोर्क",
+      "d": "क्योटो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4441",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको पहिलो खुला दिशामुक्त जिल्ला कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "झापा",
+      "b": "काठमाडाै‌ँ",
+      "c": "कास्की",
+      "d": "ललितपुर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4443",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्योटो प्रोटोकल कहिलेदेखि लागू भएको हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् २००५ फेब्रुअरी १७",
+      "b": "सन् २००५ फेब्रुअरी १६",
+      "c": "सन् २००६ फेब्रुअरी १६",
+      "d": "सन् २००७ फेब्रुअरी १६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4444",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "सन् २०१५ सेप्टेम्बर २५ मा राष्ट्रसंघीय महासभाबाट पारित विश्व विकासको कति वर्षे मार्गचित्र नै दिगो विकास लक्ष्य हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१५",
+      "b": "२५",
+      "c": "३०",
+      "d": "५०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4447",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दिगो विकासका लक्ष्यहरू अन्तर्गत कतिवटा परिमाणात्मक लक्ष्य रहेका छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "१७",
+      "b": "२१",
+      "c": "६५",
+      "d": "१६९"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4448",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार धाराबाट पानी पिउने कति प्रतिशत छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "५५ %",
+      "b": "५६ %",
+      "c": "५७ %",
+      "d": "५८ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4449",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार हाते पम्पबाट पानी पिउने कति प्रतिशत छन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२७.९ %",
+      "b": "२८.८ %",
+      "c": "२९.२ %",
+      "d": "२९.८ %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4450",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार महिला परिवारमूलि कति प्रतिशत छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "३१.५५%",
+      "b": "३५%",
+      "c": "४१.८९%",
+      "d": "४८%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4451",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार राउटे को जनसंख्या कति छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "५२५",
+      "b": "५४४",
+      "c": "५५५",
+      "d": "५६६"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4452",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार शौचालय नपुगेको जनसंख्या कति प्रतिशत छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "९५.८ %",
+      "b": "४.५ %",
+      "c": "६ %",
+      "d": "१० %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4453",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सर्वप्रथम अम्ल वर्षा भएको भनी पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्रो हार्लेम बुटल्यान्ड",
+      "b": "रबर्ट राङ्गस स्मिथ",
+      "c": "जि सि फर्मायन",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4454",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपाल कहिले रामसार कन्भेन्सन मा सामेल भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १९८३",
+      "b": "सन् १९८५",
+      "c": "सन् १९८७",
+      "d": "सन् १९९२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4456",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा चमेरा संरक्षण क्षेत्र कहाँ रहेको छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ककनी (नुवाकोट",
+      "b": "कसरा (चितवन",
+      "c": "दमक (झापा)",
+      "d": "देवानगढ़िया (नवलपरासी)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4457",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा जैविक विविधता सूचना केन्द्र कहाँ छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ककनी (नुवाकोट",
+      "b": "कसरा (चितवन",
+      "c": "टिकौली (चितवन)",
+      "d": "देवानगढ़िया नवलपरासी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4458",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार नगरपालिकामा बसोबास गर्ने जनसंख्या कति प्रतिशत छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "६३.२%",
+      "b": "६४.९%",
+      "c": "६५.५%",
+      "d": "६६.२%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4459",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "राष्ट्रिय जनगणना २०७८ अनुसार गाउपालिकामा बसोबास गर्ने जनसंख्या कति प्रतिशत छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "३३.२%",
+      "b": "३२.९%",
+      "c": "३३.८%",
+      "d": "३५.२%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4460",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालका ३३५० मिटरदेखि ५००० मिटरसम्मको उचाइमा पाइने वनलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टुन्ड्रा वन",
+      "b": "समशितोष्ण पतझर वन",
+      "c": "लेकाली वन",
+      "d": "समशितोष्ण कोणधारी वन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4461",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा हाल कति प्रकारका संरक्षित स्तनधारी जन्तुहरू रहेका छन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२४",
+      "b": "२५",
+      "c": "२६",
+      "d": "२७"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4462",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "लाटोकोसेरोलाई के को प्रतिक मानिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "न्याय",
+      "b": "शान्ति",
+      "c": "प्रेम",
+      "d": "बुद्धि र विवेक"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4463",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा वातावरण परिषद्को अध्यक्ष को रहने व्यवस्था छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "मुख्य सचिव",
+      "c": "राष्ट्रपति",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4465",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "ग्लोबल ५०० पुरस्कार के सँग सम्बन्धित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वातावरण",
+      "b": "संगित",
+      "c": "चिकित्सा",
+      "d": "चलचित्र"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4467",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "ग्लोबल ५०० पुरस्कार प्राप्त गर्ने पहिलो नेपाली को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डा. सन्दुक रुइत",
+      "b": "डा. कृष्ण कुमार पाण्डे",
+      "c": "डा. बाबुराम भट्टराई",
+      "d": "डा. विशाल ढकाल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4468",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "नेपालमा वातावरण विभागको स्थापना कहिले भयो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "२०६८/४/१२",
+      "b": "२०६९/४/१२",
+      "c": "२०६८/५/१२",
+      "d": "२०६९/५/१२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4469",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "इन्सुलिन को खोजकर्ता को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अलेक्जान्डर फ्लेमिङ",
+      "b": "जोनास साल्क",
+      "c": "फ्रेडेरिक ब्यान्टिङ र चार्ल्स बेस्ट",
+      "d": "लुइ पास्टर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5325",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "हवाइजहाज को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट र निकोला टेस्ला",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "वोरभिल र विलभर राइट",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5329",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "लिभरको सिद्धान्तका प्रतिपादक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "आर्किमिडिज",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "निकोलस कोपर्निकस",
+      "d": "अलेक्ज्याण्डर फ्लेमिङ्ग"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5331",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एयर कन्डिशनर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5335",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "संरचनामा कन्क्रिटको व्यापक प्रयोग गर्ने आधार स्थापना गर्ने आधुनिक हाइड्रोलिक सीमेन्टको आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ एस्पडिन",
+      "b": "थोमस एडिसन",
+      "c": "अलेक्जेन्डर फ्लेमिङ",
+      "d": "लिओनार्डो दा भिन्ची"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5338",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "नेपालको पहिलो वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "गेहेन्द्र शमशेर",
+      "b": "रत्न मान तुलाधर",
+      "c": "महावीर पुन",
+      "d": "दयावीर सिंह कंसाकार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5343",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सिस्मोग्राफ को आविष्कारको श्रेय कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्यालिलियो ग्यालिली",
+      "b": "चार्ल्स रिक्टर",
+      "c": "जोन मिल्ने",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5345",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "व्यारोमिटर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जिंग्स",
+      "b": "डैमलर",
+      "c": "इ.टोरीसेली",
+      "d": "पास्कल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5346",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "डिजेल इन्जिनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "चेस्टर कार्लसन",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "रुडोल्फ डिजेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5347",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "फोटोकपी मेसिनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "चेस्टर कार्लसन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5348",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "डायानामोका आविष्कारक को हुन्",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "चेस्टर कार्लसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5349",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "सूर्यलाई हेर्न सकिने यन्त्र कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टेलिस्कोप",
+      "b": "हेलिस्कोप",
+      "c": "थि‌ओडोलाइट",
+      "d": "पेरिस्कोप"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5350",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "टेलिफोन को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अलेक्जेन्डर ग्राहम वेल",
+      "b": "थोमस एडिसन",
+      "c": "पास्कल",
+      "d": "शालिमार"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5351",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "थर्मामिटर को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डेनेश पपिन",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "जेम्स वाट",
+      "d": "जिलेट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5352",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "स्टीम इन्जिन को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "डेनेश पपिन",
+      "b": "ग्यालिलियो ग्यालिलि",
+      "c": "जेम्स वाट",
+      "d": "जिलेट"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5353",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "आँखाले सोझै हेर्न नमिल्ने वस्तुलाई हेर्न प्रयोग गरिने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "टेलिस्कोप",
+      "b": "हेलिस्कोप",
+      "c": "थि‌ओडोलाइट",
+      "d": "पेरिस्कोप"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5354",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "एनिमोमिटर केको लागि प्रयोग गरिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वायुमण्डलीय चाप नाप्न",
+      "b": "हावाको गति निर्धारण गर्न",
+      "c": "आर्द्रता मापन गर्न",
+      "d": "तापमान भिन्नताहरू रेकर्ड गर्न"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5355",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्यालकुलेटरका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "पास्कल",
+      "d": "वाटरमेन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5356",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "फाउन्टेन पेनका आविष्कारक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वाटरमेन",
+      "b": "गेडार्ड",
+      "c": "फुल्टन",
+      "d": "साइमन लेक"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5357",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "अन्तरिक्षमा पुग्ने पहिलो व्यक्ति को थिए?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "युरी गागरिन",
+      "b": "नील आर्मस्ट्रङ",
+      "c": "भ्यालेन्टिना तेरेस्कोवा",
+      "d": "जोन ग्लेन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5358",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "रोबर्ट अपेनहाइमरले कुन वैज्ञानिक परियोजनामा महत्वपूर्ण भूमिका खेल्नुभएको थियो",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मानव जेनोम परियोजना",
+      "b": "एपोलो चन्द्रमा अवकाश कार्यक्रम",
+      "c": "म्यानह्याटन परियोजना",
+      "d": "हबल अंतरिक्ष दृष्टिकोण यन्त्र परियोजना"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5360",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "हवाइजहाजको उडानको तथ्याङ्‌क र आवाजलाई ग्रहण गर्ने यन्त्र \"ब्ल्याक बक्स\" को रंग कस्तो हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "कालो",
+      "b": "सेतो",
+      "c": "हरियो",
+      "d": "हलका पहेंलो"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5364",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "इलोक्ट्रोन को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जे.जे थोमसोन",
+      "b": "बेन्जामिन फ्रैंकलिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5365",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "प्रेसर कुकुर को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए .एल. बिग्रेट",
+      "b": "डेनेश पपिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "जेम्स वाट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5366",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "ग्रामोफोन को आविष्कार कसले गरेका थिए?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "थोमस अल्भा एडिसन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5367",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मानव शरीरको सबैभन्दा ठूलो ग्रन्थी कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "किड्नी",
+      "b": "कलेजो",
+      "c": "थाइरोइड",
+      "d": "पैन्क्रियास"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5368",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "नेपालको प्रथम टेस्ट ट्यूब बेबीको नाम के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जवाहर लाल शाह",
+      "b": "प्रदिप काफ्ले",
+      "c": "ओम‌मणि तामाङ्ग",
+      "d": "सनम तामाङ्ग"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5370",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "रेडियोधर्मी तत्व रेडियम कुन वैज्ञानिकले पत्ता लगाएका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "आइज्याक न्यूटन",
+      "b": "अल्बर्ट आइन्स्टाइन",
+      "c": "बेंजामिन फ्रैंकलिन",
+      "d": "म्यारी क्युरी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5371",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "आधुनिक रेजर ब्लेडको आविष्कारको श्रेय प्रायः कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जिलेट",
+      "b": "अलेक्जेंडर ग्राहम बेल",
+      "c": "लियोनार्डो दा भिन्ची",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5372",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "पेनिसिलिन को खोजकर्ता को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लुइस पास्टर",
+      "b": "अलेक्जान्डर फ्लेमिङ",
+      "c": "जोसेफ लिस्टर",
+      "d": "एडवर्ड जेनर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5373",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "\"विधुतका पिता\" भनेर प्रायः कसलाई भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "थोमस एडिसन",
+      "b": "निकोला टेस्ला",
+      "c": "माइकल फराडे",
+      "d": "जेम्स क्लर्क मैक्सवेल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5375",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "अन्तरिक्षमा पुग्ने पहिलो महिला को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "भ्यालेन्टिना तेरेस्कोवा",
+      "b": "सैली सवारी",
+      "c": "युरी गागारिन",
+      "d": "माई जेमिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5376",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "“अर्थ आवर” अभियान कुन देशले सुरु गर्यो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अस्ट्रेलिया",
+      "b": "क्यानडा",
+      "c": "स्वीडेन",
+      "d": "संयुक्त राज्य अमेरिका"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5377",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "डायनामाइट को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सर अलेक्जेंडर ग्राहम बेल",
+      "b": "बेन्जामिन फ्रैंकलिन",
+      "c": "थोमस अल्वा एडिसन",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5378",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "क्रिस्टोफर कोलम्बसले उत्तरी अमेरिका कहिले पत्ता लगाए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सन् १४५५",
+      "b": "सन् १४९२",
+      "c": "सन् १६७२",
+      "d": "सन् १८९२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5379",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "समुद्रको गहिराई मापनका लागि प्राथमिक रूपमा कुन उपकरणको प्रयोग गरिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "अल्टिमेटर",
+      "b": "सेक्स्टेन्ट",
+      "c": "फैथोमीटर",
+      "d": "एनेमोमीटर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5380",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "साइकल को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "लियो एच बेकेल्यान्ड",
+      "b": "कार्ल बेन्ज",
+      "c": "इभान्जेलिस्टा टोरिसेली",
+      "d": "किर्कप्याट्रिक म्याकमिलन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5382",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "बिटक्वाइनलाई कानूनी मुद्रा रूपमा स्वीकार गर्ने पहिलो देश कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जापान",
+      "b": "स्विट्जरल्यान्ड",
+      "c": "एल साल्भाडोर",
+      "d": "क्यानडा"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5383",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मोबाइल फोन को आविष्कार कसले गरेका थिए ? (संघ २०७९)",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "मार्टिन कूपर",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "थोमस अल्भा एडिसन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5384",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "मोबाइल फोन को आविष्कार गर्ने पहिलो कम्पनी कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "मोटोरोला",
+      "b": "सामसुङ",
+      "c": "नोकिया",
+      "d": "एप्पल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5385",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "रिमोट कन्ट्रोलमा कुन किरणको प्रयोग भएको हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "इन्फ्रा रेड रे",
+      "b": "गामा रे",
+      "c": "एक्सरे",
+      "d": "अल्ट्रा भाइलट रे"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5386",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "टेलिभिजन को आविष्कारको श्रेय कसलाई दिइन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "थोमस एडिसन",
+      "b": "निकोला टेस्ला",
+      "c": "जोन लोगी बेयर्ड",
+      "d": "अलेक्जेंडर ग्राहम बेल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5387",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हसाउने ग्यास को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ प्रिस्ट",
+      "b": "हेनरी क्याभेन्डिस",
+      "c": "आन्त्वान लभोइसिये",
+      "d": "विल्हेल्म रन्ट्गेन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5388",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हिरामा कार्वनको मात्रा कति प्रतिशत हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "९५ %",
+      "b": "९७ %",
+      "c": "९९ %",
+      "d": "१०० %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5389",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "इलेक्ट्रीक जेनरेटर को आविष्कार कसले गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "माइकल फेरेडे",
+      "b": "थोमस एडिसन",
+      "c": "मेडम क्युरी",
+      "d": "अल्फ्रेड नोबेल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5390",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "हाइड्रोजन ग्यास को आविष्कार कसले गरेका हुन्?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोसेफ प्रिस्ट",
+      "b": "हेनरी क्याभेन्डिस",
+      "c": "आन्त्वान लभोइसिये",
+      "d": "विल्हेल्म रन्ट्गेन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5391",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "घडी को आविष्कार कसले गरेका थिए ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ए.एल.ब्रिगेट",
+      "b": "विल्हेल्म रन्ट्गेन",
+      "c": "पास्कल",
+      "d": "विलिस एच. केरियर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5393",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "रेविज रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5395",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "अपूर्ण चापको सिद्धान्त पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ग्यालिलियो",
+      "b": "जोन डाल्टन",
+      "c": "आर्किमिडिज",
+      "d": "पाइथागोरस"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5396",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "क्षयरोगको जिवाणु सर्वप्रथम कसले पत्ता लगाएका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5397",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दूध बिग्रनबाट बचाउने विधि पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5398",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "पोलियो रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा. जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "रोबर्ट कोच"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5399",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "बिफर रोगविरुद्धको खोप पत्ता लगाउने वैज्ञानिक को हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "डा. जोनास साल्क",
+      "c": "लुई पाश्चर",
+      "d": "एडवर्ड जेनर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5400",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "' क्वान्टम थ्योरी ' कसले प्रतिपादन गरेका हुन ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "जोन डाल्टन",
+      "b": "म्याक्स प्लांक",
+      "c": "रोबर्ट कोच",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5401",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "कार्य वा शक्तिको मापन गर्ने इकाइलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "वाट",
+      "b": "जुल",
+      "c": "‌ओम",
+      "d": "केल्विन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5404",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "महमा सबैभन्दा बढी पाइने तत्व कुन हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "सुक्रोज",
+      "b": "फ्रुक्टोज",
+      "c": "ग्लुकोज",
+      "d": "माल्टोज"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5405",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "विमान कति उचाइमा उडिरहेको छ भनी नाप्ने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "स्पीडोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "अल्टिमिटर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5406",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "दूधको शुद्धता नाप्ने यन्त्रलाई के भनिन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ल्याक्टोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "अल्टिमिटर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5407",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "क्रिप्टोकरेन्सी कुन प्रविधिमा आधारित छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "क्लाउड स्टोरेज",
+      "b": "केन्द्रीय डाटाबेस",
+      "c": "पीअर-टु-पीअर नेटवर्क",
+      "d": "ब्लकचेन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5409",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "सूर्यमुखी फूल कुन तत्वका कारण सूर्य भएका दिशातर्फ फर्कन्छ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ऑक्सीजन",
+      "b": "क्याप्साइसिन",
+      "c": "क्लोरोफिल",
+      "d": "ऑक्सिन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5410",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "तापको अविनाशको सिद्धान्त कसले प्रतिपादन गरेका हुन् ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "न्युटन",
+      "b": "ग्यालिलियो",
+      "c": "टेस्ला",
+      "d": "जुल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5411",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "खुर्सानी कुन तत्वका कारण पिरो हुन्छ ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ऑक्सीजन",
+      "b": "क्याप्साइसिन",
+      "c": "क्लोरोफिल",
+      "d": "ऑक्सिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5412",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "वर्षा नाप्ने काममा प्रयोग हुने यन्त्रको नाम के हो ?",
+    "topic": "Sustainable Development, Science and Technology",
+    "options": {
+      "a": "ल्याक्टोमिटर",
+      "b": "थर्मोमिटर",
+      "c": "व्यारोमिटर",
+      "d": "रेनगज"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5413",
+    "chapter": "SECTION-III"
   }
 ]

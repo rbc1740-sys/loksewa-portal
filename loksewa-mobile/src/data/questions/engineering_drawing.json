@@ -2154,5 +2154,1545 @@
     },
     "answer": "d",
     "explanation": "Numerical solution: Changing the scale from 1:100 to 1:50 doubles linear dimensions ($50/100 = 0.5$, meaning scale factor doubles object size on paper by 2x). Since area scales with the square of the linear scale factor ($2^2 = 4$), the area occupied by the drawing increases by 400% (or becomes 4 times larger). Wait, let's look closely at the question text: 'space covered by a drawing... will increase/decrease'. If linear scale doubles, area increases by 400%, but option (d) says 'decrease 400%'. Let's check the answer key for 180: it is listed as 'd' in the provided answer table[cite: 1]."
+  },
+  {
+    "question": "What is the SI unit of length ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "inch",
+      "b": "foot",
+      "c": "meter",
+      "d": "yard"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5744",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "The primary unit of engineering drawing in civil engineering is the?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Millimeter",
+      "b": "Meter",
+      "c": "Foot",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5745",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Which of the following represents the correct conversion from millimeters to meters?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "1 mm = 0.1 m",
+      "b": "1 mm = 0.01 m",
+      "c": "1 mm = 0.001 m",
+      "d": "1 mm = 0.0001 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5746",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "In engineering drawings, angles are typically measured in which SI unit?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Degrees",
+      "b": "Radians",
+      "c": "Gradians",
+      "d": "Secant"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5747",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "If a drawing scale is 1:100, and an actual length of 10 meters is represented, what will be the length on the drawing?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "10 cm",
+      "b": "1 cm",
+      "c": "100 cm",
+      "d": "1 m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5748",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "What is the art of writing the various sizes or measurements on the finished drawing of an object ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "drafting",
+      "b": "dimensioning",
+      "c": "annotating",
+      "d": "scaling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5749",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Methods of arrangement of dimensions includes",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "chain, parallel and combined",
+      "b": "chain, superimposed and parallel",
+      "c": "parallel, perpendicular and chain",
+      "d": "chain,perpendicular and straight"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5750",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "In which of the following types of dimensioning, the dimensions are arranged only in a straight line?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Parallel dimension",
+      "b": "Chain Dimension",
+      "c": "Combined dimension",
+      "d": "Aligned dimension"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5751",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Which type of dimension arrangement is used when a number of dimensions have a common datum feature ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Parallel dimension",
+      "b": "Chain Dimension",
+      "c": "Combined dimension",
+      "d": "Aligned dimension"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5752",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Superimposed dimensioning is a simplified method of:",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "chain dimensioning",
+      "b": "parallel dimensioning",
+      "c": "combined dimensioning",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5753",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "In a unidirectional system the dimensions are ______ .",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Placed above the dimension lines",
+      "b": "Placed below the dimension lines",
+      "c": "Placed by breaking the dimension line in the middle",
+      "d": "Placed left side of the dimension line"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5754",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "In an aligned system the dimensions are __________.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Placed parallel to the dimension line",
+      "b": "Placed perpendicular to the dimension line",
+      "c": "Placed left side of the dimension line",
+      "d": "Placed right side of the dimension line"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5755",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "From the unidirectional system, it is __________.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Convenient to read dimensions from the bottom edge",
+      "b": "Convenient to read dimensions from the right-hand edge",
+      "c": "Convenient to read dimensions from the right-hand edge",
+      "d": "Convenient to read dimensions from the top edge"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5756",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "In which system of dimensioning the figures can be read from the bottom as well as the right hand side of the drawing?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Aligned system",
+      "b": "Unidirectional system",
+      "c": "Nonaligned multidirectional system",
+      "d": "Parallel system"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5757",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Which is the wrong statement regarding dimensions ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Every dimension must be given, but none should be given more than once",
+      "b": "Every dimension should be written to the left side of the drawing",
+      "c": "Dimensions should be placed outside the views",
+      "d": "A centre line should not be used as a dimension line"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5758",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Which is the wrong statement from the options below ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "As far as possible all dimensions should be given in millimeters, omitting the abbreviation mm",
+      "b": "The height of the dimension figures should be from 3 mm to 5 mm",
+      "c": "A zero must always precede the decimal point when the dimension is less than unity",
+      "d": "The dimensions should only be given in mm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5759",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Location and datum dimensions indicate __________ .",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "length",
+      "b": "diameter",
+      "c": "height",
+      "d": "position"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5760",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Size or functional dimensions does not indicate ______ .",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "thickness",
+      "b": "radius",
+      "c": "depth",
+      "d": "position"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5761",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "While dimensioning holes, slots, etc. how would their number be specified?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Number written on the dimension line",
+      "b": "Number is written of the leader line",
+      "c": "Number is written on the corner of page",
+      "d": "Number is written on the side of the hole or slot"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5762",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Two types of dimensions required on drawing are _____ and ______ .",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Linear and angular",
+      "b": "Size and shape",
+      "c": "Size and location",
+      "d": "Length and width"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5765",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "The space between two sentences should be left equal to ______ the height of the letter.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "twice",
+      "b": "three times",
+      "c": "four times",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5766",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "24 . Values for dimensions written out of scales should be",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "underlined",
+      "b": "kept normal",
+      "c": "make italic",
+      "d": "make bold"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5767",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "Dimensioning doesn’t represent _____ .",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "height",
+      "b": "length",
+      "c": "depth",
+      "d": "material"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5768",
+    "chapter": "Unit, Dimension and their conversion with special reference to SI system"
+  },
+  {
+    "question": "The view actually appears to the observer when viewed from a fixed position is called",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "isometric drawing",
+      "b": "orthographic projection",
+      "c": "perspective drawing",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5769",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "Which is not a pictorial projection?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "oblique projection",
+      "b": "orthographic projection",
+      "c": "trigonometric",
+      "d": "axonometric projection"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5772",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In case of perspective projection, picture plane is placed",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "between eye and object",
+      "b": "outside of eye towards eye",
+      "c": "outside of object towards object",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5776",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "Normally perspective projection is used by _____ to represent the object.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "engineer",
+      "b": "doctor",
+      "c": "manufacturer in marketing",
+      "d": "painter"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5777",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "Picture plane is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "transparent",
+      "b": "opaque",
+      "c": "semi transparent",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5778",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "Ground plane is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "horizontal plane",
+      "b": "vertical plane",
+      "c": "inclined plane",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5780",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "The principal of oblique view drawing is to keep:",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "width axes at 90°",
+      "b": "width and height axes at 90°",
+      "c": "width, height and depth axes at 90°",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5784",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In an oblique drawing, all of the following angles are commonly used for drawing the depth axis except",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "30 degree",
+      "b": "45 degree",
+      "c": "60 degree",
+      "d": "90 degree"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5785",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "The type of projection when projectors are parallel to each other but are at an angle other than 90 degrees to the plane of projection is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "orthographic",
+      "b": "oblique",
+      "c": "perspective",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5786",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In orthographic projections, the rays are assumed to",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "diverge from station point",
+      "b": "converge from station point",
+      "c": "be parallel",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5787",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In orthographic projection which one have all three views same",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "cube",
+      "b": "circle",
+      "c": "sphere",
+      "d": "both (a) and (c) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5790",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In third angle projection top view is put",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "above front view",
+      "b": "below font view",
+      "c": "side view",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5791",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In case of orthographic projection the number of views generally used are",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5792",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In orthographic projection, the projector’s are always ____ to the plane of projection.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "perpendicular",
+      "b": "parallel",
+      "c": "60 degree",
+      "d": "30 degree"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5793",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In the Oblique projection an object is represented by how many views?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "one view",
+      "b": "two views",
+      "c": "three views",
+      "d": "four views"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5794",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "In isometric projection, the receding lines are drawn with the horizontal at",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "45 degree",
+      "b": "30 degree",
+      "c": "60 degree",
+      "d": "120 degree"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5800",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "The value of the ratio of isometric length to true length is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "0.851",
+      "b": "0.815",
+      "c": "0.5",
+      "d": "0.120"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5801",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "The projection in which the length, breadth and height of an object is shown in one view is known as",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "pictorial projection",
+      "b": "isometric projection",
+      "c": "cavalier projection",
+      "d": "cabinet projection"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5802",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "The angle between isometric axes is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "60°",
+      "b": "90°",
+      "c": "120°",
+      "d": "180°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5803",
+    "chapter": "Elementantary idea of drawing-I"
+  },
+  {
+    "question": "The most important material for drawing",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "pencil and eraser",
+      "b": "paper and eraser",
+      "c": "paper and pencil",
+      "d": "T-scale"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5804",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The following is not included in title block of drawing sheet",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "sheet No.",
+      "b": "scale",
+      "c": "method of projection",
+      "d": "size of sheet"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5805",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "In standard A series drawing sheet, the ratio of length of shorter side to longer side",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "1:2",
+      "b": "3:4",
+      "c": "1 : √2",
+      "d": "√3 : 2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5806",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The paper size of A4 is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "148 * 210 mm",
+      "b": "210 * 297 mm",
+      "c": "297 * 420 mm",
+      "d": "420 * 594 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5807",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The paper size of A3 is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "297 * 420",
+      "b": "210 * 297",
+      "c": "420 * 594",
+      "d": "594 * 841"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5808",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The paper size of A2 is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "297 * 420",
+      "b": "210 * 297",
+      "c": "420 * 594",
+      "d": "594 * 841"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5809",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "Number pieces of A4 size paper from A0 is equal to",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "8",
+      "d": "16"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5810",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "Number pieces of A4 size paper from A3 is equal to",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "8",
+      "d": "16"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5811",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The edge of drawing board where T-square is made to slide is called",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "sliding edge",
+      "b": "fixing edge",
+      "c": "working wedge",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5812",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "Working edge of the drawing board is kept ______ of the user.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "left",
+      "b": "right",
+      "c": "ahead",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5813",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The working edge of T-square is used to",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "draw horizontal line",
+      "b": "as a base of set square",
+      "c": "draw horizontal parallel line",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5814",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "To prevent warping of the board, _____ are cleated at its back.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "packing",
+      "b": "wooden block",
+      "c": "batten",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5816",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The two parts of T-square are _____ and _____.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "vertical and horizontal edge",
+      "b": "straight and slant edge",
+      "c": "stock and blade",
+      "d": "blade and batten"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5817",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "To ensure that everyone understands what the symbols represent on the drawing sheet it is customary to include a:",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "List",
+      "b": "Part number",
+      "c": "Legend",
+      "d": "Layer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5818",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "To draw or measure angles ______ is used.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "set-square",
+      "b": "T-square",
+      "c": "protractor",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5819",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "When you want to make the letters of a line of text narrower, you would set its:",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "aspect",
+      "b": "scale",
+      "c": "alignment",
+      "d": "font"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5820",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "To remove unnecessary lines ____ is used.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "duster",
+      "b": "chalk",
+      "c": "sand box",
+      "d": "eraser"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5823",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "Set squares are used for drawing _______ lines.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "vertical",
+      "b": "inclined",
+      "c": "parallel",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5825",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The purpose of making the drawing board with seasoned softwood",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "easy to carry",
+      "b": "for fixing of drawing paper with the help of drawing pin",
+      "c": "to match with T-square",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5826",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The drawing for municipality is done at scale",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "1 inch = 8 feet",
+      "b": "1:50",
+      "c": "1:100",
+      "d": "both (a) and (c)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5829",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "Tracing paper is also termed as",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "drafting vellum",
+      "b": "drafting film",
+      "c": "drafting media",
+      "d": "drafting line"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5830",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The most suitable angle for the cone of the vision for drawing perspective is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "60 degree",
+      "b": "45 degree",
+      "c": "30 degree",
+      "d": "15 degree"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5832",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "The best drawing paper used for watercolor is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "handmade paper (hand made drawing sheet)",
+      "b": "tracing drawing sheet",
+      "c": "ordinary drawing sheet",
+      "d": "ammonia paper"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5833",
+    "chapter": "Elementantary idea of drawing-II"
+  },
+  {
+    "question": "Which type of line is thick and black ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "visible line",
+      "b": "construction line",
+      "c": "center lines",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5839",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Which type of line is thin and light ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "visible line",
+      "b": "construction line",
+      "c": "center lines",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5840",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "For drawing thin lines of uniform thickness the pencil should be sharpened in the form of ______.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "chisel edge",
+      "b": "conical",
+      "c": "pointed",
+      "d": "circular"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5841",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Which type of line has precedence over all other types of lines ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "a hidden line",
+      "b": "a center line",
+      "c": "a visible line",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5843",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Dimension lines should be drawn at least ________mm away from the outlines and from each other.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5844",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "While dimensioning a circle, the leader line and the dimension line are drawn at which angle with respect to each other?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "45˚",
+      "b": "30˚",
+      "c": "0˚ or 180˚",
+      "d": "90˚"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5845",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Pencil of _______ grade sharpened sketching in the form of ______ is used for sketching",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "soft & conical point",
+      "b": "low and conical point",
+      "c": "hard & conical point",
+      "d": "chisel & conical point"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5846",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Which pencil is used for thinner lines?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "H",
+      "b": "B",
+      "c": "2B",
+      "d": "2H"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5847",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "9H pencil is ____ than the 7H pencil.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "softer",
+      "b": "harder",
+      "c": "medium",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5848",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "The lines which are drawn to represent visible edges and surface boundaries of objects are called",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "outlines",
+      "b": "principle lines",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5850",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Which of the following lines are used to show that the object is cut and then viewed ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Hidden lines",
+      "b": "Leader lines",
+      "c": "Centre lines",
+      "d": "Hatching lines"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5853",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Hatching line is a line which make an angle of 45 degree with",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "horizontal",
+      "b": "vertical",
+      "c": "main line of the section",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5854",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Line composed of closely and evenly spaced short dashes in a drawing represents",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "visible edges",
+      "b": "hidden edges",
+      "c": "hatching",
+      "d": "center line"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5856",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "The dimension lines are terminated in the form of :",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "arrows or ticks",
+      "b": "arrows",
+      "c": "ticks",
+      "d": "ticks or dots"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5857",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "The ratio of length to depth of arrow head is :",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "2:1",
+      "b": "3:1",
+      "c": "4:1",
+      "d": "5:1"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5858",
+    "chapter": "Drafting techniques and methods in common practice"
+  },
+  {
+    "question": "Representative fraction is the ______________ .",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "ratio of the length in drawing to the actual length",
+      "b": "ratio of the actual length to the length in drawing",
+      "c": "reciprocal of actual length",
+      "d": "square of the length in drawing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5859",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "The scale of a drawing is given as 15:1. What is the representative fraction?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "15",
+      "b": "0.15",
+      "c": "1.5",
+      "d": "1/15"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5860",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "A line of length 4 mm is represented by a line of 4 cm. What is the representative factor?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "1:1",
+      "b": "10:1",
+      "c": "1:10",
+      "d": "1:100"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5861",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "What is the type of scale in which the representative fraction is 1:1?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Enlarged scale",
+      "b": "Reduced scale",
+      "c": "Full size scale",
+      "d": "Graphical scale"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5862",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Which of the following scales is a reducing scale?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "3:2",
+      "b": "1:3",
+      "c": "1:1",
+      "d": "1:0.4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5863",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "A scale which is numerically represented on the drawing sheet is called as _____.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Graphical scale",
+      "b": "Engineer’s scale",
+      "c": "Reducing scale",
+      "d": "Full size scale"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5864",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Which of the following scale is used in survey maps ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Engineer’s scale",
+      "b": "Diagonal scale",
+      "c": "Graphical scale",
+      "d": "Vernier scale"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5865",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "What is the formula for calculating the length of the scale?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Minimum length to be measured x R.F.",
+      "b": "Minimum length to be measured ÷ R.F.",
+      "c": "Maximum length to be measured ÷ R.F.",
+      "d": "Maximum length to be measured x R.F."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5866",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "What are the two parts of the Vernier scale?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Primary scale and secondary scale",
+      "b": "Plain scale and comparative scale",
+      "c": "Vernier scale and secondary scale",
+      "d": "Primary scale and Vernier scale"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5867",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Which of the following scales is a plain scale with fully divided minor divisions ?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Diagonal scale",
+      "b": "Vernier scale",
+      "c": "Primary scale",
+      "d": "Comparative scale"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5868",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Which of the following is used in checking the instruments to measure angles with great accuracy?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Circular Vernier scale",
+      "b": "Plain scale",
+      "c": "Diagonal scale",
+      "d": "Comparative scale"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5869",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Which of the following scales represent two different units having the same representative fraction?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Plain scale",
+      "b": "Diagonal scale",
+      "c": "Comparative scale",
+      "d": "Vernier scale"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5870",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "What is not essential information to construct a scale from the following?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "The R.F. of the scale",
+      "b": "The units to represent",
+      "c": "Length of scale",
+      "d": "Maximum length"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5871",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "The scale used in micrometer is __________ .",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Plain scale",
+      "b": "Comparative scale",
+      "c": "Diagonal scale",
+      "d": "Circular vernier scale"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5872",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Measurements from scale to the drawing are transferred with the aid of",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "scale",
+      "b": "compass",
+      "c": "divider",
+      "d": "lengthening bar"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5873",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "______ is used for setting short equal distances.",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "compass",
+      "b": "bow divider",
+      "c": "scale",
+      "d": "lengthening bar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5874",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "In a topographic drawing the symbols representing natural features are drawn by free hand while artificial works are drawn by",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "free hand",
+      "b": "mechanically",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5876",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Site plan is:",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "structural plan",
+      "b": "architectural plan",
+      "c": "section plan",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5878",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Concept drawing is normally provided for the work of",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "tender",
+      "b": "construction",
+      "c": "revise estimate",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5879",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "As-built drawings are prepared:",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Before construction",
+      "b": "Simultaneously with construction",
+      "c": "After construction",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5882",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "The main purpose of as built drawing is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "maintenance of service work",
+      "b": "dimensioning",
+      "c": "profession",
+      "d": "to award tender"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5883",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "According to NBC 105:2020, when factored axial compressive stress exceeds 0.08 fck, the minimum dimension of a column is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "300 mm",
+      "b": "shall not be less than 20 db",
+      "c": "Maximum of above (a) and (b)",
+      "d": "Minimum of above (a) and (b)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5884",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "According to NBC 105:2020, when factored axial compressive stress in beam does not exceed 0.08 fck, minimum width of beam is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "200 mm",
+      "b": "250 mm",
+      "c": "300 mm",
+      "d": "350 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5885",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Working drawings:",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "must provide complete information to produce the object",
+      "b": "need not provide complete information",
+      "c": "should be supplemented by further details",
+      "d": "should be supplemented by specifications"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "5886",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "A technical drawing of an object that shows the relationship or order of assembly of the various parts is known",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "orthographic projection",
+      "b": "exploded view drawing",
+      "c": "compacted view drawing",
+      "d": "axonometric drawing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5888",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "According to NBC 105:2020, when factored axial compressive stress does not exceed 0.08 fck, beams shall not have depth more than",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "1/2 th of clear span",
+      "b": "1/3 th of clear span",
+      "c": "1/4 th of clear span",
+      "d": "1/5 th of clear span"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5889",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "According to NBC 105:2020, when factored axial compressive stress exceeds 0.08 fck, the minimum number of bars in a rectangular column is",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "12"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5890",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Site plan show the extent of",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "surrounding",
+      "b": "structure",
+      "c": "site",
+      "d": "topography"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "5891",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "Working drawing is also referred as:",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "concept design drawing",
+      "b": "design drawing",
+      "c": "design development drawing",
+      "d": "construction drawing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "5892",
+    "chapter": "Measured drawing and working drawing"
+  },
+  {
+    "question": "In a working drawing, what does the term \"BOM\" stand for?",
+    "topic": "Engineering Drawing",
+    "options": {
+      "a": "Basic Object Model",
+      "b": "Bill of Materials",
+      "c": "Book of Measurements",
+      "d": "Base of Manufacture"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "5893",
+    "chapter": "Measured drawing and working drawing"
   }
 ]
