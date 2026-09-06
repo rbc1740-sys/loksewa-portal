@@ -56,7 +56,7 @@ const stats = new Map();
 for (const { from, to } of REPLACEMENTS.sort((a, b) => b.from.length - a.from.length)) {
   const count = content.split(from).length - 1;
   if (count > 0) {
-    stats.set(`${hex(from[0])}..` + [...from].map((c) => hex(c)).join(''), count);
+    stats.set(`${hex(from[0])}..` + [...from].map(c => hex(c)).join(''), count);
     content = content.split(from).join(to);
   }
 }

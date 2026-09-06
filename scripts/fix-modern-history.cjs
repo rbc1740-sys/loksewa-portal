@@ -12,8 +12,7 @@ const pairs = [
   { from: '"b":  "1990 B.S."', to: '"b":  "1993 B.S."' },
   {
     from: '"explanation":  ""',
-    to:
-      '"explanation":  "The Nepal Prajaparishad (Praja Parishad), regarded as the first political party of Nepal, was founded on 2 June 1936 AD (= Jestha 1993 B.S.) by Dashrath Chand and Tanka Prasad Acharya."',
+    to: '"explanation":  "The Nepal Prajaparishad (Praja Parishad), regarded as the first political party of Nepal, was founded on 2 June 1936 AD (= Jestha 1993 B.S.) by Dashrath Chand and Tanka Prasad Acharya."',
   },
 ];
 

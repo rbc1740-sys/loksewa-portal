@@ -11,7 +11,12 @@ function fixAt(c, needle, indent) {
   }
   const before = c[at - 1];
   if (before !== '\n' && before !== '\r') {
-    console.error('UNEXPECTED PREV CHAR for:', JSON.stringify(needle.slice(0, 30)), 'prev=', JSON.stringify(before));
+    console.error(
+      'UNEXPECTED PREV CHAR for:',
+      JSON.stringify(needle.slice(0, 30)),
+      'prev=',
+      JSON.stringify(before)
+    );
     process.exit(1);
   }
   return c.replace(needle, indent + needle);
@@ -21,7 +26,10 @@ c = fixAt(c, 'function selectPracticeAnswer(id, key) {', '      ');
 c = fixAt(c, '// Build evaluation feedback header', '        ');
 // Multi-line needle (unique to the practice options grid; exam grid also has
 // the same div class, so anchor on the following line too).
-const gridNeedle = '<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">' + EOL + '            ${Object.entries(q.options || {})';
+const gridNeedle =
+  '<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">' +
+  EOL +
+  '            ${Object.entries(q.options || {})';
 c = fixAt(c, gridNeedle, '          ');
 
 fs.writeFileSync(APP, c, 'utf8');

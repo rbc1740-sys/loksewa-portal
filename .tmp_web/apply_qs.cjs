@@ -1,8 +1,12 @@
 // Temporary helper: multi-try practice edits for questionSession.ts (CRLF).
 const fs = require('fs');
-const splitLines = (c) => { const arr = c.split(/\r?\n/); if (arr[arr.length - 1] === '') arr.pop(); return arr; };
-const contentToLines = (s) => s.split('\n');
-const EOLof = (c) => (c.includes('\r\n') ? '\r\n' : '\n');
+const splitLines = c => {
+  const arr = c.split(/\r?\n/);
+  if (arr[arr.length - 1] === '') arr.pop();
+  return arr;
+};
+const contentToLines = s => s.split('\n');
+const EOLof = c => (c.includes('\r\n') ? '\r\n' : '\n');
 
 const FILE = 'd:/loksewa-portal/loksewa-mobile/src/engine/questionSession.ts';
 const content = fs.readFileSync(FILE, 'utf8');
@@ -10,25 +14,49 @@ const EOL = EOLof(content);
 const all = content.split(EOL);
 
 const splices = [];
-const add = (start, end, body, expectedFirst) => splices.push({ start, end, lines: contentToLines(body), expectedFirst });
+const add = (start, end, body, expectedFirst) =>
+  splices.push({ start, end, lines: contentToLines(body), expectedFirst });
 
-add(55, 56, `  /** questionId → final selected option key (correct in practice; latest in test). */
+add(
+  55,
+  56,
+  `  /** questionId → final selected option key (correct in practice; latest in test). */
   answers: Record<string, string>;
   /** questionId → wrong option keys tapped before the final answer (multi-try). */
-  wrongAttempts: Record<string, string[]>;`, '/** questionId');
-add(69, 69, `  commitAnswer: (
+  wrongAttempts: Record<string, string[]>;`,
+  '/** questionId'
+);
+add(
+  69,
+  69,
+  `  commitAnswer: (
     questionId: string,
     opts?: { choice?: string; xpGainedOverride?: number }
   ) => Promise<void>;
   /** Records a wrong attempt (multi-try practice/review) without clearing the final answer. */
-  recordWrongAttempt: (questionId: string, choice: string) => void;`, 'commitAnswer');
-add(86, 87, `  answers: {},
+  recordWrongAttempt: (questionId: string, choice: string) => void;`,
+  'commitAnswer'
+);
+add(
+  86,
+  87,
+  `  answers: {},
   wrongAttempts: {},
-  timeSpent: {},`, 'answers: {},');
-add(115, 116, `        answers: {},
+  timeSpent: {},`,
+  'answers: {},'
+);
+add(
+  115,
+  116,
+  `        answers: {},
         wrongAttempts: {},
-        timeSpent: {},`, 'answers: {},');
-add(128, 150, `  selectAnswer: (questionId, choice) => {
+        timeSpent: {},`,
+  'answers: {},'
+);
+add(
+  128,
+  150,
+  `  selectAnswer: (questionId, choice) => {
     const { answers, mode, questions } = get();
     const q = questions.find((x) => x.id === questionId);
     if (!q) return;
@@ -59,16 +87,25 @@ add(128, 150, `  selectAnswer: (questionId, choice) => {
     } catch (e) {
       console.error('[Session] commitAnswer failed:', e);
     }
-  },`, 'selectAnswer');
-add(202, 203, `      answers: {},
+  },`,
+  'selectAnswer'
+);
+add(
+  202,
+  203,
+  `      answers: {},
       wrongAttempts: {},
-      timeSpent: {},`, 'answers: {},');
+      timeSpent: {},`,
+  'answers: {},'
+);
 
 splices.sort((a, b) => b.start - a.start);
 for (const s of splices) {
   const firstLine = all[s.start - 1];
   if (firstLine === undefined || !String(firstLine).includes(s.expectedFirst)) {
-    console.error(`MISMATCH @${s.start}: expected contains ${JSON.stringify(s.expectedFirst)}, got ${JSON.stringify(firstLine)}`);
+    console.error(
+      `MISMATCH @${s.start}: expected contains ${JSON.stringify(s.expectedFirst)}, got ${JSON.stringify(firstLine)}`
+    );
     process.exit(1);
   }
 }

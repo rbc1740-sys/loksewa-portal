@@ -4,7 +4,7 @@
 const fs = require('fs');
 
 const APP = 'd:/loksewa-portal/app.html';
-const read = (p) => {
+const read = p => {
   const c = fs.readFileSync(p, 'utf8');
   const arr = c.split(/\r?\n/);
   if (arr[arr.length - 1] === '') arr.pop();
@@ -17,13 +17,17 @@ const EOL = content.includes('\r\n') ? '\r\n' : '\n';
 // --- Whole-file string replacements (small, unique) -------------------------
 const b4a = content;
 content = content
-  .split('isEvaluated && q.explanation').join('isCorrect && q.explanation')
-  .split('isEvaluated && mode === \'practice\'').join('isCorrect && mode === \'practice\'');
+  .split('isEvaluated && q.explanation')
+  .join('isCorrect && q.explanation')
+  .split("isEvaluated && mode === 'practice'")
+  .join("isCorrect && mode === 'practice'");
 if (content === b4a) {
   console.error('ERROR: string replacements did not change anything');
   process.exit(1);
 }
-console.log('String replacements applied (isEvaluated -> isCorrect for explanation & next button).');
+console.log(
+  'String replacements applied (isEvaluated -> isCorrect for explanation & next button).'
+);
 
 let lines = content.split(EOL);
 

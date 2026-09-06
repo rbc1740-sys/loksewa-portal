@@ -31,7 +31,9 @@ function patch(file, pairs, description) {
     changed++;
   }
   if (changed) fs.writeFileSync(abs, content, 'utf8');
-  console.log(`[ok] ${file}: ${description} (${changed} applied, ${skipped.length} already-patched)`);
+  console.log(
+    `[ok] ${file}: ${description} (${changed} applied, ${skipped.length} already-patched)`
+  );
 }
 
 // 1. Civil Service Act — match question missing the actual lists.
@@ -39,10 +41,8 @@ patch(
   'civil_service_act_and_regulation.json',
   [
     {
-      from:
-        '"Match the following as per the provision of Civil Service Act, 2049 (reservation incorporated in the second amendment)."',
-      to:
-        '"Match the following as per the provision of Civil Service Act, 2049 (reservation incorporated in the second amendment).\\nGroup A: a. Backward region, b. Disabled, c. Dalits, d. Madhesi | Group B: 1. 9.0%, 2. 4.0%, 3. 22.0%, 4. 5.0%"',
+      from: '"Match the following as per the provision of Civil Service Act, 2049 (reservation incorporated in the second amendment)."',
+      to: '"Match the following as per the provision of Civil Service Act, 2049 (reservation incorporated in the second amendment).\\nGroup A: a. Backward region, b. Disabled, c. Dalits, d. Madhesi | Group B: 1. 9.0%, 2. 4.0%, 3. 22.0%, 4. 5.0%"',
     },
   ],
   'added Group A/B lists to match-the-following question'
@@ -54,8 +54,7 @@ patch(
   [
     {
       from: '"Match the following and choose the correct answer."',
-      to:
-        '"Match the following and choose the correct answer.\\nGroup A: a. Article 56, b. Article 58, c. Article 60, d. Article 61 | Group B: 1. Structure of state, 2. Distribution of sources of revenue, 3. President, 4. Residual Power"',
+      to: '"Match the following and choose the correct answer.\\nGroup A: a. Article 56, b. Article 58, c. Article 60, d. Article 61 | Group B: 1. Structure of state, 2. Distribution of sources of revenue, 3. President, 4. Residual Power"',
     },
   ],
   'added Group A/B lists to Article match question'
@@ -66,10 +65,8 @@ patch(
   'constitution_of_nepal.json',
   [
     {
-      from:
-        '"Which of the following pair(s) is/are correctly matched?\\n1. Seventh schedule - concurrent powers of Federation, Province and local level\\n2. Fifth schedule - Federal list\\n3. Sixth Schedule - Province List\\n4. Ninth Schedule - ..."',
-      to:
-        '"Which of the following pair(s) is/are correctly matched?\\n1. Seventh schedule - concurrent powers of Federation and Province \\n2. Fifth schedule - Federal list\\n3. Sixth Schedule - Province List\\n4. Ninth Schedule - concurrent powers of Federation, Province and Local Level"',
+      from: '"Which of the following pair(s) is/are correctly matched?\\n1. Seventh schedule - concurrent powers of Federation, Province and local level\\n2. Fifth schedule - Federal list\\n3. Sixth Schedule - Province List\\n4. Ninth Schedule - ..."',
+      to: '"Which of the following pair(s) is/are correctly matched?\\n1. Seventh schedule - concurrent powers of Federation and Province \\n2. Fifth schedule - Federal list\\n3. Sixth Schedule - Province List\\n4. Ninth Schedule - concurrent powers of Federation, Province and Local Level"',
     },
   ],
   'completed truncated Ninth Schedule item (kept answer d="all of above")'
@@ -81,8 +78,7 @@ patch(
   [
     {
       from: '"Per the answer key mapping in the text, option e is correct."',
-      to:
-        '"Quality control in construction means the rational use of available materials, manpower, equipment and resources so that the finished work conforms to the specified quality standards without wasting resources."',
+      to: '"Quality control in construction means the rational use of available materials, manpower, equipment and resources so that the finished work conforms to the specified quality standards without wasting resources."',
     },
   ],
   'rewrote bogus explanation for "Quality control means"'
@@ -120,17 +116,23 @@ patch(
       throw new Error('NOT FOUND: Quality control means answer block');
     }
   } else {
-  content =
-    content.slice(0, idx) +
-    needle.replace('\r\n        "answer":  "e",', '\r\n        "answer":  "b",') +
-    content.slice(idx + needle.length);
-  fs.writeFileSync(abs, content, 'utf8');
-  console.log('[ok] concrete_technology.json: answer key fixed e -> b for "Quality control means"');
+    content =
+      content.slice(0, idx) +
+      needle.replace('\r\n        "answer":  "e",', '\r\n        "answer":  "b",') +
+      content.slice(idx + needle.length);
+    fs.writeFileSync(abs, content, 'utf8');
+    console.log(
+      '[ok] concrete_technology.json: answer key fixed e -> b for "Quality control means"'
+    );
   }
 }
 
 // Sanity: all edited files must still parse as valid JSON and every answer key must exist.
-for (const file of ['civil_service_act_and_regulation.json', 'constitution_of_nepal.json', 'concrete_technology.json']) {
+for (const file of [
+  'civil_service_act_and_regulation.json',
+  'constitution_of_nepal.json',
+  'concrete_technology.json',
+]) {
   const abs = path.resolve(__dirname, '..', 'questions', file);
   const data = JSON.parse(fs.readFileSync(abs, 'utf8'));
   for (let i = 0; i < data.length; i++) {
@@ -138,7 +140,7 @@ for (const file of ['civil_service_act_and_regulation.json', 'constitution_of_ne
     if (!q.answer) continue;
     const keys = Object.keys(q.options || {});
     const ak = String(q.answer).trim().toLowerCase().split(' ')[0];
-    if (keys.length && !keys.map((k) => k.toLowerCase()).includes(ak)) {
+    if (keys.length && !keys.map(k => k.toLowerCase()).includes(ak)) {
       throw new Error(`BAD ANSWER KEY ${file} #${i + 1}: "${q.answer}" not in [${keys.join(',')}]`);
     }
   }

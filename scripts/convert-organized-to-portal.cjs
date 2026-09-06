@@ -188,29 +188,50 @@ function parseOptions(rawOptions) {
 }
 
 function convertQuestion(raw, topic, chapterName, stats) {
-  if (!raw || typeof raw !== 'object') { stats.invalid++; return null; }
-  if (raw.svg != null) { stats.svg++; return null; }
+  if (!raw || typeof raw !== 'object') {
+    stats.invalid++;
+    return null;
+  }
+  if (raw.svg != null) {
+    stats.svg++;
+    return null;
+  }
 
   const rawOptions = Array.isArray(raw.options) ? raw.options : null;
-  if (!rawOptions) { stats.invalid++; return null; }
+  if (!rawOptions) {
+    stats.invalid++;
+    return null;
+  }
 
   const { map, lettersInOrder } = parseOptions(rawOptions);
-  if (!map) { stats.invalid++; return null; }
+  if (!map) {
+    stats.invalid++;
+    return null;
+  }
 
   const idx = raw.correct_option_index;
-  if (typeof idx !== 'number' || idx < 0 || idx >= rawOptions.length) { stats.invalid++; return null; }
+  if (typeof idx !== 'number' || idx < 0 || idx >= rawOptions.length) {
+    stats.invalid++;
+    return null;
+  }
 
   // Extract the answer letter from the prefix of the chosen option string
   const chosenText = normalizeText(rawOptions[idx]);
   const m = OPT_PREFIX_RE.exec(chosenText);
   const answer = m ? m[1].toLowerCase() : 'abcd'[idx];
-  if (!Object.prototype.hasOwnProperty.call(map, answer)) { stats.invalid++; return null; }
+  if (!Object.prototype.hasOwnProperty.call(map, answer)) {
+    stats.invalid++;
+    return null;
+  }
 
   // Detect shuffled arrays: prefix letter differs from positional expectation
   if (lettersInOrder[idx] !== 'abcd'[idx]) stats.shuffled++;
 
   const questionText = normalizeText(raw.question);
-  if (!questionText) { stats.invalid++; return null; }
+  if (!questionText) {
+    stats.invalid++;
+    return null;
+  }
 
   return {
     question: questionText,
@@ -227,7 +248,11 @@ function convertQuestion(raw, topic, chapterName, stats) {
 // Existing bank: signatures + per-file dominant topic
 // ---------------------------------------------------------------------------
 function readJsonSafe(p) {
-  try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return null; }
+  try {
+    return JSON.parse(fs.readFileSync(p, 'utf8'));
+  } catch {
+    return null;
+  }
 }
 
 function loadExistingBank() {
@@ -246,7 +271,12 @@ function loadExistingBank() {
     }
     let topic = null;
     let best = 0;
-    topicCount.forEach((n, t) => { if (n > best) { best = n; topic = t; } });
+    topicCount.forEach((n, t) => {
+      if (n > best) {
+        best = n;
+        topic = t;
+      }
+    });
     bank.set(path.basename(rel, '.json'), { questions: data, topic });
   }
   return { bank, signatures };
@@ -272,7 +302,9 @@ function convertMainBank(index, existing) {
       const code = subjectCode(subj.folder || '');
       const target = CODE_MAP[code];
       if (!target) {
-        report.push(`[WARN] Unmapped subject code ${code}: ${category} / ${subjectName} (${subj.folder}) — SKIPPED`);
+        report.push(
+          `[WARN] Unmapped subject code ${code}: ${category} / ${subjectName} (${subj.folder}) — SKIPPED`
+        );
         continue;
       }
       const [outBase, defaultTopic] = target;
@@ -283,7 +315,12 @@ function convertMainBank(index, existing) {
         perFile.set(outBase, {
           topic,
           questions: existingEntry ? existingEntry.questions.slice() : [],
-          added: 0, dup: 0, invalid: 0, svg: 0, shuffled: 0, expected: 0,
+          added: 0,
+          dup: 0,
+          invalid: 0,
+          svg: 0,
+          shuffled: 0,
+          expected: 0,
           categories: new Set(),
         });
       }
@@ -301,7 +338,10 @@ function convertMainBank(index, existing) {
           const converted = convertQuestion(raw, topic, ch.chapter, bucket);
           if (!converted) continue;
           const sig = getQuestionSignature(converted);
-          if (sig && existing.signatures.has(sig)) { bucket.dup++; continue; }
+          if (sig && existing.signatures.has(sig)) {
+            bucket.dup++;
+            continue;
+          }
           if (sig) existing.signatures.add(sig); // dedups within the import too
           bucket.questions.push(converted);
           bucket.added++;
@@ -320,7 +360,7 @@ function asciiSlug(name) {
     String(name)
       .replace(/\.[^.]+$/, '')
       .split('')
-      .filter((c) => c.charCodeAt(0) < 128)
+      .filter(c => c.charCodeAt(0) < 128)
       .join('')
       .replace(/[^A-Za-z0-9]+/g, '_')
       .replace(/^_+|_+$/g, '')
@@ -330,7 +370,7 @@ function asciiSlug(name) {
 
 function convertExams(entries, province) {
   if (!fs.existsSync(MOCKS_DIR)) fs.mkdirSync(MOCKS_DIR, { recursive: true });
-  const usedSlugs = new Set(fs.readdirSync(MOCKS_DIR).filter((f) => f.endsWith('.json')));
+  const usedSlugs = new Set(fs.readdirSync(MOCKS_DIR).filter(f => f.endsWith('.json')));
   const outIndex = [];
   const stats = { added: 0, dup: 0, invalid: 0, svg: 0, shuffled: 0, files: 0 };
 
@@ -380,10 +420,12 @@ function main() {
     process.exit(1);
   }
   const existing = loadExistingBank();
-  console.log(`Existing bank: ${existing.bank.size} files, ${existing.signatures.size} signatures\n`);
+  console.log(
+    `Existing bank: ${existing.bank.size} files, ${existing.signatures.size} signatures\n`
+  );
 
   const { perFile, report } = convertMainBank(index, existing);
-  report.forEach((r) => console.log(r));
+  report.forEach(r => console.log(r));
 
   console.log('=== MAIN BANK CONVERSION ===');
   const newQuestionFiles = [];
@@ -397,8 +439,11 @@ function main() {
       'utf8'
     );
     if (!existed) newQuestionFiles.push(outRel);
-    totals.added += bucket.added; totals.dup += bucket.dup;
-    totals.invalid += bucket.invalid; totals.svg += bucket.svg; totals.shuffled += bucket.shuffled;
+    totals.added += bucket.added;
+    totals.dup += bucket.dup;
+    totals.invalid += bucket.invalid;
+    totals.svg += bucket.svg;
+    totals.shuffled += bucket.shuffled;
     console.log(
       `${existed ? 'MERGE' : 'NEW  '} ${outRel}  topic="${bucket.topic}"  ` +
         `total=${bucket.questions.length} added=${bucket.added} dup=${bucket.dup} ` +
@@ -417,7 +462,9 @@ function main() {
   let mockTotals = { added: 0, dup: 0, invalid: 0, svg: 0, shuffled: 0 };
   const convertGroup = (entries, province) => {
     const { outIndex, stats } = convertExams(entries, province);
-    Object.keys(mockTotals).forEach((k) => { mockTotals[k] += stats[k] || 0; });
+    Object.keys(mockTotals).forEach(k => {
+      mockTotals[k] += stats[k] || 0;
+    });
     return outIndex;
   };
   for (const [group, entries] of Object.entries(index.mock_tests || {})) {
@@ -430,7 +477,11 @@ function main() {
 
   fs.writeFileSync(
     path.join(ROOT, 'mock-tests.json'),
-    JSON.stringify({ generatedAt: new Date().toISOString(), groups: mockGroups, weekly: weeklyIndex }, null, 2) + '\n',
+    JSON.stringify(
+      { generatedAt: new Date().toISOString(), groups: mockGroups, weekly: weeklyIndex },
+      null,
+      2
+    ) + '\n',
     'utf8'
   );
   console.log(
@@ -439,7 +490,7 @@ function main() {
   );
 
   console.log('\n=== NEW QUESTION FILES (add to manifest.json) ===');
-  newQuestionFiles.forEach((f) => console.log('  ' + f));
+  newQuestionFiles.forEach(f => console.log('  ' + f));
   console.log('DONE');
 }
 
