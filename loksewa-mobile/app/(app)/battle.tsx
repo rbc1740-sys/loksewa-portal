@@ -9,7 +9,7 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
 import { StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { usePreventRemove } from '@react-navigation/native';
+import { usePreventRemove } from 'expo-router/react-navigation';
 import { Swords, Trophy } from 'lucide-react-native';
 import {
   BATTLE_QUESTIONS,
