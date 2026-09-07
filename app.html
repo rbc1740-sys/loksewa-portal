@@ -1643,8 +1643,8 @@
               <input
                 type="text"
                 id="join-room-code"
-                placeholder="Enter PIN (e.g. LK82)"
-                maxlength="6"
+                placeholder="Enter PIN (e.g. LK1A2B3C)"
+                maxlength="8"
                 class="w-full p-2 text-xs font-mono uppercase bg-white dark:bg-slate-700 border rounded-xl focus:ring-1 focus:ring-indigo-500"
               />
               <button
@@ -6557,7 +6557,11 @@
         playClick();
         const btn = document.getElementById('btn-create-room');
         const settings = getBattleSettings();
-        const code = 'LK' + Math.random().toString(36).substr(2, 6).toUpperCase();
+        // 6 crypto-random chars (ambiguous 0/O and 1/I excluded) — 'LK' + 6 = fixed 8-char PIN
+        const rnd = crypto.getRandomValues(new Uint8Array(6));
+        const code =
+          'LK' +
+          Array.from(rnd, b => 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'[b % 32]).join('');
         const battleQuestions = selectBattleQuestions(settings);
 
         if (!battleQuestions.length) {
