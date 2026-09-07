@@ -1,0 +1,237 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ---- Comments: shared, editable by author only, NO deletes ----
+    match /comments/{commentId} {
+      allow read: if request.auth != null;
+
+      allow create: if request.auth != null
+                    && request.resource.data.userId == request.auth.uid
+                    && request.resource.data.text is string
+                    && request.resource.data.text.size() > 0
+                    && request.resource.data.text.size() <= 1000;
+
+      allow update: if request.auth != null && (
+        // Author may edit their own comment (text and replies)
+        (resource.data.userId == request.auth.uid
+         && request.resource.data.userId == resource.data.userId)
+        ||
+        // Anyone may append a reply (replies array only)
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['replies'])
+      );
+
+      // Nobody can delete comments through the app.
+      // Moderation is done via the Firebase Console by the developer.
+      allow delete: if false;
+    }
+
+    // ---- Answer votes (A/B/C/D counts): readable by all ----
+    match /votes/{questionId} {
+      allow read: if true;
+      allow create, update: if request.auth != null
+                    && request.resource.data.voters.keys().size() <= 500;
+      allow delete: if false;
+    }
+
+    // ---- Irrelevant / Outdated flags: readable by all ----
+    match /flags/{questionId} {
+      allow read: if true;
+      allow create, update: if request.auth != null;
+      allow delete: if false;
+    }
+
+    // ---- 1v1 Battle rooms: only the two participants may read/update ----
+    match /battles/{roomCode} {
+      allow read: if request.auth != null;
+      // Create: the host seeds a CLEAN room. No pre-filled score, no
+      // pre-claimed guest seat, status waiting, exactly the frozen paper.
+      // (BATTLE_QUESTIONS == 10 in loksewa-mobile battleEngine.)
+      allow create: if request.auth != null
+                    && request.resource.data.hostUid == request.auth.uid
+                    && request.resource.data.guestUid == null
+                    && request.resource.data.guest == null
+                    && request.resource.data.hostScore == 0
+                    && request.resource.data.guestScore == 0
+                    && request.resource.data.status == 'waiting'
+                    && request.resource.data.question_ids is list
+                    && request.resource.data.question_ids.size() == 10;
+      // Role-scoped updates follow a strict state machine — each side writes
+      // only its own score plus the ONE legal next status, so neither can
+      // forge the other's finish, resurrect a done match, or skip states.
+      // Scores are sanity-clamped: 10 questions x (100 base + 50 max bonus).
+      allow update: if request.auth != null && (
+        // Host: own score + host-side transitions (active→host_done, guest_done→done)
+        (resource.data.hostUid == request.auth.uid
+          && request.resource.data.diff(resource.data).affectedKeys()
+               .hasOnly(['hostScore', 'status'])
+          && request.resource.data.hostScore is number
+          && request.resource.data.hostScore >= 0
+          && request.resource.data.hostScore <= 1500
+          && ((resource.data.status == 'active'
+                && request.resource.data.status == 'host_done')
+              || (resource.data.status == 'guest_done'
+                && request.resource.data.status == 'done')))
+        ||
+        // Established guest: own score + guest-side transitions
+        (resource.data.guestUid == request.auth.uid
+          && request.resource.data.diff(resource.data).affectedKeys()
+               .hasOnly(['guest', 'guestUid', 'guestScore', 'status'])
+          && request.resource.data.guestUid == request.auth.uid
+          && request.resource.data.guest is string
+          && request.resource.data.guestScore is number
+          && request.resource.data.guestScore >= 0
+          && request.resource.data.guestScore <= 1500
+          && ((resource.data.status == 'active'
+                && request.resource.data.status == 'guest_done')
+              || (resource.data.status == 'host_done'
+                && request.resource.data.status == 'done')))
+        ||
+        // Seat claim: only while the seat is open (guestUid null), the
+        // claimant must set their own uid, and claiming STARTS the match —
+        // nothing else (no status games like jumping straight to 'done').
+        (resource.data.guestUid == null
+          && request.resource.data.guestUid == request.auth.uid
+          && request.resource.data.guest is string
+          && request.resource.data.diff(resource.data).affectedKeys()
+               .hasOnly(['guest', 'guestUid', 'status'])
+          && request.resource.data.status == 'active')
+      );
+      // The host manages their own room: cancel while waiting, or clean up
+      // after the match.
+      allow delete: if request.auth != null
+                    && resource.data.hostUid == request.auth.uid;
+    }
+    // ---- User profiles (mobile app): strictly owner-scoped ----
+    // Document id == Firebase Auth uid. Created on first sign-in by the app.
+    match /users/{userId} {
+      function isOwner() {
+        return request.auth != null && request.auth.uid == userId;
+      }
+
+      allow get, list: if isOwner();
+
+      // createdAt/updatedAt are written with serverTimestamp() by the client,
+      // which rules see as `request.time` - this proves they weren't forged.
+      allow create: if isOwner()
+                    && request.resource.data.createdAt == request.time
+                    && request.resource.data.updatedAt == request.time;
+
+      // The creation timestamp is immutable after the fact.
+      allow update: if isOwner()
+                    && request.resource.data.createdAt == resource.data.createdAt;
+
+      // Owner may remove their own profile when deleting their account.
+      allow delete: if isOwner();
+    }
+
+    // ---- Mobile sync-pipeline collections (Phase 6) ----
+    // The offline outbox (src/services/sync.ts) upserts these collections with
+    // doc ids derived from the owner's uid, and every payload carries user_id.
+    // Ownership is enforced on BOTH the stored row and the post-merge doc:
+    // `request.resource.data` is the document as it will be after the
+    // merge:true write, so `.get('user_id', resource.data.user_id)` inherits
+    // the owner from the existing row for partial updates (e.g. bookmark tag
+    // edits whose local payload is only { id, tags_json }).
+
+    // Per-question tables: doc id MUST be `${uid}_${questionId}`.
+    match /user_progress/{docId} {
+      function ownedQuestionDoc() {
+        return request.auth != null
+          && request.resource.data.user_id == request.auth.uid
+          && docId == request.auth.uid + '_' + request.resource.data.question_id;
+      }
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if ownedQuestionDoc();
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    match /sr_state/{docId} {
+      function ownedQuestionDoc() {
+        return request.auth != null
+          && request.resource.data.user_id == request.auth.uid
+          && docId == request.auth.uid + '_' + request.resource.data.question_id;
+      }
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if ownedQuestionDoc();
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    match /bookmarks/{docId} {
+      function ownedId() {
+        return request.auth != null
+          && (request.resource.data.question_id == null
+              || docId == request.auth.uid + '_' + request.resource.data.question_id);
+      }
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      // create: no existing doc, so the owner must come from the payload
+      allow create: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid
+        && ownedId();
+      // update: the outbox tag-edit payload is { id, tags_json } only, so the
+      // owner is inherited from the stored row via the get-with-default
+      allow update: if request.auth != null
+        && request.resource.data.get('user_id', resource.data.user_id) == request.auth.uid
+        && ownedId();
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    match /weak_points/{docId} {
+      function ownedId() {
+        return request.auth != null
+          && (request.resource.data.question_id == null
+              || docId == request.auth.uid + '_' + request.resource.data.question_id);
+      }
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid
+        && ownedId();
+      allow update: if request.auth != null
+        && request.resource.data.get('user_id', resource.data.user_id) == request.auth.uid
+        && ownedId();
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    // User profile mirror (mobile) â€” doc id == uid, like /users above.
+    match /user_profile/{docId} {
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid
+        && docId == request.auth.uid;
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    // Exam sessions: insert on start, update on submit (both owner-scoped).
+    match /exam_sessions/{sessionDocId} {
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid;
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    // Exam history: immutable graded attempts (INSERT-only â€” the idempotent
+    // submit pipeline writes exactly one row per session). No update/delete.
+    match /exam_history/{attemptDocId} {
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid
+        && attemptDocId == request.resource.data.user_id + '_eh_' + request.resource.data.session_id;
+      allow update, delete: if false;
+    }
+
+    // Battle sessions (per-user battle stats) â€” owner-scoped.
+    match /battle_sessions/{battleDocId} {
+      allow read: if request.auth != null && resource.data.user_id == request.auth.uid;
+      allow create, update: if request.auth != null
+        && request.resource.data.user_id == request.auth.uid;
+      allow delete: if request.auth != null && resource.data.user_id == request.auth.uid;
+    }
+
+    // ---- Everything else: denied by default ----
+    // Firestore already denies unmatched paths; stated explicitly so future
+    // collections require a conscious decision rather than an accident.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

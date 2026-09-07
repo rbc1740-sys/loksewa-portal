@@ -1,0 +1,43 @@
+{
+  "name": "Loksewa Prep Pro",
+  "short_name": "Loksewa Pro",
+  "description": "Free MCQ practice portal for Nepal's Loksewa exams - Civil Engineering & General Knowledge",
+  "start_url": "/app.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%236366f1' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>🎓</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Practice Questions",
+      "short_name": "Practice",
+      "description": "Start practicing MCQs immediately",
+      "url": "/app.html?tab=practice",
+      "icons": [{ "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%236366f1' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>📝</text></svg>", "sizes": "96x96" }]
+    },
+    {
+      "name": "Timed Exam",
+      "short_name": "Exam",
+      "description": "Take a timed mock exam",
+      "url": "/app.html?tab=exam",
+      "icons": [{ "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23f59e0b' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>⏱️</text></svg>", "sizes": "96x96" }]
+    },
+    {
+      "name": "Spaced Review",
+      "short_name": "Review",
+      "description": "Review due questions with spaced repetition",
+      "url": "/app.html?tab=spaced",
+      "icons": [{ "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%2310b981' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>🔄</text></svg>", "sizes": "96x96" }]
+    }
+  ]
+}

@@ -1,0 +1,1402 @@
+[
+  {
+    "question": "International civil aviation organization (I.C.A.O.) was set up at Montreal(Canada) in",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "1929",
+      "b": "1947",
+      "c": "1949",
+      "d": "1950"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2266",
+    "chapter": "General"
+  },
+  {
+    "question": "The headquarters of the International Civil Aviation Organization (I.C.A.O.) is located in",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "USA",
+      "b": "Canada",
+      "c": "France",
+      "d": "Italy"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2267",
+    "chapter": "General"
+  },
+  {
+    "question": "According to the International Civil Aviation Organization (I.C.A.O.) the runway lengths of aerodromes, have been coded by",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "seven English alphabet",
+      "b": "last seven English alphabet",
+      "c": "first five English alphabet",
+      "d": "first five natural numbers"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2268",
+    "chapter": "General"
+  },
+  {
+    "question": "According to the International Civil Aviation Organization (ICAO), the strength of runway pavements has been coded by",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "seven English alphabet",
+      "b": "last seven English alphabet",
+      "c": "first seven English alphabet",
+      "d": "first seven natural numbers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2269",
+    "chapter": "General"
+  },
+  {
+    "question": "According to I.C.A.O all markings on the runway are painted white and on taxiways",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "black",
+      "b": "red",
+      "c": "yellow",
+      "d": "green"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2270",
+    "chapter": "General"
+  },
+  {
+    "question": "Civil Aviation Authority of Nepal (CAAN) was established in",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "1947",
+      "b": "1960",
+      "c": "1998",
+      "d": "2000"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2271",
+    "chapter": "General"
+  },
+  {
+    "question": "Which is the correct sequence concerning the name of the first airport in Nepal?",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "Old golf course –Gauchar- Tribhuvan -Tribhuvan international",
+      "b": "Tribhuvan-Old golf course -Gauchar-Tribhuvan international",
+      "c": "Gauchar-Tribhuvan -Old golf course - Tribhuvan International.",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2272",
+    "chapter": "General"
+  },
+  {
+    "question": "The minimum basic runway length of a class A-type airport is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "600 m",
+      "b": "750 m",
+      "c": "1500 m",
+      "d": "2100 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2273",
+    "chapter": "General"
+  },
+  {
+    "question": "The minimum basic runway length of a class B-type airport is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "600 m",
+      "b": "750 m",
+      "c": "1500 m",
+      "d": "2100 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2274",
+    "chapter": "General"
+  },
+  {
+    "question": "The minimum basic length of the runway for a class C-type airport is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "600 m",
+      "b": "750 m",
+      "c": "900 m",
+      "d": "1500 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2275",
+    "chapter": "General"
+  },
+  {
+    "question": "The minimum basic runway length of a class D-type airport is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "400 m",
+      "b": "600 m",
+      "c": "750 m",
+      "d": "1500 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2276",
+    "chapter": "General"
+  },
+  {
+    "question": "The minimum basic runway length of a class E-type airport is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "400 m",
+      "b": "600 m",
+      "c": "750 m",
+      "d": "1500 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2277",
+    "chapter": "General"
+  },
+  {
+    "question": "Pick up the incorrect statement from the following",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "in single-engine airplanes, the engine is provided in the nose of the aircraft",
+      "b": "in double-engine airplanes, one engine on either wing is placed symmetrically",
+      "c": "in three engine airplanes, two engines are placed on both wings, and one engine is placed in the tail",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2278",
+    "chapter": "General"
+  },
+  {
+    "question": "The fuselage includes",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "passenger chamber",
+      "b": "pilot's cabin",
+      "c": "tail of aircraft",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2279",
+    "chapter": "General"
+  },
+  {
+    "question": "The fuselage is parts of the aircraft for the accommodation of",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "fuel",
+      "b": "cargo, passenger",
+      "c": "cafe, bathrooms",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2280",
+    "chapter": "General"
+  },
+  {
+    "question": "When did Nepal attain ICAO membership",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "1947",
+      "b": "1957",
+      "c": "1959",
+      "d": "1960"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2281",
+    "chapter": "General"
+  },
+  {
+    "question": "The length and width of the runway of TIA are",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "2700 m and 45 m",
+      "b": "2800 m and 46 m",
+      "c": "3050 m and 46 m",
+      "d": "3050 m and 50 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2282",
+    "chapter": "General"
+  },
+  {
+    "question": "The Windrose diagram of Tribhuvan International Airport indicates that the runway is oriented as",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "02/20",
+      "b": "09/27",
+      "c": "08/26",
+      "d": "10/60"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2283",
+    "chapter": "General"
+  },
+  {
+    "question": "The enclosure/structure where an aircraft is kept for maintenance and repair is known as",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "dome",
+      "b": "workshop",
+      "c": "hanger",
+      "d": "air pad"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2284",
+    "chapter": "General"
+  },
+  {
+    "question": "Heliport is used for",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "storage of helicopter",
+      "b": "maintenance of helicopter",
+      "c": "landing and take of helicopter",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2285",
+    "chapter": "General"
+  },
+  {
+    "question": "According to I.C.A.O. the recommended length of the airport is decided on a",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "sea level elevation",
+      "b": "standard sea level temperature (15°C)",
+      "c": "effective gradient percentage",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2286",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The runway length is increased per 300 m rise above M.S.L",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "4%",
+      "b": "5%",
+      "c": "6%",
+      "d": "7%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2287",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The runway length is increased by ______ percentage per every degree rise in temperature.",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2288",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The length of the runway is increased by ______ percentage per 1 % increase in effective gradient.",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "35",
+      "d": "40"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2289",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The total correction for elevation and temperature for basic runway length should not be more than",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "50%",
+      "b": "35%",
+      "c": "20%",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2290",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The runway length under standard atmospheric conditions at the site is 1800 m. The design length of the runway is if the actual RL of the site is 1200 m",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "2304 m",
+      "b": "2704 m",
+      "c": "2504 m",
+      "d": "2640 m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2291",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The maximum difference in elevation between the highest and lowest point of the runway divided by the total length of the runway is known as",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "effective gradient",
+      "b": "longitudinal gradient",
+      "c": "maximum gradient",
+      "d": "minimum gradient"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2292",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The runway orientation is made so that landing and takeoff are",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "against the wind direction",
+      "b": "along the wind direction",
+      "c": "perpendicular to wind direction",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2293",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The strength of runway pavement is expressed as",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "LCM",
+      "b": "CBR",
+      "c": "FAA",
+      "d": "PCA"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2294",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "A flexible pavement of the runway consists of",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "finishing coarse, surface course, and base course",
+      "b": "surface course, base course, and sub-base course",
+      "c": "base course, sub-base course, and rough course",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2295",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "As the elevation of the airport increases the runway length",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2296",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "As the temperature of the airport increases the runway length",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2297",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "As the elevation & temperature of the airport increases the density of the air",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2298",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The width of the taxiway is kept about",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "1/3rd of the runway width",
+      "b": "1/4th of the runway width",
+      "c": "1/2 of the runway width",
+      "d": "equal to the runway width"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2299",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "Two single runways may be arranged so as to have",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "L-shape",
+      "b": "T-shape",
+      "c": "X-shape",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2300",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The runway surface strength of TIA is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "34 F/A/W/T",
+      "b": "44 F/A/W/T",
+      "c": "54 F/A/W/T",
+      "d": "64 F/A/W/T"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2301",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The runway of Tribhuvan International Airport is one way where landing occurs",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "north to south",
+      "b": "south to north",
+      "c": "east to west",
+      "d": "west to east"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2302",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "As per ICAO for determining basic runway length, aircraft should come to a stop within",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "50% of runway length.",
+      "b": "60% of runway length",
+      "c": "70% of runway length",
+      "d": "80% of runway length"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2303",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "For A, B, and C types of airports, the longitudinal gradient of the runway recommended by ICAO is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "1%",
+      "b": "1.5%",
+      "c": "2%",
+      "d": "2.5%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2304",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The runway of the airport is designed by",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "impact load",
+      "b": "aircraft load",
+      "c": "axle load",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2305",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The taxiway is located between the",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "apron and hangers",
+      "b": "terminal and apron",
+      "c": "runway and apron",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2306",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "Aprons are serviced as:",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "main runway",
+      "b": "to connect the terminal building with a paved runway",
+      "c": "cargo loading and unloading",
+      "d": "aircraft parking only"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2307",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "Holding aprons, run-up pads, or holding bags are placed adjacent to the ends of runways for",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "storage of aircraft prior to take off",
+      "b": "use as a space to bypass other aircraft",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2308",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "Annex 14 published by ICAO contains",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "specification of airport",
+      "b": "specification of aircraft",
+      "c": "construction of runway",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2309",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The angle formed by the longitudinal axis of the fuselage and the direction of movement of the nose gear",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "pitch angle",
+      "b": "cockpit cutoff angle",
+      "c": "castor angle",
+      "d": "horizontal angle"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2310",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The shape of the landing direction indicator",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "T",
+      "b": "L",
+      "c": "Y",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2311",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The marking of the taxiway is yellow while the apron is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "yellow",
+      "b": "white",
+      "c": "red",
+      "d": "blue"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2312",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "What is the function of aircraft drainage?",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "to remove surface runoff",
+      "b": "to lower the sub-surface water level",
+      "c": "to intercept & divert the surface and groundwater flow",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2313",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The purpose of an apron in aircraft is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "loading & unloading of passenger",
+      "b": "loading & unloading of cargo",
+      "c": "parking & fueling",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2314",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The ICAO has two governing bodies named",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "parliament & association",
+      "b": "council & parliament",
+      "c": "assembly & council",
+      "d": "association & assembly"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2315",
+    "chapter": "Design and Maintenance-I"
+  },
+  {
+    "question": "The metrological condition which influences the size and location of an airport is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "atmospheric pressure",
+      "b": "reduced level",
+      "c": "direction of wind",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2316",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The best direction of a runway is along the direction of",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "longest line on the wind rose diagram",
+      "b": "shortest line on the wind rose diagram",
+      "c": "line clear of wind rose diagram",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2317",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Beaufort scale used for measuring the strength of wind is indicated by 13 numerals. They are",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "0 to 12",
+      "b": "1 to 13",
+      "c": "2 to 14",
+      "d": "3 to 15"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2318",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The color of the wind direction indicator is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "white and black",
+      "b": "red and white",
+      "c": "orange and white",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2319",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The landing and takeoff of an aircraft are made against the direction of the wind. In no case, the center line of the runway should make an angle with the wind direction exceeding",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "10°",
+      "b": "20°",
+      "c": "30°",
+      "d": "40°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2320",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The strength of winds is measured with the help of",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "Beaufort scales",
+      "b": "Wind indicator",
+      "c": "Barometers",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2321",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Beaufort scale measures the velocity (km/h) of wind at a height of ______ above flat ground.",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "10 m",
+      "b": "20 m",
+      "c": "130 m",
+      "d": "40 m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2322",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "For class ‘A’ airports the difference between reduced levels of higher and lower edges of the conical surface is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "125 m",
+      "b": "50 m",
+      "c": "75 m",
+      "d": "100 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2323",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "the approximate geometric center of the landing area, is called the airport reference point",
+      "b": "the boundaries of the horizontal surface and conical surface are marked with reference to the airport reference point",
+      "c": "the location of the airport on a map is the position of the airport reference point",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2324",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Effective length of a runway is the distance between",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "ends of the runway",
+      "b": "point of intersection of the obstruction clearance line and the extended plane of the runway surface, and the other end of the runway",
+      "c": "point of intersection of the glide path and the extended plane of the runway surface and the other end of the runway",
+      "d": "ends of the clear way on either side"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2325",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The lift-off distance along the center of the runway is the distance between the starting point and",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "end of the runway",
+      "b": "end of stop way",
+      "c": "point where aircraft becomes airborne",
+      "d": "point where the aircraft attains a height of 10.7m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2326",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The height of the pilot's eye above the runway surface is assumed",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "1 m",
+      "b": "3 m",
+      "c": "4 m",
+      "d": "5 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2327",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The design thickness of the pavement, is decided on the load carried by",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "main gears",
+      "b": "nose wheel",
+      "c": "tail wheel",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2328",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The angle between the longitudinal axis of the fuselage and the horizontal axis is called",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "horizontal angle",
+      "b": "vertical angle",
+      "c": "pitch angle",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2329",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Airport elevation is the reduced level above M. S.L of",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "control tower",
+      "b": "the highest point of the landing area",
+      "c": "lowest point of the landing area",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2330",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The bearing of the runway at the threshold is 290˚, the runway number is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "70˚",
+      "b": "290˚",
+      "c": "29˚",
+      "d": "20˚"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2331",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "For night landing, the thresholds are lighted",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "green",
+      "b": "red",
+      "c": "white",
+      "d": "yellow"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2332",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Holding line marking is provided in",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "runway",
+      "b": "taxiway",
+      "c": "shoulder",
+      "d": "threshold"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2333",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "ACN refers to",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "Airport Code Number",
+      "b": "Airport Classification Number",
+      "c": "Airport Capacity Number",
+      "d": "Aircraft Classification Number"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2334",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "PCN refers to",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "Pavement Classification Number",
+      "b": "Pavement Capacity number",
+      "c": "Pavement Code number",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2335",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "LCN refers to",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "Load Classification Number",
+      "b": "Land Classification Number",
+      "c": "Light Count Number",
+      "d": "Light Craft Number"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2336",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The minimum width of the clearway is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "50 m",
+      "b": "100 m",
+      "c": "150 m",
+      "d": "250 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2337",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Normally fuel provided in aircraft having piston engines is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "kerosene oil",
+      "b": "petrol",
+      "c": "gasoline",
+      "d": "diesel"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2338",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The depressions and undulations in the pavement of the runway are caused due to",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "impact of heavy wheel loads",
+      "b": "punching effect",
+      "c": "failure of subgrade",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2339",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The CBR method is used to design",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "flexible pavement",
+      "b": "rigid pavement",
+      "c": "none of the above",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2340",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Nose hanger is used normally for accommodation of ___________ size aircraft.",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "small",
+      "b": "large",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2341",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Runway is designed on the basis of",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "runway length",
+      "b": "types of airport",
+      "c": "types of aircraft",
+      "d": "wheel load of aircraft"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2342",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Wing loading of an aircraft is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "load of the wings",
+      "b": "gross total weight of the aircraft/ load of wings",
+      "c": "gross total weight of the aircraft/ wing area",
+      "d": "gross total weight of the aircraft/ total available H.P. of engines"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2343",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "Pick up the correct statement from the following",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "landing speed is directly proportional to the wing loading by",
+      "b": "wing loading remaining constant, the take-off distance is directly proportional to the power loading",
+      "c": "neither (a) nor (b) of above",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2344",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "If the visibility of the environment is less than 4 KNm then the pilot must follow",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "IFR",
+      "b": "VFR",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2345",
+    "chapter": "Design and Maintenance-II"
+  },
+  {
+    "question": "The FAA classification of the airport is based on",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "Function",
+      "b": "Geometric design",
+      "c": "Airport approach speed",
+      "d": "Length of Runway"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4026",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Ramp is a",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "wheeled staircase",
+      "b": "sloped road",
+      "c": "both sides of the runway",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4027",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The maximum length and pavement strength of the runway is that of",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "A1",
+      "b": "B2",
+      "c": "B3",
+      "d": "G7"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "4028",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For the proposed airport, the survey provides",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "master plan",
+      "b": "topographic plan",
+      "c": "grading plan",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4029",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The roof of the hanger is made of",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "RCC",
+      "b": "steel frame with Gl sheet",
+      "c": "bamboo truss",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4030",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The application of __________ diagram is used to find the orientation of the runway to get the desired wind coverage.",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "Wind Butterfly",
+      "b": "Wind Cycle",
+      "c": "Wind Star",
+      "d": "Wind Rose"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4031",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The types of hanger used for parking of large size aircraft is called",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "mouth hanger",
+      "b": "nose hanger",
+      "c": "eye hanger",
+      "d": "ear hanger"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4032",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The maximum number of airports is located in the district",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "Kathmandu",
+      "b": "Morang",
+      "c": "Okhaldhunga",
+      "d": "Solukhumbu"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4033",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Till 2080 B.S, how many international airport are there in Nepal?",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4034",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The capacity of an airport depends upon",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "maximum acceptable delay for departing aircraft",
+      "b": "number of taxiways available",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4035",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For the taxiways, following statement is true",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "the maximum longitudinal grade is 3%",
+      "b": "the permissible rate of change of grade is 1%",
+      "c": "the permissible transverse grade is 1.5%",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4036",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In the premix asphalt concrete of airport pavement construction, aggregate is also heated",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "for easy workability",
+      "b": "for easy spreading",
+      "c": "to generate a homogeneous mix",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4037",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "As per ICAO recommendation minimum width of the safety area for instrumental runway should is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "4.50 m",
+      "b": "78 m",
+      "c": "150 m",
+      "d": "300 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4038",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The apron is used for loading/unloading passenger while the taxiway is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "to carry traffic",
+      "b": "fueling of aircraft",
+      "c": "maintenance of aircraft",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4039",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The angle between the longitudinal axis of the fuselage and an inclined plane below which the views of the pilots are blocked by some part of the aircraft is known as",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "pitch angle",
+      "b": "cockpit cutoff angle",
+      "c": "slope angle",
+      "d": "horizontal angle"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4040",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In the premix asphalt concrete of airport pavement construction aggregate is also heated to",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "easy workability",
+      "b": "easy spreading",
+      "c": "generate a homogeneous mix",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4041",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The maximum value of the angle of turning the nose gear for large jet aircraft is limited to",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "200",
+      "b": "300",
+      "c": "450",
+      "d": "600"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "4042",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The name of the first plane landed on the old golf course which makes the present location of Tribhuvan International Airport is",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "helicopter",
+      "b": "twinatter",
+      "c": "glider",
+      "d": "railway"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4043",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which of the following international associations is the one that represents an authority for aviation?",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "CAAN",
+      "b": "ICAO",
+      "c": "ICAN",
+      "d": "DOCA"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "4044",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Classification of Airport by ICAO is based on",
+    "topic": "Airport Engineering",
+    "options": {
+      "a": "runway length",
+      "b": "wheel load",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "4045",
+    "chapter": "SECTION-I"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The shear force on a beam and the displacement are related by",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "V= El*d²y/dx²",
+      "b": "V= El*d³y/dx²",
+      "c": "V= El*d³y/dx³",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "457",
+    "chapter": ""
+  },
+  {
+    "question": "The moment of inertia of a rectangular (b x d) section about its base is",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "bd³/12",
+      "b": "db³/12.",
+      "c": "bd³/3",
+      "d": "db³/12"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "458",
+    "chapter": ""
+  },
+  {
+    "question": "The absence of spherical aberration in a telescope is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "achromation",
+      "b": "crimination",
+      "c": "aplanation",
+      "d": "definition"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "459",
+    "chapter": ""
+  },
+  {
+    "question": "If the formation level is less than the ground level, the difference between them at any point will give the",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "height of embankment",
+      "b": "depth of cutting",
+      "c": "proposed gradient",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "460",
+    "chapter": ""
+  },
+  {
+    "question": "An angle measured clockwise from the proceeding survey line to the following survey line is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "direct angle",
+      "b": "vertical angle",
+      "c": "horizontal angle",
+      "d": "deflection angle"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "461",
+    "chapter": ""
+  },
+  {
+    "question": "Due to the curvature of the earth, object looks",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "higher than really they are",
+      "b": "lower than really they are",
+      "c": "at real height",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "462",
+    "chapter": ""
+  },
+  {
+    "question": "Finely powdered burnt clay is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "fly ash",
+      "b": "surkhi",
+      "c": "briquette",
+      "d": "moraine"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "463",
+    "chapter": ""
+  },
+  {
+    "question": "The weight loss on heating of bitumen used for pavement should not be more than",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "1%",
+      "b": "3%",
+      "c": "4%",
+      "d": "5%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "464",
+    "chapter": ""
+  },
+  {
+    "question": "The temperature range at which the consistency test is conducted",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "25°C to 29 C",
+      "b": "20°C to 25°C",
+      "c": "20°C",
+      "d": "30°C to 35°C"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "465",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum percentage of water absorption of 1st class bricks in 24 hrs should be limited to",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "10%",
+      "b": "15%",
+      "c": "20%",
+      "d": "24%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "466",
+    "chapter": ""
+  },
+  {
+    "question": "Weber number is the ratio of inertia force to",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "surface tension",
+      "b": "gravitational force",
+      "c": "elasticity",
+      "d": "viscosity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "467",
+    "chapter": ""
+  },
+  {
+    "question": "Condition for maximum velocity & discharge is given by (closed flow)",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "0.81D & 0.95D",
+      "b": "0.82D & 0.94D",
+      "c": "0.83D & 0.93D",
+      "d": "0.84D & 0.92D"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "468",
+    "chapter": ""
+  },
+  {
+    "question": "The water immediately d/s of conduit or weir is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "headwater",
+      "b": "tail water",
+      "c": "main water",
+      "d": "surplus water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "469",
+    "chapter": ""
+  },
+  {
+    "question": "Euler's equation for the motion of liquids assumes that",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "fluid is viscous",
+      "b": "fluid is homogeneous and incompressible",
+      "c": "velocity of flow is non-uniform over the section",
+      "d": "flow is unsteady along the stream line"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "470",
+    "chapter": ""
+  },
+  {
+    "question": "Earth pressure at rest can be defined as lateral pressure exerted by the soil when the retaining wall tends to",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "move away from the backfill",
+      "b": "no movement relative to the backfill",
+      "c": "move into the soil",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "471",
+    "chapter": ""
+  },
+  {
+    "question": "The safe B.C. of a soil can be defined as",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "ultimate load on the bearing area",
+      "b": "load intensity beyond which the soil should not be loaded",
+      "c": "load at which the soil fails",
+      "d": "load beyond which the soil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "472",
+    "chapter": ""
+  },
+  {
+    "question": "'Drift' is the material picked up, mixed, disintegrated, transported, and deposited by",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "wind",
+      "b": "gravitational force",
+      "c": "glacier",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "473",
+    "chapter": ""
+  },
+  {
+    "question": "The ultimate bearing capacity of frictionless soils is",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "4.5c to 6c",
+      "b": "2c to 4c",
+      "c": "c to 3c",
+      "d": "2c to 5c"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "474",
+    "chapter": ""
+  },
+  {
+    "question": "The anchorage value of standard hook is taken as 16 times the diameter of the reinforcing bar, if the angle of the bend is equal to",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "30°",
+      "b": "40°",
+      "c": "180°",
+      "d": "any of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "475",
+    "chapter": ""
+  },
+  {
+    "question": "A flat slab is supported",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "on beams",
+      "b": "on columns",
+      "c": "on beams and columns",
+      "d": "on columns monolithically built with a slab"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "476",
+    "chapter": ""
+  },
+  {
+    "question": "When an inclined or horizontal member is carrying mainly axial loads, it is termed as",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "strut",
+      "b": "column",
+      "c": "tie",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "477",
+    "chapter": ""
+  },
+  {
+    "question": "The load cantilever projection from the face of the masonry wall is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "header",
+      "b": "stretcher",
+      "c": "corbel",
+      "d": "cornice"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "478",
+    "chapter": ""
+  },
+  {
+    "question": "A moulding provided under nosing to beautify the elevation of the step is known",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "scotia",
+      "b": "nosing",
+      "c": "soffit",
+      "d": "flier"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "479",
+    "chapter": ""
+  },
+  {
+    "question": "The construction joints are generally provided in concrete",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "roads",
+      "b": "retaining walls",
+      "c": "lining of tunnels",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "480",
+    "chapter": ""
+  },
+  {
+    "question": "Positive float can occur when it is",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "sub-critical activity",
+      "b": "critical activity",
+      "c": "super-critical activity",
+      "d": "normal activity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "481",
+    "chapter": ""
+  },
+  {
+    "question": "According to PPMO , maximum number of JV partner is",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "482",
+    "chapter": ""
+  },
+  {
+    "question": "The money deposited by the contractor as the guarantee of tender is known as _____________.",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "Bid bond",
+      "b": "Earnest money",
+      "c": "Both (a) and (b)",
+      "d": "Performance security"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "483",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of the supply of brick is",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "m³",
+      "b": "m",
+      "c": "m²",
+      "d": "number"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "484",
+    "chapter": ""
+  },
+  {
+    "question": "When it is not specified the number of holdfasts for a door is usually taken as",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "485",
+    "chapter": ""
+  },
+  {
+    "question": "In the case of roof truss made of steel, rivet, bolts and nuts usually accounts for",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "1%",
+      "b": "5%",
+      "c": "10%",
+      "d": "15%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "486",
+    "chapter": ""
+  },
+  {
+    "question": "The road metal thickness of the layer to be compacted should not exceed",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "5 cm",
+      "b": "10 cm",
+      "c": "15 cm",
+      "d": "30 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "487",
+    "chapter": ""
+  },
+  {
+    "question": "“Cross ruts\" are formed along an earthen road because of",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "heavy rainfall",
+      "b": "steep camber",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "488",
+    "chapter": ""
+  },
+  {
+    "question": "The initial application of a binder to an existing surface given to ensure thorough bond between the new construction and the existing is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "basic coat",
+      "b": "prime coat",
+      "c": "tack coat",
+      "d": "seal coat"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "489",
+    "chapter": ""
+  },
+  {
+    "question": "Which test is carried out to know the resistance to flow, of the given bituminous material?",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "softening point",
+      "b": "penetration",
+      "c": "ductility",
+      "d": "viscosity"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "490",
+    "chapter": ""
+  },
+  {
+    "question": "The angle of most acute vision of a driver is a cone of",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "3°",
+      "b": "10°",
+      "c": "15°",
+      "d": "20°"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "491",
+    "chapter": ""
+  },
+  {
+    "question": "Total losses in the canal is",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "40% of total discharge",
+      "b": "10% of total discharge",
+      "c": "60% of total discharge",
+      "d": "equal to seepage losses"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "492",
+    "chapter": ""
+  },
+  {
+    "question": "In rice, the depth of the root zone is generally",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "30 cm",
+      "b": "60 cm",
+      "c": "90 cm",
+      "d": "120 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "493",
+    "chapter": ""
+  },
+  {
+    "question": "When the discharge of the well decreases by the design amount, then this type of well is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "damage well",
+      "b": "rough well",
+      "c": "less capacity well",
+      "d": "sick well"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "494",
+    "chapter": ""
+  },
+  {
+    "question": "The angle between the head regulator and the water, for smooth entry of water in a canal, is generally kept at",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "60°",
+      "b": "90°",
+      "c": "100°",
+      "d": "110°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "495",
+    "chapter": ""
+  },
+  {
+    "question": "In a concrete-lined canal, the permissible velocity of water is",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "1 m/sec",
+      "b": "2 m/sec",
+      "c": "4 m/sec",
+      "d": "5 m/sec"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "496",
+    "chapter": ""
+  },
+  {
+    "question": "The quantity of water available from an infiltration gallery depends upon the",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "size of the gallery",
+      "b": "nature of soil",
+      "c": "yield of source",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "497",
+    "chapter": ""
+  },
+  {
+    "question": "A pressure conduit laid underground, may not be subjected to",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "internal pressure of water",
+      "b": "pressure due to external load.",
+      "c": "longitudinal temperature stress",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "498",
+    "chapter": ""
+  },
+  {
+    "question": "Rainwater of the locality which flows in the sewer is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "stormwater",
+      "b": "subsoil water",
+      "c": "sullage",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "499",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum height of a flushing cistern is",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "1 m",
+      "b": "2 m",
+      "c": "3 m",
+      "d": "5 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "500",
+    "chapter": ""
+  },
+  {
+    "question": "Pathogens in water may cause",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "Cholera",
+      "b": "Typhoid",
+      "c": "Dysentery",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "501",
+    "chapter": ""
+  },
+  {
+    "question": "महिला उमेद्वरका लागि निजामति सेवामा प्रवेश उमेरको हद कति वर्ष रहेको छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "२१",
+      "b": "३५",
+      "c": "४०",
+      "d": "४५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "502",
+    "chapter": ""
+  },
+  {
+    "question": "विश्व बन्धुत्वको भावना सहअस्तित्व बोध अहस्क्षेप कस्तो मूल्य र मान्यता हो?",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "अध्यात्मिक मूल्य र मान्यता",
+      "b": "नैतिक मूल्य र मान्यता",
+      "c": "पारिवारिक मूल्य र मान्यता",
+      "d": "अन्तर्राष्ट्रिय मूल्य र मान्यता"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "503",
+    "chapter": ""
+  },
+  {
+    "question": "राज्यको दैनिक प्रशासनीक खर्च तलब भत्ता आदिमा हुने खर्चलाई कुन प्रकारको बजेट शिर्षक अन्तर्गत राखिन्छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "पुजीगत बजेट",
+      "b": "चालु बजेट",
+      "c": "वित्तीय व्यवस्थापन बजेट",
+      "d": "विकास बजेट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "504",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा अडियो बडापत्रको सुरुवात सुरुवात कुन कार्यलयबाट भएको हो?",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "जि.प्र.का. तेह्रथुम",
+      "b": "जि.प्र.का. झापा",
+      "c": "जि.प्र.का. काठमाडौं",
+      "d": "जि.प्र.का. कास्कि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "505",
+    "chapter": ""
+  },
+  {
+    "question": "Footer will appear in page?",
+    "topic": "Lumbini Pradesh(sub engineer) - VI",
+    "options": {
+      "a": "Top",
+      "b": "Bottom",
+      "c": "Centre",
+      "d": "Side"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "506",
+    "chapter": ""
+  }
+]

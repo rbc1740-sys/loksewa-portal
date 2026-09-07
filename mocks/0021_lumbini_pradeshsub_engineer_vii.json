@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Flow in pipes is laminar if Reynold number is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "less than 2100",
+      "b": "more than 3000",
+      "c": "between 2100 and 3000",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "507",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of the inertia and gravitational force acting in any flow, ignoring other forces, is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Euler number",
+      "b": "Froude number",
+      "c": "Reynolds number",
+      "d": "Weber number"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "508",
+    "chapter": ""
+  },
+  {
+    "question": "The discharge through a trapezoidal channel is maximum when",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "m=d",
+      "b": "m=3d",
+      "c": "m=2d",
+      "d": "m=d/2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "509",
+    "chapter": ""
+  },
+  {
+    "question": "Actual velocity through orifice is ________ than the theoretical velocity.",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal",
+      "d": "not defined"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "510",
+    "chapter": ""
+  },
+  {
+    "question": "The reduction factor to the bearing capacity of soil due to the water table at a depth equal to the width of footing below the footing is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "0.25",
+      "b": "0.50",
+      "c": "0.75",
+      "d": "1.00"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "511",
+    "chapter": ""
+  },
+  {
+    "question": "Well foundation in sandy soils derive their bearing capacity from",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "skin friction",
+      "b": "point bearing",
+      "c": "uplift",
+      "d": "skin friction & point bearing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "512",
+    "chapter": ""
+  },
+  {
+    "question": "The uniformity coefficient of soil is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "D60/D10",
+      "b": "D10/D60",
+      "c": "D30/D10",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "513",
+    "chapter": ""
+  },
+  {
+    "question": "The types of soil, that contain particles of almost the same size",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "uniform soil",
+      "b": "uniformly graded soil",
+      "c": "skip-graded soil",
+      "d": "gap-graded soil"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "514",
+    "chapter": ""
+  },
+  {
+    "question": "The amount of reinforcement for main bars in a slab is based upon",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "maximum bending moment.",
+      "b": "minimum shear force",
+      "c": "maximum shear force",
+      "d": "minimum bending moment"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "515",
+    "chapter": ""
+  },
+  {
+    "question": "In RCC beam, N.A means",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "not applicable",
+      "b": "neutral axis",
+      "c": "natural axis",
+      "d": "normal axis"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "516",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum cover in a slab is neither less than the diameter of the bar nor less than",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "15 mm",
+      "b": "20 mm",
+      "c": "25 mm",
+      "d": "30 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "517",
+    "chapter": ""
+  },
+  {
+    "question": "Find the maximum BM induced in a simply supported beam if the beam is subjected to a point load of 4 KN at the centre of the beam and the span of the beam is 4 m",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "8 KN-m",
+      "b": "4KN-m",
+      "c": "2 KN-m",
+      "d": "1 KN-m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "518",
+    "chapter": ""
+  },
+  {
+    "question": "An invert is taken when the point is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "in a high elevation",
+      "b": "below the line of sight",
+      "c": "above the line of sight",
+      "d": "below ground level"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "519",
+    "chapter": ""
+  },
+  {
+    "question": "\"Cross-sectioning\" and \"Longitudinal-sectioning\" is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "when less number of intermediate sight exists",
+      "b": "in profile levelling",
+      "c": "in reciprocal levelling",
+      "d": "in differential levelling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "520",
+    "chapter": ""
+  },
+  {
+    "question": "The last reading of levelling is always a",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "back sight",
+      "b": "foresight",
+      "c": "intermediate sight",
+      "d": "any of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "521",
+    "chapter": ""
+  },
+  {
+    "question": "If temperature increases the sensitivity of a bubble tube",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "522",
+    "chapter": ""
+  },
+  {
+    "question": "In the intersection method of plane tabling the number of stations needed to be set up are",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "523",
+    "chapter": ""
+  },
+  {
+    "question": "The expansion of cement should not exceed _______ for any type of Portland cement.",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "5 mm",
+      "b": "10 mm",
+      "c": "15 mm",
+      "d": "20 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "524",
+    "chapter": ""
+  },
+  {
+    "question": "Swelling of bricks is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "bloating",
+      "b": "lamination",
+      "c": "chuff's",
+      "d": "efflorescence"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "525",
+    "chapter": ""
+  },
+  {
+    "question": "Lacquer paints are",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "generally applied on structural steel",
+      "b": "are more durable compared to enamel paints",
+      "c": "consisting of resin and nitro-cellulose",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "526",
+    "chapter": ""
+  },
+  {
+    "question": "The strength of cement for up to three months",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "100%",
+      "b": "80%",
+      "c": "70%",
+      "d": "60%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "527",
+    "chapter": ""
+  },
+  {
+    "question": "The arrangement of steps provided from the ground level to the plinth level is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "entry stair",
+      "b": "exit stair",
+      "c": "threshold",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "528",
+    "chapter": ""
+  },
+  {
+    "question": "To support a heavy structure in sandy soil, the type of foundation generally used, is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "combined footing",
+      "b": "raft footing",
+      "c": "pier footing",
+      "d": "strap footing"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "529",
+    "chapter": ""
+  },
+  {
+    "question": "The window which is provided on a sloping roof of a building, is called",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "lantern window",
+      "b": "dormer window",
+      "c": "louvered window",
+      "d": "rash window"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "530",
+    "chapter": ""
+  },
+  {
+    "question": "Codes used in Nepal for building construction/design is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "National Building Codes (NBC)",
+      "b": "Indian Standard Codes (ISC)",
+      "c": "American Standard Codes (ASC)",
+      "d": "British Standard Codes (BSC)"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "531",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum number of consulting firms for direct purchase of service is ________________.",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "532",
+    "chapter": ""
+  },
+  {
+    "question": "In a line organization",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "discipline is strong",
+      "b": "quick decisions are taken",
+      "c": "the responsibility of each individual is fixed",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "533",
+    "chapter": ""
+  },
+  {
+    "question": "The proportion of cement:sand:aggregate in M25 concrete is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "1:3:6",
+      "b": "1:2:4",
+      "c": "1:1.5:3",
+      "d": "1:1:2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "534",
+    "chapter": ""
+  },
+  {
+    "question": "The provision cost for providing water supply and sanitary in the building is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "8%",
+      "b": "5%",
+      "c": "2%",
+      "d": "3%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "535",
+    "chapter": ""
+  },
+  {
+    "question": "To get the dry or unmixed volume of mortar, the increase in volume is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "30 %",
+      "b": "50-55 %",
+      "c": "40 %",
+      "d": "10 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "536",
+    "chapter": ""
+  },
+  {
+    "question": "Tyre pressure influences the",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "total depth of the pavement",
+      "b": "quality of surface course",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "537",
+    "chapter": ""
+  },
+  {
+    "question": "The stopping sight distance required in a down-slope road is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "same as the horizontal road",
+      "b": "less than that in horizontal road",
+      "c": "more than that in the horizontal road",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "538",
+    "chapter": ""
+  },
+  {
+    "question": "Longitudinal joints in concrete roads are provided if the width exceeds",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "3.0 m",
+      "b": "4.5 m",
+      "c": "7.5 m",
+      "d": "10 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "539",
+    "chapter": ""
+  },
+  {
+    "question": "T-beam is suitable for",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "0-10 m span",
+      "b": "10-25 m span",
+      "c": "25-30 m span",
+      "d": "> 30 m span"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "540",
+    "chapter": ""
+  },
+  {
+    "question": "Bitumen is soluble in",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "diesel",
+      "b": "petrol",
+      "c": "ammonia",
+      "d": "carbon disulphide"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "541",
+    "chapter": ""
+  },
+  {
+    "question": "For an earthen dam, least suited spillway is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "ogee spillway",
+      "c": "shaft spillway",
+      "b": "chute spillway",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "542",
+    "chapter": ""
+  },
+  {
+    "question": "Lining of irrigation channels",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "increase the water logging area",
+      "b": "decreases the water logging area",
+      "c": "does not change the water logging area",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "543",
+    "chapter": ""
+  },
+  {
+    "question": "The crops require maximum water during",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "first watering when the crop has grown a few centimeters",
+      "b": "first watering before sowing the crops",
+      "c": "first watering before harvesting",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "544",
+    "chapter": ""
+  },
+  {
+    "question": "Groynes are generally built",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "perpendicular to the bank",
+      "b": "inclined upstream up to 30 degree",
+      "c": "inclined downstream up to 30 degree",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "545",
+    "chapter": ""
+  },
+  {
+    "question": "A divide wall is provided to",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "control the silt entering the canal",
+      "b": "separate the under sluices from the weir proper",
+      "c": "prevent river floods, from entering the canal",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "546",
+    "chapter": ""
+  },
+  {
+    "question": "Pipes for water supply are tested for",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "pressure",
+      "b": "leakage",
+      "c": "dimensions",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "547",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum diameter of a sewer pipe should be",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "5 cm",
+      "b": "10 cm",
+      "c": "15 cm",
+      "d": "25 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "548",
+    "chapter": ""
+  },
+  {
+    "question": "The specific retention is least in the soil type",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "coarse gravel",
+      "b": "sand",
+      "c": "clay",
+      "d": "silt"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "549",
+    "chapter": ""
+  },
+  {
+    "question": "A continuous flow of water can be expected from",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Gravity springs",
+      "b": "Artesian springs",
+      "c": "Surface springs",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "550",
+    "chapter": ""
+  },
+  {
+    "question": "The objective of drinking water supply is",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "to provide safe drinking water to citizens",
+      "b": "the source of water must be of good quality",
+      "c": "treatment/purification of water to improve its quality",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "551",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा निजामति सेवा ऐन कहिले जारी भयो?",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "वि.सं. २०१३ भदौ २२",
+      "b": "वि.सं. २०११ भदौ २२",
+      "c": "वि.सं. २०१४ भदौ २२",
+      "d": "वि.सं. २०१५ भदौ २२"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "552",
+    "chapter": ""
+  },
+  {
+    "question": "Two factor theory का प्रतिपादक को हुन?",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "Maslow",
+      "b": "Alderfer",
+      "c": "Hertzberg",
+      "d": "Willima Ouchi"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "553",
+    "chapter": ""
+  },
+  {
+    "question": "In Microsoft Excel spreadsheets, COLUMNS are labelled as _______.",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "1,2,3,…..",
+      "b": "A,B,C,….",
+      "c": "A1,B1,C1….",
+      "d": "I,II,III,….."
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "554",
+    "chapter": ""
+  },
+  {
+    "question": "चिठ्ठि पत्र इमेल इन्टरनेटको प्रयोग गरी गरिने सञ्चार कस्तो प्रकारको सञ्चार हो?",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "प्रत्यक्ष सञ्चार",
+      "b": "अप्रत्यक्ष सञ्चार",
+      "c": "अनौपचारिक सञ्चार",
+      "d": "मौखिक सञ्चार"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "555",
+    "chapter": ""
+  },
+  {
+    "question": "क्षतिपूर्ति सहितको नागरिक बडापत्र लागु हुने सुरुका ५ कार्यलयमा कुन पर्दैन?",
+    "topic": "Lumbini Pradesh(sub engineer) - VII",
+    "options": {
+      "a": "अध्यागमन विभाग",
+      "b": "वैदेशिक रोजगार विभाग",
+      "c": "यातायात व्यवस्था विभाग",
+      "d": "खाद्य प्रविधि तथा गुण नियन्त्रण विभाग"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "556",
+    "chapter": ""
+  }
+]

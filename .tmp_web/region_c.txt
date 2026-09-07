@@ -1,0 +1,41 @@
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            ${Object.entries(q.options || {})
+              .map(([key, text]) => {
+                const k = (key || '').toLowerCase();
+                const wrongKeys = (attempt && attempt.wrongSelections) || [];
+                const isWrongPicked = wrongKeys.includes(k);
+
+                let btnStyle =
+                  'border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700/50';
+                let iconHtml = '';
+                let iconClass = '';
+
+                if (isCorrect) {
+                  // SOLVED: correct option green ✓, wrong picks red ✗, rest locked
+                  if (k === correctAnswer) {
+                    btnStyle = 'border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-900 dark:text-emerald-300 font-semibold ring-2 ring-emerald-400';
+                    iconHtml = '<i data-lucide="check" class="w-4 h-4 text-emerald-500 shrink-0"></i>';
+                    iconClass = 'mr-2';
+                  } else if (isWrongPicked) {
+                    btnStyle = 'border-rose-500 bg-rose-50 dark:bg-rose-950/40 text-rose-900 dark:text-rose-300 font-semibold ring-2 ring-rose-400';
+                    iconHtml = '<i data-lucide="x" class="w-4 h-4 text-rose-500 shrink-0"></i>';
+                    iconClass = 'mr-2';
+                  }
+                  btnStyle += ' pointer-events-none opacity-80';
+                } else if (isWrongPicked) {
+                  // STILL GUESSING: eliminated wrong options stay red + locked
+                  btnStyle = 'border-rose-500 bg-rose-50 dark:bg-rose-950/40 text-rose-900 dark:text-rose-300 font-semibold ring-2 ring-rose-400';
+                  iconHtml = '<i data-lucide="x" class="w-4 h-4 text-rose-500 shrink-0"></i>';
+                  iconClass = 'mr-2';
+                  btnStyle += ' pointer-events-none opacity-80';
+                }
+                // All other options stay fully clickable while the user keeps trying.
+
+                return `
+                <button onclick="selectAndEvaluatePracticeAnswer('${q.id}', '${key}')" class="p-3 text-left rounded-xl border text-sm transition-all flex items-center justify-between ${btnStyle}">
+                  <span class="flex items-center"><strong class="uppercase mr-2 ${iconClass}">${key})</strong> ${text} ${iconHtml}</span>
+                </button>
+              `;
+              })
+              .join('')}
+          </div>

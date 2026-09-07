@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "611217654714",
+    "project_id": "loksewa-portal-8a3ae",
+    "storage_bucket": "loksewa-portal-8a3ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611217654714:android:6e95ceb07cb404fcc3d383",
+        "android_client_info": {
+          "package_name": "com.loksewa.preppro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611217654714-lle2m1k1grtidmv4gqi9fqpoqa8a0ac0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CLM0ebvelK4qYJhHiMKZaIcXsH4PF28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611217654714-lle2m1k1grtidmv4gqi9fqpoqa8a0ac0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611217654714-5ibc68spvfjdssg89nj3rng41vrm0428.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loksewa.preppro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

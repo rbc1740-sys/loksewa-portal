@@ -1,0 +1,49 @@
+{
+  "name": "loksewa-prep-pro",
+  "version": "1.0.0",
+  "description": "Loksewa MCQ Preparation Portal",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest run --coverage",
+    "test:e2e": "playwright test",
+    "test:e2e:ui": "playwright test --ui",
+    "lint": "eslint . --ext .js,.html",
+    "format": "prettier --write .",
+    "bank:manifest": "node scripts/generate-question-bank-manifest.js",
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "loksewa",
+    "mcq",
+    "preparation",
+    "nepal"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/react": "~19.2.4",
+    "@vitest/coverage-v8": "^2.0.5",
+    "@vitest/ui": "^2.0.5",
+    "eslint": "^9.10.0",
+    "happy-dom": "^15.0.0",
+    "jsdom": "^25.0.0",
+    "playwright": "^1.47.0",
+    "prettier": "^3.3.3",
+    "serve": "^14.2.3",
+    "typescript": "~6.0.3",
+    "vitest": "^2.0.5"
+  },
+  "dependencies": {
+    "expo": "^57.0.16",
+    "react": "19.2.3",
+    "react-native": "0.86.2"
+  },
+  "allowScripts": {
+    "esbuild@0.21.5": true
+  }
+}

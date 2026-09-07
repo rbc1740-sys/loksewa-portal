@@ -1,0 +1,3362 @@
+[
+  {
+    "question": "What is the name of water which flows under gravity?",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "hygroscopic water",
+      "b": "gravity water",
+      "c": "capillary water",
+      "d": "residue water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3308",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Up to which point a plant can extract water?",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "saturation point",
+      "b": "permanent wilting point",
+      "c": "hydration point",
+      "d": "dissolution point"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3309",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "What is the name of the actual available water to the plants?",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "available moisture",
+      "b": "moisture",
+      "c": "capillary water",
+      "d": "hygroscopic water"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3310",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Water found on the surface of the soil, which is not capable of movement either by gravity or capillary and can only be driven off by heat, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "water vapor",
+      "b": "moisture",
+      "c": "hygroscopic water",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3311",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The water utilized by plants is available in soils mainly in the form of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "capillary water",
+      "b": "gravity water",
+      "c": "hygroscopic water",
+      "d": "pore water"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3312",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The top of the capillary zone",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "lies below the water table at every point",
+      "b": "lies above the water table at every point",
+      "c": "coincides with the water table at every point",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3313",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The operation during the infiltration of water below the ground surface is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "adsorption",
+      "b": "absorption",
+      "c": "ozonization",
+      "d": "sedimentation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3314",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Intensity of irrigation",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "is the percentage of cultivable command area proposed to the irrigated annually",
+      "b": "as always more than 100%",
+      "c": "is the percentage that could be ideally irrigated",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3315",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The area under which inferior crops can be grown without irrigation is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "arid zone",
+      "b": "semi-arid zone",
+      "c": "fertile zone",
+      "d": "desert"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3316",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "An artesian aquifer is the one where",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "water surface under the ground is at atmospheric pressure",
+      "b": "water is under pressure between two impervious strata",
+      "c": "water table serves as the upper surface of the zone of saturation",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3317",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The other name of an unconfined aquifer is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "temporary aquifer",
+      "b": "permanent aquifer",
+      "c": "free aquifer",
+      "d": "perched aquifer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3318",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The methods used for drilling tube wells in compacted rock materials is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "wash boring",
+      "b": "percussion method",
+      "c": "hydraulic rotary",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3319",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Percolation loss is less in the case of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "sandy soil",
+      "b": "black cotton soil",
+      "c": "silty soil",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3320",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "When the discharge of the well decreases by the design amount, then this type of well is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "damage well",
+      "b": "rough well",
+      "c": "less capacity well",
+      "d": "sick well"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3321",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The maximum quantity of water that can be supplied from the reservoir with full guarantee, during the worst dry period, is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "safe yield",
+      "b": "design yield",
+      "c": "secondary yield",
+      "d": "average yield"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3322",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Find the culturable command area from the following data. GCA=400Ha, wheat=200Ha, maize=50Ha, paddy=100Ha, barren land=50Ha",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "200 Ha",
+      "b": "150Ha",
+      "c": "50 Ha",
+      "d": "350 Ha"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3323",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The effective precipitation for a crop is the water which is equal to the",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "water stored in the soil within the root zone of the crop",
+      "b": "total precipitation during the crop period",
+      "c": "total precipitation minus the loss due to infiltration",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3324",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The types of irrigation applicable if there is a scarcity of water with high-pressure",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "drip irrigation",
+      "b": "trickle irrigation",
+      "c": "both (a) and (b) of above",
+      "d": "sprinkler irrigation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3325",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "For standing crops in undulating sandy fields, the best method of irrigation, is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "free flooding",
+      "b": "check flooding",
+      "c": "sprinkler irrigation",
+      "d": "furrow method"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3326",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The types of irrigation is during low quantity of water",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "sprinkler irrigation",
+      "b": "drip irrigation",
+      "c": "free flooding",
+      "d": "furrow method"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3327",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The most commonly adopted method of irrigation for cereal crops is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "furrow flooding",
+      "b": "border flooding",
+      "c": "check flooding",
+      "d": "free flooding"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3328",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The method of irrigation, in which land surrounded by natural or artificial hanks is flooded, is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "broad irrigation",
+      "b": "natural irrigation",
+      "c": "basin irrigation",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3329",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The irrigation with sewage from a town, instead of natural water, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "effluent irrigation",
+      "b": "fertility irrigation",
+      "c": "oxidation irrigation",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3330",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "On rolling land, the method of applying water is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "check flooding",
+      "b": "free flooding",
+      "c": "border flooding",
+      "d": "furrow flooding"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3331",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The consumptive use of water in a crop",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "is measured in terms of the depth of water on the irrigated area",
+      "b": "is measured by the volume of water per unit area",
+      "c": "is partly supplied by precipitation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3332",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The crop, which improves the nitrogen content of the soil,",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "aquatic crop",
+      "b": "perennial crop",
+      "c": "leguminous crop",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3333",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "A crop that takes more than 4 months to mature is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "solid crop",
+      "b": "long crop",
+      "c": "hard crop",
+      "d": "cash crop"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3334",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Crop ratio, is the ratio of area irrigated",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "in rabi season to kharif season",
+      "b": "in kharif season to Rabi season",
+      "c": "under perennial crop to total crop",
+      "d": "under perennial crop to non-perennial crop"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3335",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Water logging may result from",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "over-irrigation",
+      "b": "inadequate drainage",
+      "c": "seepage from adjoining reservoirs etc.",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3336",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "In waterlogged lands",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "The soil pores are within a depth of 1 meter",
+      "b": "The soil pores are saturated up to the root zone of the crop",
+      "c": "The soil pores saturated up to a depth of 40cm",
+      "d": "The soil pores are saturated up to the top"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3337",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "A land is called waterlogged",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "when the permanent wilting point is reached",
+      "b": "when gravity drainage has ceased",
+      "c": "capillary fringe reaches the root zone of plants",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3338",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Water logging of fields can be reduced by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "providing canal lining",
+      "b": "providing intercepting drains",
+      "c": "controlling the intensity of irrigation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3339",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The disadvantage of water logging of fields is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "plant diseases",
+      "b": "growth of water weeds.",
+      "c": "rise of salt in the surface layer",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3340",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "As the salinity of water increases, electrical conductivity",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3341",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Salt present in water, harmful for cultivation purposes, is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "sodium carbonate",
+      "b": "potassium sulphate",
+      "c": "calcium sulphate",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3342",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The fertility of the soil is adversely affected when the pH value is more than",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "7",
+      "b": "9",
+      "c": "11",
+      "d": "14"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3343",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "For irrigation purposes the PH value of water should be",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "between 3 and 6",
+      "b": "between 6 and 8.5",
+      "c": "between 8.5 and 11",
+      "d": "more than 11"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3344",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Crop water is proportional to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "evapo-transpiration",
+      "b": "effective rainfall",
+      "c": "seepage of water",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3345",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The time (generally in days) for which a crop occupies a field to attain its maturity is known",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "duty",
+      "b": "base period",
+      "c": "delta",
+      "d": "yield period"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3346",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "For any crop base period is measured in",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "day",
+      "b": "week",
+      "c": "month",
+      "d": "year"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3347",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "A climatic region lacking enough water for agriculture without artificial irrigation is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "arid zone",
+      "b": "dry zone",
+      "c": "desert one",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3348",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The duty is largest",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "at the head of the main canal",
+      "b": "at the head of the watercourse",
+      "c": "on the field",
+      "d": "same at all places"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3349",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The \"outlet discharge factor\" is the duty at the head of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "main canal",
+      "b": "branch canal",
+      "c": "water course",
+      "d": "Distributary"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3350",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The kor depth for rice is 19 cm and the kor period is 14 days. The outlet factor for this will be",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "473 hectares/m/sec",
+      "b": "637 hectares /m/sec",
+      "c": "1837 hectares /m/sec",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3351",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "When the base period of the crop is 100 days. The delta for the crop will be _________ if duty of the crop is 432 he/cumec",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "432 cm",
+      "b": "200 cm",
+      "c": "864 cm",
+      "d": "100 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3352",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The average delta of rice crop is nearly",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "30 cm",
+      "b": "60 cm",
+      "c": "120 cm",
+      "d": "150 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3353",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "In rice, the depth of the root zone is generally",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "30 cm",
+      "b": "60 cm",
+      "c": "90 cm",
+      "d": "120 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3354",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The optimum depth of kor watering for rice crops is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "13.5cm",
+      "b": "16.5cm",
+      "c": "19 cm",
+      "d": "21cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3355",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Optimum depth of kor watering for wheat in the plains or terai, is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "13.5 cm",
+      "b": "16.5 cm",
+      "c": "19 cm",
+      "d": "21 cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3356",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "The ratio of the quantity of water stored in the root zone of the crops to the quantity of water actually delivered in the field, is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "water conveyance efficiency",
+      "b": "water application efficiency",
+      "c": "water use efficiency",
+      "d": "any of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3357",
+    "chapter": "General and Crop Water Requirement"
+  },
+  {
+    "question": "Loss of canal discharge occurs mainly due to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "seepage and percolation",
+      "b": "percolation and absorption",
+      "c": "seepage and evaporation",
+      "d": "seepage and absorption"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3358",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Total losses in the canal is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "40% of total discharge",
+      "b": "10% of total discharge",
+      "c": "60% of total discharge",
+      "d": "equal to seepage losses"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3359",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The amount of evaporation loss is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "1 to 2 percent of the water entering into the canal",
+      "b": "2 to 5 percent of the water entering into the canal",
+      "c": "5 to 10 percent of the water entering into the canal",
+      "d": "50 to 20 percent of the water entering into the canal"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3360",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The thickness of concrete lining, for discharge up to 200 cumecs varies from",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "5 to 10 cm",
+      "b": "10 to 15 cm",
+      "c": "15 to 20 cm",
+      "d": "20 to 30 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3361",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The mean velocity of the canal should never be",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "less than the critical velocity",
+      "b": "more than critical velocity",
+      "c": "equal to critical velocity",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3362",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "In a concrete-lined canal, the permissible velocity of water is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "1 m/sec",
+      "b": "2 m/sec",
+      "c": "4 m/sec",
+      "d": "5 m/sec"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3363",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "In a stone masonry-lined canal, the permissible velocity of water is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "1 m/sec",
+      "b": "2 m/sec",
+      "c": "3 m/sec",
+      "d": "4 m/sec"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3364",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A minimum of 90 cm freeboard is provided, if the discharge in the canal is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "between 10 and 30 cumecs",
+      "b": "between 30 and 60 cumecs",
+      "c": "over 60 cumecs",
+      "d": "over 100 cumecs"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3365",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Roughness of the bed and sides of a channel can be reduced by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "removing sand bars",
+      "b": "removing fallen trees and other snags",
+      "c": "preventing cropping on river beds near banks",
+      "d": "all of the above."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3366",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The most suitable section of a lined canal, is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "triangular section with circular bottom for small canals",
+      "b": "trapezoidal section with rounded corners for large canals",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3367",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Boulder lining is useful where",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "the groundwater level is above the bed of the canal",
+      "b": "prevention of erosion is required",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3368",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The shape of the lined canal recommended by ISI is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "triangular",
+      "b": "rectangular",
+      "c": "parabolic",
+      "d": "trapezoidal"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3369",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "In a barrage, the crest level is kept",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "low with large gates",
+      "b": "high with large gates",
+      "c": "high with small gates",
+      "d": "low with small gates"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3370",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A hydraulic structure is designed to withstand",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "seepage",
+      "b": "hydraulic jump",
+      "c": "hydraulic pressure",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3371",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The most suitable location for a canal head work, is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "boulders stage of the river",
+      "b": "delta stage of the river",
+      "c": "rock stage of the river",
+      "d": "trough stage of the river"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3372",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Diversion headwork is constructed to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "lower water level in the river",
+      "b": "regulate the intake of water into the canal",
+      "c": "regulate silt entry into the canal",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3373",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The main function of diversion head works of a canal from a river, is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "to remove silt",
+      "b": "to control floods",
+      "c": "to store water",
+      "d": "to raise the water level"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3374",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The main function of the distributary head regulator is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "to regulate the supply entering the distributary from the parent channel",
+      "b": "to control the silt entering into the distributary",
+      "c": "to serve as a meter for discharge measurement",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3375",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A device provided near weirs or dams to facilitate the migration of fish upstream or downstream around the weirs, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "Fishnet",
+      "b": "Fish ladder",
+      "c": "Fish channel",
+      "d": "Fishpond"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3376",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A regulator provided with under sluices for the escape of wash out of the heavily sand-laden bottom water of a channel, is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "silt regulator",
+      "b": "silt extractor",
+      "c": "silt ejector",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3377",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A silt regulator located at the head of a channel is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "silt ejector",
+      "b": "silt excluder",
+      "c": "silt sweeper",
+      "d": "silt washer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3378",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "After entering the canal, sediments are removed by the",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "silt ejector",
+      "b": "silt excluder",
+      "c": "silt regulator",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3379",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Sill excluders are constructed on the",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "river bed downstream of head regulator",
+      "b": "river bed upstream of head regulator",
+      "c": "canal bed upstream of head regulator",
+      "d": "canal bed down steam of head regulator"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3380",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "As the coefficient of friction increases, the velocity of water in a canal",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3381",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The supply passing down the parent channel is controlled by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "head regulator",
+      "b": "cross regulator",
+      "c": "distributary head regulator",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3382",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A cross regulator is provided on the main canal at the",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "downstream of the off-take",
+      "b": "upstream of the off-take",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3383",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The canal head regulator is provided at the head of the off-taking canal to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "regulate the supply of water in the canal",
+      "b": "control the entry of silt into the canal",
+      "c": "prevent the river floods from entering the canal",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3384",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "If there are two canals taking off from each bank of a river, then there will be",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "one divide wall and one under sluice",
+      "b": "one divide wall and two under sluice",
+      "c": "two divide wall and one under sluice",
+      "d": "two divide wall and two under sluice"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3385",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Pick up the correct sequence of the parts of a canal system",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "head works-distributary- branch canal-minor",
+      "b": "head works - main canal - branch canal - minor-distributary",
+      "c": "head works- main canal - branch canal-distributary- minor",
+      "d": "head works - branch canal - main canal-distributary"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3386",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A canal, designed to irrigate throughout the year is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "permanent canal",
+      "b": "perennial canal",
+      "c": "continuous canal",
+      "d": "green canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3387",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Canals taken off from ice-fed perennial rivers are known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "permanent canal",
+      "b": "perennial canal",
+      "c": "continuous canal",
+      "d": "green canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3388",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A canal, constructed by the side of and generally parallel to the parent canal with different bed slopes is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "parallel canal",
+      "b": "ditch canal",
+      "c": "drain canal",
+      "d": "side canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3389",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A canal which is aligned at right angles to the contour is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "contour canal",
+      "b": "branch canal",
+      "c": "side slope canal",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3390",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Single bank canal is the other name of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "ridge canal",
+      "b": "contour canal",
+      "c": "side slope canal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3391",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Canals taking off from a river with or without head regulator, are called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "feeder canal",
+      "b": "inundation canal",
+      "c": "ditch canal",
+      "d": "contour canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3392",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The group of canals that avoid cross-drainage work",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "watershed and contour",
+      "b": "contour and side slope",
+      "c": "side slope and watershed",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3393",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Canal normally used for the diversion of flood waters of a river is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "feeder canal",
+      "b": "inundation canal",
+      "c": "ridge canal",
+      "d": "contour canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3394",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "Canal used to drain water from water-logged areas is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "ditch canal",
+      "b": "drain canal",
+      "c": "perennial canal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3395",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The most desirable alignment of an irrigation canal is along",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "a contour line",
+      "b": "the ridge line",
+      "c": "the valley line",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3396",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "A contour canal",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "irrigates only on one side",
+      "b": "is most suitable in hilly areas",
+      "c": "is generally aligned parallel to the contour the area",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3397",
+    "chapter": "Irrigation Canal-I"
+  },
+  {
+    "question": "The angle between the head regulator and the water, for smooth entry of water in a canal, is generally kept at",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "60°",
+      "b": "90°",
+      "c": "100°",
+      "d": "110°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3398",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The mean velocity, for a channel of a given depth, which will just keep the channel all year free from silting or scouring its bed, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "optimum velocity",
+      "b": "ideal velocity",
+      "c": "critical velocity",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3399",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The maximum velocity in a circular channel of diameter D occurs when the depth of flow",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "3.50 D",
+      "b": "0.73 D",
+      "c": "0.81D",
+      "d": "0.90 D"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3400",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Bed bars in a canal are provided",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "to raise the supply level",
+      "b": "to measure the discharge",
+      "c": "to watch the general behavior of the canal",
+      "d": "to control the silting"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3401",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Bed bars provided in the canal are made of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "cement concrete",
+      "b": "brick memory",
+      "c": "iron rod",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3402",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Borrow pits are preferably located in the field",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "on the left side of the canal",
+      "b": "on the right side of the canal",
+      "c": "on both sides of the canal",
+      "d": "in the central half section of the canal"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3403",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "A spoil bank is formed when",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "the canal has a steep bed slope",
+      "b": "the volume of excavation is in excess of the embankment filling",
+      "c": "the canal section is too large",
+      "d": "the canal alignment is meandrous"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3404",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Lime concrete lining is used",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "when the velocity of flow is below 2m/sec",
+      "b": "in irrigation channels with capacities up to 200 cumecs",
+      "c": "where economy is required",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3405",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "According to Manning's formula the velocity is inversely proportional to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "rugosity coefficient",
+      "b": "HMD",
+      "c": "gradient",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3406",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "\"Rugosity\" coefficient for a silt clay",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "0.0225",
+      "b": "0.025",
+      "c": "0.0275",
+      "d": "0.03"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3407",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "A rectangular channel is said to be wide, if",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "width is five times the depth of flow",
+      "b": "width is more than five times the depth of the flow",
+      "c": "width is more than ten times the depth of the flow",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3408",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Weed growth in a canal leads to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "increase in discharge",
+      "b": "decrease in silting",
+      "c": "decrease in discharge",
+      "d": "increase in velocity of flow"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3409",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Tail race",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "is a channel conducting water away from a water wheel",
+      "b": "has a gradient steeper than that of the canal",
+      "c": "is the channel between the silt extractor and the river through which the escape water is discharged",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3410",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The ratio of average values of shear stresses produced on the bed and the banks of a channel due to flowing water is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "less than 1",
+      "b": "more than 1",
+      "c": "equal to 1",
+      "d": "zero"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3411",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Whenever an embankment has to be built on an unreliable soil, provision is made for",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "sand core",
+      "b": "percolation",
+      "c": "clay puddle",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3412",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "A facing of dry stone pitching or other material laid on a sloping face of earth to maintain the slope in position or to protect it from erosion, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "reinforcement",
+      "b": "revetment",
+      "c": "lining",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3413",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The main advantage of lining irrigation channels is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "reduction in loss of water due to seepage",
+      "b": "economy in the use of cultivable land which would otherwise be prone to waterlogging",
+      "c": "withstand higher velocities causing proportional reduction in cross-sectional area",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3414",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Depth of the canal cross-section such that the quantity of excavation is equal to the earthwork required for banks, is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "balancing depth",
+      "b": "canal depth",
+      "c": "water depth",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3415",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The name of the structure which destroys the energy is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "stilling basin",
+      "b": "reservoir",
+      "c": "head regulator",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3416",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The velocity at which eddies in the flow die out, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "critical velocity",
+      "b": "lower critical velocity",
+      "c": "higher critical velocity",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3417",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "A weir constructed to divert part or all the water from the stream into a different course is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "free weir",
+      "b": "intake weir",
+      "c": "submerged weir",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3418",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "A divide wall is provided to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "control the silt entering the canal",
+      "b": "separate the under sluices from the weir proper",
+      "c": "prevent river floods, from entering the canal",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3419",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The overflow portion of the dam, over which surplus discharge flows from the reservoir to the downstream is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "spillway",
+      "b": "dam",
+      "c": "groyne",
+      "d": "channel"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3420",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Which of the following is Manning's formula?",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "V =c√lS",
+      "b": "V= 1/n S1/2 R2/3",
+      "c": "V =cI√ S",
+      "d": "V= 4.75√Q"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3421",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The Darcy's formula is given by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "the rate of flow is proportional to the hydraulic gradient",
+      "b": "the rate of flow is proportional to the exit gradient",
+      "c": "the rate of discharge is proportional to the hydraulic gradient",
+      "d": "the rate of discharge is proportional to the exit gradient"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3422",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The formula V= 0.55mD0.64 is given by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "Lacey",
+      "b": "Kennedy",
+      "c": "Chezy’s",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3423",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "A multipurpose reservoir is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "planned and constructed to serve various purposes",
+      "b": "designed for one purpose but serves more purposes",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3424",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The types of reservoir in which a water control device is not provided is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "retarding reservoir",
+      "b": "detention reservoir",
+      "c": "both a) and b) of above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3425",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Silt carrying capacity of water in a canal depends on",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "silt charge",
+      "b": "discharge",
+      "c": "surface slope",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3426",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "In a reservoir, which type of storage is normally used?",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "useful storage",
+      "b": "surcharge storage",
+      "c": "bank storage",
+      "d": "dead storage"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3427",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The useful storage is the volume of water stored in the reservoir between",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "minimum pool level and maximum pool level",
+      "b": "minimum pool level and normal pool level",
+      "c": "normal pool level and maximum pool level",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3428",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The portion of the reservoir normally not utilized is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "dead storage",
+      "b": "useful storage",
+      "c": "bank",
+      "d": "valley storage"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3429",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The water stored in the reservoir below the minimum pool level is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "useful storage",
+      "b": "dead storage",
+      "c": "valley storage",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3430",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The volume of water stored between the normal pool level and the maximum pool level is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "bank storage",
+      "b": "surcharge storage",
+      "c": "useful storage",
+      "d": "deep storage"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3431",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "For a flood control reservoir, effective storage is equal to useful storage",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "useful storage + surcharge storage",
+      "b": "useful storage-valley storage",
+      "c": "useful storage-valley storage+ surcharge storage",
+      "d": "useful storage+ valley storage +surcharge storage"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3432",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "F.S.L. of a canal at its head with respect to parent channel is kept",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "at the same level",
+      "b": "15 cm lower",
+      "c": "15 cm higher",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3433",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "Drain over the irrigation canal is achieved by providing",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "a siphon",
+      "b": "super passage",
+      "c": "an aqueduct",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3434",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "If irrigation canal and drain are at the same level, the cross drainage work is achieved by providing",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "a level crossing",
+      "b": "an inlet and outlet",
+      "c": "siphon aqueduct",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3435",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The bed of a canal is lowered in case of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "level crossing",
+      "b": "canal siphon",
+      "c": "siphon aqueduct",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3436",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "The structure provided where natural drainage and canal meets at the same level is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "aqueduct",
+      "b": "siphon",
+      "c": "super passage",
+      "d": "level crossing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3437",
+    "chapter": "Irrigation Canal-II"
+  },
+  {
+    "question": "For siphon aqueducts, the highest flood level of the drain is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "much above the canal bed",
+      "b": "much below the canal trough",
+      "c": "at the level of the canal bed",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3438",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "When the bed level of the canal is higher than HFL of the drainage, then the cross-drainage work is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "an aqueduct",
+      "b": "siphon aqueduct",
+      "c": "canal siphon",
+      "d": "super passage"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3439",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "Disposal of extra excavated earth of canals, is utilized to provide a spoil bank on",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "left side",
+      "b": "right side",
+      "c": "none of the above",
+      "d": "both (a) and (b)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3440",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The aqueduct or super passage type of cross drainage head works are used, when",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "high flood drainage discharge is small",
+      "b": "high flood drainage discharge is large and short-lived",
+      "c": "high flood drainage discharge is large and continues for a long time",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3441",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "In a siphon aqueduct, the maximum uplift pressure on the floor occurs, when",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "the canal is full",
+      "b": "the canal is full and drainage is dry",
+      "c": "the canal is empty and the water table in the stream rises to the canal bed",
+      "d": "both canal and drainage are full"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3442",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "When the canal runs below the drain, the cross-drainage work provided is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "aqueduct",
+      "b": "supper passage",
+      "c": "level crossing",
+      "d": "siphon"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3443",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "In a canal siphon, flow is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "pipe flow",
+      "b": "under negative pressure",
+      "c": "under atmospheric pressure",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3444",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The structure constructed to allow drainage water to flow under pressure through an inverted siphon below a canal, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "a siphon",
+      "b": "aqueduct",
+      "c": "siphon aqueduct",
+      "d": "super passage"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3445",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "If the R.Ls of canal bed level and the high flood level of drainage are 210.0m and 212.0m respectively, then cross-drainage work will be",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "aqueduct",
+      "b": "super passage",
+      "c": "siphon aqueduct",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3446",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "Meandering of a river generally occurs, in",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "rocky stage",
+      "b": "delta stage",
+      "c": "boulder stage",
+      "d": "trough stage"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3447",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The elementary profile of a dam is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "trapezoidal",
+      "b": "a right-angled triangle",
+      "c": "a rectangle",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3448",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "A low-gravity dam is one in which",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "the height of water stored is less than 30 m",
+      "b": "the resultant just passes through the downstream middle third point",
+      "c": "the maximum principal stress is less than the allowable crushing strength and the upstream face is vertical",
+      "d": "the height of the dam is less than 5 times the top width"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3449",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The forces, considered for the analysis of an elementary profile of a gravity dam under empty reservoir conditions are",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "uplift pressure",
+      "b": "water pressure",
+      "c": "self-weight",
+      "d": "earthquake pressure"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3450",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "Guide banks for training a river at the site of a bridge or weir, are called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "safe bunds",
+      "b": "guide bunds",
+      "c": "side bunds",
+      "d": "bell bunds"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3451",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "When the reservoir is full, the maximum compressive force in a gravity dam is produced",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "at the heel",
+      "b": "at the toe",
+      "c": "at the center of the base",
+      "d": "within the middle third of the base"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3452",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "In a gravity dam, tail water causes",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "decrease in principal stress",
+      "b": "decrease in shear stress",
+      "c": "increase in both principal and shear stress",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3453",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The uplift pressure acting on a dam is controlled by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "pressure grouting in the foundation",
+      "b": "constructing drainage channels between the dam and its foundation",
+      "c": "constructing cutoff under the upstream face",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3454",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "In a gravity dam total force due to wave pressure acts at a height of, Where 'hw’ is the height of the wave",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "0.375 hw above the still water level",
+      "b": "0.5 hw above the still water level",
+      "c": "0.66 hw above the still water level",
+      "d": "0.92 hwabove the still water level"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3455",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "For the economical design of a gravity dam, the shear friction factor should be",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "0.65",
+      "b": "1",
+      "c": "between 1 and 2",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3456",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "On a suitable foundation, the earthen dam can be constructed up to a height of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "50 m",
+      "b": "100 m",
+      "c": "150 m",
+      "d": "200 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3457",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The discharge through a channel is maximum when",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "m=d/3",
+      "b": "d=b/2",
+      "c": "m =d",
+      "d": "m= 1.5d"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3458",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The discharge through a channel is maximum when",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "d =b/ 3",
+      "b": "m =d/ 2",
+      "c": "d =b",
+      "d": "b = 1.5d"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3459",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The discharge through the trapezoidal channel is maximum when",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "half of the top width = sloping side",
+      "b": "top width = half of sloping side",
+      "c": "top width= sloping side",
+      "d": "top width=b.5*sloping side"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3460",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The maximum discharge through a circular channel takes place when the depth of flow equal to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "0.95 times the diameter",
+      "b": "0.8 times the diameter",
+      "c": "0.6 times the diameter",
+      "d": "0.5 times the diameter"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3461",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The Chezy's coefficient",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "is dimensionless",
+      "b": "has the dimension of velocity",
+      "c": "has the dimension L1/2 T-1/2",
+      "d": "has the dimension L1/2 T-1"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3462",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "A most economical section is one for which a given cross-sectional area, slope of bed, and coefficient of resistance has",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "maximum wetted perimeter",
+      "b": "maximum discharge",
+      "c": "maximum depth of flow",
+      "d": "minimum depth of flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3463",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The obstruction across the river required to raise its water level and divert the water into the canal, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "weir or anicut",
+      "b": "divide wall",
+      "c": "guide bank",
+      "d": "under sluice"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3464",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The weir is generally aligned at a right angle to the direction of the main river flow because",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "it gives better discharge capacity",
+      "b": "less length of the weir is required",
+      "c": "it is economical",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3465",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "Top of the weir is,",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "ridge",
+      "b": "crest",
+      "c": "head",
+      "d": "peak"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3466",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "As compared to the crest of the normal portion of the weir, the crest of the under-sluice portion of the weir is kept at",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "higher level",
+      "b": "same level",
+      "c": "lower level",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3467",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The discharge capacity of the under-sluice is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "twice the maximum discharge of the off-taking canal",
+      "b": "20% of maximum flood discharge",
+      "c": "maximum winter discharge",
+      "d": "greatest of all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3468",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "In a gravity weir the uplift pressure is resisted by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "weight of floor",
+      "b": "bending action of reinforced concrete floor",
+      "c": "punching action of floor",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3469",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "In a non-gravity weir the uplift pressure is resisted by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "weight of floor",
+      "b": "bending action of reinforced concrete floor",
+      "c": "punching action of floor",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3470",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "A weir, that has a tailwater level higher than the weir crest, by which the discharge is affected, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "negative head weir",
+      "b": "submerged weir",
+      "c": "flooded weir",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3471",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "A weir in which the tailwater stays below the crest, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "free weir",
+      "b": "natural weir",
+      "c": "ground weir",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3472",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The difference in level between the top of a bank and the supply level in a canal, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "berm",
+      "b": "free board",
+      "c": "height of bank",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3473",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "As compared to gravity dams, earthen dams",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "require sound rock foundation",
+      "b": "require less skilled labour",
+      "c": "require skilled labour",
+      "d": "require more cost"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3474",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The upstream face of an earthen dam, is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "a flow line",
+      "b": "a phreatic line",
+      "c": "a cubic parabola",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3475",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "For no tension to develop at the base of gravity dam the maximum permissible eccentricity is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "B/6",
+      "b": "B/3",
+      "c": "B/2",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3476",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "In a gravity dam, the main overturning force is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "self-weight of the dam",
+      "b": "wind pressure",
+      "c": "water pressure",
+      "d": "uplift pressure"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3477",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "In a barrage, the crest level is kept",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "low with large gates",
+      "b": "high with large gates",
+      "c": "high with no gates",
+      "d": "low with no gates"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3478",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "A hydraulic structure is designed to withstand",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "seepage forces",
+      "b": "hydraulic jump",
+      "c": "hydraulic pressure",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3479",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "A land is said to be water-logged if its soil pores within",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "a depth of 40 cm is saturated",
+      "b": "a depth of 50 cm is saturated",
+      "c": "root zone of the crops is saturated",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3480",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "Finally formed berms in canals are provided for",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "protection of bank erosion by the waves",
+      "b": "control of seepage losses",
+      "c": "strengthening of banks",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3481",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The economic height of the dam is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "very low",
+      "b": "very high",
+      "c": "corresponds to the minimum cost of the dam per unit of storage",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3482",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The uplift pressure on the face of a drainage gallery in a dam is equal to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "hydrostatic pressure at the toe",
+      "b": "hydrostatic pressure at the heel",
+      "c": "two-third of hydrostatic pressure at the toe plus one-third of hydrostatic pressure at the heel",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3483",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The major resisting force in a gravity dam is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "uplift pressure",
+      "b": "water pressure",
+      "c": "self-weight",
+      "d": "wave pressure"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3484",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "The floor of an aqueduct is subjected to uplift pressure due to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "seepage of water from the canal to the drainage",
+      "b": "subsoil water table in the drainage bed",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3485",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "Lining of irrigation channel",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "increase the water logging area",
+      "b": "decreases the water logging area",
+      "c": "does not change the water logging area",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3486",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "Irrigation distributor canals are generally aligned along",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "contour line",
+      "b": "valley line",
+      "c": "ridge line",
+      "d": "straight line"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3487",
+    "chapter": "Irrigation Canal-III"
+  },
+  {
+    "question": "Lands or climate that lack sufficient water for agriculture without artificial irrigation, are called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "dry zone",
+      "b": "arid zone",
+      "c": "semi arid zone",
+      "d": "hybrid arid zone"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3756",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The kharif crop is sown",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "at the end of summer",
+      "b": "at the end of north-east monsoon",
+      "c": "at the beginning of south-west monsoon",
+      "d": "in mid-summer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3757",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Sandy soils with good drainage become impermeable after prolonged use, if it is irrigated with a water containing ______ sodium.",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "25 %",
+      "b": "50 %",
+      "c": "75 %",
+      "d": "85 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3758",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which of the following is a leguminous crop?",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "nice",
+      "b": "potato",
+      "c": "groundnut",
+      "d": "hemp"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3759",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The method of irrigation used for orchards is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "free flooding",
+      "b": "border flooding",
+      "c": "check flooding",
+      "d": "basin flooding"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3760",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The numerical value of base period is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "Less than crop period",
+      "b": "more than crop period",
+      "c": "equal to crop period",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3761",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Find the delta for a crop if the base period and duty are 110 day and 1400 he/cumec respectively",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "38 cm",
+      "b": "48cm",
+      "c": "58cm",
+      "d": "68 cm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3762",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The operation, which washes out salts from the upper zone of the soil, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "reclamation",
+      "b": "leaching",
+      "c": "efflorescence",
+      "d": "salinity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3763",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The process by which unculturable soil made culturable is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "reclamation",
+      "b": "leaching",
+      "c": "efflorescence",
+      "d": "salinity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3764",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The phenomenon of salts coming up in solution and forming a layer of crust on surface after the evaporation of water is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "reclamation",
+      "b": "leaching",
+      "c": "efflorescence",
+      "d": "salinity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3765",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Triangular weir is also called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "trigonometric",
+      "b": "ogee",
+      "c": "v-notch",
+      "d": "isolated"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3766",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The difference in level between the top of a bank and full supply level in a canal, is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "berm",
+      "b": "free board",
+      "c": "height of the bank",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3767",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The width of a \"Dowels\" is generally kept between 32 to 60 cm and the height above the road level should be more than",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "10 cm",
+      "b": "20 cm",
+      "c": "30 cm",
+      "d": "40 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3768",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A counter berm is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "a horizontal benching provided on the outer slope",
+      "b": "a vertical benching provided on the outer edge of the bank",
+      "c": "a horizontal benching provided on the inside slope",
+      "d": "a vertical benching provided on the inner edge of the bank"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3769",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Head loss will be small in case of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "ogee shaped",
+      "b": "broad crested",
+      "c": "sharp crested",
+      "d": "narrow crested"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3770",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "For an earthen dam, least suited spillway is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "ogee spillway",
+      "c": "shaft spillway",
+      "b": "chute spillway",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3771",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In a chute spillway, the flow is generally",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "laminar",
+      "b": "sub-critical",
+      "c": "critical",
+      "d": "super critical"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3772",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In a syphon spillway, the discharge is proportional to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "H1/2",
+      "b": "H",
+      "c": "H3/2",
+      "d": "H5/2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3773",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In a syphon spillway, the effective head is measured",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "as the difference in levels of water up-stream and down-stream of the spillway",
+      "b": "as the difference in levels between the head water and the average ground level",
+      "c": "as the height of crest above ground",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3774",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Due to topography, if the space is not available, the most suitable spillway is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "ogee spillway",
+      "b": "chute spillway",
+      "c": "shaft spillway",
+      "d": "straight drop spillway"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3775",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The water bearing stratum that creates a groundwater reservoir and feeds wells and springs is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "underground spillway",
+      "b": "aquifer",
+      "c": "equalize",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3776",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The over fall of a spillway in the shape of a double or s-curve, which is convex at the top and concave at the bottom, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "ogee spillway",
+      "b": "s-spillway",
+      "c": "oval spillway",
+      "d": "zig-zag spillway"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3777",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "SHAFT spillway is the same as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "conduit spillway",
+      "b": "tunnel spillway",
+      "c": "morning glory spillway",
+      "d": "trough spillway"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3778",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The flow of water after spilling over the crest of weir in chute spillway and side channel spillway respectively are",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "at right angle and parallel to weir crest",
+      "b": "parallel and at right angle to weir crest",
+      "c": "parallel to weir crest in both",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3779",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The crest level of an emergency spillway is kept as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "the same level as the main spillway",
+      "b": "slightly below the crest level of main spillway",
+      "c": "at the full reservoir level",
+      "d": "slightly above the crest level of main spillway"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3780",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Weirs are normally used to calculate",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "Volume",
+      "b": "Head loss",
+      "c": "Discharge",
+      "d": "Velocity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3781",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "“Critical depth” is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "the depth corresponding to critical velocity",
+      "b": "the maximum permissible depth of a channel",
+      "c": "the depth corresponding to critical flow",
+      "d": "any of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3782",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Critical flow",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "in which the total energy head is minimum for a given discharge",
+      "b": "in which the Froude number is less than unity",
+      "c": "in which the Froude number is more than unity",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3783",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The ratio of rate of change of the discharge of an outlet to the rate of change of the discharge of distributing channel is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "sensitivity",
+      "b": "flexibility",
+      "c": "proportionality",
+      "d": "setting"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3784",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Maximum amount of water required in case of paddy is at the time of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "paddling",
+      "b": "seeding",
+      "c": "harvesting",
+      "d": "flowering"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3785",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The measure to remove water logging of land, is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "to reduce percolation from canals and water courses",
+      "b": "to increase outflow from the ground water reservoir",
+      "c": "both (a) and (b)",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3786",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The most efficient section of a channel is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "triangular",
+      "b": "rectangular",
+      "c": "square",
+      "d": "trapezoidal"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3787",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In an irrigation canal, the reasons for water losses are",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "absorption",
+      "b": "evaporation",
+      "c": "percolation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3788",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "To avoid an interruption in the field of siphon, the air vessel is provided",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "at the summit",
+      "b": "at the inlet",
+      "c": "at the outlet",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3789",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which of the following has maximum water application efficiency?",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "Surface irrigation",
+      "b": "lift irrigation",
+      "c": "sprinkler irrigation",
+      "d": "furrow irrigation"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3790",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The total depth of water required by a crop during the entire period the crop is the field is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "crop ratio",
+      "b": "crop intensity",
+      "c": "delta",
+      "d": "duty"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3791",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Water holding capacity of clay is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "highest among all soils",
+      "b": "minimum among all soils",
+      "c": "same as silt and fine sand",
+      "d": "zero"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3792",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Drop structures in canal is provided for",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "providing bridge",
+      "b": "energy dissipation",
+      "c": "maintaining ground slope",
+      "d": "creating high velocity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3793",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In gravity canal, F.S.L is always",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "at the ground level",
+      "b": "below the ground level",
+      "c": "a few cm above the ground level",
+      "d": "4 to 5 meters above the ground level"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3794",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A counter balance is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "a horizontal benching provided on the outer slope",
+      "b": "a vertical benching provided on the outer edge of the bank",
+      "c": "a horizontal benching provided on the inside slope",
+      "d": "a vertical benching provided on the inner edge of the bank"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3795",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Lining of irrigation channels",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "increase the water logging area",
+      "b": "decreases the water logging area",
+      "c": "does not change the water logging area",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3796",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The minimum size of stone that will remain at rest in a channel of longitudinal slope, S and hydraulic mean depth, R is given by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "4 RS",
+      "b": "7 RS",
+      "c": "11 RS",
+      "d": "14 RS"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3797",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Area velocity method is used to measure",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "area",
+      "b": "velocity",
+      "c": "discharge",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3798",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The proportion of silt water and the size of silt particles carried, depend upon",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "slope",
+      "b": "the nature of surface soil",
+      "c": "rainfall in the catchment area",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3799",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In ogee shaped spillway the discharge is proportional to",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "H",
+      "b": "√H",
+      "c": "H^(3/2)",
+      "d": "H^(5/2)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3800",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The discharge coefficient of an ogee spillway is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "1.2",
+      "b": "18",
+      "c": "2.02",
+      "d": "3.7"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3801",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The discharge coefficient of an ogee spillway",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "depends upon depth of approach and upstream slope",
+      "b": "depends upon downstream apron and submergence",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3802",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The crops require maximum water during",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "first watering when the crop has grown a few centimeters",
+      "b": "first watering before sowing the crops",
+      "c": "first watering before harvesting",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3803",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A river training work is generally required when the river is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "meandering",
+      "b": "aggrading",
+      "c": "degrading",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3804",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Attracting groynes are built",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "perpendicular to the bank",
+      "b": "inclined downstream",
+      "c": "inclined up stream",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3805",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "A deficit of sediments in flowing water may cause a river",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "meandering type",
+      "b": "aggrading type",
+      "c": "degrading type",
+      "d": "sub-critical type"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3806",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Groynes are generally built",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "perpendicular to the bank",
+      "b": "inclined upstream up to 30 degree",
+      "c": "inclined downstream up to 30 degree",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3807",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Trap efficiency of a reservoir is a function of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "capacity/Inflow ratio",
+      "b": "capacity/outflow ratio",
+      "c": "the total inflow",
+      "d": "age of reservoir"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3808",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Sediment deposit in reservoir can be reduced by",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "providing vegetal cover in catchments area",
+      "b": "avoiding reservoir sites, which are prolific source of sediment",
+      "c": "adopting soil conservation measures in the catchments are",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3809",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The factor affecting the pattern of sediment deposition in reservoir is",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "sediment size",
+      "b": "shape of the reservoir",
+      "c": "river valley slope",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3810",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The ratio of total volume of water delivered to a crop to the area on which it has been spread, is called",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "duty",
+      "b": "delta",
+      "c": "critical depth",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3811",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Surface float method is used for the velocity measurement while current meter is used for the measurement of",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "discharge",
+      "b": "velocity",
+      "c": "depth",
+      "d": "amount of silt"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3812",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which of the following is not a cross drainage work?",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "aqueduct",
+      "b": "super passage",
+      "c": "level crossing",
+      "d": "drain crossing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3813",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Pitot tube is used to measure",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "area",
+      "b": "velocity",
+      "c": "discharge",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3814",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The amount of water required to fill up the pore spaces in soil particles by replacing all air held in pore spaces is known as",
+    "topic": "Irrigation Engineering",
+    "options": {
+      "a": "filled capacity",
+      "b": "available moisture",
+      "c": "saturation capacity",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3815",
+    "chapter": "SECTION-II"
+  }
+]

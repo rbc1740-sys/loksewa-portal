@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The pressure difference between inside and outside of a droplet of water is given by",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "2 σ/d",
+      "b": "4 σ/d",
+      "c": "6 σ/d",
+      "d": "8 σ/d"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3850",
+    "chapter": ""
+  },
+  {
+    "question": "When the pipes are connected in series, the total rate of flow",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "is equal to the sum of the rate of flow in each pipe",
+      "b": "is equal to the reciprocal of the sum of the rate of flow in each pipe",
+      "c": "is the same as flowing through each pipe",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3851",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum net pressure intensity causing shear failure of soil, is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "safe bearing capacity",
+      "b": "net bearing capacity",
+      "c": "net ultimate bearing capacity",
+      "d": "ultimate bearing capacity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3852",
+    "chapter": ""
+  },
+  {
+    "question": "Cohesive soils are",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "good for embankment as they have high shear strength",
+      "b": "poor for backfills because of large lateral pressure",
+      "c": "good for backfills because of poor shear strength",
+      "d": "low lateral pressure"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3853",
+    "chapter": ""
+  },
+  {
+    "question": "Salvaging is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "extraction of essence from waste",
+      "b": "dumping of solid waste",
+      "c": "sanitary landfilling of solid waste",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3854",
+    "chapter": ""
+  },
+  {
+    "question": "The commonly used material for water supply pipes having property of not easily corroded, long life but heavy and brittle is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "steel",
+      "b": "cast iron",
+      "c": "wrought",
+      "d": "RCC"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3855",
+    "chapter": ""
+  },
+  {
+    "question": "A spoil bank is formed when",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "the canal has a steep bed slope",
+      "b": "the volume of excavation is in excess of the embankment filling",
+      "c": "the canal section is too large",
+      "d": "the canal alignment is meandrous"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3856",
+    "chapter": ""
+  },
+  {
+    "question": "In ogee shaped spillway the discharge is proportional to",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "H",
+      "b": "√H",
+      "c": "H^3/2",
+      "d": "H^5/2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3857",
+    "chapter": ""
+  },
+  {
+    "question": "Setback distance is the distance between",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "Center line of horizontal curve and building line",
+      "b": "road land boundary and control line",
+      "c": "building line and control line",
+      "d": "road land boundary and control line"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3858",
+    "chapter": ""
+  },
+  {
+    "question": "The initial application of a binder to an existing surface given to ensure thorough bond between the new construction and the existing is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "basic coat",
+      "b": "prime coat",
+      "c": "tack coat",
+      "d": "seal coat"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3859",
+    "chapter": ""
+  },
+  {
+    "question": "The shutter of main gates is measured in terms of",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3860",
+    "chapter": ""
+  },
+  {
+    "question": "The item of the brick structure measured in sq.m, is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "reinforced brick work",
+      "b": "broken glass coping",
+      "c": "brick edging",
+      "d": "brick work in arches"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3861",
+    "chapter": ""
+  },
+  {
+    "question": "Negative float can occur when it is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "sub-critical activity",
+      "b": "critical activity",
+      "c": "super-critical activity",
+      "d": "normal activity"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3862",
+    "chapter": ""
+  },
+  {
+    "question": "Total cost of the project is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "direct cost and outage loss of project",
+      "b": "direct cost and overheads",
+      "c": "direct cost and indirect cost",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3863",
+    "chapter": ""
+  },
+  {
+    "question": "For the taxiways, following statement is not true",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "the maximum longitudinal grade is 3%",
+      "b": "the permissible rate of change of grade is 1%",
+      "c": "the permissible transverse grade is 1.5%",
+      "d": "None of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3864",
+    "chapter": ""
+  },
+  {
+    "question": "The bulk density of an aggregate does not depend upon",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "size and shape of aggregates",
+      "b": "specific gravity of aggregates",
+      "c": "grading of aggregates",
+      "d": "size and shape of the container"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3865",
+    "chapter": ""
+  },
+  {
+    "question": "Water cement ratio by weight is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "higher as compared to that by volume",
+      "b": "lower as compared to that by volume",
+      "c": "same as the volume",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3866",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum area of tension reinforcement in beams shall not exceed",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "0.15%",
+      "b": "1.5%",
+      "c": "4%",
+      "d": "1%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3867",
+    "chapter": ""
+  },
+  {
+    "question": "Laps in bars are equal to",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "bond length",
+      "b": "twice the bond length",
+      "c": "1.5 to twice the bond length",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3868",
+    "chapter": ""
+  },
+  {
+    "question": "Identify the correct relationship that exists among the modulus of elasticity (E), modulus of rigidity (N) and bulk modulus (k) is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "E= 9KN/(3K+N)",
+      "b": "E= 3KN/(3K+N)",
+      "c": "E= 3KN/(9K+N)",
+      "d": "E= K/N"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3869",
+    "chapter": ""
+  },
+  {
+    "question": "The safe value of stress below which the material will not fail when subjected to reversal of stress is known as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "endurance limit",
+      "b": "fatigue stress",
+      "c": "tolerance limit",
+      "d": "elastic limit"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3870",
+    "chapter": ""
+  },
+  {
+    "question": "Fire bricks are used",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "to reflect heat",
+      "b": "to increase heat flow",
+      "c": "to decrease heat flow",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3871",
+    "chapter": ""
+  },
+  {
+    "question": "Name the type of cement from the following for canal linings :",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "sulphate resisting cement",
+      "b": "rapid hardening cement",
+      "c": "quick setting cement",
+      "d": "pozzuolana cement."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3872",
+    "chapter": ""
+  },
+  {
+    "question": "A line joining the optical center of the object glass and the center of the eye-piece, is known as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "fundamental line",
+      "b": "axis of telescope",
+      "c": "axis of level tube",
+      "d": "line of collimation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3873",
+    "chapter": ""
+  },
+  {
+    "question": "For any point on the surface with a given inclination, the contour gradient possible is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "infinite",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3874",
+    "chapter": ""
+  },
+  {
+    "question": "पुरुष तर्फको बालोन डी-ओर अवार्ड २०२४ बाट सम्मानित हुने खेलाडी को हुन् ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "केलियन एम्बाप्पे",
+      "b": "रोड्रि",
+      "c": "भिनिशियस जुनियर",
+      "d": "लियोनल मेस्सी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3875",
+    "chapter": ""
+  },
+  {
+    "question": "काठमाण्डौँबाट सबैभन्दा नजिकको दूरीमा रहेको सार्क राष्ट्रहरुको राजधानी कुन हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "इस्लामाबाद, पाकिस्तान",
+      "b": "दिल्ली, भारत",
+      "c": "थिम्पु, भूटान",
+      "d": "काबुल, अफगानिस्तान"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3876",
+    "chapter": ""
+  },
+  {
+    "question": "कोशी सम्झोता हुँदा प्रधानमन्त्री को थिए ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "टंक प्र. आचार्य",
+      "b": "मातृका प्र. कोइराला",
+      "c": "वीपी कोइराला",
+      "d": "शंकरनाथ रिमाल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3877",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम पञ्च वर्षे योजनाको अवधारणा प्रस्तुत गर्ने व्यक्ति को थिए ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "बीपी कोइराला",
+      "b": "मातृका प्रसाद कोइराला",
+      "c": "टंक प्रसाद आचार्य",
+      "d": "बाबुराम आचार्य"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3878",
+    "chapter": ""
+  },
+  {
+    "question": "संयुक्त राष्ट्रसंघको स्थापना कहिले भएको हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "सन् १९४५ अक्टोबर २४",
+      "b": "सन् १९५५ अक्टोबर २४",
+      "c": "सन् १९६५ अक्टोबर २४",
+      "d": "सन् १९७५ अक्टोबर २४"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3879",
+    "chapter": ""
+  },
+  {
+    "question": "युरोपेली सङ्घ दिवस कहिले मनाइन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "मे ९",
+      "b": "जुन २",
+      "c": "जुलाइ १५",
+      "d": "डिसेम्बर ३"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3880",
+    "chapter": ""
+  },
+  {
+    "question": "साहित्यतर्फको नोबेल पुरस्कार २०२४ कसलाई प्रदान गरियो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "डेविड बेकर",
+      "b": "साइमन जोनसन",
+      "c": "हाङ काङ",
+      "d": "ग्यारी रुभकुन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3881",
+    "chapter": ""
+  },
+  {
+    "question": "भिटामिन B को रासायनिक नाम के हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "थायामिन",
+      "b": "एस्कॉर्बिक एसिड",
+      "c": "रिबोफ्लेविन",
+      "d": "निकोटीनामाइड"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3882",
+    "chapter": ""
+  },
+  {
+    "question": "अडियो प्रविधिमा आधारित नागरिक वडापत्र राख्न सुरु गर्ने कार्यालय कुन हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "वैदेशिक रोजगार विभाग",
+      "b": "खाद्य प्रविधि तथा गुण नियन्त्रण",
+      "c": "यातायात व्यवस्था विभाग",
+      "d": "जिल्ला प्रशासन कार्यालय, तेह्रथुम"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3883",
+    "chapter": ""
+  },
+  {
+    "question": "अन्य कार्यालय तथा क्षेत्रमा पठाइएका अभिलेख व्यवस्थापन कसरी गरिन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "दर्ता",
+      "b": "चलानी",
+      "c": "फाइलिङ",
+      "d": "प्रतिवेदन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3884",
+    "chapter": ""
+  },
+  {
+    "question": "सरकारी बजेट कसले कार्यन्वयन गर्दछ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3885",
+    "chapter": ""
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3886",
+    "chapter": ""
+  },
+  {
+    "question": "यस संविधानको पालना गर्नु प्रत्येक व्यक्तिको कर्तव्य हुनेछ भनेर नेपालको संविधानको कति धारामा उल्लेख गरिएको छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा २",
+      "c": "धारा ३",
+      "d": "धारा ४"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3887",
+    "chapter": ""
+  },
+  {
+    "question": "गण्डकी प्रदेश निजामती सेवा ऐन २०७९ कहिले प्रकाशित भएको हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "वि.सं २०७९ फाल्गुन २",
+      "b": "वि.सं २०७९ फाल्गुन १२",
+      "c": "वि.सं २०७९ फाल्गुन १८",
+      "d": "वि.सं २०७९ फाल्गुन २८"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3888",
+    "chapter": ""
+  },
+  {
+    "question": "कनै विषय वा निवेदन माथि अधिकार प्राप्त अधिकारीले के कस्तो कारबाहि गर्ने हो सो बारेमा त्यसै पत्रमा लिखित रुपमा दिने निर्देशनलाई भनिन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "तोकआदेश",
+      "b": "परिपत्र",
+      "c": "टिप्पणी",
+      "d": "चलानी"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3889",
+    "chapter": ""
+  },
+  {
+    "question": "41) यदि दक्षिण-पूर्व उत्तर बन्छ , उत्तर-पूर्व पश्चिम हुन्छ भने पश्चिम के बन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "उतर पुर्व",
+      "b": "उतर पश्चिम",
+      "c": "दक्षिण पश्चिम",
+      "d": "दक्षिण पूर्व"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3890",
+    "chapter": ""
+  },
+  {
+    "question": "दिइएको अनुक्रममा पछिल्लो सङ्ख्या के हुन्छ ? 11, 17, 39, 85, ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "133",
+      "b": "143",
+      "c": "153",
+      "d": "163"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3891",
+    "chapter": ""
+  },
+  {
+    "question": "अशोक ४२ जनाको कक्षामा शीर्षबाट २३ औँ स्थानमा छ , अन्तिमबाट अशोकको स्थान कति होला ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "२५ औैँ",
+      "b": "२० औँ",
+      "c": "२७ ‍औँ",
+      "d": "२३ ‌औँ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3892",
+    "chapter": ""
+  },
+  {
+    "question": "5:35 :: 7: ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "35",
+      "b": "37",
+      "c": "77",
+      "d": "125"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3893",
+    "chapter": ""
+  },
+  {
+    "question": "ba__cb_b_bab_",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "acbb",
+      "b": "bacc",
+      "c": "bcaa",
+      "d": "cabb"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3894",
+    "chapter": ""
+  },
+  {
+    "question": "If you write down all the numbers from 1 to 100 then how many times do you write 2?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "11",
+      "b": "18",
+      "c": "21",
+      "d": "20"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3895",
+    "chapter": ""
+  },
+  {
+    "question": "In a row of students, John is 8th from the left end, and Mary is 12th from the right end. Calculate the total number of students in the row.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "18",
+      "b": "19",
+      "c": "20",
+      "d": "21"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3896",
+    "chapter": ""
+  },
+  {
+    "question": "यदि रु ७८२ लाई १/२:२/३: ३/४ को अनुपातमा तिन भागमा विभाजन गर्ने हो भने पहिलो भाग कति हुन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "रु १८२",
+      "b": "रु १९०",
+      "c": "रु १९२",
+      "d": "रु २०४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3897",
+    "chapter": ""
+  },
+  {
+    "question": "If MADRAS can be written as NBESBT then , BOMBAY is written as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "cmabz",
+      "b": "cpncbz",
+      "c": "cqncbz",
+      "d": "cnpcbz"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3898",
+    "chapter": ""
+  },
+  {
+    "question": "If MARINE is coded as 4-1-9-9-5-5, then how is LIONEL coded?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-IV)",
+    "options": {
+      "a": "3-9-6-5-5-3",
+      "b": "4-8-7-3-3-2",
+      "c": "4-7-6-8-8-5",
+      "d": "5-6-8-4-4-5"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3899",
+    "chapter": ""
+  }
+]

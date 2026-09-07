@@ -1,0 +1,702 @@
+[
+  {
+    "question": "तलका मध्ये सञ्चारका असल गुण कुन हो ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "स्पष्टता",
+      "b": "पर्याप्तता",
+      "c": "वास्तविकता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1510",
+    "chapter": ""
+  },
+  {
+    "question": "कति वर्षभन्दा धेरै सेवा गरेको कर्मचारीलाई उपदान को सुविधा दिइन्छ ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "५ वर्ष",
+      "b": "१० वर्ष",
+      "c": "१५ वर्ष",
+      "d": "२० वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1511",
+    "chapter": ""
+  },
+  {
+    "question": "सङ्‍घीय मामिला महाशाखा अन्तर्गत कतिवटा शाखा रहेका छन् ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "१",
+      "b": "२",
+      "c": "३",
+      "d": "४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1512",
+    "chapter": ""
+  },
+  {
+    "question": "स्नाकोत्तर शैक्षिक योग्यता चाहिने एकमात्र संवैधानिक आयोग कुन हो ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "लोकसेवा आयोग",
+      "b": "निर्वाचन आयोग",
+      "c": "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+      "d": "राष्ट्रिय मानवअधिकार आयोग"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1513",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा लैङ्गिक बजेटको सुरुवात कहिलेबाट भएको हो ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "आ.व. २०१३/१४",
+      "b": "आ .व. २०१९/२०",
+      "c": "आ.व. २०६१/६२",
+      "d": "आ.व. २०६३/६४"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1514",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहको विशेषतामा तलका मध्ये कुन पर्दछ ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "सेवा प्रवाहमा निरन्तरता",
+      "b": "सेवा प्रवाहमा एकरुपता",
+      "c": "सेवा प्रवाहमा विविधता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1515",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा राष्ट्रिय मानव अधिकार आयोग कहिले गठन भएको थियो ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "सन् १९७५",
+      "b": "सन् २०००",
+      "c": "सन् २०१०",
+      "d": "सन् २००५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1516",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा क्षतिपूर्ति सहितको नागरिक वडापत्रको व्यवस्था कहिले भएको हो ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "२०७०",
+      "b": "२०७१",
+      "c": "२०७२",
+      "d": "२०६४"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1517",
+    "chapter": ""
+  },
+  {
+    "question": "Which management principle states that orders and instruction should flow down from top to bottom ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "division of work",
+      "b": "chain of command",
+      "c": "unit of direction",
+      "d": "unit of command"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1518",
+    "chapter": ""
+  },
+  {
+    "question": "विश्व बन्धुत्वको भावना, सहअस्तित्व बोध, र अनाक्रमण कस्तो मूल्य र मान्यता हो ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "राष्ट्रिय मूल्य मान्यता",
+      "b": "नैतिक मूल्य मान्यता",
+      "c": "पारिवारिक मूल्य मान्यता",
+      "d": "अन्तर्राष्ट्रिय मूल्य मान्यता"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1519",
+    "chapter": ""
+  },
+  {
+    "question": "विश्वको चौथो अग्लो हिमाल ल्होत्से कुन हिमश्रृङ्खलामा पर्दछ ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "कुम्भकर्ण",
+      "b": "कञ्चनझुङ्गा",
+      "c": "खुम्बु",
+      "d": "गणेश हिमाल"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1520",
+    "chapter": ""
+  },
+  {
+    "question": "गेहेन्द्र शमशेरको हत्या कसले गरेका थिए?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "रनोद्दीप सिंह",
+      "b": "वीर शमशेर",
+      "c": "भीम शमशेर",
+      "d": "चन्द्र शमशेर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1521",
+    "chapter": ""
+  },
+  {
+    "question": "काठमाडौं-निजगढ द्रुत मार्गको लम्बाइ कति रहेको छ ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "७२.५ कि.मि.",
+      "b": "७३.५कि.मि.",
+      "c": "७४.५कि.मि.",
+      "d": "७५.५ कि.मि."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1522",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको वार्षिक औसत जनसंख्या वृद्धिदर कति रहेको छ ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "२.६४%",
+      "b": "०.९४ %",
+      "c": "०.९२ %",
+      "d": "०.७८ %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1523",
+    "chapter": ""
+  },
+  {
+    "question": "“ On the measurement of the circle” पुस्तकका लेखक को हुन् ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "अर्किमिडिज",
+      "b": "थोमस एडिसन",
+      "c": "पाइथागोरस",
+      "d": "लिओनार्डो दा भिन्ची"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1524",
+    "chapter": ""
+  },
+  {
+    "question": "बच्चालाई दादुरा विरुद्दको खोप कुन समयमा दिइन्छ ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "बच्चा १ महिना पुगेपछि",
+      "b": "बच्चा ३ महिना पुगेपछि",
+      "c": "बच्चा ६ महिना पुगेपछि",
+      "d": "बच्चा ९ महिना पुगेपछि"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1525",
+    "chapter": ""
+  },
+  {
+    "question": "उपभोक्ताको मौलिक हक कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "धारा ३५",
+      "b": "धारा ४४",
+      "c": "धारा ३६",
+      "d": "धारा ४५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1526",
+    "chapter": ""
+  },
+  {
+    "question": "Structural Adjustment Programmed (SAP) कार्यक्रम सञ्चालन गर्ने संस्था कुन हो ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "अन्तर्राष्ट्रिय समुद्री संगठन",
+      "b": "विश्व बैंक",
+      "c": "अन्तर्राष्ट्रिय मुद्रा कोष",
+      "d": "विश्वव्यापी हुलाक संघ"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1527",
+    "chapter": ""
+  },
+  {
+    "question": "सार्कका हालका महासचिव (२०२४) को हुन् ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "गोलाम सरवर",
+      "b": "अमजाद हुुसेन बि सियल",
+      "c": "एसला वीराकून",
+      "d": "अर्जुन बहादुर थापा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1528",
+    "chapter": ""
+  },
+  {
+    "question": "टाइम म्यागाजिनद्वारा टाइम बर्ष व्यक्ति २०२३ को उपाधि कसलाई प्रदान गरियो ?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "टेलर स्विफ्ट",
+      "b": "इलोन मस्क",
+      "c": "जेफ बे‍जोस",
+      "d": "लियोनल मेस्सी"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1529",
+    "chapter": ""
+  },
+  {
+    "question": "The difference in the lengths of an arc and its subtended chord on the earth's surface for a distance of 18.2km, is only",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "5 cm",
+      "b": "10 cm",
+      "c": "15 cm",
+      "d": "20 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1530",
+    "chapter": ""
+  },
+  {
+    "question": "The types of levelling used for the Geodetic survey is",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "fly levelling",
+      "b": "precise levelling",
+      "c": "profile levelling",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1531",
+    "chapter": ""
+  },
+  {
+    "question": "Contour lines",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "cross each other",
+      "b": "end abruptly",
+      "c": "are uniformly spaced",
+      "d": "close somewhere"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1532",
+    "chapter": ""
+  },
+  {
+    "question": "Limestone is a",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "igneous rock",
+      "b": "sedimentary rock",
+      "c": "metamorphic rock",
+      "d": "granite rock"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1533",
+    "chapter": ""
+  },
+  {
+    "question": "A slow-setting cement has a higher percentage of",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "tricalcium aluminate",
+      "b": "tricalcium silicate",
+      "c": "dicalcium silicate",
+      "d": "gypsum"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1534",
+    "chapter": ""
+  },
+  {
+    "question": "Porcelain is used as",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "storage vessels",
+      "b": "hard wares",
+      "c": "sanitary wares",
+      "d": "soft wares"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1535",
+    "chapter": ""
+  },
+  {
+    "question": "The load carrying capacity of the fixed beam is",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "lesser than the simply supported beam b) lesser than the cantilever beam",
+      "b": "lesser than the simply supported beam b) lesser than the cantilever beam",
+      "c": "greater than the simply supported beam and cantilever beam",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1536",
+    "chapter": ""
+  },
+  {
+    "question": "Maximum bending moment occurs at the centre if the simply supported beam is subjected to",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "point load of centre",
+      "b": "uniformly distributed load throughout the span",
+      "c": "triangular load with maximum intensity at centre",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1537",
+    "chapter": ""
+  },
+  {
+    "question": "The stress in a member subjected to a force is",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "continued deformation under sustained loading",
+      "b": "load per unit area",
+      "c": "the resistance offered by the material per unit area to a force",
+      "d": "the strain per unit length"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1538",
+    "chapter": ""
+  },
+  {
+    "question": "Surface tension has the units of",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "force per unit area",
+      "b": "force per unit length",
+      "c": "force per unit volume",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1539",
+    "chapter": ""
+  },
+  {
+    "question": "If the Froude number in open channel flow is equal to 1.0, the flow is called",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "critical flow",
+      "b": "streaming flow",
+      "c": "shooting flow",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1540",
+    "chapter": ""
+  },
+  {
+    "question": "A structure used to dam up a stream or river over which the water flows is called",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "orifice",
+      "b": "notch",
+      "c": "weir",
+      "d": "dam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1541",
+    "chapter": ""
+  },
+  {
+    "question": "The degree of saturation of soil is generally",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "100%",
+      "b": "below zero",
+      "c": "between 0% and 100%",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1542",
+    "chapter": ""
+  },
+  {
+    "question": "The types of compaction suitable in congested areas for cohesive as well as cohesionless soil is",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "roller",
+      "b": "rammer",
+      "c": "vibrator",
+      "d": "vibroflotation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1543",
+    "chapter": ""
+  },
+  {
+    "question": "The load-carrying capacity of a helically reinforced column compared to a tied column is approximately",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "5% less",
+      "b": "5% more",
+      "c": "10% less",
+      "d": "10% more"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1544",
+    "chapter": ""
+  },
+  {
+    "question": "By over-reinforcing a beam, the moment of resistance can be increased not more than",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "10%",
+      "b": "15%",
+      "c": "20%",
+      "d": "25%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1545",
+    "chapter": ""
+  },
+  {
+    "question": "The lowest part of the structure which transmits the load to the soil is known as",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "super-structure",
+      "b": "plinth",
+      "c": "foundation",
+      "d": "basement"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1546",
+    "chapter": ""
+  },
+  {
+    "question": "Slump test is a measure of",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "tensile strength",
+      "b": "compressive strength",
+      "c": "impact value",
+      "d": "consistency"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1547",
+    "chapter": ""
+  },
+  {
+    "question": "A river intake may be situated on",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "a straight reach",
+      "b": "the convex side of a curved course",
+      "c": "downstream side of the outfall sewer",
+      "d": "proximity to industries"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1548",
+    "chapter": ""
+  },
+  {
+    "question": "Pipes for water supply are tested for",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "pressure",
+      "b": "leakage",
+      "c": "dimensions",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1549",
+    "chapter": ""
+  },
+  {
+    "question": "Intensity of irrigation",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "is the percentage of cultivable command area proposed to the irrigated annually",
+      "b": "as always more than 100%",
+      "c": "is the percentage that could be ideally irrigated",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1550",
+    "chapter": ""
+  },
+  {
+    "question": "The bed of a canal is lowered in case of",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "level crossing",
+      "b": "canal siphon",
+      "c": "siphon aqueduct",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1551",
+    "chapter": ""
+  },
+  {
+    "question": "In class-II roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1552",
+    "chapter": ""
+  },
+  {
+    "question": "During the construction of the road sub-grade contains",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "cleaning",
+      "b": "site clearance",
+      "c": "preparation of sub-grade",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1553",
+    "chapter": ""
+  },
+  {
+    "question": "The quantity of wood for the shutters of doors and windows is calculated in",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1554",
+    "chapter": ""
+  },
+  {
+    "question": "The technique of finding the fair price of an existing building or property is known as",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "estimation",
+      "b": "valuation",
+      "c": "pricing",
+      "d": "costing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1555",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the documents is prepared and submitted by the contractor?",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "Bid document",
+      "b": "Quality control plan",
+      "c": "Quality assurance plan",
+      "d": "Specification"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1556",
+    "chapter": ""
+  },
+  {
+    "question": "Gantt chart indicates",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "balance of work to be done",
+      "b": "comparison of actual progress with the scheduled progress",
+      "c": "efficiency progress",
+      "d": "progressive cost of project"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1557",
+    "chapter": ""
+  },
+  {
+    "question": "According to I.C.A.O. the recommended length of the airport is decided on a",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "sea level elevation",
+      "b": "standard sea level temperature (15°C)",
+      "c": "effective gradient percentage",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1558",
+    "chapter": ""
+  },
+  {
+    "question": "For night landing, the thresholds are lighted",
+    "topic": "संघ (sub engineer) - IV",
+    "options": {
+      "a": "green",
+      "b": "red",
+      "c": "white",
+      "d": "yellow"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1559",
+    "chapter": ""
+  }
+]

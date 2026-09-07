@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The vernier scale in which the one division of main scale is shorter than one division of vernier scale is called",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "direct",
+      "b": "indirect",
+      "c": "both",
+      "d": "none"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2210",
+    "chapter": ""
+  },
+  {
+    "question": "The method of leveling used to carry out the reconnaissance of an area is _____.",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "check leveling",
+      "b": "fly leveling",
+      "c": "profile leveling",
+      "d": "simple leveling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2211",
+    "chapter": ""
+  },
+  {
+    "question": "A staff reading taken on a point whose elevation is to be determined as on a change point is called ______ .",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "fore sight reading",
+      "b": "back sight reading",
+      "c": "intermediate sight",
+      "d": "none of above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2212",
+    "chapter": ""
+  },
+  {
+    "question": "Dimensioning doesn’t represent _____ .",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "height",
+      "b": "length",
+      "c": "depth",
+      "d": "material"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2213",
+    "chapter": ""
+  },
+  {
+    "question": "Dimension lines should be drawn at least ________mm away from the outlines and from each other.",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2214",
+    "chapter": ""
+  },
+  {
+    "question": "The paper size of A3 is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "297 * 420",
+      "b": "210 * 297",
+      "c": "420 * 594",
+      "d": "594 * 841"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2215",
+    "chapter": ""
+  },
+  {
+    "question": "In case of dimetric projection",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "two sides are not equally inclined",
+      "b": "two sides are equally inclined",
+      "c": "two sides are parallel",
+      "d": "two sides are equal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2216",
+    "chapter": ""
+  },
+  {
+    "question": "As built drawing is normally constructed _______ the construction.",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "before construction",
+      "b": "simultaneously with construction",
+      "c": "after construction",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2217",
+    "chapter": ""
+  },
+  {
+    "question": "Estimate is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "the actual cost of construction of a structure",
+      "b": "the probable cost arrived at before the commencement of the structure",
+      "c": "a random guess of the cost of the structure",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2218",
+    "chapter": ""
+  },
+  {
+    "question": "When it is not specified the number of holdfasts for a door is usually taken as",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2219",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of the ornamental pillar cap is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "m3",
+      "b": "no.",
+      "c": "m2",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2220",
+    "chapter": ""
+  },
+  {
+    "question": "1 Ropani equals",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "5476 sq. ft",
+      "b": "342.25 sq. ft",
+      "c": "85.562 sq. ft",
+      "d": "21.4 sq. ft"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2221",
+    "chapter": ""
+  },
+  {
+    "question": "The value of the dismantled material less the cost of dismantling is called",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "scrap value",
+      "b": "salvation value",
+      "c": "rateable value",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2222",
+    "chapter": ""
+  },
+  {
+    "question": "Which one piece of information is not found in specification",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "nature of works",
+      "b": "quality of materials",
+      "c": "types of workmanship",
+      "d": "dimension"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2223",
+    "chapter": ""
+  },
+  {
+    "question": "The thickness of the CGI sheet is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "0.13-4 mm",
+      "b": "0.8-0.9 mm",
+      "c": "4-8 mm",
+      "d": "6-10 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2224",
+    "chapter": ""
+  },
+  {
+    "question": "The rate of hydration and hydrolysis of cement depends upon its",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "soundness",
+      "b": "fineness",
+      "c": "setting time",
+      "d": "tensile strength"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2225",
+    "chapter": ""
+  },
+  {
+    "question": "Flash setting of cement means",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "hydration of cement",
+      "b": "hardening of cement",
+      "c": "stiffening of cement without strength development",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2226",
+    "chapter": ""
+  },
+  {
+    "question": "An artificial stone made from pieces of marble and cement and used for floor facing of walls etc. is known as",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "mosaic",
+      "b": "terrazzo",
+      "c": "marble",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2227",
+    "chapter": ""
+  },
+  {
+    "question": "The portion of a brick cut to form angles other than right angles in plan, is known as",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "queen closer",
+      "b": "king closer",
+      "c": "closer",
+      "d": "squint brick"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2228",
+    "chapter": ""
+  },
+  {
+    "question": "A prime coat is given to steel work with",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "an oxide of iron paint",
+      "b": "a mixture of white lead and lead paint",
+      "c": "a special paint",
+      "d": "cement paint"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2229",
+    "chapter": ""
+  },
+  {
+    "question": "The metallic oxide used in the form of powder in a paint is called",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "extender",
+      "b": "base",
+      "c": "vehicle",
+      "d": "drier"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2230",
+    "chapter": ""
+  },
+  {
+    "question": "Pick up the polymineralic rock from the following:",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "Quartz sand",
+      "b": "Pure gypsum",
+      "c": "Magnesite",
+      "d": "Granite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2231",
+    "chapter": ""
+  },
+  {
+    "question": "The single phase system uses voltage upto",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "110 V",
+      "b": "230 V",
+      "c": "415 V",
+      "d": "650 V"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2232",
+    "chapter": ""
+  },
+  {
+    "question": "The three phase system uses voltage upto",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "110 V",
+      "b": "230 V",
+      "c": "415 V",
+      "d": "650 V"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2233",
+    "chapter": ""
+  },
+  {
+    "question": "Septic tank effluent is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "quite clear and sparkling",
+      "b": "always odorless",
+      "c": "having fine organic solids with high BOD",
+      "d": "black tarry liquor with an earthen odor"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2234",
+    "chapter": ""
+  },
+  {
+    "question": "Which type of lighting is used to highlight specific areas or objects in a space?",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "Ambient lighting",
+      "b": "Task lighting",
+      "c": "Accent lighting",
+      "d": "General lighting"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2235",
+    "chapter": ""
+  },
+  {
+    "question": "Which is used to connect two pipes of different diameter ?",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "Elbow",
+      "b": "Plug",
+      "c": "Caps",
+      "d": "Reducer coupling"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2236",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती सेवा ऐनको कुन संशोधनले नेपालमा आरक्षणको व्यवस्था गरेको हो ?",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "पहिलो",
+      "b": "दोस्रो",
+      "c": "तेस्रो",
+      "d": "चौथो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2237",
+    "chapter": ""
+  },
+  {
+    "question": "बजेट तथा कार्यक्रम तर्जुमा समितिको संयोजक को रहने व्यवस्था छ ?",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "अध्यक्ष वा प्रमुख",
+      "b": "उपाध्यक्ष वा उपप्रमुख",
+      "c": "शाखा प्रमुख",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2238",
+    "chapter": ""
+  },
+  {
+    "question": "Suitable spacing of timber piles, is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "60cm",
+      "b": "70cm",
+      "c": "80cm",
+      "d": "90cm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2239",
+    "chapter": ""
+  },
+  {
+    "question": "The inner section of cavity wall is, generally known as",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "buttress",
+      "b": "leaf wall",
+      "c": "pilaster",
+      "d": "pillar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2240",
+    "chapter": ""
+  },
+  {
+    "question": "The filling in cavities with cement slurry is known as :",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "coping",
+      "b": "beam filling",
+      "c": "grouting",
+      "d": "guniting"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2241",
+    "chapter": ""
+  },
+  {
+    "question": "Carpet area of a building does not include the area of",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "the along with doors and other opening",
+      "b": "verandah, corridor and passage",
+      "c": "bathroom and lavatory, kitchen and pantry",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2242",
+    "chapter": ""
+  },
+  {
+    "question": "What is the minimum period for which the lime concrete in foundation be left wet without the construction of masonry over it?",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "15 days",
+      "b": "3 days",
+      "c": "5 days",
+      "d": "7 days"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2243",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum height of door should be",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "2.1m",
+      "b": "1.8m",
+      "c": "1.5m",
+      "d": "3m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2244",
+    "chapter": ""
+  },
+  {
+    "question": "In countries like Nepal, the building should be ________ .",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "earthquake proof",
+      "b": "earthquake resistance",
+      "c": "13 richter resistance",
+      "d": "8 richter scale proof"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2245",
+    "chapter": ""
+  },
+  {
+    "question": "The slump test is done to measure ______ of concrete.",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "workability",
+      "b": "bearing capacity",
+      "c": "shear",
+      "d": "compression"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2246",
+    "chapter": ""
+  },
+  {
+    "question": "Which type of culvert is used in high discharge areas and low debris flow areas ?",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "pipe culvert",
+      "b": "box culvert",
+      "c": "slab culvert",
+      "d": "arch culvert"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2247",
+    "chapter": ""
+  },
+  {
+    "question": "The bridges constructed by two or more hanging cables in a curve shape and supporting the road way is called",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "flying bridge",
+      "b": "floating bridge",
+      "c": "suspension bridge",
+      "d": "boat bridge"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2248",
+    "chapter": ""
+  },
+  {
+    "question": "What is the name of highway that connects Kathmandu with Pokhara ?",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "Prithvi highway",
+      "b": "Tribhuwan highway",
+      "c": "Mahendra highway",
+      "d": "Araniko highway"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2249",
+    "chapter": ""
+  },
+  {
+    "question": "Soil and water conservation method mostly used in mountains and Hilly areas is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "Bench terracing",
+      "b": "contour bunding",
+      "c": "terracing",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2250",
+    "chapter": ""
+  },
+  {
+    "question": "The types of irrigation applicable if there is a scarcity of water with high-pressure",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "drip irrigation",
+      "b": "trickle irrigation",
+      "c": "both (a) and (b) of above",
+      "d": "sprinkler irrigation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2251",
+    "chapter": ""
+  },
+  {
+    "question": "The main function of diversion head works of a canal from a river, is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "to remove silt",
+      "b": "to control floods",
+      "c": "to store water",
+      "d": "to raise the water level"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2252",
+    "chapter": ""
+  },
+  {
+    "question": "As the coefficient of friction increases, the velocity of water in a canal",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2253",
+    "chapter": ""
+  },
+  {
+    "question": "Factors considered in the selection of a site for intake point is that it should be",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "nearer to the treatment plant",
+      "b": "in the pure zone of the water source",
+      "c": "upstream of the point of disposal of wastewater",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2254",
+    "chapter": ""
+  },
+  {
+    "question": "The capacity of the flushing cistern for water closets is",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "1-2 liters",
+      "b": "2-3 liters",
+      "c": "5 liters",
+      "d": "20-25 liters"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2255",
+    "chapter": ""
+  },
+  {
+    "question": "PVC pipes can withstand pressure up to",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "20m head of water",
+      "b": "50m head of water",
+      "c": "100m head of water",
+      "d": "150m head of water"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2256",
+    "chapter": ""
+  },
+  {
+    "question": "The contour of a same elevation ?",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "can cross",
+      "b": "can unite",
+      "c": "can not unite",
+      "d": "none"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2257",
+    "chapter": ""
+  },
+  {
+    "question": "You are going to prepare a topo map of an undulating area, the method of surveying preferred is ______ .",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "plane table survey",
+      "b": "compass survey",
+      "c": "theodolite survey",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2258",
+    "chapter": ""
+  },
+  {
+    "question": "The limiting offsets distance does not depend upon",
+    "topic": "सुदूरपश्चिम प्रदेश - II",
+    "options": {
+      "a": "accuracy required",
+      "b": "scale of map",
+      "c": "importance of the feature",
+      "d": "layout of the chain line"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2259",
+    "chapter": ""
+  }
+]

@@ -1,0 +1,2006 @@
+[
+  {
+    "question_number": 1,
+    "question": "According to the preliminary estimate by the National Statistics Office (April 28, 2026), what is the projected economic growth rate at basic price of Nepal for FY 2082/83?",
+    "options": {
+      "a": "3.68%",
+      "b": "4.1%",
+      "c": "4.61%",
+      "d": "4.87%"
+    },
+    "correct_answer": "b",
+    "explanation": "According to the preliminary estimates published by the National Statistics Office on April 28, 2026, Nepal's projected economic growth rate at basic prices for the fiscal year 2082/83 is estimated at 4.1%[cite: 4]."
+  },
+  {
+    "question_number": 2,
+    "question": "According to the preliminary estimate by the National Statistics Office (April 28, 2026), what is the projected size of Nepalese economy at current price for FY 2082/83?",
+    "options": {
+      "a": "5.7 trillion",
+      "b": "6.29 trillion",
+      "c": "6.31 trillion",
+      "d": "6.69 trillion"
+    },
+    "correct_answer": "d",
+    "explanation": "The preliminary macroeconomic statistics released by the National Statistics Office set the total size (Gross Domestic Product) of the Nepalese economy at current prices for FY 2082/83 at approximately 6.69 trillion rupees[cite: 4]."
+  },
+  {
+    "question_number": 3,
+    "question": "Which of the following institutions releases the \"World Economic Outlook Report\"?",
+    "options": {
+      "a": "World Bank (WB)",
+      "b": "Asian Development Bank (ADB)",
+      "c": "International Monetary Fund (IMF)",
+      "d": "International Finance Corporation (IFC)"
+    },
+    "correct_answer": "c",
+    "explanation": "The World Economic Outlook (WEO) report is a flagship survey published biannually by the International Monetary Fund (IMF), analyzing global economic developments and projections[cite: 4]."
+  },
+  {
+    "question_number": 4,
+    "question": "What does the Asian Development Bank (ADB) mainly focus on?",
+    "options": {
+      "a": "Agricultural development",
+      "b": "Biodiversity protection",
+      "c": "Economic development & poverty reduction",
+      "d": "Cultural preservation"
+    },
+    "correct_answer": "c",
+    "explanation": "The primary institutional mission and focus of the Asian Development Bank (ADB) is promoting social and economic development and working toward a prosperous, inclusive, resilient, and sustainable poverty reduction in Asia and the Pacific[cite: 4]."
+  },
+  {
+    "question_number": 5,
+    "question": "According to the World Bank (WB) report published in April, 2026 A.D, the revised economic growth rate of Nepal is expected to be ... in FY 2082/83.",
+    "options": {
+      "a": "2.3%",
+      "b": "3.4%",
+      "c": "2.4%",
+      "d": "4.5%"
+    },
+    "correct_answer": "a",
+    "explanation": "In its regional economic update published in April 2026, the World Bank revised Nepal's expected economic growth rate downward to 2.3% for FY 2082/83[cite: 4]."
+  },
+  {
+    "question_number": 6,
+    "question": "According to the IMF Report published in April, 2026, what is the revised expected economic growth rate of Nepal in 2082/83?",
+    "options": {
+      "a": "2.0%",
+      "b": "2.1%",
+      "c": "2.4%",
+      "d": "3.0%"
+    },
+    "correct_answer": "d",
+    "explanation": "The International Monetary Fund (IMF) April 2026 report projected Nepal's revised economic growth rate to stand at 3.0% for the fiscal year 2082/83[cite: 4]."
+  },
+  {
+    "question_number": 7,
+    "question": "What is the most common measure of a country's economic size?",
+    "options": {
+      "a": "Active Population",
+      "b": "Agricultural Land Area",
+      "c": "Remittance Income",
+      "d": "Gross Domestic Product"
+    },
+    "correct_answer": "d",
+    "explanation": "Gross Domestic Product (GDP)—the total monetary value of all finished goods and services produced within a country's borders—is globally recognized as the primary standard measure of economic size[cite: 4]."
+  },
+  {
+    "question_number": 8,
+    "question": "Nepal's economy is estimated preliminary to grow by ... at purchaser price for the FY 2082/83.",
+    "options": {
+      "a": "2.99%",
+      "b": "3.0%",
+      "c": "3.85%",
+      "d": "5.0%"
+    },
+    "correct_answer": "c",
+    "explanation": "Preliminary estimates indicate that Nepal's economic growth rate evaluated at purchaser prices for FY 2082/83 is projected at 3.85%[cite: 4]."
+  },
+  {
+    "question_number": 9,
+    "question": "The revised economic growth of Nepal at basic price was ... in FY 2081/82.",
+    "options": {
+      "a": "3.80%",
+      "b": "3.9%",
+      "c": "4.1%",
+      "d": "4.3%"
+    },
+    "correct_answer": "a",
+    "explanation": "The revised macroeconomic accounting records show that Nepal's economic growth rate at basic prices for the preceding fiscal year 2081/82 was 3.80%[cite: 4]."
+  },
+  {
+    "question_number": 10,
+    "question": "As per economic survey - FY 2082/83, the contribution of agriculture sector to gross value added is estimated to be ... in FY 2082/83.",
+    "options": {
+      "a": "24.03%",
+      "b": "24.3%",
+      "c": "24.6%",
+      "d": "24.8%"
+    },
+    "correct_answer": "a",
+    "explanation": "According to the Economic Survey for FY 2082/83, the contribution of the agriculture sector to total gross value added (GVA) is estimated at 24.03%[cite: 4]."
+  },
+  {
+    "question_number": 11,
+    "question": "As per the economic survey of FY 2081/82, what was the GDP per capita income of Nepal?",
+    "options": {
+      "a": "1477 USD",
+      "b": "1496 USD",
+      "c": "1516 USD",
+      "d": "1564 USD"
+    },
+    "correct_answer": "c",
+    "explanation": "Economic Survey data indicates that the GDP per capita income of Nepal for FY 2081/82 was recorded at 1,516 USD[cite: 4]."
+  },
+  {
+    "question_number": 12,
+    "question": "Which of the following sector is the largest contributor to the GDP of Nepal?",
+    "options": {
+      "a": "Manufacturing",
+      "b": "Corporate",
+      "c": "Cooperative",
+      "d": "Service"
+    },
+    "correct_answer": "d",
+    "explanation": "The service sector constitutes the largest share and primary driving engine of Nepal's Gross Domestic Product, outweighing agriculture and industrial sectors[cite: 4]."
+  },
+  {
+    "question_number": 13,
+    "question": "What is the targeted economic growth rate of Nepal according to the Budget of FY 2083/84?",
+    "options": {
+      "a": "5.0%",
+      "b": "5.5%",
+      "c": "6.0%",
+      "d": "7.0%"
+    },
+    "correct_answer": "d",
+    "explanation": "The national budget statement outlines an ambitious target for economic growth, aiming for 7.0% in FY 2083/84[cite: 4]."
+  },
+  {
+    "question_number": 14,
+    "question": "According to recent economic survey, what is supposed to be the contribution of industrial sector in the GDP of Nepal in fiscal year 2081/82?",
+    "options": {
+      "a": "12.5%",
+      "b": "13.70%",
+      "c": "14.5%",
+      "d": "14.2%"
+    },
+    "correct_answer": "b",
+    "explanation": "The industrial sector contributed 13.70% to the total Gross Domestic Product of Nepal during the fiscal year 2081/82 according to national survey figures[cite: 4]."
+  },
+  {
+    "question_number": 15,
+    "question": "According to the 16th plan, what is the targeted economic growth rate at basic price of Nepal?",
+    "options": {
+      "a": "7.1%",
+      "b": "7.4%",
+      "c": "7.6%",
+      "d": "7.6%"
+    },
+    "correct_answer": "c",
+    "explanation": "The 16th periodic national plan outlines a targeted average economic growth rate of 7.6% at basic prices for the plan period[cite: 4]."
+  },
+  {
+    "question_number": 16,
+    "question": "The Standard of living in a country is represented by its...",
+    "options": {
+      "a": "Poverty Ratio",
+      "b": "Per Capita Income (PCI)",
+      "c": "National Income",
+      "d": "Employment Rate"
+    },
+    "correct_answer": "b",
+    "explanation": "Per Capita Income (total national income divided by population) serves as the standard macroeconomic proxy indicator for measuring average material welfare and living standards in a country[cite: 4]."
+  },
+  {
+    "question_number": 17,
+    "question": "Which one of the following services is included in the Secondary Sector?",
+    "options": {
+      "a": "Insurance",
+      "b": "agriculture",
+      "c": "construction",
+      "d": "Banking"
+    },
+    "correct_answer": "c",
+    "explanation": "The secondary economic sector comprises manufacturing, electricity, gas, water supply, and construction activities, making construction the correct classification among the choices[cite: 4]."
+  },
+  {
+    "question_number": 18,
+    "question": "Which of the following is/are included in the primary sector?",
+    "options": {
+      "a": "Land",
+      "b": "Forest",
+      "c": "Mines",
+      "d": "All of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "The primary sector encompasses industries that extract or harvest natural products directly from the earth, including agriculture, forestry, fishing, and mining/quarrying[cite: 4]."
+  },
+  {
+    "question_number": 19,
+    "question": "According to IMF Projection, 2025, which are the biggest economics (countries) of the world?",
+    "options": {
+      "a": "USA, China and Germany",
+      "b": "USA, Japan and Germany",
+      "c": "USA, Germany and Canada",
+      "d": "USA, China and France"
+    },
+    "correct_answer": "a",
+    "explanation": "IMF projections rank the United States, China, and Germany as the top three largest national economies in the world by nominal GDP measures[cite: 4]."
+  },
+  {
+    "question_number": 20,
+    "question": "Which is the richest country of the world based on GDP Per Capita Income according to IMF Report published on October, 2023?",
+    "options": {
+      "a": "Luxembourg",
+      "b": "Qatar",
+      "c": "Switzerland",
+      "d": "Denmark"
+    },
+    "correct_answer": "c",
+    "explanation": "Based on the IMF World Economic Outlook data published in October 2023, Switzerland ranked as the richest country in the world by nominal GDP per capita[cite: 4]."
+  },
+  {
+    "question_number": 21,
+    "question": "Nepal has ... position in GDP per capita among SAARC counties as per IMF Report published on October, 2025.",
+    "options": {
+      "a": "1st",
+      "b": "2nd",
+      "c": "3rd",
+      "d": "4th"
+    },
+    "correct_answer": "b",
+    "explanation": "According to the IMF report published in October 2025, Nepal holds the 2nd position in terms of GDP per capita among the SAARC member nations[cite: 4]."
+  },
+  {
+    "question_number": 22,
+    "question": "According to Economic Survey FY 2082/83, which among the following province would have lowest economic growth at the end of FY 2082/83?",
+    "options": {
+      "a": "Koshi",
+      "b": "Karnali",
+      "c": "Bagmati",
+      "d": "Madhesh"
+    },
+    "correct_answer": "d",
+    "explanation": "Economic Survey data for FY 2082/83 projects Madhesh Province to register the lowest regional economic growth rate at the end of the fiscal year[cite: 4]."
+  },
+  {
+    "question_number": 23,
+    "question": "According to Economic Survey, FY 2082/83, which province is estimated to contribute the most of the economy of Nepal?",
+    "options": {
+      "a": "Koshi Province",
+      "b": "Lumbini Province",
+      "c": "Bagmati Province",
+      "d": "Gandaki Province"
+    },
+    "correct_answer": "c",
+    "explanation": "Bagmati Province is estimated to be the largest provincial contributor to Nepal's national economy due to high concentrations of financial institutions, administrative centers, trade, and industries[cite: 4]."
+  },
+  {
+    "question_number": 24,
+    "question": "Agriculture sector occupies almost ... share in GDP.",
+    "options": {
+      "a": "One third",
+      "b": "Two third",
+      "c": "One fourth",
+      "d": "Half"
+    },
+    "correct_answer": "c",
+    "explanation": "With the agricultural share hovering around 24%, it accounts for roughly one-fourth of Nepal's total Gross Domestic Product[cite: 4]."
+  },
+  {
+    "question_number": 25,
+    "question": "According to the World Bank's 2024 report, which country has the highest remittance inflow as a percentage of GDP?",
+    "options": {
+      "a": "Nepal",
+      "b": "Tonga",
+      "c": "India",
+      "d": "Tajikistan"
+    },
+    "correct_answer": "d",
+    "explanation": "The World Bank's 2024 migration and development report highlighted Tajikistan as having the highest remittance inflow as a percentage of its GDP globally[cite: 4]."
+  },
+  {
+    "question_number": 26,
+    "question": "What was the amount of remittance inflow in Nepal in FY 2081/82?",
+    "options": {
+      "a": "Rs. 936.97 billion",
+      "b": "Rs. 1513.23 billion",
+      "c": "Rs. 1723.27 billion",
+      "d": "Rs. 1845.32 billion"
+    },
+    "correct_answer": "c",
+    "explanation": "Remittance inflows into Nepal reached Rs. 1,723.27 billion during the fiscal year 2081/82[cite: 4]."
+  },
+  {
+    "question_number": 27,
+    "question": "Which of the following organizations updates the record of per capita income of Nepal?",
+    "options": {
+      "a": "Ministry of Finance",
+      "b": "Nepal Rastra Bank",
+      "c": "National Planning Commission",
+      "d": "National Statistics Office"
+    },
+    "correct_answer": "d",
+    "explanation": "The National Statistics Office (formerly Central Bureau of Statistics) is the official body responsible for compiling national accounts and updating official records of per capita income in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 28,
+    "question": "According to the economic Survey of the FY 2082/83 published by the Ministry of Finance, what is the per capita gross national income (GNI) of Nepal?",
+    "options": {
+      "a": "US Dollar 1381",
+      "b": "US Dollar 1456",
+      "c": "US Dollar 1496",
+      "d": "US Dollar 1535"
+    },
+    "correct_answer": "d",
+    "explanation": "The Ministry of Finance's Economic Survey for FY 2082/83 records Nepal's per capita gross national income (GNI) at US Dollar 1,535[cite: 4]."
+  },
+  {
+    "question_number": 29,
+    "question": "One of the major characteristics of Nepali economy is heavily reliable on remittance that accounts ... percentage of GDP in 2024/25.",
+    "options": {
+      "a": "25.09",
+      "b": "25.89",
+      "c": "26.1",
+      "d": "26.6"
+    },
+    "correct_answer": "a",
+    "explanation": "Remittance represents a critical external pillar of Nepal's economy, accounting for 25.09% of the GDP in the 2024/25 period[cite: 4]."
+  },
+  {
+    "question_number": 30,
+    "question": "Which sector contributes more to GDP of Nepal?",
+    "options": {
+      "a": "Agriculture",
+      "b": "Service",
+      "c": "Industry",
+      "d": "Tourism"
+    },
+    "correct_answer": "b",
+    "explanation": "The service sector contributes the highest share to Nepal's GDP among all macro-economic sectors[cite: 4]."
+  },
+  {
+    "question_number": 31,
+    "question": "When was Nepal's first national economic census conducted?",
+    "options": {
+      "a": "2072 B.S.",
+      "b": "2073 B.S.",
+      "c": "2074 B.S.",
+      "d": "2075 B.S."
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal's historic first national economic census was conducted in the year 2075 B.S. to map out establishments and business entities across the country[cite: 4]."
+  },
+  {
+    "question_number": 32,
+    "question": "According to Economic Survey-2082/83, which province estimated to contribute in GDP growth is the most of the economy of Nepal?",
+    "options": {
+      "a": "Karnali Province",
+      "b": "Lumbini Province",
+      "c": "Bagmati Province",
+      "d": "Gandaki Province"
+    },
+    "correct_answer": "c",
+    "explanation": "Bagmati Province leads all other provinces in its overall share and contribution to national GDP growth according to the Economic Survey for FY 2082/83[cite: 4]."
+  },
+  {
+    "question_number": 33,
+    "question": "Which of the following is not considered as a macro economic indicator?",
+    "options": {
+      "a": "Unemployment rate",
+      "b": "Balance of payment",
+      "c": "Inflation",
+      "d": "None"
+    },
+    "correct_answer": "d",
+    "explanation": "Unemployment rate, balance of payments, and inflation are all core standard macroeconomic indicators used to measure aggregate economic performance, so 'None' is correct[cite: 4]."
+  },
+  {
+    "question_number": 34,
+    "question": "Gross Domestic Product is a sum of ...",
+    "options": {
+      "a": "NNP, Disposable Income and GNP",
+      "b": "Investment, Consumption, Government Purchases and Net Exports",
+      "c": "Investment, Wages, Profits and Intermediate Production",
+      "d": "All of above"
+    },
+    "correct_answer": "b",
+    "explanation": "Under the expenditure approach, Gross Domestic Product is calculated as the sum of Consumer Spending (Consumption), Investment, Government Purchases, and Net Exports ($Y = C + I + G + NX$)[cite: 4]."
+  },
+  {
+    "question_number": 35,
+    "question": "What was Nepal's public debt as a percentage of GDP at the end of the FY 2081/82?",
+    "options": {
+      "a": "30%",
+      "b": "42%",
+      "c": "43.71%",
+      "d": "48%"
+    },
+    "correct_answer": "c",
+    "explanation": "Nepal's total public debt stood at 43.71% of its Gross Domestic Product at the close of fiscal year 2081/82[cite: 4]."
+  },
+  {
+    "question_number": 36,
+    "question": "What is called the Gross Domestic product (GDP) calculated on the basic of current year's price?",
+    "options": {
+      "a": "Real GDP",
+      "b": "GDP per capita",
+      "c": "Nominal GDP",
+      "d": "None"
+    },
+    "correct_answer": "a",
+    "explanation": "Although standard economic definitions classify GDP at current prices as Nominal GDP, the answer key provided in the source designates option (a)[cite: 4]."
+  },
+  {
+    "question_number": 37,
+    "question": "Which of the following increases in the real GDP?",
+    "options": {
+      "a": "Increase in real rate of interest",
+      "b": "Increase in taxes",
+      "c": "Increase in government expenditure",
+      "d": "None of the above"
+    },
+    "correct_answer": "c",
+    "explanation": "An increase in government expenditure boosts aggregate demand, which directly drives up real output and real GDP in the Keynesian macroeconomic framework[cite: 4]."
+  },
+  {
+    "question_number": 38,
+    "question": "Which institution of the following helps to solve the problem related to balance of payment through providing loan?",
+    "options": {
+      "a": "World Bank",
+      "b": "IMF",
+      "c": "ADB",
+      "d": "UN"
+    },
+    "correct_answer": "b",
+    "explanation": "The International Monetary Fund (IMF) specifically acts as an international lender of last resort, providing emergency financial loans to member countries experiencing balance of payment crises[cite: 4]."
+  },
+  {
+    "question_number": 39,
+    "question": "Which of the following is not a method to Calculate Gross Domestic product (GDP)?",
+    "options": {
+      "a": "Production Method",
+      "b": "Income Method",
+      "c": "Expenditure Method",
+      "d": "Diminishing Cost Method"
+    },
+    "correct_answer": "d",
+    "explanation": "The three standard, universally accepted methods to calculate GDP are the Production (Value Added) Method, Income Method, and Expenditure Method. The Diminishing Cost Method is not a GDP calculation method[cite: 4]."
+  },
+  {
+    "question_number": 40,
+    "question": "Which of the following has the largest Gross Domestic Product (GDP) in the world?",
+    "options": {
+      "a": "China",
+      "b": "Japan",
+      "c": "USA",
+      "d": "Germany"
+    },
+    "correct_answer": "c",
+    "explanation": "The United States maintains the largest nominal Gross Domestic Product globally among individual countries[cite: 4]."
+  },
+  {
+    "question_number": 41,
+    "question": "The richest country of the World based on GDP per capita (at PPP) income according to IMF 2025 ...",
+    "options": {
+      "a": "USA",
+      "b": "Liechtenstein",
+      "c": "Singapore",
+      "d": "Qatar"
+    },
+    "correct_answer": "d",
+    "explanation": "According to IMF metrics, Qatar ranks among the wealthiest nations globally when measured by Purchasing Power Parity (PPP) adjusted GDP per capita[cite: 4]."
+  },
+  {
+    "question_number": 42,
+    "question": "Which statement is correct for GDP calculation? \n1. Nominal GDP is calculated based on current prices.\n2. Real GDP is calculated based on the basic prices.",
+    "options": {
+      "a": "Only 1",
+      "b": "only 2",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "correct_answer": "c",
+    "explanation": "Both statements correctly describe aspects of GDP valuation frameworks used in national economic accounting systems[cite: 4]."
+  },
+  {
+    "question_number": 43,
+    "question": "What is the method of calculate the national income?",
+    "options": {
+      "a": "Expensive Method",
+      "b": "Income Method",
+      "c": "Product method",
+      "d": "all of these"
+    },
+    "correct_answer": "d",
+    "explanation": "National income can be computed through multiple accounting angles, including product, income, and expenditure approaches[cite: 4]."
+  },
+  {
+    "question_number": 44,
+    "question": "The GDP growth rate is calculating using ...",
+    "options": {
+      "a": "Real GDP",
+      "b": "Nominal GDP",
+      "c": "GDP at Current Price",
+      "d": "GDP at Original Price"
+    },
+    "correct_answer": "a",
+    "explanation": "Real GDP—which eliminates the distorting effects of inflation—is used to accurately calculate economic growth rates over time[cite: 4]."
+  },
+  {
+    "question_number": 45,
+    "question": "Per Capita Income (PCI) of a country is calculated by:",
+    "options": {
+      "a": "Dividing Total GDP by the Working Population",
+      "b": "Dividing Total National Income by the Total Population",
+      "c": "Multiplying Net National Income by the Total Population",
+      "d": "Subtracting taxes from total remittance"
+    },
+    "correct_answer": "b",
+    "explanation": "Per Capita Income is defined mathematically as the total national income of a country divided by its total resident population[cite: 4]."
+  },
+  {
+    "question_number": 46,
+    "question": "The average GDP growth rate of Nepal during last 10 years comes under ... group.",
+    "options": {
+      "a": "Less than 3.0%",
+      "b": "4.0% - 5.0%",
+      "c": "4.0%-6.0%",
+      "d": "more than 6.0%"
+    },
+    "correct_answer": "b",
+    "explanation": "Historical performance tracking shows Nepal's average decadal GDP growth rate generally falling within the 4.0% to 5.0% bracket[cite: 4]."
+  },
+  {
+    "question_number": 47,
+    "question": "GDP is a value of the produced ... within an accounting period.",
+    "options": {
+      "a": "Goods",
+      "b": "services",
+      "c": "both a and b",
+      "d": "imports"
+    },
+    "correct_answer": "c",
+    "explanation": "Gross Domestic Product measures the total monetary value of all final goods and services produced domestically within a specified accounting period[cite: 4]."
+  },
+  {
+    "question_number": 48,
+    "question": "What is meant by real GDP?",
+    "options": {
+      "a": "Valued at current price",
+      "b": "Valued at consumer price",
+      "c": "Valued at basic price",
+      "d": "Valued at producers price"
+    },
+    "correct_answer": "c",
+    "explanation": "In the context of the source text's classification, real GDP metrics are referenced relative to basic pricing structures[cite: 4]."
+  },
+  {
+    "question_number": 49,
+    "question": "From expenditure side, GDP is calculation through ...",
+    "options": {
+      "a": "Supply of goods and services",
+      "b": "Use of goods and services",
+      "c": "Addition of goods and services",
+      "d": "all of the above"
+    },
+    "correct_answer": "b",
+    "explanation": "The expenditure approach calculates GDP based on the total final uses of goods and services (consumption, investment, government spending, and net exports)[cite: 4]."
+  },
+  {
+    "question_number": 50,
+    "question": "In the context of Nepal, in which period is the growth rate of Gross Domestic Product (GDP) analyzed as a major indicator of economic development?",
+    "options": {
+      "a": "Monthly",
+      "b": "Quarterly and Annually",
+      "c": "Semi-annually and annually",
+      "d": "annually"
+    },
+    "correct_answer": "b",
+    "explanation": "Economic growth performance in Nepal is formally reviewed and analyzed on both a quarterly and annual basis by central planning and monetary agencies[cite: 4]."
+  },
+  {
+    "question_number": 51,
+    "question": "What percentage of contribution is projected from primary sector on Nepal's Gross Domestic Product in Fiscal Year 2082/83?",
+    "options": {
+      "a": "23.9%",
+      "b": "24.46%",
+      "c": "25.8%",
+      "d": "26.8%"
+    },
+    "correct_answer": "b",
+    "explanation": "Projections for FY 2082/83 estimate the primary sector's contribution to Nepal's GDP at 24.46%[cite: 4]."
+  },
+  {
+    "question_number": 52,
+    "question": "Which sector contributes more to GDP of Nepal?",
+    "options": {
+      "a": "Agriculture",
+      "b": "Service",
+      "c": "Industry",
+      "d": "Tourism"
+    },
+    "correct_answer": "b",
+    "explanation": "The service sector is the dominant contributor to Nepal's overall Gross Domestic Product[cite: 4]."
+  },
+  {
+    "question_number": 53,
+    "question": "Received income from foreign employment is called ...",
+    "options": {
+      "a": "Remittance",
+      "b": "Bonus",
+      "c": "Import",
+      "d": "Margin"
+    },
+    "correct_answer": "a",
+    "explanation": "Money sent back home by migrant workers employed in foreign countries is formally classified as remittance[cite: 4]."
+  },
+  {
+    "question_number": 54,
+    "question": "Among the impacts of remittance, which of the following is not considered to be normally positive?",
+    "options": {
+      "a": "Increase in income",
+      "b": "Increase in real estate investment",
+      "c": "Increase access in education",
+      "d": "Increase in remittance"
+    },
+    "correct_answer": "b",
+    "explanation": "While remittances boost household income and educational access, unmonitored surges leading to hyper-speculative real estate inflation and land barrenness are generally viewed with economic concern[cite: 4]."
+  },
+  {
+    "question_number": 55,
+    "question": "According to World Bank report 2024, the position of Nepal in receiving of remittance as proportion of GDP in world?",
+    "options": {
+      "a": "4th",
+      "b": "5th",
+      "c": "6th",
+      "d": "10th"
+    },
+    "correct_answer": "c",
+    "explanation": "World Bank 2024 statistics placed Nepal 6th globally in terms of receiving remittances as a proportion of total GDP[cite: 4]."
+  },
+  {
+    "question_number": 56,
+    "question": "Which of following country earns more remittance in the world?",
+    "options": {
+      "a": "Nepal",
+      "b": "India",
+      "c": "China",
+      "d": "Philippines"
+    },
+    "correct_answer": "b",
+    "explanation": "India consistently ranks as the world's highest recipient and earner of total absolute remittance volume globally due to its massive diaspora[cite: 4]."
+  },
+  {
+    "question_number": 57,
+    "question": "Which country has maximum foreign project investments in Nepal?",
+    "options": {
+      "a": "USA",
+      "b": "U.K",
+      "c": "China",
+      "d": "Japan"
+    },
+    "correct_answer": "c",
+    "explanation": "China accounts for the maximum volume of foreign direct investment project commitments in Nepal in recent years[cite: 4]."
+  },
+  {
+    "question_number": 58,
+    "question": "Which organization approves Foreign Direct Investment (FDI) of NRs. 10 billion and above in Nepal?",
+    "options": {
+      "a": "Investment Board of Nepal",
+      "b": "Ministry of Industry",
+      "c": "Industrial Promotion Board",
+      "d": "Ministry of Finance"
+    },
+    "correct_answer": "a",
+    "explanation": "The Investment Board of Nepal (IBN) is legally mandated to approve, facilitate, and manage large-scale foreign direct investments valued at NRs. 10 billion and above[cite: 4]."
+  },
+  {
+    "question_number": 59,
+    "question": "Which of the following is/are the donor agencies for Nepal?",
+    "options": {
+      "a": "World Bank (WB)",
+      "b": "ADB",
+      "c": "USAID",
+      "d": "All of above"
+    },
+    "correct_answer": "d",
+    "explanation": "The World Bank, Asian Development Bank (ADB), and USAID are all prominent multilateral and bilateral donor agencies providing financial and technical assistance to Nepal[cite: 4]."
+  },
+  {
+    "question_number": 60,
+    "question": "Which of the following multilateral agencies has the largest share in outstanding loans?",
+    "options": {
+      "a": "ADB",
+      "b": "IDA",
+      "c": "JICA",
+      "d": "IMF"
+    },
+    "correct_answer": "b",
+    "explanation": "The International Development Association (IDA), the concessional lending arm of the World Bank, holds the largest share of Nepal's outstanding external public debt loans[cite: 4]."
+  },
+  {
+    "question_number": 61,
+    "question": "Which of the following country provides the most foreign aid to Nepal?",
+    "options": {
+      "a": "USA",
+      "b": "UK",
+      "c": "Japan",
+      "d": "China"
+    },
+    "correct_answer": "c",
+    "explanation": "Historically, Japan has been among the top bilateral development partners providing substantial grant and loan aid to Nepal[cite: 4]."
+  },
+  {
+    "question_number": 62,
+    "question": "Which of the following country, first offered financial assistance to Nepal?",
+    "options": {
+      "a": "England",
+      "b": "USA",
+      "c": "India",
+      "d": "China"
+    },
+    "correct_answer": "b",
+    "explanation": "The United States was the first bilateral nation to offer formal foreign financial and technical assistance to Nepal, beginning in the early 1950s under Point Four agreements[cite: 4]."
+  },
+  {
+    "question_number": 63,
+    "question": "Which of the following shall have power to obtain foreign assistance and borrow?",
+    "options": {
+      "a": "Government of Nepal",
+      "b": "Provincial Government",
+      "c": "Local Bodies",
+      "d": "Loans to be mobilized by international banks and financial institutions"
+    },
+    "correct_answer": "a",
+    "explanation": "Under the constitutional framework of Nepal, sole authority and power to obtain foreign financial assistance and sovereign borrowing rest with the Federal Government of Nepal[cite: 4]."
+  },
+  {
+    "question_number": 64,
+    "question": "Which one is not foreign aid?",
+    "options": {
+      "a": "Bilateral Grant",
+      "b": "Multilateral debit",
+      "c": "Multilateral grant",
+      "d": "Loans to be mobilized by international banks and financial institutions"
+    },
+    "correct_answer": "d",
+    "explanation": "Commercial loans mobilized independently by international banks and financial institutions do not constitute official development assistance (foreign aid)[cite: 4]."
+  },
+  {
+    "question_number": 65,
+    "question": "Currently (FY 2026/27), Foreign Aid has contributed around ... in the National Budget of Nepal.",
+    "options": {
+      "a": "10.5%",
+      "b": "11.64%",
+      "c": "14.2%",
+      "d": "16.1%"
+    },
+    "correct_answer": "b",
+    "explanation": "Foreign aid contributions account for approximately 11.64% of the national budget allocation in recent budget formulations[cite: 4]."
+  },
+  {
+    "question_number": 66,
+    "question": "Which of the following is not foreign assistance?",
+    "options": {
+      "a": "Bilateral grant",
+      "b": "Multilateral loans",
+      "c": "Foreign direct investment",
+      "d": "Technical assistance"
+    },
+    "correct_answer": "c",
+    "explanation": "Foreign Direct Investment (FDI) represents private commercial equity capital investment rather than official government-to-government or multilateral foreign assistance[cite: 4]."
+  },
+  {
+    "question_number": 67,
+    "question": "Which sector is not open for foreign investment in Nepal?",
+    "options": {
+      "a": "Defence related industries",
+      "b": "Tourism",
+      "c": "Energy",
+      "d": "Agriculture"
+    },
+    "correct_answer": "a",
+    "explanation": "Sensitive sectors such as defense-related industries, security printing, and traditional retail are strictly restricted and closed to foreign direct investment in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 68,
+    "question": "How many types of Public debt are there?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correct_answer": "b",
+    "explanation": "Public debt is broadly classified into two categories: Internal (domestic) debt and External (foreign) debt[cite: 4]."
+  },
+  {
+    "question_number": 69,
+    "question": "Which sector in Nepal has historically attracted the highest commitments for Foreign Direct Investment (FDI)?",
+    "options": {
+      "a": "Service and Hospitality",
+      "b": "Agriculture and Forestry",
+      "c": "Energy / Hydropower",
+      "d": "Information Technology"
+    },
+    "correct_answer": "a",
+    "explanation": "Service industries, tourism, and hospitality sectors have historically attracted the largest volume of foreign direct investment project registrations in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 70,
+    "question": "What is the ratio of public debt to GDP of Nepal recorded by the end of FY 2081/82?",
+    "options": {
+      "a": "42.70%",
+      "b": "43.71%",
+      "c": "45.00%",
+      "d": "45.70%"
+    },
+    "correct_answer": "b",
+    "explanation": "The public debt-to-GDP ratio of Nepal was recorded at 43.71% at the close of FY 2081/82[cite: 4]."
+  },
+  {
+    "question_number": 71,
+    "question": "The establishment of public enterprises was started from ...",
+    "options": {
+      "a": "First",
+      "b": "second",
+      "c": "sixth",
+      "d": "eleventh"
+    },
+    "correct_answer": "b",
+    "explanation": "The institutional establishment of public enterprises in Nepal officially began during the second periodic plan era[cite: 4]."
+  },
+  {
+    "question_number": 72,
+    "question": "Currently, how many public enterprises are in existence in Nepal?",
+    "options": {
+      "a": "40",
+      "b": "42",
+      "c": "44",
+      "d": "45"
+    },
+    "correct_answer": "d",
+    "explanation": "There are currently 45 public enterprises in existence under state ownership in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 73,
+    "question": "On the basis of Nature of work/role, public enterprises have been classified into ...",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8"
+    },
+    "correct_answer": "b",
+    "explanation": "Based on their operational nature and functional roles, public enterprises in Nepal are officially classified into 6 distinct categories (such as industrial, trading, service, public utility, social, and financial)[cite: 4]."
+  },
+  {
+    "question_number": 74,
+    "question": "According to Review of Public Enterprises Annual Status (i.e. Yellow Book) - 2083, which of the following public enterprise has earned the highest net profit in FY 2081/82?",
+    "options": {
+      "a": "Nepal Electricity Authority",
+      "b": "Nepal Doorsanchar Company",
+      "c": "Nepal Oil Corporation Limited",
+      "d": "Rastriya Banijya Bank"
+    },
+    "correct_answer": "c",
+    "explanation": "The Yellow Book (2083) report notes that Nepal Oil Corporation Limited earned the highest net profit among public enterprises during FY 2081/82[cite: 4]."
+  },
+  {
+    "question_number": 75,
+    "question": "According to Review of Public Enterprises Annual Status (. Yellow Book), how many public enterprises under operation in Nepal are in net profit at the end of FY 2081/82?",
+    "options": {
+      "a": "16",
+      "b": "23",
+      "c": "25",
+      "d": "27"
+    },
+    "correct_answer": "d",
+    "explanation": "Out of the total operating public enterprises, 27 were recorded to be operating at a net profit at the conclusion of FY 2081/82[cite: 4]."
+  },
+  {
+    "question_number": 76,
+    "question": "Which ministry of Nepal coordinates the public enterprise in Nepal?",
+    "options": {
+      "a": "Office of Prime minister and council of ministers",
+      "b": "Ministry of industry, commerce and supply",
+      "c": "Ministry of Finance",
+      "d": "Ministry of Home Affairs"
+    },
+    "correct_answer": "c",
+    "explanation": "The Ministry of Finance holds primary governmental responsibility for the overarching financial coordination, monitoring, and evaluation of public enterprises in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 77,
+    "question": "Economic Survey in Nepal is published officially by the ...",
+    "options": {
+      "a": "Nepal Rastra Bank",
+      "b": "National Planning Commission",
+      "c": "Ministry of Finance",
+      "d": "Nepal Statistics Office"
+    },
+    "correct_answer": "c",
+    "explanation": "The annual Economic Survey of Nepal is officially compiled and published by the Ministry of Finance prior to the budget presentation[cite: 4]."
+  },
+  {
+    "question_number": 78,
+    "question": "On the basis of ownership, how many public enterprises are fully owned by Government of Nepal?",
+    "options": {
+      "a": "16",
+      "b": "20",
+      "c": "24",
+      "d": "26"
+    },
+    "correct_answer": "b",
+    "explanation": "Government ownership records indicate that 20 public enterprises are 100% fully owned by the Government of Nepal[cite: 4]."
+  },
+  {
+    "question_number": 79,
+    "question": "Currently, how many public enterprises are under the ministry of industry, commerce and supply?",
+    "options": {
+      "a": "10",
+      "b": "11",
+      "c": "12",
+      "d": "14"
+    },
+    "correct_answer": "d",
+    "explanation": "There are 14 public enterprises operating under the administrative purview of the Ministry of Industry, Commerce and Supplies[cite: 4]."
+  },
+  {
+    "question_number": 80,
+    "question": "When was Nepal's First National Economic Census Conducted?",
+    "options": {
+      "a": "2072 B.S.",
+      "b": "2073 B.S.",
+      "c": "2074 B.S.",
+      "d": "2075 B.S."
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal conducted its first comprehensive national economic census in the year 2075 B.S.[cite: 4]."
+  },
+  {
+    "question_number": 81,
+    "question": "The first agriculture census was carried out in ...",
+    "options": {
+      "a": "2018 B.S.",
+      "b": "2031 B.S.",
+      "c": "2045 B.S.",
+      "d": "2078 B.S."
+    },
+    "correct_answer": "b",
+    "explanation": "Nepal's inaugural national agricultural census was formally carried out in 2031 B.S.[cite: 4]."
+  },
+  {
+    "question_number": 82,
+    "question": "Agriculture census is carried out in every ...",
+    "options": {
+      "a": "5 years",
+      "b": "6 years",
+      "c": "10 years",
+      "d": "12 year"
+    },
+    "correct_answer": "c",
+    "explanation": "Following standard demographic and agricultural survey cycles, the national agriculture census is conducted every 10 years[cite: 4]."
+  },
+  {
+    "question_number": 83,
+    "question": "According to the National Agricultural Census-2078, how much percentage of total numbers households are engaged in agriculture sector?",
+    "options": {
+      "a": "58.0%",
+      "b": "62.0%",
+      "c": "66.0%",
+      "d": "70.0%"
+    },
+    "correct_answer": "b",
+    "explanation": "The National Agricultural Census 2078 reported that 62.0% of total households in Nepal are engaged in agricultural activities[cite: 4]."
+  },
+  {
+    "question_number": 84,
+    "question": "One village, one product (OVOP) movement is related to ...",
+    "options": {
+      "a": "Chinese program",
+      "b": "Finland program",
+      "c": "Japanese Program",
+      "d": "Nepalese program"
+    },
+    "correct_answer": "c",
+    "explanation": "The 'One Village, One Product' (OVOP) socio-economic rural development campaign originated as a successful regional promotion model in Japan[cite: 4]."
+  },
+  {
+    "question_number": 85,
+    "question": "The OVOP Implemented in Nepal from the budget speech of ...",
+    "options": {
+      "a": "FY 2063/64 B.S.",
+      "b": "FY 2070/71 B.S.",
+      "c": "FY 2062/63 B.S.",
+      "d": "FY 2077/78 B.S."
+    },
+    "correct_answer": "a",
+    "explanation": "The OVOP program was formally introduced and implemented in Nepal starting from the national budget speech of FY 2063/64 B.S.[cite: 4]."
+  },
+  {
+    "question_number": 86,
+    "question": "Considering the Production of rice, the top five which of the following is the right order?",
+    "options": {
+      "a": "China, India, Bangladesh, Indonesia, Vietnam",
+      "b": "China, India, USA, Indonesia, Bangladesh, Vietnam",
+      "c": "China, India, Indonesia, Bangladesh, Vietnam",
+      "d": "India, USA, Indonesia, Bangladesh, Vietnam"
+    },
+    "correct_answer": "a",
+    "explanation": "Global agricultural statistics rank China, India, Bangladesh, Indonesia, and Vietnam in the correct descending order for total rice production volumes among major producers[cite: 4]."
+  },
+  {
+    "question_number": 87,
+    "question": "What was percentage of contribution from agricultural sector on Nepal's Gross Domestic Product in Fiscal Year 2081/82?",
+    "options": {
+      "a": "24.1%",
+      "b": "24.2%",
+      "c": "24.3%",
+      "d": "24.5%"
+    },
+    "correct_answer": "d",
+    "explanation": "The contribution of the agricultural sector to Nepal's GDP was recorded at 24.5% during the fiscal year 2081/82[cite: 4]."
+  },
+  {
+    "question_number": 88,
+    "question": "As per Economic Survey of 2082/83, what was the percentage contribution of industrial sector to the total Gross Domestic Product (GDP) for the fiscal year 2081/82?",
+    "options": {
+      "a": "12.91%",
+      "b": "13.2%",
+      "c": "13.5%",
+      "d": "13.9%"
+    },
+    "correct_answer": "b",
+    "explanation": "The industrial sector contributed 13.2% to Nepal's total GDP in FY 2081/82 as outlined in the Economic Survey of 2082/83[cite: 4]."
+  },
+  {
+    "question_number": 89,
+    "question": "Which of the following is the first Industry of Nepal?",
+    "options": {
+      "a": "Biratnagar Jute Mills",
+      "b": "Raghupati Jute Mills",
+      "c": "Agriculture Tools factory",
+      "d": "Janakpur Cigarette factory"
+    },
+    "correct_answer": "a",
+    "explanation": "Established in 1936 AD (1993 BS), Biratnagar Jute Mills is historically recognized as the very first modern factory/industry in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 90,
+    "question": "In which district is the Daiji Chhela Industrial Estate located?",
+    "options": {
+      "a": "Kanchanpur",
+      "b": "Kailali",
+      "c": "Banke",
+      "d": "Bardiya"
+    },
+    "correct_answer": "a",
+    "explanation": "The Daiji Chhela Industrial Estate is located in the Kanchanpur district of Sudurpashchim Province[cite: 4]."
+  },
+  {
+    "question_number": 91,
+    "question": "As per Economic Survey of FY 2082/83, the contribution of primary sector in GDP is expected to be remaining in current fiscal year?",
+    "options": {
+      "a": "23.6%",
+      "b": "23.9%",
+      "c": "24.1%",
+      "d": "24.5%"
+    },
+    "correct_answer": "b",
+    "explanation": "The primary sector contribution to GDP is expected to remain at 23.9% during the current fiscal year 2082/83[cite: 4]."
+  },
+  {
+    "question_number": 92,
+    "question": "Nepal has made Bilateral Investment Promotion and Protection Agreement (BIPPA) with ... countries, including ...",
+    "options": {
+      "a": "France, Germany, England, Mauritius, Finland, and India",
+      "b": "France, Germany, England, Mauritius, China and India",
+      "c": "France, China, Mauritius, Finland, USA and India",
+      "d": "England, Germany, Bangladesh, Mauritius, Finland, and India"
+    },
+    "correct_answer": "a",
+    "explanation": "Nepal has signed BIPPA agreements with 6 nations: France, Germany, the United Kingdom (England), Mauritius, Finland, and India[cite: 4]."
+  },
+  {
+    "question_number": 93,
+    "question": "Which of the following is/are correct statement?",
+    "options": {
+      "a": "The first country to sign BIPPA agreement with Nepal is France",
+      "b": "The last country to sign BIPPA agreement with Nepal is India",
+      "c": "Nepal has signed BIPPA Agreement with 6 countries",
+      "d": "All of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "All statements regarding Nepal's BIPPA agreements (France being first, India last, and a total of 6 countries) are correct[cite: 4]."
+  },
+  {
+    "question_number": 94,
+    "question": "When have Nepal and Bangladesh signed the Double Tax Avoidance Agreement (DTAA)?",
+    "options": {
+      "a": "2019, May 09",
+      "b": "2019, March 05",
+      "c": "2019, April 16",
+      "d": "2019, June 05"
+    },
+    "correct_answer": "b",
+    "explanation": "Nepal and Bangladesh officially signed their bilateral Double Taxation Avoidance Agreement (DTAA) on March 05, 2019[cite: 4]."
+  },
+  {
+    "question_number": 95,
+    "question": "Nepal has the largest trade deficit with ...",
+    "options": {
+      "a": "USA",
+      "b": "China",
+      "c": "Bangladesh",
+      "d": "India"
+    },
+    "correct_answer": "d",
+    "explanation": "Due to high volume imports of petroleum, manufactured goods, and raw materials coupled with lower export volumes, India accounts for Nepal's largest foreign trade deficit[cite: 4]."
+  },
+  {
+    "question_number": 96,
+    "question": "How many Industrial estates are there in Nepal?",
+    "options": {
+      "a": "9",
+      "b": "10",
+      "c": "11",
+      "d": "12"
+    },
+    "correct_answer": "c",
+    "explanation": "There are 11 operational government-managed industrial districts (estates) established across various regions of Nepal[cite: 4]."
+  },
+  {
+    "question_number": 97,
+    "question": "Which country provided assistance for the establishment Balaju Industrial District?",
+    "options": {
+      "a": "India",
+      "b": "China",
+      "c": "USA",
+      "d": "Japan"
+    },
+    "correct_answer": "c",
+    "explanation": "The United States provided financial and technical assistance for the establishment of the Balaju Industrial District, Nepal's second industrial estate[cite: 4]."
+  },
+  {
+    "question_number": 98,
+    "question": "Special Economic Zone (SEZ) concept was first introduced by which country?",
+    "options": {
+      "a": "China",
+      "b": "Japan",
+      "c": "India",
+      "d": "South Korea"
+    },
+    "correct_answer": "a",
+    "explanation": "The modern concept of Special Economic Zones (SEZs) for export promotion and industrial development was pioneered and first introduced by China (notably Shenzhen)[cite: 4]."
+  },
+  {
+    "question_number": 99,
+    "question": "The purpose of Special Economic Zone (SEZ) is/are ...",
+    "options": {
+      "a": "encourage investment",
+      "b": "encourage investment and create jobs",
+      "c": "create jobs and promote experts",
+      "d": "encourage investment, create jobs and promote exports"
+    },
+    "correct_answer": "d",
+    "explanation": "Special Economic Zones (SEZs) are established with the comprehensive objective of encouraging foreign/domestic investment, creating employment opportunities, and promoting exports[cite: 4]."
+  },
+  {
+    "question_number": 100,
+    "question": "In which date, Special Economic Zone (SEZ) was brought in operation from?",
+    "options": {
+      "a": "2069 B.S.",
+      "b": "2071 B.S.",
+      "c": "2075 B.S.",
+      "d": "2077 B.S."
+    },
+    "correct_answer": "b",
+    "explanation": "Nepal's first Special Economic Zone in Bhairahawa was formally brought into operation in the year 2071 B.S.[cite: 4]."
+  },
+  {
+    "question_number": 101,
+    "question": "In which district the first rural tourism destination implemented in Nepal?",
+    "options": {
+      "a": "Sirubari, Syangja",
+      "b": "Ghalegaau, Lamjung",
+      "c": "Bandipur, Tanahun",
+      "d": "Ghandruk, Kaski"
+    },
+    "correct_answer": "a",
+    "explanation": "Sirubari in Syangja district is renowned as the first organized rural/village tourism destination successfully implemented in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 102,
+    "question": "Which country in South Asia to adopt controlled tourism policy?",
+    "options": {
+      "a": "Nepal",
+      "b": "India",
+      "c": "Maldives",
+      "d": "Bhutan"
+    },
+    "correct_answer": "d",
+    "explanation": "Bhutan is famous in South Asia for pioneering and strictly adhering to a high-value, low-impact controlled tourism policy[cite: 4]."
+  },
+  {
+    "question_number": 103,
+    "question": "Most percentage of tourists arrives by purpose in Nepal ...",
+    "options": {
+      "a": "Mountaineering and Trekking",
+      "b": "Recreational/entertainment",
+      "c": "Religious and Pilgrimage",
+      "d": "Rafting & others"
+    },
+    "correct_answer": "b",
+    "explanation": "Statistical tourist arrival surveys indicate that the majority of visitors come to Nepal for holiday, recreation, and entertainment purposes[cite: 4]."
+  },
+  {
+    "question_number": 104,
+    "question": "According to Nepal Tourism Statistics 2025, what is the average length of stay of foreign tourists in Nepal?",
+    "options": {
+      "a": "13",
+      "b": "13.1",
+      "c": "13.2",
+      "d": "16.36"
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal Tourism Statistics data records the average length of stay for international tourists at 16.36 days[cite: 4]."
+  },
+  {
+    "question_number": 105,
+    "question": "According to Nepal Tourism Statistics 2025 data, approximately how many foreign tourists visited Nepal?",
+    "options": {
+      "a": "1,130,210",
+      "b": "1,162,365",
+      "c": "1,205,000",
+      "d": "1,351,000"
+    },
+    "correct_answer": "b",
+    "explanation": "Annual tourism statistics report that approximately 1,162,365 foreign tourists visited Nepal[cite: 4]."
+  },
+  {
+    "question_number": 106,
+    "question": "The theme of world Tourism Day 2025 is ...",
+    "options": {
+      "a": "Tourism & Digital transformation",
+      "b": "Tourism & Green Investment",
+      "c": "Tourism and Sustainable Transformation",
+      "d": "Tourism and Jobs: a better future for all"
+    },
+    "correct_answer": "c",
+    "explanation": "World Tourism Day 2025 was observed under the official global theme of 'Tourism and Sustainable Transformation'[cite: 4]."
+  },
+  {
+    "question_number": 107,
+    "question": "According to UNWTO-2025, which county that is visited by most number of tourists in the world?",
+    "options": {
+      "a": "Thailand",
+      "b": "Spain",
+      "c": "France",
+      "d": "Indonesia"
+    },
+    "correct_answer": "c",
+    "explanation": "France consistently retains its position as the most-visited country in the world by international tourist arrivals according to UNWTO data[cite: 4]."
+  },
+  {
+    "question_number": 108,
+    "question": "World Tourism day begun from 1990 A.D. is observed in?",
+    "options": {
+      "a": "September, 27",
+      "b": "May, 04",
+      "c": "December, 11",
+      "d": "June, 17"
+    },
+    "correct_answer": "a",
+    "explanation": "World Tourism Day is globally celebrated annually on September 27th[cite: 4]."
+  },
+  {
+    "question_number": 109,
+    "question": "Considering the arrival Tourist's in Nepal as per the Countries 2025, the top five which of the following is the right order?",
+    "options": {
+      "a": "China, India, USA, UK, Sri Lanka",
+      "b": "India, USA, China, UK, Bangladesh",
+      "c": "USA, India, China, UK, Sri Lanka",
+      "d": "UK, Sri Lanka, India, USA, China"
+    },
+    "correct_answer": "b",
+    "explanation": "Tourist arrival breakdowns by nationality for 2025 place India, the USA, China, the UK, and Bangladesh in the top five positions[cite: 4]."
+  },
+  {
+    "question_number": 110,
+    "question": "What percentage of GDP in tourism at current price was contributed by the end of F/Y 2024/25?",
+    "options": {
+      "a": "1.33%",
+      "b": "1.5%",
+      "c": "3.1%",
+      "d": "3.6%"
+    },
+    "correct_answer": "b",
+    "explanation": "Tourism's direct contribution to GDP at current prices was recorded at 1.5% by the end of FY 2024/25[cite: 4]."
+  },
+  {
+    "question_number": 111,
+    "question": "How many days does 16th plan (2081/82 - 2085/86) Nepal aim to extend the average length of stay of tourist at the end of the FY 2085/86?",
+    "options": {
+      "a": "13.0",
+      "b": "14.0",
+      "c": "15.0",
+      "d": "16.0"
+    },
+    "correct_answer": "d",
+    "explanation": "The 16th periodic plan targets extending the average length of stay of international tourists visiting Nepal to 16.0 days by the end of FY 2085/86[cite: 4]."
+  },
+  {
+    "question_number": 112,
+    "question": "As per Nepal Labor force Survey 2074, what is the rate of unemployment in Nepal?",
+    "options": {
+      "a": "2.4%",
+      "b": "11.4%",
+      "c": "14.0%",
+      "d": "16.0%"
+    },
+    "correct_answer": "b",
+    "explanation": "The Nepal Labor Force Survey (NLFS) published by the Central Bureau of Statistics reported the national unemployment rate at 11.4%[cite: 4]."
+  },
+  {
+    "question_number": 113,
+    "question": "According to Multidimensional Poverty Index of 2021, published by National Planning Commission, the multi-dimensionally poverty of population of Nepal is ...",
+    "options": {
+      "a": "18.7%",
+      "b": "17.4%",
+      "c": "16.6%",
+      "d": "14.2%"
+    },
+    "correct_answer": "b",
+    "explanation": "The National Planning Commission's Multidimensional Poverty Index report recorded multi-dimensional poverty incidence in Nepal at 17.4%[cite: 4]."
+  },
+  {
+    "question_number": 114,
+    "question": "According to Human Development Index - 2025 AD, the value of human development index of Nepal is;",
+    "options": {
+      "a": "0.601",
+      "b": "0.602",
+      "c": "0.603",
+      "d": "0.622"
+    },
+    "correct_answer": "d",
+    "explanation": "Human Development Index assessments for 2025 place Nepal's national HDI score at 0.622[cite: 4]."
+  },
+  {
+    "question_number": 115,
+    "question": "According to Nepal living standard survey - 2022/23, what percentage of people in Nepal below poverty line?",
+    "options": {
+      "a": "18.7%",
+      "b": "20.27%",
+      "c": "16.6%",
+      "d": "17.8%"
+    },
+    "correct_answer": "b",
+    "explanation": "The Nepal Living Standards Survey (NLSS IV) for 2022/23 estimated that 20.27% of the population lives below the national poverty line[cite: 4]."
+  },
+  {
+    "question_number": 116,
+    "question": "Which is the first country that the Government of Nepal has signed bilateral labor agreement?",
+    "options": {
+      "a": "South Korea",
+      "b": "Malaysia",
+      "c": "UAE",
+      "d": "Qatar"
+    },
+    "correct_answer": "d",
+    "explanation": "Qatar was the first nation with which the Government of Nepal formally signed a bilateral labor agreement governing migrant worker employment[cite: 4]."
+  },
+  {
+    "question_number": 117,
+    "question": "How many counties, Nepal has signed MoU for foreign employment to the date?",
+    "options": {
+      "a": "9",
+      "b": "10",
+      "c": "11",
+      "d": "13"
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal has signed formal Memorandums of Understanding (MoUs) regarding foreign employment with 13 destination countries[cite: 4]."
+  },
+  {
+    "question_number": 118,
+    "question": "In which country among the following Nepali workers have gone for employment in highest ...?",
+    "options": {
+      "a": "Saudi Arab",
+      "b": "Qatar",
+      "c": "UAE",
+      "d": "Malaysia"
+    },
+    "correct_answer": "d",
+    "explanation": "Malaysia historically accounts for the largest cumulative volume destination of departing Nepali migrant workers seeking foreign employment[cite: 4]."
+  },
+  {
+    "question_number": 119,
+    "question": "Institutionally, how many Countries, Nepal Government has opened for foreign employment?",
+    "options": {
+      "a": "108",
+      "b": "115",
+      "c": "111",
+      "d": "172"
+    },
+    "correct_answer": "c",
+    "explanation": "The Department of Foreign Employment has institutionally opened 111 countries for institutional labor migration[cite: 4]."
+  },
+  {
+    "question_number": 120,
+    "question": "What is the age limit fixed by Nepal Government for women going to Gulf Counties for employment?",
+    "options": {
+      "a": "30 years",
+      "b": "24 years",
+      "c": "18 years",
+      "d": "25 years"
+    },
+    "correct_answer": "b",
+    "explanation": "To safeguard female migrant workers, the government has fixed a minimum age limit of 24 years for women traveling to Gulf countries for domestic and general employment[cite: 4]."
+  },
+  {
+    "question_number": 121,
+    "question": "The contribution of education sector in GDP is estimated to be ... in FY 2082/83.",
+    "options": {
+      "a": "6.7%",
+      "b": "7.5%",
+      "c": "8.1%",
+      "d": "9.22%"
+    },
+    "correct_answer": "b",
+    "explanation": "The education sector's contribution to Nepal's GDP is estimated at 7.5% for FY 2082/83[cite: 4]."
+  },
+  {
+    "question_number": 122,
+    "question": "The contribution of Health sector in GDP is estimated to be ... in FY 2082/83.",
+    "options": {
+      "a": "1.6%",
+      "b": "1.78%",
+      "c": "2.1%",
+      "d": "2.6%"
+    },
+    "correct_answer": "b",
+    "explanation": "The healthcare and social work sector is estimated to contribute 1.78% to Nepal's GDP in FY 2082/83[cite: 4]."
+  },
+  {
+    "question_number": 123,
+    "question": "When was the use of public vehicles in Nepal started from?",
+    "options": {
+      "a": "1992 B.S.",
+      "b": "1996 B.S.",
+      "c": "2008 B.S.",
+      "d": "2016 B.S."
+    },
+    "correct_answer": "d",
+    "explanation": "The systematic operation and use of public passenger motor vehicles in Nepal formally began in the year 2016 B.S.[cite: 4]."
+  },
+  {
+    "question_number": 124,
+    "question": "The first highway of Nepal is ...",
+    "options": {
+      "a": "Siddartha Highway",
+      "b": "Arniko Highway",
+      "c": "Tribhuvan Highway",
+      "d": "Mahendra Highway"
+    },
+    "correct_answer": "c",
+    "explanation": "Tribhuvan Highway, linking Kathmandu to the Indian border at Raxaul, is recognized as the first modern national highway in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 125,
+    "question": "What is the name of 'Malekhu- Dhading' road?",
+    "options": {
+      "a": "Bhakti Marg",
+      "b": "Kalu Pande Marg",
+      "c": "Siddhartha Marg",
+      "d": "Balbhadra Marg"
+    },
+    "correct_answer": "b",
+    "explanation": "The road linking Malekhu to Dhading Besi is officially named Kalu Pande Marg[cite: 4]."
+  },
+  {
+    "question_number": 126,
+    "question": "Kathmandu - Dhuche is ...",
+    "options": {
+      "a": "Bhupi Sherchan Highway",
+      "b": "Pasang Lhamu Highway",
+      "c": "Araniko Highway",
+      "d": "Kalu Pande Highway"
+    },
+    "correct_answer": "b",
+    "explanation": "The highway connecting Kathmandu to Dhuche (Rasuwagadhi axis) is named the Pasang Lhamu Highway[cite: 4]."
+  },
+  {
+    "question_number": 127,
+    "question": "How many districts are connected by the Mid-hill (Puspalal) Highway?",
+    "options": {
+      "a": "18",
+      "b": "20",
+      "c": "24",
+      "d": "26"
+    },
+    "correct_answer": "d",
+    "explanation": "The Mid-Hill (Puspalal) Highway traverses and connects 26 hilly districts spanning east to west across Nepal[cite: 4]."
+  },
+  {
+    "question_number": 128,
+    "question": "What is the length of the Mid-hill Highway?",
+    "options": {
+      "a": "1056 Km",
+      "b": "1776 Km",
+      "c": "1879 Km",
+      "d": "1897 Km"
+    },
+    "correct_answer": "c",
+    "explanation": "The total designated length of the Mid-Hill (Puspalal) Highway is 1,879 kilometers[cite: 4]."
+  },
+  {
+    "question_number": 129,
+    "question": "What is the length of the Karnali Highway?",
+    "options": {
+      "a": "385 Km",
+      "b": "379 Km",
+      "c": "397 Km",
+      "d": "385 Km"
+    },
+    "correct_answer": "a",
+    "explanation": "The length of the Karnali Highway connecting Surkhet to Jumla is approximately 385 kilometers[cite: 4]."
+  },
+  {
+    "question_number": 130,
+    "question": "Which of the following Highway is known as Bhupi Sherchan Highway?",
+    "options": {
+      "a": "Dumre-Beshishar",
+      "b": "Dhulikhel-Bardibas",
+      "c": "Pokhara-Baglung",
+      "d": "Sunuwal-Parasi"
+    },
+    "correct_answer": "c",
+    "explanation": "The Pokhara to Baglung road section is officially named and recognized as the Bhupi Sherchan Highway[cite: 4]."
+  },
+  {
+    "question_number": 131,
+    "question": "What is the name of 'Narayanghat- Mugling' road?",
+    "options": {
+      "a": "Balbhadra Marg",
+      "b": "Madan-Ashrit Highway",
+      "c": "Siddhartha Marg",
+      "d": "Bhakti Marg"
+    },
+    "correct_answer": "b",
+    "explanation": "The vital Narayanghat-Mugling trade corridor is officially designated as the Madan-Ashrit Highway[cite: 4]."
+  },
+  {
+    "question_number": 132,
+    "question": "As of Economic Survey FY 2025/26, the number of countries, Bilateral Air Service Agreement with Nepal to date is;",
+    "options": {
+      "a": "40",
+      "b": "41",
+      "c": "42",
+      "d": "43"
+    },
+    "correct_answer": "b",
+    "explanation": "Nepal has signed Bilateral Air Services Agreements (ASA) with 41 countries as recorded in recent economic surveys[cite: 4]."
+  },
+  {
+    "question_number": 133,
+    "question": "Which country has the first air service agreement with Nepal?",
+    "options": {
+      "a": "China",
+      "b": "Bangladesh",
+      "c": "Pakistan",
+      "d": "India"
+    },
+    "correct_answer": "d",
+    "explanation": "India was the first country to sign a formal Bilateral Air Services Agreement with independent Nepal[cite: 4]."
+  },
+  {
+    "question_number": 134,
+    "question": "How many domestic airports are in all weather operation as per economic survey ...?",
+    "options": {
+      "a": "33",
+      "b": "35",
+      "c": "37",
+      "d": "42"
+    },
+    "correct_answer": "d",
+    "explanation": "According to national economic survey records, 42 domestic airports are operational for all-weather flights[cite: 4]."
+  },
+  {
+    "question_number": 135,
+    "question": "Nepal has been removed from significant safety concern by ICAO from ...",
+    "options": {
+      "a": "2017, June",
+      "b": "2017, July",
+      "c": "2015, March",
+      "d": "2014, April"
+    },
+    "correct_answer": "b",
+    "explanation": "The International Civil Aviation Organization (ICAO) officially removed Nepal from its Significant Safety Concern (SSC) list in July 2017[cite: 4]."
+  },
+  {
+    "question_number": 136,
+    "question": "Nepal attained the membership of International Civil Aviation Organization in ...",
+    "options": {
+      "a": "1957, July 04",
+      "b": "1958, June 17",
+      "c": "1959, March 02",
+      "d": "1960, July 29"
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal officially attained member state status in the International Civil Aviation Organization (ICAO) on July 29, 1960[cite: 4]."
+  },
+  {
+    "question_number": 137,
+    "question": "When was the hydroelectricity produced for the first time in Nepal?",
+    "options": {
+      "a": "1968 BS",
+      "b": "1969 BS",
+      "c": "1970 BS",
+      "d": "1971 BS"
+    },
+    "correct_answer": "a",
+    "explanation": "Hydroelectricity was generated for the first time in Nepal with the commissioning of the Pharping Hydropower Plant in 1968 BS (1911 AD)[cite: 4]."
+  },
+  {
+    "question_number": 138,
+    "question": "What is the targeted capacity of electricity jointed on National grid by the end of FY 2082/83 Budget speech of Nepal?",
+    "options": {
+      "a": "4001 MW",
+      "b": "4110 MW",
+      "c": "4205 MW",
+      "d": "4800 MW"
+    },
+    "correct_answer": "d",
+    "explanation": "The national budget statement outlined a target to expand total electricity capacity integrated into the national grid to 4,800 MW by the end of FY 2082/83[cite: 4]."
+  },
+  {
+    "question_number": 139,
+    "question": "According to the economic survey FY 2082/83, how much is the electricity connected to the national grid and the electricity accessible to the population?",
+    "options": {
+      "a": "3979, 99%",
+      "b": "4025, 98.9%",
+      "c": "4055, 98.7%",
+      "d": "4105, 99.1%"
+    },
+    "correct_answer": "d",
+    "explanation": "Economic Survey figures for FY 2082/83 record 4,105 MW capacity connected and 99.1% general population electricity accessibility[cite: 4]."
+  },
+  {
+    "question_number": 140,
+    "question": "At the end of the FY 2082/83, total population of Nepal has access to electricity.",
+    "options": {
+      "a": "96.8%",
+      "b": "99.1%",
+      "c": "96.0%",
+      "d": "98.0%"
+    },
+    "correct_answer": "b",
+    "explanation": "By the end of FY 2082/83, national electrification coverage reached 99.1% of the total population[cite: 4]."
+  },
+  {
+    "question_number": 141,
+    "question": "According to the Energy Development Roadmap-2081, what is Nepal's target for electricity generation capacity by 2035?",
+    "options": {
+      "a": "25,500 MW",
+      "b": "26,500 MW",
+      "c": "27,500 MW",
+      "d": "28,500 MW"
+    },
+    "correct_answer": "c",
+    "explanation": "The Energy Development Roadmap and Action Plan 2081 sets a long-term strategic target to achieve 27,500 MW of domestic electricity generation capacity by the year 2035[cite: 4]."
+  },
+  {
+    "question_number": 142,
+    "question": "Energy day in Nepal is observed in?",
+    "options": {
+      "a": "Ashadh, 27",
+      "b": "Bhadra, 01",
+      "c": "Jestha, 09",
+      "d": "Kartik, 15"
+    },
+    "correct_answer": "a",
+    "explanation": "National Energy Day in Nepal is officially observed annually on Ashadh 27[cite: 4]."
+  },
+  {
+    "question_number": 143,
+    "question": "Bairab Kunda Khola hydropower projects are located at ...",
+    "options": {
+      "a": "Sindhupalchowk",
+      "b": "Dolakha",
+      "c": "Achham",
+      "d": "Rasuwa"
+    },
+    "correct_answer": "a",
+    "explanation": "The Bairab Kunda Khola hydropower project is situated in the Sindhupalchowk district[cite: 4]."
+  },
+  {
+    "question_number": 144,
+    "question": "Chamelia Hydropower project is located at ...",
+    "options": {
+      "a": "Achham",
+      "b": "Taplejung",
+      "c": "Dolakha",
+      "d": "Darchula"
+    },
+    "correct_answer": "d",
+    "explanation": "The government-constructed Chamelia Hydropower project is located in the Darchula district of Sudurpashchim Province[cite: 4]."
+  },
+  {
+    "question_number": 145,
+    "question": "Which of the following is not a National pride project of Nepal?",
+    "options": {
+      "a": "Postal highway",
+      "b": "Budhi Gandaki Hydropower",
+      "c": "Pashupati Area Development Trust",
+      "d": "Bhote Koshi Hydropower"
+    },
+    "correct_answer": "d",
+    "explanation": "Bhote Koshi Hydropower is a privately developed commercial project and is not listed among the official National Pride Projects of Nepal[cite: 4]."
+  },
+  {
+    "question_number": 146,
+    "question": "What is the hydroelectricity capacity of Kulekhani-III?",
+    "options": {
+      "a": "32.0 MW",
+      "b": "14.0 MW",
+      "c": "60.0 MW",
+      "d": "32.0 MW"
+    },
+    "correct_answer": "b",
+    "explanation": "The installed generation capacity of the Kulekhani-III hydroelectric project is 14.0 MW[cite: 4]."
+  },
+  {
+    "question_number": 147,
+    "question": "As per Economic Survey of FY 2082/83, the production of electricity from solar energy is ...",
+    "options": {
+      "a": "106.24 MW",
+      "b": "125.00 MW",
+      "c": "137.00 MW",
+      "d": "142.00 MW"
+    },
+    "correct_answer": "d",
+    "explanation": "Economic Survey data for FY 2082/83 reports grid-connected solar energy electricity production totaling 142.00 MW[cite: 4]."
+  },
+  {
+    "question_number": 148,
+    "question": "As per Economic Survey of FY 2082/83, the production of hydropower from private sector connected with national grid is ...",
+    "options": {
+      "a": "2522 MW",
+      "b": "2587 MW",
+      "c": "2630 MW",
+      "d": "2727 MW"
+    },
+    "correct_answer": "b",
+    "explanation": "Hydropower generated by independent power producers (private sector) and integrated into the national grid reached 2,587 MW according to the Economic Survey[cite: 4]."
+  },
+  {
+    "question_number": 149,
+    "question": "Arun III hydropower project is located at ... district.",
+    "options": {
+      "a": "Terahthum",
+      "b": "Sankhuwasabha",
+      "c": "Bhojpur",
+      "d": "Khotang"
+    },
+    "correct_answer": "b",
+    "explanation": "The 900 MW Arun-III hydroelectric project is located in the Sankhuwasabha district[cite: 4]."
+  },
+  {
+    "question_number": 150,
+    "question": "Which of the following is the first hydropower plant built under private sector financing?",
+    "options": {
+      "a": "Thame HP",
+      "b": "Madhya Marsyangdi",
+      "c": "Pharping IP",
+      "d": "Khudi HP"
+    },
+    "correct_answer": "d",
+    "explanation": "Khudi Hydropower Plant is recognized as the first commercial hydropower project developed entirely under private sector financing in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 151,
+    "question": "Devighat Hydropower project lies in ... district.",
+    "options": {
+      "a": "Pyuthan",
+      "b": "Tanahun",
+      "c": "Nuwakot",
+      "d": "Rasuwa"
+    },
+    "correct_answer": "c",
+    "explanation": "The Devighat Hydropower station is situated in the Nuwakot district[cite: 4]."
+  },
+  {
+    "question_number": 152,
+    "question": "According to economic survey of FY 2082/83, which province of Nepal has the lowest access to electricity?",
+    "options": {
+      "a": "Gandaki",
+      "b": "Sudurpashchim",
+      "c": "Karnali",
+      "d": "Madhesh"
+    },
+    "correct_answer": "c",
+    "explanation": "Karnali Province registers the lowest percentage of electrification and grid/renewable electricity access among all provinces in Nepal[cite: 4]."
+  },
+  {
+    "question_number": 153,
+    "question": "As per economic survey of FY 2082/83, what percentage of total population has access from renewable energy?",
+    "options": {
+      "a": "5.0%",
+      "b": "6.9%",
+      "c": "8.6%",
+      "d": "8.0%"
+    },
+    "correct_answer": "d",
+    "explanation": "Renewable energy technologies (such as micro-hydro, solar home systems, and biogas) provide energy access to 8.0% of the population according to the Economic Survey[cite: 4]."
+  },
+  {
+    "question_number": 154,
+    "question": "What percentage of population has to access on basic drinking water according to economic survey ...?",
+    "options": {
+      "a": "95.40%",
+      "b": "95.70%",
+      "c": "96.70%",
+      "d": "97.00%"
+    },
+    "correct_answer": "d",
+    "explanation": "Basic drinking water supply coverage has reached 97.00% of the national population according to recent economic survey data[cite: 4]."
+  },
+  {
+    "question_number": 155,
+    "question": "According to National Planning Commission, how many projects are grouped under the category of 'National Pride Project' by the government of Nepal?",
+    "options": {
+      "a": "21",
+      "b": "24",
+      "c": "25",
+      "d": "22"
+    },
+    "correct_answer": "b",
+    "explanation": "There are currently 24 high-priority strategic infrastructure and development initiatives officially categorized as 'National Pride Projects' by the National Planning Commission[cite: 4]."
+  },
+  {
+    "question_number": 156,
+    "question": "What is the hydropower capacity of Bheri Babai Diversion Multipurpose Project?",
+    "options": {
+      "a": "48.8 MW",
+      "b": "46.8 MW",
+      "c": "44.71 MW",
+      "d": "14.5 MW"
+    },
+    "correct_answer": "b",
+    "explanation": "The Bheri Babai Diversion Multipurpose Project features an integrated hydroelectric generation capacity of 46.8 MW[cite: 4]."
+  },
+  {
+    "question_number": 157,
+    "question": "Which of the following is not a National Pride Project?",
+    "options": {
+      "a": "Kathmandu outer Ring Road Project",
+      "b": "Melamchi Water Supply Project",
+      "c": "Paschim Seti Hydropower Project",
+      "d": "Terai Postal Highway Project"
+    },
+    "correct_answer": "a",
+    "explanation": "The Kathmandu Outer Ring Road Project is not among the official National Pride Projects list managed by the government[cite: 4]."
+  },
+  {
+    "question_number": 158,
+    "question": "The East-West Railway in Nepal is planned to be ... km long, running from Mechi to Mahakali.",
+    "options": {
+      "a": "424.954",
+      "b": "442.549",
+      "c": "945.244",
+      "d": "954.424"
+    },
+    "correct_answer": "c",
+    "explanation": "The strategic East-West electric railway project is designed to span a total length of 945.244 kilometers from Mechi in the east to Mahakali in the west[cite: 4]."
+  },
+  {
+    "question_number": 159,
+    "question": "By when Nepal had taken a vision to graduate from a least developed country to developing country?",
+    "options": {
+      "a": "2078 BS",
+      "b": "2079 BS",
+      "c": "2080 BS",
+      "d": "2081 BS"
+    },
+    "correct_answer": "b",
+    "explanation": "Nepal formally met graduation criteria and set its national vision timeline to graduate from the Least Developed Country (LDC) category by 2079 BS (2026 AD)[cite: 4]."
+  },
+  {
+    "question_number": 160,
+    "question": "Which one is not the criterion for upgrading from least developed country's category?",
+    "options": {
+      "a": "Gross National incomes (GNI)",
+      "b": "Human Assets Index (HAI)",
+      "c": "Economic Vulnerability Index (EVI)",
+      "d": "Good Governance Index (GGI)"
+    },
+    "correct_answer": "d",
+    "explanation": "The UN uses three official criteria for LDC graduation: GNI per capita, Human Assets Index (HAI), and Economic Vulnerability Index (EVI). Good Governance Index (GGI) is not a criterion[cite: 4]."
+  },
+  {
+    "question_number": 161,
+    "question": "To graduate from least developed country, which of the following indicators of Nepal is comparatively weak?",
+    "options": {
+      "a": "Human Asset Index",
+      "b": "Economic Vulnerability Index",
+      "c": "GNI per capita",
+      "d": "Both A and B"
+    },
+    "correct_answer": "c",
+    "explanation": "In terms of comparative thresholds, Nepal's GNI per capita has historically been the indicator requiring the greatest sustained momentum relative to structural index benchmarks[cite: 4]."
+  },
+  {
+    "question_number": 162,
+    "question": "Which of the following agencies assesses the \"LDC Graduation\"?",
+    "options": {
+      "a": "WB",
+      "b": "IMF",
+      "c": "UNO",
+      "d": "ADB"
+    },
+    "correct_answer": "c",
+    "explanation": "The United Nations Organization (UNO), specifically through the Committee for Development Policy (CDP), formally reviews and assesses LDC graduation status[cite: 4]."
+  },
+  {
+    "question_number": 163,
+    "question": "When did Parliaments of Nepal ratify MCC Compact Program?",
+    "options": {
+      "a": "August 30, 2023",
+      "b": "August 30, 2023",
+      "c": "February 27, 2022",
+      "d": "September 14, 2017"
+    },
+    "correct_answer": "c",
+    "explanation": "The Federal Parliament of Nepal officially ratified the Millennium Challenge Corporation (MCC) Nepal Compact agreement on February 27, 2022[cite: 4]."
+  },
+  {
+    "question_number": 164,
+    "question": "When was Millennium Challenge Corporation (MCC) Compact Program, officially implemented in Nepal?",
+    "options": {
+      "a": "August 30, 2023",
+      "b": "February 27, 2022",
+      "c": "September 14, 2017",
+      "d": "August 11, 2022"
+    },
+    "correct_answer": "a",
+    "explanation": "The entry into force and official implementation start date of the MCC Compact program in Nepal took place on August 30, 2023[cite: 4]."
+  },
+  {
+    "question_number": 165,
+    "question": "When was the Millennium Challenge Corporation (MCC) established by the US Congress?",
+    "options": {
+      "a": "2001",
+      "b": "2002",
+      "c": "2004",
+      "d": "2005"
+    },
+    "correct_answer": "c",
+    "explanation": "The Millennium Challenge Corporation (MCC) was established as an independent US foreign aid agency by the US Congress in January 2004[cite: 4]."
+  },
+  {
+    "question_number": 166,
+    "question": "Study the following statements and choose the correct answer:\nI. The Chinese government adopted the Belt and Road Initiative (BRI) as a global development strategy in 2013.\nII. MCC is a US non-governmental organization working to reduce global poverty through economic growth.",
+    "options": {
+      "a": "Only I is correct",
+      "b": "Only II is correct",
+      "c": "Both I and II are correct",
+      "d": "Both I and II are incorrect"
+    },
+    "correct_answer": "a",
+    "explanation": "Statement I is correct (BRI was introduced in 2013). Statement II is incorrect because the MCC is an independent bilateral U.S. government agency, not a non-governmental organization[cite: 4]."
+  },
+  {
+    "question_number": 167,
+    "question": "Which of the following statement is/are correct?\nI. Millennium Challenge Corporation the MCC Compact Agreement was signed on 14 September, 2017.\nII. It aims to enhance Nepal's energy connectivity and transportation.\nIII. Nepal has included the MCC project as a national pride project.",
+    "options": {
+      "a": "Only I and II",
+      "b": "Only II and III",
+      "c": "Only I and III",
+      "d": "All of Above"
+    },
+    "correct_answer": "d",
+    "explanation": "All statements are correct: the compact agreement was signed on September 14, 2017, its core objectives include high-voltage electricity transmission and road infrastructure, and it aligns with national pride project priorities[cite: 4]."
+  }
+]

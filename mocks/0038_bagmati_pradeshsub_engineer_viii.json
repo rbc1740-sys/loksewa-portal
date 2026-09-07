@@ -1,0 +1,702 @@
+[
+  {
+    "question": "'जेठी बहुरानी' हिमाल कुन जिल्लामा पर्दछ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "बझाङ",
+      "b": "दार्चुला",
+      "c": "हुम्ला",
+      "d": "बाजुर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1160",
+    "chapter": ""
+  },
+  {
+    "question": "सम्मानपूर्वक बाँच्न पाउने हक कसलाई प्राप्त हुन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "प्रत्यक व्यक्तिलाई",
+      "b": "प्रधानमन्त्रीलाई",
+      "c": "प्रदेश प्रमुखलाई",
+      "d": "राष्ट्रपतिलाई"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1161",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालका प्रथम लिच्छवी राजा को थिए ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "जयदेव",
+      "b": "मानदेव",
+      "c": "धर्माकर",
+      "d": "यलम्बर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1162",
+    "chapter": ""
+  },
+  {
+    "question": "वंशानुक्रमको सिद्धान्तको आविष्कारक को हुन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "सर जेम्स डावर",
+      "b": "ग्रेगारी मेनडल",
+      "c": "स्नेल",
+      "d": "रामनाथान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1163",
+    "chapter": ""
+  },
+  {
+    "question": "पहिलो समलिङ्गी विवाह दर्ता कहिले गरियो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "२०८० कार्तिक ११",
+      "b": "२०८० मंसिर ११",
+      "c": "२०८० कार्तिक १३",
+      "d": "२०८० मंसिर १३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1164",
+    "chapter": ""
+  },
+  {
+    "question": "संयुक्त राष्ट्रसंघमा महासचिवको सिफारिस कुन निकायले गर्दछ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "महासभा",
+      "b": "सचिवालय",
+      "c": "सुरक्षा परिषद",
+      "d": "आर्थिक तथा सामाजिक परिषद"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1165",
+    "chapter": ""
+  },
+  {
+    "question": "कृष्णसार संरक्षण क्षेत्र कति क्षेत्रफलमा फैलिएको छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "१९०३ व.कि.मि.",
+      "b": "२१७९ व.कि.मि.",
+      "c": "१६९५ व.कि.मि.",
+      "d": "१६.९५ व.कि.मि."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1166",
+    "chapter": ""
+  },
+  {
+    "question": "ASEAN काे motto तलका मध्ये के हाे ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Unity in diversity",
+      "b": "One vision, One identity, One community",
+      "c": "Harmony and Prosperity",
+      "d": "Peace and Progress"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1167",
+    "chapter": ""
+  },
+  {
+    "question": "महालेखा परीक्षकको पदावधि कति वर्षको हुन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "४ वर्ष",
+      "b": "५ वर्ष",
+      "c": "६ वर्ष",
+      "d": "७ वर्ष"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1168",
+    "chapter": ""
+  },
+  {
+    "question": "जोन मेजरले नागरिक वडापत्र लागु गर्दा कतिवटा सिद्धान्त अगाडि सारेका थिए ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "४",
+      "b": "4",
+      "c": "६",
+      "d": "७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1169",
+    "chapter": ""
+  },
+  {
+    "question": "निजामाति सेवा ऐन २०४९ ले कति प्रकारका निजामाती सेवाहरूको गठन गरेको छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "४",
+      "b": "८",
+      "c": "१०",
+      "d": "१२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1170",
+    "chapter": ""
+  },
+  {
+    "question": "निजामाति सेवा नियमावली २०५० हाल सम्म (२०८० फाल्गुन) कति पटक संशोधन भएको छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "१५ पटक",
+      "b": "१२ पटक",
+      "c": "४ पटक",
+      "d": "१० पटक"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1171",
+    "chapter": ""
+  },
+  {
+    "question": "MTEF को पुरा रुप के हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Monthly Expenditure Tracking Format",
+      "b": "Monthly Expenditure Framework",
+      "c": "Mid Term Expenditure Framework",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1172",
+    "chapter": ""
+  },
+  {
+    "question": "सदाचार, नैतिकता, असल व्यवहार कस्तो मूल्य र मान्यतामा पर्दछ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "पारिवारिक",
+      "b": "राष्ट्रिय",
+      "c": "नैतिक",
+      "d": "आध्यात्मिक"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1173",
+    "chapter": ""
+  },
+  {
+    "question": "From which country the “Quality circle” concept started ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Germany",
+      "b": "Nepal",
+      "c": "India",
+      "d": "Japan"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1174",
+    "chapter": ""
+  },
+  {
+    "question": "नेतृत्वका लागि देहायका कुन चाहिँ तत्व आवश्यक हुन्छन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "अनुयायीहरु",
+      "b": "परिस्थिति",
+      "c": "नेता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1175",
+    "chapter": ""
+  },
+  {
+    "question": "तलका शब्दहरूमध्येबाट शुद्ध शब्द छान्नुहोस?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "नियुक्ति र बढुबा",
+      "b": "नियुक्ति र बढुवा",
+      "c": "नीयुक्ति र बढुवा",
+      "d": "नियुक्ति र वढुवा"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1176",
+    "chapter": ""
+  },
+  {
+    "question": "तलका शब्दहरूमध्येबाट शुद्ध शब्द छान्नुहोस?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "संचय कोस",
+      "b": "संचय कोश",
+      "c": "संचय कोष",
+      "d": "संनचय कोष"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1177",
+    "chapter": ""
+  },
+  {
+    "question": "He can't walk _______ he fell off the chair _______ hurt his foot, _______ he has a lot of time to read.",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "and / because / so",
+      "b": "because / and / so",
+      "c": "so / and / because",
+      "d": "so / because / and"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1178",
+    "chapter": ""
+  },
+  {
+    "question": "Convert the following direct speech to indirect : My mother said to me, “Are you going to school today?”",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "My mother asked me if I was going to school that day.",
+      "b": "My mother asked me are you going to school today.",
+      "c": "My mother asked me if I was going to school today.",
+      "d": "My mother asked me if I am going to school today."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1179",
+    "chapter": ""
+  },
+  {
+    "question": "According to manning's equation, the maximum discharge in a circular channel of diameter, D occurs when the depth of flow",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "0.469D",
+      "b": "0.703D",
+      "c": "0.938D",
+      "d": "0.981D"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1180",
+    "chapter": ""
+  },
+  {
+    "question": "The flow in open channel is laminar it the Reynolds number is",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Less than 500",
+      "b": "More than 500",
+      "c": "1000",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1181",
+    "chapter": ""
+  },
+  {
+    "question": "At the horizontal curve the outer edge of the pavement is raised with respect to inner edge to counteract the effect of centrifugal force is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Camber",
+      "b": "Super elevation",
+      "c": "Gradient",
+      "d": "Kerb"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1182",
+    "chapter": ""
+  },
+  {
+    "question": "The initial application of a binder to an absorbent highway surface prior to the construction of a wearing coat is called,",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Prime coat",
+      "b": "Tack coat",
+      "c": "Base coat",
+      "d": "Seal coat"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1183",
+    "chapter": ""
+  },
+  {
+    "question": "A fully saturated soil is called,",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "One phase system",
+      "b": "Two phase system with soil and air",
+      "c": "Two phase system with soil and water",
+      "d": "Three phase system"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1184",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum density on compaction occurs at a particular water content which is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Maximum moisture content",
+      "b": "Low moisture content",
+      "c": "Water content of compaction",
+      "d": "Optimum moisture content"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1185",
+    "chapter": ""
+  },
+  {
+    "question": "Black cotton soil is unsuitable for foundations because its",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Bearing capacity is low",
+      "b": "Permeability is uncertain",
+      "c": "Particles are cohesive",
+      "d": "Property to undergo a volumetric change due to variation of moisture content"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1186",
+    "chapter": ""
+  },
+  {
+    "question": "The construction joints in buildings are provided after",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "20 m",
+      "b": "30 m",
+      "c": "40 m",
+      "d": "50 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1187",
+    "chapter": ""
+  },
+  {
+    "question": "A good source of water requiring practically the least treatment is",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "A perennial river",
+      "b": "An impounded reservoir",
+      "c": "A deep well",
+      "d": "An elevated lake"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1188",
+    "chapter": ""
+  },
+  {
+    "question": "A sanitary sewer is expected to run",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Full",
+      "b": "Half full",
+      "c": "Two third full",
+      "d": "90% full"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1189",
+    "chapter": ""
+  },
+  {
+    "question": "The permissible velocity in concrete lined canal is",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "0.5 m/s",
+      "b": "1 m/s",
+      "c": "2 m/s",
+      "d": "4 m/s"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1190",
+    "chapter": ""
+  },
+  {
+    "question": "The annual periodic payment made for the repayment of the capital investment is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Annuity",
+      "b": "Depreciation",
+      "c": "Sinking fund",
+      "d": "Solation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1191",
+    "chapter": ""
+  },
+  {
+    "question": "During rate analysis the contractor's overhead is considered as",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "5%",
+      "b": "10%",
+      "c": "5%",
+      "d": "20%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1192",
+    "chapter": ""
+  },
+  {
+    "question": "The most desirable alignment of an irrigation canal is along",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "The ridge line",
+      "b": "A contour line",
+      "c": "The valley line",
+      "d": "A straight line"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1193",
+    "chapter": ""
+  },
+  {
+    "question": "Critical path is",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Always longest",
+      "b": "Always shortest",
+      "c": "May be longest",
+      "d": "May be shortest"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1194",
+    "chapter": ""
+  },
+  {
+    "question": "Total project cost",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Increases with increase in time",
+      "b": "Reduces with increase in time",
+      "c": "Initially reduces then increases with increase in time",
+      "d": "Initially increases then reduces with increase in time"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1195",
+    "chapter": ""
+  },
+  {
+    "question": "According to ICAO aerodrome design manual, the maximum transverse slope of the runway shall not exceed",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "2%",
+      "b": "3%",
+      "c": "4%",
+      "d": "5%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1196",
+    "chapter": ""
+  },
+  {
+    "question": "The advantages of plane tabling is",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "It is a tropical instrument",
+      "b": "It is many precision accessories",
+      "c": "Plotting is done outdoor",
+      "d": "Chances to miss the details are less"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1197",
+    "chapter": ""
+  },
+  {
+    "question": "Tachometry is best suited for",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "When chaining is impossible",
+      "b": "For populous areas",
+      "c": "In broken ground",
+      "d": "for extremely accurate survey"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1198",
+    "chapter": ""
+  },
+  {
+    "question": "The term 'frog' of a brick means",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "An apparatus to lift the brick",
+      "b": "A depression on face of a brick",
+      "c": "Vertical joint in a brick",
+      "d": "Burnt part of a brick"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1199",
+    "chapter": ""
+  },
+  {
+    "question": "Slump test for concrete is carried out, determine",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "Strength",
+      "b": "Durability",
+      "c": "Water content",
+      "d": "Workability"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1200",
+    "chapter": ""
+  },
+  {
+    "question": "Elasticity of a body is",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "The property by which a body returns to its original shape after removal of the load",
+      "b": "Ratio of stress to strain",
+      "c": "The resistance to the force acting",
+      "d": "Large deformability as in case of rubber"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1201",
+    "chapter": ""
+  },
+  {
+    "question": "The bending moment in a beam will be maximum where",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "The share force is uniform",
+      "b": "The share force is maximum",
+      "c": "The share force is zero",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1202",
+    "chapter": ""
+  },
+  {
+    "question": "Normally, the tensile strength of concrete is about _______ of its compressive strength.",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "10 to 15 %",
+      "b": "15 to 20 %",
+      "c": "20 to 25 %",
+      "d": "25 to 30 %"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1203",
+    "chapter": ""
+  },
+  {
+    "question": "An under-reinforced section means",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "steel is provided at the underside only",
+      "b": "steel provided is insufficient",
+      "c": "steel provided on one face only",
+      "d": "steel will yield first"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1204",
+    "chapter": ""
+  },
+  {
+    "question": "Complete the series below: 24,28,?,52,84",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "32",
+      "b": "34",
+      "c": "36",
+      "d": "40"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1205",
+    "chapter": ""
+  },
+  {
+    "question": "A can finish a work in 18 days and B can do same work in half the time taken by A. then working together, what part of same work they can finish in a day ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "1/5",
+      "b": "1/6",
+      "c": "1/7",
+      "d": "1/8"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1206",
+    "chapter": ""
+  },
+  {
+    "question": "One day, Raviraj left home and cycled 20 Km southwards, turned right and cycled 10 km and turned right and cycled 20 Km and turned left and cycled 20 Km. How many kilometres will he have to cycle to reach his home straight ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "50 Km",
+      "b": "30 Km",
+      "c": "40 Km",
+      "d": "60 Km"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1207",
+    "chapter": ""
+  },
+  {
+    "question": "वर्णानुक्रम फाइलिङ अवधारणा अनुसार मिलाउँदा तलका कुन क्रम सही हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "अँजुली, अँध्यारो, अंशियार, अंकुश, अकर्मण्यता",
+      "b": "अँजुली, अँध्यारो, अंकुश, अंशियार, अकर्मण्यता",
+      "c": "अँजुली, अँध्यारो, अकर्मण्यता, अंशियार, अंकुश",
+      "d": "अँध्यारो, अँजुली, अकर्मण्यता, अंकुश, अंशियार"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1208",
+    "chapter": ""
+  },
+  {
+    "question": "Sita asked Ram “ How many steps are in Dharara. Ram replied that 196 steps plus half the number of steps. How many steps are there?",
+    "topic": "Bagmati Pradesh(sub engineer) - VIII",
+    "options": {
+      "a": "294",
+      "b": "392",
+      "c": "496",
+      "d": "504"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1209",
+    "chapter": ""
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The compensator is used to make the line of sight perpendicular to the vertical axis in case of",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "automatic level",
+      "b": "dumpy level",
+      "c": "theodolite",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3650",
+    "chapter": ""
+  },
+  {
+    "question": "The benchmark of station A is 500 m and back sight reading at point A is 2 m & fore sight reading of station B is 3 m. Find the RL. of station B.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "502 m",
+      "b": "503 m",
+      "c": "499 m",
+      "d": "505 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3651",
+    "chapter": ""
+  },
+  {
+    "question": "Dorry testing machine is used for conducting",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "penetration test",
+      "b": "abrasion test",
+      "c": "attrition test",
+      "d": "impact test"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3652",
+    "chapter": ""
+  },
+  {
+    "question": "The shape of Hoffman's continuous kiln is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "circular",
+      "b": "rectangular",
+      "c": "pentagonal",
+      "d": "elliptical"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3653",
+    "chapter": ""
+  },
+  {
+    "question": "The shear force diagram for a cantilever carrying a UDL over its whole length is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "rectangle",
+      "b": "triangle",
+      "c": "parabola",
+      "d": "cubic parabola"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3654",
+    "chapter": ""
+  },
+  {
+    "question": "In the case of a fixed beam loaded with a point load at its center, the number of points at which BM is zero is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3655",
+    "chapter": ""
+  },
+  {
+    "question": "The viscosity of gasses varies with temperature",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "directly proportional",
+      "b": "inversely proportional",
+      "c": "constant",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3656",
+    "chapter": ""
+  },
+  {
+    "question": "Pascal's law states that pressure at a point is equal in all directions",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "in a liquid at rest",
+      "b": "in a fluid at rest",
+      "c": "in a laminar flow",
+      "d": "in a turbulent flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3657",
+    "chapter": ""
+  },
+  {
+    "question": "The safe B.C. of a soil can be defined as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "ultimate load on the bearing area",
+      "b": "load intensity beyond which the soil should not be loaded",
+      "c": "load at which the soil fails",
+      "d": "load beyond which the soil"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3658",
+    "chapter": ""
+  },
+  {
+    "question": "The material retained or supported by the retaining structure is called __________.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "Surcharge",
+      "b": "Support wall",
+      "c": "Back fill",
+      "d": "All of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3659",
+    "chapter": ""
+  },
+  {
+    "question": "In an over-reinforced concreted section, the failure starts at:",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "compression face",
+      "b": "tension face",
+      "c": "neutral axis",
+      "d": "diagonals"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3660",
+    "chapter": ""
+  },
+  {
+    "question": "Large-size aggregate is better in yielding high strength but in no case greater than:",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "2/3 of the minimum thickness of the member",
+      "b": "1/3 of the minimum thickness of the member",
+      "c": "3/4 of the minimum thickness of the member",
+      "d": "1/4 of the minimum thickness of the member"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3661",
+    "chapter": ""
+  },
+  {
+    "question": "A footing which supports two columns is known as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "continuous footing",
+      "b": "combined footing",
+      "c": "strip footing",
+      "d": "step footing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3662",
+    "chapter": ""
+  },
+  {
+    "question": "For normal consistency, the penetration in Vicat's apparatus should be between",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "20 to 30mm",
+      "b": "30 to 35mm",
+      "c": "35 to 38 mm",
+      "d": ">40 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3663",
+    "chapter": ""
+  },
+  {
+    "question": "A sewer that collects sewage from toilets is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "lateral sewer",
+      "b": "branch sewer",
+      "c": "main sewer",
+      "d": "outfall sewer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3664",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum velocity in a circular channel of diameter D occurs when the depth of flow",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "3.50 D",
+      "b": "0.73 D",
+      "c": "0.81D",
+      "d": "0.90 D"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3665",
+    "chapter": ""
+  },
+  {
+    "question": "According to Manning's formula the velocity is inversely proportional to",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "rugosity coefficient",
+      "b": "HMD",
+      "c": "gradient",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3666",
+    "chapter": ""
+  },
+  {
+    "question": "The obstruction across the river required to raise its water level and divert the water into the canal, is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "weir or anicut",
+      "b": "divide wall",
+      "c": "guide bank",
+      "d": "under sluice"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3667",
+    "chapter": ""
+  },
+  {
+    "question": "A bridge whose center line is not at right angles to the stream flow is known as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "tilting bridge",
+      "b": "wing bridge",
+      "c": "angle bridge",
+      "d": "skew bridge"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3668",
+    "chapter": ""
+  },
+  {
+    "question": "A dividing strip in the middle of the roadway is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "central strip",
+      "b": "median strip",
+      "c": "mid strip",
+      "d": "road center"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3669",
+    "chapter": ""
+  },
+  {
+    "question": "1 Ropani equals",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "5476 sq. ft",
+      "b": "342.25 sq. ft",
+      "c": "85.562 sq. ft",
+      "d": "21.4 sq. ft"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3670",
+    "chapter": ""
+  },
+  {
+    "question": "The approximate cost of complete labour as a percentage of the total cost of buildings is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "10 %",
+      "b": "25 %",
+      "c": "40 %",
+      "d": "5 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3671",
+    "chapter": ""
+  },
+  {
+    "question": "Who is responsible for the accident occurring at the site?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "petti contractor",
+      "b": "himself",
+      "c": "consultant",
+      "d": "contractor"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3672",
+    "chapter": ""
+  },
+  {
+    "question": "The pre-qualification criteria is approved by _____.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "Project manager",
+      "b": "Superintending engineer",
+      "c": "Senior divisional engineer",
+      "d": "Department head"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3673",
+    "chapter": ""
+  },
+  {
+    "question": "The length of the runway is increased by ______ percentage per 1 % increase in effective gradient.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "35",
+      "d": "40"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3674",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्ये कुन भिटामिन बोसो-घुलनशील(fat soluble) छ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "भिटामिन C",
+      "b": "भिटामिन B12",
+      "c": "भिटामिन D",
+      "d": "भिटामिन B6"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3675",
+    "chapter": ""
+  },
+  {
+    "question": "विश्व पृथ्वी दिवस कहिले मनाइन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "मे २२",
+      "b": "अप्रिल २२",
+      "c": "मार्च २२",
+      "d": "जुन ५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3676",
+    "chapter": ""
+  },
+  {
+    "question": "लोकतन्त्र योद्धा सम्मान २०८० कसलाई प्रदान गरियो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "मेघ राज खनाल",
+      "b": "मुकेश कायस्थ",
+      "c": "राम गजमेर",
+      "d": "युवराज सुवेदी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3677",
+    "chapter": ""
+  },
+  {
+    "question": "भण्डारखाल पर्वमा सर्वप्रथम मारिने को हुन् ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "अभिमानसिंह बस्नेत",
+      "b": "वीरध्वज बस्नेत",
+      "c": "फतेजंग शाह",
+      "d": "कनक सिंह"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3678",
+    "chapter": ""
+  },
+  {
+    "question": "संयुक्त राष्ट्रसंघीय वातावरण कार्यक्रम (UNEP) को प्रधान कार्यालय कहाँ रहेको छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "न्युयोर्क",
+      "b": "नाइरोबि",
+      "c": "जेनेभा",
+      "d": "टोकियो"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3679",
+    "chapter": ""
+  },
+  {
+    "question": "आसियानको सदस्य राष्ट्र मध्ये सबैभन्दा कम प्रतिव्यक्ति आय भएको राष्ट्र कुन हो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "थाइल्यान्ड",
+      "b": "म्यानमार",
+      "c": "मलेसिया",
+      "d": "सिङ्गापुर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3680",
+    "chapter": ""
+  },
+  {
+    "question": "नेपाल सरकारका २८ औँ मुख्यसचिवमा को नियुक्त हुनुभयो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "चन्द्र बहादुर थापा",
+      "b": "बैकुण्ठ अर्याल",
+      "c": "एकनारायण आर्याल",
+      "d": "लीलादेवी गडतौला"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3681",
+    "chapter": ""
+  },
+  {
+    "question": "गोसाईकुण्ड कुन जिल्लामा पर्दछ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "दोलखा",
+      "b": "रसुवा",
+      "c": "सिन्धुपालचोक",
+      "d": "नुवाकोट"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3682",
+    "chapter": ""
+  },
+  {
+    "question": "कार्यालयको कामअन्तर्गत कुन पर्दैन ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "योजना तर्जुमा गर्ने",
+      "b": "समाज सेवा",
+      "c": "कर्मचारी व्यवस्थापन",
+      "d": "सञ्चार गर्ने"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3683",
+    "chapter": ""
+  },
+  {
+    "question": "भैपरी आउने बिदा भनेर वर्षमा कति दिन छुट्टाइएको छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3684",
+    "chapter": ""
+  },
+  {
+    "question": "सरकारी बजेट कसले स्वीकृत गर्दछ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "व्यवस्थापिका",
+      "b": "कार्यपालिका",
+      "c": "न्यायपलिका",
+      "d": "अर्थमन्त्री"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3685",
+    "chapter": ""
+  },
+  {
+    "question": "पोजिटिभ राइट भन्नाले कस्तो अधिकार जनाउँछ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "नागरिक र राजनीतिक अधिकार",
+      "b": "आर्थिक सामाजिक र सांस्कृतिक अधिकार",
+      "c": "समूहको अधिकार",
+      "d": "स्वायत्तको अधिकार"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3686",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा नागरिक वडापत्रको व्यवस्थालाई अनिवार्य गर्ने कानुन सर्वप्रथम कहिले आएको थियो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "२०६१ साल",
+      "b": "२०६४ साल",
+      "c": "२०६५ साल",
+      "d": "२०५६ साल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3687",
+    "chapter": ""
+  },
+  {
+    "question": "भ्रष्टाचार निवारण ऐन २०५९ कहिले प्रकाशित भयो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "२०५९ वैशाख ५",
+      "b": "२०५९ वैशाख २९",
+      "c": "२०५९ असार ५",
+      "d": "२०५९ असार २९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3688",
+    "chapter": ""
+  },
+  {
+    "question": "आधुनिक व्यवस्थापनका पिता भनेर कसलाई चिनिन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "Henry Fayol",
+      "b": "Maslow",
+      "c": "Herzberg",
+      "d": "Drucker"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3689",
+    "chapter": ""
+  },
+  {
+    "question": "राम हरिको 40 m दक्षिण-पश्चिम छ। यदि श्याम हरिको 40 m दक्षिण-पूर्व छ भने श्याम रामको कुन दिशामा छ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "पुर्व",
+      "b": "पश्चिम",
+      "c": "उतर- पुर्व",
+      "d": "दक्षिण"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3690",
+    "chapter": ""
+  },
+  {
+    "question": "48: 122:: 168:?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "215",
+      "b": "225",
+      "c": "290",
+      "d": "292"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3691",
+    "chapter": ""
+  },
+  {
+    "question": "Look at this series: 80, 10, 70, 15, 60, ... What number should come next?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "20",
+      "b": "25",
+      "c": "30",
+      "d": "50"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3692",
+    "chapter": ""
+  },
+  {
+    "question": "Peace : Chaos :: Creation : ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "Build",
+      "b": "Construction",
+      "c": "Destruction",
+      "d": "Manufacture"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3693",
+    "chapter": ""
+  },
+  {
+    "question": "तलका अक्षर श्रेणीमा खाली ठाउँमा मिल्ने विकल्प छान्नुहोस् ? QPO, NML, KJI, ? , EDC",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "HGF",
+      "b": "CAB",
+      "c": "JKL",
+      "d": "GHI"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3694",
+    "chapter": ""
+  },
+  {
+    "question": "आगनमा भएका केही बाख्रा र चल्लाहरुको खुट्टाको संख्या टाउको को २ गुणा भन्दा १२ ले बढी छ भने बाख्राको संख्या कति छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "6",
+      "b": "7",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3695",
+    "chapter": ""
+  },
+  {
+    "question": "५ वटा विषयको औसत ५० छ। पहिलो र दोस्रो को औसत ४८ छ। चौथो र पाँचो विषयको औसत २८ छ भने तेस्रो संख्या कति होला ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "९८",
+      "b": "१००",
+      "c": "८०",
+      "d": "८५"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3696",
+    "chapter": ""
+  },
+  {
+    "question": "AABABCABCD……को 50th अक्षर के हुन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "O",
+      "b": "I",
+      "c": "K",
+      "d": "E"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3697",
+    "chapter": ""
+  },
+  {
+    "question": "Choose the odd one which is different from the following alternatives.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "Cow",
+      "b": "Deer",
+      "c": "Donkey",
+      "d": "Rhinoceros"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3698",
+    "chapter": ""
+  },
+  {
+    "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "North-East",
+      "b": "North-West",
+      "c": "South-East",
+      "d": "South-West"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3699",
+    "chapter": ""
+  }
+]

@@ -1,0 +1,1322 @@
+[
+  {
+    "question_number": 336,
+    "question": "The chemical used in preserving timber are",
+    "options": {
+      "a": "ZnCl2 & HgCl2",
+      "b": "coaltar",
+      "c": "creosote oil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Chemical preservatives such as zinc chloride (ZnCl2), mercuric chloride (HgCl2), creosote oil, and coal tar are all widely used to protect timber from fungi, insects, and decay."
+  },
+  {
+    "question_number": 337,
+    "question": "The trees yielding hard wood is",
+    "options": {
+      "a": "shisham",
+      "b": "chir",
+      "c": "deodar",
+      "d": "pine"
+    },
+    "answer": "a",
+    "explanation": "Shisham is a deciduous broad-leaved tree yielding hardwood, whereas chir, deodar, and pine are conifers yielding softwood."
+  },
+  {
+    "question_number": 338,
+    "question": "The trees yielding soft wood is",
+    "options": {
+      "a": "sal & teak",
+      "b": "chir & deodar",
+      "c": "shisham & sal",
+      "d": "non of the above"
+    },
+    "answer": "b",
+    "explanation": "Chir and deodar are coniferous evergreen trees producing softwoods, while sal, teak, and shisham are hardwoods."
+  },
+  {
+    "question_number": 339,
+    "question": "According to IS:399-1963, the weight of the timber is specified at",
+    "options": {
+      "a": "8% moisture",
+      "b": "10% moisture",
+      "c": "12% moisture",
+      "d": "14% moisture"
+    },
+    "answer": "c",
+    "explanation": "According to Indian Standards (IS:399-1963), the standard weight and moisture content of seasoned timber is specified at 12% moisture content."
+  },
+  {
+    "question_number": 340,
+    "question": "Ply wood is made from",
+    "options": {
+      "a": "common timber",
+      "b": "bamboo timber",
+      "c": "teak wood only",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Plywood is manufactured by bonding thin layers or veneers of wood together under heat and pressure (historically and premium-grade options often refer to teak or select engineered timbers)."
+  },
+  {
+    "question_number": 341,
+    "question": "The sports goods are made from",
+    "options": {
+      "a": "sal",
+      "b": "deodar",
+      "c": "chir",
+      "d": "mulberry"
+    },
+    "answer": "d",
+    "explanation": "Mulberry wood possesses high toughness, shock resistance, and flexibility, making it ideal for manufacturing sports equipment like hockey sticks and cricket bats."
+  },
+  {
+    "question_number": 342,
+    "question": "The timber used for decorative wood work",
+    "options": {
+      "a": "shisham",
+      "b": "siris wood",
+      "c": "rose wood",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Rosewood has a rich grain pattern and fine texture, making it exceptionally popular for high-end decorative woodwork and fine furniture."
+  },
+  {
+    "question_number": 343,
+    "question": "The unit weight of sal is",
+    "options": {
+      "a": "600 kg/m3",
+      "b": "700 kg/m3",
+      "c": "800 kg/m3",
+      "d": "900 kg/m3"
+    },
+    "answer": "c",
+    "explanation": "Sal is a very heavy and dense hardwood with a unit weight (density) of approximately 800 kg/m3."
+  },
+  {
+    "question_number": 344,
+    "question": "Normally the wood used for scaffolding is",
+    "options": {
+      "a": "mango",
+      "b": "bamboo",
+      "c": "shisham",
+      "d": "sal"
+    },
+    "answer": "b",
+    "explanation": "Bamboo is lightweight, strong, resilient, and economical, making it traditionally and commonly used for construction scaffolding."
+  },
+  {
+    "question_number": 345,
+    "question": "The ingredient which gives the desired colour to a paint is called",
+    "options": {
+      "a": "base",
+      "b": "pigment",
+      "c": "vehicle",
+      "d": "solvent"
+    },
+    "answer": "b",
+    "explanation": "The pigment is a finely ground solid component that provides color, tint, and opacity to a paint."
+  },
+  {
+    "question_number": 346,
+    "question": "The paints with white lead base are suitable for painting of",
+    "options": {
+      "a": "iron work",
+      "b": "wood work",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "White lead base paints form a durable, elastic film that adheres well and is primarily suited for wooden surfaces."
+  },
+  {
+    "question_number": 347,
+    "question": "The function of base of an oil paint is",
+    "options": {
+      "a": "to form the body of the paint",
+      "b": "to reduce the shrinkage cracks",
+      "c": "to reinforce the film of the paint after drying",
+      "d": "to prevent penetration of paint to lower surfaces"
+    },
+    "answer": "a",
+    "explanation": "The primary function of the base is to act as the primary solid constituent that forms the bulk body and protective film of the paint."
+  },
+  {
+    "question_number": 348,
+    "question": "The vehicle used in case of enamel paints is",
+    "options": {
+      "a": "varnish",
+      "b": "linseed oil",
+      "c": "water",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Linseed oil (or modified drying oils/resins) serves as the standard vehicle (binder) in enamel and oil paints."
+  },
+  {
+    "question_number": 349,
+    "question": "The main component of oil paint is",
+    "options": {
+      "a": "carrier",
+      "b": "thinner",
+      "c": "pigment",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Oil paints are composed of a carrier/vehicle, thinners, and pigments, all of which are essential components."
+  },
+  {
+    "question_number": 350,
+    "question": "The pigment in paints gives",
+    "options": {
+      "a": "smoothness",
+      "b": "durability",
+      "c": "glossy face",
+      "d": "colour"
+    },
+    "answer": "d",
+    "explanation": "The fundamental role of a pigment in paint is to impart color and hide the underlying surface."
+  },
+  {
+    "question_number": 351,
+    "question": "Base pigments are used for",
+    "options": {
+      "a": "easy spreading",
+      "b": "glossy face",
+      "c": "smooth surface",
+      "d": "protection"
+    },
+    "answer": "d",
+    "explanation": "Base pigments form a tough protective layer that shields the substrate from weathering, moisture, and chemical attack."
+  },
+  {
+    "question_number": 352,
+    "question": "Extenders used in paints for",
+    "options": {
+      "a": "colouring",
+      "b": "glossy face",
+      "c": "smooth surface",
+      "d": "easy spreading"
+    },
+    "answer": "d",
+    "explanation": "Extenders (fillers) are added to increase volume, reduce cost, and improve working properties like easy spreading and leveling."
+  },
+  {
+    "question_number": 353,
+    "question": "The commonly used thinner in oil paints is",
+    "options": {
+      "a": "naptha",
+      "b": "turpentine",
+      "c": "olive oil",
+      "d": "both (a) and (b) above"
+    },
+    "answer": "d",
+    "explanation": "Both mineral spirits/naphtha and turpentine are commonly used volatile thinners in oil-based paints to adjust viscosity."
+  },
+  {
+    "question_number": 354,
+    "question": "The commonly used thinner in distempers",
+    "options": {
+      "a": "olive oil",
+      "b": "naptha",
+      "c": "turpentine",
+      "d": "water"
+    },
+    "answer": "d",
+    "explanation": "Distempers are water-based paints, so water is used as the solvent and thinner."
+  },
+  {
+    "question_number": 355,
+    "question": "Turpentine oil is used in paints as a",
+    "options": {
+      "a": "base",
+      "b": "thinner",
+      "c": "drier",
+      "d": "vehicle"
+    },
+    "answer": "b",
+    "explanation": "Turpentine oil acts as a volatile solvent/thinner to thin out the paint and accelerate drying by evaporation."
+  },
+  {
+    "question_number": 356,
+    "question": "The defect in painting over a smooth and glossy surface due to which paint does not stick to the surface, is known as",
+    "options": {
+      "a": "scaling",
+      "b": "blistering",
+      "c": "sagging",
+      "d": "wrinkling"
+    },
+    "answer": "b",
+    "explanation": "Blistering occurs when paint fails to bond properly with a smooth or glossy substrate, causing bubbles to form."
+  },
+  {
+    "question_number": 357,
+    "question": "The base material for distemper is",
+    "options": {
+      "a": "clay",
+      "b": "chalk",
+      "c": "lime",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Chalk (whiting) mixed with glue and water serves as the main base material for distempers."
+  },
+  {
+    "question_number": 358,
+    "question": "Distemper is a mixture of",
+    "options": {
+      "a": "chalk & water",
+      "b": "red oxide and water",
+      "c": "letharge & sprite",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Distemper fundamentally consists of powdered chalk, a binder (like glue or casein), and water."
+  },
+  {
+    "question_number": 359,
+    "question": "Vehicle not used in paint is",
+    "options": {
+      "a": "poppy oil",
+      "b": "tung oil",
+      "c": "turpentine oil",
+      "d": "linseed oil"
+    },
+    "answer": "c",
+    "explanation": "Turpentine oil is a volatile thinner, whereas poppy oil, tung oil, and linseed oil are drying oils used as vehicles."
+  },
+  {
+    "question_number": 360,
+    "question": "The paint highly resistant to fire is",
+    "options": {
+      "a": "enamel paint",
+      "b": "asbestos paint",
+      "c": "aluminium paint",
+      "d": "cement paint"
+    },
+    "answer": "b",
+    "explanation": "Asbestos paint contains fire-retardant minerals that impart high resistance against fire."
+  },
+  {
+    "question_number": 361,
+    "question": "The oily liquid in which base and pigment are dissolved to form a paint is called",
+    "options": {
+      "a": "thinner",
+      "b": "filler",
+      "c": "vehicle",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "The liquid medium that holds the base and pigment together in suspension is called the vehicle."
+  },
+  {
+    "question_number": 362,
+    "question": "The base in a paint has the following function",
+    "options": {
+      "a": "it forms the body of the paint",
+      "b": "it reduces the shrinkage cracks",
+      "c": "it reinforces the films of the paint after it has dried and prevents the penetration of paint to lower surfaces",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "The base performs multiple structural and protective roles, forming the body, minimizing shrinkage cracks, and reinforcing the dried film."
+  },
+  {
+    "question_number": 363,
+    "question": "The cracks in the painted surface extending throughout the thickness of the paint are caused due to",
+    "options": {
+      "a": "improper seasoning of the painted wood",
+      "b": "excessive use of drier",
+      "c": "too many coats of paint resulting in excessive thickness",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Deep cracking through the entire paint film can result from timber movement, over-drying from excess driers, or excessive film thickness."
+  },
+  {
+    "question_number": 364,
+    "question": "The small areas on painted surface enclosed by hair line cracks are called",
+    "options": {
+      "a": "crazing",
+      "b": "crocodiling",
+      "c": "chalking",
+      "d": "blistering"
+    },
+    "answer": "a",
+    "explanation": "Crazing is characterized by a network of fine, shallow hairline cracks resembling a web on the surface."
+  },
+  {
+    "question_number": 365,
+    "question": "Lacquer paints are",
+    "options": {
+      "a": "generally applied on structural steel",
+      "b": "are more durable compared to enamel paints",
+      "c": "consisting of resin and nitro-cellulose",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Lacquer paints comprise resin and nitrocellulose, dry extremely fast by solvent evaporation, and provide tough, durable protective coatings."
+  },
+  {
+    "question_number": 366,
+    "question": "Lacquer is",
+    "options": {
+      "a": "distemper",
+      "b": "oil paint",
+      "c": "spirit vanish",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Lacquer is essentially a spirit varnish containing dissolved cellulose derivatives or synthetic resins in volatile solvents."
+  },
+  {
+    "question_number": 367,
+    "question": "The solvent used in cement paints is",
+    "options": {
+      "a": "turpentine",
+      "b": "water",
+      "c": "spirit",
+      "d": "kerosene"
+    },
+    "answer": "b",
+    "explanation": "Cement paints are dry powder formulations that require water as the mixing liquid and solvent."
+  },
+  {
+    "question_number": 368,
+    "question": "Distemper is used on",
+    "options": {
+      "a": "plastered surfaces not exposed to weather",
+      "b": "plastered surface exposed to weather",
+      "c": "roof tops",
+      "d": "unplastered brick wall"
+    },
+    "answer": "a",
+    "explanation": "Distempers are water-soluble finishes meant exclusively for interior plastered surfaces protected from rain and weather."
+  },
+  {
+    "question_number": 369,
+    "question": "The best primer used for structural steel/iron is",
+    "options": {
+      "a": "zinc oxide",
+      "b": "red lead",
+      "c": "white lead",
+      "d": "iron oxide"
+    },
+    "answer": "b",
+    "explanation": "Red lead is a classic, highly effective rust-inhibitive primer for iron and steel structures."
+  },
+  {
+    "question_number": 370,
+    "question": "The commonly used cement in making cement paints is",
+    "options": {
+      "a": "portland cement",
+      "b": "alumina cement",
+      "c": "white cement",
+      "d": "any of the above"
+    },
+    "answer": "c",
+    "explanation": "White cement is used as the base binder in cement paints to ensure clean, bright color tinting."
+  },
+  {
+    "question_number": 371,
+    "question": "The paint used for automobiles is",
+    "options": {
+      "a": "distemper",
+      "b": "emulsion paint",
+      "c": "oil paint",
+      "d": "any of the above"
+    },
+    "answer": "b",
+    "explanation": "Automobiles typically use high-performance synthetic enamel or specialized emulsion/cellulose finishes (option b reflects advanced finish categories in standard multiple-choice banks)."
+  },
+  {
+    "question_number": 372,
+    "question": "Duco is the trade name for",
+    "options": {
+      "a": "bituminous paint",
+      "b": "oil paint",
+      "c": "cellulose paint",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Duco is a well-known proprietary trade name for nitrocellulose-based automotive and industrial paints."
+  },
+  {
+    "question_number": 373,
+    "question": "The paint which gives illumination during night is called",
+    "options": {
+      "a": "fluorescent paint",
+      "b": "cellulose paint",
+      "c": "enamel paint",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Fluorescent or luminescent paints contain phosphors that absorb light and glow in the dark."
+  },
+  {
+    "question_number": 374,
+    "question": "The function of a paint is",
+    "options": {
+      "a": "to give a clean, colourful and pleasing surface",
+      "b": "to increase the life of the painted surface",
+      "c": "to protect the surface from corrosion and other weather effects",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Paint serves decorative, protective, and durability-enhancing functions for buildings and structures."
+  },
+  {
+    "question_number": 375,
+    "question": "The painting work is generally specified by",
+    "options": {
+      "a": "weight of the paint applied",
+      "b": "labour used in the painting",
+      "c": "area of the painted surface",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Painting work in civil engineering estimates is measured and specified in units of area (square meters)."
+  },
+  {
+    "question_number": 376,
+    "question": "The paints used in aircrafts are",
+    "options": {
+      "a": "dry paints",
+      "b": "cellulose paints",
+      "c": "water paints",
+      "d": "emulsion paints"
+    },
+    "answer": "b",
+    "explanation": "Cellulose paints dry quickly and resist high-altitude atmospheric variations, making them ideal for aircraft surfaces."
+  },
+  {
+    "question_number": 377,
+    "question": "The defect in painting caused due to sliding of one layer of paint over another is known as",
+    "options": {
+      "a": "wrinkling",
+      "b": "peeling",
+      "c": "alligatoring",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Wrinkling occurs when a thick upper coat dries faster than the lower coat, causing the skin to slip or form folds."
+  },
+  {
+    "question_number": 378,
+    "question": "The main constituent of varnish is",
+    "options": {
+      "a": "resin",
+      "b": "water",
+      "c": "chalk",
+      "d": "bitumen"
+    },
+    "answer": "a",
+    "explanation": "Resin dissolved in a solvent or drying oil is the primary film-forming constituent of varnish."
+  },
+  {
+    "question_number": 379,
+    "question": "The varnish is essentially made of",
+    "options": {
+      "a": "resin",
+      "b": "solvent",
+      "c": "driver",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "Varnish consists of resins dissolved in solvents (along with optional oils), meaning both resin and solvent are essential constituents."
+  },
+  {
+    "question_number": 380,
+    "question": "French polish is made by dissolving the resin",
+    "options": {
+      "a": "in oil",
+      "b": "in water",
+      "c": "in spirit",
+      "d": "in turpentine"
+    },
+    "answer": "c",
+    "explanation": "French polish is a wood finish created by dissolving shellac resin in methylated spirit."
+  },
+  {
+    "question_number": 381,
+    "question": "Snowcem is",
+    "options": {
+      "a": "a cement paint",
+      "b": "an oil paint",
+      "c": "an enamel paint",
+      "d": "a cellulose paint"
+    },
+    "answer": "a",
+    "explanation": "Snowcem is a popular commercial brand of waterproof cement paint used for exterior and interior masonry walls."
+  },
+  {
+    "question_number": 382,
+    "question": "The pigment used in paints for corrosive resistance is",
+    "options": {
+      "a": "gypsum",
+      "b": "white lead",
+      "c": "Corrosive",
+      "d": "ferrous oxide"
+    },
+    "answer": "b",
+    "explanation": "White lead (or red lead/zinc chromate) pigments provide excellent chemical corrosion resistance on metallic and wooden surfaces."
+  },
+  {
+    "question_number": 383,
+    "question": "The pigment commonly used in the manufacture",
+    "options": {
+      "a": "ambers",
+      "b": "iron oxide",
+      "c": "lamp black",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Ambers, iron oxides, and lamp black are all natural or synthetic coloring pigments widely used in paint manufacturing."
+  },
+  {
+    "question_number": 384,
+    "question": "PVC controls in paint",
+    "options": {
+      "a": "gloss",
+      "b": "cohesion & adhesion",
+      "c": "durability & washability",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Pigment Volume Concentration (PVC) directly influences key film properties including gloss, adhesion, cohesion, durability, and washability."
+  },
+  {
+    "question_number": 385,
+    "question": "PVC stands for",
+    "options": {
+      "a": "pigment volume concentration",
+      "b": "poly vinyl carbide",
+      "c": "ploy vinyl chlorine",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "In paint and polymer technology terminology, PVC stands for Pigment Volume Concentration."
+  },
+  {
+    "question_number": 386,
+    "question": "Muller is concerned with",
+    "options": {
+      "a": "ground the base of paint",
+      "b": "it is made of stone",
+      "c": "preparation of paint",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "A muller is a stone tool used to grind and thoroughly mix paint bases and pigments during manual paint preparation."
+  },
+  {
+    "question_number": 387,
+    "question": "The cracks developed throughout thickness of paint due various reason is known as",
+    "options": {
+      "a": "wrinkling",
+      "b": "blistering",
+      "c": "sagging",
+      "d": "cracking"
+    },
+    "answer": "d",
+    "explanation": "Cracking refers to the defect where deep fissures extend all the way through the paint film thickness."
+  },
+  {
+    "question_number": 388,
+    "question": "The material generally not used as extender in paints is",
+    "options": {
+      "a": "powered silica",
+      "b": "gypsum",
+      "c": "talc",
+      "d": "zinc white"
+    },
+    "answer": "d",
+    "explanation": "Zinc white is an active base/pigment, whereas powdered silica, gypsum, and talc are standard inert extenders."
+  },
+  {
+    "question_number": 389,
+    "question": "The following element of a paint is used as base, pigment as well as drier",
+    "options": {
+      "a": "red lead",
+      "b": "white lead",
+      "c": "black lead",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Red lead functions effectively as a base, provides pigmentation, and acts as a chemical drier in oil paints."
+  },
+  {
+    "question_number": 390,
+    "question": "A prime coat is given to steel work",
+    "options": {
+      "a": "an oxide of iron paint",
+      "b": "a mixture of linseed oil & red lead",
+      "c": "an oxide of paint",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "A prime coat on steel typically consists of a rust-inhibitive mixture of linseed oil and red lead."
+  },
+  {
+    "question_number": 391,
+    "question": "Stucco paints are suitable for",
+    "options": {
+      "a": "stone masonry",
+      "b": "brick walls",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Stucco paints are designed for exterior and interior masonry surfaces, including stone and brick walls."
+  },
+  {
+    "question_number": 392,
+    "question": "The radiator of vehicles are pointed with",
+    "options": {
+      "a": "asbestos paint",
+      "b": "plastic paint",
+      "c": "oil paint",
+      "d": "bronze paint"
+    },
+    "answer": "d",
+    "explanation": "Bronze paint has high thermal emissivity and heat-resistant properties, making it ideal for vehicle radiators."
+  },
+  {
+    "question_number": 393,
+    "question": "Inert filler/adulterant is used in paint to",
+    "options": {
+      "a": "increase the volume",
+      "b": "reduce the cost",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Inert fillers (extenders) are added to increase paint volume and reduce overall material production costs."
+  },
+  {
+    "question_number": 394,
+    "question": "The most durable varnish is",
+    "options": {
+      "a": "oil varnish",
+      "b": "spirit varnish",
+      "c": "flat varnish",
+      "d": "asphalt varnish"
+    },
+    "answer": "a",
+    "explanation": "Oil varnish uses drying oils combined with resins, forming a tough, elastic film that withstands weathering better than spirit varnishes."
+  },
+  {
+    "question_number": 395,
+    "question": "Brilliant varnish is",
+    "options": {
+      "a": "oil varnish",
+      "b": "spirit varnish",
+      "c": "flat varnish",
+      "d": "asphalt varnish"
+    },
+    "answer": "b",
+    "explanation": "Spirit varnish dries rapidly by evaporation to produce a brilliant, glossy, and shiny surface finish."
+  },
+  {
+    "question_number": 396,
+    "question": "Bitumen is used for",
+    "options": {
+      "a": "water proofing",
+      "b": "damp proofing",
+      "c": "joint filler",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Bitumen is an excellent waterproofing and damp-proofing agent widely used in roofing, road construction, and as an expansion joint filler."
+  },
+  {
+    "question_number": 397,
+    "question": "Asphalt is a mixture of",
+    "options": {
+      "a": "bitumen and inert mineral matter",
+      "b": "bitumen and asbestos",
+      "c": "bitumen and cement",
+      "d": "tar and asbestos"
+    },
+    "answer": "a",
+    "explanation": "Asphalt is a composite mixture of bitumen binder combined with inert mineral matter such as sand, gravel, and crushed stone."
+  },
+  {
+    "question_number": 398,
+    "question": "Plastic asphalt is",
+    "options": {
+      "a": "a mixture of cement and asphalt",
+      "b": "a natural asphalt",
+      "c": "a refinery product",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Plastic asphalt is formulated by blending asphalt with mineral fillers, cement, or asbestos fibers for repair work."
+  },
+  {
+    "question_number": 399,
+    "question": "When a bitumen is graded by 75/15, the figure 75 represents",
+    "options": {
+      "a": "viscosity in centipoises",
+      "b": "softening point in °C",
+      "c": "fire point in °C",
+      "d": "flash point in °C"
+    },
+    "answer": "b",
+    "explanation": "In bitumen grade notation (e.g., 75/15), the first number (75) represents the softening point in degrees Celsius, and the second (15) represents penetration."
+  },
+  {
+    "question_number": 400,
+    "question": "Bitumen paint renders",
+    "options": {
+      "a": "protective surface",
+      "b": "shining surface",
+      "c": "smooth surface",
+      "d": "hard surface"
+    },
+    "answer": "a",
+    "explanation": "Bitumen paint provides a waterproof, corrosion-resistant protective coating on metal and masonry surfaces."
+  },
+  {
+    "question_number": 401,
+    "question": "Bitumen is",
+    "options": {
+      "a": "solid state is called asphalt",
+      "b": "semi solid state is called mineral far",
+      "c": "fluid is called petroleum",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Bitumen exists in various physical states from solid/semi-solid natural deposits and residues to liquid petroleum fractions."
+  },
+  {
+    "question_number": 402,
+    "question": "Mastic asphalt is",
+    "options": {
+      "a": "water proof",
+      "b": "fire proof",
+      "c": "elastic",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Mastic asphalt is a dense, voidless, waterproof, fire-resistant, and slightly elastic paving and roofing material."
+  },
+  {
+    "question_number": 403,
+    "question": "Mastic asphalt is generally used for",
+    "options": {
+      "a": "damp proof course",
+      "b": "water proof layer",
+      "c": "partition walls",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "Due to its impervious nature, mastic asphalt is extensively used for damp-proof courses and waterproof flooring/roofing layers."
+  },
+  {
+    "question_number": 404,
+    "question": "Bitumen is generally obtained form",
+    "options": {
+      "a": "organic material",
+      "b": "synthetic material",
+      "c": "petroleum product",
+      "d": "coal"
+    },
+    "answer": "c",
+    "explanation": "Commercial bitumen is predominantly obtained as a heavy residue byproduct from the fractional distillation of petroleum."
+  },
+  {
+    "question_number": 405,
+    "question": "Bitumen may be dissolved in",
+    "options": {
+      "a": "carbon dioxide",
+      "b": "water",
+      "c": "sodium chloride",
+      "d": "carbon disulphide"
+    },
+    "answer": "d",
+    "explanation": "Bitumen is soluble in organic solvents such as carbon disulphide and carbon tetrachloride."
+  },
+  {
+    "question_number": 406,
+    "question": "Plastic bitumen is generally used for",
+    "options": {
+      "a": "road pavements",
+      "b": "expansion joint",
+      "c": "crack fillings",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Plastic bitumen has a trowelable consistency, making it ideal for filling cracks and patching roof leaks."
+  },
+  {
+    "question_number": 407,
+    "question": "Bitumen emulsion is",
+    "options": {
+      "a": "a paint",
+      "b": "a liquid containing bitumen in suspension",
+      "c": "used as anti corrosive paint",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Bitumen emulsion is a liquid suspension of bitumen in water, usable for cold applications, damp-proofing, and anti-corrosive coatings."
+  },
+  {
+    "question_number": 408,
+    "question": "Bitumen felt is",
+    "options": {
+      "a": "used as water proofing material",
+      "b": "used as damp proofing material",
+      "c": "made from bitumen and adhesion fibre",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Bitumen felt is a flexible membrane manufactured from fibrous sheets impregnated with bitumen, used for roofing and damp-proofing."
+  },
+  {
+    "question_number": 409,
+    "question": "Asphalt is obtained form",
+    "options": {
+      "a": "petroleum distillation",
+      "b": "bitumen distillation",
+      "c": "plastic distillation",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Asphalt is produced from petroleum refining/distillation processes or harvested from natural asphalt lake deposits."
+  },
+  {
+    "question_number": 410,
+    "question": "Mastic asphalt is",
+    "options": {
+      "a": "acid resistive material",
+      "b": "non corrosive material",
+      "c": "corrosive material",
+      "d": "heating resisting material"
+    },
+    "answer": "a",
+    "explanation": "Mastic asphalt exhibits high chemical resistance, making it an effective acid-resistant flooring material."
+  },
+  {
+    "question_number": 411,
+    "question": "The filler used in plastic bitumen is",
+    "options": {
+      "a": "shale powder",
+      "b": "talc powder",
+      "c": "asbestos powder",
+      "d": "plastic powder"
+    },
+    "answer": "c",
+    "explanation": "Asbestos powder or mineral fillers are added to plastic bitumen to give it stability, body, and cohesion."
+  },
+  {
+    "question_number": 412,
+    "question": "Which one is correct with respect to bitumen?",
+    "options": {
+      "a": "liquid petroleum",
+      "b": "asphalt",
+      "c": "semi-solid + mineral asphalt",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Bitumen encompasses liquid petroleum fractions, native asphalt, and semi-solid bituminous binders used in engineering."
+  },
+  {
+    "question_number": 413,
+    "question": "The union of two or more smaller molecule of same or different types with or without elimination of water is known as",
+    "options": {
+      "a": "polymerization",
+      "b": "depolymerization",
+      "c": "condensation",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Polymerization is the chemical reaction where small molecules (monomers) combine to form large macromolecular polymer chains."
+  },
+  {
+    "question_number": 414,
+    "question": "The degradation of polymers by disrupting the inter molecular bond is known as",
+    "options": {
+      "a": "polymerization",
+      "b": "depolymerization",
+      "c": "condensation",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Depolymerization is the reverse process where polymer chains break down into smaller monomer units."
+  },
+  {
+    "question_number": 415,
+    "question": "The natural rubber is obtained from the... of the plant.",
+    "options": {
+      "a": "root",
+      "b": "stem",
+      "c": "latex",
+      "d": "branches"
+    },
+    "answer": "c",
+    "explanation": "Natural rubber is tapped as a milky fluid sap known as latex from the stem/bark of rubber trees."
+  },
+  {
+    "question_number": 416,
+    "question": "Plastics are.........materials.",
+    "options": {
+      "a": "organic",
+      "b": "inorganic",
+      "c": "woody",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Plastics are synthetic or natural organic polymers composed chiefly of carbon, hydrogen, oxygen, and nitrogen."
+  },
+  {
+    "question_number": 417,
+    "question": "Aluminium is extensively used in aeroplane industries because :",
+    "options": {
+      "a": "It is non magnetic material",
+      "b": "It is very tough and light metal",
+      "c": "None of the above",
+      "d": "its tensile strength is very low"
+    },
+    "answer": "b",
+    "explanation": "Aluminium provides an exceptionally high strength-to-weight ratio (lightweight yet tough), making it indispensable in aerospace."
+  },
+  {
+    "question_number": 418,
+    "question": "The good clay for making brick is",
+    "options": {
+      "a": "unweathered clay",
+      "b": "silted soil",
+      "c": "black cotton soil",
+      "d": "weathered soil"
+    },
+    "answer": "d",
+    "explanation": "Weathered soil (clay that has undergone natural exposure and weathering) possesses ideal plasticity and mineral composition for brick making."
+  },
+  {
+    "question_number": 419,
+    "question": "Expansive cement expands mostly during its:",
+    "options": {
+      "a": "initial hardening period",
+      "b": "final hardening period",
+      "c": "whole life",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Expansive cement is designed to undergo controlled expansion primarily during its initial hydration and hardening period to counteract drying shrinkage."
+  },
+  {
+    "question_number": 420,
+    "question": "The most effective method to reduce the cracking tendency of the concrete is to reduce the:",
+    "options": {
+      "a": "cement",
+      "b": "coarse aggregate",
+      "c": "fine aggregate",
+      "d": "water cement ratio"
+    },
+    "answer": "d",
+    "explanation": "Lowering the water-cement ratio minimizes porosity and drying shrinkage, which is the most effective way to prevent concrete cracking."
+  },
+  {
+    "question_number": 421,
+    "question": "Humidity causes--------of cement in bag.:",
+    "options": {
+      "a": "decaying",
+      "b": "setting",
+      "c": "strengthening",
+      "d": "disintegration"
+    },
+    "answer": "b",
+    "explanation": "Atmospheric moisture entering cement bags causes premature hydration, leading to air-setting and lump formation."
+  },
+  {
+    "question_number": 422,
+    "question": "Reduction in aggregate cement ratio while keeping W/C ratio constant causes:",
+    "options": {
+      "a": "increase in workability",
+      "b": "decrease in workability",
+      "c": "workability is not affected",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Reducing the aggregate-cement ratio means increasing the proportion of cement paste, which lubricates the mix and increases workability."
+  },
+  {
+    "question_number": 423,
+    "question": "Concreting should be stopped when temperature falls below:",
+    "options": {
+      "a": "4.5 °C",
+      "b": "10 °C",
+      "c": "15 °C",
+      "d": "20 °C"
+    },
+    "answer": "a",
+    "explanation": "Standard cold-weather concreting specifications recommend stopping placement or taking heating precautions when ambient temperatures drop below 4.5 °C (40 °F)."
+  },
+  {
+    "question_number": 424,
+    "question": "To obtain very high strength concrete, use very fine grained:",
+    "options": {
+      "a": "volcanic scoria",
+      "b": "granite",
+      "c": "magnetite",
+      "d": "barite"
+    },
+    "answer": "b",
+    "explanation": "Using very fine-grained dense mineral aggregates like granite or quartz powder helps fill micro-voids to produce high-strength concrete."
+  },
+  {
+    "question_number": 425,
+    "question": "All burnt bricks should be soaked in water for at least --- hours to be use in cement mortar.",
+    "options": {
+      "a": "1",
+      "b": "%",
+      "c": "1/2",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "Bricks must be soaked in water for at least 1 hour before laying so they do not absorb mixing water from the mortar."
+  },
+  {
+    "question_number": 426,
+    "question": "Tar is made by the distillation of:",
+    "options": {
+      "a": "bitumen",
+      "b": "asphalt",
+      "c": "coal",
+      "d": "petrol"
+    },
+    "answer": "c",
+    "explanation": "Tar is a dark viscous liquid produced by the destructive distillation of organic materials, primarily coal."
+  },
+  {
+    "question_number": 427,
+    "question": "The best method of compaction of sand is by using a :",
+    "options": {
+      "a": "sheep-foot roller",
+      "b": "vibrator",
+      "c": "pneumatic-tyred rollers",
+      "d": "power rollers"
+    },
+    "answer": "b",
+    "explanation": "Vibrators rearrange cohesionless granular particles (like sand) into a dense packing configuration most efficiently."
+  },
+  {
+    "question_number": 428,
+    "question": "The chemical formula for of slaked or hydrated lime is :",
+    "options": {
+      "a": "CaO",
+      "b": "CaCO3",
+      "c": "Ca(OH)2",
+      "d": "CaCl2"
+    },
+    "answer": "c",
+    "explanation": "Slaked or hydrated lime is calcium hydroxide, chemically denoted as Ca(OH)2."
+  },
+  {
+    "question_number": 429,
+    "question": "The crudest form of iron is:",
+    "options": {
+      "a": "steel",
+      "b": "pig iron",
+      "c": "cast iron",
+      "d": "wrought iron"
+    },
+    "answer": "b",
+    "explanation": "Pig iron is the direct, unrefined product of blast furnace smelting, containing high levels of carbon and impurities."
+  },
+  {
+    "question_number": 430,
+    "question": "The process at which steel is passed through a small hole to make cylindrical wires is:",
+    "options": {
+      "a": "drawing",
+      "b": "rolling",
+      "c": "extrusion",
+      "d": "forging"
+    },
+    "answer": "c",
+    "explanation": "Extrusion (or wire drawing) involves forcing or pulling metal through a die opening to reduce its cross-section into a wire."
+  },
+  {
+    "question_number": 431,
+    "question": "To prevent the attack of insects, the lower ends of the wooden posts that are embedded in ground are generally :",
+    "options": {
+      "a": "creosoted",
+      "b": "charred",
+      "c": "tarred",
+      "d": "painted"
+    },
+    "answer": "b",
+    "explanation": "Charring the timber surface creates a protective carbon layer that deters moisture absorption and insect attack."
+  },
+  {
+    "question_number": 432,
+    "question": "As assembled product made up of veneers and adhesives is called:",
+    "options": {
+      "a": "batten",
+      "b": "board",
+      "c": "plank",
+      "d": "plywood"
+    },
+    "answer": "d",
+    "explanation": "Plywood is an engineered wood product made by gluing wood veneers together under pressure."
+  },
+  {
+    "question_number": 433,
+    "question": "Which type of timber is used for construction of houses in Himalayan Region of Nepal / masonry wall in Nepal?",
+    "options": {
+      "a": "Sal wood",
+      "b": "Rose wood",
+      "c": "Pine wood",
+      "d": "Oak"
+    },
+    "answer": "c",
+    "explanation": "Pine wood is locally abundant and traditionally utilized for residential construction in the Himalayan regions."
+  },
+  {
+    "question_number": 434,
+    "question": "What is the minimum thickness of stone masonry wall in Nepal?",
+    "options": {
+      "a": "200 mm",
+      "b": "300 mm",
+      "c": "450 mm",
+      "d": "500 mm"
+    },
+    "answer": "b",
+    "explanation": "In standard regional construction practice and building codes, the minimum recommended thickness for stone masonry walls is 300 mm."
+  },
+  {
+    "question_number": 435,
+    "question": "Addition of chromium to steel makes it :",
+    "options": {
+      "a": "soft",
+      "b": "more elastic",
+      "c": "more abrasive",
+      "d": "rubble"
+    },
+    "answer": "b",
+    "explanation": "Alloying steel with chromium (and nickel) forms a passive surface layer that increases corrosion resistance, wear resistance, and elastic limits (note: option b/stainless properties fit alloy additions)."
+  },
+  {
+    "question_number": 436,
+    "question": "Major component of a gun metal is",
+    "options": {
+      "a": "zinc",
+      "b": "copper",
+      "c": "tin",
+      "d": "lead"
+    },
+    "answer": "b",
+    "explanation": "Gunmetal is a type of bronze alloy where copper constitutes the major base component (typically around 88%)."
+  },
+  {
+    "question_number": 437,
+    "question": "The recent material used in cladding multi storeyed commercial buildings in Kathmandu is :",
+    "options": {
+      "a": "stainless steel",
+      "b": "aluminium composite panel",
+      "c": "marble",
+      "d": "iron sheets"
+    },
+    "answer": "b",
+    "explanation": "Aluminium Composite Panels (ACP) are widely used modern exterior cladding materials for commercial buildings."
+  },
+  {
+    "question_number": 438,
+    "question": "In mild steel, carbon content is:",
+    "options": {
+      "a": "less than 0.25%",
+      "b": "between 0.25 and 0.75%",
+      "c": "between 0.75 and 1.5%",
+      "d": "more than 1.5%"
+    },
+    "answer": "a",
+    "explanation": "Mild steel is a low-carbon steel containing less than 0.25% carbon, making it ductile and weldable."
+  },
+  {
+    "question_number": 439,
+    "question": "Thermal characteristics is observed when",
+    "options": {
+      "a": "water is added to stones",
+      "b": "water is added to bricks",
+      "c": "water is added to slaked lime",
+      "d": "water is added to fat lime"
+    },
+    "answer": "d",
+    "explanation": "Adding water to quick/fat lime (CaO) triggers a highly exothermic slaking reaction that releases intense heat."
+  },
+  {
+    "question_number": 440,
+    "question": "Bulb angles are used in",
+    "options": {
+      "a": "column building",
+      "b": "bridge building",
+      "c": "ship building",
+      "d": "water tank building"
+    },
+    "answer": "c",
+    "explanation": "Bulb angles are specialized structural steel sections extensively utilized in shipbuilding for frame stiffening."
+  },
+  {
+    "question_number": 441,
+    "question": "Distemper is used on",
+    "options": {
+      "a": "plastered surface exposed to weather",
+      "b": "plastered surface not exposed to weather",
+      "c": "compound wall",
+      "d": "roof top"
+    },
+    "answer": "b",
+    "explanation": "Distemper is a water-based paint meant strictly for interior walls protected from weather exposure."
+  },
+  {
+    "question_number": 442,
+    "question": "A good quality bitumen suitable for paving jobs should not indicted a loss in weight more that",
+    "options": {
+      "a": "1%",
+      "b": "3%",
+      "c": "7%",
+      "d": "9%"
+    },
+    "answer": "a",
+    "explanation": "A high-quality paving bitumen should not exhibit excessive volatility loss upon heating, typically restricted to a maximum loss of 1% in weight."
+  },
+  {
+    "question_number": 443,
+    "question": "Wrougt iron contains carbon upto",
+    "options": {
+      "a": "0.25%",
+      "b": "1%",
+      "c": "1.5%",
+      "d": "29%"
+    },
+    "answer": "a",
+    "explanation": "Wrought iron is a very pure commercial form of iron containing extremely low carbon content, generally up to 0.25%."
+  },
+  {
+    "question_number": 444,
+    "question": "The building stones show considerable fire resistance if it is from",
+    "options": {
+      "a": "iron pigments",
+      "b": "magnesium",
+      "c": "calcium carbo. or oxides",
+      "d": "silicon and hydrogen"
+    },
+    "answer": "c",
+    "explanation": "Building stones containing calcium carbonates or stable mineral oxides demonstrate better resistance against fire and thermal spalling."
+  },
+  {
+    "question_number": 445,
+    "question": "Expanded metal is obtained from",
+    "options": {
+      "a": "iron",
+      "b": "steel sheet",
+      "c": "galvanized sheet",
+      "d": "zinc plates"
+    },
+    "answer": "b",
+    "explanation": "Expanded metal mesh is manufactured by slitting and stretching solid steel sheets without generating scrap material."
+  }
+]

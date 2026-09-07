@@ -1,0 +1,758 @@
+[
+  {
+    "question_number": 1,
+    "question": "Who coined the term soil mechanics?",
+    "options": {
+      "a": "terzaghi",
+      "b": "cassagrande",
+      "c": "newmark",
+      "d": "rankine"
+    },
+    "answer": "a",
+    "explanation": "Karl Terzaghi is widely recognized as the father of geotechnical engineering and coined the term soil mechanics, having published 'Erdbaumechanik' in 1925."
+  },
+  {
+    "question_number": 2,
+    "question": "Pick up the correct sequence of geological cycle for the formation of soil",
+    "options": {
+      "a": "transportation - upheaval - deposition-weathering",
+      "b": "transportation - deposition - weathering - upheaval",
+      "c": "weathering - upheaval - deposition - transportation",
+      "d": "weathering - transportation- deposition - upheaval"
+    },
+    "answer": "d",
+    "explanation": "The geological cycle of soil formation starts with weathering of rocks, followed by transportation of the weathered material, deposition at a new location, and finally upheaval."
+  },
+  {
+    "question_number": 3,
+    "question": "Chemical weathering occurs because of",
+    "options": {
+      "a": "oxidation",
+      "b": "carbonation",
+      "c": "hydration",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Chemical weathering involves chemical reactions such as oxidation, carbonation, hydration, and solution that alter the mineral composition of rocks."
+  },
+  {
+    "question_number": 4,
+    "question": "Physical weathering occurs due to",
+    "options": {
+      "a": "temperature changes",
+      "b": "wedging action of ice",
+      "c": "spreading of roots of plant",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Physical or mechanical weathering is caused by temperature variations, ice wedging, plant root growth, and unloading, which break rocks down without changing their chemical composition."
+  },
+  {
+    "question_number": 5,
+    "question": "If the soil stays at a place above the parent rock where it is produced, then it is called",
+    "options": {
+      "a": "stationary soil",
+      "b": "static soil",
+      "c": "residual soil",
+      "d": "immobile soil"
+    },
+    "answer": "c",
+    "explanation": "Residual soils remain at their place of origin directly above the parent rock from which they were weathered."
+  },
+  {
+    "question_number": 6,
+    "question": "An agent responsible for the transportation of soil is",
+    "options": {
+      "a": "wind",
+      "b": "water",
+      "c": "gravity",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Soils can be transported by various natural agents including water (alluvial), wind (aeolian), gravity (colluvial), and ice (glacial)."
+  },
+  {
+    "question_number": 7,
+    "question": "Cohesionless soils are formed due to",
+    "options": {
+      "a": "oxidation of rocks",
+      "b": "leaching action of water on rocks",
+      "c": "blowing of hot and cold wind",
+      "d": "physical disintegration of rocks"
+    },
+    "answer": "d",
+    "explanation": "Cohesionless soils (such as gravel and sand) are typically formed by the physical disintegration of parent rocks."
+  },
+  {
+    "question_number": 8,
+    "question": "Peat is composed of",
+    "options": {
+      "a": "clay and sand",
+      "b": "decayed vegetable matter",
+      "c": "inorganic silt and silty clay",
+      "d": "synthetic chemicals"
+    },
+    "answer": "b",
+    "explanation": "Peat is a highly organic soil formed from the accumulation of partially decayed vegetable matter and organic materials under wet conditions."
+  },
+  {
+    "question_number": 9,
+    "question": "Honey combed structure is found in",
+    "options": {
+      "a": "gravels",
+      "b": "coarse sands",
+      "c": "fine silts and clays",
+      "d": "highly plastic slays"
+    },
+    "answer": "c",
+    "explanation": "A honeycomb structure is characteristic of fine-grained soils like fine silts and coarse-structured clays where particles possess significant inter-particle forces."
+  },
+  {
+    "question_number": 10,
+    "question": "Soil transported by water and deposited at the bottom of the lake is known as",
+    "options": {
+      "a": "alluvial soil",
+      "b": "lacustrine soil",
+      "c": "loess",
+      "d": "dune sand"
+    },
+    "answer": "b",
+    "explanation": "Lacustrine soils are sedimentary soils deposited at the bottom of lakes."
+  },
+  {
+    "question_number": 11,
+    "question": "Agent of transportation for alluvial soils is",
+    "options": {
+      "a": "water",
+      "b": "gravity",
+      "c": "wind",
+      "d": "ice"
+    },
+    "answer": "a",
+    "explanation": "Alluvial soils are transported and deposited by running water (rivers and streams)."
+  },
+  {
+    "question_number": 12,
+    "question": "Generally soils is considered as",
+    "options": {
+      "a": "single phase system",
+      "b": "two phase system",
+      "c": "three phase system",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "In its natural state, soil is generally considered a three-phase system consisting of solid soil particles, water, and air."
+  },
+  {
+    "question_number": 13,
+    "question": "Fully saturated soil is considered as",
+    "options": {
+      "a": "single phase system",
+      "b": "two phase system",
+      "c": "three phase system",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "A fully saturated soil contains no air in its voids (all voids are filled with water), reducing it to a two-phase system of solids and water."
+  },
+  {
+    "question_number": 14,
+    "question": "Soil which contains the particles of different sizes in good proportion is called",
+    "options": {
+      "a": "uniform soil",
+      "b": "well graded soil",
+      "c": "consistent soil",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "A well-graded soil contains a good representation of particles across a wide range of sizes, ensuring smaller particles pack into the voids of larger particles."
+  },
+  {
+    "question_number": 15,
+    "question": "For a well graded soil the co-efficient of curvature will be between",
+    "options": {
+      "a": "1 and 10",
+      "b": "2 and 8",
+      "c": "3 and 7",
+      "d": "1 and 3"
+    },
+    "answer": "d",
+    "explanation": "For a well-graded gravel or sand, the coefficient of curvature (Cc) must lie between 1 and 3."
+  },
+  {
+    "question_number": 16,
+    "question": "Degree of saturation of a soil is generally",
+    "options": {
+      "a": "above 100%",
+      "b": "below zero",
+      "c": "between 0% and 100%",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "The degree of saturation is the ratio of the volume of water to the volume of voids, expressed as a percentage ranging from 0% (completely dry) to 100% (fully saturated)."
+  },
+  {
+    "question_number": 17,
+    "question": "The basis for all soil classification systems is",
+    "options": {
+      "a": "permeability characteristics",
+      "b": "specific gravity of solids",
+      "c": "grain size and plasticity characteristics",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Standard engineering soil classification systems (like USCS) are primarily based on grain size distribution (for coarse-grained soils) and plasticity characteristics (for fine-grained soils)."
+  },
+  {
+    "question_number": 18,
+    "question": "Soils are basically",
+    "options": {
+      "a": "organic materials",
+      "b": "inorganic materials",
+      "c": "mineral materials",
+      "d": "organic and inorganic materials"
+    },
+    "answer": "d",
+    "explanation": "Soils can comprise both mineral/inorganic materials derived from rock weathering and organic materials derived from decomposed flora and fauna."
+  },
+  {
+    "question_number": 19,
+    "question": "Cohesionless soil is",
+    "options": {
+      "a": "sand",
+      "b": "silt",
+      "c": "clay",
+      "d": "clay and silt"
+    },
+    "answer": "a",
+    "explanation": "Sand is a classic cohesionless soil where particles do not stick together via molecular attraction, unlike fine clays."
+  },
+  {
+    "question_number": 20,
+    "question": "The behaviour of silt is normally governed by",
+    "options": {
+      "a": "mass energy",
+      "b": "surface energy",
+      "c": "mass and surface energy",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Silts represent a transitional material whose behavior is influenced by both mass forces (gravity) and surface forces (surface energy)."
+  },
+  {
+    "question_number": 21,
+    "question": "Silts have the following property",
+    "options": {
+      "a": "plasticity",
+      "b": "limited plasticity",
+      "c": "limited or no plasticity",
+      "d": "elasticity"
+    },
+    "answer": "c",
+    "explanation": "Silts typically exhibit little to no plasticity because their particles are slightly larger and less colloidal than clays."
+  },
+  {
+    "question_number": 22,
+    "question": "The maximum size of clay particle is",
+    "options": {
+      "a": "0.10 mm",
+      "b": "0.30 mm",
+      "c": "0.002 mm",
+      "d": "0.005 mm"
+    },
+    "answer": "c",
+    "explanation": "According to standard soil classification systems (like MIT or IS), clay particles are defined as having sizes smaller than 0.002 mm (2 micrometers)."
+  },
+  {
+    "question_number": 23,
+    "question": "The void ratio of soil is",
+    "options": {
+      "a": "the ratio of voids to solids in volume",
+      "b": "the ratio of voids to gross volume",
+      "c": "the ratio of solids to voids in volume",
+      "d": "the ratio of solid volume to gross volume"
+    },
+    "answer": "a",
+    "explanation": "Void ratio (e) is defined mathematically as the ratio of the volume of voids to the volume of solid particles."
+  },
+  {
+    "question_number": 24,
+    "question": "The ratio of volume of air void to the volume of voids, is known as",
+    "options": {
+      "a": "air content",
+      "b": "wet porosity",
+      "c": "percentage voids",
+      "d": "degree of saturation"
+    },
+    "answer": "a",
+    "explanation": "Air content (Ac) is defined as the ratio of the volume of air voids to the total volume of voids."
+  },
+  {
+    "question_number": 25,
+    "question": "The ratio of volume of voids to the total volume of the given soil mass is known as",
+    "options": {
+      "a": "porosity",
+      "b": "void ratio",
+      "c": "specific gravity",
+      "d": "water content"
+    },
+    "answer": "a",
+    "explanation": "Porosity (n) is defined as the ratio of the volume of voids to the total bulk volume of the soil mass."
+  },
+  {
+    "question_number": 26,
+    "question": "Theoretically, the void ratio in soils can have the following values",
+    "options": {
+      "a": "between 0 and 1",
+      "b": "greater than 0",
+      "c": "can be greater than 1",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Void ratio can exceed 1 (i.e., greater than 100%) particularly in highly compressible fine-grained soils and soft clays where the volume of voids is greater than the volume of solids."
+  },
+  {
+    "question_number": 27,
+    "question": "The ratio of weight of water to the weight of solids in a given mass of soil, is known as",
+    "options": {
+      "a": "void ratio",
+      "b": "porosity",
+      "c": "specific gravity",
+      "d": "water content"
+    },
+    "answer": "d",
+    "explanation": "Water content (w) is defined as the weight of water divided by the weight of solid particles in a soil mass."
+  },
+  {
+    "question_number": 28,
+    "question": "The degree of saturation in soils can be defined as the ratio of",
+    "options": {
+      "a": "water by weight to the dry soil weight",
+      "b": "volume of water to the gross volume of soil",
+      "c": "volume of water to volume of voids in soil",
+      "d": "weight of the water to wt. of soil"
+    },
+    "answer": "c",
+    "explanation": "Degree of saturation ($S_r$) is the ratio of the volume of water to the total volume of voids within the soil."
+  },
+  {
+    "question_number": 29,
+    "question": "The relationship between void ratio (e) and porosity (n) is",
+    "options": {
+      "a": "n = e / (1 - e)",
+      "b": "e = n / (1 - n)",
+      "c": "e = (1 + n) / (1 - e)",
+      "d": "n = (1 + e) / (1 - e)"
+    },
+    "answer": "b",
+    "explanation": "The relationship is derived as $e = n / (1 - n)$ and conversely $n = e / (1 + e)$. Option (b) correctly represents $e$ in terms of $n$."
+  },
+  {
+    "question_number": 30,
+    "question": "Void ratio, e of a soil can",
+    "options": {
+      "a": "never be greater than one",
+      "b": "be equal to zero",
+      "c": "be greater than zero",
+      "d": "be between 0 and 1"
+    },
+    "answer": "c",
+    "explanation": "Void ratio must always be greater than zero since a real soil mass always contains some volume of voids."
+  },
+  {
+    "question_number": 31,
+    "question": "The functional equation for specific gravity (G), water content (w), void ratio (e) and degree of saturation (Sr) is",
+    "options": {
+      "a": "w = Sr * G / e",
+      "b": "e = Sr * w / G",
+      "c": "e * Sr = w * G",
+      "d": "G = Sr * w / e"
+    },
+    "answer": "c",
+    "explanation": "The fundamental three-phase relationship is expressed as $Se = wG$ (or $e S_r = w G$)."
+  },
+  {
+    "question_number": 32,
+    "question": "The fundamental relation between percentage Air voids na, specific gravity (G), water content (w) and dry density (yd) is",
+    "options": {
+      "a": "gamma_d = G * gamma_w * (1 - S) / (1 + e)",
+      "b": "Ws = Ge",
+      "c": "We = SG",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "The relation involving air voids can be formulated as $n_a = n(1 - S_r)$, and since options a, b, and c do not accurately represent the standard formulation of air voids $n_a$, 'none of the above' is correct."
+  },
+  {
+    "question_number": 33,
+    "question": "The ratio of the difference between the void ratio of the soil in its loosest state and natural void ratio to the difference between the void ratio in its loosest and densest state is termed as",
+    "options": {
+      "a": "degree of density",
+      "b": "density index",
+      "c": "relative density",
+      "d": "any of the above"
+    },
+    "answer": "d",
+    "explanation": "Relative density, density index, and degree of density are synonymous terms used to describe the denseness of granular soils."
+  },
+  {
+    "question_number": 34,
+    "question": "The specific gravity of sandy soils is",
+    "options": {
+      "a": "1.5",
+      "b": "2.0",
+      "c": "2.2",
+      "d": "2.6"
+    },
+    "answer": "d",
+    "explanation": "Most sandy soils, which are predominantly quartz, have a specific gravity of approximately 2.65 to 2.68, making 2.6 the closest correct option."
+  },
+  {
+    "question_number": 35,
+    "question": "Specific gravity of soil is",
+    "options": {
+      "a": "same for clays and sands",
+      "b": "determined by hydrometer",
+      "c": "less than 2.0 for most soils",
+      "d": "more than 2.5 for most soils"
+    },
+    "answer": "d",
+    "explanation": "For most common inorganic soils, the specific gravity of solid particles falls between 2.60 and 2.80, which is more than 2.5."
+  },
+  {
+    "question_number": 36,
+    "question": "Core-cutter method is used for",
+    "options": {
+      "a": "determining density of soil",
+      "b": "obtaining samples for direct shear test",
+      "c": "determining bearing capacity of soil",
+      "d": "compacting soil"
+    },
+    "answer": "a",
+    "explanation": "The core-cutter method is a field test used to determine the in-situ dry density of cohesive and fine-grained soils."
+  },
+  {
+    "question_number": 37,
+    "question": "In hydrometer analysis the principle used is",
+    "options": {
+      "a": "newton's law",
+      "b": "darcy's law",
+      "c": "stoke's law",
+      "d": "rehbarm's law"
+    },
+    "answer": "c",
+    "explanation": "Hydrometer analysis is based on Stokes' law, which relates the terminal velocity of a settling spherical particle in a fluid to its diameter."
+  },
+  {
+    "question_number": 38,
+    "question": "The relation between dry density (gamma_d), bulk density (gamma) and water content (w) is",
+    "options": {
+      "a": "gamma = gamma_d / (1 + w)",
+      "b": "gamma_d = gamma / (1 + w)",
+      "c": "w = gamma / (1 + gamma_d)",
+      "d": "w = gamma / (1 - gamma_d)"
+    },
+    "answer": "b",
+    "explanation": "Dry density is defined as the bulk density divided by one plus the water content: $\\gamma_d = \\gamma / (1 + w)$."
+  },
+  {
+    "question_number": 39,
+    "question": "A pycnometer is used to determine",
+    "options": {
+      "a": "specific gravity and dry density",
+      "b": "water content and void ratio",
+      "c": "water content and specific gravity",
+      "d": "dry density and void ratio"
+    },
+    "answer": "c",
+    "explanation": "A pycnometer is a glass jar primarily used in the laboratory to determine the specific gravity of soil solids and the water content of a soil sample."
+  },
+  {
+    "question_number": 40,
+    "question": "The percentage of the porosity of loose sand is in the range of",
+    "options": {
+      "a": "5 to 15%",
+      "b": "15 to 30%",
+      "c": "30 to 40%",
+      "d": "40 to 50%"
+    },
+    "answer": "d",
+    "explanation": "The porosity of loose sands typically ranges from 40% to 50% (corresponding to higher void ratios)."
+  },
+  {
+    "question_number": 41,
+    "question": "The percentage of the porosity of clay is in the range of",
+    "options": {
+      "a": "10 to 20%",
+      "b": "20 to 30%",
+      "c": "30 to 40%",
+      "d": "40 to 50%"
+    },
+    "answer": "d",
+    "explanation": "Clays can have high porosities often ranging from 40% to over 50% in their natural soft states."
+  },
+  {
+    "question_number": 42,
+    "question": "Particle size range is measured by",
+    "options": {
+      "a": "effective size",
+      "b": "uniformity coefficient",
+      "c": "coefficient of curvature",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "The uniformity coefficient ($Cu$) is a measure of the particle size range (particle size distribution grading span) of a soil."
+  },
+  {
+    "question_number": 43,
+    "question": "The soil sample contains volume of void 0.2 and volume of soil solids is 0.30 then find the void ratio & porosity of soil",
+    "options": {
+      "a": "0.67, 0.40",
+      "b": "0.40, 0.67",
+      "c": "0.67, 0.80",
+      "d": "0.80, 0.67"
+    },
+    "answer": "a",
+    "explanation": "Numerical solution: Given volume of voids $V_v = 0.2$, volume of solids $V_s = 0.3$. Total volume $V = V_v + V_s = 0.2 + 0.3 = 0.5$. Void ratio $e = V_v / V_s = 0.2 / 0.3 = 0.667 \\approx 0.67$. Porosity $n = V_v / V = 0.2 / 0.5 = 0.40$. Thus, $(0.67, 0.40)$."
+  },
+  {
+    "question_number": 44,
+    "question": "A soil sample contains a degree of saturation is 30%, find the percentage of air voids",
+    "options": {
+      "a": "70%",
+      "b": "30%",
+      "c": "60%",
+      "d": "50%"
+    },
+    "answer": "a",
+    "explanation": "Numerical solution: Degree of saturation $S_r = 30\\% = 0.3$. Air content $A_c = 1 - S_r = 1 - 0.3 = 0.7$ or $70\\%$. Percentage of air voids relative to total voids is $100\\% - 30\\% = 70\\%$."
+  },
+  {
+    "question_number": 45,
+    "question": "A soil sample have following characteristics- S = 50%, G = 2.6, w = 30% find the void ratio, e",
+    "options": {
+      "a": "1.56",
+      "b": "2.56",
+      "c": "0.56",
+      "d": "5.61"
+    },
+    "answer": "a",
+    "explanation": "Numerical solution: Using formula $Se = wG$. Given $S = 0.5$, $G = 2.6$, $w = 0.3$. $0.5 \\times e = 0.3 \\times 2.6 \\implies 0.5e = 0.78 \\implies e = 0.78 / 0.5 = 1.56$."
+  },
+  {
+    "question_number": 46,
+    "question": "Which method is quickest to find the water content of soils",
+    "options": {
+      "a": "oven dry method",
+      "b": "alcohol method",
+      "c": "calcium carbide method",
+      "d": "sand bath method"
+    },
+    "answer": "c",
+    "explanation": "The calcium carbide method (speedy moisture meter) is a rapid, field-based test that gives the water content of soil within a few minutes."
+  },
+  {
+    "question_number": 47,
+    "question": "The water content of soils can be accurately determined by",
+    "options": {
+      "a": "calcium carbide",
+      "b": "sand bath",
+      "c": "alcohol method",
+      "d": "oven drying method"
+    },
+    "answer": "d",
+    "explanation": "The standard oven-drying method (drying at 105°C to 110°C for 24 hours) is the most accurate and standard laboratory method for determining soil water content."
+  },
+  {
+    "question_number": 48,
+    "question": "The effective size of particle of soil is given by",
+    "options": {
+      "a": "D10",
+      "b": "D20",
+      "c": "D30",
+      "d": "D60"
+    },
+    "answer": "a",
+    "explanation": "The effective size of a soil particle is denoted by $D_{10}$, meaning that 10% of the soil particles by weight are finer than this diameter."
+  },
+  {
+    "question_number": 49,
+    "question": "D10 of soil is the diameter in mm such that",
+    "options": {
+      "a": "10% of the soil is coarser than this value",
+      "b": "10% of the soil is finer than this value",
+      "c": "this value has no bearing on particle size distribution",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "$D_{10}$ represents the particle diameter corresponding to 10% finer on the particle size distribution curve."
+  },
+  {
+    "question_number": 50,
+    "question": "The minimum water content at which the soil just begins to crumble when rolled into threads 3 mm in diameter is known as",
+    "options": {
+      "a": "shrinkage limit",
+      "b": "plastic limit",
+      "c": "liquid limit",
+      "d": "consistency limit"
+    },
+    "answer": "b",
+    "explanation": "Plastic limit is defined as the minimum water content at which a soil can be rolled into a thread of 3 mm diameter without crumbling."
+  },
+  {
+    "question_number": 51,
+    "question": "The maximum water content at which a reduction in water content does not cause a decrease in volume of soil mass is known as",
+    "options": {
+      "a": "liquid limit",
+      "b": "plastic limit",
+      "c": "shrinkage limit",
+      "d": "ductile limit"
+    },
+    "answer": "c",
+    "explanation": "Shrinkage limit is the maximum water content below which further loss of moisture will not result in any reduction in the volume of the soil mass."
+  },
+  {
+    "question_number": 52,
+    "question": "Plasticity index is obtained as the difference between",
+    "options": {
+      "a": "liquid limit and shrinkage limit",
+      "b": "shrinkage limit and plastic limit",
+      "c": "liquid limit and plastic limit",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Plasticity index ($I_p$) is calculated as the numerical difference between the liquid limit ($W_L$) and the plastic limit ($W_P$): $I_p = W_L - W_P$."
+  },
+  {
+    "question_number": 53,
+    "question": "The ratio of plasticity index to percentage of clay finer than 2 micron, is known as",
+    "options": {
+      "a": "activity number",
+      "b": "flow index",
+      "c": "liquidity index",
+      "d": "toughness index"
+    },
+    "answer": "a",
+    "explanation": "Activity number (or soil activity) is defined as the ratio of plasticity index to the percentage by weight of clay-sized particles finer than 2 microns."
+  },
+  {
+    "question_number": 54,
+    "question": "The ratio of plasticity index to flow index is called",
+    "options": {
+      "a": "activity ratio",
+      "b": "liquidity index",
+      "c": "toughness index",
+      "d": "shrinkage index"
+    },
+    "answer": "c",
+    "explanation": "Toughness index is defined as the ratio of the plasticity index to the flow index obtained from the flow curve in liquid limit tests."
+  },
+  {
+    "question_number": 55,
+    "question": "In a soil if the water content is equal to the liquid limit, its relative consistency is",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "10",
+      "d": "5"
+    },
+    "answer": "b",
+    "explanation": "Relative consistency ($C_r$) is given by $(W_L - W_n) / I_p$. When the natural water content $W_n$ equals the liquid limit $W_L$, the relative consistency is equal to 0."
+  },
+  {
+    "question_number": 56,
+    "question": "The water content at which the soil changes from liquid state to plastic state is known as",
+    "options": {
+      "a": "plastic limit",
+      "b": "liquid limit",
+      "c": "shrinkage limit",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Liquid limit is the boundary water content marking the transition between the liquid state and the plastic state of a fine-grained soil."
+  },
+  {
+    "question_number": 57,
+    "question": "The difference between plastic limit and shrinkage limit is called",
+    "options": {
+      "a": "fluidity index",
+      "b": "relative consistency",
+      "c": "plasticity index",
+      "d": "shrinkage index"
+    },
+    "answer": "d",
+    "explanation": "Shrinkage index is defined numerically as the difference between the plastic limit and the shrinkage limit."
+  },
+  {
+    "question_number": 58,
+    "question": "The liquidity index of soil is given by",
+    "options": {
+      "a": "(Wn - Wp) / Ip",
+      "b": "(WL - Wn) / Ip",
+      "c": "WL - WP",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Liquidity index ($I_L$) is defined as the ratio of the difference between natural water content and plastic limit to the plasticity index: $I_L = (W_n - W_p) / I_p$."
+  },
+  {
+    "question_number": 59,
+    "question": "Which of the following does not happen when compaction is occurs?",
+    "options": {
+      "a": "Permeability decreases",
+      "b": "Water content increases",
+      "c": "Shear strength decreases",
+      "d": "Compressibility decreases"
+    },
+    "answer": "c",
+    "explanation": "During compaction, air voids are expelled, which increases shear strength and decreases permeability and compressibility. Therefore, shear strength does *not* decrease; it increases."
+  },
+  {
+    "question_number": 60,
+    "question": "The earth shakes when occurs.",
+    "options": {
+      "a": "Tsunami",
+      "b": "Flood",
+      "c": "Earthquake",
+      "d": "Drought"
+    },
+    "answer": "c",
+    "explanation": "An earthquake is a natural phenomenon characterized by the sudden shaking of the ground caused by seismic waves passing through earth's rocks."
+  },
+  {
+    "question_number": 61,
+    "question": "Who is the father of Geotechnical Engineering?",
+    "options": {
+      "a": "Christian Otto Mohr",
+      "b": "Clausius Cleyperon",
+      "c": "John Smith",
+      "d": "Karl Von Terzaghi"
+    },
+    "answer": "d",
+    "explanation": "Karl Von Terzaghi is globally acclaimed as the father of geotechnical engineering for his pioneering contributions and founding work in soil mechanics."
+  },
+  {
+    "question_number": 62,
+    "question": "Who is the father of Geotechnical Engineering?",
+    "options": {
+      "a": "Christian Otto Mohr",
+      "b": "Clausius Cleyperon",
+      "c": "John Smith",
+      "d": "Karl Von Terzaghi"
+    },
+    "answer": "d",
+    "explanation": "This is a repeated question in the source text; Karl Von Terzaghi is universally acknowledged as the father of geotechnical engineering."
+  },
+  {
+    "question_number": 63,
+    "question": "In Geotechnical Engineering, soil is considered as a phase material.",
+    "options": {
+      "a": "3",
+      "b": "2",
+      "c": "1",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "In general engineering practice, soil is treated as a three-phase material system comprised of solid particles, water, and air."
+  }
+]

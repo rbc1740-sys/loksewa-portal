@@ -1,0 +1,702 @@
+[
+  {
+    "question": "सरकारी कागजात धुल्याउने नियमहरु, २०२७ अनुसार काम तामेल भएको १० वर्ष पछि धुल्याउन मिल्ने कागजातहरुमा तलका मध्ये कुन पर्दैन ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "मित्र राष्ट्रका प्रतिनिधिहरुको भ्रमण सम्बन्धी कागजात",
+      "b": "हाजिरी विदाको रिकर्ड राखी कर्मचारीको हाजिरी फारम",
+      "c": "कर्मचारीको दरबन्दी आदेश",
+      "d": "वार्षिक प्रतिवेदन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3330",
+    "chapter": ""
+  },
+  {
+    "question": "कुनै नयाँ सरकारी कार्यालयमा नयाँदरबन्दी सिर्जना गर्दा कसको सहमति लिई सामान्य प्रशासन मन्त्रालयमा पठाउनुपर्नेछ ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "अर्थ मन्त्रालय",
+      "c": "मुख्य सचिव",
+      "d": "कानुन, न्याय तथा संसदीय मामिला मन्त्रालय"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3331",
+    "chapter": ""
+  },
+  {
+    "question": "स्थानीय विकास मन्त्रालयको स्थापना कहिले भएको हो ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "वि.सं. २०२८",
+      "b": "वि.सं. २०३७",
+      "c": "वि.सं. २०६२",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3332",
+    "chapter": ""
+  },
+  {
+    "question": "लोकसेवा आयोग को प्रावधान नेपालको संविधान (२०७२) को कुन धारामा गरिएको छ ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "२०",
+      "b": "२१",
+      "c": "२२",
+      "d": "२३"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3333",
+    "chapter": ""
+  },
+  {
+    "question": "बेलायतमा सार्वजनिक सेवा वडापत्र पून: लागू गर्दा कति वटा सिद्धान्तहरु थिए ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "७",
+      "b": "८",
+      "c": "९",
+      "d": "१०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3334",
+    "chapter": ""
+  },
+  {
+    "question": "Who gave expectancy theory ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "Skinner",
+      "b": "Gregor",
+      "c": "Victor's Vroom",
+      "d": "Adams Cousier"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3335",
+    "chapter": ""
+  },
+  {
+    "question": "सत्य, परोपकार,अहिंसा, क्षमा, भलाई जस्ता मूल्यमान्यता कस्तो मूल्यमान्यता हुन् ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "राष्ट्रिय मूल्य मान्यता",
+      "b": "नैतिक मूल्य मान्यता",
+      "c": "पारिवारिक मूल्य मान्यता",
+      "d": "आध्यात्मिक मूल्य मान्यता"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3336",
+    "chapter": ""
+  },
+  {
+    "question": "चिनलाई नछुने जिल्ला कति वटा छन् ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "१३",
+      "b": "१५",
+      "c": "६२",
+      "d": "६५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3337",
+    "chapter": ""
+  },
+  {
+    "question": "सोम वंशको प्रथम राजा को हुन् ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "निमिश",
+      "b": "भाष्कर",
+      "c": "निमि",
+      "d": "पुष्प"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3338",
+    "chapter": ""
+  },
+  {
+    "question": "नेपाल बैङ्क लिमिटेडको स्थापना कहिले भएको हो",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "वि.सं १९९३ - ७- ३०",
+      "b": "वि.सं १९९४ - ६- ३०",
+      "c": "वि.सं १९९४ - ७- ३०",
+      "d": "वि.सं १९९३ - ६ - ३०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3339",
+    "chapter": ""
+  },
+  {
+    "question": "वातावरण सम्बन्धी पहिलाे अन्तराष्ट्रिय सम्मेलन कहाँ भएको थियो ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "Berlin",
+      "b": "Rome",
+      "c": "Stockholm",
+      "d": "Paris"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3340",
+    "chapter": ""
+  },
+  {
+    "question": "ATM को पूरा रुप के हो ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "Automated Teller Machine",
+      "b": "Automatic Transaction Machine",
+      "c": "Advanced Teller Management",
+      "d": "Automated Transaction Module"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3341",
+    "chapter": ""
+  },
+  {
+    "question": "वंशाणु विज्ञानका पिता भनेर कस्लाई चिनिन्छ ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "चार्ल्स डार्विन",
+      "b": "लेमार्क",
+      "c": "ह्यूगो डे व्रीस",
+      "d": "ग्रेगर मेन्डेल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3342",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको झण्डामा सूर्यमा कति वटा बराबरका कोणहरु हुन्छन् ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "८",
+      "b": "१०",
+      "c": "१२",
+      "d": "१६"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3343",
+    "chapter": ""
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय दूरसंचार संघ (ITU) को मुख्यालय कुन शहरमा अवस्थित छ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "रोम, इटाली",
+      "b": "जेनेभा, स्विट्जरल्याण्ड",
+      "c": "म्याड्रिड, स्पेन",
+      "d": "बर्लिन, जर्मनी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3344",
+    "chapter": ""
+  },
+  {
+    "question": "सार्क वर्षको घोषणा कहिले बाट भएको हो ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "सन् १९७९",
+      "b": "सन् १९८९",
+      "c": "सन् १९९९",
+      "d": "सन २०००"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3345",
+    "chapter": ""
+  },
+  {
+    "question": "मिस्टर नेपाल २०२४ को उपाधि पाउने व्यक्ति को हुन् ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "सन्तोष लोक्सम",
+      "b": "बिक्लप श्रेष्ठ",
+      "c": "सन्तोष राना",
+      "d": "नेल्सन श्रेष्ठ"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3346",
+    "chapter": ""
+  },
+  {
+    "question": "The difference between the most probable value of a quantity and its observed value is",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "conditional error",
+      "b": "true error",
+      "c": "safe error",
+      "d": "residual error"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3347",
+    "chapter": ""
+  },
+  {
+    "question": "The direct angles may have any value between",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "00 and 900",
+      "b": "00 and 1200",
+      "c": "00 and 1800",
+      "d": "00 and 3600"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3348",
+    "chapter": ""
+  },
+  {
+    "question": "Find the length of the curve if the radius of the curve is 60 m and the angle of deflection is 60°",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "60 m",
+      "b": "63 m",
+      "c": "10 m",
+      "d": "47 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3349",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is a mineral?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "quartzite",
+      "b": "laterite",
+      "c": "calcareous rock",
+      "d": "calcite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3350",
+    "chapter": ""
+  },
+  {
+    "question": "Geologically, marble is known is",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "Sedimentary rock",
+      "b": "metamorphic rock",
+      "c": "igneous rock",
+      "d": "stratified rock"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3351",
+    "chapter": ""
+  },
+  {
+    "question": "Hollow bricks are used for",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "ornamental designs",
+      "b": "thermal insulation",
+      "c": "reduction in cost",
+      "d": "earthquake-resistant buildings"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3352",
+    "chapter": ""
+  },
+  {
+    "question": "Short column taking maximum load having an equal section",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "sal",
+      "b": "pce",
+      "c": "chir",
+      "d": "pine"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3353",
+    "chapter": ""
+  },
+  {
+    "question": "The column under eccentric loading is under",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "one stresses",
+      "b": "two stresses",
+      "c": "three stresses",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3354",
+    "chapter": ""
+  },
+  {
+    "question": "A three-hinged arch is said to be :",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "statically determinate structure",
+      "b": "statically indeterminate structure",
+      "c": "a bent beam",
+      "d": "none of these."
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3355",
+    "chapter": ""
+  },
+  {
+    "question": "1 m head is equivalent to",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "0.1 kg/cm²",
+      "b": "0.2 kg/cm²",
+      "c": "0.3 kg/cm²",
+      "d": "0.4 kg/cm²"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3356",
+    "chapter": ""
+  },
+  {
+    "question": "A steady uniform flow is through a",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "long pipe at a decreasing rate",
+      "b": "long pipe at a constant rate",
+      "c": "long pipe at an increasing rate",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3357",
+    "chapter": ""
+  },
+  {
+    "question": "To measure very low pressure, we use",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "barometers",
+      "b": "piezometers",
+      "c": "monometers",
+      "d": "differential manometers"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3358",
+    "chapter": ""
+  },
+  {
+    "question": "The specific gravity of soil is",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "same for clays and sands",
+      "b": "determined by hydrometer",
+      "c": "less than 2.0 for most soils",
+      "d": "more than 2.5 for most soils"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3359",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following tests is used to determine the shear strength of cohesive soils?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "Liquid Limit Test",
+      "b": "Triaxial Shear Test",
+      "c": "Permeability Test",
+      "d": "Proctor Test"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3360",
+    "chapter": ""
+  },
+  {
+    "question": "A doubly reinforced beam is economical as compared to a singly reinforced beam because",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "the size of the section is small",
+      "b": "the depth of the section is small",
+      "c": "compressive steel is under stress",
+      "d": "concrete is not stressed to its maximum value"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3361",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum thickness of the cover at the end of a reinforcing bar should be twice the diameter of the bar subjected to a minimum of",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "10mm",
+      "b": "12mm",
+      "c": "15mm",
+      "d": "25mm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3362",
+    "chapter": ""
+  },
+  {
+    "question": "As per ICAO , The minimum width of safety area for instrumental runway is should be",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "78 m",
+      "b": "150 m",
+      "c": "300 m",
+      "d": "600 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3363",
+    "chapter": ""
+  },
+  {
+    "question": "The landing and takeoff of an aircraft are made against the direction of the wind) In no case, the centerline of the runway should make an angle with the wind direction exceeding",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "10°",
+      "b": "20°",
+      "c": "30°",
+      "d": "40°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3364",
+    "chapter": ""
+  },
+  {
+    "question": "In Sealed quotation, the successful bidder should deliver the performance security within _____ days of receipt of letter of acceptance.",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "10",
+      "d": "15"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3365",
+    "chapter": ""
+  },
+  {
+    "question": "The authority to conduct the monitoring of public procurement in Nepal lies with ______ .",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "National Vigilance Center",
+      "b": "PPMO",
+      "c": "NEA",
+      "d": "Office of auditorial general"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3366",
+    "chapter": ""
+  },
+  {
+    "question": "The type of bond provided in brick masonry for carrying heavy loads",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "English bond",
+      "b": "Double Flemish bond",
+      "c": "Flemish bond",
+      "d": "Garden wall bond"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3367",
+    "chapter": ""
+  },
+  {
+    "question": "The vertical joints separating the bricks in either length or cross direction is known as the _________",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "Perpends",
+      "b": "Closer",
+      "c": "Bed",
+      "d": "Arises"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3368",
+    "chapter": ""
+  },
+  {
+    "question": "Infiltration gallery is a",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "horizontal well",
+      "b": "vertical well",
+      "c": "inclined well",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3369",
+    "chapter": ""
+  },
+  {
+    "question": "A perched aquifer generally occurs",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "in aquiclude",
+      "b": "in artesian aquifer",
+      "c": "above the water table",
+      "d": "below the water table"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3370",
+    "chapter": ""
+  },
+  {
+    "question": "The types of irrigation applicable if there is a scarcity of water with high-pressure",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "drip irrigation",
+      "b": "trickle irrigation",
+      "c": "both (a) and (b) of above",
+      "d": "sprinkler irrigation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3371",
+    "chapter": ""
+  },
+  {
+    "question": "When the discharge of the well decreases by the design amount, then this type of well is called",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "damage well",
+      "b": "rough well",
+      "c": "less capacity well",
+      "d": "sick well"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3372",
+    "chapter": ""
+  },
+  {
+    "question": "An ideal transition curve is the one whose length is",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "constant",
+      "b": "directly proportional to the radius",
+      "c": "inversely proportional to the radius",
+      "d": "inversely proportional to the radius of the main curve"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3373",
+    "chapter": ""
+  },
+  {
+    "question": "Bituminous road is",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "fair weather road",
+      "b": "all-weather road",
+      "c": "rigid pavement",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3374",
+    "chapter": ""
+  },
+  {
+    "question": "The estimate which is assumed to be least accurate is",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "plinth area estimate",
+      "b": "supplementary estimate",
+      "c": "detailed estimate",
+      "d": "revised estimate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3375",
+    "chapter": ""
+  },
+  {
+    "question": "In the detailed estimate the volumes are worked out to the nearest",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "0.1 cu.m",
+      "b": "0.01 cu.m",
+      "c": "0.001 cu.m",
+      "d": "0.005 cu.m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3376",
+    "chapter": ""
+  },
+  {
+    "question": "घर विदा कति दिन सञ्चित गर्न पाइन्छ ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "१८० दिन",
+      "b": "३६५ दिन",
+      "c": "जति पनि सञ्चित गर्न सकिन्छ",
+      "d": "सञ्चित गर्न मिल्दैन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3377",
+    "chapter": ""
+  },
+  {
+    "question": "सेवा प्रवाह र सम्पर्क विन्दुमा प्रत्यक्ष भूमिकामा रहने कर्मचारी को हुन्",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "सहायक कर्मचारी",
+      "b": "कार्यालय सहयोगी",
+      "c": "शाखा अधिकृत",
+      "d": "कार्यालय प्रमुख"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3378",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको पहिलो निजामती सेवा ऐन कहिले आएको हो ?",
+    "topic": "संघ (sub engineer) - XXII",
+    "options": {
+      "a": "२०१५ साल",
+      "b": "२०१३ साल",
+      "c": "२०२१ साल",
+      "d": "२०४९ साल"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3379",
+    "chapter": ""
+  }
+]

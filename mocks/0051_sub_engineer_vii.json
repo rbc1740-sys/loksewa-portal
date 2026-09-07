@@ -1,0 +1,702 @@
+[
+  {
+    "question": "सहायक कर्मचारीमा हुनु पर्ने गुणहरु तलका मध्ये कुन होइन ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "विनम्र",
+      "b": "अनुशासन",
+      "c": "अविश्वास",
+      "d": "संयम"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1810",
+    "chapter": ""
+  },
+  {
+    "question": "पिछडिएको क्षेत्रलाई कति प्रतिशत कोटा छुटाइएको हुन्छ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "९",
+      "b": "५",
+      "c": "४",
+      "d": "०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1811",
+    "chapter": ""
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1812",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा राष्ट्रिय मानव अधिकार आयोग कहिले गठन भएको थियो ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "सन् १९७५",
+      "b": "सन् २०००",
+      "c": "सन् २०१०",
+      "d": "सन् २००५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1813",
+    "chapter": ""
+  },
+  {
+    "question": "जिल्ला स्थित क्षतिपूर्ति निर्धारण समितिको अध्यक्ष को हुन्छ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "सम्बन्धित कार्यालय प्रमुख",
+      "b": "प्रमुख जिल्ला अधिकारी",
+      "c": "कोष तथा लेखा नियन्त्रण",
+      "d": "जिल्ला समन्वय अधिकारी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1814",
+    "chapter": ""
+  },
+  {
+    "question": "How many stages are there in Maslow's hierarchy of need ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1815",
+    "chapter": ""
+  },
+  {
+    "question": "एक व्यक्तिले अर्को व्यक्तिलाई गर्ने असल व्यवहार र आचरणलाई के भनिन्छ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "मानवीय मूल्य र मान्यता",
+      "b": "नागरिकको दायित्व",
+      "c": "नागरिकको कर्तव्य",
+      "d": "नागरिकको सोच"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1816",
+    "chapter": ""
+  },
+  {
+    "question": "गुफा पोखरी कुन जिल्लामा पर्दछ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "भोजपुर",
+      "b": "मुस्ताङ",
+      "c": "सङ्खुवासभा",
+      "d": "अछाम"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1817",
+    "chapter": ""
+  },
+  {
+    "question": "बालकको सालनाल काट्ने चलन कसले चलाए?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "जयप्रकाश मल्ल",
+      "b": "पृथ्वीनारायण शाह",
+      "c": "अंशूवर्मा",
+      "d": "प्रचण्डदेव"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1818",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा कर दिवस कहिले मनाइन्छ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "असोज १",
+      "b": "मंसिर १",
+      "c": "जेठ ९",
+      "d": "बैशाख १५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1819",
+    "chapter": ""
+  },
+  {
+    "question": "सबैलाई समावेशी, समतामूलक गुणस्तरीय शिक्षा ‍दिग‍ो विकासको कुन लक्ष्यसँग सम्बन्धित छ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "लक्ष्य ३",
+      "b": "लक्ष्य ४",
+      "c": "लक्ष्य ७",
+      "d": "लक्ष्य ८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1820",
+    "chapter": ""
+  },
+  {
+    "question": "सूर्यलाई हेर्न सकिने यन्त्र कुन हो ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "टेलिस्कोप",
+      "b": "हेलिस्कोप",
+      "c": "थि‌ओडोलाइट",
+      "d": "पेरिस्कोप"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1821",
+    "chapter": ""
+  },
+  {
+    "question": "रेबिज कुन भाइरसका कारणले लाग्दछ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Rhabdovirus",
+      "b": "Lyssavirus",
+      "c": "Orthomyxovirus",
+      "d": "Coronaviridae"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1822",
+    "chapter": ""
+  },
+  {
+    "question": "संघ, प्रदेश र स्थानीय तहको अधिकारको साझा सूची कति वटा छन् ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "२५",
+      "b": "३५",
+      "c": "२१",
+      "d": "१५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1823",
+    "chapter": ""
+  },
+  {
+    "question": "UNO को प्रथम उपमहासचीव को हुन् ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Amina J. Mohammed",
+      "b": "Louise Frechette",
+      "c": "Jan Eliasson",
+      "d": "Mark Malloch Brown"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1824",
+    "chapter": ""
+  },
+  {
+    "question": "युरोपेली संघलाई नोबेल शान्ति पुरस्कार कुन वर्ष प्रदान गरिएको थियो ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "२०१६",
+      "b": "२०१२",
+      "c": "२००४",
+      "d": "२००८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1825",
+    "chapter": ""
+  },
+  {
+    "question": "राष्ट्रिय बिमा नीति कहिलेदेखि कार्यान्वयनमा आएको छ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "विसं २०८० फागुन",
+      "b": "विसं २०७९ फागुन",
+      "c": "विसं २०८० माघ",
+      "d": "विसं २०७९ माघ"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1826",
+    "chapter": ""
+  },
+  {
+    "question": "The expansion joints are provided if the length of the concrete exceeds",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "20m",
+      "b": "45m",
+      "c": "60m",
+      "d": "75m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1827",
+    "chapter": ""
+  },
+  {
+    "question": "Most important step toward damp proofing of a wall is to find out:",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Reason of dampness",
+      "b": "Appropriate damp-proofing material",
+      "c": "Degree of dampness",
+      "d": "Possibility of damages"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1828",
+    "chapter": ""
+  },
+  {
+    "question": "A flat slab is supported:",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "On beams",
+      "b": "On columns",
+      "c": "On beams and columns",
+      "d": "On column monolithically built with a slab"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1829",
+    "chapter": ""
+  },
+  {
+    "question": "If a beam is loaded transversely, the maximum compressive stress develops on:",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Top fibre",
+      "b": "Bottom fibre",
+      "c": "Neutral axis",
+      "d": "Every cross-section"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1830",
+    "chapter": ""
+  },
+  {
+    "question": "Highest safe bearing capacity of soil is",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Compact gravel or sand and gravel",
+      "b": "Compact and dry medium sand",
+      "c": "Dry and loose gravel",
+      "d": "Fine dry sand"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1831",
+    "chapter": ""
+  },
+  {
+    "question": "Moisture content of saturated soil is equal to",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "90%",
+      "b": "0%",
+      "c": "100%",
+      "d": "50%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1832",
+    "chapter": ""
+  },
+  {
+    "question": "The losses are more in",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Laminar flow",
+      "b": "Transition flow",
+      "c": "Turbulent flow",
+      "d": "Critical flow"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1833",
+    "chapter": ""
+  },
+  {
+    "question": "The hydraulic mean depth for a circular pipe of diameter, d flowing full is",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "d",
+      "b": "d/2",
+      "c": "d/4",
+      "d": "d/6"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1834",
+    "chapter": ""
+  },
+  {
+    "question": "The most efficient channel section is",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "semi-circular",
+      "b": "rectangular",
+      "c": "triangular",
+      "d": "half hexagonal in the form of trapezoid"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1835",
+    "chapter": ""
+  },
+  {
+    "question": "As the coefficient of friction increases, the velocity of water in a canal",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains constant",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1836",
+    "chapter": ""
+  },
+  {
+    "question": "An artesian spring is formed:",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "When an aquifers gets exposed in a valley against a vertical cut",
+      "b": "Due to continuous fault in a rock through water under pressure comes out",
+      "c": "When a porous strata gets enclosed between two impervious strata",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1837",
+    "chapter": ""
+  },
+  {
+    "question": "Right of way of National highway of Nepal is",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "50 m",
+      "b": "60 m",
+      "c": "66 m",
+      "d": "30 m"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1838",
+    "chapter": ""
+  },
+  {
+    "question": "The stopping sight distance (SSD) depends upon",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "total reaction of drive",
+      "b": "speed of vehicle",
+      "c": "efficiency of brakes",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1839",
+    "chapter": ""
+  },
+  {
+    "question": "For a population growth higher than 2% per year, design period of a water supply scheme normally taken is:",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "10 years",
+      "b": "15 years",
+      "c": "20 years",
+      "d": "25 years"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1840",
+    "chapter": ""
+  },
+  {
+    "question": "When it is not specified the number of holdfasts for a door is usually taken as",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1841",
+    "chapter": ""
+  },
+  {
+    "question": "The weight of a 10 mm diameter mild steel rod per meter length is equal to",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "0.22 kg",
+      "b": "0.32 kg",
+      "c": "0.42 kg",
+      "d": "0.62 kg"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1842",
+    "chapter": ""
+  },
+  {
+    "question": "Military organization is known as",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "line organization",
+      "b": "line and staff organization",
+      "c": "functional organization",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1843",
+    "chapter": ""
+  },
+  {
+    "question": "Price variation contingencies according to PPR 064 is",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "3-5%",
+      "b": "8%",
+      "c": "5%",
+      "d": "10%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1844",
+    "chapter": ""
+  },
+  {
+    "question": "Aprons are serviced as:",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "main runway",
+      "b": "to connect the terminal building with a paved runway",
+      "c": "cargo loading and unloading",
+      "d": "aircraft parking only"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1845",
+    "chapter": ""
+  },
+  {
+    "question": "The height of the pilot's eye above the runway surface is assumed",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "1 m",
+      "b": "3 m",
+      "c": "4 m",
+      "d": "5 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1846",
+    "chapter": ""
+  },
+  {
+    "question": "The horizontal angle between the true meridian and magnetic meridian is known as ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "True bearing",
+      "b": "Dip",
+      "c": "Local attraction",
+      "d": "Magnetic declination"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1847",
+    "chapter": ""
+  },
+  {
+    "question": "An arbitrary surface with reference to which the elevation of points are measured and compared, is called ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "datum surface",
+      "b": "level surface",
+      "c": "horizontal surface",
+      "d": "vertical surface"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1848",
+    "chapter": ""
+  },
+  {
+    "question": "The tacheometric method of contouring is particularly suitable ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "when the area is not very extensive",
+      "b": "in surveys of roads or railways",
+      "c": "when a contoured map of hill is required",
+      "d": "all of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1849",
+    "chapter": ""
+  },
+  {
+    "question": "The stone is said to be high if the toughness index of the stone in the impact test is:",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Less than 9",
+      "b": "More than 9",
+      "c": "Less than 19",
+      "d": "More than 19"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1850",
+    "chapter": ""
+  },
+  {
+    "question": "The presence of sand in brick earth prevents:",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Cracking of brick",
+      "b": "Shrinkage of brick",
+      "c": "Warping of brick",
+      "d": "All of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1851",
+    "chapter": ""
+  },
+  {
+    "question": "On which type of surface, lacquer paints are applied?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "Wooden structural members",
+      "b": "Structural steels",
+      "c": "Metal surfaces",
+      "d": "Brick and stone walls"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1852",
+    "chapter": ""
+  },
+  {
+    "question": "Surface tension has the units of",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "force per unit area",
+      "b": "force per unit length",
+      "c": "force per unit volume",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1853",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum bending moment caused on a simply supported beam subjected to two equal concentrated loads (W/2) spaced at equal distances (L/3) over the span is",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "WL/8",
+      "b": "WL/6",
+      "c": "WL/4",
+      "d": "WL/2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1854",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum deflection of a beam occurs at",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "zero shear force location",
+      "b": "zero slope location",
+      "c": "zero bending moment location",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1855",
+    "chapter": ""
+  },
+  {
+    "question": "For a column, both fixed, the crippling load will be equal to",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "2P",
+      "b": "4P",
+      "c": "P/8",
+      "d": "P/16"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1856",
+    "chapter": ""
+  },
+  {
+    "question": "राष्ट्रिय मानव अधिकार आयोगको प्रावधान नेपालको कुन संविधानले गरेको थियो ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "२०७२ सालको संविधान",
+      "b": "२०६३ सालको संविधान",
+      "c": "२०४७ सालको संविधान",
+      "d": "२०१९ सालको संविधान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1857",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा बजेटलाई साधारण र विकास गरी दुई भागमा कहिलेबाट विभाजन गरिएको हो ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "आ.व. २०१२/१३",
+      "b": "आ .व. २०१३/१४",
+      "c": "आ.व. २०१४/१५",
+      "d": "आ.व. २०१५/१६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1858",
+    "chapter": ""
+  },
+  {
+    "question": "एक मन्त्रालय वा अन्तर्गतको विभाग वा कार्यालयको निजामती कर्मचारीलाई अर्को मन्त्रालय र अन्तर्गतको विभाग वा कार्यालयमा सरुवा गर्ने अधिकार कसको हुन्छ ?",
+    "topic": "संघ (sub engineer) - VII",
+    "options": {
+      "a": "महालेखा नियन्त्रकको कार्यालय",
+      "b": "सङ्‍घीय मामिला तथा सामान्य प्रशासन मन्त्रालय",
+      "c": "नेपाल सरकार",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1859",
+    "chapter": ""
+  }
+]

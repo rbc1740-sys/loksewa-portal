@@ -1,0 +1,702 @@
+[
+  {
+    "question": "“ नागरिकता, राहादानी, भिसा, अध्यागमन ” सम्बन्धी अधिकार कुसको अधिकार सूचिमा पर्दछ ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "संघ",
+      "b": "प्रदेश",
+      "c": "स्थानिय",
+      "d": "संघ र प्रदेशको साझा अधिकार सूचि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1860",
+    "chapter": ""
+  },
+  {
+    "question": "जनस्वास्थ्य सम्बन्धी कानून बनाउने पहिलो देश कुन हो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "इटाली",
+      "b": "जपान",
+      "c": "बेलायत",
+      "d": "फ्रान्स"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1861",
+    "chapter": ""
+  },
+  {
+    "question": "खुर्सानी कुन तत्वका कारण पिरो हुन्छ ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "ऑक्सीजन",
+      "b": "क्याप्साइसिन",
+      "c": "क्लोरोफिल",
+      "d": "ऑक्सिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1862",
+    "chapter": ""
+  },
+  {
+    "question": "नेपाल कहिले रामसार कन्भेन्सन मा सामेल भयो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "सन् १९८३",
+      "b": "सन् १९८५",
+      "c": "सन् १९८७",
+      "d": "सन् १९९२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1863",
+    "chapter": ""
+  },
+  {
+    "question": "राष्ट्रिय विकास परिषद्‌को अध्यक्ष को हुने व्यवस्था छ ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "अर्थमन्त्री",
+      "c": "नेपाल राष्ट्र बैंकका गभर्नर",
+      "d": "राष्ट्रिय योजना आयोगको उपाध्यक्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1864",
+    "chapter": ""
+  },
+  {
+    "question": "सिंहदरबारको निर्माण कसले गरेका हुन?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "जङ्गबहादुर राणा",
+      "b": "जुद्ध शमशेर",
+      "c": "चन्द्र शमशेर",
+      "d": "पद्मशमशेर"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1865",
+    "chapter": ""
+  },
+  {
+    "question": "रुक्चे ताल कुन जिल्लामा पर्दछ ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "पर्वत",
+      "b": "सुर्खेत",
+      "c": "उदयपुर",
+      "d": "गोरखा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1866",
+    "chapter": ""
+  },
+  {
+    "question": "The types of survey used to fix property lines is",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "topographical",
+      "b": "cadastral",
+      "c": "city",
+      "d": "astronomical"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1867",
+    "chapter": ""
+  },
+  {
+    "question": "The absence of chromatic aberration in a telescope is known as",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "achromation",
+      "b": "crimination",
+      "c": "aplanation",
+      "d": "definition"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1868",
+    "chapter": ""
+  },
+  {
+    "question": "The deflection angle may have any value between",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "00 and 450",
+      "b": "00 and 900",
+      "c": "00 and 1200",
+      "d": "00 and 1800"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1869",
+    "chapter": ""
+  },
+  {
+    "question": "Most weather-resisting metamorphic rock is",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "limestone",
+      "b": "slate",
+      "c": "marble",
+      "d": "quartzite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1870",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum required water cement ratio for a workable concrete, is",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "0.30",
+      "b": "0.40",
+      "c": "0.50",
+      "d": "0.60"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1871",
+    "chapter": ""
+  },
+  {
+    "question": "The cement becomes unsound by the presence of excess",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "sulphur",
+      "b": "magnesia",
+      "c": "lime",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1872",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum stress used in the analysis of bending beyond elastic limit is :",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "Ultimate stress",
+      "b": "Allowable stress",
+      "c": "Yield stress",
+      "d": "None of above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1873",
+    "chapter": ""
+  },
+  {
+    "question": "The moment of inertia of a rectangular lamina of sides b and d about its centroidal axis parallel to the side d is given by -",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "bd^3/12",
+      "b": "db^3/12",
+      "c": "bd^3/36",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1874",
+    "chapter": ""
+  },
+  {
+    "question": "The units of moment of inertia of mass are -",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "m^4",
+      "b": "Kg m^2",
+      "c": "Kg/m^2",
+      "d": "Kg/m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1875",
+    "chapter": ""
+  },
+  {
+    "question": "The property of fluid which offers tensile resistance at its surface is called:",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "Viscosity",
+      "b": "Surface tension",
+      "c": "Adhesion",
+      "d": "Capillary action"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1876",
+    "chapter": ""
+  },
+  {
+    "question": "The pressure in pipe flow is normally:",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "Less than atmospheric pressure",
+      "b": "Equal to atmospheric pressure",
+      "c": "More than atmospheric pressure",
+      "d": "None of above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1877",
+    "chapter": ""
+  },
+  {
+    "question": "Head loss increases with :",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "Increase in velocity",
+      "b": "Increase in length of pipe",
+      "c": "Increase in friction factor",
+      "d": "All of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1878",
+    "chapter": ""
+  },
+  {
+    "question": "माथिबाट तल जाने संचारमा तलका मध्ये कुन पर्दैन ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "आदेश",
+      "b": "निर्णय",
+      "c": "गुनासो",
+      "d": "निर्देशन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1879",
+    "chapter": ""
+  },
+  {
+    "question": "राजपत्रको प्रकाशन कहिलेदेखि सुरु भएको हो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "२००७ श्रावण २३ गते",
+      "b": "२००७ श्रावण २२ गते",
+      "c": "२००८ श्रावण २३ गते",
+      "d": "२००८ श्रावण २२ गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1880",
+    "chapter": ""
+  },
+  {
+    "question": "कुनै नयाँ सरकारी कार्यालयमा नयाँदरबन्दी सिर्जना गर्दा कसको सहमति लिई सामान्य प्रशासन मन्त्रालयमा पठाउनुपर्नेछ ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "अर्थ मन्त्रालय",
+      "c": "मुख्य सचिव",
+      "d": "कानुन, न्याय तथा संसदीय मामिला मन्त्रालय"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1881",
+    "chapter": ""
+  },
+  {
+    "question": "स्नाकोत्तर शैक्षिक योग्यता चाहिने एकमात्र संवैधानिक आयोग कुन हो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "लोकसेवा आयोग",
+      "b": "निर्वाचन आयोग",
+      "c": "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+      "d": "राष्ट्रिय मानवअधिकार आयोग"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1882",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको पहिलो बजेटमा कति खर्च अनुमान गरिएको थियो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "५,२५,२१,०००",
+      "b": "५,२१,२५,०००",
+      "c": "३,०५,१५,०००",
+      "d": "३,१५,०५,०००"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1883",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा घुम्ती सेवाको सुरुवात कहिले देखि भएको हो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "वि.सं. २०५९",
+      "b": "वि.सं. २०६०",
+      "c": "वि.सं. २०६१",
+      "d": "वि.सं. २०६२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1884",
+    "chapter": ""
+  },
+  {
+    "question": "सामान्य अवस्थामा सूचना माग गरेको निवेदन पछि कति दिनभित्रमा सूचना उपलब्ध गराइसक्नुपर्छ ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "५ दिन",
+      "b": "७ दिन",
+      "c": "१५ दिन",
+      "d": "२५ दिन"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1885",
+    "chapter": ""
+  },
+  {
+    "question": "अडियो प्रविधिमा आधारित नागरिक वडापत्र राख्न सुरु गर्ने कार्यालय कुन हो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "वैदेशिक रोजगार विभाग",
+      "b": "खाद्य प्रविधि तथा गुण नियन्त्रण",
+      "c": "यातायात व्यवस्था विभाग",
+      "d": "जिल्ला प्रशासन कार्यालय, तेह्रथुम"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1886",
+    "chapter": ""
+  },
+  {
+    "question": "ERG theory was propounded by :",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "Alderfer",
+      "b": "Vroom",
+      "c": "Herzberg",
+      "d": "Heisenberg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1887",
+    "chapter": ""
+  },
+  {
+    "question": "मानवीय मूल्य र मान्यतामा देहायको कुन कुरा पर्दछन् ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "अरुलाई सम्मान गर्ने",
+      "b": "असल व्यवहार र आचरण",
+      "c": "निस्वार्थ सहयोग",
+      "d": "माथीको सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1888",
+    "chapter": ""
+  },
+  {
+    "question": "In hydrometer analysis, the principle used is",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "Newton's law",
+      "b": "Darcy's law",
+      "c": "Stoke's law",
+      "d": "Rehbann's law"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1889",
+    "chapter": ""
+  },
+  {
+    "question": "A foundation may be classified as strip foundation if",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "length is very large",
+      "b": "length is very large compared with uniform width",
+      "c": "load is applied at long intervals",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1890",
+    "chapter": ""
+  },
+  {
+    "question": "The ultimate tensile strength of structural mild steel is about",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "160 N/mm2",
+      "c": "520 N/mm2",
+      "b": "260 N/mm2",
+      "d": "420 N/mm2"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1891",
+    "chapter": ""
+  },
+  {
+    "question": "The approximate allowable stress in axial compression in RCC is",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "0.25fck",
+      "b": "0.33fck",
+      "c": "0.44 fck",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1892",
+    "chapter": ""
+  },
+  {
+    "question": "Specification gives ______ information.",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "types of workmanship",
+      "b": "nature of works",
+      "c": "quality of materials",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1893",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement for asphalt concrete work in a road construction project is",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "cubic metre",
+      "b": "square metre",
+      "c": "running metre",
+      "d": "lump sum"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1894",
+    "chapter": ""
+  },
+  {
+    "question": "The gases given out of a septik tank are ______ .",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "CO₂+SO₂+N",
+      "b": "CO₂+PH,+NH",
+      "c": "CO,+CH4,+H₂S",
+      "d": "CH4+ O₂+H₂"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1895",
+    "chapter": ""
+  },
+  {
+    "question": "A sanitary sewer is expected to run _____ .",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "Full",
+      "b": "Half full",
+      "c": "2/3 full",
+      "d": "90% full"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1896",
+    "chapter": ""
+  },
+  {
+    "question": "The contractor shall submit an application to the employer for an extension of time stating the cause for delay___________ days before the expiry of the contract completion date",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "7",
+      "b": "14",
+      "c": "21",
+      "d": "28"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1897",
+    "chapter": ""
+  },
+  {
+    "question": "The percentage of retention money is equal to _____ % of each payment made to the contractor.",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "2.5",
+      "b": "5",
+      "c": "10",
+      "d": "15"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1898",
+    "chapter": ""
+  },
+  {
+    "question": "Canals taken off from ice-fed perennial rivers are known as",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "permanent canal",
+      "b": "perennial canal",
+      "c": "continuous canal",
+      "d": "green canal"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1899",
+    "chapter": ""
+  },
+  {
+    "question": "Single bank canal is the other name of",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "ridge canal",
+      "b": "contour canal",
+      "c": "side slope canal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1900",
+    "chapter": ""
+  },
+  {
+    "question": "For A, B, and C types of airports, the longitudinal gradient of the runway recommended by ICAO is",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "1%",
+      "b": "1.5%",
+      "c": "2%",
+      "d": "2.5%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1901",
+    "chapter": ""
+  },
+  {
+    "question": "The strength of runway pavement is expressed as",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "LCM",
+      "b": "CBR",
+      "c": "FAA",
+      "d": "PCA"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1902",
+    "chapter": ""
+  },
+  {
+    "question": "Generally sight distance at a curve is _______ than sight distance at straight stretches of road.",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal to",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1903",
+    "chapter": ""
+  },
+  {
+    "question": "______________ rollers are also known as tamping rollers.",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "Sheep’s foot",
+      "b": "Rubber tyred",
+      "c": "Smooth wheeled",
+      "d": "Pneumatic"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1904",
+    "chapter": ""
+  },
+  {
+    "question": "A flaky aggregate is said to be elongated if its greatest dimension (length) is greater than",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "one-fifth of the mean size",
+      "b": "nine-fifth of the mean size",
+      "c": "two-fifth of the mean size",
+      "d": "seven-fifth of the mean size"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1905",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum number of test specimens required for finding the tensile strength of concrete is",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "6",
+      "d": "9"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1906",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालसँग कूटनीतिक सम्बन्ध कायम भएको १८२ औं राष्ट्र कुन हो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "मलावी",
+      "b": "मार्सल आइसल्यान्ड",
+      "c": "टोङ्गा",
+      "d": "नाउरू"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1907",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालले श्रीलंकासँग कूटनीतिक सम्बन्ध कहिले कायम गर्यो ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "सन् १९८७",
+      "b": "सन् १९७७",
+      "c": "सन् १९५७",
+      "d": "सन् १९४७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1908",
+    "chapter": ""
+  },
+  {
+    "question": "संयुक्त राष्ट्रसंघका तल उल्लेख गरिएका महासचिवमध्ये कसले नोबेल पुरस्कार प्राप्त गरेका थिए ?",
+    "topic": "संघ (sub engineer) - VIII",
+    "options": {
+      "a": "उ थान्त",
+      "b": "कोफी अन्नान",
+      "c": "ट्रिग्वेली",
+      "d": "वान की मुन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1909",
+    "chapter": ""
+  }
+]

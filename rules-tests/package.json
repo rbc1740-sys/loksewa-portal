@@ -1,0 +1,15 @@
+{
+  "name": "loksewa-rules-tests",
+  "private": true,
+  "type": "module",
+  "description": "Firestore security-rules tests executed against the Firebase emulator (CI runs these; requires Java for the emulator process).",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^4.0.1",
+    "firebase": "^11.6.0",
+    "firebase-tools": "^15.28.2",
+    "vitest": "^2.1.9"
+  }
+}

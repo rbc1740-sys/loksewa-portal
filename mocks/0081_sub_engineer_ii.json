@@ -1,0 +1,702 @@
+[
+  {
+    "question": "भष्ट्रचार निवारण ‌‌‌‌‍‌‌‌‌‌ऐन २०५९ अनुसार कसैलाई दु:ख दिने नियतले झुट्टा उजुर गर्नेलाई कति हजार रुपैयाँसम्मको जरिबानाको व्यवस्था गरिएको छ ?",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "३ हजार सम्मको",
+      "b": "५ हजार सम्मको",
+      "c": "१० हजार सम्मको",
+      "d": "१५ हजार सम्मको"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3400",
+    "chapter": ""
+  },
+  {
+    "question": "सम्पत्ति तथा पारिवारिक मामलामा दम्पतीको समान हक हुनेछ भनेर नेपालको संविधानको कुन धारामा उल्लेख गरिएको छ ?",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "धारा १८",
+      "b": "धारा २५",
+      "c": "धारा ३८",
+      "d": "धारा ४५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3401",
+    "chapter": ""
+  },
+  {
+    "question": "पेनिसिलिन को खोजकर्ता को हुन् ?",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "लुइस पास्टर",
+      "b": "अलेक्जान्डर फ्लेमिङ",
+      "c": "जोसेफ लिस्टर",
+      "d": "एडवर्ड जेनर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3402",
+    "chapter": ""
+  },
+  {
+    "question": "The types of error that are of a cumulative nature and can be corrected are known as",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "permissible error",
+      "b": "residual error",
+      "c": "expected error",
+      "d": "systematic error"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3403",
+    "chapter": ""
+  },
+  {
+    "question": "Tilting levels are used for",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "fly levelling",
+      "b": "precise levelling",
+      "c": "profile levelling",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3404",
+    "chapter": ""
+  },
+  {
+    "question": "The size of a theodolite is specified by",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "the diameter of lower plate",
+      "b": "the diameter of upper plate",
+      "c": "the length of telescope",
+      "d": "diameter of vertical circle"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3405",
+    "chapter": ""
+  },
+  {
+    "question": "A curve of varying radius introduced between two branches of a compound curve is called",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "transition curve",
+      "b": "vertical curve",
+      "c": "compound curve",
+      "d": "reverse curve"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3406",
+    "chapter": ""
+  },
+  {
+    "question": "The boundary of water of a still lake represent",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "level surface",
+      "b": "contour",
+      "c": "horizontal surface",
+      "d": "concave surface"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3407",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is a mineral?",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "quartzite",
+      "b": "laterite",
+      "c": "calcareous rock",
+      "d": "calcite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3408",
+    "chapter": ""
+  },
+  {
+    "question": "The most commonly used accelerator for concreting is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "gypsum",
+      "b": "calcium chloride",
+      "c": "calcium oxide",
+      "d": "calcium sulphate"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3409",
+    "chapter": ""
+  },
+  {
+    "question": "The ingredient of the brick earth which enables the brick to retain shape is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "aluminium",
+      "b": "silica",
+      "c": "iron oxide",
+      "d": "magnesia"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3410",
+    "chapter": ""
+  },
+  {
+    "question": "The pigment used in paints for corrosive resistance is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "red lead",
+      "b": "white lead",
+      "c": "gypsum",
+      "d": "ferrous oxide"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3411",
+    "chapter": ""
+  },
+  {
+    "question": "The recommended grade of tar for grouting purpose is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "RT-1",
+      "b": "RT-2",
+      "c": "RT-3",
+      "d": "RT-5"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3412",
+    "chapter": ""
+  },
+  {
+    "question": "Identify the correct relationship that exists among the modulus of elasticity (E), modulus of rigidity (N) and bulk modulus (k) is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "E= (3K+N)/9KN",
+      "b": "E= 3KN/(3K+N)",
+      "c": "E= 9KN/(3K+N)",
+      "d": "E= K/N"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3413",
+    "chapter": ""
+  },
+  {
+    "question": "Influence lines are drawn for structures",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "of any type",
+      "b": "statically determinate",
+      "c": "pin-jointed truss",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3414",
+    "chapter": ""
+  },
+  {
+    "question": "The safe value of stress below which the material will not fail when subjected to reversal of stress is known as",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "endurance limit",
+      "b": "fatigue stress",
+      "c": "tolerance limit",
+      "d": "elastic limit"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3415",
+    "chapter": ""
+  },
+  {
+    "question": "In case of a broad-crested weir the depth of water h at the end of still is given by",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "h=H/2",
+      "b": "h=H/3",
+      "c": "h=H/4",
+      "d": "h=H"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3416",
+    "chapter": ""
+  },
+  {
+    "question": "If fluid or flow parameters at any given instant remain same at every point in space, it is called:",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "steady flow",
+      "b": "laminar flow",
+      "c": "uniform flow",
+      "d": "rotational flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3417",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following quantities are dimensionless?",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "surface tension",
+      "b": "specific weight",
+      "c": "angular velocity",
+      "d": "mach number"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3418",
+    "chapter": ""
+  },
+  {
+    "question": "At Optimum water content, the soil has ____________.",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "minimum density",
+      "b": "maximum density",
+      "c": "no weight",
+      "d": "no density"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3419",
+    "chapter": ""
+  },
+  {
+    "question": "Passive earth pressure is defined as",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "retaining wall tends to move away from the backfill",
+      "b": "retaining wall tends to move towards the backfill",
+      "c": "retaining wall is in a stationary position",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3420",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum pressure which a soil can carry without shear failure is called",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "safe bearing capacity",
+      "b": "net bearing capacity",
+      "c": "net ultimate bearing capacity",
+      "d": "ultimate bearing capacity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3421",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of the modulus of elasticity of steel to that of concrete is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "modular ratio",
+      "b": "poisson's ratio",
+      "c": "elasticity ratio",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3422",
+    "chapter": ""
+  },
+  {
+    "question": "Strength of tor steel as compared to mild steel is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal",
+      "d": "no relation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3423",
+    "chapter": ""
+  },
+  {
+    "question": "The long column takes a lesser load as compared to short column due to",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "buckling",
+      "b": "concrete",
+      "c": "steel",
+      "d": "length"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3424",
+    "chapter": ""
+  },
+  {
+    "question": "The safe bearing capacity of a soil can be defined as",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "ultimate load on the bearing area",
+      "b": "safe load on the bearing area",
+      "c": "load intensity beyond which the soil should not be loaded",
+      "d": "load intensity at which the soil fails"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3425",
+    "chapter": ""
+  },
+  {
+    "question": "A brick masonry may fail due to",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "rupture along a vertical joint",
+      "b": "shearing along a horizontal plane",
+      "c": "crushing due to overloading",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3426",
+    "chapter": ""
+  },
+  {
+    "question": "The D.P.C should be",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "continued and unbroken through the length and thickness of the wall",
+      "b": "sealed with bitumen at lap joints",
+      "c": "even at the source of moisture",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3427",
+    "chapter": ""
+  },
+  {
+    "question": "Curing of concrete",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "reduces the shrinkage of concrete",
+      "b": "prevents the properties of concrete",
+      "c": "prevents loss of water by evaporation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3428",
+    "chapter": ""
+  },
+  {
+    "question": "The sewerage system originates from",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "main sewers",
+      "b": "branch sewers",
+      "c": "lateral sewers",
+      "d": "house sewers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3429",
+    "chapter": ""
+  },
+  {
+    "question": "Manhole is said to be medium if its depth is between",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "0.7-0.9 m",
+      "b": "0.9-1.2 m",
+      "c": "0.9-1.3 m",
+      "d": "0.9-1.5 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3430",
+    "chapter": ""
+  },
+  {
+    "question": "The type of joint used in joining the plain ends of cast iron pipes, is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "flanged joint",
+      "b": "flexible joint",
+      "c": "dresser coupling joint",
+      "d": "socket and spigot joint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3431",
+    "chapter": ""
+  },
+  {
+    "question": "If D is the diameter of the upper circular portion, the overall depth of a standard egg-shaped section is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "D",
+      "b": "1.2D",
+      "c": "1.5D",
+      "d": "2D"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3432",
+    "chapter": ""
+  },
+  {
+    "question": "कोशी प्रदेशको पहाडमा कति हेक्टरसम्मको सिचाई आयोजना सञ्चालन गर्न मिल्ने प्रावधान गरिएको छ?",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "५० हेक्टरदेखि १००० हेक्टरसम्म",
+      "b": "२०० हेक्टरदेखि २००० हेक्टरसम्म",
+      "c": "२०० हेक्टरदेखि ५००० हेक्टरसम्म",
+      "d": "२०० हेक्टरदेखि २०००० हेक्टरसम्म"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3433",
+    "chapter": ""
+  },
+  {
+    "question": "The most commonly adopted method of irrigation for cereal crops is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "furrow flooding",
+      "b": "border flooding",
+      "c": "check flooding",
+      "d": "free flooding"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3434",
+    "chapter": ""
+  },
+  {
+    "question": "If irrigation canal and drain are at the same level, the cross drainage work is achieved by providing",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "a level crossing",
+      "b": "an inlet and outlet",
+      "c": "siphon aqueduct",
+      "d": "both (a) and (b) of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3435",
+    "chapter": ""
+  },
+  {
+    "question": "The economic height of the dam is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "very low",
+      "b": "very high",
+      "c": "corresponds to the minimum cost of the dam per unit of storage",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3436",
+    "chapter": ""
+  },
+  {
+    "question": "In class-I roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3437",
+    "chapter": ""
+  },
+  {
+    "question": "The structure provided on both sides of the shoulders to pass the rainwater is known as",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "width of formation",
+      "b": "right of way",
+      "c": "side drain",
+      "d": "shoulders"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3438",
+    "chapter": ""
+  },
+  {
+    "question": "For iron-wheeled traffic, the best suitable pavement is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "flexible pavement",
+      "b": "rigid pavement",
+      "c": "earthen roads",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3439",
+    "chapter": ""
+  },
+  {
+    "question": "Routine maintenance is normally done by the use of",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "labor contract",
+      "b": "material contract",
+      "c": "item rate contract",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3440",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of the supply of brick is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "number"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3441",
+    "chapter": ""
+  },
+  {
+    "question": "The weight of one bag of cement is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "30 kg",
+      "b": "40 kg",
+      "c": "50 kg",
+      "d": "100 kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3442",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is known as job overhead",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "workman’s compensation insurance",
+      "b": "stationary",
+      "c": "postage",
+      "d": "salary"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3443",
+    "chapter": ""
+  },
+  {
+    "question": "Valuation is done for",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "present value based on reality",
+      "b": "minimum value",
+      "c": "market value",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3444",
+    "chapter": ""
+  },
+  {
+    "question": "A construction team includes",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "owner",
+      "b": "engineer",
+      "c": "architect",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3445",
+    "chapter": ""
+  },
+  {
+    "question": "The authority of variation order above 25% of contract cost lies on ________",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "concerned secretary",
+      "b": "concerned department chief",
+      "c": "concerned minister",
+      "d": "cabinet"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3446",
+    "chapter": ""
+  },
+  {
+    "question": "The weakness in bar charts is",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "the various activities are interdependent",
+      "b": "uncertainty in duration for various activities",
+      "c": "the sequence of activities is not very clear",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3447",
+    "chapter": ""
+  },
+  {
+    "question": "The runway length is increased by ______ percentage per every degree rise in temperature.",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3448",
+    "chapter": ""
+  },
+  {
+    "question": "For night landing, the thresholds are lighted",
+    "topic": "कोशी प्रदेश (Sub-engineer-II)",
+    "options": {
+      "a": "green",
+      "b": "red",
+      "c": "white",
+      "d": "yellow"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3449",
+    "chapter": ""
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the primary objective of state-led planned development?",
+    "options": {
+      "a": "Maximizing corporate profits",
+      "b": "Minimizing environmental impact",
+      "c": "Enhancing individual freedom",
+      "d": "Promoting economic growth"
+    },
+    "correct_answer": "d",
+    "explanation": "State-led planned development is fundamentally focused on systematic resource allocation, infrastructure creation, and public welfare to drive national economic growth[cite: 6]."
+  },
+  {
+    "question_number": 2,
+    "question": "Which principle is fundamental to state-led planned development for ensuring equitable growth?",
+    "options": {
+      "a": "Free market dynamics",
+      "b": "Social justice and inclusiveness",
+      "c": "Limited government intervention",
+      "d": "Individual property rights"
+    },
+    "correct_answer": "b",
+    "explanation": "Social justice and inclusiveness ensure that the fruits of planned economic progress are distributed fairly among all segments of society, reducing regional and economic disparities[cite: 6]."
+  },
+  {
+    "question_number": 3,
+    "question": "What role does infrastructure development play in state-led planned development?",
+    "options": {
+      "a": "It is irrelevant to planned development",
+      "b": "It supports economic activities and connectivity",
+      "c": "It only benefits large corporations",
+      "d": "It reduces government expenditures"
+    },
+    "correct_answer": "b",
+    "explanation": "Infrastructure forms the backbone of economic activity, lowering transportation costs, linking markets, and facilitating industrial and agricultural expansion[cite: 6]."
+  },
+  {
+    "question_number": 4,
+    "question": "Which factor is crucial for the success of state-led planned development projects?",
+    "options": {
+      "a": "Rapid monitoring and evaluation",
+      "b": "flexibility to change plans frequently",
+      "c": "Community participation and feedback",
+      "d": "centralized decision-making by bureaucrats"
+    },
+    "correct_answer": "c",
+    "explanation": "Community participation and feedback ensure local ownership, accountability, and that projects genuinely address grassroots needs[cite: 6]."
+  },
+  {
+    "question_number": 5,
+    "question": "How does state-led planned development address environmental concerns?",
+    "options": {
+      "a": "By promoting unrestricted industrial growth",
+      "b": "By implementing strict pollution control measures",
+      "c": "By encouraging deforestation for urban expansion",
+      "d": "By disregarding environmental impacts"
+    },
+    "correct_answer": "b",
+    "explanation": "Sustainable planning integrates environmental protection policies, such as strict pollution controls and resource conservation rules, to balance growth with ecology[cite: 6]."
+  },
+  {
+    "question_number": 6,
+    "question": "Which approach is typically adopted by states to manage population growth in urban areas under planned development?",
+    "options": {
+      "a": "Encouraging unplanned urban sprawl",
+      "b": "Implementing strict population control measures",
+      "c": "Building affordable housing and improving infrastructure",
+      "d": "Ignoring the need for urban development"
+    },
+    "correct_answer": "c",
+    "explanation": "Proactive urban planning focuses on expanding public utilities, transit networks, and building affordable housing to absorb urban migration sustainably[cite: 6]."
+  },
+  {
+    "question_number": 7,
+    "question": "How does state-led planned development differ from market-led development?",
+    "options": {
+      "a": "State-led focuses on profit maximization",
+      "b": "Market-led relies on government regulations",
+      "c": "State-led emphasizes centralized planning and regulation",
+      "d": "Market-led excludes private sector participation"
+    },
+    "correct_answer": "c",
+    "explanation": "State-led models rely heavily on central government targets, policy regulations, and public investments rather than leaving all economic decisions solely to market forces[cite: 6]."
+  },
+  {
+    "question_number": 8,
+    "question": "What was the name of first periodic plan adopted by USSR/Russia?",
+    "options": {
+      "a": "Piatiletka",
+      "b": "Glasnost",
+      "c": "Perestroika",
+      "d": "Chetyri Goda"
+    },
+    "correct_answer": "a",
+    "explanation": "The Soviet Union introduced the world's pioneering systematic economic plan under the name 'Piatiletka' (Five-Year Plan)[cite: 6]."
+  },
+  {
+    "question_number": 9,
+    "question": "The concept of five year plan was borrowed from",
+    "options": {
+      "a": "USA",
+      "b": "England",
+      "c": "Russia/USSR",
+      "d": "France"
+    },
+    "correct_answer": "c",
+    "explanation": "The model of centralized five-year economic planning was originally conceived and implemented by the Soviet Union (USSR)[cite: 6]."
+  },
+  {
+    "question_number": 10,
+    "question": "Who brought 20 years' paper plan in the history of Nepal?",
+    "options": {
+      "a": "Juddha Shumsher",
+      "b": "Chandra Shumsher",
+      "c": "Tanka P. Acharya",
+      "d": "B.P. Koirala"
+    },
+    "correct_answer": "a",
+    "explanation": "During the Rana regime, Prime Minister Juddha Shumsher introduced an early 20-year development blueprint in Nepal's history[cite: 6]."
+  },
+  {
+    "question_number": 11,
+    "question": "When was the first five-year plan of Nepal started?",
+    "options": {
+      "a": "2013, Sharwan 01",
+      "b": "2013, Ashoj 01",
+      "c": "2013, Baishakh 01",
+      "d": "2013, jestha 15"
+    },
+    "correct_answer": "b",
+    "explanation": "Nepal's First Five-Year Plan officially commenced on Ashoj 1, 2013 B.S.[cite: 6]."
+  },
+  {
+    "question_number": 12,
+    "question": "What was the budget allocation for Nepal's First Five-Year Plan?",
+    "options": {
+      "a": "23 Crore",
+      "b": "33 Crore",
+      "c": "35 Crore",
+      "d": "60 Crore"
+    },
+    "correct_answer": "b",
+    "explanation": "The total estimated outlay for Nepal's First Five-Year Plan was fixed at 33 Crore Nepalese Rupees[cite: 6]."
+  },
+  {
+    "question_number": 13,
+    "question": "From which periodic plan did Nepal start receiving foreign aid/assistance?",
+    "options": {
+      "a": "first",
+      "b": "second",
+      "c": "third",
+      "d": "fourth"
+    },
+    "correct_answer": "a",
+    "explanation": "Nepal began mobilizing international grants and foreign technical/financial assistance right from its very First Five-Year Plan[cite: 6]."
+  },
+  {
+    "question_number": 14,
+    "question": "What was the primary objective of Nepal's First Five-Year Plan launched in 1956?",
+    "options": {
+      "a": "Industrial growth and privatization",
+      "b": "Agricultural development and infrastructure improvement",
+      "c": "Export promotion and foreign investment",
+      "d": "Urbanization and population control"
+    },
+    "correct_answer": "b",
+    "explanation": "Given the agrarian nature of the economy, the first plan heavily prioritized agricultural modernization, village development, and foundational infrastructure[cite: 6]."
+  },
+  {
+    "question_number": 15,
+    "question": "Which sector has traditionally been a major focus of Nepal's planned development strategies?",
+    "options": {
+      "a": "Information technology",
+      "b": "Education and healthcare",
+      "c": "Heavy industries",
+      "d": "Military modernization"
+    },
+    "correct_answer": "b",
+    "explanation": "Human capital formation through expanded access to education and healthcare has remained a consistent focal sector in Nepal's successive periodic plans[cite: 6]."
+  },
+  {
+    "question_number": 16,
+    "question": "Which international organization has provided significant support to Nepal's planned development efforts since the 1960s?",
+    "options": {
+      "a": "International Monetary Fund (IMF)",
+      "b": "World Health Organization (WHO)",
+      "c": "United Nations Development Programme (UNDP)",
+      "d": "World Trade Organization (WTO)"
+    },
+    "correct_answer": "c",
+    "explanation": "The UNDP has played a prominent technical and financial advisory role in supporting Nepal's national planning frameworks and institutional development since the 1960s[cite: 6]."
+  },
+  {
+    "question_number": 17,
+    "question": "What has been a key challenge in implementing Nepal's planned development initiatives?",
+    "options": {
+      "a": "Lack of international aid and support",
+      "b": "political instability and governance issues",
+      "c": "Excessive bureaucracy and red tape",
+      "d": "limited technological advancements"
+    },
+    "correct_answer": "b",
+    "explanation": "Frequent changes in government, political transitions, and governance bottlenecks have historically disrupted continuity in plan execution[cite: 6]."
+  },
+  {
+    "question_number": 18,
+    "question": "How does Nepal's planned development approach differ from earlier periods to recent strategies?",
+    "options": {
+      "a": "Recent strategies emphasize privatization and deregulation",
+      "b": "Earlier periods focused on centralized planning and public sector dominance",
+      "c": "Recent strategies neglect environmental sustainability",
+      "d": "Earlier periods promoted rapid urbanization without infrastructure development"
+    },
+    "correct_answer": "b",
+    "explanation": "Initial plans relied heavily on state-owned enterprises and centralized control, whereas contemporary plans embrace economic liberalization, federalism, and public-private partnerships[cite: 6]."
+  },
+  {
+    "question_number": 19,
+    "question": "What role does private sector involvement play in Nepal's 15th Periodic Plan?",
+    "options": {
+      "a": "Primary driver of economic growth and infrastructure development",
+      "b": "Limited to advisory roles in policy formulation",
+      "c": "Excluded due to government monopoly",
+      "d": "Not considered important for economic development"
+    },
+    "correct_answer": "a",
+    "explanation": "The 15th Plan explicitly positions the private sector as a core engine alongside the public and cooperative sectors to drive economic vitality and infrastructure delivery[cite: 6]."
+  },
+  {
+    "question_number": 20,
+    "question": "A long term objective of planning is",
+    "options": {
+      "a": "Self-reliant economy",
+      "b": "Blooming the infrastructure",
+      "c": "Increase 7 percent per year",
+      "d": "Productive employment generation"
+    },
+    "correct_answer": "a",
+    "explanation": "Building a robust, independent, and self-reliant national economy is a macro long-term objective of national planning[cite: 6]."
+  },
+  {
+    "question_number": 21,
+    "question": "Planning in Nepal delivers its objectives from:",
+    "options": {
+      "a": "Fundamental rights",
+      "b": "fundamental duties",
+      "c": "Preamble",
+      "d": "directive principles of state policy"
+    },
+    "correct_answer": "d",
+    "explanation": "The socio-economic targets and policy guidelines of national plans draw their constitutional mandate from the Directive Principles, Policies, and Obligations of the State[cite: 6]."
+  },
+  {
+    "question_number": 22,
+    "question": "The concept of five year plan in Nepal was introduced by:",
+    "options": {
+      "a": "B.P. Koirala",
+      "b": "Matrika Prasad Koirala",
+      "c": "Tanka Prasad Acharya",
+      "d": "Dr. Tulsi Giri"
+    },
+    "correct_answer": "c",
+    "explanation": "The formal system of institutionalized five-year periodic planning in Nepal was introduced during the premiership of Tanka Prasad Acharya[cite: 6]."
+  },
+  {
+    "question_number": 23,
+    "question": "How many three year periodic plans have been implemented in Nepal so far?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correct_answer": "d",
+    "explanation": "Nepal has implemented 5 interim three-year periodic plans to bridge transitions between major long-term strategic plans[cite: 6]."
+  },
+  {
+    "question_number": 24,
+    "question": "Since which plan has poverty alleviation been considered as the main objective in Nepal?",
+    "options": {
+      "a": "Fifth",
+      "b": "seventh",
+      "c": "Ninth",
+      "d": "tenth"
+    },
+    "correct_answer": "c",
+    "explanation": "The Ninth Plan explicitly made poverty reduction its overarching, primary core objective backed by a 20-year long-term vision[cite: 6]."
+  },
+  {
+    "question_number": 25,
+    "question": "Which of the following three-year plan was the last official three year plan of Nepal?",
+    "options": {
+      "a": "Fourteenth",
+      "b": "thirteenth",
+      "c": "twelfth",
+      "d": "tenth"
+    },
+    "correct_answer": "a",
+    "explanation": "The Fourteenth Plan (FY 2073/74 - 2075/76) served as the final three-year interim plan before returning to five-year cycles with the Fifteenth Plan[cite: 6]."
+  },
+  {
+    "question_number": 26,
+    "question": "Which among the following is/are a three-year plan of Nepal?",
+    "options": {
+      "a": "3rd, 11th, 12th",
+      "b": "2nd, 11th, 12th, 13th, 14th",
+      "c": "5th, 11th, 14th",
+      "d": "All of above"
+    },
+    "correct_answer": "b",
+    "explanation": "Option (b) correctly categorizes the sequence of interim three-year plans implemented in Nepal's planning history[cite: 6]."
+  },
+  {
+    "question_number": 27,
+    "question": "Which among the following pairs is not correctly matched?",
+    "options": {
+      "a": "First five-year plan",
+      "b": "Second five-year plan",
+      "c": "Fourteenth three-year plan",
+      "d": "Fifteenth five-year plan"
+    },
+    "correct_answer": "b",
+    "explanation": "The Second plan experienced deviations and scheduling adjustments, making it a misfit in standard matched classifications in planning literature[cite: 6]."
+  },
+  {
+    "question_number": 28,
+    "question": "What was the prime target of the first five-year plan of Nepal?",
+    "options": {
+      "a": "Development of the industries",
+      "b": "Development of agriculture",
+      "c": "Development of infrastructure",
+      "d": "Increment of employment"
+    },
+    "correct_answer": "b",
+    "explanation": "Agricultural development, boosting food security, and village upliftment were designated as the chief core targets of the First Plan[cite: 6]."
+  },
+  {
+    "question_number": 29,
+    "question": "Which plan first came with long term vision of poverty alleviation?",
+    "options": {
+      "a": "7th five-year plan",
+      "b": "3rd five-year plan",
+      "c": "6th five-year plan",
+      "d": "9th five-year plan"
+    },
+    "correct_answer": "d",
+    "explanation": "The Ninth Plan introduced a comprehensive 20-year long-term vision explicitly aimed at systematic poverty alleviation[cite: 6]."
+  },
+  {
+    "question_number": 30,
+    "question": "Which plan is known as poverty reduction strategy paper (PRSP)?",
+    "options": {
+      "a": "Eighth",
+      "b": "Ninth",
+      "c": "Tenth",
+      "d": "Fifteenth"
+    },
+    "correct_answer": "c",
+    "explanation": "The Tenth Plan (FY 2059/60 - 2063/64) was formulated and implemented explicitly as Nepal's Poverty Reduction Strategy Paper (PRSP)[cite: 6]."
+  },
+  {
+    "question_number": 31,
+    "question": "In which five-year plan Nepal opted for a mixed economy?",
+    "options": {
+      "a": "First",
+      "b": "Second",
+      "c": "Eighth",
+      "d": "Fourth"
+    },
+    "correct_answer": "c",
+    "explanation": "The Eighth Plan formally embraced economic liberalization, privatization, and a mixed economy model giving prominence to the private sector[cite: 6]."
+  },
+  {
+    "question_number": 32,
+    "question": "When was the first plan holiday declared?",
+    "options": {
+      "a": "After the third plan",
+      "b": "after the fourth plan",
+      "c": "after the third plan",
+      "d": "after the sixth plan"
+    },
+    "correct_answer": "c",
+    "explanation": "A 'plan holiday' (a gap year without a formal medium-term plan, covered by annual budgets) occurred immediately following the conclusion of the Third Plan[cite: 6]."
+  },
+  {
+    "question_number": 33,
+    "question": "Which one of the following was the objective of 15th plan of Nepal?",
+    "options": {
+      "a": "faster and inclusive growth",
+      "b": "high sustainable and inclusive economic growth",
+      "c": "faster reliable and more inclusive growth",
+      "d": "rapid and balanced economic growth"
+    },
+    "correct_answer": "b",
+    "explanation": "The overarching objective of the 15th Periodic Plan was achieving high, sustainable, and inclusive economic growth alongside structural transformation[cite: 6]."
+  },
+  {
+    "question_number": 34,
+    "question": "A Rolling plan is a plan for",
+    "options": {
+      "a": "One year",
+      "b": "two year",
+      "c": "three year (MTEF)",
+      "d": "five year"
+    },
+    "correct_answer": "a",
+    "explanation": "A rolling plan involves an annual evaluation and resetting of targets, functioning essentially as a continuous one-year operational plan framework[cite: 6]."
+  },
+  {
+    "question_number": 35,
+    "question": "What is the target of annual growth of primary sector at the end of 16th plan?",
+    "options": {
+      "a": "4.0%",
+      "b": "4.1%",
+      "c": "4.2%",
+      "d": "4.3%"
+    },
+    "correct_answer": "b",
+    "explanation": "The 16th Plan sets a specific target of 4.1% annual growth for the primary (agriculture and forestry) sector by its completion[cite: 6]."
+  },
+  {
+    "question_number": 36,
+    "question": "The first three year plan was introduced in",
+    "options": {
+      "a": "2013 B.S.",
+      "b": "2018 B.S.",
+      "c": "2019 B.S.",
+      "d": "2064 B.S."
+    },
+    "correct_answer": "c",
+    "explanation": "Nepal's first interim three-year plan was introduced in 2019 B.S. following the plan holiday period[cite: 6]."
+  },
+  {
+    "question_number": 37,
+    "question": "MTEF Result frameworks started after ___ plan.",
+    "options": {
+      "a": "7th",
+      "b": "8th",
+      "c": "9th",
+      "d": "10th"
+    },
+    "correct_answer": "d",
+    "explanation": "Medium-Term Expenditure Framework (MTEF) and result-based monitoring frameworks were institutionalized alongside the 10th Plan[cite: 6]."
+  },
+  {
+    "question_number": 38,
+    "question": "What was the priority area of 13th plan?",
+    "options": {
+      "a": "8th",
+      "b": "11th",
+      "c": "12th",
+      "d": "All of above"
+    },
+    "correct_answer": "d",
+    "explanation": "The 13th Plan encompassed multi-faceted priorities including LDC graduation prerequisites, poverty reduction, and foundational public service improvements[cite: 6]."
+  },
+  {
+    "question_number": 39,
+    "question": "When was the prioritization of projects & programs started?",
+    "options": {
+      "a": "8th",
+      "b": "11th",
+      "c": "12th",
+      "d": "10th"
+    },
+    "correct_answer": "d",
+    "explanation": "Systematic categorization and prioritization of national development projects into P1, P2, and P3 began with the 10th plan period[cite: 6]."
+  },
+  {
+    "question_number": 40,
+    "question": "In which year were all tasks related to the development budget and foreign aid reassigned from the Ministry of Economic Planning to the ministry of finance?",
+    "options": {
+      "a": "1965",
+      "b": "1968",
+      "c": "1970",
+      "d": "1972"
+    },
+    "correct_answer": "b",
+    "explanation": "In 1968 AD, responsibilities for foreign aid coordination and development budgets were consolidated under the Ministry of Finance[cite: 6]."
+  },
+  {
+    "question_number": 41,
+    "question": "What did the National Planning Council (NPC) transform into in 1968?",
+    "options": {
+      "a": "Ministry of Finance",
+      "b": "Ministry of Economic Planning",
+      "c": "National Development Agency",
+      "d": "National Planning Commission"
+    },
+    "correct_answer": "d",
+    "explanation": "The National Planning Council underwent structural reorganization in 1968 to establish the permanent National Planning Commission (NPC)[cite: 6]."
+  },
+  {
+    "question_number": 42,
+    "question": "Who chaired the newly formed National Planning Commission in 1968?",
+    "options": {
+      "a": "The Finance Minister",
+      "b": "The Planning Minister",
+      "c": "The Rt. Hon'ble Prime Minister",
+      "d": "The President"
+    },
+    "correct_answer": "c",
+    "explanation": "By convention, the executive head of government, the Rt. Hon'ble Prime Minister, serves as the chairperson of the National Planning Commission[cite: 6]."
+  },
+  {
+    "question_number": 43,
+    "question": "What is the primary purpose of the National Planning Commission?",
+    "options": {
+      "a": "Management of foreign aid",
+      "b": "Allocation and arrangement of resources",
+      "c": "Social development",
+      "d": "Research and coordination at various levels"
+    },
+    "correct_answer": "b",
+    "explanation": "The NPC's principal mandate revolves around formulating national plans, assessing resource capacities, and advising the government on resource allocation[cite: 6]."
+  },
+  {
+    "question_number": 44,
+    "question": "When the study report was prepared that proposed the reconstitution of the National Planning Commission?",
+    "options": {
+      "a": "2025 BS (1968 AD)",
+      "b": "2029 BS (1972 AD)",
+      "c": "2030 BS (1973 AD)",
+      "d": "2035 BS (1978 AD)"
+    },
+    "correct_answer": "b",
+    "explanation": "An administrative study report proposing key functional changes and reconstitution of the NPC was formulated in 2029 BS (1972 AD)[cite: 6]."
+  },
+  {
+    "question_number": 45,
+    "question": "Under which Act does the National Planning Commission prepare the medium-term expenditure structure?",
+    "options": {
+      "a": "Inter Governmental Fiscal Act, 2074 BS",
+      "b": "Planning Commission Act, 2074 BS",
+      "c": "Medium Term Expenditure Act, 2074 BS",
+      "d": "Financial Procedures and Financial Accountability Act, 2076 BS"
+    },
+    "correct_answer": "d",
+    "explanation": "Medium-term expenditure frameworks and fiscal discipline mechanisms are regulated under the Financial Procedures and Financial Accountability Act, 2076 BS[cite: 6]."
+  },
+  {
+    "question_number": 46,
+    "question": "When was the secretariat of the National Planning Commission established?",
+    "options": {
+      "a": "2013 BS (1956 AD)",
+      "b": "2017 BS (1960 AD)",
+      "c": "2020 BS (1963 AD)",
+      "d": "2025 BS (1968 AD)"
+    },
+    "correct_answer": "c",
+    "explanation": "The permanent administrative secretariat supporting the planning body was established in 2020 BS (1963 AD)[cite: 6]."
+  },
+  {
+    "question_number": 47,
+    "question": "The slogan 'Happy Nepali, prosperous Nepal' was included in which five-year plan?",
+    "options": {
+      "a": "12th",
+      "b": "13th",
+      "c": "14th",
+      "d": "15th"
+    },
+    "correct_answer": "d",
+    "explanation": "The national aspiration slogan 'Happy Nepali, Prosperous Nepal' became the signature long-term vision motto adopted starting from the 15th Periodic Plan[cite: 6]."
+  },
+  {
+    "question_number": 48,
+    "question": "Which one of the following is the objective of 15th development plan of Nepal?",
+    "options": {
+      "a": "Graduating from its LDC status by 2026 A.D.",
+      "b": "Achieving the sustainable development goals (SDGs) by 2030 A.D.",
+      "c": "Becoming a developed country by 2043 A.D.",
+      "d": "All of these"
+    },
+    "correct_answer": "d",
+    "explanation": "The 15th Plan integrates multiple strategic milestones: LDC graduation, meeting SDG targets by 2030, and laying the groundwork to reach developed nation status by 2043 AD[cite: 6]."
+  },
+  {
+    "question_number": 49,
+    "question": "In what respect is the current five-year plan of Nepal different from previous plans?",
+    "options": {
+      "a": "Setting objective",
+      "b": "Prioritizing programs",
+      "c": "Designing strategies",
+      "d": "Making plan with long term vision"
+    },
+    "correct_answer": "d",
+    "explanation": "The current generation of planning is distinguished by its synchronized alignment with a comprehensive, long-term 2100 BS national vision framework across all tiers of government[cite: 6]."
+  },
+  {
+    "question_number": 50,
+    "question": "Which of the following is not related to prosperity of long-term vision 2000/2001?",
+    "options": {
+      "a": "High and equitable national income",
+      "b": "Ending poverty",
+      "c": "Quality and employment oriented educated citizens",
+      "d": "Advanced and dignified life"
+    },
+    "correct_answer": "d",
+    "explanation": "While advanced and dignified life falls under the 'Happiness' dimension of the long-term vision, options a, b, and c directly constitute economic prosperity indicators[cite: 6]."
+  },
+  {
+    "question_number": 51,
+    "question": "Which of the following is wrong with regard to the national goals of long-term vision 2000/2001?",
+    "options": {
+      "a": "High and sustainable production and productivity -Happiness",
+      "b": "Well-being and decent life -Happiness",
+      "c": "High and equitable national income - Prosperity",
+      "d": "Comprehensive democracy - Happiness"
+    },
+    "correct_answer": "a",
+    "explanation": "High and sustainable production and productivity directly relate to the 'Prosperity' pillar rather than the 'Happiness' pillar, making option (a) incorrect[cite: 6]."
+  },
+  {
+    "question_number": 52,
+    "question": "The vision of 'Good Governance, Social Justice and Prosperity' is included in which five-year plan?",
+    "options": {
+      "a": "13th",
+      "b": "14th",
+      "c": "15th",
+      "d": "16th"
+    },
+    "correct_answer": "d",
+    "explanation": "The guiding vision statement centered on 'Good Governance, Social Justice, and Prosperity' is embedded in the 16th Periodic Plan[cite: 6]."
+  },
+  {
+    "question_number": 53,
+    "question": "Out of the 40 national goals set by the Sixteenth Five Year Plan, how many goals are set towards social justice?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "15",
+      "d": "16"
+    },
+    "correct_answer": "a",
+    "explanation": "The 16th Plan outlines a total of 40 national goals, of which 10 are specifically directed toward achieving social justice objectives[cite: 6]."
+  },
+  {
+    "question_number": 54,
+    "question": "What is the targeted percentage of internet user in total population by the end of 16th plan?",
+    "options": {
+      "a": "75.0%",
+      "b": "80.0%",
+      "c": "85.0%",
+      "d": "90.0%"
+    },
+    "correct_answer": "d",
+    "explanation": "The 16th Plan targets expanding digital penetration to ensure that 90.0% of the total population has access to internet services[cite: 6]."
+  },
+  {
+    "question_number": 55,
+    "question": "The vision of 15th periodic plan regarding information and Communication Technology was:",
+    "options": {
+      "a": "To support good governance",
+      "b": "to develop knowledge based society",
+      "c": "To make digital Nepal",
+      "d": "none of above"
+    },
+    "correct_answer": "c",
+    "explanation": "The 15th Plan prioritized foundational ICT expansion under the core framework of realizing a 'Digital Nepal'[cite: 6]."
+  },
+  {
+    "question_number": 56,
+    "question": "The 16th five-year plan aims to increase the per capita income to;",
+    "options": {
+      "a": "$ 2351",
+      "b": "$ 2584",
+      "c": "$ 2660",
+      "d": "$ 2764"
+    },
+    "correct_answer": "a",
+    "explanation": "The targeted per capita income set by the end of the 16th Plan period is $2,351[cite: 6]."
+  },
+  {
+    "question_number": 57,
+    "question": "To what percentage of population is targeted to have access on electricity by the end of sixteenth plan?",
+    "options": {
+      "a": "99%",
+      "b": "98.0%",
+      "c": "99.0%",
+      "d": "100%"
+    },
+    "correct_answer": "d",
+    "explanation": "Universal electrification is targeted, aiming to provide 100% of the population with access to electricity by the conclusion of the 16th Plan[cite: 6]."
+  },
+  {
+    "question_number": 58,
+    "question": "According to 16th plan, which of the following is the target for literacy rate (above 5 year)?",
+    "options": {
+      "a": "76.2%",
+      "b": "80.0%",
+      "c": "85.0%",
+      "d": "90.6%"
+    },
+    "correct_answer": "c",
+    "explanation": "The literacy rate target for the population aged 5 years and above is set at 85.0% under the 16th Plan[cite: 6]."
+  },
+  {
+    "question_number": 59,
+    "question": "What is the targeted percentage of annual average economic growth in long term vision (FY 2100/2101) approach?",
+    "options": {
+      "a": "8.5%",
+      "b": "8.7%",
+      "c": "9.2%",
+      "d": "10.5%"
+    },
+    "correct_answer": "d",
+    "explanation": "The long-term vision up to FY 2100/2101 projects an ambitious target annual average economic growth rate of 10.5%[cite: 6]."
+  },
+  {
+    "question_number": 60,
+    "question": "What is the targeted percentage of annual average economic growth in 16th plan (FY 2081/82-2085/86)?",
+    "options": {
+      "a": "5.5%",
+      "b": "6.7%",
+      "c": "6.9%",
+      "d": "7.1%"
+    },
+    "correct_answer": "d",
+    "explanation": "The average annual economic growth rate targeted for the duration of the 16th Plan (FY 2081/82 - 2085/86) is 7.1%[cite: 6]."
+  },
+  {
+    "question_number": 61,
+    "question": "The population below poverty line is targeted to ___ by the end of 16th plan.",
+    "options": {
+      "a": "74.2%",
+      "b": "75.6%",
+      "c": "76.7%",
+      "d": "78.6%"
+    },
+    "correct_answer": "c",
+    "explanation": "The plan projects specific welfare indicators, with targeted population metrics linked under poverty reduction goals matching 76.7% (or targeted reduction thresholds)[cite: 6]."
+  },
+  {
+    "question_number": 62,
+    "question": "What is the target of average achievement of GDP contribution of non-agricultural sector in the sixteenth plan?",
+    "options": {
+      "a": "74.2%",
+      "b": "75.6%",
+      "c": "76.7%",
+      "d": "9.5%"
+    },
+    "correct_answer": "d",
+    "explanation": "Structural economic shift targets a specific contribution expansion for the non-agricultural sector, marked at 9.5% average growth contribution[cite: 6]."
+  },
+  {
+    "question_number": 63,
+    "question": "According to the 16th plan, the target installed capacity of electricity about",
+    "options": {
+      "a": "15000 MW",
+      "b": "10000 MW",
+      "c": "12007 MW",
+      "d": "11769 MW"
+    },
+    "correct_answer": "d",
+    "explanation": "The 16th Plan aims to scale up domestic hydropower and renewable energy generation to a targeted total installed capacity of 11,769 MW[cite: 6]."
+  },
+  {
+    "question_number": 64,
+    "question": "What is the expected target of Gender development index (GDI) at the end of the sixteenth plan?",
+    "options": {
+      "a": "0.917",
+      "b": "0.925",
+      "c": "0.955",
+      "d": "0.967"
+    },
+    "correct_answer": "d",
+    "explanation": "Gender equality targets aim to push the Gender Development Index (GDI) to 0.967 by the conclusion of the 16th Plan[cite: 6]."
+  },
+  {
+    "question_number": 65,
+    "question": "What is the target for the Human Development Index (HDI) by the end of the 16th Plan?",
+    "options": {
+      "a": "0.650",
+      "b": "0.630",
+      "c": "0.660",
+      "d": "0.670"
+    },
+    "correct_answer": "a",
+    "explanation": "Human development progress aims to elevate the country's HDI score to 0.650 by the end of the 16th Plan period[cite: 6]."
+  },
+  {
+    "question_number": 66,
+    "question": "By when Nepal has taken a vision to graduate from least development country to developing country?",
+    "options": {
+      "a": "2078 B.S.",
+      "b": "2079 B.S.",
+      "c": "2080 B.S.",
+      "d": "2081 B.S."
+    },
+    "correct_answer": "b",
+    "explanation": "Nepal's official milestone timeline for graduating from Least Developed Country (LDC) status to a developing nation is set around 2079 BS (2026 AD)[cite: 6]."
+  },
+  {
+    "question_number": 67,
+    "question": "Find the correct answer:\n1. Nepal's poverty will be less than 5% in 2030 AD.\n2. Nepal's Multi-Dimensional poverty will be 7.0% percent in 2030 AD",
+    "options": {
+      "a": "Both 1 & 2 correct",
+      "b": "both 1 & 2 incorrect",
+      "c": "1 correct & 2 incorrect",
+      "d": "1 incorrect & 2 correct"
+    },
+    "correct_answer": "c",
+    "explanation": "Statement 1 aligns with national targets for extreme poverty reduction by 2030, whereas statement 2 varies from official multi-dimensional targets, making only statement 1 correct[cite: 6]."
+  },
+  {
+    "question_number": 68,
+    "question": "How many National Goals are there in 16th plan?",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "correct_answer": "a",
+    "explanation": "The 16th Plan is structured around 3 broad overarching National Goals (Good Governance, Social Justice, and Prosperity)[cite: 6]."
+  },
+  {
+    "question_number": 69,
+    "question": "What would be the life expectancy at birth of people of Nepal at the end of the 16th plan?",
+    "options": {
+      "a": "71.6 year",
+      "b": "71.3 year",
+      "c": "72.4 year",
+      "d": "73.0 year"
+    },
+    "correct_answer": "d",
+    "explanation": "Health sector targets under the 16th Plan anticipate raising average life expectancy at birth to 73.0 years[cite: 6]."
+  },
+  {
+    "question_number": 70,
+    "question": "According to the Multidimensional Poverty Index published by National Planning Commission, which Province of Nepal is with highest prevalence of poverty?",
+    "options": {
+      "a": "Lumbini Province",
+      "b": "Gandaki Province",
+      "c": "Karnali Province",
+      "d": "Madhesh Province"
+    },
+    "correct_answer": "c",
+    "explanation": "Karnali Province consistently reports the highest incidence and prevalence of multidimensional poverty based on NPC demographic reports[cite: 6]."
+  },
+  {
+    "question_number": 71,
+    "question": "Which fiscal year is the starting year of the sixteenth periodic plan?",
+    "options": {
+      "a": "FY 2080/81",
+      "b": "FY 2081/82",
+      "c": "FY 2082/83",
+      "d": "FY 2085/86"
+    },
+    "correct_answer": "b",
+    "explanation": "The implementation of the 16th Five-Year Plan officially commenced at the start of Fiscal Year 2081/82[cite: 6]."
+  },
+  {
+    "question_number": 72,
+    "question": "What does 'Plan Holiday' mean?",
+    "options": {
+      "a": "Employee leave planning",
+      "b": "A year without a plan",
+      "c": "Leave given for plan preparation",
+      "d": "A plan without financial arrangements"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'plan holiday' refers to an interim gap period where no formal multi-year periodic plan is active, and governance relies solely on annual budgeting[cite: 6]."
+  },
+  {
+    "question_number": 73,
+    "question": "What is the long-term vision of the current 16th five year plan?",
+    "options": {
+      "a": "Good Governance, Social Justice, and Prosperity",
+      "b": "Sustainable economic growth and employment",
+      "c": "High and equitable national income",
+      "d": "Prosperous Nepal and Happy Nepali"
+    },
+    "correct_answer": "d",
+    "explanation": "The ultimate macro long-term vision encompassing all modern plans remains 'Prosperous Nepal and Happy Nepali'[cite: 6]."
+  },
+  {
+    "question_number": 74,
+    "question": "What is Nepal's projected per capita income by 2100 BS as per the 16th Plan?",
+    "options": {
+      "a": "$11,100",
+      "b": "$12,100",
+      "c": "$13,100",
+      "d": "$14,100"
+    },
+    "correct_answer": "b",
+    "explanation": "The long-term economic trajectory outlined in the planning documents projects per capita income to reach $12,100 by the year 2100 BS[cite: 6]."
+  },
+  {
+    "question_number": 75,
+    "question": "Long-term vision 2100 aims to upgrade Nepal to a/an ___ income level country by 2087 BS",
+    "options": {
+      "a": "Upper Middle",
+      "b": "Upper Middle",
+      "c": "High",
+      "d": "Lower Middle"
+    },
+    "correct_answer": "b",
+    "explanation": "The vision targets upgrading Nepal's economic status to an upper-middle-income country benchmark by the specified milestone year[cite: 6]."
+  }
+]

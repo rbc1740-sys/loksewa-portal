@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The ratio of volume of air void to volume of voids is called",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "void ratio",
+      "b": "air content",
+      "c": "degree of saturation",
+      "d": "porosity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3010",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following can act as a type of variation in water demand?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Monthly variation",
+      "b": "Annual variation",
+      "c": "Crop variation",
+      "d": "10 year variation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3011",
+    "chapter": ""
+  },
+  {
+    "question": "In distribution pipe, drain valve are provided at",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "lower point",
+      "b": "higher point",
+      "c": "junction point",
+      "d": "anywhere"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3012",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum number of critical path in a network should be",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3013",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum number of consulting firm for direct purchase of service",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "6"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3014",
+    "chapter": ""
+  },
+  {
+    "question": "Milestone charts are developed in",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "1900 A.D",
+      "b": "1940 A.D",
+      "c": "1957 A.D",
+      "d": "1974 A.D"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3015",
+    "chapter": ""
+  },
+  {
+    "question": "Maximum amount of water required in case of paddy is at the time",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "puddling",
+      "b": "seeding",
+      "c": "flowering",
+      "d": "harvesting"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3016",
+    "chapter": ""
+  },
+  {
+    "question": "In a canal syphon, flow is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "pipe flow",
+      "b": "under negative pressure",
+      "c": "under atmospheric pressure",
+      "d": "none"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3017",
+    "chapter": ""
+  },
+  {
+    "question": "Pitot tube is used to measure",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Discharge",
+      "b": "Velocity",
+      "c": "Area",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3018",
+    "chapter": ""
+  },
+  {
+    "question": "Single bank canal is the other name",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Ridge canal",
+      "b": "Contour canal",
+      "c": "Side slope canal",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3019",
+    "chapter": ""
+  },
+  {
+    "question": "Camber is provided on",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "straight road",
+      "b": "curved road",
+      "c": "super- elevation",
+      "d": "all of above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3020",
+    "chapter": ""
+  },
+  {
+    "question": "In water bound macadam road, binding material used is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "cement",
+      "b": "bitumen",
+      "c": "stone dust",
+      "d": "clay"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3021",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum angle for crossing is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "30 degree",
+      "b": "60 degree",
+      "c": "45 degree",
+      "d": "75 degree"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3022",
+    "chapter": ""
+  },
+  {
+    "question": "The length of vehicle has effect on",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "width of shoulder",
+      "b": "traffic density",
+      "c": "traffic volume",
+      "d": "traffic capacity"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3023",
+    "chapter": ""
+  },
+  {
+    "question": "What is the first step in highway construction after paperwork?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Evaluation",
+      "b": "Bill of quantities",
+      "c": "Surveying",
+      "d": "Estimation"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3024",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following materials are not included in highway construction?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Petrol",
+      "b": "Soil",
+      "c": "Stone",
+      "d": "Dust"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3025",
+    "chapter": ""
+  },
+  {
+    "question": "What is the minimum speed limit design for hair pin bend?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "20 Kmph",
+      "b": "30 Kmph",
+      "c": "40 Kmph",
+      "d": "50 Kmph"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3026",
+    "chapter": ""
+  },
+  {
+    "question": "The soil survey is conducted in which of the following surveys ?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Preliminary survey",
+      "b": "Reconnaissance survey",
+      "c": "Map study",
+      "d": "Topography study"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3027",
+    "chapter": ""
+  },
+  {
+    "question": "The standard width of a CGI sheet is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "32”",
+      "b": "36”",
+      "c": "40”",
+      "d": "45”"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3028",
+    "chapter": ""
+  },
+  {
+    "question": "Amount of cement bag required per cubic meter having mix (1:3:6)",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "4.3 bag",
+      "b": "3.3 bag",
+      "c": "6.3 bag",
+      "d": "5.3 bag"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3029",
+    "chapter": ""
+  },
+  {
+    "question": "Amount of cement required for 1 cubic meter mortar for plaster (1:6) is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "165 kg",
+      "b": "265 kg",
+      "c": "365 kg",
+      "d": "465 kg"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3030",
+    "chapter": ""
+  },
+  {
+    "question": "Long wall of building is measured",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "out to out",
+      "b": "in to in",
+      "c": "center to center",
+      "d": "any of above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3031",
+    "chapter": ""
+  },
+  {
+    "question": "Carpet area does not include the area of",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "the walls along with doors and other openings",
+      "b": "verandah, corridor and passage",
+      "c": "bathroom and lavatory",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3032",
+    "chapter": ""
+  },
+  {
+    "question": "The expected out turn of brick work in cement mortar in foundation and plinth per mason per day, is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "1.00 m3",
+      "b": "1.25 m3",
+      "c": "1.50 m3",
+      "d": "1.75 m3"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3033",
+    "chapter": ""
+  },
+  {
+    "question": "The item of steel work which is measured in sq.m, is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Collapsible gates",
+      "b": "Rolling shutters",
+      "c": "Steel doors",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3034",
+    "chapter": ""
+  },
+  {
+    "question": "The height of the sink of wash basin above floor level is kept",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "60 cm",
+      "b": "70 cm",
+      "c": "75 to 80 cm",
+      "d": "85 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3035",
+    "chapter": ""
+  },
+  {
+    "question": "Strength of concrete with passage of time",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Increase",
+      "b": "Decrease",
+      "c": "Fluctuates",
+      "d": "Remains constant"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3036",
+    "chapter": ""
+  },
+  {
+    "question": "Generally DPC is provided at",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "horizontal level",
+      "b": "vertical level",
+      "c": "inclined level",
+      "d": "floor level"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3037",
+    "chapter": ""
+  },
+  {
+    "question": "A cut in frame of a door to receive the shutter, is known as",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "rebate",
+      "b": "reveal",
+      "c": "stop",
+      "d": "post"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3038",
+    "chapter": ""
+  },
+  {
+    "question": "W/C ratio for M10 concrete should be",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "0.5",
+      "b": "0.65",
+      "c": "0.4",
+      "d": "0.35"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3039",
+    "chapter": ""
+  },
+  {
+    "question": "The number of treads in a flight is equal to",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "riser in flight",
+      "b": "risers plus one",
+      "c": "risers minus one",
+      "d": "None of above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3040",
+    "chapter": ""
+  },
+  {
+    "question": "Open cross staff is commonly used for setting out",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "long offsets",
+      "b": "short offsets",
+      "c": "oblique offsets",
+      "d": "none of above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3041",
+    "chapter": ""
+  },
+  {
+    "question": "Number of links in a 30 m metric chain is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "100",
+      "b": "150",
+      "c": "180",
+      "d": "200"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3042",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is the last step in chain surveying?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Fixing",
+      "b": "Reconnaissance",
+      "c": "Running survey lines",
+      "d": "Marking"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3043",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is not a method of levelling?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Spirit levelling",
+      "b": "Traverse levelling",
+      "c": "Barometric levelling",
+      "d": "Trigonometric levelling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3044",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following does not belong to the instruments of the plane table?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Spirit level",
+      "b": "Plumb bob",
+      "c": "Compass",
+      "d": "Theodolite"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3045",
+    "chapter": ""
+  },
+  {
+    "question": "The tool used for quarrying of stone is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "dipper",
+      "b": "spalling hammer",
+      "c": "jumper",
+      "d": "needle"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3046",
+    "chapter": ""
+  },
+  {
+    "question": "The most commonly used accelerator for concreting is",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "gypsum",
+      "b": "calcium chloride",
+      "c": "calcium oxide",
+      "d": "calcium sulphate"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3047",
+    "chapter": ""
+  },
+  {
+    "question": "Slag cement contains",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Lime",
+      "b": "Pozzolana",
+      "c": "Sulphate",
+      "d": "Silvercrete"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3048",
+    "chapter": ""
+  },
+  {
+    "question": "The liquid part of paint is called",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "pigment",
+      "b": "vehicle",
+      "c": "solvent",
+      "d": "drier"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3049",
+    "chapter": ""
+  },
+  {
+    "question": "Bronze is alloy of",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "copper and zinc",
+      "b": "copper and tin",
+      "c": "copper and nickel",
+      "d": "copper and chromium"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3050",
+    "chapter": ""
+  },
+  {
+    "question": "A heavy stone is suitable for",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "road",
+      "b": "rubble masonry",
+      "c": "retaining wall",
+      "d": "arches"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3051",
+    "chapter": ""
+  },
+  {
+    "question": "In which of the following types of dimensioning, the dimensions are arranged only in a straight line?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Parallel dimension",
+      "b": "Chain Dimension",
+      "c": "Combined dimension",
+      "d": "Aligned dimension"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3052",
+    "chapter": ""
+  },
+  {
+    "question": "The view actually appears to the observer when viewed from a fixed position is called",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "isometric drawing",
+      "b": "orthographic projection",
+      "c": "perspective drawing",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3053",
+    "chapter": ""
+  },
+  {
+    "question": "Which pencil is used for thinner lines?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "H",
+      "b": "B",
+      "c": "2B",
+      "d": "2H"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3054",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following scales is used in survey maps ?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "Engineer’s scale",
+      "b": "Diagonal scale",
+      "c": "Graphical scale",
+      "d": "Vernier scale"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3055",
+    "chapter": ""
+  },
+  {
+    "question": "The free hand drawing of an ordinary room is generally:",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "one point perspective",
+      "b": "two point perspective",
+      "c": "three point perspective",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3056",
+    "chapter": ""
+  },
+  {
+    "question": "The sewerage originates from",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "main sewer",
+      "b": "branch sewer",
+      "c": "house sewer",
+      "d": "lateral sewer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3057",
+    "chapter": ""
+  },
+  {
+    "question": "The decrease in void ratio per unit increase of pressure is called?",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "coefficient of permeability",
+      "b": "coefficient of compressibility",
+      "c": "coefficient of compressibility volume",
+      "d": "none"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3058",
+    "chapter": ""
+  },
+  {
+    "question": "Physical characteristics of sewage is:",
+    "topic": "Lumbini Pradesh - V",
+    "options": {
+      "a": "color",
+      "b": "turbidity",
+      "c": "odour",
+      "d": "all"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3059",
+    "chapter": ""
+  }
+]

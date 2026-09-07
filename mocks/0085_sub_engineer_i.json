@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The spacing of cross-sections in a hilly country is usually",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "5 m",
+      "b": "10m",
+      "c": "15m",
+      "d": "20m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3600",
+    "chapter": ""
+  },
+  {
+    "question": "While working on a plane table, the correct rule is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Draw continious line from all instrument stations",
+      "b": "Draw short rays sufficient to contain the points sought",
+      "c": "Intersection should be obtained by actually drawing second rays",
+      "d": "Take maximum number of sight as possible from each station to distant object"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3601",
+    "chapter": ""
+  },
+  {
+    "question": "Marbles used for flooring and decorative facades are",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Sedimentary rock",
+      "b": "Metamorphic rock",
+      "c": "Igneous rock",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3602",
+    "chapter": ""
+  },
+  {
+    "question": "Bitumen should not be heated beyond",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "100 degree celcius",
+      "b": "125 degree celcius",
+      "c": "150 degree celcius",
+      "d": "200 degree celcius"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3603",
+    "chapter": ""
+  },
+  {
+    "question": "The entrapped air in concrete",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "increases workability",
+      "b": "decreases workability",
+      "c": "increases strength",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3604",
+    "chapter": ""
+  },
+  {
+    "question": "The approximate ratio of direct tensile strength to flexural strength is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "0.25",
+      "b": "0.33",
+      "c": "0.5",
+      "d": "0.90"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3605",
+    "chapter": ""
+  },
+  {
+    "question": "The notch formula is given by",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Q=2/3 CdL 2g H^3/2",
+      "b": "Q=2/3 CdB 2g H^3/2",
+      "c": "Q=2/4 CdL 2g H^3/2",
+      "d": "Q=2/4 CdB 2g H^3/2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3606",
+    "chapter": ""
+  },
+  {
+    "question": "The two depth at which the specific energy is the same is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "alternate depths",
+      "b": "conjugate depths",
+      "c": "critical depths",
+      "d": "normal depth"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3607",
+    "chapter": ""
+  },
+  {
+    "question": "Permeability of a soil is affected by __________ .",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Size of soil particle",
+      "b": "Void ratio",
+      "c": "Degree of saturation",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3608",
+    "chapter": ""
+  },
+  {
+    "question": "The pressure-void ratio curve will be linear when ______",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Plotted on ordinary paper",
+      "b": "Plotted on semi-log paper",
+      "c": "Plotted on log-log paper",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3609",
+    "chapter": ""
+  },
+  {
+    "question": "The beam strongest in flexure will have maximum",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "moment of inertia",
+      "b": "section modulus",
+      "c": "area of cross-section",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3610",
+    "chapter": ""
+  },
+  {
+    "question": "Stress in a beam due to simple bending, is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "inversely proportional",
+      "b": "directly proportional",
+      "c": "curvilinearly related",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3611",
+    "chapter": ""
+  },
+  {
+    "question": "The structure on which arch rests is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "pier",
+      "b": "column",
+      "c": "arch column",
+      "d": "abutment"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3612",
+    "chapter": ""
+  },
+  {
+    "question": "The bond filled with 4 bat and ½ closer with the regular header and stretcher is known as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "raking bond",
+      "b": "facing bond",
+      "c": "english bond",
+      "d": "dutch bond"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3613",
+    "chapter": ""
+  },
+  {
+    "question": "An artesian aquifer is the one where:",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Water surface under the ground is at atmospheric pressure",
+      "b": "Water is under pressure between two impervious strata",
+      "c": "Water table serves as upper surface of zone of saturation",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3614",
+    "chapter": ""
+  },
+  {
+    "question": "Septic tank is designed on the basis of sludge storage of:",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "30 litre/person",
+      "b": "60 litre/person",
+      "c": "90 litre/person",
+      "d": "100 litre/person"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3615",
+    "chapter": ""
+  },
+  {
+    "question": "A deep well:",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "is always deeper than a shallow well",
+      "b": "has more discharge than a shallow well",
+      "c": "is weaker structurally than a shallow well",
+      "d": "both (a) and (b)"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3616",
+    "chapter": ""
+  },
+  {
+    "question": "The degree of sinuosity is the ratio between",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "meander length and meander width",
+      "b": "meander width and river bed width",
+      "c": "curved length and straight air length",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3617",
+    "chapter": ""
+  },
+  {
+    "question": "The types of surface dressing generally used for existing pavement is",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "premix",
+      "b": "single surface dressing",
+      "c": "double surface dressing",
+      "d": "triple surface dressing"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3618",
+    "chapter": ""
+  },
+  {
+    "question": "The loosening of the top surface of a road by pick axes is called",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "picking",
+      "b": "peeling",
+      "c": "blistering",
+      "d": "scarifying"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3619",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement is per quintal for the following:",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Collapsible gates with rails",
+      "b": "Rolling shutters",
+      "c": "Expanded metal wire netting",
+      "d": "M.S. reinforcement of R.C.C. works"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3620",
+    "chapter": ""
+  },
+  {
+    "question": "The diameter of a domestic sewer pipe laid at gradient 1 in 100 is recommended",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "100 mm",
+      "b": "150 mm",
+      "c": "200 mm",
+      "d": "175 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3621",
+    "chapter": ""
+  },
+  {
+    "question": "The mean of squared deviation from the mean of distribution is known as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "mode",
+      "b": "standard deviation",
+      "c": "deviation",
+      "d": "variance"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3622",
+    "chapter": ""
+  },
+  {
+    "question": "The railway projects are treated as",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "light construction",
+      "b": "heavy construction",
+      "c": "industrial construction",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3623",
+    "chapter": ""
+  },
+  {
+    "question": "According to I.C.A.O. the slope of transitional surface at right angles to the centre line of runway, is kept",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "1 in 4",
+      "b": "1 in 5",
+      "c": "1 in 6",
+      "d": "1 in 7"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3624",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको उत्तर-दक्षिण अधिकतम चौडाइ २४१ किलोमिटर रहेको छ भने न्यूनतम चौडाइ कति छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "१४५ कि.मि",
+      "b": "१९३ कि.मि",
+      "c": "२०१ कि.मि",
+      "d": "२४५ कि.मि"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3625",
+    "chapter": ""
+  },
+  {
+    "question": "ललितपुरमा मानव बस्ती बसाल्ने राजा को हुन्?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "बलदेव",
+      "b": "अरिदेव",
+      "c": "वरदेव",
+      "d": "आनन्ददेव"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3626",
+    "chapter": ""
+  },
+  {
+    "question": "आ.व २०८०/८१ अनुसार सन् २०२३ मा पर्यटकको औसत बसाई कति रहेको छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "१३.१ दिन",
+      "b": "१३.२ दिन",
+      "c": "१३.३ दिन",
+      "d": "१३.४ दिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3627",
+    "chapter": ""
+  },
+  {
+    "question": "U.N.O को ७९ औँ महासभाको अध्यक्षता गर्ने व्यक्ति को हुन् ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Peter Thomsom",
+      "b": "Paul Henri Spak",
+      "c": "Peter Florin",
+      "d": "Philemon Yang"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3628",
+    "chapter": ""
+  },
+  {
+    "question": "पैतृक सम्पत्तिमा सबै सन्तानको समान हक हुने व्यवस्था कुन मौलिक हक अन्तर्गत पर्दछ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "स्वतन्त्रताको हक",
+      "b": "सम्पत्तिको हक",
+      "c": "समानताको हक",
+      "d": "महिलाको हक"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3629",
+    "chapter": ""
+  },
+  {
+    "question": "बिमस्टेकको बडापत्रमा कति भाग, कति धारा र कति अनुसूची रहेका छन् ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "५ भाग ३६ धारा र २ अनुसूची",
+      "b": "५ भाग ३६ धारा र २ अनुसूची",
+      "c": "८ भाग ३३ धारा र २ अनुसूची",
+      "d": "११ भाग ३६ धारा र २ अनुसूची"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3630",
+    "chapter": ""
+  },
+  {
+    "question": "ग्रामोफोनको आविष्कार कसले गरेका थिए?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "माइकल फराडे",
+      "b": "फरेनहाइट",
+      "c": "सर अलेक्जेंडर ग्राहम बेल",
+      "d": "थोमस अल्भा एडिसन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3631",
+    "chapter": ""
+  },
+  {
+    "question": "गण्डकी प्रदेशको दोस्रो पञ्चवर्षीय योजनाको सोच के रहेको छ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "“समृद्ध प्रदेश र सुखी नागरिक”",
+      "b": "“गुणस्तरीय सार्वजनिक सेवा र सुशासन अभिवृद्ध”",
+      "c": "“आत्मनिर्भर र समुन्तत प्रदेश : सम्मानित प्रदेशवासी”",
+      "d": "माथिका सबै"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3632",
+    "chapter": ""
+  },
+  {
+    "question": "दुबईमा सम्पन्न नवौँ संस्करणको महिला टी-20 विश्वकपको उपाधि कसले जित्यो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "भारत",
+      "b": "साउथ अफ्रिका",
+      "c": "न्युजिल्याड",
+      "d": "पाकिस्तान"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3633",
+    "chapter": ""
+  },
+  {
+    "question": "कति समयभन्दा ज्यादा अवधिको लागि कुनै पनि सरकारी कर्मचारीलाई काजमा खटाउन पाइँदैन ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "एक महिना",
+      "b": "तीन महिना",
+      "c": "छ महिना",
+      "d": "एक वर्ष"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3634",
+    "chapter": ""
+  },
+  {
+    "question": "घाटा बजेट ल्याउने श्रेय कसलाई दिइन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "आदम स्मिथ",
+      "b": "जन मेनार्ड केन्स",
+      "c": "कार्ल मार्क्स",
+      "d": "मिल्टन फ्रिडमान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3635",
+    "chapter": ""
+  },
+  {
+    "question": "बेलायतमा सार्वजनिक सेवा वडापत्र पून: लागू गर्दा कति वटा सिद्धान्तहरु थिए ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "७",
+      "b": "८",
+      "c": "९",
+      "d": "१०"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3636",
+    "chapter": ""
+  },
+  {
+    "question": "सुशासन नियमावली, २०६५ अनुसार अति जरुरी लेखिएको चिठ्ठीको कार्य फछ्रयौट कति अवधि भित्र गर्नु पर्दछ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "१ दिन भित्र",
+      "b": "२ दिन भित्र",
+      "c": "५ दिन भित्र",
+      "d": "७ दिन भित्र"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3637",
+    "chapter": ""
+  },
+  {
+    "question": "राज्यको दैनिक प्रशासनीक खर्च, तलब,भत्ता, आदिमा हुने खर्चलाई कुन प्रकारको बजेट शिर्षक अन्तर्गत राखिन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "पुजीगत बजेट",
+      "b": "चालु बजेट",
+      "c": "वित्तीय व्यवस्थापन बजेट",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3638",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा राष्ट्रिय मानव अधिकार आयोग कहिले गठन भएको थियो ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "सन् १९७५",
+      "b": "सन् २०००",
+      "c": "सन् २०१०",
+      "d": "सन् २००५"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3639",
+    "chapter": ""
+  },
+  {
+    "question": "289: 272:: 361:?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "342",
+      "b": "346",
+      "c": "328",
+      "d": "332"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3640",
+    "chapter": ""
+  },
+  {
+    "question": "Complete the series given below. 120, 99, 80, 63, 48, __",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "35",
+      "b": "38",
+      "c": "42",
+      "d": "32"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3641",
+    "chapter": ""
+  },
+  {
+    "question": "SCD, TEF, UGH, ____, WKL",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "CMN",
+      "b": "UJI",
+      "c": "VIJ",
+      "d": "IJT"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3642",
+    "chapter": ""
+  },
+  {
+    "question": "आयतको लम्बाई र चौडाइ लाई क्रमश ३०% र २०% बढाउदा क्षेत्रफलमा कति प्रतिशतले बढ्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "३० %",
+      "b": "५६ %",
+      "c": "६५ %",
+      "d": "७३ %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3643",
+    "chapter": ""
+  },
+  {
+    "question": "१० महिलाले कुनै काम ७ दिनमा र सोहि काम १० बालबालिकाले १४ दिनमा गर्न सक्छन भने ५ महिला र १० बालबालिकाले सो काम कति दिनमा गर्न सक्छन ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "३",
+      "b": "५",
+      "c": "७",
+      "d": "९"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3644",
+    "chapter": ""
+  },
+  {
+    "question": "सीता उत्तर दिशातर्फ गइन् र दाहिनेतर्फ फर्किन त्यसपछि पुन दाहिने फर्किन् र एकछिन पछि बायाँ फर्केर अगाडि बढिन्, अव सीता कुन दिशातर्फ जादैछिन् ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "दक्षिण",
+      "b": "पूर्व",
+      "c": "पश्चिम",
+      "d": "उत्तर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3645",
+    "chapter": ""
+  },
+  {
+    "question": "यदि MARINE को कोड 4-1-9-9-5-5 भए LIONEL को कोड के हुन्छ ?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "3-9-6-5-5-3",
+      "b": "4-8-7-3-3-2",
+      "c": "4-7-6-8-8-5",
+      "d": "5-6-8-4-4-5"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3646",
+    "chapter": ""
+  },
+  {
+    "question": "Sam ranked 9th from the top and 38th from the bottom in a class. How many students are there in the class?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "45",
+      "b": "47",
+      "c": "46",
+      "d": "48"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3647",
+    "chapter": ""
+  },
+  {
+    "question": "K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "East",
+      "b": "West",
+      "c": "North-East",
+      "d": "South"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3648",
+    "chapter": ""
+  },
+  {
+    "question": "Choose the odd one which is different from the following alternatives.",
+    "topic": "गण्डकी प्रदेश (Sub-engineer-I)",
+    "options": {
+      "a": "Pear",
+      "b": "Apple",
+      "c": "Litchi",
+      "d": "Orange"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3649",
+    "chapter": ""
+  }
+]

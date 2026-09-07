@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The least count of direct vernier is:",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "p-v",
+      "b": "v-p",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2160",
+    "chapter": ""
+  },
+  {
+    "question": "The reference level for measuring vertical distance of the point is _______ .",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "RL",
+      "b": "datum",
+      "c": "station level",
+      "d": "level surface"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2161",
+    "chapter": ""
+  },
+  {
+    "question": "Theodolite is used for ______.",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "measuring horizontal distance",
+      "b": "measuring angle",
+      "c": "measuring height",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2162",
+    "chapter": ""
+  },
+  {
+    "question": "What is the art of writing the various sizes or measurements on the finished drawing of an object ?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "drafting",
+      "b": "dimensioning",
+      "c": "annotating",
+      "d": "scaling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2163",
+    "chapter": ""
+  },
+  {
+    "question": "Which type of line has precedence over all other types of lines ?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "a hidden line",
+      "b": "a center line",
+      "c": "a visible line",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2164",
+    "chapter": ""
+  },
+  {
+    "question": "The paper size of A4 is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "148 * 210 mm",
+      "b": "210 * 297 mm",
+      "c": "297 * 420 mm",
+      "d": "420 * 594 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2165",
+    "chapter": ""
+  },
+  {
+    "question": "In one plane drawing, which one does not falls under",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "orthographic",
+      "b": "axonometric",
+      "c": "oblique",
+      "d": "dimetric"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2166",
+    "chapter": ""
+  },
+  {
+    "question": "What is the formula for calculating the length of the scale?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "Minimum length to be measured x R.F.",
+      "b": "Minimum length to be measured ÷ R.F.",
+      "c": "Maximum length to be measured ÷ R.F.",
+      "d": "Maximum length to be measured x R.F."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2167",
+    "chapter": ""
+  },
+  {
+    "question": "The essential requirements to prepare a good estimate are",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "a full-dimensioned drawing to scale",
+      "b": "detailed specifications",
+      "c": "schedule of rates",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2168",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of the supply of brick is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "m3",
+      "b": "m",
+      "c": "m2",
+      "d": "number"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2169",
+    "chapter": ""
+  },
+  {
+    "question": "The unit rate is only for",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "finding cost",
+      "b": "preparation of bid document",
+      "c": "consultant",
+      "d": "contractor"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2170",
+    "chapter": ""
+  },
+  {
+    "question": "1 Hectare area is equal to",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "1000 m²",
+      "b": "10000 m²",
+      "c": "100000 m²",
+      "d": "100 m²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2171",
+    "chapter": ""
+  },
+  {
+    "question": "The salvage value of any structure is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "less than the scrap value",
+      "b": "more than the scrap value",
+      "c": "equal to the scrap value",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2172",
+    "chapter": ""
+  },
+  {
+    "question": "The information that cannot be included in drawings is conveyed to the estimator through",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "specification",
+      "b": "cover note",
+      "c": "progress chart",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2173",
+    "chapter": ""
+  },
+  {
+    "question": "The standard width of the CGI sheet is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "32”",
+      "b": "40”",
+      "c": "50”",
+      "d": "60”"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2174",
+    "chapter": ""
+  },
+  {
+    "question": "Crushing strength for most of the building stone should be more than",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "500 kg/cm²",
+      "b": "1000 kg/cm²",
+      "c": "1500 kg/cm²",
+      "d": "2000 kg/cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2175",
+    "chapter": ""
+  },
+  {
+    "question": "A slow-setting cement has a higher percentage of",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "tricalcium aluminate",
+      "b": "tricalcium silicate",
+      "c": "dicalcium silicate",
+      "d": "gypsum"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2176",
+    "chapter": ""
+  },
+  {
+    "question": "In a sound cement, the magnesia content is limited to",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "3 %",
+      "b": "4 %",
+      "c": "5 %",
+      "d": "6 %"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2177",
+    "chapter": ""
+  },
+  {
+    "question": "For preparing porcelains, the clay should be",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "sufficiently pure",
+      "b": "of high degree of tenacity",
+      "c": "of good plasticity",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2178",
+    "chapter": ""
+  },
+  {
+    "question": "Distemper is a",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "a paint consisting of powdered chalk, pigments, and water",
+      "b": "a waterproofing agent",
+      "c": "a paint consisting of coloured cement and water",
+      "d": "a drying agent"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2179",
+    "chapter": ""
+  },
+  {
+    "question": "The commonly used extender in a pant is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "barium sulfate",
+      "b": "gypsum",
+      "c": "alcohol",
+      "d": "any one of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2180",
+    "chapter": ""
+  },
+  {
+    "question": "The addition of pozzolana to Portland cement causes",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "less heat of hydration",
+      "b": "increase in shrinkage",
+      "c": "decrease in permeability",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2181",
+    "chapter": ""
+  },
+  {
+    "question": "Which among these is a method of wiring?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "Joint box",
+      "b": "Tee System",
+      "c": "Loop in system",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2182",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum number of wire in three phase system is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2183",
+    "chapter": ""
+  },
+  {
+    "question": "As the diameter of the sewer increases, the self-cleaning velocity",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains",
+      "d": "depends on other factors"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2184",
+    "chapter": ""
+  },
+  {
+    "question": "What is the primary purpose of using lighting fixtures in interior spaces ?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "Decoration",
+      "b": "Heat generation",
+      "c": "Illumination",
+      "d": "Reducing electricity consumption"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2185",
+    "chapter": ""
+  },
+  {
+    "question": "A socket is used to _______ .",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "join two similar pipes",
+      "b": "divert direction of pipe",
+      "c": "keep the pipe in same direction",
+      "d": "join two dissimilar pipes"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2186",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको निजामती सेवामा कहिलेदेखि आरक्षणको प्रावधान राखिएको हो ?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "२०६४ श्रावण २२ गते",
+      "b": "२०६४ श्रावण २३ गते",
+      "c": "२०६५ श्रावण २२ गते",
+      "d": "२०६३ श्रावण २३ गते"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2187",
+    "chapter": ""
+  },
+  {
+    "question": "दिएको समय अवधि भित्र भवन निर्माण गर्न नसकिने भएमा कति अवधिको लागि म्याद थप गर्न सकिन्छ?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "१ वर्ष",
+      "b": "१.५ वर्ष",
+      "c": "२ वर्ष",
+      "d": "२.५ वर्ष"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2188",
+    "chapter": ""
+  },
+  {
+    "question": "The strength of concrete at 28 days as percentage of the strength at one year is ________ .",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "80%",
+      "b": "60%",
+      "c": "95%",
+      "d": "50%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2189",
+    "chapter": ""
+  },
+  {
+    "question": "The number of blows recorded in a standard penetration test is for penetration of",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "10 cm",
+      "b": "20 cm",
+      "c": "30 cm",
+      "d": "40 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2190",
+    "chapter": ""
+  },
+  {
+    "question": "The bearing capacity of soils can be improved by",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "increasing the depth of the footing",
+      "b": "draining the sub-soil water",
+      "c": "ramming the granular material like crushed stone in the soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2191",
+    "chapter": ""
+  },
+  {
+    "question": "The operation of finishing the mortar joints after the completion of a masonry wall is known as",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "toothing",
+      "b": "pointing",
+      "c": "racking back",
+      "d": "jointing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2192",
+    "chapter": ""
+  },
+  {
+    "question": "The D.P.C is provided for efficiency, at",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "just below the ground floor level",
+      "b": "the window sill level",
+      "c": "anywhere on the wall",
+      "d": "below the topmost floor level"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2193",
+    "chapter": ""
+  },
+  {
+    "question": "The workability of concrete can be improved by the addition of the following compounds",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "iron",
+      "b": "sodium",
+      "c": "zinc",
+      "d": "sulfur"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2194",
+    "chapter": ""
+  },
+  {
+    "question": "A horizontal member of the frame which divides the window horizontally",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "rail",
+      "b": "transit",
+      "c": "transom",
+      "d": "divider"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2195",
+    "chapter": ""
+  },
+  {
+    "question": "The biggest disadvantage of brick flooring is that",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "it is very expensive",
+      "b": "it requires skilled workmen",
+      "c": "it is water-absorbent",
+      "d": "it is not fire-resistant"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2196",
+    "chapter": ""
+  },
+  {
+    "question": "What plays a great role in fixing the height of a bridge?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "HFL (Highest Flood Level)",
+      "b": "Design",
+      "c": "Type of traffic",
+      "d": "Valley curve"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2197",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is not a method of soil conservation ?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "intercropping",
+      "b": "mulching",
+      "c": "contour plowing",
+      "d": "weathering"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2198",
+    "chapter": ""
+  },
+  {
+    "question": "Which is the first highway of Nepal ?",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "Prithvi highway",
+      "b": "Tribhuwan highway",
+      "c": "Mahendra highway",
+      "d": "Araniko highway"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2199",
+    "chapter": ""
+  },
+  {
+    "question": "In class-III roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "20,000 PCU or more",
+      "b": "5,000-20,000 PCU",
+      "c": "2,000-5,000 PCU",
+      "d": "<2,000 PCU"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2200",
+    "chapter": ""
+  },
+  {
+    "question": "The most suitable location for a canal head work, is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "boulders stage of the river",
+      "b": "delta stage of the river",
+      "c": "rock stage of the river",
+      "d": "trough stage of the river"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2201",
+    "chapter": ""
+  },
+  {
+    "question": "The supply passing down the parent channel is controlled by",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "head regulator",
+      "b": "cross regulator",
+      "c": "distributary head regulator",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2202",
+    "chapter": ""
+  },
+  {
+    "question": "The types of irrigation is during low quantity of water",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "sprinkler irrigation",
+      "b": "drip irrigation",
+      "c": "free flooding",
+      "d": "furrow method"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2203",
+    "chapter": ""
+  },
+  {
+    "question": "The source of water in the mountains is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "tube well",
+      "b": "well",
+      "c": "stream",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2204",
+    "chapter": ""
+  },
+  {
+    "question": "The gasses given out of the septic tank are",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "CH4 oxygen and hydrogen",
+      "b": "CO2, H2S and methane",
+      "c": "CO2, PH3, and ammonia",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2205",
+    "chapter": ""
+  },
+  {
+    "question": "The type of joint generally used in cast iron pipes, is",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "flanged joint",
+      "b": "socket and spigot joint",
+      "c": "anchorages",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2206",
+    "chapter": ""
+  },
+  {
+    "question": "Closed contours of decreasing values towards their center represent _________.",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "a hill",
+      "b": "a depression",
+      "c": "a plain",
+      "d": "a river bed"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2207",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum number of ranging rods required for direct ranging is ______ .",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "2 nos",
+      "b": "3 nos",
+      "c": "4 nos",
+      "d": "5 nos"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2208",
+    "chapter": ""
+  },
+  {
+    "question": "The boundary of a still lake represents:",
+    "topic": "सुदूरपश्चिम प्रदेश - I",
+    "options": {
+      "a": "level line",
+      "b": "level surface",
+      "c": "contour",
+      "d": "horizontal line"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2209",
+    "chapter": ""
+  }
+]

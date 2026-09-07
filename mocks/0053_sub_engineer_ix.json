@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Bowditch's rule is applied to",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "an open traverse for graphical adjustment",
+      "b": "determine the effect of local attraction",
+      "c": "a closed traverse for adjustment of closing error",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1910",
+    "chapter": ""
+  },
+  {
+    "question": "The compressive strength of perforated bricks should not be less than",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "20 MN/m²",
+      "b": "30 MN/m²",
+      "c": "40 MN/m²",
+      "d": "50 MN/m²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1911",
+    "chapter": ""
+  },
+  {
+    "question": "The initial setting time of lime-pozzolana, is",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "30 minutes",
+      "b": "60 minutes",
+      "c": "90 minutes",
+      "d": "120 minutes."
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1912",
+    "chapter": ""
+  },
+  {
+    "question": "Hooke's law holds good up to",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "yield point",
+      "b": "elastic limit",
+      "c": "plastic limit",
+      "d": "breaking point"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1913",
+    "chapter": ""
+  },
+  {
+    "question": "A beam that is fixed at one end and free at the other end is called",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "simply supported beam",
+      "b": "fixed beam",
+      "c": "overhanging beam",
+      "d": "cantilever beam"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1914",
+    "chapter": ""
+  },
+  {
+    "question": "A simple stress formula is applicable to",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "long column",
+      "b": "short column",
+      "c": "medium column",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1915",
+    "chapter": ""
+  },
+  {
+    "question": "A structure used to dam up a stream or river over which the water flows is called",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "orifice",
+      "b": "notch",
+      "c": "weir",
+      "d": "dam"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1916",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of the percentage error in the discharge and percentage error in the measurement of the head, over a rectangular notch, is",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "1/2",
+      "b": "2/3",
+      "c": "3/2",
+      "d": "3/4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1917",
+    "chapter": ""
+  },
+  {
+    "question": "A pitot tube is used to measure",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "pressure",
+      "b": "difference in pressure",
+      "c": "velocity of flow",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1918",
+    "chapter": ""
+  },
+  {
+    "question": "\"शैलुङ पहाड\" तलका मध्ये कुन जिल्लामा अवस्थित छ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "कैलाली",
+      "b": "दोलखा",
+      "c": "सुर्खेत",
+      "d": "उदयपुर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1919",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको इतिहासमा \"पञ्चायतको मलामी\" भनेर कसलाई चिनिन्छ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "लोकेन्द्र बहादुर चन्द",
+      "b": "सूर्यबहादुर थापा",
+      "c": "मरिचमान सिंह श्रेष्ठ",
+      "d": "मनमोहन अधिकारी"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1920",
+    "chapter": ""
+  },
+  {
+    "question": "आर्थिक बर्ष २०८१/८२ को कुल बजेट कति रहेको छ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "१७ खर्ब ५१ अर्ब ३१ करोड",
+      "b": "१८ खर्ब ५१ अर्ब ३० करोड",
+      "c": "१८ खर्ब ६० अर्ब ३० करोड",
+      "d": "१७ खर्ब ३१ अर्ब ५१ करोड"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1921",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालले कहिले CITES मा हस्ताक्षर गर्‍यो ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "१९७२",
+      "b": "१९७५",
+      "c": "१९८२",
+      "d": "१९९२"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1922",
+    "chapter": ""
+  },
+  {
+    "question": "तापको अविनाशको सिद्धान्त कसले प्रतिपादन गरेका हुन् ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "न्युटन",
+      "b": "ग्यालिलियो",
+      "c": "टेस्ला",
+      "d": "जुल"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1923",
+    "chapter": ""
+  },
+  {
+    "question": "BCG को पूरा रुप के हो ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "Bacterial Containment Germ",
+      "b": "Bacillus Calmette Guerin",
+      "c": "Basic Care for Growth",
+      "d": "Biological Cellular Growth"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1924",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्ये कुन जिल्ला कर्णाली प्रदेशमा पर्दैन ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "जुम्ला",
+      "b": "मुगु",
+      "c": "दैलेख",
+      "d": "डोटी"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1925",
+    "chapter": ""
+  },
+  {
+    "question": "संयुक्त राष्ट्रसंघद्वारा मानव अधिकार घोषणापत्र कहिले जारी गरिएको हो ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "सन् १९४७",
+      "b": "सन् १९४८",
+      "c": "सन् १९४९",
+      "d": "सन् १९५०"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1926",
+    "chapter": ""
+  },
+  {
+    "question": "क्षेत्रफलको हिसाबले आसियानको सबैभन्दा ठूलो र सानो राष्ट्र क्रमश कुन कुन हुन् ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "थाइल्याण्ड र सिङ्गापुर",
+      "b": "थाइल्याण्ड र ब्रुनाइ",
+      "c": "मलेशिया र सिङ्गापुर",
+      "d": "इण्डोनेशिया र सिङ्गापुर"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1927",
+    "chapter": ""
+  },
+  {
+    "question": "वर्ल्ड ह्याप्पिनेस रिपोर्ट, २०२४ अनुसार विश्व खुसी सूचका‌ङ्कमा नेपाल कति औं स्थानमा रहेको छ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "९२ औं",
+      "b": "९३ औं",
+      "c": "९४ औं",
+      "d": "९५ औं"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1928",
+    "chapter": ""
+  },
+  {
+    "question": "कार्यालय संचालनको लागि आवश्यक पर्ने सबै साधन र सुविधालाई के भनिन्छ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "जनशक्ति",
+      "b": "वित्तिय स्रोत साधन",
+      "c": "कार्यालय स्रोत साधन",
+      "d": "भौतिक सामाग्री"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1929",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती सेवा दिवस कहिले मनाइन्छ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "श्रावण २२",
+      "b": "जेष्ठ २२",
+      "c": "भाद्र २२",
+      "d": "असार २२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1930",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधानमा उल्लेख गरिएको नागरिकको कर्तव्यमा तलका मध्ये कुन पर्दैन ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "संविधान र कानूनको पलना गर्नु",
+      "b": "सार्वजनिक सम्पत्तिको सुरक्षा र संरक्षण गर्नु",
+      "c": "राज्यले चाहेका बखत अनिवार्य सेवा गर्नु",
+      "d": "राज्यलाई अनिवार्य कर तिर्नु"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1931",
+    "chapter": ""
+  },
+  {
+    "question": "Who deduced the concept of POSDCoRB ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "Maslow",
+      "b": "Fayol",
+      "c": "Gullick",
+      "d": "Weber"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1932",
+    "chapter": ""
+  },
+  {
+    "question": "मलेसियामा नागरिक वडापत्रको नाम के हो ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "सर्भिस चार्टर",
+      "b": "क्लाइन्ट चार्टर",
+      "c": "सिटिजन्स चार्टर",
+      "d": "पब्लिक सर्भिस युजर्स चार्टर"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1933",
+    "chapter": ""
+  },
+  {
+    "question": "ज्यू ज्यानको सुरक्षा सम्बन्धित सूचना माग गरेमा कति समयभित्रमा उपलब्ध गराइसक्नुपर्छ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "२४ घण्टा",
+      "b": "२ दिन",
+      "c": "५ दिन",
+      "d": "१ घण्टा"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1934",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहको विशेषतामा तलका मध्ये कुन पर्दछ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "सेवा प्रवाहमा निरन्तरता",
+      "b": "सेवा प्रवाहमा एकरुपता",
+      "c": "सेवा प्रवाहमा विविधता",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1935",
+    "chapter": ""
+  },
+  {
+    "question": "नेपलाको पहिलो बजेटमा कति आम्दानी अनुमान गरिएको थियो ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "५,२५,२१,०००",
+      "b": "५,२१,२५,०००",
+      "c": "३,०५,१६,०००",
+      "d": "३,१५,०५,०००"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1936",
+    "chapter": ""
+  },
+  {
+    "question": "सङ्‍घीय निजामती सेवा सम्बन्धित अभिलेख व्यवस्थापन कुन मन्त्रालयले गर्दछ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "गृह मन्त्रालय",
+      "b": "सङ्‍घीय मामला तथा सामान्य प्रशासन मन्त्रालय",
+      "c": "स्थानीय विकास मन्त्रालय",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1937",
+    "chapter": ""
+  },
+  {
+    "question": "संवैधानिक निकायका सदस्यहरूको कार्यकाल कति हुन्छ ?",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "३ वर्ष",
+      "b": "५ वर्ष",
+      "c": "६ वर्ष",
+      "d": "७ वर्ष"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1938",
+    "chapter": ""
+  },
+  {
+    "question": "The tensile strength of concrete for RCC beam design is",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "0.2fck",
+      "b": "0.1fck",
+      "c": "0.05fck",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1939",
+    "chapter": ""
+  },
+  {
+    "question": "A rigid frame is a structure composed of members that are connected by",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "a single rivet",
+      "b": "rigid joints",
+      "c": "simple bearing",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1940",
+    "chapter": ""
+  },
+  {
+    "question": "Combined footing is generally used when",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "no. of columns are more than two and are spaced far apart",
+      "b": "no. of columns are two and are spaced close to each other",
+      "c": "no. of columns are two and are spaced far apart",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1941",
+    "chapter": ""
+  },
+  {
+    "question": "The property of soil which if of great importance in finding the settlement of structures, is",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "consolidation",
+      "b": "shear strength",
+      "c": "permeability",
+      "d": "compressibility"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1942",
+    "chapter": ""
+  },
+  {
+    "question": "The conception of idea for any construction work is the responsibility of:",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "Engineer",
+      "b": "Owner",
+      "c": "Contractor",
+      "d": "All of above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1943",
+    "chapter": ""
+  },
+  {
+    "question": "Which is not a responsibility of civil sub engineer while working on the behalf of government agencies:",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "Project design",
+      "b": "Work supervision",
+      "c": "Measurements of completed works",
+      "d": "Reporting"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1944",
+    "chapter": ""
+  },
+  {
+    "question": "The total depth of water required by a crop during the entire period the crop is in the field, is known as ____ .",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "Delta",
+      "b": "Duty",
+      "c": "Base period",
+      "d": "Crop period"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1945",
+    "chapter": ""
+  },
+  {
+    "question": "The main cause of silting in channels is",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "Non-regime section",
+      "b": "Inadequate slope",
+      "c": "Defective head regulator",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1946",
+    "chapter": ""
+  },
+  {
+    "question": "In the detailed estimate the volumes are worked out to the nearest",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "0.001 m3",
+      "b": "0.01 m3",
+      "c": "0.05 m3",
+      "d": "0.005 m3"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1947",
+    "chapter": ""
+  },
+  {
+    "question": "The weight of an item is measured correctly to the nearest to",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "1 kg",
+      "b": "2 kg",
+      "c": "3 kg",
+      "d": "4 kg"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1948",
+    "chapter": ""
+  },
+  {
+    "question": "The water supply pipeline should be tested at a specified pressure for",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "one hour",
+      "b": "two hour",
+      "c": "three hour",
+      "d": "four hour"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1949",
+    "chapter": ""
+  },
+  {
+    "question": "A circular section for sewer is preferred only up to a diameter of",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "10 cm",
+      "b": "20 cm",
+      "c": "30 cm",
+      "d": "60 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1950",
+    "chapter": ""
+  },
+  {
+    "question": "Flexible material used for damp proofing is",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "bitumen sheeting",
+      "b": "mastic asphalt",
+      "c": "cement concrete",
+      "d": "slate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1951",
+    "chapter": ""
+  },
+  {
+    "question": "ISI has specified the full strength of concrete after",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "7 days",
+      "b": "15 days",
+      "c": "21 days",
+      "d": "28 days"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1952",
+    "chapter": ""
+  },
+  {
+    "question": "Extra width of psychological widening on the curve is provided",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "inner side only",
+      "b": "outer side only",
+      "c": "half on both sides",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1953",
+    "chapter": ""
+  },
+  {
+    "question": "The shape of the vertical curve is",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "elliptical",
+      "b": "circular",
+      "c": "parabolic",
+      "d": "spiral"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1954",
+    "chapter": ""
+  },
+  {
+    "question": "As per ICAO for determining basic runway length aircraft should come to stop within:",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "50% of runway length",
+      "b": "60% of runway length",
+      "c": "70% of runway length",
+      "d": "80% of runway length"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1955",
+    "chapter": ""
+  },
+  {
+    "question": "Holding line marking is provided in:",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "Runway",
+      "b": "Taxiway",
+      "c": "Shoulder",
+      "d": "Threshold"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1956",
+    "chapter": ""
+  },
+  {
+    "question": "The compressive strength of stone is found out by",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "attrition test",
+      "b": "crushing test",
+      "c": "hardness test",
+      "d": "impact test"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1957",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum horizontal distance between any two consecutive contours is known as",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "contour line",
+      "b": "contour interval",
+      "c": "horizontal equivalent",
+      "d": "contour gradient"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1958",
+    "chapter": ""
+  },
+  {
+    "question": "The \"point of curve\" of a simple circular curve, is",
+    "topic": "संघ (sub engineer) - IX",
+    "options": {
+      "a": "point of commencement",
+      "b": "point of tangency",
+      "c": "point of intersection",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1959",
+    "chapter": ""
+  }
+]

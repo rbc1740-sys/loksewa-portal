@@ -1,0 +1,702 @@
+[
+  {
+    "question": "If the fluid particles move in a zig-zag way, the flow is called",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "unsteady",
+      "b": "non-uniform",
+      "c": "turbulent",
+      "d": "incompressible"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1060",
+    "chapter": ""
+  },
+  {
+    "question": "The inlet length of a venturimeter",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "is equal to the outlet length",
+      "b": "is more than the outlet length",
+      "c": "is less than the outlet length",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1061",
+    "chapter": ""
+  },
+  {
+    "question": "An independent mass of a fluid does not possess",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "elevation energy",
+      "b": "kinetic energy",
+      "c": "pressure energy",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1062",
+    "chapter": ""
+  },
+  {
+    "question": "The width of a weir with end contraction, is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "equal to the width of the channel",
+      "b": "less than the width of the channel",
+      "c": "half the width of the channel",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1063",
+    "chapter": ""
+  },
+  {
+    "question": "The angle of internal friction for cohesive soils is equal to",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "0°",
+      "b": "30°",
+      "c": "45°",
+      "d": "15°"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1064",
+    "chapter": ""
+  },
+  {
+    "question": "In the modified proctor test the drop height of the rammer is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "30cm",
+      "b": "45cm",
+      "c": "60cm",
+      "d": "75cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1065",
+    "chapter": ""
+  },
+  {
+    "question": "Cohesion is defined as",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "attraction of molecules of the same material",
+      "b": "attraction of molecules of different materials",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1066",
+    "chapter": ""
+  },
+  {
+    "question": "The behavior of silt is normally governed by",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "mass-energy",
+      "b": "surface energy",
+      "c": "mass and surface energy",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1067",
+    "chapter": ""
+  },
+  {
+    "question": "In a slab, the transverse reinforcement is provided at _______ to the span of a slab.",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "45°",
+      "b": "60°",
+      "c": "75°",
+      "d": "90°"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1068",
+    "chapter": ""
+  },
+  {
+    "question": "The diameter of bars normally used in column",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "10-25 m",
+      "b": "12-25 m",
+      "c": "14-25 m",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1069",
+    "chapter": ""
+  },
+  {
+    "question": "The shear reinforcement in the RCC beam is provided to resist",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "diagonal tension",
+      "b": "diagonal compression",
+      "c": "vertical shear",
+      "d": "horizontal shear"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1070",
+    "chapter": ""
+  },
+  {
+    "question": "The stress in a member subjected to a force is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "continued deformation under sustained loading",
+      "b": "load per unit area",
+      "c": "the resistance offered by the material per unit area to a force",
+      "d": "the strain per unit length"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1071",
+    "chapter": ""
+  },
+  {
+    "question": "Hook’s law holds good up to",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "yield point",
+      "b": "elastic limit",
+      "c": "plastic limit",
+      "d": "breaking point"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1072",
+    "chapter": ""
+  },
+  {
+    "question": "The curvature of the earth's surface is taken into account only if the extent of the survey is more than",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "60 sq. km",
+      "b": "160 sq. km",
+      "c": "260 sq. km",
+      "d": "500 sq. km"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1073",
+    "chapter": ""
+  },
+  {
+    "question": "If the length of a transition curve is such that the full superelevation is attained at the junction with the circular curve, the resultant curve is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "transition curve",
+      "b": "vertical curve",
+      "c": "compound curve",
+      "d": "reverse curve"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1074",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum allowable limit by which a measurement may vary from the true value is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "permissible error",
+      "b": "residual error",
+      "c": "expected error",
+      "d": "systematic error"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1075",
+    "chapter": ""
+  },
+  {
+    "question": "In levelling, the correction for curvature (in meters) is equal to",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "0.00785 D^2",
+      "b": "0.0785 D^2",
+      "c": "0.0112 D^2",
+      "d": "0.0673 D^2"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1076",
+    "chapter": ""
+  },
+  {
+    "question": "Good quality building stones should not contain soluble salts more than",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "0%",
+      "b": "1%",
+      "c": "2%",
+      "d": "10%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1077",
+    "chapter": ""
+  },
+  {
+    "question": "The pigment used in paints for corrosive resistance is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "red lead",
+      "b": "white lead",
+      "c": "gypsum",
+      "d": "ferrous oxide"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1078",
+    "chapter": ""
+  },
+  {
+    "question": "A stone is rejected if the water absorption is more than",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "10%",
+      "b": "20%",
+      "c": "25%",
+      "d": "30%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1079",
+    "chapter": ""
+  },
+  {
+    "question": "The most durable varnish is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "water varnish",
+      "b": "oil varnish",
+      "c": "turpentine varnish",
+      "d": "spirit varnish"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1080",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum size of the aggregate used in a damp proof course is about",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "6 mm",
+      "b": "10 mm",
+      "c": "15 mm",
+      "d": "20 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1081",
+    "chapter": ""
+  },
+  {
+    "question": "Foundations in black cotton soils",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "are taken to a depth up to which the crack does not extend",
+      "b": "loads are limited to 5t/m2",
+      "c": "trenches are dug on either side of the foundations and filled with sand to prevent immediate contact with the soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1082",
+    "chapter": ""
+  },
+  {
+    "question": "The process of hardening the concrete by keeping its surface moist is known",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "placing",
+      "b": "wetting",
+      "c": "curing",
+      "d": "compacting"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1083",
+    "chapter": ""
+  },
+  {
+    "question": "The total cost versus time of an activity represents a",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "a straight line",
+      "b": "a parabola",
+      "c": "U-shaped curve",
+      "d": "inverted U shaped curve"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1084",
+    "chapter": ""
+  },
+  {
+    "question": "Price variation contingencies according to PPR 064 is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "3-5%",
+      "b": "8%",
+      "c": "5%",
+      "d": "10%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1085",
+    "chapter": ""
+  },
+  {
+    "question": "The bid review committee consists of _______ members of persons.",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1086",
+    "chapter": ""
+  },
+  {
+    "question": "The capacity of a flushing cistern is normally",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "12 to 15 litres",
+      "b": "20 to 25 litres",
+      "c": "30 to 40 litres",
+      "d": "1 to 5 litres"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1087",
+    "chapter": ""
+  },
+  {
+    "question": "The depreciation of the value of building costs is generally not considered for the initial:",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "first year of the building",
+      "b": "two years of the building",
+      "c": "five years of the building",
+      "d": "twenty years of the building"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1088",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of cribbing is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "m^3",
+      "b": "m",
+      "c": "m^2",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1089",
+    "chapter": ""
+  },
+  {
+    "question": "For calculating the minimum value of the ruling radius of horizontal curves in plains, the design speed is taken as",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "12 kmph",
+      "b": "16 kmph",
+      "c": "20 kmph",
+      "d": "24 kmph"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1090",
+    "chapter": ""
+  },
+  {
+    "question": "The life of cement concrete road is taken as",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "5-10 years",
+      "b": "10-15 years",
+      "c": "15-20 years",
+      "d": "25-30 years"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1091",
+    "chapter": ""
+  },
+  {
+    "question": "Which one is not concerned with the cross section of road?",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "camber",
+      "b": "thickness",
+      "c": "width",
+      "d": "gradient"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1092",
+    "chapter": ""
+  },
+  {
+    "question": "Bottom most important component of flexible pavement is a",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "sub-grade",
+      "b": "sub-base",
+      "c": "base",
+      "d": "base course"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1093",
+    "chapter": ""
+  },
+  {
+    "question": "CBR test is used for finding",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "strength of sub-grade",
+      "b": "strength of concrete",
+      "c": "strength of bitumen",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1094",
+    "chapter": ""
+  },
+  {
+    "question": "Meandering of a river generally occurs, in",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "rocky stage",
+      "b": "delta stage",
+      "c": "boulder stage",
+      "d": "trough stage"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1095",
+    "chapter": ""
+  },
+  {
+    "question": "The most suitable location for a canal head work, is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "boulders stage of the river",
+      "b": "delta stage of the river",
+      "c": "rock stage of the river",
+      "d": "trough stage of the river"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1096",
+    "chapter": ""
+  },
+  {
+    "question": "Diversion headwork is constructed to",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "lower water level in the river",
+      "b": "regulate the intake of water into the canal",
+      "c": "regulate silt entry into the canal",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1097",
+    "chapter": ""
+  },
+  {
+    "question": "The irrigation with sewage from a town, instead of natural water, is called",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "effluent irrigation",
+      "b": "fertility irrigation",
+      "c": "oxidation irrigation",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1098",
+    "chapter": ""
+  },
+  {
+    "question": "Due to topography, if the space is not available, the most suitable spillway is",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "ogee spillway",
+      "b": "chute spillway",
+      "c": "shaft spillway",
+      "d": "straight drop spillway"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1099",
+    "chapter": ""
+  },
+  {
+    "question": "Groundwater from artesian wells",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "contain no suspended materials",
+      "b": "contain dissolved salts",
+      "c": "require less treatment",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1100",
+    "chapter": ""
+  },
+  {
+    "question": "Asbestos pipes are joined by means by",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "flanged joint",
+      "b": "flexible joint",
+      "c": "simplex joint",
+      "d": "dresser coupling joint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1101",
+    "chapter": ""
+  },
+  {
+    "question": "A sanitary sewer is expected to run",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "full",
+      "b": "half-full",
+      "c": "2/3 full",
+      "d": "90% full"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1102",
+    "chapter": ""
+  },
+  {
+    "question": "The water-bearing strata are known as",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "aquifer",
+      "b": "aquiclude",
+      "c": "aquifuge",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1103",
+    "chapter": ""
+  },
+  {
+    "question": "Biochemical Oxygen Demand (B.O.D) of safe drinking water must be",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "0",
+      "b": "0-2",
+      "c": "0-5",
+      "d": "2-5"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1104",
+    "chapter": ""
+  },
+  {
+    "question": "सचिवको पदावधि कति वर्षको हुन्छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "२",
+      "b": "४",
+      "c": "३",
+      "d": "५"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1105",
+    "chapter": ""
+  },
+  {
+    "question": "यस संविधानको पालना गर्नु प्रत्येक व्यक्तिको कर्तव्य हुनेछ भनेर नेपालको संविधानको कति धारामा उल्लेख गरिएको छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा २",
+      "c": "धारा ४८",
+      "d": "धारा ४६"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1106",
+    "chapter": ""
+  },
+  {
+    "question": "In MS Excel, keyboard shortcut keys to create a new workbook is _____.",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "Tab+N",
+      "b": "Fn+N",
+      "c": "Alt+N",
+      "d": "Ctrl+N"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1107",
+    "chapter": ""
+  },
+  {
+    "question": "कुन कथन गलत छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "सार्वजनिक सेवा प्रवाह राज्यको दायित्व हो।",
+      "b": "नागरिकको अधिकार हो।",
+      "c": "सुशासनको आधार हो।",
+      "d": "यसमा निजी क्षेत्रको संलग्नता रहदैन।"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1108",
+    "chapter": ""
+  },
+  {
+    "question": "१५ प्रतिशत सम्मको भेरिएसन आदेश कसले जारी गर्न सक्नेछ ?",
+    "topic": "Lumbini Pradesh(sub engineer) - X",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "मन्त्रिपरिषद्",
+      "c": "मुख्य सचिव",
+      "d": "विभागीय प्रमुख"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1109",
+    "chapter": ""
+  }
+]

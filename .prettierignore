@@ -1,0 +1,31 @@
+# Generated / data / third-party assets — not authored source
+questions/
+test-results/
+playwright-report/
+coverage/
+node_modules/
+package-lock.json
+*.lock
+sw.js
+site.webmanifest
+types.js
+src/core-logic.js
+# Separate mobile app with its own toolchain
+loksewa-mobile/
+android/
+.expo/
+# Scratch / tooling artifacts
+.kilo/
+firebase-debug.log
+vitest-last.txt
+# Stray data folder (unused)`r
+New folder/
+
+# Scratch scripts 
+check?.cjs
+
+check*
+
+app.html
+
+.agent.md

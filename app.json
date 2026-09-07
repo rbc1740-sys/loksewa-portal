@@ -1,0 +1,12 @@
+{
+  "android": {
+    "package": "com.loksewa.preppro"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "ef3baf66-b640-49e8-8b19-502c215e923a"
+    }
+  },
+  "owner": "rbc1740gmailcoms-team",
+  "slug": "rbc"
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "question": "दसैँ नाच कुन जातीसँग सम्बन्धित छ ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "सतार",
+      "b": "मेचे",
+      "c": "राई",
+      "d": "तामाङ"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3230",
+    "chapter": ""
+  },
+  {
+    "question": "आधुनिक भौतिक शास्त्रका पिता भनेर कसलाई चिनिन्छ ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "सर आइज्याक न्यूटन",
+      "b": "अल्बर्ट आइन्स्टाइन",
+      "c": "पाइथागोरस",
+      "d": "थोमस एडिसन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3231",
+    "chapter": ""
+  },
+  {
+    "question": "प्रोटिन पत्ता लगाउने वैज्ञानिक को हुन्",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "Gerald Mulder",
+      "b": "Charles Darwin",
+      "c": "Louis Pasteur",
+      "d": "Casimir Funk"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3232",
+    "chapter": ""
+  },
+  {
+    "question": "उखुको जुसलाई राष्ट्रिय पेय पदार्थ घोषणा गर्ने देश कुन हो ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "भारत",
+      "b": "नेपाल",
+      "c": "जापान",
+      "d": "पाकिस्तान"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3233",
+    "chapter": ""
+  },
+  {
+    "question": "संविधानको पालना र संरक्षण गर्नु संविधानबमोजिम कसको प्रमुख कर्तव्य भनी तोकिएको छ ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "प्रधानमन्त्री",
+      "b": "राष्ट्रपति",
+      "c": "उप-राष्ट्रपति",
+      "d": "नागरिक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3234",
+    "chapter": ""
+  },
+  {
+    "question": "विश्व जनसंख्या दिवस कहिले मनाइन्छ ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "जुलाई ११",
+      "b": "जुलाई २२",
+      "c": "जुलाई २७",
+      "d": "जुलाई २९"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3235",
+    "chapter": ""
+  },
+  {
+    "question": "पेरिस ओलम्पिक २०२४ मा भएको प्यारालिम्पिक्समा के ४४ क्याटगोरी अन्तरगत महिला ५७ केजीमुनि प्रतिस्पर्धामा नेपाललाई कांस्य पदक दिलाउन सफल खेलाडी को हुन् ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "विमला तामाङ",
+      "b": "गौरीका सिंह",
+      "c": "सोमपाल कामी",
+      "d": "पलेशा गोवर्धन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3236",
+    "chapter": ""
+  },
+  {
+    "question": "Bureaucracy theory को प्रतिपादन कसले गरेका हुन् ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "Maxwell",
+      "b": "Henry Fayol",
+      "c": "Max Weber",
+      "d": "FW Taylor"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3237",
+    "chapter": ""
+  },
+  {
+    "question": "स्वतन्त्रता, देशप्रेम, न्याय, शान्ति, सुरक्षा, प्रजातन्न कस्तो मूल्य र मान्यता अन्तर्गत पर्दछन् ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "राष्ट्रिय मूल्य मान्यता",
+      "b": "नैतिक मूल्य मान्यता",
+      "c": "पारिवारिक मूल्य मान्यता",
+      "d": "अन्तर्राष्ट्रिय मूल्य मान्यता"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3238",
+    "chapter": ""
+  },
+  {
+    "question": "जिल्ला प्रशासन कार्यालयमा नागरिक वडापत्र सम्बन्धी गुनासो भएमा कहाँ उजुरी गर्ने ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "प्रमुख जिल्ला अधिकारी",
+      "b": "क्षेत्रीय प्रशासन कार्यालय",
+      "c": "प्रधानमन्त्रीको कार्यालय",
+      "d": "राष्ट्रपतिको कार्यलय"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3239",
+    "chapter": ""
+  },
+  {
+    "question": "राष्ट्रिय मानव अधिकार आयोगलाई स्वतन्त्र संवैधानिक निकायको व्यवस्था कहिले गरिएको थियो ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "२०४७ को संविधान",
+      "b": "२०६३ सालको अन्तरिम संविधान",
+      "c": "२०७२ सालको संविधान",
+      "d": "२०१५ सालको संविधान"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3240",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहमा सेवा प्रदायकको भूमिका तलकम मध्ये कुन पर्दछ ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "असन्तुष्ट सेवाप्रति गुनासो गर्ने",
+      "b": "नियम, कानुन र प्रक्रियाको पालना गर्ने",
+      "c": "राज्यलाई समयमै कर तिर्ने",
+      "d": "माथिका सबै"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3241",
+    "chapter": ""
+  },
+  {
+    "question": "आः २०८१ /८२ लाई कुन वर्षको रूपमा मनाउने घोषणा गरिएको छ ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "आर्थिक सुधार वर्ष",
+      "b": "निजामती वर्ष",
+      "c": "राजस्व वर्ष",
+      "d": "विधुत वर्ष"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3242",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधान २०७२ मा कतिवटा संवैधानिक आयोगहरूको प्रावधान रहेको छ ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "१०",
+      "b": "१२",
+      "c": "१३",
+      "d": "१४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3243",
+    "chapter": ""
+  },
+  {
+    "question": "स्थानीय विकास विभाग कुन मन्त्रालय अन्तर्गत पर्दथ्यो ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "गृह एवं पञ्चायत मन्त्रालय",
+      "b": "अर्थ मन्त्रालय",
+      "c": "स्थानीय विकास मन्त्रालय",
+      "d": "कुनै पनि होइन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3244",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा सर्वप्रथम दरखास्त परिषद् कहिले स्थापना भएको हो ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "२००४ साल",
+      "b": "२००८ साल",
+      "c": "२०१८ साल",
+      "d": "२०३६ साल"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3245",
+    "chapter": ""
+  },
+  {
+    "question": "देहायको कुन स्थायी कार्यालय अन्तर्गत पर्दैन ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "मन्त्रालय",
+      "b": "संस्थान",
+      "c": "परियोजनाका कार्यालय",
+      "d": "विभाग"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3246",
+    "chapter": ""
+  },
+  {
+    "question": "A pug mill is used for",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "softening brick earth",
+      "b": "moulding brick earth",
+      "c": "tempering brick earth",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3247",
+    "chapter": ""
+  },
+  {
+    "question": "The paint which gives illumination during the night is called",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "fluorescent paint",
+      "b": "cellulose paint",
+      "c": "enamel paint",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3248",
+    "chapter": ""
+  },
+  {
+    "question": "Rubberisation temperature is",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "180°C",
+      "b": "150°C",
+      "c": "220°C",
+      "d": "250°C"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3249",
+    "chapter": ""
+  },
+  {
+    "question": "The level surface is parallel to",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "horizontal surface",
+      "b": "vertical surface",
+      "c": "datum surface",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3250",
+    "chapter": ""
+  },
+  {
+    "question": "Plane table surveying is a graphical method of surveying in which",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "fieldwork and plotting proceed simultaneously",
+      "b": "plotting is done later while records are taken in the field book",
+      "c": "only field work is done",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3251",
+    "chapter": ""
+  },
+  {
+    "question": "The difference between the two bearings of the last line as observed at the first and the last station of a traverse is known as",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "angular closing error",
+      "b": "closing error in bearing",
+      "c": "relative closing error",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3252",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of the specific weight of a liquid to the specific weight of pure water at a standard temperature is called",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "density of liquid",
+      "b": "specific gravity of liquid",
+      "c": "compressibility of liquid",
+      "d": "surface tension of liquid"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3253",
+    "chapter": ""
+  },
+  {
+    "question": "The sheet of water flowing over a notch or a weir is known as",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "sill or crest",
+      "b": "nappe or vein",
+      "c": "orifice",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3254",
+    "chapter": ""
+  },
+  {
+    "question": "If the Froude number in open channel flow is less than 1.0, the flow is called",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "critical flow",
+      "b": "super-critical flow",
+      "c": "sub-critical flow",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3255",
+    "chapter": ""
+  },
+  {
+    "question": "Elasticity of a body is",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "the property by which a body returns to its original shape after removal of the load",
+      "b": "the ratio of stress to strain",
+      "c": "the resistance to the force acting",
+      "d": "large deformability as in the case of rubber"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3256",
+    "chapter": ""
+  },
+  {
+    "question": "Find the maximum bending moment in a simply supported beam loaded with a UDL of 2 t/m having span 4m",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "2 t-m",
+      "b": "4 t-m",
+      "c": "6 t-m",
+      "d": "8 t-m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3257",
+    "chapter": ""
+  },
+  {
+    "question": "The diagram showing the variation of BM along the span of the beam is called",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "BMD",
+      "b": "SFD",
+      "c": "thrust diagram",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3258",
+    "chapter": ""
+  },
+  {
+    "question": "Compression of soils occurs rapidly if voids are occupied by",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "air",
+      "b": "water",
+      "c": "partly air and partly water",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3259",
+    "chapter": ""
+  },
+  {
+    "question": "The bearing capacity of soil is determined by",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "plate load test",
+      "b": "standard cone test",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3260",
+    "chapter": ""
+  },
+  {
+    "question": "A doubly reinforced beam is used",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "when an extra safety factor is required",
+      "b": "when the depth and width of the beam is restricted",
+      "c": "when the depth of the beam is more than the width",
+      "d": "a large moment of resistance is desired"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3261",
+    "chapter": ""
+  },
+  {
+    "question": "Dimensions of a beam need to be changed if the shear stress is more than",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "10 kg/cm²",
+      "b": "15 kg/cm",
+      "c": "20 kg/cm²",
+      "d": "25 kg/cm²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3262",
+    "chapter": ""
+  },
+  {
+    "question": "The workability of concrete mix with a low water-cement ratio is determined by",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "slump test",
+      "b": "tensile strength test",
+      "c": "compaction factor test",
+      "d": "flexural strength test"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3263",
+    "chapter": ""
+  },
+  {
+    "question": "The foundation of a building is provided to",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "distribute the load over a large area",
+      "b": "increase the overall stability of the structure",
+      "c": "transmit load to the bearing surface (sub-soil) at a uniform rate",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3264",
+    "chapter": ""
+  },
+  {
+    "question": "The structure provided where natural drainage and canal meets at the same level is",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "aqueduct",
+      "b": "syphon",
+      "c": "super passage",
+      "d": "level crossing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3265",
+    "chapter": ""
+  },
+  {
+    "question": "The area under which inferior crops can be grown without irrigation is",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "arid zone",
+      "b": "semi-arid zone",
+      "c": "fertile zone",
+      "d": "desert"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3266",
+    "chapter": ""
+  },
+  {
+    "question": "The water supply pipeline should be tested at a specified pressure for",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "one hour",
+      "b": "two hour",
+      "c": "three hour",
+      "d": "four hour"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3267",
+    "chapter": ""
+  },
+  {
+    "question": "River water may have",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "more suspended solids and less dissolved solids",
+      "b": "more dissolved solids and less suspended solids",
+      "c": "more dissolved solids and less floating solids",
+      "d": "more colloidal and dissolved solids"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3268",
+    "chapter": ""
+  },
+  {
+    "question": "Holding line marking is provided in",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "runway",
+      "b": "taxiway",
+      "c": "shoulder",
+      "d": "threshold"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3269",
+    "chapter": ""
+  },
+  {
+    "question": "The runway length is increased per 300 m rise above M.S.L",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "4%",
+      "b": "5%",
+      "c": "6%",
+      "d": "7%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3270",
+    "chapter": ""
+  },
+  {
+    "question": "Henry Gnatt developed the bar chart technique in",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "1900 AD",
+      "b": "1940 AD",
+      "c": "1957 AD",
+      "d": "1974 AD"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3271",
+    "chapter": ""
+  },
+  {
+    "question": "For the ICB procurement method, the period of bidding to the contractor must be at least _______.",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "15 days",
+      "b": "30 days",
+      "c": "45 days",
+      "d": "60 days"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3272",
+    "chapter": ""
+  },
+  {
+    "question": "The valuation of a building depends upon _________",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "its structure and durability",
+      "b": "size, shape, and type",
+      "c": "quality of material used",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3273",
+    "chapter": ""
+  },
+  {
+    "question": "In the detailed estimate the areas are worked out to the nearest",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "0.001 m²",
+      "b": "0.01 m²",
+      "c": "0.05 m²",
+      "d": "0.005 m²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3274",
+    "chapter": ""
+  },
+  {
+    "question": "Sheep foot roller is used for",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "compaction of soil",
+      "b": "stabilization",
+      "c": "excavation",
+      "d": "sprayer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3275",
+    "chapter": ""
+  },
+  {
+    "question": "In class-III roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3276",
+    "chapter": ""
+  },
+  {
+    "question": "कुमारी पुजाको चलन चलाउने राजा को हुन ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "प्रताप मल्ल",
+      "b": "अंशुवर्मा",
+      "c": "जयप्रकाश मल्ल",
+      "d": "गुणकामदेव"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3277",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालसँग सर्वप्रथम हवाइसेवा सम्झौता भएको राष्ट्र कुन हो ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "भारत",
+      "b": "रूस",
+      "c": "अमेरिका",
+      "d": "बेलायत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3278",
+    "chapter": ""
+  },
+  {
+    "question": "अन्तर्राष्ट्रिय न्यायालयको प्रधान कार्यालय कहाँ छ ?",
+    "topic": "संघ (sub engineer) - XX",
+    "options": {
+      "a": "न्यूयोर्क",
+      "b": "जेनेभा",
+      "c": "हेग",
+      "d": "पेरिस"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3279",
+    "chapter": ""
+  }
+]

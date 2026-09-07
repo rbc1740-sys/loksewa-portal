@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The rate of change of shear force is called",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "bending moment",
+      "b": "slope",
+      "c": "deflection",
+      "d": "intensity of load"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "357",
+    "chapter": ""
+  },
+  {
+    "question": "In a continuous beam, the point where the bending moment changes sign is called",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "point of inflection",
+      "b": "point of virtual hinge",
+      "c": "point of contraflexure",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "358",
+    "chapter": ""
+  },
+  {
+    "question": "The compensator is used to make the line of sight perpendicular to the vertical axis in case of",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "automatic level",
+      "b": "dumpy level",
+      "c": "theodolite",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "359",
+    "chapter": ""
+  },
+  {
+    "question": "Actually, which is not the method of plane tabling?",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "radiation",
+      "b": "intersection",
+      "c": "resection",
+      "d": "traversing"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "360",
+    "chapter": ""
+  },
+  {
+    "question": "The curvature and refraction corrections applied to staff readings respectively are",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "both +ve",
+      "b": "both -ve",
+      "c": "+ve and -ve",
+      "d": "-ve and +ve"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "361",
+    "chapter": ""
+  },
+  {
+    "question": "In double line river, contours are",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "stopped at the bank of the river",
+      "b": "stopped at the edge of the river",
+      "c": "drawn across the water",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "362",
+    "chapter": ""
+  },
+  {
+    "question": "Turpentine oil is used in paints as a",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "base",
+      "b": "thinner",
+      "c": "drier",
+      "d": "vehicle"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "363",
+    "chapter": ""
+  },
+  {
+    "question": "The amount of Pozzolana in Portland Pozzolana cement is",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "20 to 30%",
+      "b": "30 to 40%",
+      "c": "40 to 50%",
+      "d": "50 to 60%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "364",
+    "chapter": ""
+  },
+  {
+    "question": "The defect in painting over a smooth and glossy surface due to which paint does not stick to the surface, is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "scaling",
+      "b": "blistering",
+      "c": "sagging",
+      "d": "wrinkling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "365",
+    "chapter": ""
+  },
+  {
+    "question": "Hollow bricks are used for",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "ornamental designs",
+      "b": "thermal insulation",
+      "c": "reduction in cost",
+      "d": "earthquake-resistant buildings"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "366",
+    "chapter": ""
+  },
+  {
+    "question": "Surface float is used to measure",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "pressure",
+      "b": "difference in pressure",
+      "c": "velocity of flow",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "367",
+    "chapter": ""
+  },
+  {
+    "question": "Intensifier is used to increase",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "pressure",
+      "b": "temperature",
+      "c": "energy",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "368",
+    "chapter": ""
+  },
+  {
+    "question": "Back water curve is caused if there is a",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "a friction head loss is more than the bed slope",
+      "b": "obstruction due to weir in the channel",
+      "c": "an increase in width of the channel",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "369",
+    "chapter": ""
+  },
+  {
+    "question": "The numerical value of vorticity is ______ of the rotation.",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "twice",
+      "b": "thrice",
+      "c": "same",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "370",
+    "chapter": ""
+  },
+  {
+    "question": "The soil transported by running water is called",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "aeolian soil",
+      "b": "marine soil",
+      "c": "alluvial soil",
+      "d": "lacustrine soil"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "371",
+    "chapter": ""
+  },
+  {
+    "question": "An isobar is a line that connects the points of equal stress",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "below GL",
+      "b": "above GL",
+      "c": "at GL",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "372",
+    "chapter": ""
+  },
+  {
+    "question": "The passive earth pressure is proportional to",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "tan(45°-∅/2)",
+      "b": "tan²(45°-∅/2)",
+      "c": "tan²(45°+∅/2)",
+      "d": "tan(45°+∅/2)"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "373",
+    "chapter": ""
+  },
+  {
+    "question": "When water content in a soil is reduced beyond the shrinkage limit, the soil will be in a",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "solid state",
+      "b": "liquid state",
+      "c": "semi-solid state",
+      "d": "plastic state"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "374",
+    "chapter": ""
+  },
+  {
+    "question": "The limits of the percentage of the longitudinal reinforcement in a column is given by",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "0.8% to 6%",
+      "b": "0.8%",
+      "c": "1% to 4%",
+      "d": "1.0% to 6%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "375",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum ratio of span to depth of a slab simply supported and spanning in one direction, is",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "25",
+      "b": "30",
+      "c": "35",
+      "d": "40"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "376",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum ratio of span to depth of a cantilever slab, is",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "8",
+      "b": "10",
+      "c": "12",
+      "d": "14"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "377",
+    "chapter": ""
+  },
+  {
+    "question": "Westerguard analysis is generally used for",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "sandy soils",
+      "b": "clayey soils",
+      "c": "cohesive soils",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "378",
+    "chapter": ""
+  },
+  {
+    "question": "The biggest disadvantage of brick flooring is that",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "it is very expensive",
+      "b": "it requires skilled workmen",
+      "c": "it is water-absorbent",
+      "d": "it is not fire-resistant"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "379",
+    "chapter": ""
+  },
+  {
+    "question": "The work in bricks left projecting out in a masonry wall is known as",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "toothing",
+      "b": "pointing",
+      "c": "racking back",
+      "d": "jointing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "380",
+    "chapter": ""
+  },
+  {
+    "question": "For completion of a project, the critical path of the network represents",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "minimum time",
+      "b": "maximum time",
+      "c": "maximum cost",
+      "d": "minimum cost"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "381",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following is the last means of contract dispute management?",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "Arbitration",
+      "b": "Litigation",
+      "c": "Mediation",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "382",
+    "chapter": ""
+  },
+  {
+    "question": "Bid bond is ________ % of the quoted amount.",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "2 to 3%",
+      "b": "3 to 5%",
+      "c": "1 to 2%",
+      "d": "15 to 20%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "383",
+    "chapter": ""
+  },
+  {
+    "question": "The quantity of partition walls and honey-combed walls are worked out in",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "m³",
+      "b": "m",
+      "c": "m²",
+      "d": "lump-sump"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "384",
+    "chapter": ""
+  },
+  {
+    "question": "The expenses of items that do not come under any regular head of items and the cost of unforeseen items are called",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "lump-sump",
+      "b": "extras",
+      "c": "customary charges",
+      "d": "contingencies"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "385",
+    "chapter": ""
+  },
+  {
+    "question": "In the detailed estimate the areas are worked out to the nearest",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "0.001 m²",
+      "b": "0.01 m²",
+      "c": "0.05 m²",
+      "d": "0.005 m²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "386",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum super-elevation on hill roads should not exceed",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "7%",
+      "b": "8%",
+      "c": "9%",
+      "d": "10%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "387",
+    "chapter": ""
+  },
+  {
+    "question": "Bituminous grouted macadam roads may be expected to have a useful life of about",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "2 to 3 years",
+      "b": "3 to 5 years",
+      "c": "7 to 10 years",
+      "d": "15 to 20 years"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "388",
+    "chapter": ""
+  },
+  {
+    "question": "The design speed for hill terrain of trunk road is",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "20 kmph",
+      "b": "30 kmph",
+      "c": "40 kmph",
+      "d": "50 kmph"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "389",
+    "chapter": ""
+  },
+  {
+    "question": "Hauling of excavated soil is done by",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "dozer",
+      "b": "dump truck",
+      "c": "grader",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "390",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum permissible speed on high speeds roads, is decided on the basis of",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "98th percentile",
+      "b": "90th percentile",
+      "c": "75th percentile",
+      "d": "50th percentile"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "391",
+    "chapter": ""
+  },
+  {
+    "question": "The numerical value of base period is",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "Less than crop period",
+      "b": "more than crop period",
+      "c": "equal to crop period",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "392",
+    "chapter": ""
+  },
+  {
+    "question": "Single bank canal is the other name of",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "ridge canal",
+      "b": "contour canal",
+      "c": "side slope canal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "393",
+    "chapter": ""
+  },
+  {
+    "question": "Pitot tube is used to measure",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "area",
+      "b": "velocity",
+      "c": "discharge",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "394",
+    "chapter": ""
+  },
+  {
+    "question": "The main function of diversion head works of a canal from a river, is",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "to remove silt",
+      "b": "to control floods",
+      "c": "to store water",
+      "d": "to raise the water level"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "395",
+    "chapter": ""
+  },
+  {
+    "question": "A silt regulator located at the head of a channel is called",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "silt ejector",
+      "b": "silt excluder",
+      "c": "silt sweeper",
+      "d": "silt washer"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "396",
+    "chapter": ""
+  },
+  {
+    "question": "For insignificant effect on the water table, the tube wells are spaced as one in every",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "0.5 sq km",
+      "b": "1.0 sq km",
+      "c": "1.5 sq km",
+      "d": "2.0 sq km"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "397",
+    "chapter": ""
+  },
+  {
+    "question": "The main pipes must be designed to carry",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "3 times the average demand",
+      "b": "4 times the average demand",
+      "c": "1 times the average demand",
+      "d": "2 times the average demand"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "398",
+    "chapter": ""
+  },
+  {
+    "question": "Water from the kitchen, bathrooms, and washbasin is called",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "sewage",
+      "b": "combined sewage",
+      "c": "sullage",
+      "d": "none of these"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "399",
+    "chapter": ""
+  },
+  {
+    "question": "The capacity of the flushing cistern for water closets is",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "1-2 liters",
+      "b": "10-15 liters",
+      "c": "5 liters",
+      "d": "20-25 liters"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "400",
+    "chapter": ""
+  },
+  {
+    "question": "Turbidity is mainly due to:",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "Floating solids",
+      "b": "Suspended solids",
+      "c": "Colloidal",
+      "d": "Dissolved solids"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "401",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती कर्माचारीले आफ्नो श्रीमति सुत्केरी हुदा कति दिन सुत्केरी स्याहार विदा पाउने व्यवस्था रहेको छ?",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "३०",
+      "b": "९८",
+      "c": "१५",
+      "d": "१२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "402",
+    "chapter": ""
+  },
+  {
+    "question": "POSDCORB लाई व्यवस्थापनका कार्यहरुको रुपमा अघि सार्ने व्याक्ति को हुन?",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "इल्टन मायो",
+      "b": "लुथर गुलिक",
+      "c": "एफ डब्लु टेलर",
+      "d": "टेरी"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "403",
+    "chapter": ""
+  },
+  {
+    "question": "शुन्यमा आधारित बजेटका प्रतिपादक को हुन?",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "जे एस किन्स",
+      "b": "हभर कमिशन",
+      "c": "जिमि काटर",
+      "d": "एफ डब्लु टेलर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "404",
+    "chapter": ""
+  },
+  {
+    "question": "निम्न मध्ये कुन सिद्धान्त सार्वजनिक सेवा प्रवाहको सिद्धान्त होईन?",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "मितव्ययीता र प्रभावकारीता",
+      "b": "गुणस्तरीयता",
+      "c": "पहुँच र सहभागिता",
+      "d": "छनौटको सिमितता"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "405",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक खरिद ऐनको पहिलो संशोधन कहिले भएको हो?",
+    "topic": "Lumbini Pradesh(sub engineer) - IV",
+    "options": {
+      "a": "२०७३/३/३०",
+      "b": "२०७३/४/३०",
+      "c": "२०७४/३/३०",
+      "d": "२०७४/४/३०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "406",
+    "chapter": ""
+  }
+]

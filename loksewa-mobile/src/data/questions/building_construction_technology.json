@@ -1,0 +1,4678 @@
+[
+  {
+    "question": "The lowest part of the structure which transmits the load to the soil is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "super-structure",
+      "b": "plinth",
+      "c": "foundation",
+      "d": "basement"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1267",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The foundation in a building is provided to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "distribute the load over a large area",
+      "b": "increase overall stability of the structure",
+      "c": "transmit load to the bearing surface (subsoil) at a uniform rate",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1268",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The bearing capacity of a waterlogged soil may be improved by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "grouting",
+      "b": "chemical action",
+      "c": "drainage",
+      "d": "compaction"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1269",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Bearing capacity of soil cannot be improved by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "draining sub-soil water",
+      "b": "ramming crushed stone in soil",
+      "c": "watering the surface of soil",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1270",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The failure of a foundation of a building is due to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "withdrawal of subsoil moisture",
+      "b": "unequal settlement of soil",
+      "c": "lateral escape of the supporting material",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1271",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The bearing capacity of a soil depends on",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "grain size of the soil",
+      "b": "load intensity",
+      "c": "depends on the load",
+      "d": "rate of loading"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1272",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The safe bearing capacity of a soil can be defined as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "ultimate load on the bearing area",
+      "b": "safe load on the bearing area",
+      "c": "load intensity beyond which the soil should not be loaded",
+      "d": "load intensity at which the soil fails"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1273",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The bearing capacity of a soil",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increases with an increase in the area of footing",
+      "b": "increases with a decrease in the area of footing",
+      "c": "is not affected by the size of the footing",
+      "d": "decreases with a decrease in the size of the footing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1274",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Depth of foundation is determined by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "types of structure",
+      "b": "B.C. of soil",
+      "c": "surrounding structure",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1275",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The black cotton soil",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "undergoes volumetric changes",
+      "b": "swells excessively when wet",
+      "c": "shrinks excessively when dry",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1276",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Geologic cycle for the formation of the soil is:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "weathering-transportation-deposition - upheaval",
+      "b": "upheaval-transportation-deposition-weathering",
+      "c": "transportation-deposition-weathering-upheaval",
+      "d": "deposition-weathering-upheaval-transportation"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1277",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "A plate load test is useful to determine",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bearing capacity of foundation",
+      "b": "settlement of foundation",
+      "c": "both bearing capacity and settlement of foundation",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1278",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The ability of sub-soil to support the load of the structure without yielding is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bearing value of soil",
+      "b": "bearing power of soil",
+      "c": "bearing capacity of soil",
+      "d": "any one of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1279",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The minimum load which will cause failure of a foundation is called _________ of the soil.",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "ultimate tensile strength",
+      "b": "nominal strength",
+      "c": "ultimate bearing power",
+      "d": "ultimate compressive strength"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1280",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "A shallow foundation is a foundation that",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "has a low bearing capacity",
+      "b": "has a depth of embedment less than its width",
+      "c": "is resting on the ground surface",
+      "d": "causes less settlement"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1281",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Pick up the cohesive soil from the following:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "red earth",
+      "b": "black cotton soil",
+      "c": "clay",
+      "d": "compacted earth"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1282",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The settlement of a soil is directly proportional to:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "depth of compressible soil strata",
+      "b": "compression index",
+      "c": "both (a) and (b)",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1283",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The maximum permissible value of dry density is referred to as:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "dry density",
+      "b": "zero air voids",
+      "c": "saturation dry density",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1284",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The bearing capacity of soils can be improved by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increasing the depth of the footing",
+      "b": "draining the sub-soil water",
+      "c": "ramming the granular material like crushed stone in the soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1285",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The permissible tension on the soil under footings subjected to combined compression and bending",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "one-tenth of that under compression",
+      "b": "depends on the soil",
+      "c": "zero",
+      "d": "0.5 to 1 N/cm²"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1286",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "A combined footing is generally used when",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "the number of columns is more than two and they are spaced far apart",
+      "b": "the number of columns is two and they are spaced close to each other",
+      "c": "the number of columns is two and they are spaced far apart",
+      "d": "there is only one column"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1287",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "When a number of columns are constructed in a row, the type of foundation generally provided is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "raft foundation",
+      "b": "pile foundation",
+      "c": "grillage foundation",
+      "d": "strip foundation"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1288",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The foundation in which a cantilever beam is provided to join two footings is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "strip footing",
+      "b": "strap footing",
+      "c": "combined footing",
+      "d": "raft footing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1289",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Under strap footing, individual footings are connected by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "PCC beam",
+      "b": "strap beam",
+      "c": "column",
+      "d": "raft"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1290",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The types of foundation used to transfer heavy load is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "isolated footing",
+      "b": "combined footing",
+      "c": "grillage foundation",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1291",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "To support a heavy structure in sandy soil, the type of foundation generally used is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "combined footing",
+      "b": "raft footing",
+      "c": "pier footing",
+      "d": "strap footing"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1292",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Raft foundations are generally used when the area required for individual footing is more than",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "25% of the total area",
+      "b": "30% of the total area",
+      "c": "40% of the total area",
+      "d": "50% of the total area"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1293",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The intensity of pressure below the floating foundation is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "equal to overburden pressure",
+      "b": "equal to the bearing capacity of soil",
+      "c": "greater than overburden pressure",
+      "d": "greater than the bearing capacity of soil"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1294",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Which of the following statements is true:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "clays are more than sands",
+      "b": "pressure of organic matter in a soil decreases the bearing capacity of soil",
+      "c": "aluminous cement is used for foundations in soils with chemical deposits",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1295",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The quantity of seepage of water through soils is proportional to:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "coefficient of permeability of soil",
+      "b": "total head loss of the soil",
+      "c": "both (a) and (b)",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1296",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The maximum bearing capacity of soil is that of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "hard rocks",
+      "b": "black cotton soil",
+      "c": "dry, coarse sandy soils",
+      "d": "loose, fine sandy soil"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1297",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The least bearing capacity of soil is that of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "hard rocks",
+      "b": "moist clays",
+      "c": "soft rocks",
+      "d": "laminated rocks"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1298",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "In case of foundation on black cotton soil, the most suitable method to improve the bearing capacity of soil is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increasing the depth",
+      "b": "draining the soil",
+      "c": "replacing the poor soil",
+      "d": "compacting the soil"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1299",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The foundation used on weaker soil is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "column footing",
+      "b": "grillage footing",
+      "c": "raft footing",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1300",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "In rectangular foundation of width 'B', the maximum permissible eccentricity limited to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "B/3",
+      "b": "B/6",
+      "c": "B/9",
+      "d": "B/12"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1301",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "When the walls are subjected to heavy loading and the bearing capacity of the soil is very low, then the wall is constructed on",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "reinforced concrete footing",
+      "b": "column footing",
+      "c": "lean concrete footing",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1302",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The minimum depth of foundation for a building on clayey soil is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "0.2 to 0.4 m",
+      "b": "0.4 to 0.6 m",
+      "c": "0.6 to 0.9 m",
+      "d": "0.9 to 1.6 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1303",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The foundations are placed below ground level to increase",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "strength",
+      "b": "workability",
+      "c": "stability of the structure",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1304",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Pile foundations are suitable for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "waterlogged soils",
+      "b": "soft rocks",
+      "c": "compact soils",
+      "d": "multistoried buildings"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1305",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The minimum depth of foundation on clayey soil is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "60cm",
+      "b": "90cm",
+      "c": "120cm",
+      "d": "150cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1306",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The maximum differential settlement for foundations on clayey soils is limited to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "40mm",
+      "b": "60mm",
+      "c": "100mm",
+      "d": "400mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1307",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The maximum total settlement for isolated foundations on clayey soils should be limited to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "25mm",
+      "b": "40mm",
+      "c": "65mm",
+      "d": "100mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1308",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Foundations in black cotton soils",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "are taken to depth up to which the cracks do not extend",
+      "b": "loads are limited to 5t/m²",
+      "c": "trenches are dug on either side of foundations and filled with sand to prevent immediate contact with soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1309",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Black cotton soil is unsuitable for foundations because of its",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "low bearing capacity",
+      "b": "uncertain permeability",
+      "c": "cohesive particles",
+      "d": "property to undergo a volumetric change due to moisture constant"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1310",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Under rammed piles are generally:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "driven piles",
+      "b": "bore piles",
+      "c": "precast piles",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1311",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Undisturbed samples are obtained by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "direct excavations",
+      "b": "augers",
+      "c": "thick-wall samplers",
+      "d": "thin-wall samplers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1312",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Westerguard analysis is generally used for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "sandy soils",
+      "b": "clayey soils",
+      "c": "cohesive soils",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1313",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The bearing capacity of a soil",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "depends on the size of the footing",
+      "b": "load intensity",
+      "c": "depends on the load",
+      "d": "rate of loading"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1314",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Negative skin friction on a pile is due to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "downward movement of soil",
+      "b": "downward movement of pile",
+      "c": "relative settlement of soil",
+      "d": "relative settlement of pile"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1315",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "Negative skin friction on piles",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increases the bearing load",
+      "b": "decreases the pile capacity",
+      "c": "increases the net capacity of pile",
+      "d": "does not affect the net capacity of pile"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1316",
+    "chapter": "Foundation"
+  },
+  {
+    "question": "The surface of the wall exposed to the weather is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "the face",
+      "b": "the back",
+      "c": "the side",
+      "d": "perpend"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1317",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The surface of the wall not exposed to the weather is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "the face",
+      "b": "the back",
+      "c": "the side",
+      "d": "perpend"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1318",
+    "chapter": "Walls"
+  },
+  {
+    "question": "A horizontal layer of bricks laid in mortar is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "course",
+      "b": "stretcher",
+      "c": "header",
+      "d": "closer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1319",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The brick laid with its length parallel to the face of a wall, is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "header",
+      "b": "stretcher",
+      "c": "closer",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1320",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The brick laid with its breadth parallel to the face of a wall, is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "header",
+      "b": "stretcher",
+      "c": "closer",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1321",
+    "chapter": "Walls"
+  },
+  {
+    "question": "A brick masonry may fail due to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rupture along a vertical joint",
+      "b": "shearing along a horizontal plane",
+      "c": "crushing due to overloading",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1322",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The tool used by the masons to check the verticality of walls is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "square",
+      "b": "spirit level",
+      "c": "nicker",
+      "d": "plump bob"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1323",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The operation of finishing the mortar joints after the completion of a masonry wall is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "toothing",
+      "b": "pointing",
+      "c": "racking back",
+      "d": "jointing"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1324",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The process of filling hollow spaces of walls before plastering is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "hacking",
+      "b": "dubbing out",
+      "c": "blistering",
+      "d": "filling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1325",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The process of making the background rough before plastering, is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "hacking",
+      "b": "dubbing out",
+      "c": "blistering",
+      "d": "filling"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1326",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The maximum height of a masonry wall generally done in one day is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "0.5 m",
+      "b": "1.0 m",
+      "c": "1.5 m",
+      "d": "2.0 m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1327",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The minimum thickness of the wall where a single flemish bond can be used is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "half brick wall",
+      "b": "one brick wall",
+      "c": "one half brick wall",
+      "d": "two brick wall"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1328",
+    "chapter": "Walls"
+  },
+  {
+    "question": "For hearthing of thick walls, the brick used is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "headers",
+      "b": "stretcher",
+      "c": "bats",
+      "d": "closer"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1329",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The course of stone placed immediately below the cornice, along the face of the wall.",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "friedge",
+      "b": "corbel",
+      "c": "arise",
+      "d": "cornice"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1330",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The minimum width of the stretcher bond, header bond, and single Flemish bond is ______ and ______ bricks respectively.",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1.0, 1.5 and 0.5",
+      "b": "0.5, 1.0 and 1.5",
+      "c": "1.5, 1.0 and 0.5",
+      "d": "1.0, 0.5 and 1.5"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1331",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The main purpose of a cavity wall is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "sound insulation",
+      "b": "damp proofing",
+      "c": "heat insulation",
+      "d": "cost saving"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1332",
+    "chapter": "Walls"
+  },
+  {
+    "question": "Cavity wall provided with",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "no gap",
+      "b": "air gap",
+      "c": "water fill gap",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1333",
+    "chapter": "Walls"
+  },
+  {
+    "question": "Cavity wall",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "prevent dampness from entering the building",
+      "b": "have a lesser dead load for a given wall thickness",
+      "c": "provide better insulation for heat & sound",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1334",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The position of a brick when laid on its side 9 cmx9 cm with its frog in the vertical plane, is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "brick on edge",
+      "b": "brick on end",
+      "c": "brick on bed",
+      "d": "brick held vertically"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1335",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The 9 cm X 9 cm side of a brick as seen in the wall face, is generally known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "stretcher",
+      "b": "face",
+      "c": "front",
+      "d": "header"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1336",
+    "chapter": "Walls"
+  },
+  {
+    "question": "As compared to the stretcher course, the thickness of joints in the header course should be",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "equal",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1337",
+    "chapter": "Walls"
+  },
+  {
+    "question": "A horizontal mortar joint on which masonry units are laid is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "wall joint",
+      "b": "bed joint",
+      "c": "cross joint",
+      "d": "bonded joint"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1338",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The exterior corner of a wall is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "quoin",
+      "b": "jamb",
+      "c": "lintel",
+      "d": "parapet"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1339",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The 19 cm X 9 cm side of a brick as seen in the wall face, is generally known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "stretcher",
+      "b": "face",
+      "c": "front",
+      "d": "header"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1340",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The part of a brick cut from a whole brick to maintain the bond in such a way that its one long face remains uncut is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bat",
+      "b": "closer",
+      "c": "squint",
+      "d": "templet"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1341",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The portion of the brick obtained by cutting into two portions longitudinally is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bat",
+      "b": "beveled closer",
+      "c": "queen closer",
+      "d": "king closer"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1342",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The portion of the brick obtained by cutting it in transverse direction is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bat",
+      "b": "closer",
+      "c": "squint",
+      "d": "template"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1343",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The ratio of the number of vertical joints in the header course to that of the stretcher course is equal to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "three",
+      "d": "four"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1344",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The part of a wall at the side of an opening in the masonry is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "quoin",
+      "b": "jamb",
+      "c": "lintel",
+      "d": "parapet"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1345",
+    "chapter": "Walls"
+  },
+  {
+    "question": "A block of stone placed on a wall or column to distribute the load to the masonry is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "lintel",
+      "b": "bearing",
+      "c": "bed block",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1346",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The normal thickness of expansion joint in masonry walls must be more than",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10 mm",
+      "b": "20 mm",
+      "c": "30 mm",
+      "d": "40 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1347",
+    "chapter": "Walls"
+  },
+  {
+    "question": "Expansion joints provided in masonry walls are provided in wall lengths more than",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10 m",
+      "b": "20 m",
+      "c": "30 m",
+      "d": "40 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1348",
+    "chapter": "Walls"
+  },
+  {
+    "question": "In brick laying the tool used for lifting and spreading mortar and for forming joints is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "scutch",
+      "b": "trowel",
+      "c": "square",
+      "d": "bolster"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1349",
+    "chapter": "Walls"
+  },
+  {
+    "question": "A joint in the masonry parallel to the face of the wall is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "wall joint",
+      "b": "bed joint",
+      "c": "cross joint",
+      "d": "bonded joint"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1350",
+    "chapter": "Walls"
+  },
+  {
+    "question": "A joint in the masonry normal to the face of the wall is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "wall joint",
+      "b": "bed joint",
+      "c": "cross joint",
+      "d": "bonded joint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1351",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The slenderness ratio for masonry walls should not be more",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "30",
+      "d": "40"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1352",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The portion of a masonry wall is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "buttress",
+      "b": "pilaster",
+      "c": "piller",
+      "d": "leg of the wall"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1353",
+    "chapter": "Walls"
+  },
+  {
+    "question": "A guard wall of small height exposed to the weather is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "parapet",
+      "b": "buttress",
+      "c": "load bearing",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1354",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The cement sand mortar preferred in load-bearing walls is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1:2",
+      "b": "1:4",
+      "c": "1:8",
+      "d": "1:6"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1355",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The cement sand mortar preferred in ½ brick walls is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1:2",
+      "b": "1:4",
+      "c": "1:8",
+      "d": "1:6"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1356",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The types of plaster generally used for ceilings is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1:4",
+      "b": "1:3",
+      "c": "1:2",
+      "d": "1:1"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1357",
+    "chapter": "Walls"
+  },
+  {
+    "question": "Lap is the horizontal distance between the vertical joins in",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "stone masonry",
+      "b": "brick masonry",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1358",
+    "chapter": "Walls"
+  },
+  {
+    "question": "An ornamental projection from the face of a brick wall is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "header",
+      "b": "stretcher",
+      "c": "corbel",
+      "d": "cornice"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1359",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The bricks having one or two edges rounded for use in curved comers is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "round nose",
+      "b": "bull nose",
+      "c": "cow nose",
+      "d": "buffalo nose"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1360",
+    "chapter": "Walls"
+  },
+  {
+    "question": "Horizontal construction joints in concrete walls are generally provided at",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "soffit level",
+      "b": "window sill level",
+      "c": "floor level",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1361",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The header bond is used in",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "half brick wall",
+      "b": "single brick wall",
+      "c": "one and half brick wall",
+      "d": "arches"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1362",
+    "chapter": "Walls"
+  },
+  {
+    "question": "In brick masonry, the bond produced by laying alternate headers and stretchers in each course is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "English bond",
+      "b": "Double flemish bond",
+      "c": "Flemish bond",
+      "d": "Garden wall bond"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1363",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The type of bond provided in brick masonry for carrying heavy loads",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "English bond",
+      "b": "Double Flemish bond",
+      "c": "Flemish bond",
+      "d": "Garden wall bond"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1364",
+    "chapter": "Walls"
+  },
+  {
+    "question": "For a uniform face appearance, the bond desired in brick masonry",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "English bond",
+      "b": "Double flemish bond",
+      "c": "Flemish bond",
+      "d": "Garden wall bond"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1365",
+    "chapter": "Walls"
+  },
+  {
+    "question": "The bond in which all courses are laid as stretchers is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Stretcher bond",
+      "b": "Header bond",
+      "c": "English bond",
+      "d": "Flemish bond"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1366",
+    "chapter": "Walls"
+  },
+  {
+    "question": "In order to prevent the entry of damp into a building, the courses provided are known as the ________ course.",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Termites proofing",
+      "b": "Waterproofing",
+      "c": "Corrosion proofing",
+      "d": "Damp proofing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1367",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "D.P.C. stands for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "double-plastered column",
+      "b": "double pinned clear",
+      "c": "damp-proof course",
+      "d": "design Portland cement"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1368",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "The DPC is provided in building in the form of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "horizontal",
+      "b": "vertical",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1369",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "Dampness causes",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "efflorescence",
+      "b": "bleaching of paints",
+      "c": "crumbling of plasters",
+      "d": "growth of termites"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1370",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "The method of damp proofing in which a layer of water-repellent substance is provided, between the source of dampness and part of the structure, adjacent to it is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "membrane damp proof",
+      "b": "integral damp proof",
+      "c": "guniting",
+      "d": "surface treatment"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1371",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "Flexible material used for damp proofing is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bitumen sheeting",
+      "b": "mastic asphalt",
+      "c": "cement concrete",
+      "d": "slate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1372",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "The D.P.C should be",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "continued and unbroken through the length and thickness of the wall",
+      "b": "sealed with bitumen at lap joints",
+      "c": "even at the source of moisture",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1373",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "In horizontal D.P.C the thickness of cement concrete (1:2:4) is kept",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "2.5 cm",
+      "b": "4.0 cm",
+      "c": "6.0 cm",
+      "d": "8.0 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1374",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "Pick up the incorrect statement from the following :",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Horizontal D.P.C. is provided at plinth level in internal walls",
+      "b": "D.P.C. is provided under door and verandah openings",
+      "c": "Vertical D.P.C. is not provided in internal walls",
+      "d": "Cement concrete is a rigid damp-proofing material"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1375",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "When D.P.C is to be laid over large areas. The material preferred is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "cement concrete",
+      "b": "mastic asphalt",
+      "c": "bitumen felt",
+      "d": "strips of lead"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1376",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "Generally, DPC is provided at",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "horizontal level",
+      "b": "vertical level",
+      "c": "inclined level",
+      "d": "floor level"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1377",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "Pick up the correct statement from the following :",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "D.P.C. should be continuous",
+      "b": "D.P.C. should be of good impervious material",
+      "c": "D.P.C. may be horizontal or vertical",
+      "d": "All the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1378",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "Bituminous asphalt/asphaltic felt is used as D.P.C on the surface",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "horizontal",
+      "b": "vertical",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1379",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "The maximum size of the aggregate used in a damp proof course is about",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "6 mm",
+      "b": "10 mm",
+      "c": "15 mm",
+      "d": "20 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1380",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "The D.P.C is provided for efficiency, at",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "just below the ground floor level",
+      "b": "the window sill level",
+      "c": "anywhere on the wall",
+      "d": "below the topmost floor level"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1381",
+    "chapter": "Damp Prooffing"
+  },
+  {
+    "question": "The strength and durability of concrete depends upon",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "size of aggregates",
+      "b": "grading of aggregates",
+      "c": "moisture contents of aggregates",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1382",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The following compound that helps in obtaining early strength of cement concrete is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "tricalcium silicate",
+      "b": "dicalcium silicate",
+      "c": "tricalcium aluminate",
+      "d": "dicalcium silicate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1383",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Later stage strength of cement is caused by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "tricalcium silicate",
+      "b": "dicalcium silicate",
+      "c": "tricalcium aluminate",
+      "d": "gypsum aluminate"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1384",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The quality of cement is good if it has more of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "di-calcium silicate",
+      "b": "tri-calcium silicate",
+      "c": "tri-calcium illuminate",
+      "d": "free lime"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1385",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The workability of concrete can be improved by the addition of the following compounds",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "iron",
+      "b": "sodium",
+      "c": "zinc",
+      "d": "sulphur"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1386",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The maximum percentage of chemical ingredients in cement is that of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "magnesium oxide",
+      "b": "iron oxide",
+      "c": "aluminum",
+      "d": "lime"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1388",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The minimum percentage of chemical ingredients in cement is that of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "magnesium oxide",
+      "b": "iron oxide",
+      "c": "alumina",
+      "d": "lime"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1389",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Cement used for resisting of acid is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Portland Pozzolana cement",
+      "b": "Ordinary Portland cement",
+      "c": "Rapid hardening portland cement",
+      "d": "High alumina cement"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1390",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "What is the size of fine aggregates?",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "4.75mm",
+      "b": "< 4.75mm",
+      "c": "> 4.75mm",
+      "d": "12mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1391",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The workability of concrete for a given water content is good if the aggregates used, are",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rounded aggregate",
+      "b": "irregular aggregate",
+      "c": "angular aggregate",
+      "d": "flaky aggregate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1392",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "A flaky aggregate is said to be elongated if its greatest dimension (length) is greater than",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "one-fifth of the mean size",
+      "b": "nine-fifth of the mean size",
+      "c": "two-fifth of the mean size",
+      "d": "seven-fifth of the mean size"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1393",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "An aggregate is said to be flaky if its least dimension is less than",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "2/3 mean dimension",
+      "b": "3/4 mean dimension",
+      "c": "3/5 mean dimension",
+      "d": "2/3 mean dimension"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1394",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "For given water content, workability decreases if the concrete aggregates contain an excess of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "thin particles",
+      "b": "elongated particles",
+      "c": "flaky particles",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1395",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "An excess of flaky particles in concrete aggregates",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increases the quantity of water and sand",
+      "b": "affects the durability of concrete",
+      "c": "more than 15% are not desirable",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1396",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The bulk density of aggregates, is generally expressed as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "tonnes/cubic meter",
+      "b": "kg/cubic meter",
+      "c": "kg/litre",
+      "d": "g/cm³"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1398",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The risk of segregation is more for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "wet mix",
+      "b": "coarse grading",
+      "c": "larger proportion of maximum size aggregate",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1399",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Grading of sand causes great variation in",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "workability of concrete",
+      "b": "durability of concrete",
+      "c": "strength of concrete",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1400",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "On a grading curve, gap grading is represented by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "a horizontal line",
+      "b": "a vertical line",
+      "c": "N.W. inclined line",
+      "d": "N.E. inclined line"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1401",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The type of aggregate of the same nominal size, which contains fewer voids when compacted, are",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rounded spherical",
+      "b": "irregular",
+      "c": "flaky",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1403",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Slump test is a measure of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "tensile strength",
+      "b": "compressive strength",
+      "c": "impact value",
+      "d": "consistency"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1404",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "The workability of concrete mix with a low water-cement ratio is determined by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "slump test",
+      "b": "tensile strength test",
+      "c": "compaction factor test",
+      "d": "flexural strength test"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1405",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "In slump test, each layer of concrete is compacted by a steel diameter for rod 60cm long and 16 mm diameter for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "20 times",
+      "b": "25 times",
+      "c": "30 times",
+      "d": "40 times"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1406",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Slump used for beam & slab for RCC",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "0-25",
+      "b": "25-50",
+      "c": "50-100",
+      "d": "100-150"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1407",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Strength of cement with the passage of time",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "fluctuates",
+      "d": "remains constant"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1409",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Proper proportioning of concrete, ensures",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "desired strength and workability",
+      "b": "desired durability",
+      "c": "water tightness of the structure",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1410",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "To ensure the quality of concrete, use",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Single-sized aggregates",
+      "b": "Two sized aggregates",
+      "c": "Graded aggregates",
+      "d": "Coarse aggregates"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1411",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Allowable shear stress of concrete, depends upon",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "shear strength",
+      "b": "tensile strength",
+      "c": "compressive strength",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1412",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Permissible compressive strength of M 150 concrete grade is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "100kg/cm²",
+      "b": "150 kg/cm²",
+      "c": "200 kg/cm²",
+      "d": "250 kg/cm²"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1413",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Strength of concrete with the passage of time",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "fluctuates",
+      "d": "remains constant"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1414",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Water cement ratio is generally expressed in volume of water required per",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10 kg",
+      "b": "20kg",
+      "c": "50kg",
+      "d": "40kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1415",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "High temperature",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increases the strength of concrete",
+      "b": "decreases the strength of concrete",
+      "c": "no effect on the strength of concrete",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1416",
+    "chapter": "Concrete Technology-I"
+  },
+  {
+    "question": "Gypsum is added for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "colour",
+      "b": "strength",
+      "c": "controlling setting time",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1417",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "An aggregate is known as cyclopean aggregate if the size is more than",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "4.75 mm",
+      "b": "30 mm",
+      "c": "60 mm",
+      "d": "75 mm"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1418",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The aggregate containing moisture in pores and having its surface dry, is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "moist aggregates",
+      "b": "very dry aggregates",
+      "c": "dry aggregates",
+      "d": "saturated surface dry aggregate"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1419",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Bulking of sand is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "mixing of different sizes of sand particles",
+      "b": "mixing of lime with sand",
+      "c": "mixing of water with sand",
+      "d": "swelling of sand when wetted"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1420",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "If the fineness modulus of sand is 2.5, it is graded as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "very fine sand",
+      "b": "fine sand",
+      "c": "medium sand",
+      "d": "coarse sand"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1421",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The moisture content of aggregate is determined by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "displacement method",
+      "b": "drying method",
+      "c": "both of the above",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1422",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Water cement ratio is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "volume of water to that of cement",
+      "b": "weight of water to that of cement",
+      "c": "weight of concrete to that of water",
+      "d": "both (a) and (b) of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1423",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The summation of the product of the time and temperature of concrete is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "total time",
+      "b": "total temperature",
+      "c": "maturity of concrete",
+      "d": "age of concrete"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1425",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Higher workability of concrete is required if the structure is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "made with cement",
+      "b": "thick and reinforced",
+      "c": "thin and heavily reinforced",
+      "d": "thick and heavily reinforced"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1426",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The ratio of various ingredients (cement: sand: aggregates) in concrete of grade M20, is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1:2:4",
+      "b": "1:3:6",
+      "c": "1:1.5:3",
+      "d": "1:1:2"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1427",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The ratio of various ingredients (cement, sand, aggregates in concrete) of grade M150, is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1:2:4",
+      "b": "1:3:6",
+      "c": "1:1.5:3",
+      "d": "1:1:2"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1428",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "If the ratio of concrete ingredients i.e. cement, sand and aggregates are in the ratio 1:3:6 the grade of concrete, is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "M100",
+      "b": "M150",
+      "c": "M200",
+      "d": "M250"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1429",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "While designing an air-entrained concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "water-cement ratio and proportion of aggregate are reduced",
+      "b": "an allowance for the entrained air is made",
+      "c": "strength of the concrete, is reduced",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1430",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The specifications of a cement bag for storage, are",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "weight 50kg and height 18cm",
+      "b": "plan area 3000 sq. cm",
+      "c": "volume of 35 liters",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1431",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The process of proper and accurate measurement of concrete ingredients for uniformity of proportion",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "grading",
+      "b": "curing",
+      "c": "mixing",
+      "d": "batching"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1432",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The process of mixing, transporting, placing, and compacting concrete Portland cement should not take more than",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "30 minutes",
+      "b": "40 minutes",
+      "c": "60 minutes",
+      "d": "75 minutes"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1433",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "To prevent segregation, the maximum height for placing concrete is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "100 cm",
+      "b": "125 cm",
+      "c": "150 cm",
+      "d": "200 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1434",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Which sequence is correct with respect to the removal of formwork?",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "vertical face-horizontal force-inclined",
+      "b": "vertical face-soffit of beam-soffit of slab",
+      "c": "vertical face-soffit of slab-soffit of beam",
+      "d": "horizontal force - vertical face"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1435",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Form work suitable for construction work",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "seasoned hardwood",
+      "b": "seasoned softwood",
+      "c": "moistened hardwood",
+      "d": "moistened softwood"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1436",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Too wet concrete may cause",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "segregation",
+      "b": "excessive laitance",
+      "c": "lower density",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1437",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Non-uniform compaction may cause the concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "be porous",
+      "b": "non-homogeneous",
+      "c": "reduced strength",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1438",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The process of hand compaction of concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "same as machine compaction",
+      "b": "better than machine compaction",
+      "c": "inferior to machine compaction",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1440",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The Los Angeles machine is used to test the aggregate for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "crushing strength",
+      "b": "impact value",
+      "c": "abrasion resistance",
+      "d": "water absorption"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1441",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "ISI has specified the full strength of concrete after",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "7 days",
+      "b": "15 days",
+      "c": "21 days",
+      "d": "28 days"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1442",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The increased cohesiveness of concrete, makes it",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "less liable to segregation",
+      "b": "more liable to segregation",
+      "c": "more liable to bleeding",
+      "d": "more liable for surface scaling in frosty weather"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1443",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "To produce impermeable concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "through mixing and proper compaction of concrete is required",
+      "b": "proper curing of concrete is required",
+      "c": "properly graded and non-porous aggregates are required",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1444",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Separation of coarse aggregates from mortar during transportation",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bleeding",
+      "b": "creeping",
+      "c": "segregation",
+      "d": "shrinkage"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1445",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Separation of water, sand, and cement slurry from freshly mixed concrete, is known",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bleeding",
+      "b": "creeping",
+      "c": "segregation",
+      "d": "flooding"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1446",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Cement provides strength, durability, and water tightness to the concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "water-cement paste hardens due to hydration",
+      "b": "during hardening cement binds the aggregates together",
+      "c": "cement provides strength, durability, and water-tightness to the concrete",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1447",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "admixtures accelerate hydration",
+      "b": "admixtures make concrete waterproof",
+      "c": "admixtures make concrete acid-proof",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1448",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The density of concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increases with a decrease in the size of the aggregate",
+      "b": "is independent of the size of the aggregate",
+      "c": "increases with an increase in the size of the aggregate",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1449",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Concrete gains strength due to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "chemical reaction of cement with sand and coarse aggregate",
+      "b": "hydration of cement",
+      "c": "evaporation of water from concrete",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1450",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "Efflorescence in cement is caused by excess of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "alumina",
+      "b": "iron oxide",
+      "c": "lime",
+      "d": "alkalis"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1451",
+    "chapter": "Concrete Technology-II"
+  },
+  {
+    "question": "The inert material of a cement concrete mix is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "water",
+      "b": "cement",
+      "c": "aggregate",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1452",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The type of cement used in the construction of a dam is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Ordinary Portland cement",
+      "b": "Rapid hardening cement",
+      "c": "Low-heat cement",
+      "d": "Blast furnace slag cement"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1454",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The percentage of pozzolanic material containing clay up to 80% used for the manufacture of pozzolana cement, is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "30%",
+      "b": "40%",
+      "c": "50%",
+      "d": "60%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1455",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Water cement ratio by weight is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "higher as compared to that by volume",
+      "b": "lower as compared to that by volume",
+      "c": "same as the volume",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1457",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The height of the slump cone is kept",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10 cm",
+      "b": "20 cm",
+      "c": "30 cm",
+      "d": "40 cm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1458",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The minimum number of test specimens required for finding the tensile strength of concrete is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "6",
+      "d": "9"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1459",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The minimum number of test specimens required for finding the compressive strength of concrete is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "6",
+      "d": "9"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1460",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "At the freezing point of water concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "sets freely",
+      "b": "sets slowly",
+      "c": "sets rapidly",
+      "d": "does not set"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1462",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "If seawater is used for preparing concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "it will cause efflorescence",
+      "b": "it may corrode the reinforcement",
+      "c": "it will cause dampness",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1463",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "With the rise in temperature of atmospheric air, the setting time of cement",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remain affected",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1464",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Minimum water-cement ratio required for full hydration of cement",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "0.18",
+      "b": "0.38",
+      "c": "0.54",
+      "d": "0.60"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1465",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The flash set of Portland cement is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "hardening of silicate content",
+      "b": "flash hardening of calcium",
+      "c": "flash hardening of gypsum",
+      "d": "reaction of tricalcium aluminate with water"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1466",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The soundness test of cement by Le-Chatelier's apparatus gives unsoundness due to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "free lime only",
+      "b": "magnesium only",
+      "c": "both (a) and (b) of above",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1467",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The maximum permissible limit of magnesia concentration in ordinary Portland cement is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "2%",
+      "b": "4%",
+      "c": "6%",
+      "d": "8%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1468",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The insoluble residue in cement should be",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "less than 10%",
+      "b": "less than 5%",
+      "c": "less than 3%",
+      "d": "less than 1.5%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1469",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The fineness of cement is tested by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Le Chatelier's apparatus",
+      "b": "Sieve analysis/ Air permeability",
+      "c": "Vicat's needle",
+      "d": "Specific surface air permeability method"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1470",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The expansion of Portland cement is indicated by its soundness. It can be tested by,",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Le Chatelier's apparatus",
+      "b": "Sieve analysis/ Air permeability",
+      "c": "Vicat's needle",
+      "d": "Specific surface air permeability method"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1471",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The addition of pozzolana to cement cause",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "increased curing time",
+      "b": "less heat of hydrogen",
+      "c": "reduced permeability",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1472",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Setting time of cement increases by adding",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "gypsum",
+      "b": "hydrogen peroxide",
+      "c": "calcium chloride",
+      "d": "sodium oxide"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1473",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The bulking of aggregates is due to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "moisture content",
+      "b": "absorbed water",
+      "c": "voids",
+      "d": "less compaction"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1474",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The main component of pozzolana is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "silicious material",
+      "b": "calcium chloride",
+      "c": "calcium sulphate",
+      "d": "tricalcium silicate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1475",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The volume of one bag of cement (50kg) is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "0.0347 m³",
+      "b": "0.03 m³",
+      "c": "0.04 m³",
+      "d": "0.05 m³"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1476",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The unit weight of RCC is taken as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1.6 t/m³",
+      "b": "2.0 t/m³",
+      "c": "2.5 t/m³",
+      "d": "2.8 t/m³"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1477",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Low-water concrete results in",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "non-workability",
+      "b": "high-strength",
+      "c": "consume more water",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1478",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Which type of foundation is likely to be adopted for a 3-floor high RCC framed residential building?",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "raft foundation",
+      "b": "pile foundation",
+      "c": "isolated footing",
+      "d": "continuous wall foundation"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1479",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "For concreting of tunnel lining, the concrete is transported by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "pumps",
+      "b": "pans",
+      "c": "wheel barrows",
+      "d": "containers"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1480",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Which of the following percentages is likely to be achieved in three weeks' time for a well-cured cement structure's strength?",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10%",
+      "b": "65%",
+      "c": "90%",
+      "d": "100%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1481",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": ". The concrete can be lifted by pumps through a maximum vertical distance of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10m",
+      "b": "20m",
+      "c": "30m",
+      "d": "40m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1482",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The earliest period for removing formwork from the RCC slab of a span up to 4.0 m under normal atmospheric conditions should be:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "3 days",
+      "b": "7 days",
+      "c": "21 days",
+      "d": "28 days"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1483",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Curing of concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "reduces the shrinkage of concrete",
+      "b": "prevents the properties of concrete",
+      "c": "prevents loss of water by evaporation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1484",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Curing of pavements, floors, roofs, and slabs, is done by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "membrane method",
+      "b": "ponding method",
+      "c": "covering surface with bags",
+      "d": "sprinkling water method"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1485",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Curing of concrete ensures",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "volumes stability strength",
+      "b": "wear resistance",
+      "c": "water tightness and durability",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1486",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Curing is the process of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "treatment of concrete",
+      "b": "providing medicine to concrete",
+      "c": "wetting the concrete with water/steam",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1487",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Steam curing is used in",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "columns only",
+      "b": "long sides and columns",
+      "c": "mass production of precast concrete",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1488",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "Steam curing is not used with",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Ordinary Portland cement",
+      "b": "High alumina cement",
+      "c": "Rapid hardening cement",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1489",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The curing period is minimum for concrete using",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rapid hardening cement",
+      "b": "low-heat cement",
+      "c": "ordinary portland cement",
+      "d": "slag cement"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1490",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The W/C ratio of reinforcement should be ____________ than normal concrete.",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "more",
+      "b": "less",
+      "c": "same",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1491",
+    "chapter": "Concrete Technology-III"
+  },
+  {
+    "question": "The vertical side member of a shutter frame, is known",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "style",
+      "b": "reveal",
+      "c": "mullion",
+      "d": "post"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1492",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The horizontal members of the shutter of a door or window are called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "sills",
+      "b": "horns",
+      "c": "rails",
+      "d": "panels"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1493",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "A horizontal member of the frame which divides the window horizontally",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rail",
+      "b": "transit",
+      "c": "transome",
+      "d": "divider"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1494",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "A vertical member of the frame which divides the window vertically is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "mullion",
+      "b": "pillion",
+      "c": "cross style",
+      "d": "rail"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1495",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The projections of the head or sill of a door or window frame, is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "style",
+      "b": "reveal",
+      "c": "mullion",
+      "d": "horn"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1496",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The maximum thickness of door shutters provided in door is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "20 mm",
+      "b": "30 mm",
+      "c": "38 mm",
+      "d": "50 mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1497",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "A cut in the frame of a door to receive the shutter, is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rebate",
+      "b": "reveal",
+      "c": "stop",
+      "d": "post"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1498",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The thickness of the rebate is normally kept",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1 cm",
+      "b": "2 cm",
+      "c": "3 cm",
+      "d": "4 cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1499",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "A wooden block fixed on the back side of a door frame on its post, is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rebate",
+      "b": "reveal",
+      "c": "stop",
+      "d": "cleat"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1500",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "A wooden block hinged on a post outside a door, is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rebate",
+      "b": "reveal",
+      "c": "stop",
+      "d": "cleat"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1501",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "Small window in which shutters are allowed to swing around pivots fixed to the window frame",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "pivoted window",
+      "b": "fixed window",
+      "c": "sliding window",
+      "d": "bay window"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1502",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The window which is provided on a sloping roof of a building, is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "lantern window",
+      "b": "dormer window",
+      "c": "louvered window",
+      "d": "rash window"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1503",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The window provided on the flat roof of a room is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "dormer window",
+      "b": "lantern window",
+      "c": "louvered window",
+      "d": "sky window"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1504",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The type of door used when good lighting is to be permitted into the room",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "panelled door",
+      "b": "louvered door",
+      "c": "wire gauged door",
+      "d": "glazed door"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1505",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The type of door commonly used for garages, shops, and godowns",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "swing door",
+      "b": "revolving door",
+      "c": "rolling shutter door",
+      "d": "flush door"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1506",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The arrangement of steps provided from the ground level to the plinth level is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "entry stair",
+      "b": "exit stair",
+      "c": "threshold",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1507",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "In the stairs, the flier is a",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "straight step having a parallel width of the tread",
+      "b": "the undersurface of the stair",
+      "c": "series of steps without any platform in their direction",
+      "d": "molding provided under nosing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1508",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "A series of steps without any platform is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "flier",
+      "b": "flight",
+      "c": "step",
+      "d": "handrail"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1509",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "In stairs, stringers are a",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "outer projecting edge of a tread",
+      "b": "vertical member between two treads",
+      "c": "sloping member that supports the step in a stair",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1510",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "If the floor height of a building is 2.70 m and the riser is 15 cm, then calculate the number of treads required",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "16",
+      "b": "17",
+      "c": "18",
+      "d": "19"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1511",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "A moulding provided under nosing to beautify the elevation of the step is known",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "scotia",
+      "b": "nosing",
+      "c": "soffit",
+      "d": "flier"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1512",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The vertical member fixed between the steps and the handrail is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "string",
+      "b": "baluster",
+      "c": "soffit",
+      "d": "scotia"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1513",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The vertical member provided at the top and bottom ends of a flight supporting the handrail is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "newel post",
+      "b": "baluster",
+      "c": "soffit",
+      "d": "railing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1514",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The platform at the end of the series of steps is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "relief",
+      "b": "landing",
+      "c": "reform",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1515",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "A bifurcated stair is normally used in",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "residential building",
+      "b": "office building",
+      "c": "modern public building",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1516",
+    "chapter": "WoodWork"
+  },
+  {
+    "question": "The most commonly used flooring in residential and public buildings is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "mosaic flooring",
+      "b": "concrete flooring",
+      "c": "marble flooring",
+      "d": "granolithic flooring"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1517",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "A floor constructed with a special aggregate of 3 mm marble chips mixed with white and colored cement, is called:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "mosaic floor",
+      "b": "terrazzo floor",
+      "c": "chips floor",
+      "d": "marble floor"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1518",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "The flooring suitable for noiseless situations (theaters, churches, libraries, etc.) is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "cork flooring",
+      "b": "wooden flooring",
+      "c": "timber flooring",
+      "d": "granolithic flooring"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1519",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "The flooring is suitable to resist heavy wear & an attractive appearance",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "cork flooring",
+      "b": "wooden flooring",
+      "c": "timber flooring",
+      "d": "granolithic flooring"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1520",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "The cheapest floor which remains warm in winter and cool in summer is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Mud floor",
+      "b": "Rubber floor",
+      "c": "Timber floor",
+      "d": "Asphalt floor"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1521",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "Timber flooring is preferred in",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "all residential building",
+      "b": "only bathrooms",
+      "c": "auditoriums and dancing hall",
+      "d": "public buildings"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1522",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "The final operation of finishing floors, is known",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "floating",
+      "b": "screeding",
+      "c": "troweling",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1523",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "Bringing the floor to a true level surface by means of screads is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "topping",
+      "b": "bedding",
+      "c": "screading",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1524",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "The filling of cavities with cement slurry is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "coping",
+      "b": "beam-filling",
+      "c": "grouting",
+      "d": "guniting"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1525",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "The biggest disadvantage of brick flooring is that",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "it is very expensive",
+      "b": "it requires skilled workmen",
+      "c": "it is water-absorbent",
+      "d": "it is not fire-resistant"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1526",
+    "chapter": "Flooring and Finishing"
+  },
+  {
+    "question": "Harshness in concrete is due to the excess of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "water",
+      "b": "finer particles",
+      "c": "middle sized particles",
+      "d": "coarser particles"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3638",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The most useless aggregate is, whose surface texture is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "smooth",
+      "b": "glossy",
+      "c": "granular",
+      "d": "porous"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3639",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The minimum depth of foundation for building on clays is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "0.2 to 0.4 m",
+      "b": "0.4 to 0.6 m",
+      "c": "0.6 to 0.9 m",
+      "d": "0.9 to 1.6"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3643",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Foundations in black cotton soils",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "are taken to a depth up to which the crack does not extend",
+      "b": "loads are limited to 5t/m2",
+      "c": "trenches are dug on either side of the foundations and filled with sand to prevent immediate contact with the soil",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3644",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "A retaining wall may be built of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "brick masonry concrete",
+      "b": "stone masonry",
+      "c": "plain cement",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3645",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In brick masonry, lintels are preferred than arches because arches",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "are difficult to construct",
+      "b": "requiring strong abutments to withstand arch thrust",
+      "c": "requiring more headroom to span the opening",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3646",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which of the following is not true about a cavity wall?",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "air space is provided within the wall",
+      "b": "metal or ties are used to join the strops of wall",
+      "c": "air space is filled with suitable material",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3647",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The inner section of the cavity wall is generally known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "buttress",
+      "b": "leaf wall",
+      "c": "pilaster",
+      "d": "pillar"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3648",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "King closers are related to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "King post truss",
+      "b": "Queen post truss",
+      "c": "Brick masonry",
+      "d": "Doors and windows"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3649",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "No. of bricks required for one cubic meter of masonry wall",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "360",
+      "b": "460",
+      "c": "560",
+      "d": "660"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3650",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The width of the wall footing (according to the thumb's rule) is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "21",
+      "b": "t+300",
+      "c": "2t+300",
+      "d": "2t+150"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3651",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The termination of an unfinished wall in a stepped fashion is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "toothing",
+      "b": "pointing",
+      "c": "racking back",
+      "d": "jointing"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3652",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The work in bricks left projecting out in a masonry wall is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "toothing",
+      "b": "pointing",
+      "c": "racking back",
+      "d": "jointing"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3653",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The work of finishing the mortar joints along with the wall construction is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "toothing",
+      "b": "pointing",
+      "c": "racking back",
+      "d": "jointing"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3654",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The alignment of a cross joint along the plumb line is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bed rock",
+      "b": "perpend",
+      "c": "lintel",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3655",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Which of the following walls is not designed for taking a lateral load",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "buttress",
+      "b": "gravity",
+      "c": "lateral",
+      "d": "counterfort"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3656",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The brick of special shape used in brick masonry is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "bat",
+      "b": "closer",
+      "c": "squint",
+      "d": "templet"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3657",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The load cantilever projection from the face of the masonry wall is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "header",
+      "b": "stretcher",
+      "c": "corbel",
+      "d": "cornice"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3658",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The thickness of a bed joint and cross joint in the brick masonry is about (in mm)",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10",
+      "b": "16",
+      "c": "24",
+      "d": "36"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3659",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The stepped structure provided to provide lateral support of a structure is known as",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "buttress",
+      "b": "pilaster",
+      "c": "piller",
+      "d": "leg of the wall"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3660",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "In Nepal, the generally used method of bonding in masonry walls of brickwork is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "English bond",
+      "b": "Flemish bond",
+      "c": "Stretcher bond",
+      "d": "Header bond"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3661",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Cornice is defined as a",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "horizontal course of masonry projecting from the face of the wall",
+      "b": "horizontal moulded projection provided near the top of a building",
+      "c": "covering placed on the exposed top of an external wall",
+      "d": "triangular-shaped portion of masonry at the end of a sloped roof"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3662",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Coping is defined as a",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "horizontal course of masonry projecting from the face of the wall",
+      "b": "horizontal moulded projection provided near the top of a building",
+      "c": "covering placed on the exposed top of an external wall",
+      "d": "triangular-shaped portion of masonry at the end of a sloped roof"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3663",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The construction joints are generally provided in concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "roads",
+      "b": "retaining walls",
+      "c": "lining of tunnels",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3664",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "The construction joints in cement concrete",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "should be located where bending moment is large",
+      "b": "should be located where shear force is large",
+      "c": "should not be provided at the corners",
+      "d": "should be spaced at a distance of 3m apart in case of huge structures"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3665",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "To support a heavy structure in sandy soil, the type of foundation generally used, is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "combined footing",
+      "b": "raft footing",
+      "c": "pier footing",
+      "d": "strap footing"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3666",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Ferro-concrete is another name given to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "plain cement concrete",
+      "b": "reinforced cement concrete",
+      "c": "prestressed cement concrete",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3667",
+    "chapter": "SECTION-I"
+  },
+  {
+    "question": "Reinforced cement concrete is equally strong in taking",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "tensile and compressive stresses",
+      "b": "compressive and shear stresses",
+      "c": "tensile, compressive and shear stresses",
+      "d": "tensile and shear stresses"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3668",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Blast furnace slag cement is used for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "dams",
+      "b": "bridge abutments",
+      "c": "retaining walls",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3669",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "As compared to english bond, the double flemish bond is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "costlier",
+      "b": "stronger",
+      "c": "more compact",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3670",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The joint preferred in a single brick wall to save facing bricks is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "English bond",
+      "b": "Flemish bond",
+      "c": "Double bond",
+      "d": "Garden wall bond"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3671",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which of the following is not an activity associated with damp proofing?",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "surface treatment",
+      "b": "guniting",
+      "c": "hearthing",
+      "d": "cavity wall"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3672",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Damp proofing course is done",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "along the walls of the building",
+      "b": "along the floors of the building",
+      "c": "along the walls and floor of the building",
+      "d": "along the walls, beams, and floor of the building"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3673",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The height of the parapet wall is generally kept",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "60 cm",
+      "b": "75 cm",
+      "c": "90 cm",
+      "d": "105 cm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3674",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In ordinary residential buildings, the damp proofing course is generally provided at",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "ground level",
+      "b": "water table level",
+      "c": "plinth level",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3675",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "In made-up ground having a low value of bearing power, heavy concentrated load is generally by",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "combined footing",
+      "b": "strap footing",
+      "c": "raft footing",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3676",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Gate (door) without importance",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "battened & ledged door",
+      "b": "battened, ledged & braced door",
+      "c": "battened, ledged & framed door",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3677",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Which of the following is not a tool for laying a brick wall?",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "trowel",
+      "b": "tri-square",
+      "c": "plumb-bob",
+      "d": "auger"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3678",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The breaking up of cohesion in a mass of concrete is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "workability",
+      "b": "bleeding",
+      "c": "segregation",
+      "d": "creep"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3679",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The process of hardening the concrete by keeping its surface moist is known",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "placing",
+      "b": "wetting",
+      "c": "curing",
+      "d": "compacting"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3680",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The percentage of the aggregate of F.M. 2.6 to be combined with a coarse aggregate of F.M 6.8 for obtaining the aggregates of F.M. 5.4, is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "30%",
+      "b": "40%",
+      "c": "50%",
+      "d": "60%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3681",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The top diameter, bottom diameter, and height of a slump mould are:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10 cm, 20 cm, 30cm",
+      "b": "10cm, 30cm, 20cm",
+      "c": "20 cm, 10 cm, 30 cm",
+      "d": "20 cm, 30cm, 10cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3682",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Warehouse pack of cement means",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "full capacity of the warehouse",
+      "b": "pressure exertion of the bags of upper layers",
+      "c": "pressure compaction of the bags on lower layers",
+      "d": "packing the warehouse"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3683",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If the effective plan area of the warehouse is 54 m², and the maximum height is 270 cm, the number of cement bags to be stored, is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "2000 bags",
+      "b": "2200 bags",
+      "c": "2400 bags",
+      "d": "2700 bags"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3684",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The internal dimensions of a warehouse are 15mx5.6m and the maximum height of piles is 2.70m, then the maximum number of bags to be stored in two piles, are",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1500 bags",
+      "b": "2000 bags",
+      "c": "2500 bags",
+      "d": "3000 bags"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3685",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "For compacting plum concrete road surfaces of thickness less than 20 cm, we use",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "internal vibrator",
+      "b": "screed vibrator",
+      "c": "form vibrator",
+      "d": "none of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3686",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Pick up the incorrect statement from the following",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "tricalcium silicate (c3s) hydrates rapidly",
+      "b": "tricalcium silicate (c3s) generates more heat of hydration",
+      "c": "tricalcium silicate (c3s) develops early strength",
+      "d": "tricalcium silicate (c3s) is more resistant to sulphate attack"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3688",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "If the w/c ratio of concrete is 0.6 then the water required for mixing concrete is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "8 kg",
+      "b": "10 kg",
+      "c": "12 kg",
+      "d": "30 kg"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3689",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The strength gained by concrete at the age of three days should be",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "40%",
+      "b": "60%",
+      "c": "90%",
+      "d": "100%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3690",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The approximate ratio of the strength of cement concrete of 7 days to that of 28 days",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "0.65",
+      "b": "0.85",
+      "c": "1.0",
+      "d": "1.15"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3691",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The strength gained by concrete at the age of twenty-eight days should be",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "40%",
+      "b": "60%",
+      "c": "90%",
+      "d": "100%"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3692",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The stretcher bond in brick masonry can be used only when the wall is of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "half brick",
+      "b": "one and a half brick",
+      "c": "single brick",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3693",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "Plain cement concrete is strong in taking",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "tensile stresses",
+      "b": "compressive stresses",
+      "c": "shear stresses",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3694",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The intensity of pressure below the floating foundation is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "equal to overburden pressure",
+      "b": "equal to the bearing capacity of soil",
+      "c": "greater than overburden pressure",
+      "d": "greater than the bearing capacity of the soil"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3696",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The sound absorption coefficient of light weight concrete is nearly ______ than that of ordinary concrete.",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "twice",
+      "b": "three times",
+      "c": "four times",
+      "d": "six times"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3697",
+    "chapter": "SECTION-II"
+  },
+  {
+    "question": "The approximate ratio of the strength of cement concrete at 3 months to that at 28 days of curing is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1.15",
+      "b": "1.30",
+      "c": "1.0",
+      "d": "0.75"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3698",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The approximate ratio of the strength of cement concrete at 6 months to that at 28 days of curing is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1.2",
+      "b": "1.30",
+      "c": "1.0",
+      "d": "0.75"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3699",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The approximate ratio of the strength of cement concrete at 1 year to that at 28 days of curing is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1.15",
+      "b": "1.30",
+      "c": "1.0",
+      "d": "0.75"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3700",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Maximum shrinkage takes place in concrete after drying for",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "28 days",
+      "b": "three months",
+      "c": "six months",
+      "d": "one year"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3701",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The shrinkage in cement concrete decreases with",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "addition of load",
+      "b": "removal of load",
+      "c": "removal of moisture",
+      "d": "addition of moisture"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3702",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The continuous strain, that the concrete undergoes due to the application of external loads, is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "workability",
+      "b": "bleeding",
+      "c": "segregation",
+      "d": "creep"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3703",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "If the compaction factor is 0.95, the workability of concrete is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "very low",
+      "b": "low",
+      "c": "medium",
+      "d": "high"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3704",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "If the slump of the concrete mix is 60mm, its workability is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "low",
+      "b": "medium",
+      "c": "high",
+      "d": "very high"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3705",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "If the average compressive strength is 4000kg/cm2 and the standard deviation is 500, the co-efficient of variation is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10%",
+      "b": "12.5%",
+      "c": "15%",
+      "d": "18.5%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3706",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The dimensions of 35 litre forma for measuring aggregates by volume, are",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "length 40cm, breadth 25cm, height 35cm",
+      "b": "length 39cm, breadth 25cm, height 32cm",
+      "c": "length 27cm, breadth 27cm, height 48cm",
+      "d": "length 22cm, breadth 25cm, height 40cm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3707",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The high strength of rapid hardening cement at an early stage is due to its",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "finer grinding",
+      "b": "burning at high temperature",
+      "c": "increased lime cement",
+      "d": "higher content of tricalcium"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3708",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The commercial name of white and coloured cement in Nepal is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "colocrete",
+      "b": "rainbow cement",
+      "c": "silvicrete",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3709",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "For the construction of thin R.C.C. structures, the type of cement to be avoided, is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Ordinary Portland cement",
+      "b": "Rapid hardening cement",
+      "c": "Low-heat cement",
+      "d": "Blast furnace slag cement"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3710",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The flash set of ordinary Portland cement paste is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "premature hardening",
+      "b": "surface hardening only",
+      "c": "without the development of heat of hydration",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3711",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Expansion Joint in building generally provided if length of concrete exceeds",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "10 m",
+      "b": "20 m",
+      "c": "30 m",
+      "d": "45 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3712",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Concrete is generally reinforced by bars made of",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "cast iron",
+      "b": "mild steel",
+      "c": "medium steel",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3713",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The most important test to be conducted on a stone used in docks and harbors is:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "hardness test",
+      "b": "workability test",
+      "c": "weight test",
+      "d": "toughness test"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3714",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "A through stone should be provided in a stone masonry at a distance not exceeding:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "3.0m",
+      "b": "2.5m",
+      "c": "2.0m",
+      "d": "1.5m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3715",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Concrete mixer is:",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "Modem technology",
+      "b": "Traditional technology",
+      "c": "Manual technology",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3716",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The fineness of cement is measured in terms of?",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "surface area in square cm per gram of centent",
+      "b": "percentage weight retained on IS sieve number",
+      "c": "neither (a) nor (b)",
+      "d": "surface area in square meter"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3717",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The number of treads in a flight is equal to",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "risers in the flight",
+      "b": "risers plus one",
+      "c": "risers minus one",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "3718",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "From an earthquake safety perspective, the floor-to-floor wall height of the building should be",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "2 to 2.5 m",
+      "b": "2 to 3m",
+      "c": "2.5 to 3m",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3719",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The minimum width of load bearing wall should be",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "115 mm",
+      "b": "230 mm",
+      "c": "300 mm",
+      "d": "400 mm"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3720",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "In concrete walls, construction joints should be provided at the",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "floor level",
+      "b": "soffit level of lintels",
+      "c": "sill level of windows",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "3721",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Vertical sides of columns may be stripped after",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "1 to 2 days",
+      "b": "7 days",
+      "c": "14 days",
+      "d": "21 days"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3722",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "Under normal circumstances, beam soffits may be removed after",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "2 days",
+      "b": "7 days",
+      "c": "14 days",
+      "d": "21 days"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3723",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "For compacting the large section of mass concrete in structures, the type of vibrator used is",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "internal vibrator",
+      "b": "screed vibrator",
+      "c": "form vibrator",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "3724",
+    "chapter": "SECTION-III"
+  },
+  {
+    "question": "The concrete in which preliminary tests are performed for designing the mix is called",
+    "topic": "Building Construction Technology",
+    "options": {
+      "a": "rich concrete",
+      "b": "controlled concrete",
+      "c": "lean concrete",
+      "d": "ordinary concrete"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "3725",
+    "chapter": "SECTION-III"
+  }
+]

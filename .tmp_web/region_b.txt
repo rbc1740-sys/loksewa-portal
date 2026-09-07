@@ -1,0 +1,31 @@
+// Build evaluation feedback header
+        let evaluationHeader = '';
+        if (isCorrect) {
+          const wrongCount = (attempt.wrongSelections || []).length;
+          const tryNumber = Math.min(wrongCount + 1, 4); // 1st/2nd/3rd/4th+ try
+          const rewardTable = [100, 50, 25, 10];
+          const reward = rewardTable[tryNumber - 1];
+          evaluationHeader = `
+            <div class="p-3 bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800 rounded-xl flex items-center gap-3 animate-fadeIn">
+              <div class="w-8 h-8 rounded-full bg-emerald-500 flex items-center justify-center shrink-0">
+                <i data-lucide="check" class="w-5 h-5 text-white"></i>
+              </div>
+              <div>
+                <p class="font-black text-emerald-800 dark:text-emerald-200">CORRECT</p>
+                <p class="text-xs text-emerald-600 dark:text-emerald-400">+${reward} XP${wrongCount > 0 ? ` (after ${wrongCount} wrong ${wrongCount === 1 ? 'try' : 'tries'})` : ''} • Mastery updated</p>
+              </div>
+            </div>
+          `;
+        } else if (attempt && (attempt.wrongSelections || []).length > 0) {
+          evaluationHeader = `
+            <div class="p-3 bg-amber-50 dark:bg-amber-950/40 border border-amber-200 dark:border-amber-800 rounded-xl flex items-center gap-3 animate-fadeIn">
+              <div class="w-8 h-8 rounded-full bg-amber-500 flex items-center justify-center shrink-0">
+                <i data-lucide="x" class="w-5 h-5 text-white"></i>
+              </div>
+              <div>
+                <p class="font-black text-amber-800 dark:text-amber-200">KEEP TRYING</p>
+                <p class="text-xs text-amber-600 dark:text-amber-400">Wrong (−20 XP). Red options are eliminated — keep guessing.</p>
+              </div>
+            </div>
+          `;
+        }

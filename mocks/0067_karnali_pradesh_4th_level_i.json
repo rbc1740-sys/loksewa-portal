@@ -1,0 +1,982 @@
+[
+  {
+    "question": "The angle between isometric axes is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "60 degree",
+      "b": "90 degree",
+      "c": "120 degree",
+      "d": "180 degree"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2610",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following scales is a reducing scale?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "3:2",
+      "b": "1:3",
+      "c": "1:1",
+      "d": "1:0.4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2611",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following scales represent two different units having the same representative fraction?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Plain scale",
+      "b": "Diagonal scale",
+      "c": "Comparative scale",
+      "d": "Vernier scale"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2612",
+    "chapter": ""
+  },
+  {
+    "question": "The drawing prepared by a pencil and without use of drawing instrument is called",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "isometric drawing",
+      "b": "orthographic projection",
+      "c": "cadastral",
+      "d": "free hand sketching"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2613",
+    "chapter": ""
+  },
+  {
+    "question": "In the analysis of rates, the profit for the contractor is generally taken as:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "20 %",
+      "b": "15 %",
+      "c": "10 %",
+      "d": "5 %"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2614",
+    "chapter": ""
+  },
+  {
+    "question": "The amount provisioned for tools and plants on earthwork excavation item in norms for rate analysis is:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "3% of material",
+      "b": "3% of labour",
+      "c": "5% of material",
+      "d": "5% of labour"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2615",
+    "chapter": ""
+  },
+  {
+    "question": "The paper size of A3 is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "297 * 420",
+      "b": "210 * 297",
+      "c": "420 * 594",
+      "d": "594 * 841"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2616",
+    "chapter": ""
+  },
+  {
+    "question": "The measurement of steel grills is taken in terms of",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "volume",
+      "b": "weight",
+      "c": "area",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2617",
+    "chapter": ""
+  },
+  {
+    "question": "The weight of 10 mm diameter mild steel rod per meter length is equal to",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "0.22 kg",
+      "b": "0.32 kg",
+      "c": "0.42 kg",
+      "d": "0.62 kg"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2618",
+    "chapter": ""
+  },
+  {
+    "question": "Working out exact quantities of various items of work is known as",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "estimating",
+      "b": "mensuration",
+      "c": "quantity surveying",
+      "d": "valuation"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2619",
+    "chapter": ""
+  },
+  {
+    "question": "The wages of supervisor and material handlers are charged as",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "over head",
+      "b": "direct labour cost",
+      "c": "indirect labour cost",
+      "d": "salary"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2620",
+    "chapter": ""
+  },
+  {
+    "question": "The value of property (without being dismantled ) at the end of the useful life period is known as",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "scrap value",
+      "b": "salvage value",
+      "c": "book value",
+      "d": "dump value"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2621",
+    "chapter": ""
+  },
+  {
+    "question": "The method of measuring distance by pacing is chiefly used in ?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "reconnaissance surveys",
+      "b": "preliminary surveys",
+      "c": "location surveys",
+      "d": "all of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2622",
+    "chapter": ""
+  },
+  {
+    "question": "When the measured length is less than the actual length, the error is known as ?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "positive error",
+      "b": "negative error",
+      "c": "compensating error",
+      "d": "instrumental error"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2623",
+    "chapter": ""
+  },
+  {
+    "question": "The obstacle, which obstructs chaining but not vision, is ?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "river",
+      "b": "hill",
+      "c": "rising ground",
+      "d": "all of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2624",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following surveying methods is meant to be having high precision?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Terrestrial photogrammetry",
+      "b": "Traverse surveying.",
+      "c": "Aerial photogrammetry",
+      "d": "Theodolite surveying"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2625",
+    "chapter": ""
+  },
+  {
+    "question": "Contours of different elevations may cross each other only in the case of:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "an overhanging cliff",
+      "b": "a vertical cliff",
+      "c": "a saddle",
+      "d": "an inclined surface"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2626",
+    "chapter": ""
+  },
+  {
+    "question": "A line joining the optical center of the object glass and the center of the eye piece, is known as:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "fundamental line",
+      "b": "axis of telescope",
+      "c": "axis of level tube",
+      "d": "line of collimation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2627",
+    "chapter": ""
+  },
+  {
+    "question": "The error for sag is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "always additive",
+      "b": "always subtractive",
+      "c": "always zero",
+      "d": "sometimes additive and sometimes subtractive"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2628",
+    "chapter": ""
+  },
+  {
+    "question": "Depending on the chemical composition and mechanical properties, iron may be classified as",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "cast iron",
+      "b": "wrought iron",
+      "c": "steel",
+      "d": "all the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2629",
+    "chapter": ""
+  },
+  {
+    "question": "The mild steel is widely used, having carbon content",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "0.1 to 0.2 %",
+      "b": "0.1 to 0.25 %",
+      "c": "0.1 to 0.3 %",
+      "d": "0.2 to 0.3 %"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2630",
+    "chapter": ""
+  },
+  {
+    "question": "Aggregates are important constituents of concrete to provide",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "a solid body",
+      "b": "reduction in shrinkage",
+      "c": "an economy in concrete formation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2631",
+    "chapter": ""
+  },
+  {
+    "question": "Pick up the correct statement from the following:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Fat lime is composed of roughly 95 percent of calcium oxide",
+      "b": "Fat lime hardens very slowly",
+      "c": "Fat lime slakes vigorously",
+      "d": "All of the above properties are correct"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2632",
+    "chapter": ""
+  },
+  {
+    "question": "The cement to dry sand proportion recommended for masonry work is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "1:3",
+      "b": "1:6",
+      "c": "1:10",
+      "d": "1:12"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2633",
+    "chapter": ""
+  },
+  {
+    "question": "The most commonly used flooring in residential and public buildings is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "mosaic flooring",
+      "b": "concrete flooring",
+      "c": "marble flooring",
+      "d": "granolithic flooring"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2634",
+    "chapter": ""
+  },
+  {
+    "question": "The function of cleats in roof trusses is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "support purlin",
+      "b": "support common rafter",
+      "c": "prevent purlin from tilting",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2635",
+    "chapter": ""
+  },
+  {
+    "question": "Suitable aggregate is obtained from ________ rock.",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "igneous",
+      "b": "sedimentary",
+      "c": "metamorphic",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2636",
+    "chapter": ""
+  },
+  {
+    "question": "The ordinary cement used in general construction is:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "rapid hardening cement",
+      "b": "Portland cement",
+      "c": "high alumina cement",
+      "d": "pozzolanic cement"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2637",
+    "chapter": ""
+  },
+  {
+    "question": "Spirit varnish generally consists of",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "oil, wax and resin",
+      "b": "alcohol, wax and turpentine",
+      "c": "pigment and synthetic resin",
+      "d": "spirit and shellac"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2638",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum thickness of load bearing wall in brick masonry is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "7 inch",
+      "b": "8 inch",
+      "c": "9 inch",
+      "d": "10 inch"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2639",
+    "chapter": ""
+  },
+  {
+    "question": "A brick laid vertically with board face of brick exposed is called",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "sailor",
+      "b": "soldier",
+      "c": "Rawlock",
+      "d": "stretcher"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2640",
+    "chapter": ""
+  },
+  {
+    "question": "Maximum slope of ground for building construction is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "20% -30%",
+      "b": "30% -50%",
+      "c": "10% -20%",
+      "d": "10% -30%"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2641",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum thickness of load bearing wall in stone masonry is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "9 inch",
+      "b": "11 inch",
+      "c": "12 inch",
+      "d": "14 inch"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2642",
+    "chapter": ""
+  },
+  {
+    "question": "The floor directly contact with ground is called",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "First floor",
+      "b": "ground floor",
+      "c": "both of above",
+      "d": "none of above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2643",
+    "chapter": ""
+  },
+  {
+    "question": "The composite material made from small pieces of china glazed and cement arranged in different position is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Terrazzo flooring",
+      "b": "mosaic flooring",
+      "c": "marble flooring",
+      "d": "Tile flooring"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2644",
+    "chapter": ""
+  },
+  {
+    "question": "The method of filling hollow space in solid background before applying plaster",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Dado",
+      "b": "Dubbing out",
+      "c": "Gauging",
+      "d": "peeling"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2645",
+    "chapter": ""
+  },
+  {
+    "question": "In ranking shoring, maximum angle of raker is limited to",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "45°",
+      "b": "60°",
+      "c": "75 °",
+      "d": "110°"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2646",
+    "chapter": ""
+  },
+  {
+    "question": "The band provided just below the window opening is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "plinth band",
+      "b": "sill band",
+      "c": "Dado",
+      "d": "Gable band"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2647",
+    "chapter": ""
+  },
+  {
+    "question": "What is the term for the point beneath the Earth's surface where an earthquake originates?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Epicenter",
+      "b": "Hypocenter",
+      "c": "Inner Core",
+      "d": "Mantle"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2648",
+    "chapter": ""
+  },
+  {
+    "question": "The colour of earthing wire is:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "red",
+      "b": "Yellow",
+      "c": "Blue",
+      "d": "Green"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2649",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum no. of wire in single phase system is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2650",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following quantities is measured in the SI unit \"watt\"?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "force",
+      "b": "charge",
+      "c": "current",
+      "d": "power"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2651",
+    "chapter": ""
+  },
+  {
+    "question": "In electrical works, each switch is normally placed in",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Single phase",
+      "b": "Neutral phase",
+      "c": "Three phase",
+      "d": "Single phase and neutral phase"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2652",
+    "chapter": ""
+  },
+  {
+    "question": "The distance of soak pit should be at least:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "0.5m from the septic tank",
+      "b": "1.0m from the septic tank",
+      "c": "2.0 m. from the best septic tank",
+      "d": "3.0 m. from the septic tank"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2653",
+    "chapter": ""
+  },
+  {
+    "question": "Which one of the following is not surface water?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "from river diversion",
+      "b": "from reservoir storage",
+      "c": "from natural lakes",
+      "d": "from natural spring"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2654",
+    "chapter": ""
+  },
+  {
+    "question": "Where manholes shall be installed in a sewer system?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "At the middle of each line",
+      "b": "At all intersections, changes in grade, size, alignment",
+      "c": "At ends of curvilinear sewers",
+      "d": "At distances not greater than 50m"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2655",
+    "chapter": ""
+  },
+  {
+    "question": "In class-IV roads, average daily traffic (ADT) in 20 years perspective period is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "20,000 pcu or more",
+      "b": "5,000-20,000 pcu",
+      "c": "2,000-5,000 pcu",
+      "d": "<2,000 pcu"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2656",
+    "chapter": ""
+  },
+  {
+    "question": "The length of Arniko Highway connecting Kathmandu to Kodari is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "83 km",
+      "b": "93 km",
+      "c": "113 km",
+      "d": "123km"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2657",
+    "chapter": ""
+  },
+  {
+    "question": "The structure provided on both sides of the shoulders to pass the rainwater is known as",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "width of formation",
+      "b": "right of way",
+      "c": "side drain",
+      "d": "shoulders"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2658",
+    "chapter": ""
+  },
+  {
+    "question": "The minimum distance between the home signal and the points and crossings of the approaching station is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "90 m",
+      "b": "100m",
+      "c": "180 m",
+      "d": "540 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2659",
+    "chapter": ""
+  },
+  {
+    "question": "Retaining walls are predominantly subjected to",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "vertical loads",
+      "b": "lateral loads",
+      "c": "upward loads",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2660",
+    "chapter": ""
+  },
+  {
+    "question": "Guide banks is also known as",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Groyne",
+      "b": "Spur",
+      "c": "Marginal bund",
+      "d": "Bell’s bund"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2661",
+    "chapter": ""
+  },
+  {
+    "question": "Road surfacing should be",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "impervious",
+      "b": "durable",
+      "c": "stable",
+      "d": "all of above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2662",
+    "chapter": ""
+  },
+  {
+    "question": "The types of irrigation is during low quantity of water",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "sprinkler irrigation",
+      "b": "drip irrigation",
+      "c": "free flooding",
+      "d": "furrow method"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2663",
+    "chapter": ""
+  },
+  {
+    "question": "The consumptive use of water in a crop",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "is measured in terms of the depth of water on the irrigated area",
+      "b": "is measured by the volume of water per unit area",
+      "c": "is partly supplied by precipitation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2664",
+    "chapter": ""
+  },
+  {
+    "question": "The most suitable location for a canal head work, is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "boulders stage of the river",
+      "b": "delta stage of the river",
+      "c": "rock stage of the river",
+      "d": "trough stage of the river"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2665",
+    "chapter": ""
+  },
+  {
+    "question": "Diversion headwork is constructed to",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "lower water level in the river",
+      "b": "regulate the intake of water into the canal",
+      "c": "regulate silt entry into the canal",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2666",
+    "chapter": ""
+  },
+  {
+    "question": "The micro hydropower installed capacity is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "100 kilowatts",
+      "b": "125 kilowatts",
+      "c": "150 kilowatts",
+      "d": "200 kilowatts"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2667",
+    "chapter": ""
+  },
+  {
+    "question": "Following type of turbine is generally used in micro hydropower",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "francis turbine",
+      "b": "kaplan turbine",
+      "c": "reaction turbine",
+      "d": "impulse/pelton turbine"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2668",
+    "chapter": ""
+  },
+  {
+    "question": "Lining of irrigation channel",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "increase the water logging area",
+      "b": "decreases the water logging area",
+      "c": "does not change the water logging area",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2669",
+    "chapter": ""
+  },
+  {
+    "question": "While considering the design period, which must be given more priority ?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Area of land",
+      "b": "Population",
+      "c": "Usage of water",
+      "d": "Arrangement of pipes"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "2670",
+    "chapter": ""
+  },
+  {
+    "question": "The design period of storage reservoir can be given as:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "50 year",
+      "b": "20 year",
+      "c": "30 year",
+      "d": "10 year"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2671",
+    "chapter": ""
+  },
+  {
+    "question": "In distribution pipes, drain valves are provided at:",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "lower point",
+      "b": "higher point",
+      "c": "junction points",
+      "d": "any where"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2672",
+    "chapter": ""
+  },
+  {
+    "question": "The bacteria which require free oxygen for their survival, are called",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Aerobic bacteria",
+      "b": "Anaerobic bacteria",
+      "c": "Facultative bacteria",
+      "d": "None of these"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2673",
+    "chapter": ""
+  },
+  {
+    "question": "Detention period of a settling tank is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Average theoretical time required for water to flow through the tank",
+      "b": "Time required for flow of water to fill the tank fully",
+      "c": "Average time for which water is retained in tank",
+      "d": "All the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "2674",
+    "chapter": ""
+  },
+  {
+    "question": "Reciprocating pumps",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Are not suitable for variable heads",
+      "b": "Are four times costlier than centrifugal pumps",
+      "c": "Are not suitable for pumping water containing sediments",
+      "d": "Single stroke produce pulsating flow"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2675",
+    "chapter": ""
+  },
+  {
+    "question": "भैपरी आउने बिदा भनेर वर्षमा कति दिन छुट्टाइएको छ ?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2676",
+    "chapter": ""
+  },
+  {
+    "question": "Which type of line has precedence over all other types of lines ?",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "a hidden line",
+      "b": "a center line",
+      "c": "a visible line",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "2677",
+    "chapter": ""
+  },
+  {
+    "question": "Methods of arrangement of dimension includes",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "chain, parallel and combined",
+      "b": "chain, superimposed and parallel",
+      "c": "parallel, perpendicular and chain",
+      "d": "chain,perpendicular and straight"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2678",
+    "chapter": ""
+  },
+  {
+    "question": "The most reliable estimate is",
+    "topic": "Karnali Pradesh-(4th level) -I",
+    "options": {
+      "a": "Detailed estimate",
+      "b": "Preliminary estimate",
+      "c": "Plinth area estimate",
+      "d": "Cube rate estimate"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "2679",
+    "chapter": ""
+  }
+]

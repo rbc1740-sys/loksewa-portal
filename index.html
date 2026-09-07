@@ -1,0 +1,1072 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Loksewa Prep Pro — Free Civil Engineering & GK MCQ Practice</title>
+    <meta
+      name="description"
+      content="A free MCQ practice portal for Nepal's Loksewa exams — 1,000+ Civil Engineering & General Knowledge questions, timed mocks, spaced repetition and 1v1 battles."
+    />
+
+    <!-- Google Fonts: Outfit (display), Plus Jakarta Sans (body), JetBrains Mono (annotations) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
+              display: ['"Outfit"', 'system-ui', 'sans-serif'],
+              mono: ['"JetBrains Mono"', 'ui-monospace', 'monospace'],
+            },
+          },
+        },
+      };
+    </script>
+
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <style>
+      /* ---- Blueprint / technical-drawing motif ---- */
+      .blueprint-grid {
+        background-image:
+          linear-gradient(rgba(79, 70, 229, 0.15) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(79, 70, 229, 0.15) 1px, transparent 1px),
+          linear-gradient(rgba(79, 70, 229, 0.07) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(79, 70, 229, 0.07) 1px, transparent 1px);
+        background-size:
+          80px 80px,
+          80px 80px,
+          16px 16px,
+          16px 16px;
+      }
+
+      .blueprint-grid-dark {
+        background-image:
+          linear-gradient(rgba(165, 180, 252, 0.1) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(165, 180, 252, 0.1) 1px, transparent 1px),
+          linear-gradient(rgba(165, 180, 252, 0.05) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(165, 180, 252, 0.05) 1px, transparent 1px);
+        background-size:
+          80px 80px,
+          80px 80px,
+          16px 16px,
+          16px 16px;
+      }
+
+      .blueprint-grid-light {
+        background-image:
+          linear-gradient(rgba(255, 255, 255, 0.16) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.16) 1px, transparent 1px),
+          linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+        background-size:
+          80px 80px,
+          80px 80px,
+          16px 16px,
+          16px 16px;
+      }
+
+      /* Engineering-drawing dimension line under stat callouts */
+      .dimension-line {
+        position: relative;
+        padding-bottom: 0.85rem;
+      }
+      .dimension-line::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border-bottom: 1px dashed rgba(79, 70, 229, 0.45);
+      }
+      .dimension-line::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: -3px;
+        height: 6px;
+        border-left: 1px solid rgba(79, 70, 229, 0.45);
+        border-right: 1px solid rgba(79, 70, 229, 0.45);
+      }
+
+      /* Monospace "sheet annotation" tags */
+      .sheet-tag {
+        font-family: 'JetBrains Mono', ui-monospace, monospace;
+        letter-spacing: 0.04em;
+        font-size: 10px;
+        font-weight: 500;
+      }
+    </style>
+
+    <style>
+      /* Floating stat chips */
+      @keyframes floatY {
+        0%,
+        100% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-10px);
+        }
+      }
+      .float-slow {
+        animation: floatY 5s ease-in-out infinite;
+      }
+      .float-slower {
+        animation: floatY 6.5s ease-in-out infinite reverse;
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .float-slow,
+        .float-slower {
+          animation: none !important;
+        }
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        -webkit-font-smoothing: antialiased;
+      }
+      h1,
+      h2,
+      h3 {
+        letter-spacing: -0.02em;
+      }
+
+      .glass-nav {
+        background: rgba(255, 255, 255, 0.85);
+        backdrop-filter: blur(18px) saturate(1.4);
+        -webkit-backdrop-filter: blur(18px) saturate(1.4);
+      }
+
+      .gradient-brand {
+        background: linear-gradient(135deg, #6366f1 0%, #4f46e5 55%, #4338ca 100%);
+      }
+
+      .gradient-text {
+        background: linear-gradient(120deg, #4f46e5 0%, #6366f1 100%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: rgba(99, 102, 241, 0.4);
+        border-radius: 9999px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+
+      /* ============================================================
+         RESPONSIVE FOUNDATION FIXES
+         ============================================================ */
+
+      /* 1. Fluid viewport for notches & safe areas */
+      @supports (padding: max(0px)) {
+        .safe-area-inset {
+          padding-left: max(1rem, env(safe-area-inset-left));
+          padding-right: max(1rem, env(safe-area-inset-right));
+          padding-top: max(1rem, env(safe-area-inset-top));
+          padding-bottom: max(1rem, env(safe-area-inset-bottom));
+        }
+      }
+
+      /* 2. Fluid typography scale */
+      :root {
+        --fs-fluid-xs: clamp(0.7rem, 0.65rem + 0.25vw, 0.875rem);
+        --fs-fluid-sm: clamp(0.8rem, 0.75rem + 0.25vw, 1rem);
+        --fs-fluid-base: clamp(0.95rem, 0.875rem + 0.375vw, 1.125rem);
+        --fs-fluid-lg: clamp(1.125rem, 1rem + 0.625vw, 1.5rem);
+        --fs-fluid-xl: clamp(1.5rem, 1.25rem + 1.25vw, 2.25rem);
+        --fs-fluid-2xl: clamp(2rem, 1.5rem + 2.5vw, 3.5rem);
+        --fs-fluid-3xl: clamp(2.5rem, 1.75rem + 3.75vw, 4.5rem);
+      }
+
+      /* 3. Fluid spacing scale */
+      :root {
+        --space-fluid-1: clamp(0.25rem, 0.2rem + 0.25vw, 0.5rem);
+        --space-fluid-2: clamp(0.5rem, 0.4rem + 0.5vw, 0.75rem);
+        --space-fluid-3: clamp(0.75rem, 0.6rem + 0.75vw, 1.25rem);
+        --space-fluid-4: clamp(1rem, 0.8rem + 1vw, 1.5rem);
+        --space-fluid-5: clamp(1.25rem, 1rem + 1.25vw, 2rem);
+        --space-fluid-6: clamp(1.5rem, 1.2rem + 1.5vw, 2.5rem);
+        --space-fluid-8: clamp(2rem, 1.5rem + 2.5vw, 3.5rem);
+      }
+
+      /* 4. Prevent horizontal overflow globally */
+      html,
+      body {
+        max-width: 100vw;
+        overflow-x: hidden;
+      }
+
+      /* 5. Touch target minimum 44x44px */
+      button,
+      a,
+      input,
+      select,
+      textarea,
+      [role='button'],
+      .nav-btn {
+        min-height: 44px;
+        min-width: 44px;
+        touch-action: manipulation;
+      }
+
+      /* 6. Mobile-first card grids */
+      .card-grid {
+        display: grid;
+        gap: var(--space-fluid-4);
+        grid-template-columns: 1fr;
+      }
+
+      @media (min-width: 480px) {
+        .card-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
+      @media (min-width: 768px) {
+        .card-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+
+      @media (min-width: 1024px) {
+        .card-grid {
+          grid-template-columns: repeat(4, 1fr);
+        }
+      }
+
+      /* 7. Fluid container widths */
+      .container-fluid {
+        width: 100%;
+        max-width: 100%;
+        padding-left: var(--space-fluid-4);
+        padding-right: var(--space-fluid-4);
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      @media (min-width: 640px) {
+        .container-fluid {
+          max-width: 640px;
+          padding-left: var(--space-fluid-5);
+          padding-right: var(--space-fluid-5);
+        }
+      }
+
+      @media (min-width: 768px) {
+        .container-fluid {
+          max-width: 768px;
+          padding-left: var(--space-fluid-6);
+          padding-right: var(--space-fluid-6);
+        }
+      }
+
+      @media (min-width: 1024px) {
+        .container-fluid {
+          max-width: 1024px;
+        }
+      }
+
+      @media (min-width: 1280px) {
+        .container-fluid {
+          max-width: 1280px;
+        }
+      }
+
+      @media (min-width: 1536px) {
+        .container-fluid {
+          max-width: 1400px;
+        }
+      }
+
+      /* 8. Responsive hero sections */
+      .hero-split {
+        display: grid;
+        gap: var(--space-fluid-8);
+        grid-template-columns: 1fr;
+        align-items: center;
+      }
+
+      @media (min-width: 1024px) {
+        .hero-split {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
+
+      /* 9. Form inputs full width on mobile */
+      .form-input {
+        width: 100%;
+        min-height: 48px;
+        font-size: 16px;
+      }
+
+      @media (min-width: 640px) {
+        .form-input {
+          min-height: 44px;
+        }
+      }
+
+      /* 10. Reduced motion support */
+      @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+
+      /* 11. Focus visible for keyboard navigation */
+      :focus-visible {
+        outline: 3px solid #6366f1;
+        outline-offset: 2px;
+      }
+
+      /* 12. Content visibility for performance */
+      .content-auto {
+        content-visibility: auto;
+        contain-intrinsic-size: 0 500px;
+      }
+
+      /* 13. Ensure images don't overflow */
+      img,
+      video,
+      canvas,
+      svg {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      /* 14. Better tap highlight color */
+      * {
+        -webkit-tap-highlight-color: rgba(99, 102, 241, 0.2);
+      }
+
+      /* 15. Prevent text size adjustment on orientation change */
+      html {
+        -webkit-text-size-adjust: 100%;
+        text-size-adjust: 100%;
+      }
+
+      /* 16. Smooth scrolling with anchor offset for fixed header */
+      html {
+        scroll-padding-top: 80px;
+      }
+
+      @media (max-width: 640px) {
+        html {
+          scroll-padding-top: 100px;
+        }
+      }
+    </style>
+  </head>
+  <body
+    class="bg-white text-slate-800 font-sans antialiased selection:bg-indigo-500 selection:text-white"
+  >
+    <!-- ============ 1. STICKY HEADER ============ -->
+    <header class="glass-nav sticky top-0 z-50 border-b border-slate-200/80">
+      <div
+        class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3"
+      >
+        <!-- Logo -->
+        <a href="#top" class="flex items-center gap-3 shrink-0 group">
+          <div
+            class="gradient-brand text-white p-2.5 rounded-2xl ring-1 ring-white/20 group-hover:scale-105 group-hover:rotate-3 transition-transform duration-300 shadow-lg shadow-indigo-600/30"
+          >
+            <i data-lucide="graduation-cap" class="w-5 h-5"></i>
+          </div>
+          <div class="leading-none">
+            <h1 class="font-display font-black text-lg tracking-tight gradient-text">
+              Loksewa Prep Pro
+            </h1>
+            <p class="text-[10px] text-slate-400 font-bold uppercase tracking-[0.18em] mt-1">
+              Civil &amp; GK Portal
+            </p>
+          </div>
+        </a>
+
+        <!-- Desktop nav -->
+        <nav class="hidden md:flex items-center gap-1">
+          <a
+            href="#top"
+            class="px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 transition-colors"
+            >Home</a
+          >
+          <a
+            href="#modes"
+            class="px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 transition-colors"
+            >Practice</a
+          >
+          <a
+            href="#tracks"
+            class="px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 transition-colors"
+            >Question Bank</a
+          >
+          <a
+            href="#reviews"
+            class="px-3 py-2 rounded-lg text-sm font-semibold text-slate-600 hover:text-indigo-600 hover:bg-indigo-50 transition-colors"
+            >Reviews</a
+          >
+        </nav>
+
+        <!-- Auth-ish CTAs -->
+        <div class="flex items-center gap-2">
+          <a
+            href="app.html"
+            class="hidden sm:inline-flex items-center px-4 py-2 rounded-xl border border-slate-300 text-sm font-bold text-slate-700 hover:border-indigo-400 hover:text-indigo-600 transition-colors"
+          >
+            Sign In
+          </a>
+          <a
+            href="app.html"
+            class="inline-flex items-center gap-1.5 gradient-brand text-white text-sm font-bold px-4 py-2 rounded-xl shadow-lg shadow-indigo-600/30 hover:shadow-indigo-600/40 transition-shadow"
+          >
+            Start Practicing
+            <i data-lucide="arrow-right" class="w-4 h-4"></i>
+          </a>
+          <button
+            onclick="toggleMobileMenu()"
+            class="md:hidden p-2 rounded-lg text-slate-600 hover:bg-slate-100"
+            aria-label="Toggle menu"
+          >
+            <i data-lucide="menu" class="w-5 h-5"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Mobile menu -->
+      <div
+        id="mobile-menu"
+        class="hidden md:hidden border-t border-slate-200/80 px-4 py-3 space-y-1 bg-white/95"
+      >
+        <a
+          href="#top"
+          onclick="toggleMobileMenu()"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 hover:bg-indigo-50"
+          >Home</a
+        >
+        <a
+          href="#modes"
+          onclick="toggleMobileMenu()"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 hover:bg-indigo-50"
+          >Practice</a
+        >
+        <a
+          href="#tracks"
+          onclick="toggleMobileMenu()"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 hover:bg-indigo-50"
+          >Question Bank</a
+        >
+        <a
+          href="#reviews"
+          onclick="toggleMobileMenu()"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 hover:bg-indigo-50"
+          >Reviews</a
+        >
+        <a
+          href="app.html"
+          class="block px-3 py-2 rounded-lg text-sm font-semibold text-indigo-600 hover:bg-indigo-50"
+          >Sign In</a
+        >
+      </div>
+    </header>
+
+    <!-- ============ 2. HERO ============ -->
+    <main id="top">
+      <section class="blueprint-grid border-b border-slate-200/80">
+        <div
+          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24 grid lg:grid-cols-2 gap-14 lg:gap-10 items-center safe-area-inset"
+        >
+          <!-- Left: pitch -->
+          <div class="space-y-7">
+            <span
+              class="sheet-tag inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-indigo-200 bg-white/70 text-indigo-700"
+            >
+              <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+              LOKSEWA-AAYOG · CIVIL-ENGINEERING PREP
+            </span>
+
+            <h1
+              class="font-display text-4xl sm:text-5xl lg:text-[3.4rem] font-black tracking-tight text-slate-900 leading-[1.1]"
+            >
+              Prepare for Loksewa
+              <span class="relative inline-block">
+                <span class="gradient-text">with confidence.</span>
+                <svg
+                  class="absolute -bottom-2 left-0 w-full h-2.5"
+                  viewBox="0 0 220 12"
+                  fill="none"
+                  preserveAspectRatio="none"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M3 9C40 3 80 3 110 7C145 11 185 6 217 4"
+                    stroke="#d97706"
+                    stroke-width="3.5"
+                    stroke-linecap="round"
+                  />
+                </svg>
+              </span>
+            </h1>
+
+            <p class="text-slate-600 text-base sm:text-lg leading-relaxed max-w-xl">
+              A free, no-paywall MCQ portal for Nepal's Civil Engineering and General Knowledge
+              Loksewa aspirants — past questions, timed mocks, spaced repetition and 1v1 duels, all
+              in one place.
+            </p>
+
+            <!-- Search -->
+            <form action="app.html" class="flex flex-col sm:flex-row gap-2.5 max-w-xl">
+              <div class="relative flex-1">
+                <i
+                  data-lucide="search"
+                  class="w-5 h-5 absolute left-4 top-1/2 -translate-y-1/2 text-slate-400"
+                ></i>
+                <input
+                  type="search"
+                  name="q"
+                  placeholder="Search a subject — Surveying, Hydraulics, GK..."
+                  class="w-full pl-11 pr-4 py-3.5 rounded-xl border border-slate-300 bg-white/80 text-sm text-slate-800 placeholder:text-slate-400 focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/15 transition-all form-input"
+                />
+              </div>
+              <button
+                type="submit"
+                class="gradient-brand text-white font-bold px-6 py-3.5 rounded-xl shadow-lg shadow-indigo-600/30 hover:shadow-indigo-600/40 transition-shadow flex items-center justify-center gap-2"
+              >
+                <i data-lucide="search" class="w-4 h-4"></i>
+                Search
+              </button>
+            </form>
+
+            <!-- Stat callouts with dimension lines -->
+            <div
+              class="flex flex-wrap items-start gap-x-8 gap-y-6 pt-3 sm:divide-x divide-slate-200"
+            >
+              <div class="dimension-line sm:pr-8">
+                <p class="font-display text-2xl font-black text-slate-900">1,000+</p>
+                <p class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mt-1">
+                  MCQs in bank
+                </p>
+              </div>
+              <div class="dimension-line sm:px-8">
+                <p class="font-display text-2xl font-black text-slate-900">100%</p>
+                <p class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mt-1">
+                  Free
+                </p>
+              </div>
+              <div class="dimension-line sm:pl-8">
+                <p class="font-display text-2xl font-black text-slate-900">5</p>
+                <p class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mt-1">
+                  Study modes
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Right: rotated answer sheet -->
+          <div class="relative max-w-md w-full mx-auto lg:mx-0 lg:justify-self-end pt-6 pb-8">
+            <div
+              class="relative rotate-2 hover:rotate-0 transition-transform duration-300 bg-white rounded-2xl border border-slate-200 shadow-xl shadow-indigo-950/10 p-5 sm:p-6 space-y-5"
+            >
+              <div class="flex items-center justify-between">
+                <span class="sheet-tag text-indigo-500">SHEET 01 / MCQ-ANSWER</span>
+                <span class="sheet-tag text-slate-400">SCALE 1:1</span>
+              </div>
+
+              <div class="space-y-1.5">
+                <span class="sheet-tag text-slate-400">Q.07 — STRUCTURAL</span>
+                <p class="font-semibold text-slate-900 text-sm sm:text-base leading-snug">
+                  The modular ratio in working-stress design of RCC depends on:
+                </p>
+              </div>
+
+              <div class="space-y-2.5">
+                <div
+                  class="flex items-center gap-3 p-3 rounded-xl border-2 border-emerald-500 bg-emerald-50"
+                >
+                  <span
+                    class="w-6 h-6 rounded-full bg-emerald-500 text-white flex items-center justify-center shrink-0"
+                  >
+                    <i data-lucide="check" class="w-3.5 h-3.5"></i>
+                  </span>
+                  <span class="text-sm font-bold text-emerald-900"
+                    >Compressive strength of concrete</span
+                  >
+                </div>
+                <div
+                  class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50/60"
+                >
+                  <span
+                    class="w-6 h-6 rounded-full border-2 border-slate-300 text-slate-400 text-xs font-bold flex items-center justify-center shrink-0"
+                    >B</span
+                  >
+                  <span class="text-sm text-slate-500">Modular ratio of steel</span>
+                </div>
+                <div
+                  class="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50/60"
+                >
+                  <span
+                    class="w-6 h-6 rounded-full border-2 border-slate-300 text-slate-400 text-xs font-bold flex items-center justify-center shrink-0"
+                    >C</span
+                  >
+                  <span class="text-sm text-slate-500">Permissible stress in steel</span>
+                </div>
+              </div>
+
+              <div
+                class="pt-4 border-t border-dashed border-slate-300 flex items-center justify-between"
+              >
+                <span class="sheet-tag text-slate-500 flex items-center gap-1.5">
+                  <i data-lucide="timer" class="w-3.5 h-3.5 text-amber-600"></i>
+                  01:45 REMAINING
+                </span>
+                <div class="w-24 h-1.5 rounded-full bg-slate-100 overflow-hidden">
+                  <div class="h-full w-2/3 gradient-brand rounded-full"></div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Floating stat chips -->
+            <div
+              class="hidden sm:flex float-slow absolute -top-1 -right-3 lg:-right-6 items-center gap-2.5 bg-white rounded-xl border border-slate-200 shadow-lg shadow-slate-950/5 px-3.5 py-2.5"
+            >
+              <div class="p-2 rounded-lg bg-amber-100 text-amber-700">
+                <i data-lucide="target" class="w-4 h-4"></i>
+              </div>
+              <div>
+                <p class="text-xs font-black text-slate-900 leading-none">92% Accuracy</p>
+                <p class="text-[10px] text-slate-500 mt-1">Top scorers avg.</p>
+              </div>
+            </div>
+            <div
+              class="hidden sm:flex float-slower absolute -bottom-2 -left-3 lg:-left-8 items-center gap-2.5 bg-white rounded-xl border border-slate-200 shadow-lg shadow-slate-950/5 px-3.5 py-2.5"
+            >
+              <div class="p-2 rounded-lg bg-indigo-100 text-indigo-700">
+                <i data-lucide="flame" class="w-4 h-4"></i>
+              </div>
+              <div>
+                <p class="text-xs font-black text-slate-900 leading-none">Daily Streaks</p>
+                <p class="text-[10px] text-slate-500 mt-1">Built-in habit tracking</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ 3. WHAT WE OFFER ============ -->
+      <section id="modes" class="py-16 sm:py-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
+          <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
+            <span
+              class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700"
+              >HOW IT WORKS</span
+            >
+            <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-slate-900">
+              Study modes built to spec.
+            </h2>
+            <p class="text-slate-600 leading-relaxed">
+              Four focused modes cover the full preparation cycle — learn, drill, compete and
+              retain.
+            </p>
+          </div>
+
+          <div class="card-grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
+            <div
+              class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300"
+            >
+              <div
+                class="w-11 h-11 rounded-xl bg-indigo-100 text-indigo-600 flex items-center justify-center group-hover:scale-110 transition-transform"
+              >
+                <i data-lucide="book-open" class="w-5 h-5"></i>
+              </div>
+              <h3 class="font-display font-black text-slate-900">Objective Practice</h3>
+              <p class="text-sm text-slate-500 leading-relaxed">
+                Work through 1,000+ past-Loksewa MCQs with instant answers and explanations.
+              </p>
+            </div>
+
+            <div
+              class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300"
+            >
+              <div
+                class="w-11 h-11 rounded-xl bg-amber-100 text-amber-700 flex items-center justify-center group-hover:scale-110 transition-transform"
+              >
+                <i data-lucide="timer" class="w-5 h-5"></i>
+              </div>
+              <h3 class="font-display font-black text-slate-900">Timed Exams</h3>
+              <p class="text-sm text-slate-500 leading-relaxed">
+                Simulate real exam pressure with full-length, auto-graded mock papers.
+              </p>
+            </div>
+
+            <div
+              class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300"
+            >
+              <div
+                class="w-11 h-11 rounded-xl bg-rose-100 text-rose-600 flex items-center justify-center group-hover:scale-110 transition-transform"
+              >
+                <i data-lucide="swords" class="w-5 h-5"></i>
+              </div>
+              <h3 class="font-display font-black text-slate-900">1v1 Battle Arena</h3>
+              <p class="text-sm text-slate-500 leading-relaxed">
+                Challenge a study partner to a head-to-head speed duel on any topic.
+              </p>
+            </div>
+
+            <div
+              class="group rounded-2xl border border-slate-200 bg-white p-6 space-y-4 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-950/5 hover:border-indigo-200 transition-all duration-300"
+            >
+              <div
+                class="w-11 h-11 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center group-hover:scale-110 transition-transform"
+              >
+                <i data-lucide="refresh-cw" class="w-5 h-5"></i>
+              </div>
+              <h3 class="font-display font-black text-slate-900">Spaced Review</h3>
+              <p class="text-sm text-slate-500 leading-relaxed">
+                An SM-2 scheduler resurfaces weak questions right before you forget them.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ 4. PREP TRACKS ============ -->
+      <section id="tracks" class="relative bg-slate-900 py-16 sm:py-24 overflow-hidden">
+        <div class="absolute inset-0 blueprint-grid-dark" aria-hidden="true"></div>
+        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
+          <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
+            <span
+              class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-400/40 bg-indigo-500/10 text-indigo-300"
+              >QUESTION BANK</span
+            >
+            <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-white">
+              Pick a track, not a price tag.
+            </h2>
+            <p class="text-slate-400 leading-relaxed">
+              Every question in every track is free — no accounts, no paywalls, no locked sections.
+            </p>
+          </div>
+
+          <div class="card-grid md:grid-cols-3 gap-5">
+            <div
+              class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300"
+            >
+              <div class="flex items-center justify-between">
+                <span class="sheet-tag text-indigo-300">TRACK-01</span>
+                <i data-lucide="building-2" class="w-5 h-5 text-indigo-400"></i>
+              </div>
+              <h3 class="font-display text-lg font-black text-white">
+                Structural &amp; RCC Design
+              </h3>
+              <p class="text-sm text-slate-400 leading-relaxed">
+                Beams, columns, foundations, concrete technology and limit-state design questions
+                from past papers.
+              </p>
+              <a
+                href="app.html"
+                class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group"
+              >
+                Start track
+                <i
+                  data-lucide="arrow-right"
+                  class="w-4 h-4 group-hover:translate-x-1 transition-transform"
+                ></i>
+              </a>
+            </div>
+
+            <div
+              class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300"
+            >
+              <div class="flex items-center justify-between">
+                <span class="sheet-tag text-indigo-300">TRACK-02</span>
+                <i data-lucide="ruler" class="w-5 h-5 text-indigo-400"></i>1
+              </div>
+              <h3 class="font-display text-lg font-black text-white">Surveying &amp; Hydraulics</h3>
+              <p class="text-sm text-slate-400 leading-relaxed">
+                Chain surveying to total stations, plus flow through pipes, channels and hydraulic
+                machines.
+              </p>
+              <a
+                href="app.html"
+                class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group"
+              >
+                Start track
+                <i
+                  data-lucide="arrow-right"
+                  class="w-4 h-4 group-hover:translate-x-1 transition-transform"
+                ></i>
+              </a>
+            </div>
+
+            <div
+              class="rounded-2xl bg-slate-800/70 border border-slate-700 p-6 space-y-4 hover:border-indigo-500/60 hover:-translate-y-1 transition-all duration-300"
+            >
+              <div class="flex items-center justify-between">
+                <span class="sheet-tag text-indigo-300">TRACK-03</span>
+                <i data-lucide="globe" class="w-5 h-5 text-indigo-400"></i>
+              </div>
+              <h3 class="font-display text-lg font-black text-white">General Knowledge</h3>
+              <p class="text-sm text-slate-400 leading-relaxed">
+                Nepal's constitution, geography, history, current affairs and public-service
+                awareness.
+              </p>
+              <a
+                href="app.html"
+                class="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-300 hover:text-indigo-200 group"
+              >
+                Start track
+                <i
+                  data-lucide="arrow-right"
+                  class="w-4 h-4 group-hover:translate-x-1 transition-transform"
+                ></i>
+              </a>
+            </div>
+          </div>
+
+          <div class="text-center mt-12">
+            <a
+              href="app.html"
+              class="inline-flex items-center gap-2 bg-white text-slate-900 font-bold px-7 py-3.5 rounded-xl shadow-lg hover:bg-indigo-50 transition-colors"
+            >
+              View All Question Banks
+              <i data-lucide="arrow-right" class="w-4 h-4"></i>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ 5. TESTIMONIALS ============ -->
+      <section id="reviews" class="py-16 sm:py-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
+          <div class="max-w-2xl mx-auto text-center space-y-3 mb-12 sm:mb-16">
+            <span
+              class="sheet-tag inline-block px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 text-indigo-700"
+              >FIELD NOTES</span
+            >
+            <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-slate-900">
+              Our students are our biggest fans.
+            </h2>
+            <p class="text-slate-600 leading-relaxed">
+              Notes from candidates who drilled with us before exam day.
+            </p>
+          </div>
+
+          <div class="card-grid md:grid-cols-3 gap-5">
+            <div
+              class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300"
+            >
+              <i data-lucide="quote" class="w-7 h-7 text-indigo-200"></i>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                "The timed exam mode felt exactly like the real paper. I walked into the exam hall
+                knowing exactly what to expect."
+              </p>
+              <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
+                <span
+                  class="w-10 h-10 rounded-full bg-indigo-600 text-white text-xs font-black flex items-center justify-center"
+                  >SP</span
+                >
+                <div>
+                  <p class="text-sm font-bold text-slate-900">Sujata P.</p>
+                  <p class="text-xs text-slate-500">Civil Engineering candidate</p>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300"
+            >
+              <i data-lucide="quote" class="w-7 h-7 text-emerald-200"></i>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                "Spaced review fixed my weak areas in weeks. My mock scores jumped from 55% to 82%
+                before the mains."
+              </p>
+              <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
+                <span
+                  class="w-10 h-10 rounded-full bg-emerald-600 text-white text-xs font-black flex items-center justify-center"
+                  >BT</span
+                >
+                <div>
+                  <p class="text-sm font-bold text-slate-900">Bikash T.</p>
+                  <p class="text-xs text-slate-500">Sub-Engineer aspirant</p>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 hover:shadow-xl hover:shadow-indigo-950/5 transition-shadow duration-300"
+            >
+              <i data-lucide="quote" class="w-7 h-7 text-amber-200"></i>
+              <p class="text-sm text-slate-600 leading-relaxed">
+                "Finally a free portal that doesn't hide the question bank behind a paywall.
+                Everything is just… open. Respect."
+              </p>
+              <div class="flex items-center gap-3 pt-2 border-t border-slate-100">
+                <span
+                  class="w-10 h-10 rounded-full bg-amber-500 text-white text-xs font-black flex items-center justify-center"
+                  >AK</span
+                >
+                <div>
+                  <p class="text-sm font-bold text-slate-900">Anisha K.</p>
+                  <p class="text-xs text-slate-500">GK section topper</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ 6. CTA BAND ============ -->
+      <section class="pb-16 sm:pb-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 safe-area-inset">
+          <div
+            class="relative gradient-brand rounded-3xl overflow-hidden px-6 py-14 sm:py-16 text-center shadow-2xl shadow-indigo-600/30"
+          >
+            <div class="absolute inset-0 blueprint-grid-light" aria-hidden="true"></div>
+            <div class="relative space-y-5 max-w-2xl mx-auto">
+              <h2 class="font-display text-3xl sm:text-4xl font-black tracking-tight text-white">
+                Ready to prepare with confidence?
+              </h2>
+              <p class="text-indigo-100 leading-relaxed">
+                Open the portal and start your first practice set in seconds — no sign-up, no cost,
+                no catch.
+              </p>
+              <a
+                href="app.html"
+                class="inline-flex items-center gap-2 bg-white text-indigo-700 font-black px-7 py-3.5 rounded-xl shadow-lg hover:bg-indigo-50 hover:-translate-y-0.5 transition-all"
+              >
+                Start Practicing Free
+                <i data-lucide="arrow-right" class="w-4 h-4"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- ============ 7. FOOTER ============ -->
+    <footer class="border-t border-slate-200 bg-slate-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 safe-area-inset">
+        <div class="card-grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
+          <!-- Brand -->
+          <div class="space-y-4">
+            <div class="flex items-center gap-3">
+              <div class="gradient-brand text-white p-2 rounded-xl shadow-md">
+                <i data-lucide="graduation-cap" class="w-4 h-4"></i>
+              </div>
+              <span class="font-display font-black text-slate-900">Loksewa Prep Pro</span>
+            </div>
+            <p class="text-sm text-slate-500 leading-relaxed">
+              A free MCQ practice portal built for Nepal's Civil Engineering and General Knowledge
+              Loksewa aspirants. Study, drill, compete — and walk in with confidence.
+            </p>
+          </div>
+
+          <!-- Navigation -->
+          <div>
+            <h3 class="sheet-tag text-slate-400 uppercase mb-4">Navigation</h3>
+            <ul class="space-y-2.5 text-sm font-semibold text-slate-600">
+              <li><a href="#top" class="hover:text-indigo-600 transition-colors">Home</a></li>
+              <li>
+                <a href="#modes" class="hover:text-indigo-600 transition-colors">Study Modes</a>
+              </li>
+              <li>
+                <a href="#tracks" class="hover:text-indigo-600 transition-colors">Question Bank</a>
+              </li>
+              <li>
+                <a href="#reviews" class="hover:text-indigo-600 transition-colors">Reviews</a>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Resources -->
+          <div>
+            <h3 class="sheet-tag text-slate-400 uppercase mb-4">Resources</h3>
+            <ul class="space-y-2.5 text-sm font-semibold text-slate-600">
+              <li>
+                <a href="app.html" class="hover:text-indigo-600 transition-colors">Practice App</a>
+              </li>
+              <li>
+                <a href="app.html" class="hover:text-indigo-600 transition-colors">Question Bank</a>
+              </li>
+              <li>
+                <a href="app.html" class="hover:text-indigo-600 transition-colors">Timed Exams</a>
+              </li>
+              <li>
+                <a href="app.html" class="hover:text-indigo-600 transition-colors"
+                  >Progress Dashboard</a
+                >
+              </li>
+            </ul>
+          </div>
+
+          <!-- Newsletter (non-functional) -->
+          <div>
+            <h3 class="sheet-tag text-slate-400 uppercase mb-4">Stay up to date</h3>
+            <p class="text-sm text-slate-500 mb-3">
+              Get new question drops and exam-date reminders.
+            </p>
+            <form onsubmit="return false;" class="flex gap-2">
+              <input
+                type="email"
+                placeholder="you@example.com"
+                class="flex-1 min-w-0 px-3.5 py-2.5 rounded-xl border border-slate-300 bg-white text-sm focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/15 transition-all form-input"
+              />
+              <button
+                type="submit"
+                class="gradient-brand text-white p-2.5 rounded-xl shadow-md hover:shadow-lg transition-shadow"
+                aria-label="Subscribe"
+              >
+                <i data-lucide="send" class="w-4 h-4"></i>
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <div class="border-t border-slate-200">
+        <div
+          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-400 safe-area-inset"
+        >
+          <p>© 2026 Loksewa Prep Pro. Free forever for Loksewa aspirants.</p>
+          <div class="flex items-center gap-5 font-semibold">
+            <a href="#" class="hover:text-indigo-600 transition-colors">Privacy</a>
+            <a href="#" class="hover:text-indigo-600 transition-colors">Terms</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      lucide.createIcons();
+
+      function toggleMobileMenu() {
+        document.getElementById('mobile-menu').classList.toggle('hidden');
+      }
+    </script>
+  </body>
+</html>

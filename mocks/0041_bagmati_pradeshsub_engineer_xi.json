@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Fill in the blank: We walked ___ the river and back.",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "till",
+      "b": "to",
+      "c": "at",
+      "d": "about"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1310",
+    "chapter": ""
+  },
+  {
+    "question": "Which tense does this statement belong to? We leave for Pune by the morning bus.",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Simple future tense",
+      "b": "Simple past tense",
+      "c": "Simple present tense",
+      "d": "Future perfect tense"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1311",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्ये शुद्ध शब्द छान्नुहाेस ।",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "कृषी तथा पशुपंक्षी विकास मन्त्रालय",
+      "b": "कृषि तथा पशुपंक्षी बिकास मन्त्रालय",
+      "c": "कृषि तथा पसुपंक्षी विकास मन्त्रालय",
+      "d": "कृषि तथा पशुपंक्षी विकास मन्त्रालय"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1312",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्ये शुद्ध शब्द छान्नुहाेस ।",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "राष्ट्रिय कितावखाना",
+      "b": "राष्ट्रिय कीताबखाना",
+      "c": "राष्ट्रिय किताब खाना",
+      "d": "राष्ट्रिय किताबखाना"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1313",
+    "chapter": ""
+  },
+  {
+    "question": "“An office may be regarded as a place where the control mechanisms of an organization are located”, यो भनाइ कसको हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "फ्रेडरिक विन्स्लो टेलर (Frederick Winslow Taylor)",
+      "b": "हेनरी फयोल (Henri Fayol)",
+      "c": "मैक्स वेबर (Max Weber)",
+      "d": "जर्ज आर टेरी (George R. Terry)"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1314",
+    "chapter": ""
+  },
+  {
+    "question": "सरकारी कागजात धुल्याउने नियमहरु, २०२७ अनुसार काम तामेल भएको ५ वर्ष पछि धुल्याउन मिल्ने कागजातहरुमा तलका मध्ये कुन पर्दैन ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "साधारण जानकारीका लागि आएको परिपत्र",
+      "b": "हाजिरी विदाको रिकर्ड राखी कर्मचारीको हाजिरी फारम",
+      "c": "कुनै योजनाको प्रगती प्रतिवेदन",
+      "d": "वार्षिक प्रतिवेदन"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1315",
+    "chapter": ""
+  },
+  {
+    "question": "वर्षमा कति दिन पर्व विदा दिइन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "६ दिन",
+      "b": "१२ दिन",
+      "c": "२४ दिन",
+      "d": "३० दिन"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1316",
+    "chapter": ""
+  },
+  {
+    "question": "राजपत्रको प्रकाशन कहिलेदेखि सुरु भएको हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "२००७ श्रावण २३ गते",
+      "b": "२००७ श्रावण २२ गते",
+      "c": "२००८ श्रावण २३ गते",
+      "d": "२००८ श्रावण २२ गते"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1317",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा बजेटलाई साधारण र विकास गरी दुई भागमा कहिलेबाट विभाजन गरिएको हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "आ.व. २०१२/१३",
+      "b": "आ .व. २०१३/१४",
+      "c": "आ.व. २०१४/१५",
+      "d": "आ.व. २०१५/१६"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1318",
+    "chapter": ""
+  },
+  {
+    "question": "राज्यबाट प्राप्त हुने सेवा सुविधामा जनताको समान र सहज पहुँच सुनिश्चित गरी सुशासनको प्रत्याभूति गर्ने व्यवस्था संविधानको कुन धाराले गरेको छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "धारा १",
+      "b": "धारा ४८",
+      "c": "धारा ५१",
+      "d": "धारा ५५"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1319",
+    "chapter": ""
+  },
+  {
+    "question": "बेलायतमा पहिलो पटक सार्वजनिक सेवा वडापत्र लागू गर्दा कति वटा सिद्धान्तहरु थिए?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "५",
+      "b": "६",
+      "c": "७",
+      "d": "८"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1320",
+    "chapter": ""
+  },
+  {
+    "question": "Who is also known as the father of management ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Henry Fayol",
+      "b": "Drucker",
+      "c": "Taylor",
+      "d": "David"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1321",
+    "chapter": ""
+  },
+  {
+    "question": "मिलिटरी स्कूलको स्थापना कसले गरेका थिए?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "जुद्ध शमशेर",
+      "b": "गेहेन्द्र शमशेर",
+      "c": "चन्द्र शमशेर",
+      "d": "पद्म शमशेर"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1322",
+    "chapter": ""
+  },
+  {
+    "question": "विश्व पानी दिवस कहिले मनाइन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "मे २९",
+      "b": "जुन २२",
+      "c": "मार्च २२",
+      "d": "सेप्टेम्बर १२"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1323",
+    "chapter": ""
+  },
+  {
+    "question": "क्यामेरा को आविष्कार कसले गरेका थिए ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "शालिमार",
+      "b": "जोसेफ नियसी",
+      "c": "ग्यालिलियो ग्यालिलि",
+      "d": "डेनेश पपिन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1324",
+    "chapter": ""
+  },
+  {
+    "question": "भ्यागुते रोग कुन जिवाणुको संक्रमणले लाग्दछ् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Coryne Bacterium Diptheria",
+      "b": "Escherichia coli (E. coli)",
+      "c": "Staphylococcus aureus",
+      "d": "Bacillus subtilis"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1325",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालको संविधानले कतिवटा राज्यका नीतिहरु अवलम्बन गरेको छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "३१ वटा",
+      "b": "४ वटा",
+      "c": "२१ वटा",
+      "d": "१३ वटा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1326",
+    "chapter": ""
+  },
+  {
+    "question": "सुरक्षा परिषदमा रहने अस्थायी सदस्यको कार्यकाल कति वर्षको हुन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "६ वर्ष",
+      "b": "५ वर्ष",
+      "c": "२ वर्ष",
+      "d": "१ वर्ष"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1327",
+    "chapter": ""
+  },
+  {
+    "question": "नदि नभएको सार्क राष्ट्र तलका मध्ये कुन हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "नेपाल",
+      "b": "अफगानिस्तान",
+      "c": "मालदिभ्स",
+      "d": "पाकिस्तान"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1328",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालसँग दौत्य सम्बन्ध कायम भएका पछिल्लो राष्ट्र(१८२औं) कुन हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "क्यामरुन",
+      "b": "मार्सल आइसल्यान्ड",
+      "c": "नाउरू",
+      "d": "टोङ्गा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1329",
+    "chapter": ""
+  },
+  {
+    "question": "What does a density index indicate?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "density of a different types of soil",
+      "b": "density of saturated and submerged soil",
+      "c": "degree of compaction ability of soil",
+      "d": "degree of dispersion of soil"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1330",
+    "chapter": ""
+  },
+  {
+    "question": "The ratio of volume of water present in a given soil mass to the volume of voids in it is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Percentage voids",
+      "b": "Porosity",
+      "c": "Degree of saturation",
+      "d": "Water content"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1331",
+    "chapter": ""
+  },
+  {
+    "question": "The RCC slab is designed as one way if the ratio of long span to short span is",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "less than 1.0",
+      "b": "between 1.0 to 1.5",
+      "c": "between 1.5 to 2.0",
+      "d": "greater than 2.0"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1332",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum diameter of the reinforcement bars in RCC slab is",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "20 mm",
+      "b": "16 mm",
+      "c": "Thickness of slab divided by 8",
+      "d": "Span divided by 100"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1333",
+    "chapter": ""
+  },
+  {
+    "question": "A wall constructed to resist the pressure of an earth filling is called",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Parapet wall",
+      "b": "Retaining wall",
+      "c": "Butting wall",
+      "d": "Cavity wall"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1334",
+    "chapter": ""
+  },
+  {
+    "question": "Isolated footing in foundation of a building means",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "all the columns have one single footing",
+      "b": "at least 2 column have one column footing",
+      "c": "every column has an individual footing",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1335",
+    "chapter": ""
+  },
+  {
+    "question": "A water supply scheme is usually designed for a period of",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "5 years",
+      "b": "10 years",
+      "c": "20 years",
+      "d": "50 years"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1336",
+    "chapter": ""
+  },
+  {
+    "question": "A continuous flow of water can be expected from",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Gravity springs",
+      "b": "Artesian springs",
+      "c": "Surface springs",
+      "d": "None of these"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1337",
+    "chapter": ""
+  },
+  {
+    "question": "Estimate expected to be least accurate is",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Supplementary estimate",
+      "b": "Plinth area estimate",
+      "c": "Detailed estimate",
+      "d": "Revised estimate"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1338",
+    "chapter": ""
+  },
+  {
+    "question": "The defect liability period (DLP), in general, is",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "One year from date of completion",
+      "b": "Two year from date of completion",
+      "c": "Six month from date of completion",
+      "d": "Nine month from date of completion"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1339",
+    "chapter": ""
+  },
+  {
+    "question": "The camber provided for earthen road, is",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "3%",
+      "b": "4%",
+      "c": "5%",
+      "d": "7%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1340",
+    "chapter": ""
+  },
+  {
+    "question": "The portion of road surface which is used by the vehicular traffic is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Shoulder",
+      "b": "Carriage way",
+      "c": "Formation width",
+      "d": "Right of way"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1341",
+    "chapter": ""
+  },
+  {
+    "question": "The radius of curvature of the arc of the bubble tube is generally kept",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "10 m",
+      "b": "25 m",
+      "c": "50 m",
+      "d": "100 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1342",
+    "chapter": ""
+  },
+  {
+    "question": "The most reliable method of plotting a theodolite traverse, is",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "by consecutive co-ordinates of each station",
+      "b": "by independent co-ordinates of each station",
+      "c": "by plotting included angles and scaling off each traverse leg",
+      "d": "by the tangent method of plotting"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1343",
+    "chapter": ""
+  },
+  {
+    "question": "Specific gravity for most of the ordinary building stone lines between",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "1.5 to 2.0",
+      "b": "2.0 to 2.5",
+      "c": "2.4 to 3.0",
+      "d": "3.0 to 3.5"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1344",
+    "chapter": ""
+  },
+  {
+    "question": "Which one of the following minerals suddenly expands at a temperature lower than 600°C ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Quartz",
+      "b": "Calcite",
+      "c": "Dolomite",
+      "d": "Gypsum"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1345",
+    "chapter": ""
+  },
+  {
+    "question": "The safe value of stress below which the material will not fail when subjected to reversal of stress is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "endurance limit",
+      "b": "fatigue stress",
+      "c": "tolerance limit",
+      "d": "elastic limit"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1346",
+    "chapter": ""
+  },
+  {
+    "question": "Short column taking maximum load having an equal section",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "sal",
+      "b": "pce",
+      "c": "chir",
+      "d": "pine"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1347",
+    "chapter": ""
+  },
+  {
+    "question": "The operation during the infiltration of water below the ground surface is",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "adsorption",
+      "b": "absorption",
+      "c": "ozonization",
+      "d": "sedimentation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1348",
+    "chapter": ""
+  },
+  {
+    "question": "Water logging of fields can be reduced by",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "providing canal lining",
+      "b": "providing intercepting drains",
+      "c": "controlling the intensity of irrigation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1349",
+    "chapter": ""
+  },
+  {
+    "question": "The authority to conduct the monitoring of public procurement in Nepal lies with ______ .",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "National Vigilance Center",
+      "b": "PPMO",
+      "c": "NEA",
+      "d": "Office of auditorial general"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1350",
+    "chapter": ""
+  },
+  {
+    "question": "Consulting works worth more than 15 crores NRs should be procured on the basis of",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "RFP",
+      "b": "RFP and EOI",
+      "c": "International level EOI and RFP",
+      "d": "International level RFP"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1351",
+    "chapter": ""
+  },
+  {
+    "question": "Pascal's law states that pressure at a point is equal in all directions",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "in a liquid at rest",
+      "b": "in a fluid at rest",
+      "c": "in a laminar flow",
+      "d": "in a turbulent flow"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1352",
+    "chapter": ""
+  },
+  {
+    "question": "Continuity equation deals with the law of conservation of",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "mass",
+      "b": "momentum",
+      "c": "energy",
+      "d": "force"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1353",
+    "chapter": ""
+  },
+  {
+    "question": "The length and width of the runway of TIA are",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "2700 m and 45 m",
+      "b": "2800 m and 46 m",
+      "c": "3050 m and 46 m",
+      "d": "3050 m and 50 m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1354",
+    "chapter": ""
+  },
+  {
+    "question": "Complete the series below: 34,?,14,8,2,0",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "24",
+      "b": "25",
+      "c": "26",
+      "d": "27"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1355",
+    "chapter": ""
+  },
+  {
+    "question": "To complete a work A and B takes 8 days, B and C takes 12 days, A,B and C takes 6 days. How much time A and C will take",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "24 days",
+      "b": "16 days",
+      "c": "12 days",
+      "d": "8 days"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1356",
+    "chapter": ""
+  },
+  {
+    "question": "In a certain code, MENTION is written as LNEITNO. How is PATTERN written in that code ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "ATAETNR",
+      "b": "OTAETNR",
+      "c": "OTAESNR",
+      "d": "STAETNR"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1357",
+    "chapter": ""
+  },
+  {
+    "question": "वर्णानुक्रम फाइलिङ अवधारणा अनुसार मिलाउँदा तलका कुन क्रम सही हो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "आंशिक, आकर्षक, आकाङ्क्षा, आकस्मिक, आकाशगंगा",
+      "b": "आंशिक, आकाङ्क्षा, आकर्षक, आकस्मिक, आकाशगंगा",
+      "c": "आकर्षक, आंशिक, आकस्मिक, आकाङ्क्षा, आकाशगंगा",
+      "d": "आंशिक, आकर्षक, आकस्मिक, आकाङ्क्षा, आकाशगंगा"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1358",
+    "chapter": ""
+  },
+  {
+    "question": "Directions : For the Assertion (A) and Reason (R) below, choose the correct alternative Assertion (A) : We prefer to wear white clothes in winter. Reason (R) : White clothes are good reflectors of heat.",
+    "topic": "Bagmati Pradesh(sub engineer) - XI",
+    "options": {
+      "a": "Both A and R are true and R is the correct explanation of A",
+      "b": "Both A and R are true but R is NOT the correct explanation of A",
+      "c": "A is true but R is false",
+      "d": "A is false but R is true"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1359",
+    "chapter": ""
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "question": "The limiting length of the offset is ______ when its perpendicular direction is set out by an eye.",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "5m",
+      "b": "10m",
+      "c": "15m",
+      "d": "20m"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "607",
+    "chapter": ""
+  },
+  {
+    "question": "An imaginary line tangential to the longitudinal curve of the bubble tube at its middle point is called ______ .",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "axis of telescope",
+      "b": "axis of level tube",
+      "c": "level line",
+      "d": "line of collimation"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "608",
+    "chapter": ""
+  },
+  {
+    "question": "Loss on ignition in cement should not exceed",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "1%",
+      "b": "4%",
+      "c": "8%",
+      "d": "12%"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "609",
+    "chapter": ""
+  },
+  {
+    "question": "The solvent used in cement paints is",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "turpentine",
+      "b": "water",
+      "c": "spirit",
+      "d": "kerosene"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "610",
+    "chapter": ""
+  },
+  {
+    "question": "In an I-section almost all the shear force is taken by",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "web",
+      "b": "top flange",
+      "c": "bottom flange",
+      "d": "half the depth of each flange"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "611",
+    "chapter": ""
+  },
+  {
+    "question": "The bending moment on a section is maximum where shear force is",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "minimum",
+      "b": "maximum",
+      "c": "changing sign",
+      "d": "zero"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "612",
+    "chapter": ""
+  },
+  {
+    "question": "The length of the divergent cone in a venturimeter is _____ that of the convergent cone.",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "equal to",
+      "b": "double",
+      "c": "three to four times",
+      "d": "five to six times"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "613",
+    "chapter": ""
+  },
+  {
+    "question": "For a floating body, if the meta-centre below the centre of gravity, the equilibrium is called",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "stable",
+      "b": "unstable",
+      "c": "neutral",
+      "d": "none"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "614",
+    "chapter": ""
+  },
+  {
+    "question": "Bentonite contains predominantly",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "Kaolinite",
+      "b": "Illite",
+      "c": "Montmorillonite",
+      "d": "none"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "615",
+    "chapter": ""
+  },
+  {
+    "question": "The angle of internal friction of round grained loose sand is about",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "5o to 25o",
+      "b": "25o to 30o",
+      "c": "30o to 35o",
+      "d": "32o to 37o"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "616",
+    "chapter": ""
+  },
+  {
+    "question": "If the bond stress developed in a reinforced concrete beam is more than permissible value, it can be brought down by",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "increasing the depth of beam",
+      "b": "increasing number of bars",
+      "c": "decreasing diameter of the bars",
+      "d": "all of these"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "617",
+    "chapter": ""
+  },
+  {
+    "question": "The total thickness of flat slab, is no case, should be less than",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "125mm",
+      "b": "200mm",
+      "c": "275mm",
+      "d": "350mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "618",
+    "chapter": ""
+  },
+  {
+    "question": "The covering on the exposed top of a wall is called",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "cornice",
+      "b": "corbel",
+      "c": "coping",
+      "d": "cramp"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "619",
+    "chapter": ""
+  },
+  {
+    "question": "A vertical window provided on the sloping roof is known as",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "dormer window",
+      "b": "gable window",
+      "c": "lantern window",
+      "d": "bay window"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "620",
+    "chapter": ""
+  },
+  {
+    "question": "भाले बास्ने ताल कहा पर्दछ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "पाल्पा",
+      "b": "म्याग्दि",
+      "c": "रुकुम",
+      "d": "चितवन"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "621",
+    "chapter": ""
+  },
+  {
+    "question": "ग्याल्पाे ल्हाेसार कुन जातिले मनाउछन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "गुरुङ",
+      "b": "तामाङ",
+      "c": "शेर्पा",
+      "d": "लिम्बू"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "622",
+    "chapter": ""
+  },
+  {
+    "question": "पन्ध्राै याेजना अनुसार सडक घनत्व ______ कि मि प्रति वर्ग कि मि बनाउने लक्ष्य छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "0.64",
+      "b": "0.74",
+      "c": "0.84",
+      "d": "0.94"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "623",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा मात्र पाइने चरा कुन हाे ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "मैना",
+      "b": "रुप्पी",
+      "c": "कांडे भ्याकुर",
+      "d": "कालिज"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "624",
+    "chapter": ""
+  },
+  {
+    "question": "हावाकाे अवराेध नहुदा साना ठूला सबै वस्तु समान गतिमा पृथ्वीकाे सतहमा खस्छन् भनी प्रमाणित गर्ने वैज्ञानिक काे हुन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "Sir Issac Newton",
+      "b": "Archimedes",
+      "c": "John Dalton",
+      "d": "Gallileo Galleli"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "625",
+    "chapter": ""
+  },
+  {
+    "question": "DOTS विधि कुन राेगकाे उपचार गर्न प्रयाेग गरिन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "T.B",
+      "b": "HIV AIDS",
+      "c": "Rabbies",
+      "d": "Polio"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "626",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालले कहिले संयुक्त राष्ट्रसंघको सदस्यता प्राप्त गरेको थियो ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "सन् १९४५ अक्टोबर २४",
+      "b": "सन् १९४५ डिसेम्बर १४",
+      "c": "सन् १९५५ डिसेम्बर १४",
+      "d": "सन् १९६० जनवरी १४"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "627",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालकाे संविधानमा यातना विरुद्धकाे हक कुन धारामा छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "२०",
+      "b": "२१",
+      "c": "२२",
+      "d": "२३"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "628",
+    "chapter": ""
+  },
+  {
+    "question": "कुनै कार्यालयका प्रमुखकाे कार्यालयसम्बन्धि सहयाेग पुर्याउने सहायक स्तरका ताेकिएका कर्मचारीलाई के भनिन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "संपर्क सहायक",
+      "b": "निजी सहायक",
+      "c": "कार्यालय सहयाेगी",
+      "d": "प्रविधि सहायक"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "629",
+    "chapter": ""
+  },
+  {
+    "question": "निजामती सेवा ऐन अनुसार राजपत्र अनंकि‌त प्रथम श्रेणीमा पदपूर्ती गर्दा कति प्रतिशत खुल्ला प्रतियाेगीताबाट गरिन्छ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "४०",
+      "b": "५०",
+      "c": "६०",
+      "d": "७०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "630",
+    "chapter": ""
+  },
+  {
+    "question": "हुलाक समूह कहिले खारेज गरिएकाे हाे ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "२०६१ भाद्र २८",
+      "b": "२०६१ भाद्र ३०",
+      "c": "२०६१ आश्विन २८",
+      "d": "२०६१ आश्विन ३०"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "631",
+    "chapter": ""
+  },
+  {
+    "question": "सरकारी बजेट कस्ले स्वीकृत गर्दछ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "कार्यपालिका",
+      "b": "व्यवस्थापिका",
+      "c": "अर्थ मन्त्रालय",
+      "d": "राष्ट्रिय याेजना आयाेग"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "632",
+    "chapter": ""
+  },
+  {
+    "question": "सार्वजनिक सेवा प्रवाहकाे विशेषतामा देहायकाे कुन पर्दैन ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "विभेदरहितता",
+      "b": "एकरुपता",
+      "c": "समन्यायिकता",
+      "d": "नि‌:शुल्क"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "633",
+    "chapter": ""
+  },
+  {
+    "question": "नेपालमा सार्वजनिक वडापत्रकाे सुरुवात कहिले भएकाे हाे ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "वि सं २०५४",
+      "b": "वि सं २०५५",
+      "c": "वि सं २०५६",
+      "d": "वि सं २०५७"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "634",
+    "chapter": ""
+  },
+  {
+    "question": "“ समन्वय भनेकाे विभिन्न व्यक्ति तथा एकाइहरुका कृयाकलापहरुकाे एकीकरणा हाे जसले साझा उद्धेश्य हासिल गर्ने कार्य गर्दछ । “ याे कसकाे परिभाषा हाे ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "Tim Hannagax",
+      "b": "Koontz & Wainrich",
+      "c": "George Terry",
+      "d": "Henry Fuyol"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "635",
+    "chapter": ""
+  },
+  {
+    "question": "ग्रिफिनका अनुसार विवेकपूर्ण निर्णय प्रक्रियाका कति चरणहरु हुन्छन् ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "636",
+    "chapter": ""
+  },
+  {
+    "question": "664, 332, 340, 170, ____, 89, ... What number should fill the blank ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "85",
+      "b": "97",
+      "c": "109",
+      "d": "178"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "637",
+    "chapter": ""
+  },
+  {
+    "question": "FAG, GAF, HAI, IAH, ____ ?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "JAK",
+      "b": "HAL",
+      "c": "HAK",
+      "d": "JAI"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "638",
+    "chapter": ""
+  },
+  {
+    "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "12 days",
+      "b": "15 days",
+      "c": "16 days",
+      "d": "18 days"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "639",
+    "chapter": ""
+  },
+  {
+    "question": "The sum of three numbers is 98. If the ratio of the first to second is 2 :3 and that of the second to the third is 5 : 8, then the second number is:",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "48",
+      "d": "58"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "640",
+    "chapter": ""
+  },
+  {
+    "question": "Rohit walked 25 m towards south. Then he turned to his left and walked 20 m. He then turned to his left and walked 25 m. He again turned to his right and walked 15 m. At what distance is he from the starting point and in which direction?",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "35 m East",
+      "b": "35 m North",
+      "c": "30 m West",
+      "d": "45 m East"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "641",
+    "chapter": ""
+  },
+  {
+    "question": "Please, stop _____ so many mistakes.",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "to make",
+      "b": "making",
+      "c": "makes",
+      "d": "make"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "642",
+    "chapter": ""
+  },
+  {
+    "question": "He gave a talk _____ the causes of dengue fever.",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "of",
+      "b": "on",
+      "c": "for",
+      "d": "off"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "643",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्ये शुद्ध शब्द छान्नुहाेस ।",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "वीभुती",
+      "b": "विभूति",
+      "c": "विभुती",
+      "d": "वीभुति"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "644",
+    "chapter": ""
+  },
+  {
+    "question": "तलका मध्ये शुद्ध शब्द छान्नुहाेस ।",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "प्रमुख प्रशासकिय अधिकृत",
+      "b": "प्रमूख प्रशासकिय अधिकृत",
+      "c": "प्रमुख प्रशासकीय अधिकृत",
+      "d": "प्रमुख प्रशाषकिय अधिकृत"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "645",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum value of the angle of turning the nose gear for large jet aircraft is limited to",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "200",
+      "b": "300",
+      "c": "450",
+      "d": "600"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "646",
+    "chapter": ""
+  },
+  {
+    "question": "The percentage of retention money is equal to _____ % of each payment made to the contractor.",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "2.5",
+      "b": "5",
+      "c": "10",
+      "d": "15"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "647",
+    "chapter": ""
+  },
+  {
+    "question": "According to PPMO , maximum number of JV partner is",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "648",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of sawing timber is",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "m³",
+      "b": "m",
+      "c": "m²",
+      "d": "kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "649",
+    "chapter": ""
+  },
+  {
+    "question": "In the analysis of the rate what percentages of the total cost is provided towards water charges",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "5%",
+      "b": "7.5%",
+      "c": "1.5%",
+      "d": "10%"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "650",
+    "chapter": ""
+  },
+  {
+    "question": "Prithivi highway connects",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "Sunauli-Pokhara",
+      "b": "Kathmandu-Pokhara",
+      "c": "Naubise-Pokhara",
+      "d": "Birgunj-Pokhara"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "651",
+    "chapter": ""
+  },
+  {
+    "question": "The radius of the transition curve at the junction of the circular curve is",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "R/2",
+      "b": "R",
+      "c": "2R",
+      "d": "0"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "652",
+    "chapter": ""
+  },
+  {
+    "question": "Area velocity method is used to measure",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "area",
+      "b": "velocity",
+      "c": "discharge",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "653",
+    "chapter": ""
+  },
+  {
+    "question": "The discharge coefficient of an ogee spillway is",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "1.2",
+      "b": "18",
+      "c": "2.02",
+      "d": "3.7"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "654",
+    "chapter": ""
+  },
+  {
+    "question": "The specific yield of wells is expressed as",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "m³/hour",
+      "b": "m³/hour/m²",
+      "c": "m³/hour/m²/m",
+      "d": "m³/hour/m²sec"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "655",
+    "chapter": ""
+  },
+  {
+    "question": "Pattern of sanitation most suitable for sloppy areas, is",
+    "topic": "Bagmati Pradesh(sub engineer) - I",
+    "options": {
+      "a": "zone pattern",
+      "b": "fan pattern",
+      "c": "radial pattern",
+      "d": "perpendicular pattern"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "656",
+    "chapter": ""
+  }
+]

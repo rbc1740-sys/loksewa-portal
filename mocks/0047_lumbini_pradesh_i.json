@@ -1,0 +1,702 @@
+[
+  {
+    "question": "According to NBC 105:2020, when factored axial compressive stress in beam does not exceed 0.08 fck, minimum width of beam is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "200 mm",
+      "b": "250 mm",
+      "c": "300 mm",
+      "d": "350 mm"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1610",
+    "chapter": ""
+  },
+  {
+    "question": "The section view drawing in which one fourth of the object has been marked for removal is known as a _______ section.",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "full",
+      "b": "half",
+      "c": "quarter",
+      "d": "none"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1611",
+    "chapter": ""
+  },
+  {
+    "question": "This is a thin solid line directing attention to a note or dimension and starting with an arrowhead or dot:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Dimension line",
+      "b": "Extension line",
+      "c": "Leader",
+      "d": "Specification"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1612",
+    "chapter": ""
+  },
+  {
+    "question": "In working drawings, this show all necessary information not given directly on the drawing with its dimensions and notes:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Document strips",
+      "b": "Portable documents",
+      "c": "Formatting forms",
+      "d": "Title and record strips"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1613",
+    "chapter": ""
+  },
+  {
+    "question": "Minimum size of transverse reinforcement in a beam is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "6 mm",
+      "b": "7 mm",
+      "c": "8 mm",
+      "d": "10 mm"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1614",
+    "chapter": ""
+  },
+  {
+    "question": "The types of format in which the records of labour are kept on daily basis for executing works is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Muster roll",
+      "b": "Attendance register",
+      "c": "Attendance voucher",
+      "d": "Daily register"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1615",
+    "chapter": ""
+  },
+  {
+    "question": "The amount of money deposited by interested bidders a tender as a guarantee is known as",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Earnest money",
+      "b": "Performance bond",
+      "c": "Security money",
+      "d": "Retention money"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1616",
+    "chapter": ""
+  },
+  {
+    "question": "Various activities of a project, are shown on bar charts by:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Vertical lines",
+      "b": "Horizontal lines",
+      "c": "Dost",
+      "d": "Crosses"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1617",
+    "chapter": ""
+  },
+  {
+    "question": "An artesian aquifer is the one where:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Water surface under the ground is at atmospheric pressure",
+      "b": "Water is under pressure between two impervious strata",
+      "c": "Water table serves as upper surface of zone of saturation",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1618",
+    "chapter": ""
+  },
+  {
+    "question": "Commonly used material for water mains is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "RCC",
+      "b": "Steel",
+      "c": "Cast iron",
+      "d": "Aluminum"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1619",
+    "chapter": ""
+  },
+  {
+    "question": "Septic tank is designed on the basis of sludge storage of:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "30 litre/person",
+      "b": "60 litre/person",
+      "c": "90 litre/person",
+      "d": "100 litre/person"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1620",
+    "chapter": ""
+  },
+  {
+    "question": "The sewerage system originates from:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Lateral sewers",
+      "b": "Main sewers",
+      "c": "Branch sewers",
+      "d": "House sewers"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1621",
+    "chapter": ""
+  },
+  {
+    "question": "The main principal of surveying is to work from",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "part to the whole",
+      "b": "whole to the part",
+      "c": "lower level to higher level",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1622",
+    "chapter": ""
+  },
+  {
+    "question": "A discrepancy is the difference between:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "True value and error",
+      "b": "measured value and actual value",
+      "c": "Two measured values of the same quantity",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1623",
+    "chapter": ""
+  },
+  {
+    "question": "The method for linear measurement computed by means of observation through instruments, avoiding the use of measuring tapes is:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Direct method",
+      "b": "Observation method",
+      "c": "Secondary method",
+      "d": "Commutative method"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1624",
+    "chapter": ""
+  },
+  {
+    "question": "The point on which both foresight and backsight are taken during the operation of levelling is known as",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Instrument station",
+      "b": "Bench mark",
+      "c": "Foresight point",
+      "d": "Change point"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1625",
+    "chapter": ""
+  },
+  {
+    "question": "In reciprocal levelling, the error which is not completely eliminated is due to",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Earth's curvature",
+      "b": "Non-adjustment of line of collimation",
+      "c": "Refraction",
+      "d": "Non-adjustment of the bubble tube"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1626",
+    "chapter": ""
+  },
+  {
+    "question": "The stone provided at regular intervals and which are placed right across width of wall in stone masonry is known as",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Through stone",
+      "b": "Spalls stone",
+      "c": "Head stone",
+      "d": "Quoins stone"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1627",
+    "chapter": ""
+  },
+  {
+    "question": "Strength of cement with storage",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Increases",
+      "b": "Decreases",
+      "c": "Remain constant",
+      "d": "Fluctuate"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1628",
+    "chapter": ""
+  },
+  {
+    "question": "The main constituent of varnish is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Petrol",
+      "b": "Alcohol",
+      "c": "Turpentine",
+      "d": "Resin"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1629",
+    "chapter": ""
+  },
+  {
+    "question": "Ultimate strength to cement is provided by",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Tri-calcium silicate",
+      "b": "Di-calcium silicate",
+      "c": "Tri-calcium aluminate",
+      "d": "Tetra-calcium alumino ferrite"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1630",
+    "chapter": ""
+  },
+  {
+    "question": "Which of the following paint is used for preservation of iron and steel surfaces?",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Cement paint",
+      "b": "Primary paint",
+      "c": "Anti corrosive paint",
+      "d": "Luminous paint"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1631",
+    "chapter": ""
+  },
+  {
+    "question": "The process of giving definite and regular shape with smooth faces is known as",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Pitching",
+      "b": "Seasoning",
+      "c": "Dressing",
+      "d": "Quarrying"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1632",
+    "chapter": ""
+  },
+  {
+    "question": "Who coined the term soil mechanics?",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Terzaghi",
+      "b": "Casa Grande",
+      "c": "Newmark",
+      "d": "Rankine"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1633",
+    "chapter": ""
+  },
+  {
+    "question": "The property of soil which allows water to flow through the soil is known as",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Permeability",
+      "b": "Capillarity",
+      "c": "Viscosity",
+      "d": "Fluidity"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1634",
+    "chapter": ""
+  },
+  {
+    "question": "Crops that take more than 4 months to mature are called",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Solid crops",
+      "b": "Long crops",
+      "c": "Hard crops",
+      "d": "Cash crops"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1635",
+    "chapter": ""
+  },
+  {
+    "question": "If water table is comparatively high the irrigation canal becomes useless due to",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Large amount of seepage",
+      "b": "Water logging of the cultivated areas",
+      "c": "Uncertain water demand",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1636",
+    "chapter": ""
+  },
+  {
+    "question": "The main function of a diversion head works of canal from a river is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "To remove silt",
+      "b": "To raise water level",
+      "c": "To control flood",
+      "d": "To store water"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1637",
+    "chapter": ""
+  },
+  {
+    "question": "Consumptive use of a crop is the",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "total amount of water applied to the crop during its life period",
+      "b": "total amount of water applied minus the total rainfall during its life period",
+      "c": "total amount of water utilized by the crops for its evapotranspiration requirement",
+      "d": "total amount of water used in the plant metabolism"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1638",
+    "chapter": ""
+  },
+  {
+    "question": "Pile foundations are suitable for",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Water-logged soils",
+      "b": "soft rocks",
+      "c": "compact soils",
+      "d": "multistoried buildings"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1639",
+    "chapter": ""
+  },
+  {
+    "question": "Cavity wall provided with",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "no gap",
+      "b": "air gap",
+      "c": "water fill gap",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1640",
+    "chapter": ""
+  },
+  {
+    "question": "Expansion joints provided in masonry walls are provided in wall lengths more than",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "10 m",
+      "b": "20 m",
+      "c": "30 m",
+      "d": "40 m"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1641",
+    "chapter": ""
+  },
+  {
+    "question": "Separation of coarse aggregates from mortar during transportation",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "bleeding",
+      "b": "creeping",
+      "c": "segregation",
+      "d": "shrinkage"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1642",
+    "chapter": ""
+  },
+  {
+    "question": "Efflorescence in cement is caused by excess of",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "alumina",
+      "b": "iron oxide",
+      "c": "lime",
+      "d": "alkalis"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1643",
+    "chapter": ""
+  },
+  {
+    "question": "For preparation of cost estimated of project following activities are necessary",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Preparation of design, drawing, quantity estimate",
+      "b": "Preparation of rate analysis based on approved norms and district rate",
+      "c": "Both (a) and (b)",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1644",
+    "chapter": ""
+  },
+  {
+    "question": "Main purpose of preparing an estimate is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "to know tentative cost beforehand",
+      "b": "to know exact cost beforehand",
+      "c": "to know the amount due to price escalation",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1645",
+    "chapter": ""
+  },
+  {
+    "question": "Which agency confers NS standards in Nepal?",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Department of industries",
+      "b": "Department of commerce and supplies",
+      "c": "Nepal Bureau of standards and metrology",
+      "d": "Nepal council of standards"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1646",
+    "chapter": ""
+  },
+  {
+    "question": "A documents showing the list of quantity of various items of works required for completion of any project is known as",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Schedule of rates",
+      "b": "Analysis of rate",
+      "c": "Abstract of cost",
+      "d": "Schedule of quantity"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1647",
+    "chapter": ""
+  },
+  {
+    "question": "The unit of measurement of the wooden railings in staircase is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Sqm",
+      "b": "Cum",
+      "c": "Running meter",
+      "d": "Kg"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1648",
+    "chapter": ""
+  },
+  {
+    "question": "The value of dismantled material less the cost of dismantling is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Scrap value",
+      "b": "Salvation value",
+      "c": "Rateable value",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1649",
+    "chapter": ""
+  },
+  {
+    "question": "The bid bond validity for bidding of works contract costing less than NRs.100 million is",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "90 days",
+      "b": "120 days",
+      "c": "150 days",
+      "d": "75 days"
+    },
+    "answer": "a",
+    "explanation": "",
+    "qn": "1650",
+    "chapter": ""
+  },
+  {
+    "question": "The centre line method is appropriate for estimating",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Circular building",
+      "b": "Hexagonal building",
+      "c": "Octagonal building",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1651",
+    "chapter": ""
+  },
+  {
+    "question": "Driving vehicles on wet surface roads, is dangerous because it may:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "skid",
+      "b": "slip",
+      "c": "overturn",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1652",
+    "chapter": ""
+  },
+  {
+    "question": "The maximum percentage grade compensation should be:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "60/R",
+      "b": "70/R",
+      "c": "75/R",
+      "d": "80/R"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1653",
+    "chapter": ""
+  },
+  {
+    "question": "Seal coat is a layer of:",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "cement concrete",
+      "b": "coarse sand and bitumen",
+      "c": "water repellent agent",
+      "d": "adhesive to improve bond between aggregates"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1654",
+    "chapter": ""
+  },
+  {
+    "question": "A gradient along which the vehicle does not require any tractive effort to maintain a specified speed is known as :",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "average gradient",
+      "b": "pushing gradient",
+      "c": "floating gradient",
+      "d": "minimum gradient"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1655",
+    "chapter": ""
+  },
+  {
+    "question": "A good design for a bridge structure should satisfy the following requirement",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Function",
+      "b": "Aesthetics",
+      "c": "Economy",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1656",
+    "chapter": ""
+  },
+  {
+    "question": "The inventor of road making as a building science, was",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Transnet",
+      "b": "Macadam",
+      "c": "Telfordd",
+      "d": "Sully"
+    },
+    "answer": "d",
+    "explanation": "",
+    "qn": "1657",
+    "chapter": ""
+  },
+  {
+    "question": "Super elevation is provided in horizontal road curves for",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Effective drainage",
+      "b": "Counteracting the centrifugal force",
+      "c": "Increasing sight distance",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "explanation": "",
+    "qn": "1658",
+    "chapter": ""
+  },
+  {
+    "question": "For the construction of highway",
+    "topic": "Lumbini Pradesh- I",
+    "options": {
+      "a": "Longitudinal sections are required",
+      "b": "Cross sections are required",
+      "c": "Both longitudinal and cross sections are required",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "explanation": "",
+    "qn": "1659",
+    "chapter": ""
+  }
+]
