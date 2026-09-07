@@ -83,19 +83,25 @@ export interface BattleRoom {
 /** Rooms are identified by a 6-char unambiguous code (no 0/O, 1/I). */
 export function generateRoomCode(rand: () => number = Math.random): string {
   const alphabet = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
-  let code = '';
+  let code = 'LK';
   for (let i = 0; i < 6; i++) code += alphabet[Math.floor(rand() * alphabet.length)];
   return code;
 }
 
 /** Role of a participant in a room, resolved from the two uid fields. */
-export function roleFor(room: Pick<BattleRoom, 'hostUid' | 'guestUid'>, uid: string): 'host' | 'guest' | null {
+export function roleFor(
+  room: Pick<BattleRoom, 'hostUid' | 'guestUid'>,
+  uid: string
+): 'host' | 'guest' | null {
   if (uid === room.hostUid) return 'host';
   if (uid != null && uid === room.guestUid) return 'guest';
   return null;
 }
 
 /** The opponent's display name for the local UI. */
-export function opponentName(room: Pick<BattleRoom, 'host' | 'guest'>, role: 'host' | 'guest'): string | null {
+export function opponentName(
+  room: Pick<BattleRoom, 'host' | 'guest'>,
+  role: 'host' | 'guest'
+): string | null {
   return role === 'host' ? room.guest : room.host;
 }

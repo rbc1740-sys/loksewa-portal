@@ -102,10 +102,13 @@ export default function BattleScreen() {
     ).catch(e => setError(e instanceof Error ? e.message : 'Could not watch the room.'));
   }, []);
 
-  useEffect(() => () => {
-    unsubRef.current?.();
-    if (advanceRef.current) clearTimeout(advanceRef.current);
-  }, []);
+  useEffect(
+    () => () => {
+      unsubRef.current?.();
+      if (advanceRef.current) clearTimeout(advanceRef.current);
+    },
+    []
+  );
 
   const host = useCallback(async () => {
     setBusy(true);
@@ -142,7 +145,7 @@ export default function BattleScreen() {
       setBusy(false);
     }
   }, [joinCode, name, watch]);
-/** Load the frozen paper on entering play. */
+  /** Load the frozen paper on entering play. */
   useEffect(() => {
     if (phase !== 'play' || !room || questions.length) return;
     let alive = true;
@@ -218,7 +221,8 @@ export default function BattleScreen() {
    */
   useEffect(() => {
     if (phase !== 'play' || !questions.length || picked != null) return;
-    const sync = () => setTimeLeft(Math.max(0, BATTLE_QUESTION_MS - (Date.now() - qStartRef.current)));
+    const sync = () =>
+      setTimeLeft(Math.max(0, BATTLE_QUESTION_MS - (Date.now() - qStartRef.current)));
     sync(); // catch up immediately after backgrounding/reconnect
     const iv = setInterval(sync, 250);
     return () => clearInterval(iv);
@@ -356,7 +360,8 @@ export default function BattleScreen() {
   if (phase === 'result') {
     // Prefer MY locally-computed final score — the room doc can lag behind
     // the snapshot right after finishing (eventual consistency).
-    const mine = myFinal ?? (room ? (room.myRole === 'guest' ? room.guestScore : room.hostScore) : score);
+    const mine =
+      myFinal ?? (room ? (room.myRole === 'guest' ? room.guestScore : room.hostScore) : score);
     const theirs = room ? (room.myRole === 'guest' ? room.hostScore : room.guestScore) : 0;
     const label =
       winner == null
@@ -405,9 +410,9 @@ export default function BattleScreen() {
           style={styles.codeInput}
           value={joinCode}
           onChangeText={setJoinCode}
-          placeholder="ABC234"
+          placeholder="LKABC234"
           autoCapitalize="characters"
-          maxLength={6}
+          maxLength={8}
         />
         <TouchableOpacity style={styles.joinBtn} onPress={() => void join()} disabled={busy}>
           <Text style={styles.primaryText}>Join Battle</Text>
@@ -416,82 +421,110 @@ export default function BattleScreen() {
     </SafeAreaView>
   );
 }
-const makeStyles = (t: AppTheme) => StyleSheet.create({
-  safe: { flex: 1, backgroundColor: t.background },
-  center: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: spacing.screenX },
-  menu: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: spacing.screenX, gap: spacing.md },
-  play: { flex: 1, padding: spacing.screenX, gap: spacing.sm },
-  swords: { marginBottom: spacing.xs },
-  codeBox: {
-    backgroundColor: t.surface,
-    borderRadius: radius.lg,
-    borderWidth: 1,
-    borderColor: t.border,
-    paddingHorizontal: spacing.xl,
-    paddingVertical: spacing.lg,
-    alignItems: 'center',
-  },
-  codeLabel: { ...typography.caption, color: t.textSecondary, marginBottom: spacing.xxs },
-  code: { fontSize: 40, fontWeight: '900', letterSpacing: 6, color: t.primary },
-  waiting: { ...typography.bodySmall, color: t.textSecondary, marginTop: spacing.md, textAlign: 'center' },
-  ghostBtn: {
-    marginTop: spacing.lg,
-    paddingVertical: spacing.sm,
-    paddingHorizontal: spacing.xl,
-    borderRadius: radius.md,
-    backgroundColor: t.surfaceMuted,
-  },
-  ghostText: { ...typography.bodySmall, fontWeight: '700', color: t.textSecondary },
-  question: { ...typography.cardTitle, color: t.textPrimary, marginBottom: spacing.sm },
-  option: {
-    backgroundColor: t.surface,
-    borderRadius: radius.md,
-    borderWidth: 1,
-    borderColor: t.border,
-    padding: spacing.md,
-  },
-  optionText: { ...typography.bodySmall, color: t.textPrimary },
-  optionCorrect: { backgroundColor: t.successSoft, borderColor: t.success },
-  optionWrong: { backgroundColor: t.errorSoft, borderColor: t.error },
-  optionDim: { opacity: 0.5 },
-  optionTextCorrect: { color: t.success, fontWeight: '700' },
-  optionTextWrong: { color: t.error, fontWeight: '700' },
-  timer: { ...typography.caption, color: t.textTertiary, marginTop: spacing.sm, textAlign: 'center' },
-  timerDone: { ...typography.caption, color: t.textSecondary, fontWeight: '700', marginTop: spacing.sm, textAlign: 'center' },
-  timerUrgent: { color: t.error },
-  trophy: { marginBottom: spacing.sm },
-  scoreBig: { fontSize: 64, fontWeight: '900', color: t.textPrimary },
-  verdict: { ...typography.body, color: t.textSecondary, marginTop: spacing.xxs, textAlign: 'center' },
-  detail: { ...typography.caption, color: t.textTertiary, marginTop: spacing.xs },
-  primaryBtn: {
-    backgroundColor: t.primary,
-    borderRadius: radius.md,
-    paddingVertical: spacing.md,
-    paddingHorizontal: spacing.xl,
-    alignItems: 'center',
-    minWidth: 220,
-  },
-  primaryText: { ...typography.bodySmall, fontWeight: '800', color: '#fff' },
-  or: { ...typography.caption, color: t.textTertiary },
-  codeInput: {
-    borderWidth: 1,
-    borderColor: t.border,
-    borderRadius: radius.md,
-    backgroundColor: t.surface,
-    color: t.textPrimary,
-    fontSize: 24,
-    fontWeight: '800',
-    letterSpacing: 4,
-    textAlign: 'center',
-    paddingVertical: spacing.sm,
-    minWidth: 200,
-  },
-  joinBtn: {
-    backgroundColor: t.textPrimary,
-    borderRadius: radius.md,
-    paddingVertical: spacing.md,
-    paddingHorizontal: spacing.xl,
-    alignItems: 'center',
-    minWidth: 220,
-  },
-});
+const makeStyles = (t: AppTheme) =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: t.background },
+    center: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: spacing.screenX },
+    menu: {
+      flex: 1,
+      alignItems: 'center',
+      justifyContent: 'center',
+      padding: spacing.screenX,
+      gap: spacing.md,
+    },
+    play: { flex: 1, padding: spacing.screenX, gap: spacing.sm },
+    swords: { marginBottom: spacing.xs },
+    codeBox: {
+      backgroundColor: t.surface,
+      borderRadius: radius.lg,
+      borderWidth: 1,
+      borderColor: t.border,
+      paddingHorizontal: spacing.xl,
+      paddingVertical: spacing.lg,
+      alignItems: 'center',
+    },
+    codeLabel: { ...typography.caption, color: t.textSecondary, marginBottom: spacing.xxs },
+    code: { fontSize: 40, fontWeight: '900', letterSpacing: 6, color: t.primary },
+    waiting: {
+      ...typography.bodySmall,
+      color: t.textSecondary,
+      marginTop: spacing.md,
+      textAlign: 'center',
+    },
+    ghostBtn: {
+      marginTop: spacing.lg,
+      paddingVertical: spacing.sm,
+      paddingHorizontal: spacing.xl,
+      borderRadius: radius.md,
+      backgroundColor: t.surfaceMuted,
+    },
+    ghostText: { ...typography.bodySmall, fontWeight: '700', color: t.textSecondary },
+    question: { ...typography.cardTitle, color: t.textPrimary, marginBottom: spacing.sm },
+    option: {
+      backgroundColor: t.surface,
+      borderRadius: radius.md,
+      borderWidth: 1,
+      borderColor: t.border,
+      padding: spacing.md,
+    },
+    optionText: { ...typography.bodySmall, color: t.textPrimary },
+    optionCorrect: { backgroundColor: t.successSoft, borderColor: t.success },
+    optionWrong: { backgroundColor: t.errorSoft, borderColor: t.error },
+    optionDim: { opacity: 0.5 },
+    optionTextCorrect: { color: t.success, fontWeight: '700' },
+    optionTextWrong: { color: t.error, fontWeight: '700' },
+    timer: {
+      ...typography.caption,
+      color: t.textTertiary,
+      marginTop: spacing.sm,
+      textAlign: 'center',
+    },
+    timerDone: {
+      ...typography.caption,
+      color: t.textSecondary,
+      fontWeight: '700',
+      marginTop: spacing.sm,
+      textAlign: 'center',
+    },
+    timerUrgent: { color: t.error },
+    trophy: { marginBottom: spacing.sm },
+    scoreBig: { fontSize: 64, fontWeight: '900', color: t.textPrimary },
+    verdict: {
+      ...typography.body,
+      color: t.textSecondary,
+      marginTop: spacing.xxs,
+      textAlign: 'center',
+    },
+    detail: { ...typography.caption, color: t.textTertiary, marginTop: spacing.xs },
+    primaryBtn: {
+      backgroundColor: t.primary,
+      borderRadius: radius.md,
+      paddingVertical: spacing.md,
+      paddingHorizontal: spacing.xl,
+      alignItems: 'center',
+      minWidth: 220,
+    },
+    primaryText: { ...typography.bodySmall, fontWeight: '800', color: '#fff' },
+    or: { ...typography.caption, color: t.textTertiary },
+    codeInput: {
+      borderWidth: 1,
+      borderColor: t.border,
+      borderRadius: radius.md,
+      backgroundColor: t.surface,
+      color: t.textPrimary,
+      fontSize: 24,
+      fontWeight: '800',
+      letterSpacing: 4,
+      textAlign: 'center',
+      paddingVertical: spacing.sm,
+      minWidth: 200,
+    },
+    joinBtn: {
+      backgroundColor: t.textPrimary,
+      borderRadius: radius.md,
+      paddingVertical: spacing.md,
+      paddingHorizontal: spacing.xl,
+      alignItems: 'center',
+      minWidth: 220,
+    },
+  });

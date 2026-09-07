@@ -52,16 +52,16 @@ describe('determineWinner', () => {
 });
 
 describe('generateRoomCode', () => {
-  it('produces 6-char codes from an unambiguous alphabet', () => {
+  it('produces 8-char LK-prefixed codes from an unambiguous alphabet', () => {
     const code = generateRoomCode();
-    expect(code).toMatch(/^[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{6}$/);
+    expect(code).toMatch(/^LK[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{6}$/);
     expect(code).not.toMatch(/[01OI]/);
   });
 
   it('respects the injected rng (deterministic for tests)', () => {
-    // rng always < 1/31 → floor(rng * 31) is always 0 → 'AAAAAA'
+    // rng always < 1/31 → floor(rng * 31) is always 0 → 'LKAAAAAA'
     const code = generateRoomCode(() => 0);
-    expect(code).toBe('AAAAAA');
+    expect(code).toBe('LKAAAAAA');
   });
 });
 

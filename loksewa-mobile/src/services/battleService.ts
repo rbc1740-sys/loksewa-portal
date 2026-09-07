@@ -66,7 +66,7 @@ export async function createBattleRoom(
     throw new Error(`Need at least ${BATTLE_QUESTIONS} questions in this topic.`);
   }
 
-  // 6-char codes can collide: an overwrite of an existing doc fails the
+  // Codes can collide: an overwrite of an existing doc fails the
   // rules (create-time invariants don't apply to an update), so regenerate
   // and retry instead of surfacing a confusing permission error.
   let lastErr: unknown;
@@ -98,7 +98,10 @@ export async function createBattleRoom(
 
 /** Joins an existing room as guest; the seat claim also flips status to
  *  'active' (rules allow ['guest','guestUid','status']), starting the match. */
-export async function joinBattleRoom(roomCode: string, displayName: string): Promise<BattleRoomView> {
+export async function joinBattleRoom(
+  roomCode: string,
+  displayName: string
+): Promise<BattleRoomView> {
   const { getDoc, updateDoc } = await fs();
   const { getCurrentUser } = await auth();
   const user = getCurrentUser();
@@ -234,7 +237,7 @@ export async function subscribeRoom(
 
 /** A pool of question ids for the given topic (host freezes them at create). */
 export async function pickBattleQuestions(topic: string): Promise<string[]> {
-    const { getQuestionsByTopic } = await import('./database');
+  const { getQuestionsByTopic } = await import('./database');
   const qs = await getQuestionsByTopic(topic, 30);
   return qs.map(q => q.id);
 }
