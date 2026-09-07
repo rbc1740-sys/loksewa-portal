@@ -17,3 +17,4 @@ playwright-report/
 # (questions/ + mocks/ + mock-tests.json); regenerate via
 # scripts/convert-organized-to-portal.cjs if needed
 loksewa-mobile/organized/
+test-results/

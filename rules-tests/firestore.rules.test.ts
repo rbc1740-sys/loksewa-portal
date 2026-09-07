@@ -180,8 +180,10 @@ describe('battle_sessions (owner-scoped stats)', () => {
 
 describe('/battles rooms (1v1 real-time match docs)', () => {
   const ROOM = 'LKABC123';
+  // Matches the RoomDoc shape battleService.ts actually writes: a frozen
+  // 10-question paper (BATTLE_QUESTIONS == 10) instead of inline questions.
   const baseRoom = () => ({
-    code: ROOM,
+    roomCode: ROOM,
     host: 'Alice',
     hostUid: ALICE,
     hostScore: 0,
@@ -189,8 +191,8 @@ describe('/battles rooms (1v1 real-time match docs)', () => {
     guestUid: null,
     guestScore: 0,
     status: 'waiting',
-    questions: [{ id: 'q1', question: 'Q?', options: { a: '1', b: '2' } }],
-    created: Date.now(),
+    question_ids: Array.from({ length: 10 }, (_, i) => `q${i + 1}`),
+    created_at: Date.now(),
   });
   const asCarol = () => testEnv.authenticatedContext('carol-uid').firestore();
 
@@ -198,12 +200,35 @@ describe('/battles rooms (1v1 real-time match docs)', () => {
     await assertSucceeds(asAlice().collection('battles').doc(ROOM).set(baseRoom()));
   });
 
+  it('rejects a create whose frozen paper is not exactly 10 question ids', async () => {
+    await assertFails(
+      asAlice()
+        .collection('battles')
+        .doc('LKSHORT')
+        .set({
+          ...baseRoom(),
+          roomCode: 'LKSHORT',
+          question_ids: ['q1', 'q2'],
+        })
+    );
+    await assertFails(
+      asAlice()
+        .collection('battles')
+        .doc('LKNOQ')
+        .set({
+          ...baseRoom(),
+          roomCode: 'LKNOQ',
+          question_ids: 'q1,q2,q3,q4,q5,q6,q7,q8,q9,q10',
+        })
+    );
+  });
+
   it('rejects a hostUid forged by another user', async () => {
     await assertFails(
       asBob()
         .collection('battles')
         .doc('LKFORGED')
-        .set({ ...baseRoom(), code: 'LKFORGED' })
+        .set({ ...baseRoom(), roomCode: 'LKFORGED', hostUid: ALICE })
     );
   });
 
@@ -216,6 +241,7 @@ describe('/battles rooms (1v1 real-time match docs)', () => {
 
   it('allows the guest to claim the seat with only the permitted keys', async () => {
     await assertSucceeds(asAlice().collection('battles').doc(ROOM).set(baseRoom()));
+    // Seat claim starts the match: rules require the status flip to 'active'.
     await assertSucceeds(
       asBob().collection('battles').doc(ROOM).update({
         guest: 'Bob',
@@ -225,26 +251,47 @@ describe('/battles rooms (1v1 real-time match docs)', () => {
     );
   });
 
+  it('rejects a seat claim that does not start the match', async () => {
+    await assertSucceeds(asAlice().collection('battles').doc(ROOM).set(baseRoom()));
+    await assertFails(
+      asBob().collection('battles').doc(ROOM).update({ guest: 'Bob', guestUid: BOB })
+    );
+  });
+
   it('rejects an update touching keys outside the role-scoped set', async () => {
     await assertSucceeds(asAlice().collection('battles').doc(ROOM).set(baseRoom()));
-    // The guest may not forge the host's score or rewrite the question paper.
+    await asBob().collection('battles').doc(ROOM).update({
+      guest: 'Bob',
+      guestUid: BOB,
+      status: 'active',
+    });
+    // The guest may not forge the host's score or rewrite the frozen paper.
     await assertFails(asBob().collection('battles').doc(ROOM).update({ hostScore: 999 }));
-    await assertFails(asBob().collection('battles').doc(ROOM).update({ questions: [] }));
+    await assertFails(asBob().collection('battles').doc(ROOM).update({ question_ids: [] }));
     // The host may not write the guest's identity/score either.
     await assertFails(asAlice().collection('battles').doc(ROOM).update({ guestScore: 50 }));
   });
 
-  it('lets each participant publish only their own final score and status', async () => {
+  it('lets each participant publish only their own final score via the state machine', async () => {
     const ref = asAlice().collection('battles').doc(ROOM);
     await assertSucceeds(ref.set(baseRoom()));
     await assertSucceeds(
-      asBob().collection('battles').doc(ROOM).update({ guest: 'Bob', guestUid: BOB })
+      asBob().collection('battles').doc(ROOM).update({
+        guest: 'Bob',
+        guestUid: BOB,
+        status: 'active',
+      })
+    );
+    // Neither side may jump straight from 'active' to 'done'.
+    await assertFails(
+      asAlice().collection('battles').doc(ROOM).update({ hostScore: 120, status: 'done' })
     );
     await assertSucceeds(
       asAlice().collection('battles').doc(ROOM).update({ hostScore: 120, status: 'host_done' })
     );
+    // With the host done, the guest's legal transition is host_done -> done.
     await assertSucceeds(
-      asBob().collection('battles').doc(ROOM).update({ guestScore: 90, status: 'guest_done' })
+      asBob().collection('battles').doc(ROOM).update({ guestScore: 90, status: 'done' })
     );
   });
 
