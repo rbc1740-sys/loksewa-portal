@@ -122,11 +122,14 @@ test.describe('UI Tests - Visual & Usability', () => {
 
   test.describe('Responsive Layout', () => {
     test('syllabus grid adapts to viewport', async ({ page }) => {
+      const cards = page.locator('.topic-card');
+      // Cards render asynchronously after data load — wait for them before counting
+      await cards.first().waitFor({ state: 'attached', timeout: 30000 });
+
       // Desktop
       await page.setViewportSize({ width: 1280, height: 720 });
       await page.waitForTimeout(500);
 
-      const cards = page.locator('.topic-card');
       const desktopCount = await cards.count();
 
       // Mobile
@@ -135,6 +138,7 @@ test.describe('UI Tests - Visual & Usability', () => {
 
       const mobileCount = await cards.count();
       expect(mobileCount).toBe(desktopCount); // Same number of cards, just reflowed
+      expect(desktopCount).toBeGreaterThan(0);
     });
 
     test('practice view stacks on mobile', async ({ page }) => {
